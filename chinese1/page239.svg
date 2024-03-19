@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 262 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_262{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_262{
+fill: #3986C6;
+}
+.g3_262{
+fill: #DCDDDF;
+}
+.g4_262{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_262{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_262{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_262{
+fill: #ACBF3B;
+}
+.g8_262{
+fill: none;
+stroke: #ED692E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_262{
+fill: #ED692E;
+}
+.g10_262{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_262{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s2_262{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_d64;
+fill: #231F20;
+}
+.s3_262{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d66;
+fill: #231F20;
+}
+.s4_262{
+font-size: 32.08px;
+font-family: STKaiti_c-m;
+fill: #3986C6;
+}
+.s5_262{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d61;
+fill: #231F20;
+}
+.s6_262{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d5-;
+fill: #FFFFFF;
+}
+.s7_262{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s8_262{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_d62;
+fill: #FFFFFF;
+}
+.s9_262{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d5-;
+fill: #3986C6;
+}
+.s10_262{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d66;
+fill: #3986C6;
+}
+.s11_262{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s12_262{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_d6q;
+fill: #3986C6;
+}
+.s13_262{
+font-size: 22.92px;
+font-family: ProximaNova-Extrabld_d62;
+fill: #ED692E;
+}
+.s14_262{
+font-size: 12.22px;
+font-family: ProximaNova-Extrabld_d62;
+fill: #ED692E;
+}
+.s15_262{
+font-size: 12.22px;
+font-family: ProximaNova-Semibold_d64;
+fill: #565B6E;
+}
+.s16_262{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #ED682D;
+}
+.s17_262{
+font-size: 18.33px;
+font-family: Alegreya-Italic_d6p;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="855" 
+y="1149" 
+dx="0,0,0" 
+class="s1_262"
+>239</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_262" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_262" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 822)"
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_262"
+>Chapter 10 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 892)"
+dx="0,0" 
+class="s2_262"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 903)"
+dx="0,-1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_262"
+>Too Many Classes! </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1017)"
+dx="0,0" 
+class="s2_262"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1028)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_262"
+>Section 2</text>
+
+<path d="M89.5,82.5l55,0l0,36.3l-55,0l0,-36.3Zm55,0l130.4,0l0,36.3l-130.4,0l0,-36.3Zm130.4,0l135.6,0l0,36.3l-135.6,0l0,-36.3Zm135.6,0l394,0l0,36.3l-394,0l0,-36.3Z" class="g3_262" />
+<path d="M89.5,162.8l55,0" class="g4_262" />
+<path d="M144.5,162.8l130.4,0" class="g4_262" />
+<path d="M274.9,162.8l135.6,0" class="g4_262" />
+<path d="M410.5,162.8l394,0" class="g4_262" />
+<path d="M89.5,206.8l55,0" class="g4_262" />
+<path d="M144.5,206.8l130.4,0" class="g4_262" />
+<path d="M274.9,206.8l135.6,0" class="g4_262" />
+<path d="M410.5,206.8l394,0" class="g4_262" />
+<path d="M89.5,250.8l55,0" class="g4_262" />
+<path d="M144.5,250.8l130.4,0" class="g4_262" />
+<path d="M274.9,250.8l135.6,0" class="g4_262" />
+<path d="M410.5,250.8l394,0" class="g4_262" />
+<path d="M89.5,294.8l55,0" class="g5_262" />
+<path d="M144.5,294.8l130.4,0" class="g5_262" />
+<path d="M274.9,294.8l135.6,0" class="g5_262" />
+<path d="M410.5,294.8l394,0" class="g5_262" />
+<text 
+x="162" 
+y="107" 
+dx="0,-0.7,0,0" 
+class="s1_262"
+>Word</text>
+
+<text 
+x="293" 
+y="107" 
+dx="0,0,0,0,0,0" 
+class="s1_262"
+>Pinyin</text>
+
+<text 
+x="429" 
+y="107" 
+dx="0,0,0,0,0,0,0" 
+class="s1_262"
+>Meaning</text>
+
+<text 
+x="107" 
+y="148" 
+dx="0,0" 
+class="s3_262"
+>12</text>
+
+<text 
+x="158" 
+y="148" 
+dx="0" 
+class="s4_262"
+>比</text>
+
+<text 
+x="293" 
+y="148" 
+dx="0,0" 
+class="s5_262"
+>bǐ</text>
+
+<text 
+x="429" 
+y="148" 
+dx="0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_262"
+>compared with</text>
+
+<text 
+x="107" 
+y="192" 
+dx="0,0" 
+class="s3_262"
+>13</text>
+
+<text 
+x="156" 
+y="192" 
+dx="0" 
+class="s4_262"
+>更</text>
+
+<text 
+x="293" 
+y="192" 
+dx="0,0,0,0" 
+class="s5_262"
+>gèng</text>
+
+<text 
+x="429" 
+y="192" 
+dx="0,0,-0.3,0,0,0,0,0,-0.2" 
+class="s5_262"
+>even more</text>
+
+<text 
+x="107" 
+y="236" 
+dx="0,0" 
+class="s3_262"
+>14</text>
+
+<text 
+x="156" 
+y="236" 
+dx="0,0" 
+class="s4_262"
+>重要</text>
+
+<text 
+x="293" 
+y="236" 
+dx="0,0,0,0,0,0,-0.3,0" 
+class="s5_262"
+>zhòngyào</text>
+
+<text 
+x="429" 
+y="236" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_262"
+>important</text>
+
+<text 
+x="107" 
+y="280" 
+dx="0,0" 
+class="s3_262"
+>15</text>
+
+<text 
+x="155" 
+y="280" 
+dx="0,0" 
+class="s4_262"
+>上课</text>
+
+<text 
+x="293" 
+y="280" 
+dx="0,0,0,0,0,0,0,-0.4" 
+class="s5_262"
+>shàng kè</text>
+
+<text 
+x="429" 
+y="280" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_262"
+>to go to a class, to begin a class, to be in class</text>
+
+<path d="M107.1,831.4C97,831.4,88.8,823.2,88.8,813.1l0,-20.2l23.1,0c10.2,0,18.4,8.2,18.4,18.3l0,20.2Z" class="g2_262" />
+<path d="M94.6,793.5l361.9,0" class="g6_262" />
+<path d="M108.4,830.9l348.1,0" class="g6_262" />
+<text 
+x="93" 
+y="819" 
+dx="0,0,0" 
+class="s6_262"
+>2c </text>
+
+<text 
+x="135" 
+y="819" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_262"
+>Puzzle It Out </text>
+
+<path d="M310.1,822.7c-6,0,-10.8,-4.9,-10.8,-10.9l0,-10.8l144.1,0c6,0,10.8,4.8,10.8,10.8l0,10.9Z" class="g7_262" />
+<text 
+x="315" 
+y="815" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_262"
+>Pr³Gr²±± Ch²CK</text>
+
+<text 
+x="89" 
+y="873" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.4" 
+class="s5_262"
+>Complete the exercise below to check your understanding of what you learned in Section 2. </text>
+
+<text 
+x="88" 
+y="899" 
+dx="0,0,0,0,-0.3,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,-0.3,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s5_262"
+>If you have questions, consult the Language Reference section.</text>
+
+<text 
+x="89" 
+y="932" 
+dx="0,0,-0.6,0,0,0,0,0,0,0" 
+class="s9_262"
+>Exercise 1</text>
+
+<text 
+x="180" 
+y="932" 
+dx="0,-0.6,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0" 
+class="s5_262"
+>Rearrange the Chinese words and phrases in each row to translate the English </text>
+
+<text 
+x="89" 
+y="958" 
+dx="0,0,0,0,0,0,0,-0.3,0,-0.4" 
+class="s5_262"
+>sentences.</text>
+
+<text 
+x="88" 
+y="997" 
+dx="0" 
+class="s10_262"
+>1</text>
+
+<text 
+x="111" 
+y="1000" 
+dx="0,0,0,0" 
+class="s11_262"
+>我妈妈 </text>
+
+<text 
+x="216" 
+y="1000" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="240" 
+y="1000" 
+dx="0,0" 
+class="s11_262"
+>比 </text>
+
+<text 
+x="280" 
+y="1000" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="304" 
+y="1000" 
+dx="0,0,0" 
+class="s11_262"
+>面条 </text>
+
+<text 
+x="376" 
+y="1000" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="400" 
+y="1000" 
+dx="0,0" 
+class="s11_262"
+>更 </text>
+
+<text 
+x="440" 
+y="1000" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="464" 
+y="1000" 
+dx="0,0,0,0" 
+class="s11_262"
+>好吃。 </text>
+
+<text 
+x="569" 
+y="1000" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="593" 
+y="1000" 
+dx="0,0,0" 
+class="s11_262"
+>觉得 </text>
+
+<text 
+x="665" 
+y="1000" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="689" 
+y="1000" 
+dx="0,0" 
+class="s11_262"
+>饺子</text>
+
+<text 
+x="112" 
+y="1027" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s5_262"
+>My mom thinks that noodles are even tastier than dumplings.</text>
+
+<text 
+x="89" 
+y="1077" 
+dx="0" 
+class="s10_262"
+>2</text>
+
+<text 
+x="114" 
+y="1080" 
+dx="0,0" 
+class="s11_262"
+>更 </text>
+
+<text 
+x="154" 
+y="1080" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="178" 
+y="1080" 
+dx="0,0" 
+class="s11_262"
+>看 </text>
+
+<text 
+x="218" 
+y="1080" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="242" 
+y="1080" 
+dx="0,0" 
+class="s11_262"
+>打 </text>
+
+<text 
+x="282" 
+y="1080" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="306" 
+y="1080" 
+dx="0,0,0,0,0,0" 
+class="s11_262"
+>有意思 ! </text>
+
+<text 
+x="426" 
+y="1080" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="450" 
+y="1080" 
+dx="0,0,0,0" 
+class="s11_262"
+>乒乓球 </text>
+
+<text 
+x="554" 
+y="1080" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="578" 
+y="1080" 
+dx="0,0,0" 
+class="s11_262"
+>电影 </text>
+
+<text 
+x="650" 
+y="1080" 
+dx="0" 
+class="s12_262"
+>|</text>
+
+<text 
+x="674" 
+y="1080" 
+dx="0" 
+class="s11_262"
+>比</text>
+
+<text 
+x="115" 
+y="1107" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s5_262"
+>Playing ping-pong is even more fun than watching a movie!</text>
+
+<text 
+x="101" 
+y="453" 
+dx="0,0,0,-2.3,0,0,0,0" 
+class="s13_262"
+>Cu¶Tur²±</text>
+
+<text 
+x="108" 
+y="472" 
+dx="0" 
+class="s14_262"
+>C</text>
+
+<text 
+x="117" 
+y="472" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s15_262"
+>OMMUNITIES</text>
+
+<text 
+x="108" 
+y="487" 
+dx="0" 
+class="s14_262"
+>C</text>
+
+<text 
+x="117" 
+y="487" 
+dx="0,0,0,0,0,0,0,-0.1,-0.8,0,0,0" 
+class="s15_262"
+>OMMUNICATION</text>
+
+<text 
+x="108" 
+y="501" 
+dx="0" 
+class="s14_262"
+>C</text>
+
+<text 
+x="117" 
+y="501" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s15_262"
+>ONNECTIONS</text>
+
+<text 
+x="108" 
+y="516" 
+dx="0" 
+class="s14_262"
+>C</text>
+
+<text 
+x="117" 
+y="516" 
+dx="0,0,0,-0.9,0,0,0,0,0,0" 
+class="s15_262"
+>OMPARISONS</text>
+
+<path d="M222,357.7l560.5,0c15.2,0,27.5,12.3,27.5,27.5l0,348.7" class="g8_262" />
+<path d="M222,362.3c2.5,0,4.6,-2.1,4.6,-4.6c0,-2.5,-2.1,-4.6,-4.6,-4.6c-2.5,0,-4.6,2.1,-4.6,4.6c0,2.5,2.1,4.6,4.6,4.6Z" class="g9_262" />
+<path d="M146.5,365l-22.9,0l-3.7,12.4c0.6,-0.1,1.1,-0.1,1.6,-0.2c0.5,0,1,0,1.4,0c7.2,0,13.1,2.4,17.7,7.3c4.7,4.9,7,11.1,7,18.6c0,7.9,-2.6,14.3,-7.9,19.4c-5.2,5.1,-11.9,7.6,-19.9,7.6c-9.8,0,-17.6,-4.6,-23.3,-13.9l8.5,-7.1c2.4,3.9,4.7,6.8,7.1,8.4c2.4,1.6,5.3,2.4,8.7,2.4c4.5,0,8.3,-1.6,11.3,-4.7c3.1,-3.3,4.6,-7.2,4.6,-11.8c0,-4.8,-1.5,-8.7,-4.5,-11.7c-3,-3.1,-6.8,-4.6,-11.3,-4.6c-5.1,0,-9.4,2.2,-13.1,6.6l-3.7,0l11.7,-39.2l30.7,0Z" class="g2_262" />
+<path d="M179.7,363.7c6.9,0,13.6,2.7,20.1,8.1l0,-13.3c-6.2,-3.6,-12.7,-5.4,-19.3,-5.4c-12.3,0,-22.2,4.5,-29.9,13.6c-1.7,2,-3.1,4.1,-4.4,6.2l0,38.3c1.7,2.8,3.7,5.5,6.2,7.9c7.5,7.4,16.6,11.1,27.2,11.1c7.1,0,13.8,-1.8,20.2,-5.4l0,-13.5c-1.8,1.5,-3.5,2.8,-5.2,3.9c-1.7,1.1,-3.3,2,-4.8,2.6c-2.8,1.3,-6.1,2,-10.1,2c-7.6,0,-14.1,-2.7,-19.3,-8.1c-5.3,-5.4,-7.9,-11.9,-7.9,-19.7c0,-7.9,2.6,-14.6,7.9,-20.1c5.2,-5.5,11.7,-8.2,19.3,-8.2Z" class="g2_262" />
+<path d="M145.9,355.2l0,77.2" class="g10_262" />
+<path d="M146.7,522.6L146,709.1c-0.1,15.2,12.2,27.5,27.4,27.5l636.1,0" class="g10_262" />
+<path d="M809.5,741.2c2.5,0,4.6,-2.1,4.6,-4.6c0,-2.6,-2.1,-4.6,-4.6,-4.6c-2.5,0,-4.6,2,-4.6,4.6c0,2.5,2.1,4.6,4.6,4.6Z" class="g2_262" />
+<path d="M203.7,424.3c2.4,2.2,6.3,3.6,10.3,3.6c6.4,0,9.9,-3.2,9.9,-7.4c0,-5.7,-5.2,-6.8,-9.2,-7.5c-2.6,-0.6,-4.4,-1.1,-4.4,-2.5c0,-1.4,1.4,-2.2,3.6,-2.2c2.8,0,5.5,1.2,6.8,2.7l2.5,-4.1c-2.3,-1.9,-5.4,-3.2,-9.3,-3.2c-6.1,0,-9.4,3.4,-9.4,7.3c0,5.4,5.1,6.4,9,7.1c2.6,0.6,4.6,1.1,4.6,2.8c0,1.4,-1.2,2.3,-3.8,2.3c-2.9,0,-6.3,-1.6,-8,-3.1Z" class="g2_262" />
+<text 
+x="251" 
+y="396" 
+dx="0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.4" 
+class="s5_262"
+>In China, class often begins with the teacher saying “</text>
+
+<text 
+x="659" 
+y="399" 
+dx="0,-1.6" 
+class="s16_262"
+>上课</text>
+
+<text 
+x="707" 
+y="396" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,-0.4" 
+class="s5_262"
+>(shàng kè)” </text>
+
+<text 
+x="252" 
+y="420" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_262"
+>to indicate that class is starting. After the teacher announces that class </text>
+
+<text 
+x="252" 
+y="446" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_262"
+>is starting, students are usually expected to stand and greet the teacher </text>
+
+<text 
+x="252" 
+y="474" 
+dx="0,0,0,0,0,-0.4" 
+class="s5_262"
+>with “</text>
+
+<text 
+x="299" 
+y="473" 
+dx="0,-1.4,-1.1,-1.9" 
+class="s16_262"
+>老师好！</text>
+
+<text 
+x="376" 
+y="474" 
+dx="0" 
+class="s5_262"
+>”</text>
+
+<text 
+x="364" 
+y="723" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,-0.2,-0.3,0,0,0,-0.3" 
+class="s17_262"
+>A teacher instructing her class in Hebei Province</text>
+
+<image preserveAspectRatio="none" x="333" y="489" width="378" height="212" xlink:href="262/img/1.png" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Bold_d5-;
+	src: url("fonts/ProximaNova-Bold_d5-.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_d64;
+	src: url("fonts/ProximaNova-Semibold_d64.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_d62;
+	src: url("fonts/ProximaNova-Extrabld_d62.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d61;
+	src: url("fonts/Alegreya-Regular_d61.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti_c-m;
+	src: url("fonts/STKaiti_c-m.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Italic_d6p;
+	src: url("fonts/Alegreya-Italic_d6p.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_d66;
+	src: url("fonts/Alegreya-Bold_d66.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_d6q;
+	src: url("fonts/STKaitiSC-Regular_d6q.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

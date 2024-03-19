@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 132 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_132{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_132{
+fill: #3986C6;
+}
+.g3_132{
+fill: none;
+stroke: #ACBF3B;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_132{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_132{
+fill: #FFFFFF;
+}
+.g6_132{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_132{
+fill: #ACBF3B;
+}
+.g8_132{
+fill: none;
+stroke: #ACBF3B;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_132{
+fill: #DCDDDF;
+}
+.g10_132{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g11_132{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_132{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_132{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cw0;
+fill: #231F20;
+}
+.s2_132{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cvr;
+fill: #231F20;
+}
+.s3_132{
+font-size: 19.10px;
+font-family: Alegreya-Regular_cvz;
+fill: #231F20;
+}
+.s4_132{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s5_132{
+font-size: 32.08px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #3986C6;
+}
+.s6_132{
+font-size: 19.10px;
+font-family: Alegreya-Bold_cvx;
+fill: #3986C6;
+}
+.s7_132{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_cvr;
+fill: #231F20;
+}
+.s8_132{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_cvr;
+fill: #FFFFFF;
+}
+.s9_132{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_cvr;
+fill: #231F20;
+}
+.s10_132{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_cw7;
+fill: #FFFFFF;
+}
+.s11_132{
+font-size: 19.10px;
+font-family: Alegreya-Bold_cvx;
+fill: #231F20;
+}
+.s12_132{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #3986C6;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 776)"
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_132"
+>Chapter 5 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 841)"
+dx="0,0" 
+class="s1_132"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 852)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_132"
+>Sports in the Neighborhood </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1020)"
+dx="0,0" 
+class="s1_132"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1031)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_132"
+>Section 1</text>
+
+<text 
+x="856" 
+y="1149" 
+dx="0,0,0" 
+class="s2_132"
+>109</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_132" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_132" />
+<text 
+x="89" 
+y="149" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.2,0,0,-0.4,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,0" 
+class="s3_132"
+>Listen to the audio and try to understand as much as you can. Then read the dialogue, using </text>
+
+<text 
+x="90" 
+y="175" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,-0.4" 
+class="s3_132"
+>the pinyin text and vocabulary list to figure out unfamiliar words.</text>
+
+<text 
+x="152" 
+y="236" 
+dx="0" 
+class="s4_132"
+>你</text>
+
+<text 
+x="184" 
+y="236" 
+dx="0,0,0,0" 
+class="s5_132"
+>会打篮球</text>
+
+<text 
+x="313" 
+y="236" 
+dx="0,0" 
+class="s4_132"
+>吗？</text>
+
+<text 
+x="152" 
+y="295" 
+dx="0,0" 
+class="s4_132"
+>我不</text>
+
+<text 
+x="216" 
+y="295" 
+dx="0,0,0,0" 
+class="s5_132"
+>会打篮球</text>
+
+<text 
+x="345" 
+y="295" 
+dx="0" 
+class="s4_132"
+>。</text>
+
+<text 
+x="152" 
+y="353" 
+dx="0" 
+class="s4_132"
+>你</text>
+
+<text 
+x="184" 
+y="353" 
+dx="0,0,0,0,0" 
+class="s5_132"
+>会打乒乓球</text>
+
+<text 
+x="345" 
+y="353" 
+dx="0,0" 
+class="s4_132"
+>吗？</text>
+
+<text 
+x="152" 
+y="412" 
+dx="0,0,0,0" 
+class="s4_132"
+>我也不太</text>
+
+<text 
+x="281" 
+y="412" 
+dx="0,0,0,0,0" 
+class="s5_132"
+>会打乒乓球</text>
+
+<text 
+x="441" 
+y="412" 
+dx="0" 
+class="s4_132"
+>。</text>
+
+<text 
+x="152" 
+y="449" 
+dx="0" 
+class="s4_132"
+>我</text>
+
+<text 
+x="184" 
+y="449" 
+dx="0,0,0,0" 
+class="s5_132"
+>会踢足球</text>
+
+<text 
+x="313" 
+y="449" 
+dx="0" 
+class="s4_132"
+>。</text>
+
+<text 
+x="152" 
+y="507" 
+dx="0" 
+class="s4_132"
+>我</text>
+
+<text 
+x="184" 
+y="507" 
+dx="0,0,0,0" 
+class="s5_132"
+>会踢足球</text>
+
+<text 
+x="317" 
+y="507" 
+dx="0,4.5" 
+class="s4_132"
+>,也</text>
+
+<text 
+x="361" 
+y="507" 
+dx="0,0,0,0" 
+class="s5_132"
+>会打网球</text>
+
+<text 
+x="489" 
+y="507" 
+dx="0" 
+class="s4_132"
+>。</text>
+
+<text 
+x="544" 
+y="239" 
+dx="0,-0.2,0" 
+class="s3_132"
+>Nǐ </text>
+
+<text 
+x="567" 
+y="239" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_132"
+>huì dǎ lánqiú </text>
+
+<text 
+x="673" 
+y="239" 
+dx="0,0,0" 
+class="s3_132"
+>ma?</text>
+
+<text 
+x="544" 
+y="298" 
+dx="0,-1.4,0,0,0,0" 
+class="s3_132"
+>Wǒ bú </text>
+
+<text 
+x="597" 
+y="298" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_132"
+>huì dǎ lánqiú</text>
+
+<text 
+x="701" 
+y="298" 
+dx="0" 
+class="s3_132"
+>.</text>
+
+<text 
+x="544" 
+y="357" 
+dx="0,-0.2,0" 
+class="s3_132"
+>Nǐ </text>
+
+<text 
+x="567" 
+y="357" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s6_132"
+>huì dǎ pīngpāngqiú </text>
+
+<text 
+x="725" 
+y="357" 
+dx="0,0,0" 
+class="s3_132"
+>ma?</text>
+
+<text 
+x="544" 
+y="415" 
+dx="0,-1.4,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s3_132"
+>Wǒ yě bú tài </text>
+
+<text 
+x="642" 
+y="415" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0" 
+class="s6_132"
+>huì dǎ pīngpāngqiú</text>
+
+<text 
+x="797" 
+y="415" 
+dx="0" 
+class="s3_132"
+>.</text>
+
+<text 
+x="544" 
+y="453" 
+dx="0,-1.4,0" 
+class="s3_132"
+>Wǒ </text>
+
+<text 
+x="574" 
+y="453" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_132"
+>huì tī zúqiú</text>
+
+<text 
+x="664" 
+y="453" 
+dx="0" 
+class="s3_132"
+>.</text>
+
+<text 
+x="544" 
+y="509" 
+dx="0,-1.4" 
+class="s3_132"
+>Wǒ</text>
+
+<text 
+x="573" 
+y="509" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_132"
+>huì tī zúqiú</text>
+
+<text 
+x="663" 
+y="509" 
+dx="0,-0.4,0,-0.3,0" 
+class="s3_132"
+>, yě </text>
+
+<text 
+x="693" 
+y="509" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0" 
+class="s6_132"
+>huì dǎ wǎngqiú</text>
+
+<text 
+x="814" 
+y="509" 
+dx="0" 
+class="s3_132"
+>.</text>
+
+<text 
+x="498" 
+y="610" 
+dx="0" 
+class="s6_132"
+>T</text>
+
+<text 
+x="540" 
+y="610" 
+dx="0" 
+class="s6_132"
+>F</text>
+
+<text 
+x="123" 
+y="645" 
+dx="0" 
+class="s6_132"
+>1</text>
+
+<text 
+x="147" 
+y="645" 
+dx="0,-0.4,0,0,0,-0.4,0,0,-0.2,0,-1.5,0,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,0,0" 
+class="s3_132"
+>Sanjay can’t play basketball.</text>
+
+<path d="M504.1,647.9c5.7,0,10.4,-4.7,10.4,-10.5c0,-5.8,-4.7,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g3_132" />
+<path d="M545.7,647.9c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g3_132" />
+<text 
+x="124" 
+y="680" 
+dx="0" 
+class="s6_132"
+>2</text>
+
+<text 
+x="147" 
+y="680" 
+dx="0,-0.2,-0.4,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.3,-0.3,0,-1.5" 
+class="s3_132"
+>Maya can only play soccer.</text>
+
+<path d="M504.1,683.3c5.7,0,10.4,-4.7,10.4,-10.4c0,-5.8,-4.7,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.7,4.7,10.4,10.5,10.4Z" class="g3_132" />
+<path d="M545.7,683.3c5.8,0,10.5,-4.7,10.5,-10.4c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.7,4.7,10.4,10.5,10.4Z" class="g3_132" />
+<path d="M91.8,642.3l0,-60.5l330.4,0" class="g4_132" />
+<path d="M422.2,584.6c1.5,0,2.7,-1.2,2.7,-2.8c0,-1.5,-1.2,-2.7,-2.7,-2.7c-1.5,0,-2.8,1.2,-2.8,2.7c0,1.6,1.3,2.8,2.8,2.8Z" class="g2_132" />
+<path d="M107.2,595.8l223,0l0,-25l-223,0l0,25Z" class="g5_132" />
+<text 
+x="107" 
+y="586" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_132"
+>Comprehension Check</text>
+
+<path d="M386,573.5c5.5,10.7,1.2,23.9,-9.5,29.3c-10.8,5.5,-23.9,1.3,-29.4,-9.5c-5.5,-10.7,-1.2,-23.9,9.5,-29.4c10.8,-5.4,23.9,-1.2,29.4,9.6Z" class="g5_132" />
+<path d="M386,573.5c5.5,10.7,1.2,23.9,-9.5,29.3c-10.8,5.5,-23.9,1.3,-29.4,-9.5c-5.5,-10.7,-1.2,-23.9,9.5,-29.4c10.8,-5.4,23.9,-1.2,29.4,9.6Z" class="g6_132" />
+<path d="M393.6,561.6c-1.2,-1,-3,-0.7,-4.1,0.6L369,586.6c-1.1,1.3,-3,1.4,-4.2,0.2l-3,-2.9c-1.2,-1.2,-3,-1.3,-4.1,-0.2c-1.1,1.1,-1,3,0.2,4.2l7.3,7.1c1.2,1.2,3.1,1.1,4.2,-0.2l24.4,-29c1,-1.3,1,-3.2,-0.2,-4.2Z" class="g7_132" />
+<path d="M393.6,561.6c-1.2,-1,-3,-0.7,-4.1,0.6L369,586.6c-1.1,1.3,-3,1.4,-4.2,0.2l-3,-2.9c-1.2,-1.2,-3,-1.3,-4.1,-0.2c-1.1,1.1,-1,3,0.2,4.2l7.3,7.1c1.2,1.2,3.1,1.1,4.2,-0.2l24.4,-29c1,-1.3,1,-3.2,-0.2,-4.2Z" class="g8_132" />
+<path d="M109.7,111.4c-10.1,0,-18.3,-8.2,-18.3,-18.3L91.4,73l23.1,0c10.2,0,18.4,8.2,18.4,18.3l0,20.1Z" class="g2_132" />
+<path d="M100.9,73.6l508.9,0" class="g6_132" />
+<path d="M114.6,111.1l495.2,0" class="g6_132" />
+<text 
+x="99" 
+y="100" 
+dx="0,0,0" 
+class="s8_132"
+>1b </text>
+
+<text 
+x="142" 
+y="100" 
+dx="0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_132"
+>New Words in Conversation </text>
+
+<path d="M492.6,104.3c-6,0,-10.8,-4.8,-10.8,-10.8l0,-10.8l114.1,0c6,0,10.9,4.8,10.9,10.8l0,10.8Z" class="g7_132" />
+<text 
+x="497" 
+y="97" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_132"
+>interPretiVe</text>
+
+<image preserveAspectRatio="none" x="90" y="198" width="48" height="55" xlink:href="132/img/1.png" />
+<image preserveAspectRatio="none" x="90" y="320" width="48" height="55" xlink:href="132/img/2.png" />
+<image preserveAspectRatio="none" x="90" y="468" width="48" height="55" xlink:href="132/img/3.png" />
+<image preserveAspectRatio="none" x="90" y="261" width="48" height="53" xlink:href="132/img/4.png" />
+<image preserveAspectRatio="none" x="90" y="394" width="48" height="53" xlink:href="132/img/5.png" />
+<path d="M89.4,757.9l54.9,0l0,36.3l-54.9,0l0,-36.3Zm54.9,0l165.1,0l0,36.3l-165.1,0l0,-36.3Zm165.1,0l156.2,0l0,36.3l-156.2,0l0,-36.3Zm156.2,0l345.1,0l0,36.3l-345.1,0l0,-36.3Z" class="g9_132" />
+<path d="M89.4,1091.2l54.9,0" class="g10_132" />
+<path d="M144.3,1091.2l165.1,0" class="g10_132" />
+<path d="M309.4,1091.2l156.2,0" class="g10_132" />
+<path d="M465.6,1091.2l345.1,0" class="g10_132" />
+<path d="M89.4,1140.7l54.9,0" class="g11_132" />
+<path d="M144.3,1140.7l165.1,0" class="g11_132" />
+<path d="M309.4,1140.7l156.2,0" class="g11_132" />
+<path d="M465.6,1140.7l345.1,0" class="g11_132" />
+<path d="M89.4,893.2l54.9,0" class="g10_132" />
+<path d="M144.3,893.2l165.1,0" class="g10_132" />
+<path d="M309.4,893.2l156.2,0" class="g10_132" />
+<path d="M465.6,893.2l345.1,0" class="g10_132" />
+<path d="M89.4,942.7l54.9,0" class="g10_132" />
+<path d="M144.3,942.7l165.1,0" class="g10_132" />
+<path d="M309.4,942.7l156.2,0" class="g10_132" />
+<path d="M465.6,942.7l345.1,0" class="g10_132" />
+<path d="M89.4,992.2l54.9,0" class="g10_132" />
+<path d="M144.3,992.2l165.1,0" class="g10_132" />
+<path d="M309.4,992.2l156.2,0" class="g10_132" />
+<path d="M465.6,992.2l345.1,0" class="g10_132" />
+<path d="M89.4,1041.7l54.9,0" class="g10_132" />
+<path d="M144.3,1041.7l165.1,0" class="g10_132" />
+<path d="M309.4,1041.7l156.2,0" class="g10_132" />
+<path d="M465.6,1041.7l345.1,0" class="g10_132" />
+<path d="M89.4,843.7l54.9,0" class="g10_132" />
+<path d="M144.3,843.7l165.1,0" class="g10_132" />
+<path d="M309.4,843.7l156.2,0" class="g10_132" />
+<path d="M465.6,843.7l345.1,0" class="g10_132" />
+<text 
+x="162" 
+y="783" 
+dx="0,-0.7,0,0" 
+class="s2_132"
+>Word</text>
+
+<text 
+x="328" 
+y="783" 
+dx="0,0,0,0,0,0" 
+class="s2_132"
+>Pinyin</text>
+
+<text 
+x="484" 
+y="783" 
+dx="0,0,0,0,0,0,0" 
+class="s2_132"
+>Meaning</text>
+
+<text 
+x="107" 
+y="826" 
+dx="0,0" 
+class="s11_132"
+>1 </text>
+
+<text 
+x="159" 
+y="827" 
+dx="0" 
+class="s12_132"
+>会</text>
+
+<text 
+x="328" 
+y="826" 
+dx="0,0,0" 
+class="s3_132"
+>huì</text>
+
+<text 
+x="484" 
+y="826" 
+dx="0,-0.2,0,0,-0.4,0,0,0,-0.3,0,0,0,-0.3,0,0,0" 
+class="s3_132"
+>can, know how to</text>
+
+<text 
+x="107" 
+y="876" 
+dx="0" 
+class="s11_132"
+>2</text>
+
+<text 
+x="159" 
+y="876" 
+dx="0" 
+class="s12_132"
+>打</text>
+
+<text 
+x="328" 
+y="876" 
+dx="0,0" 
+class="s3_132"
+>dǎ</text>
+
+<text 
+x="484" 
+y="876" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s3_132"
+>to hit, to play (basketball, ping-pong)</text>
+
+<text 
+x="107" 
+y="925" 
+dx="0" 
+class="s11_132"
+>3</text>
+
+<text 
+x="157" 
+y="926" 
+dx="0,0" 
+class="s12_132"
+>篮球</text>
+
+<text 
+x="328" 
+y="925" 
+dx="0,0,0,0,0,0" 
+class="s3_132"
+>lánqiú</text>
+
+<text 
+x="484" 
+y="925" 
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_132"
+>basketball (the game and the object)</text>
+
+<text 
+x="106" 
+y="975" 
+dx="0" 
+class="s11_132"
+>4</text>
+
+<text 
+x="157" 
+y="975" 
+dx="0,0,0" 
+class="s12_132"
+>乒乓球</text>
+
+<text 
+x="327" 
+y="975" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_132"
+>pīngpāngqiú</text>
+
+<text 
+x="484" 
+y="975" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_132"
+>ping-pong, table tennis; ping-pong ball</text>
+
+<text 
+x="107" 
+y="1024" 
+dx="0" 
+class="s11_132"
+>5</text>
+
+<text 
+x="159" 
+y="1025" 
+dx="0" 
+class="s12_132"
+>踢</text>
+
+<text 
+x="328" 
+y="1024" 
+dx="0,0" 
+class="s3_132"
+>tī</text>
+
+<text 
+x="484" 
+y="1024" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.3,-0.3,0,0" 
+class="s3_132"
+>to kick, to play (soccer)</text>
+
+<text 
+x="107" 
+y="1074" 
+dx="0" 
+class="s11_132"
+>6</text>
+
+<text 
+x="157" 
+y="1074" 
+dx="0,0" 
+class="s12_132"
+>足球</text>
+
+<text 
+x="327" 
+y="1074" 
+dx="0,0,0,0,0" 
+class="s3_132"
+>zúqiú</text>
+
+<text 
+x="484" 
+y="1074" 
+dx="0,0,0,-0.3,-0.3,0,0,0,0,0,0,-0.3,-0.3,0,0,0,0,0,0" 
+class="s3_132"
+>soccer; soccer ball</text>
+
+<text 
+x="107" 
+y="1123" 
+dx="0" 
+class="s11_132"
+>7</text>
+
+<text 
+x="158" 
+y="1124" 
+dx="0,0" 
+class="s12_132"
+>网球</text>
+
+<text 
+x="327" 
+y="1123" 
+dx="0,-0.3,0,0,0,0,0" 
+class="s3_132"
+>wǎngqiú</text>
+
+<text 
+x="484" 
+y="1123" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_132"
+>tennis; tennis ball</text>
+
+<text 
+x="88" 
+y="744" 
+dx="0,-1.2,0,0,0,0,0,0,0,0" 
+class="s7_132"
+>Vocabulary</text>
+
+<path d="M203.3,740.7l611.1,0" class="g12_132" />
+<path d="M203.3,743.8c1.7,0,3.1,-1.4,3.1,-3.1c0,-1.7,-1.4,-3,-3.1,-3c-1.7,0,-3.1,1.3,-3.1,3c0,1.7,1.4,3.1,3.1,3.1Z" class="g2_132" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_cw7;
+	src: url("fonts/ProximaNova-Extrabld_cw7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cvr;
+	src: url("fonts/ProximaNova-Bold_cvr.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_cvx;
+	src: url("fonts/Alegreya-Bold_cvx.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cw0;
+	src: url("fonts/ProximaNova-Semibold_cw0.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_cvz;
+	src: url("fonts/Alegreya-Regular_cvz.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 206 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_206{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_206{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_206{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_206{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_206{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_206{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_206{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_206{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_3-1;
+fill: #872B91;
+}
+.s2_206{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3-1;
+fill: #8F4198;
+}
+.s3_206{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3-8;
+fill: #8F4198;
+}
+.s4_206{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3-f;
+fill: #3F3F40;
+}
+.s5_206{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s6_206{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s7_206{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3-1;
+fill: #872B91;
+}
+.s8_206{
+font-size: 22.92px;
+font-family: STKaiti-SC-Regular_3-n;
+fill: #3F3F40;
+}
+.s9_206{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s10_206{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s11_206{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_3-7;
+fill: #872B91;
+}
+.s12_206{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3-a;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,97.3l353.6,0" class="g1_206" />
+<path d="M0,99.8l353.6,0" class="g2_206" />
+<path d="M119.2,183.4l12.2,0" class="g3_206" />
+<text 
+x="55" 
+y="85" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,-0.5,0.3,0.3,0.3,0,0.3,0.3,0.3,0.3,0.3" 
+class="s1_206"
+>Language Practice</text>
+
+<text 
+x="119" 
+y="177" 
+dx="0,0" 
+class="s2_206"
+>A </text>
+
+<text 
+x="391" 
+y="182" 
+dx="0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_206"
+>Personality scale</text>
+
+<text 
+x="157" 
+y="239" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>Rate the following characters’ personalities on a scale of one to five, with one representing </text>
+
+<text 
+x="157" 
+y="268" 
+dx="0,0,0,0,0,0" 
+class="s5_206"
+>一点也不开朗</text>
+
+<text 
+x="299" 
+y="267" 
+dx="0" 
+class="s4_206"
+>/</text>
+
+<text 
+x="304" 
+y="268" 
+dx="0,0,0,0,0,0" 
+class="s6_206"
+>一點也不開朗</text>
+
+<text 
+x="449" 
+y="267" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s4_206"
+>(the least cheerful) and five </text>
+
+<text 
+x="635" 
+y="268" 
+dx="0,0,0,0" 
+class="s5_206"
+>非常开朗</text>
+
+<text 
+x="729" 
+y="267" 
+dx="0" 
+class="s4_206"
+>/</text>
+
+<text 
+x="734" 
+y="268" 
+dx="0,0" 
+class="s6_206"
+>非常</text>
+
+<text 
+x="157" 
+y="296" 
+dx="0,0" 
+class="s6_206"
+>開朗</text>
+
+<text 
+x="207" 
+y="294" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>(the most cheerful). </text>
+
+<text 
+x="157" 
+y="344" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_206"
+>Homer Simpson</text>
+
+<text 
+x="326" 
+y="344" 
+dx="0,0" 
+class="s4_206"
+>1 </text>
+
+<text 
+x="362" 
+y="344" 
+dx="0,0" 
+class="s4_206"
+>2 </text>
+
+<text 
+x="398" 
+y="344" 
+dx="0,0" 
+class="s4_206"
+>3 </text>
+
+<text 
+x="436" 
+y="344" 
+dx="0,0" 
+class="s4_206"
+>4 </text>
+
+<text 
+x="473" 
+y="344" 
+dx="0" 
+class="s4_206"
+>5</text>
+
+<text 
+x="157" 
+y="381" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_206"
+>Fred Flintstone</text>
+
+<text 
+x="326" 
+y="381" 
+dx="0,0" 
+class="s4_206"
+>1 </text>
+
+<text 
+x="362" 
+y="381" 
+dx="0,0" 
+class="s4_206"
+>2 </text>
+
+<text 
+x="398" 
+y="381" 
+dx="0,0" 
+class="s4_206"
+>3 </text>
+
+<text 
+x="436" 
+y="381" 
+dx="0,0" 
+class="s4_206"
+>4 </text>
+
+<text 
+x="473" 
+y="381" 
+dx="0" 
+class="s4_206"
+>5</text>
+
+<text 
+x="157" 
+y="418" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_206"
+>Ron Weasley</text>
+
+<text 
+x="326" 
+y="418" 
+dx="0,0" 
+class="s4_206"
+>1 </text>
+
+<text 
+x="362" 
+y="418" 
+dx="0,0" 
+class="s4_206"
+>2 </text>
+
+<text 
+x="398" 
+y="418" 
+dx="0,0" 
+class="s4_206"
+>3 </text>
+
+<text 
+x="436" 
+y="418" 
+dx="0,0" 
+class="s4_206"
+>4 </text>
+
+<text 
+x="473" 
+y="418" 
+dx="0" 
+class="s4_206"
+>5</text>
+
+<text 
+x="157" 
+y="454" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_206"
+>Hermione Granger</text>
+
+<text 
+x="326" 
+y="454" 
+dx="0,0" 
+class="s4_206"
+>1 </text>
+
+<text 
+x="362" 
+y="454" 
+dx="0,0" 
+class="s4_206"
+>2 </text>
+
+<text 
+x="398" 
+y="454" 
+dx="0,0" 
+class="s4_206"
+>3 </text>
+
+<text 
+x="436" 
+y="454" 
+dx="0,0" 
+class="s4_206"
+>4 </text>
+
+<text 
+x="473" 
+y="454" 
+dx="0" 
+class="s4_206"
+>5</text>
+
+<text 
+x="157" 
+y="491" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s7_206"
+>Batman</text>
+
+<text 
+x="326" 
+y="491" 
+dx="0,0" 
+class="s4_206"
+>1 </text>
+
+<text 
+x="362" 
+y="491" 
+dx="0,0" 
+class="s4_206"
+>2 </text>
+
+<text 
+x="398" 
+y="491" 
+dx="0,0" 
+class="s4_206"
+>3 </text>
+
+<text 
+x="436" 
+y="491" 
+dx="0,0" 
+class="s4_206"
+>4 </text>
+
+<text 
+x="473" 
+y="491" 
+dx="0" 
+class="s4_206"
+>5</text>
+
+<text 
+x="157" 
+y="528" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_206"
+>Superman</text>
+
+<text 
+x="326" 
+y="528" 
+dx="0,0" 
+class="s4_206"
+>1 </text>
+
+<text 
+x="362" 
+y="528" 
+dx="0,0" 
+class="s4_206"
+>2 </text>
+
+<text 
+x="398" 
+y="528" 
+dx="0,0" 
+class="s4_206"
+>3 </text>
+
+<text 
+x="436" 
+y="528" 
+dx="0,0" 
+class="s4_206"
+>4 </text>
+
+<text 
+x="473" 
+y="528" 
+dx="0" 
+class="s4_206"
+>5</text>
+
+<text 
+x="157" 
+y="564" 
+dx="0,0.2,0.2" 
+class="s7_206"
+>You</text>
+
+<text 
+x="326" 
+y="564" 
+dx="0,0" 
+class="s4_206"
+>1 </text>
+
+<text 
+x="362" 
+y="564" 
+dx="0,0" 
+class="s4_206"
+>2 </text>
+
+<text 
+x="398" 
+y="564" 
+dx="0,0" 
+class="s4_206"
+>3 </text>
+
+<text 
+x="436" 
+y="564" 
+dx="0,0" 
+class="s4_206"
+>4 </text>
+
+<text 
+x="473" 
+y="564" 
+dx="0" 
+class="s4_206"
+>5</text>
+
+<text 
+x="157" 
+y="615" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0" 
+class="s4_206"
+>Then, based on your ratings, make comparisons among the characters and yourself, e.g.:</text>
+
+<text 
+x="157" 
+y="663" 
+dx="0,0,0,0,0" 
+class="s8_206"
+>Homer</text>
+
+<text 
+x="222" 
+y="663" 
+dx="0,0" 
+class="s9_206"
+>没有</text>
+
+<text 
+x="274" 
+y="663" 
+dx="0,0,0,0" 
+class="s8_206"
+>Fred</text>
+
+<text 
+x="317" 
+y="663" 
+dx="0,0,0,0,0" 
+class="s9_206"
+>那么开朗。</text>
+
+<text 
+x="157" 
+y="703" 
+dx="0,0,0,0,0" 
+class="s8_206"
+>Homer</text>
+
+<text 
+x="222" 
+y="703" 
+dx="0,0" 
+class="s10_206"
+>沒有</text>
+
+<text 
+x="274" 
+y="703" 
+dx="0,0,0,0" 
+class="s8_206"
+>Fred</text>
+
+<text 
+x="317" 
+y="703" 
+dx="0,0,0,0,0" 
+class="s10_206"
+>那麼開朗。</text>
+
+<text 
+x="157" 
+y="765" 
+dx="0,0,0,0" 
+class="s8_206"
+>Fred</text>
+
+<text 
+x="199" 
+y="765" 
+dx="0" 
+class="s9_206"
+>比</text>
+
+<text 
+x="225" 
+y="765" 
+dx="0,0,0,0,0" 
+class="s8_206"
+>Homer</text>
+
+<text 
+x="291" 
+y="765" 
+dx="0,0,0,0,0" 
+class="s9_206"
+>开朗得多。</text>
+
+<text 
+x="157" 
+y="807" 
+dx="0,0,0,0" 
+class="s8_206"
+>Fred</text>
+
+<text 
+x="199" 
+y="807" 
+dx="0" 
+class="s10_206"
+>比</text>
+
+<text 
+x="225" 
+y="807" 
+dx="0,0,0,0,0" 
+class="s8_206"
+>Homer</text>
+
+<text 
+x="291" 
+y="807" 
+dx="0,0,0,0,0" 
+class="s10_206"
+>開朗得多。</text>
+
+<text 
+x="157" 
+y="855" 
+dx="0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.4,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0" 
+class="s4_206"
+>Finally, ask your class to vote on who has the most upbeat personality, using </text>
+
+<text 
+x="667" 
+y="857" 
+dx="0,0,0,0" 
+class="s5_206"
+>…最开朗</text>
+
+<text 
+x="762" 
+y="855" 
+dx="0,0" 
+class="s4_206"
+>/ </text>
+
+<text 
+x="157" 
+y="885" 
+dx="0,0,0,0" 
+class="s6_206"
+>…最開朗</text>
+
+<text 
+x="252" 
+y="883" 
+dx="0" 
+class="s4_206"
+>.</text>
+
+<path d="M146.6,146.9l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g4_206" />
+<path d="M148.7,199.1l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g5_206" />
+<text 
+x="721" 
+y="178" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s11_206"
+>PRESENTATIONAL</text>
+
+<path d="M719.9,181.8l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g6_206" />
+<path d="M881.9,1209.2l67.2,0l0,-1222.1l-67.2,0l0,1222.1Z" class="g7_206" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 870)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s12_206"
+>Lesson 6 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 936)"
+dx="0,1" 
+class="s12_206"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 950)"
+dx="0,1,1,1,1,1,1" 
+class="s12_206"
+>Dating </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1001)"
+dx="0,1" 
+class="s12_206"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1015)"
+dx="0,1,1,1,1,1,1,0.8,1,1,1,0.9,1,1,1,1,1,1" 
+class="s12_206"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1151)"
+dx="0,1,1,0" 
+class="s12_206"
+>183 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Medium_3-7;
+	src: url("fonts/LibreFranklin-Medium_3-7.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3-8;
+	src: url("fonts/LibreFranklin-Bold_3-8.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3-n;
+	src: url("fonts/STKaiti-SC-Regular_3-n.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3-a;
+	src: url("fonts/LibreFranklin-SemiBold_3-a.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3-f;
+	src: url("fonts/LibreFranklin-Regular_3-f.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3-1;
+	src: url("fonts/LibreFranklin-ExtraBold_3-1.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

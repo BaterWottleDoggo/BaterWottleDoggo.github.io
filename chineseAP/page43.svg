@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 66 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_66"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_66{
+fill: #231F20;
+}
+.g2_66{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_66{
+fill: #FFFFFF;
+}
+.g4_66{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_66{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_66{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_66{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_66{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_66{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_66{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_cmk;
+fill: #007598;
+}
+.s2_66{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_cmk;
+fill: #007D9F;
+}
+.s3_66{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_cmd;
+fill: #007D9F;
+}
+.s4_66{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #3F3F40;
+}
+.s5_66{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cmm;
+fill: #3F3F40;
+}
+.s6_66{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s7_66{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cmk;
+fill: #3F3F40;
+}
+.s8_66{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s9_66{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #007D9F;
+}
+.s10_66{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s11_66{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #007D9F;
+}
+.s12_66{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_co8;
+fill: #3F3F40;
+}
+.s13_66{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_cic;
+fill: #3F3F40;
+}
+.s14_66{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cl_;
+fill: #231F20;
+}
+.s15_66{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_co9;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_66)">
+<path d="M-883.7,548.1c0,0,152.4,11.2,236.7,3.5C-390.3,528,-180.7,457.6,3.8,338.5C2.9,290,1.5,-13.6,1.5,-13.6l-886.3,-0.7Z" class="g1_66" />
+</g>
+<image preserveAspectRatio="none" x="-1" y="-1" width="1" height="571" xlink:href="66/img/1.png" />
+<g clip-path="url(#c0_66)">
+<path d="M-883.7,548.1c0,0,152.4,11.2,236.7,3.5C-390.3,528,-180.7,457.6,3.8,338.5C2.9,290,1.5,-13.6,1.5,-13.6l-886.3,-0.7l1.1,562.4Z" class="g2_66" />
+</g>
+<path d="M0,359.9l39,0L39,0L0,0L0,359.9Z" class="g3_66" />
+<path d="M0,83.4l204.6,0" class="g4_66" />
+<path d="M0,85.9l204.6,0" class="g5_66" />
+<path d="M119.2,169.5l16.8,0" class="g6_66" />
+<text 
+x="55" 
+y="72" 
+dx="0,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_66"
+>Grammar</text>
+
+<text 
+x="119" 
+y="163" 
+dx="0,0" 
+class="s2_66"
+>1 </text>
+
+<text 
+x="363" 
+y="168" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_66"
+>The modal particle </text>
+
+<text 
+x="573" 
+y="168" 
+dx="0" 
+class="s4_66"
+>啊</text>
+
+<text 
+x="157" 
+y="230" 
+dx="0,0,0.4,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0" 
+class="s5_66"
+>It’s common, especially in spoken Chinese, to place a particle at the end of a sentence in order to </text>
+
+<text 
+x="157" 
+y="257" 
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_66"
+>convey a particular emotion. Among such particles, </text>
+
+<text 
+x="503" 
+y="259" 
+dx="0" 
+class="s6_66"
+>啊</text>
+
+<text 
+x="529" 
+y="257" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_66"
+>is the most frequently used, and it can </text>
+
+<text 
+x="157" 
+y="285" 
+dx="0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s5_66"
+>express a wide range of emotions.</text>
+
+<text 
+x="157" 
+y="317" 
+dx="0,0,0,0,0,0,0" 
+class="s5_66"
+>First, </text>
+
+<text 
+x="194" 
+y="318" 
+dx="0" 
+class="s6_66"
+>啊</text>
+
+<text 
+x="221" 
+y="317" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-1.5,-0.3,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_66"
+>can be used in exclamatory sentences, as in this example from the Text of this lesson:</text>
+
+<text 
+x="169" 
+y="373" 
+dx="0,0" 
+class="s7_66"
+>A </text>
+
+<text 
+x="239" 
+y="376" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_66"
+>看起来，南京人真的是想尽可能保留老南京的特色、</text>
+
+<text 
+x="239" 
+y="409" 
+dx="0,0,0,0,0,0" 
+class="s8_66"
+>老南京的传统</text>
+
+<text 
+x="395" 
+y="409" 
+dx="0" 
+class="s9_66"
+>啊</text>
+
+<text 
+x="421" 
+y="409" 
+dx="0" 
+class="s8_66"
+>。</text>
+
+<text 
+x="239" 
+y="450" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_66"
+>看起來，南京人真的是想儘可能保留老南京的特色、</text>
+
+<text 
+x="239" 
+y="483" 
+dx="0,0,0,0,0,0" 
+class="s10_66"
+>老南京的傳統</text>
+
+<text 
+x="395" 
+y="483" 
+dx="0" 
+class="s11_66"
+>啊</text>
+
+<text 
+x="421" 
+y="483" 
+dx="0" 
+class="s10_66"
+>。</text>
+
+<text 
+x="245" 
+y="517" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_66"
+>It seems that Nanjingers really do want to preserve the character and traditions of old </text>
+
+<text 
+x="245" 
+y="537" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_66"
+>Nanjing as much as possible.</text>
+
+<text 
+x="157" 
+y="577" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_66"
+>By adding </text>
+
+<text 
+x="227" 
+y="578" 
+dx="0" 
+class="s6_66"
+>啊</text>
+
+<text 
+x="251" 
+y="577" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_66"
+>, Lisha heightens the effect of what she’s saying. (B), (C), and (D) show the particle </text>
+
+<text 
+x="157" 
+y="604" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1" 
+class="s5_66"
+>used in the same way.</text>
+
+<text 
+x="169" 
+y="661" 
+dx="0,0" 
+class="s7_66"
+>B </text>
+
+<text 
+x="239" 
+y="663" 
+dx="0,0,0,0,0,0,0" 
+class="s8_66"
+>你的字写得多好</text>
+
+<text 
+x="421" 
+y="663" 
+dx="0" 
+class="s9_66"
+>哇</text>
+
+<text 
+x="454" 
+y="663" 
+dx="0,0.3,0.3,0.3" 
+class="s12_66"
+>(wa)</text>
+
+<text 
+x="483" 
+y="663" 
+dx="0" 
+class="s8_66"
+>！</text>
+
+<text 
+x="239" 
+y="703" 
+dx="0,0,0,0,0,0,0" 
+class="s10_66"
+>你的字寫得多好</text>
+
+<text 
+x="421" 
+y="703" 
+dx="0" 
+class="s11_66"
+>哇</text>
+
+<text 
+x="454" 
+y="703" 
+dx="0,0.3,0.3,0.3" 
+class="s12_66"
+>(wa)</text>
+
+<text 
+x="483" 
+y="703" 
+dx="0" 
+class="s10_66"
+>！</text>
+
+<text 
+x="245" 
+y="737" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s5_66"
+>What great handwriting you have!</text>
+
+<text 
+x="169" 
+y="796" 
+dx="0,0" 
+class="s7_66"
+>C </text>
+
+<text 
+x="239" 
+y="798" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_66"
+>这里的青菜好新鲜</text>
+
+<text 
+x="447" 
+y="798" 
+dx="0" 
+class="s9_66"
+>哪</text>
+
+<text 
+x="480" 
+y="798" 
+dx="0,0.3,0.3,0.3" 
+class="s12_66"
+>(na)</text>
+
+<text 
+x="507" 
+y="798" 
+dx="0" 
+class="s8_66"
+>！</text>
+
+<text 
+x="239" 
+y="839" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_66"
+>這裡的青菜好新鮮</text>
+
+<text 
+x="447" 
+y="839" 
+dx="0" 
+class="s11_66"
+>哪</text>
+
+<text 
+x="480" 
+y="839" 
+dx="0,0.3,0.3,0.3" 
+class="s12_66"
+>(na)</text>
+
+<text 
+x="507" 
+y="839" 
+dx="0" 
+class="s10_66"
+>！</text>
+
+<text 
+x="245" 
+y="872" 
+dx="0,0,0,0,0,-0.4,0,-0.1,-0.1,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0" 
+class="s5_66"
+>The vegetables are really fresh here!</text>
+
+<text 
+x="169" 
+y="931" 
+dx="0,0" 
+class="s7_66"
+>D </text>
+
+<text 
+x="239" 
+y="933" 
+dx="0,0,0,0,0,0,0" 
+class="s8_66"
+>你听，鞭炮多响</text>
+
+<text 
+x="421" 
+y="933" 
+dx="0" 
+class="s9_66"
+>啊</text>
+
+<text 
+x="454" 
+y="933" 
+dx="0,0.3,0.3,0.3" 
+class="s13_66"
+>(ŋa)</text>
+
+<text 
+x="481" 
+y="933" 
+dx="0" 
+class="s8_66"
+>！</text>
+
+<text 
+x="239" 
+y="974" 
+dx="0,0,0,0,0,0,0" 
+class="s10_66"
+>你聽，鞭炮多響</text>
+
+<text 
+x="421" 
+y="974" 
+dx="0" 
+class="s11_66"
+>啊</text>
+
+<text 
+x="454" 
+y="974" 
+dx="0,0.3,0.3,0.3" 
+class="s13_66"
+>(ŋa)</text>
+
+<text 
+x="481" 
+y="974" 
+dx="0" 
+class="s10_66"
+>！</text>
+
+<text 
+x="245" 
+y="1007" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s5_66"
+>Listen, the firecrackers are really loud!</text>
+
+<text 
+x="157" 
+y="1042" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s5_66"
+>As suggested by the parenthetical notations, the pronunciation of the particle is sometimes </text>
+
+<text 
+x="157" 
+y="1069" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_66"
+>influenced by the preceding syllable. After “-ao,” it can sound like (and be written as) </text>
+
+<text 
+x="720" 
+y="1071" 
+dx="0" 
+class="s6_66"
+>哇</text>
+
+<text 
+x="157" 
+y="1097" 
+dx="0,0.3,0.3,0.3" 
+class="s12_66"
+>(wa)</text>
+
+<text 
+x="187" 
+y="1097" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_66"
+>, as in (B). After “n,” it can sound like (and be written as) </text>
+
+<text 
+x="553" 
+y="1098" 
+dx="0" 
+class="s6_66"
+>哪</text>
+
+<text 
+x="580" 
+y="1097" 
+dx="0,0.3,0.3,0.3" 
+class="s12_66"
+>(na)</text>
+
+<text 
+x="608" 
+y="1097" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_66"
+>, as in (C). After “-ng,” it is </text>
+
+<text 
+x="157" 
+y="1124" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_66"
+>pronounced “</text>
+
+<text 
+x="248" 
+y="1124" 
+dx="0,0.3" 
+class="s13_66"
+>ŋa</text>
+
+<text 
+x="264" 
+y="1124" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s5_66"
+>,” as in (D). Note that after “-i,” “-a,” and “o,” </text>
+
+<text 
+x="550" 
+y="1126" 
+dx="0" 
+class="s6_66"
+>呀</text>
+
+<text 
+x="577" 
+y="1124" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_66"
+>can be used in place of </text>
+
+<text 
+x="732" 
+y="1126" 
+dx="0" 
+class="s6_66"
+>啊</text>
+
+<text 
+x="759" 
+y="1124" 
+dx="0,-0.3,0,0" 
+class="s5_66"
+>for </text>
+
+<text 
+x="157" 
+y="1152" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_66"
+>ease of pronunciation, as in (E):</text>
+
+<path d="M146.6,133.1l0,53.4l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.4l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g7_66" />
+<path d="M148.7,185.3l674.3,0l0,-51l-674.3,0l0,51Z" class="g8_66" />
+<path d="M164.4,350.5c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g7_66" />
+<path d="M164.4,352.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_66" />
+<path d="M164.4,637.7c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g7_66" />
+<path d="M164.4,639.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_66" />
+<path d="M164.4,772.9c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g7_66" />
+<path d="M164.4,775c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_66" />
+<path d="M164.4,908.1c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g7_66" />
+<path d="M164.4,910.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_66" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g9_66" />
+<text 
+x="882" 
+y="1166" 
+dx="0,1.2,0" 
+class="s14_66"
+>43 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 792)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s15_66"
+>Lesson 12 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 881)"
+dx="0,1.2" 
+class="s15_66"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 899)"
+dx="0,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s15_66"
+>Changes in China </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1043)"
+dx="0,1.2" 
+class="s15_66"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1060)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s15_66"
+>Grammar</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: GentiumBasic-Italic_cic;
+	src: url("fonts/GentiumBasic-Italic_cic.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cmm;
+	src: url("fonts/LibreFranklin-Regular_cmm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_cmd;
+	src: url("fonts/LibreFranklin-Bold_cmd.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cl_;
+	src: url("fonts/LibreFranklin-Medium_cl_.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_co8;
+	src: url("fonts/GentiumBasic-Italic_co8.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cmk;
+	src: url("fonts/LibreFranklin-ExtraBold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_co9;
+	src: url("fonts/LibreFranklin-SemiBold_co9.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

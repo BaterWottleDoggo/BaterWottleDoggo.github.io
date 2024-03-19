@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 18 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_18{
+fill: #438CCA;
+}
+.g2_18{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_18{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_18{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.7638889;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 0,2;
+}
+
+.s1_18{
+font-size: 13.75px;
+font-family: MuseoSlab-700_ce3;
+fill: #808285;
+}
+.s2_18{
+font-size: 30.56px;
+font-family: LibreFranklin-ExtraBold_cdg;
+fill: #808285;
+}
+.s3_18{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_cdg;
+fill: #FFFFFF;
+}
+.s4_18{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_cdg;
+fill: #438CCA;
+}
+.s5_18{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #438CCA;
+}
+.s6_18{
+font-size: 22.92px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #438CCA;
+}
+.s7_18{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cc_;
+fill: #808285;
+}
+.s8_18{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cc_;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="867" 
+y="1166" 
+dx="0,0,0,0" 
+class="s1_18"
+>xvii</text>
+
+<text 
+x="89" 
+y="84" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_18"
+>Scope &amp; Sequence</text>
+
+<path d="M89.4,102.8l123.7,0l0,31.6l-123.7,0l0,-31.6Zm123.7,0l169.4,0l0,31.6l-169.4,0l0,-31.6Zm169.4,0l173,0l0,31.6l-173,0l0,-31.6Zm173,0l165.8,0l0,31.6l-165.8,0l0,-31.6Zm165.8,0l138.1,0l0,31.6l-138.1,0l0,-31.6Z" class="g1_18" />
+<path d="M213.1,370.1l0,-235.1" class="g2_18" />
+<path d="M382.5,370.1l0,-235.1" class="g2_18" />
+<path d="M555.5,370.1l0,-235.1" class="g2_18" />
+<path d="M721.3,370.1l0,-235.1" class="g2_18" />
+<path d="M213.1,661.5l0,-290.2" class="g2_18" />
+<path d="M382.5,661.5l0,-290.2" class="g2_18" />
+<path d="M555.5,661.5l0,-290.2" class="g2_18" />
+<path d="M721.3,661.5l0,-290.2" class="g2_18" />
+<path d="M213.1,963.6l0,-301" class="g2_18" />
+<path d="M382.5,963.6l0,-301" class="g2_18" />
+<path d="M555.5,963.6l0,-301" class="g2_18" />
+<path d="M721.3,963.6l0,-301" class="g2_18" />
+<path d="M213.1,133.8l0,-30.4" class="g2_18" />
+<path d="M382.5,133.8l0,-30.4" class="g2_18" />
+<path d="M555.5,133.8l0,-30.4" class="g2_18" />
+<path d="M721.3,133.8l0,-30.4" class="g2_18" />
+<path d="M89.4,370.7l123.7,0" class="g3_18" />
+<path d="M721.3,370.7l138.1,0" class="g3_18" />
+<path d="M89.4,662l123.7,0" class="g3_18" />
+<path d="M721.3,662l138.1,0" class="g3_18" />
+<path d="M89.4,964.2l123.7,0" class="g3_18" />
+<path d="M721.3,964.2l138.1,0" class="g3_18" />
+<path d="M213.1,368.6l0,-232.9" class="g4_18" />
+<path d="M382.5,368.6l0,-232.9" class="g4_18" />
+<path d="M555.5,368.6l0,-232.9" class="g4_18" />
+<path d="M721.3,368.6l0,-232.9" class="g4_18" />
+<path d="M213.1,659.9l0,-287.8" class="g4_18" />
+<path d="M382.5,659.9l0,-287.8" class="g4_18" />
+<path d="M555.5,659.9l0,-287.8" class="g4_18" />
+<path d="M721.3,659.9l0,-287.8" class="g4_18" />
+<path d="M213.1,962.1l0,-298.7" class="g4_18" />
+<path d="M382.5,962.1l0,-298.7" class="g4_18" />
+<path d="M555.5,962.1l0,-298.7" class="g4_18" />
+<path d="M721.3,962.1l0,-298.7" class="g4_18" />
+<path d="M213.1,370.7l169.4,0" class="g3_18" />
+<path d="M382.5,370.7l173,0" class="g3_18" />
+<path d="M555.5,370.7l165.8,0" class="g3_18" />
+<path d="M213.1,662l169.4,0" class="g3_18" />
+<path d="M382.5,662l173,0" class="g3_18" />
+<path d="M555.5,662l165.8,0" class="g3_18" />
+<path d="M213.1,964.2l169.4,0" class="g3_18" />
+<path d="M382.5,964.2l173,0" class="g3_18" />
+<path d="M555.5,964.2l165.8,0" class="g3_18" />
+<path d="M89.4,102.8l123.7,0" class="g3_18" />
+<path d="M213.1,102.8l169.4,0" class="g3_18" />
+<path d="M382.5,102.8l173,0" class="g3_18" />
+<path d="M555.5,102.8l165.8,0" class="g3_18" />
+<path d="M721.3,102.8l138.1,0" class="g3_18" />
+<path d="M89.4,134.4l123.7,0" class="g3_18" />
+<path d="M213.1,134.4l169.4,0" class="g3_18" />
+<path d="M382.5,134.4l173,0" class="g3_18" />
+<path d="M555.5,134.4l165.8,0" class="g3_18" />
+<path d="M721.3,134.4l138.1,0" class="g3_18" />
+<path d="M213.1,132.3l0,-28.2" class="g4_18" />
+<path d="M382.5,132.3l0,-28.2" class="g4_18" />
+<path d="M555.5,132.3l0,-28.2" class="g4_18" />
+<path d="M721.3,132.3l0,-28.2" class="g4_18" />
+<text 
+x="100" 
+y="125" 
+dx="0,0,0,0,0,0" 
+class="s3_18"
+>Lesson</text>
+
+<text 
+x="222" 
+y="125" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s3_18"
+>Learning Objectives</text>
+
+<text 
+x="393" 
+y="125" 
+dx="0,0,-0.1,0,0,0,0" 
+class="s3_18"
+>Grammar</text>
+
+<text 
+x="561" 
+y="125" 
+dx="0,-1.2,0,-0.2,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s3_18"
+>Words &amp; Phrases</text>
+
+<text 
+x="732" 
+y="125" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.3,0,-0.1,0,0" 
+class="s3_18"
+>Cultural Literacy</text>
+
+<text 
+x="100" 
+y="156" 
+dx="0,0,0" 
+class="s4_18"
+>11 </text>
+
+<text 
+x="100" 
+y="187" 
+dx="0,0,0" 
+class="s5_18"
+>中国的</text>
+
+<text 
+x="100" 
+y="211" 
+dx="0,0,0" 
+class="s5_18"
+>节日/</text>
+
+<text 
+x="100" 
+y="234" 
+dx="0,0,0" 
+class="s6_18"
+>中國的</text>
+
+<text 
+x="100" 
+y="258" 
+dx="0,0" 
+class="s6_18"
+>節日</text>
+
+<text 
+x="100" 
+y="282" 
+dx="0,0,0,0,0,0,-0.6,0" 
+class="s4_18"
+>China’s </text>
+
+<text 
+x="100" 
+y="298" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_18"
+>Holidays</text>
+
+<text 
+x="222" 
+y="157" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="157" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Name major Chinese </text>
+
+<text 
+x="229" 
+y="175" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0" 
+class="s8_18"
+>holidays, give their </text>
+
+<text 
+x="229" 
+y="194" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>dates, and identify </text>
+
+<text 
+x="229" 
+y="212" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>foods with which </text>
+
+<text 
+x="229" 
+y="230" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s8_18"
+>they are associated</text>
+
+<text 
+x="222" 
+y="256" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="256" 
+dx="0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Express Chinese </text>
+
+<text 
+x="229" 
+y="274" 
+dx="0,0,0,0,0,-1.5,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>New Year wishes</text>
+
+<text 
+x="222" 
+y="299" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="299" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Describe Chinese </text>
+
+<text 
+x="229" 
+y="317" 
+dx="0,0,0,0,0,-1.5,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s8_18"
+>New Year customs</text>
+
+<text 
+x="222" 
+y="343" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="343" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Wish others success </text>
+
+<text 
+x="229" 
+y="361" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>or good health</text>
+
+<text 
+x="393" 
+y="157" 
+dx="0,0,0" 
+class="s8_18"
+>1. </text>
+
+<text 
+x="406" 
+y="157" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0" 
+class="s8_18"
+>Adjective/verb + </text>
+
+<text 
+x="406" 
+y="182" 
+dx="0" 
+class="s5_18"
+>着</text>
+
+<text 
+x="429" 
+y="182" 
+dx="0" 
+class="s8_18"
+>/</text>
+
+<text 
+x="434" 
+y="182" 
+dx="0" 
+class="s6_18"
+>著</text>
+
+<text 
+x="460" 
+y="182" 
+dx="0,0,0,-0.4,0,0" 
+class="s8_18"
+>+ verb</text>
+
+<text 
+x="393" 
+y="213" 
+dx="0,0,0" 
+class="s8_18"
+>2. </text>
+
+<text 
+x="406" 
+y="213" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>The preposition </text>
+
+<text 
+x="516" 
+y="213" 
+dx="0" 
+class="s5_18"
+>以</text>
+
+<text 
+x="393" 
+y="243" 
+dx="0,0" 
+class="s8_18"
+>3.</text>
+
+<text 
+x="406" 
+y="243" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>The particle </text>
+
+<text 
+x="490" 
+y="243" 
+dx="0" 
+class="s5_18"
+>嘛</text>
+
+<text 
+x="393" 
+y="272" 
+dx="0,0" 
+class="s8_18"
+>4.</text>
+
+<text 
+x="406" 
+y="272" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s8_18"
+>The pattern </text>
+
+<text 
+x="406" 
+y="297" 
+dx="0,0,0,0,0,0" 
+class="s5_18"
+>（先）…再…</text>
+
+<text 
+x="561" 
+y="157" 
+dx="0,0,0" 
+class="s8_18"
+>A. </text>
+
+<text 
+x="578" 
+y="157" 
+dx="0,-0.9,0,0,0,0,0" 
+class="s8_18"
+>Verb + </text>
+
+<text 
+x="624" 
+y="157" 
+dx="0,0" 
+class="s5_18"
+>起来</text>
+
+<text 
+x="670" 
+y="157" 
+dx="0,0" 
+class="s8_18"
+>/ </text>
+
+<text 
+x="578" 
+y="180" 
+dx="0,0" 
+class="s6_18"
+>起來</text>
+
+<text 
+x="561" 
+y="211" 
+dx="0,0,0" 
+class="s8_18"
+>B. </text>
+
+<text 
+x="578" 
+y="211" 
+dx="0,0" 
+class="s5_18"
+>传统</text>
+
+<text 
+x="624" 
+y="211" 
+dx="0" 
+class="s8_18"
+>/</text>
+
+<text 
+x="629" 
+y="211" 
+dx="0,0" 
+class="s6_18"
+>傳統</text>
+
+<text 
+x="578" 
+y="228" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(tradition; </text>
+
+<text 
+x="578" 
+y="244" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>traditional)</text>
+
+<text 
+x="561" 
+y="275" 
+dx="0,0,0" 
+class="s8_18"
+>C. </text>
+
+<text 
+x="578" 
+y="275" 
+dx="0,0" 
+class="s5_18"
+>热闹</text>
+
+<text 
+x="624" 
+y="275" 
+dx="0" 
+class="s8_18"
+>/</text>
+
+<text 
+x="629" 
+y="275" 
+dx="0,0,0" 
+class="s6_18"
+>熱鬧 </text>
+
+<text 
+x="578" 
+y="292" 
+dx="0,0,0,0,-0.4,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(lively, buzzing with </text>
+
+<text 
+x="578" 
+y="309" 
+dx="0,-0.3,-0.4,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>excitement, bustling </text>
+
+<text 
+x="578" 
+y="325" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>with activity)</text>
+
+<text 
+x="732" 
+y="157" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="157" 
+dx="0,0,0,0,0,-1.5,0,0,0" 
+class="s8_18"
+>New Year </text>
+
+<text 
+x="738" 
+y="175" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>celebrations</text>
+
+<text 
+x="732" 
+y="201" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="201" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s8_18"
+>The Lantern </text>
+
+<text 
+x="738" 
+y="219" 
+dx="0,-1.1,0,0,0,0,0,0" 
+class="s8_18"
+>Festival</text>
+
+<text 
+x="732" 
+y="244" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="244" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s8_18"
+>The Dragon Boat </text>
+
+<text 
+x="738" 
+y="263" 
+dx="0,-1.1,0,0,0,0,0,0" 
+class="s8_18"
+>Festival</text>
+
+<text 
+x="732" 
+y="288" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="288" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>The Qingming </text>
+
+<text 
+x="738" 
+y="306" 
+dx="0,-1.1,0,0,0,0,0,0" 
+class="s8_18"
+>Festival</text>
+
+<text 
+x="732" 
+y="331" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="331" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>The Mid-Autumn </text>
+
+<text 
+x="738" 
+y="350" 
+dx="0,-1.1,0,0,0,0,0,0" 
+class="s8_18"
+>Festival</text>
+
+<text 
+x="100" 
+y="393" 
+dx="0,0,0" 
+class="s4_18"
+>12 </text>
+
+<text 
+x="100" 
+y="423" 
+dx="0,0,0" 
+class="s5_18"
+>中国的</text>
+
+<text 
+x="100" 
+y="447" 
+dx="0,0,0" 
+class="s5_18"
+>变化/</text>
+
+<text 
+x="100" 
+y="471" 
+dx="0,0,0" 
+class="s6_18"
+>中國的</text>
+
+<text 
+x="100" 
+y="494" 
+dx="0,0" 
+class="s6_18"
+>變化</text>
+
+<text 
+x="100" 
+y="518" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0" 
+class="s4_18"
+>Changes in </text>
+
+<text 
+x="100" 
+y="535" 
+dx="0,0,0,0,0" 
+class="s4_18"
+>China</text>
+
+<text 
+x="222" 
+y="393" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="393" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Describe ways in </text>
+
+<text 
+x="229" 
+y="412" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>which a place has or </text>
+
+<text 
+x="229" 
+y="430" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s8_18"
+>hasn’t changed</text>
+
+<text 
+x="222" 
+y="455" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="455" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s8_18"
+>Indicate that </text>
+
+<text 
+x="229" 
+y="474" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>something is </text>
+
+<text 
+x="229" 
+y="492" 
+dx="0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s8_18"
+>different from what </text>
+
+<text 
+x="229" 
+y="510" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,-0.2,0" 
+class="s8_18"
+>you expected</text>
+
+<text 
+x="222" 
+y="535" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="535" 
+dx="0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Express concern </text>
+
+<text 
+x="229" 
+y="554" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>about the </text>
+
+<text 
+x="229" 
+y="572" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s8_18"
+>consequences of a </text>
+
+<text 
+x="229" 
+y="590" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2" 
+class="s8_18"
+>persistent state</text>
+
+<text 
+x="222" 
+y="616" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="616" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Compare a place </text>
+
+<text 
+x="229" 
+y="634" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s8_18"
+>with what it used to </text>
+
+<text 
+x="229" 
+y="652" 
+dx="0,0,0,0,0,0,-0.4" 
+class="s8_18"
+>be like</text>
+
+<text 
+x="393" 
+y="393" 
+dx="0,0,0" 
+class="s8_18"
+>1. </text>
+
+<text 
+x="406" 
+y="393" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>The modal particle </text>
+
+<text 
+x="406" 
+y="417" 
+dx="0" 
+class="s5_18"
+>啊</text>
+
+<text 
+x="393" 
+y="448" 
+dx="0,0,0" 
+class="s8_18"
+>2. </text>
+
+<text 
+x="406" 
+y="448" 
+dx="0" 
+class="s5_18"
+>以</text>
+
+<text 
+x="433" 
+y="448" 
+dx="0,0" 
+class="s8_18"
+>X </text>
+
+<text 
+x="446" 
+y="448" 
+dx="0" 
+class="s5_18"
+>为</text>
+
+<text 
+x="469" 
+y="448" 
+dx="0" 
+class="s8_18"
+>/</text>
+
+<text 
+x="473" 
+y="448" 
+dx="0" 
+class="s6_18"
+>為</text>
+
+<text 
+x="500" 
+y="448" 
+dx="0" 
+class="s8_18"
+>Y</text>
+
+<text 
+x="393" 
+y="478" 
+dx="0,0" 
+class="s8_18"
+>3.</text>
+
+<text 
+x="406" 
+y="478" 
+dx="0" 
+class="s5_18"
+>一</text>
+
+<text 
+x="433" 
+y="478" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s8_18"
+>+ reduplicated </text>
+
+<text 
+x="406" 
+y="495" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,-0.2" 
+class="s8_18"
+>measure word</text>
+
+<text 
+x="561" 
+y="393" 
+dx="0,0,0" 
+class="s8_18"
+>A. </text>
+
+<text 
+x="578" 
+y="393" 
+dx="0,0,0" 
+class="s5_18"
+>要不是</text>
+
+<text 
+x="650" 
+y="393" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s8_18"
+>(if it were </text>
+
+<text 
+x="578" 
+y="410" 
+dx="0,0,-0.1,0,0,-0.3,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s8_18"
+>not for; but for)</text>
+
+<text 
+x="561" 
+y="440" 
+dx="0,0,0" 
+class="s8_18"
+>B. </text>
+
+<text 
+x="578" 
+y="440" 
+dx="0,0" 
+class="s5_18"
+>从来</text>
+
+<text 
+x="624" 
+y="440" 
+dx="0" 
+class="s8_18"
+>/</text>
+
+<text 
+x="629" 
+y="440" 
+dx="0,0" 
+class="s6_18"
+>從來</text>
+
+<text 
+x="678" 
+y="440" 
+dx="0,0,0,-0.2,0,0" 
+class="s8_18"
+>(from </text>
+
+<text 
+x="578" 
+y="457" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s8_18"
+>past till present, </text>
+
+<text 
+x="578" 
+y="474" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>always, at all times)</text>
+
+<text 
+x="561" 
+y="504" 
+dx="0,0,0" 
+class="s8_18"
+>C. </text>
+
+<text 
+x="578" 
+y="504" 
+dx="0,0,0" 
+class="s5_18"
+>看起来</text>
+
+<text 
+x="647" 
+y="504" 
+dx="0" 
+class="s8_18"
+>/</text>
+
+<text 
+x="652" 
+y="504" 
+dx="0,0" 
+class="s6_18"
+>看起</text>
+
+<text 
+x="578" 
+y="528" 
+dx="0" 
+class="s6_18"
+>來</text>
+
+<text 
+x="604" 
+y="528" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(it seems)</text>
+
+<text 
+x="561" 
+y="559" 
+dx="0,-0.9,0" 
+class="s8_18"
+>D. </text>
+
+<text 
+x="578" 
+y="559" 
+dx="0,0,0" 
+class="s5_18"
+>尽可能</text>
+
+<text 
+x="647" 
+y="559" 
+dx="0" 
+class="s8_18"
+>/</text>
+
+<text 
+x="652" 
+y="559" 
+dx="0,0" 
+class="s6_18"
+>儘可</text>
+
+<text 
+x="578" 
+y="582" 
+dx="0" 
+class="s6_18"
+>能</text>
+
+<text 
+x="604" 
+y="582" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(as much as </text>
+
+<text 
+x="578" 
+y="599" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.9,0" 
+class="s8_18"
+>possible, to do one’s </text>
+
+<text 
+x="578" 
+y="616" 
+dx="0,0,0,0,0,0,0" 
+class="s8_18"
+>utmost)</text>
+
+<text 
+x="732" 
+y="393" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="393" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Nanjing and the </text>
+
+<text 
+x="738" 
+y="412" 
+dx="0,0,0,0,0,-1.3,0,0,0,0,0,0" 
+class="s8_18"
+>Sun Yat-sen </text>
+
+<text 
+x="738" 
+y="430" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Mausoleum</text>
+
+<text 
+x="732" 
+y="455" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="455" 
+dx="0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s8_18"
+>Architectural </text>
+
+<text 
+x="738" 
+y="474" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>preservation and </text>
+
+<text 
+x="738" 
+y="492" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Liang Sicheng</text>
+
+<text 
+x="732" 
+y="517" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="517" 
+dx="0,-1.5,0,0,0,0,0,0,0,-0.2,0" 
+class="s8_18"
+>Temples of </text>
+
+<text 
+x="738" 
+y="535" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Confucius</text>
+
+<text 
+x="100" 
+y="684" 
+dx="0,0" 
+class="s4_18"
+>13</text>
+
+<text 
+x="100" 
+y="715" 
+dx="0,0,0" 
+class="s5_18"
+>去云南</text>
+
+<text 
+x="100" 
+y="738" 
+dx="0,0,0" 
+class="s5_18"
+>旅游/</text>
+
+<text 
+x="100" 
+y="762" 
+dx="0,0,0" 
+class="s6_18"
+>去雲南</text>
+
+<text 
+x="100" 
+y="786" 
+dx="0,0" 
+class="s6_18"
+>旅遊</text>
+
+<text 
+x="100" 
+y="809" 
+dx="0,0,0,-1.2,0,0,0,0,-0.3,0" 
+class="s4_18"
+>A Trip to </text>
+
+<text 
+x="100" 
+y="826" 
+dx="0,-1.2,0,0,0,0" 
+class="s4_18"
+>Yunnan</text>
+
+<text 
+x="222" 
+y="685" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="685" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Describe what costs </text>
+
+<text 
+x="229" 
+y="703" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s8_18"
+>a package tour may </text>
+
+<text 
+x="229" 
+y="721" 
+dx="0,0,-0.3,-0.4,0" 
+class="s8_18"
+>cover</text>
+
+<text 
+x="222" 
+y="747" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="747" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Explain the </text>
+
+<text 
+x="229" 
+y="765" 
+dx="0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s8_18"
+>differences between </text>
+
+<text 
+x="229" 
+y="783" 
+dx="0,0,0,-0.2,0,0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s8_18"
+>“soft” and “hard” </text>
+
+<text 
+x="229" 
+y="802" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>sleeper cars</text>
+
+<text 
+x="222" 
+y="827" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="827" 
+dx="0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,-0.9,0" 
+class="s8_18"
+>Describe Yunnan’s </text>
+
+<text 
+x="229" 
+y="845" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>natural and cultural </text>
+
+<text 
+x="229" 
+y="863" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>attractions</text>
+
+<text 
+x="222" 
+y="889" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="229" 
+y="889" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Discuss high and low </text>
+
+<text 
+x="229" 
+y="907" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s8_18"
+>points of a trip</text>
+
+<text 
+x="393" 
+y="685" 
+dx="0,0,0" 
+class="s8_18"
+>1. </text>
+
+<text 
+x="406" 
+y="685" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Numbers in idioms</text>
+
+<text 
+x="393" 
+y="713" 
+dx="0,0,0" 
+class="s8_18"
+>2. </text>
+
+<text 
+x="406" 
+y="713" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>Nouns with multiple </text>
+
+<text 
+x="406" 
+y="730" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s8_18"
+>attributives</text>
+
+<text 
+x="561" 
+y="684" 
+dx="0,0,0" 
+class="s8_18"
+>A. </text>
+
+<text 
+x="578" 
+y="684" 
+dx="0,0" 
+class="s5_18"
+>印象</text>
+
+<text 
+x="624" 
+y="684" 
+dx="0,0" 
+class="s8_18"
+>/ </text>
+
+<text 
+x="632" 
+y="684" 
+dx="0,0" 
+class="s6_18"
+>印象</text>
+
+<text 
+x="578" 
+y="701" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s8_18"
+>(impression)</text>
+
+<text 
+x="561" 
+y="731" 
+dx="0,0,0" 
+class="s8_18"
+>B. </text>
+
+<text 
+x="578" 
+y="731" 
+dx="0,0" 
+class="s5_18"
+>分享</text>
+
+<text 
+x="627" 
+y="731" 
+dx="0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,-1,0" 
+class="s8_18"
+>(to share joy, </text>
+
+<text 
+x="578" 
+y="748" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>happiness, benefit, </text>
+
+<text 
+x="578" 
+y="765" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s8_18"
+>or something </text>
+
+<text 
+x="578" 
+y="782" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s8_18"
+>pleasant or positive)</text>
+
+<text 
+x="561" 
+y="812" 
+dx="0,0,0" 
+class="s8_18"
+>C. </text>
+
+<text 
+x="578" 
+y="812" 
+dx="0,0" 
+class="s5_18"
+>只好</text>
+
+<text 
+x="627" 
+y="812" 
+dx="0,0,0,0,-0.4,0,0,0,0" 
+class="s8_18"
+>(have no </text>
+
+<text 
+x="578" 
+y="829" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>choice but)</text>
+
+<text 
+x="561" 
+y="860" 
+dx="0,-0.9,0" 
+class="s8_18"
+>D. </text>
+
+<text 
+x="578" 
+y="860" 
+dx="0,0" 
+class="s5_18"
+>千万</text>
+
+<text 
+x="624" 
+y="860" 
+dx="0" 
+class="s8_18"
+>/</text>
+
+<text 
+x="629" 
+y="860" 
+dx="0,0" 
+class="s6_18"
+>千萬</text>
+
+<text 
+x="578" 
+y="877" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(by all means, </text>
+
+<text 
+x="578" 
+y="893" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>absolutely must)</text>
+
+<text 
+x="561" 
+y="924" 
+dx="0,0,0" 
+class="s8_18"
+>E. </text>
+
+<text 
+x="578" 
+y="924" 
+dx="0,0" 
+class="s5_18"
+>不过</text>
+
+<text 
+x="624" 
+y="924" 
+dx="0" 
+class="s8_18"
+>/</text>
+
+<text 
+x="629" 
+y="924" 
+dx="0,0" 
+class="s6_18"
+>不過</text>
+
+<text 
+x="578" 
+y="941" 
+dx="0,0,0,0,0,0,-0.4,0,-1.2,0,0,0,0" 
+class="s8_18"
+>(however, no </text>
+
+<text 
+x="578" 
+y="958" 
+dx="0,0,0,-0.2,0,0,0,0,0,0" 
+class="s8_18"
+>more than)</text>
+
+<text 
+x="732" 
+y="685" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="685" 
+dx="0,0,0,0,0,-0.4,-0.2,0,0,0,0,-1.1,0,-0.2,0,0" 
+class="s8_18"
+>The Stone Forest</text>
+
+<text 
+x="732" 
+y="710" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="710" 
+dx="0,0,0,0,0,0,0,-0.2,0,0" 
+class="s8_18"
+>The Three </text>
+
+<text 
+x="738" 
+y="728" 
+dx="0,0,0,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s8_18"
+>Pagodas of Dali</text>
+
+<text 
+x="732" 
+y="753" 
+dx="0,0" 
+class="s7_18"
+>• </text>
+
+<text 
+x="738" 
+y="753" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s8_18"
+>The Old City of </text>
+
+<text 
+x="738" 
+y="772" 
+dx="0,0,0,0,0,0,0" 
+class="s8_18"
+>Lijiang</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_ce3;
+	src: url("fonts/MuseoSlab-700_ce3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cc_;
+	src: url("fonts/LibreFranklin-Regular_cc_.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cdg;
+	src: url("fonts/LibreFranklin-ExtraBold_cdg.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

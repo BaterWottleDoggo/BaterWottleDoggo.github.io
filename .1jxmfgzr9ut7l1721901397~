@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 52 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_52"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_52{
+fill: none;
+stroke: #AAA9A9;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_52{
+fill: none;
+stroke: #DC262E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_52{
+fill: #FFFFFF;
+}
+.g4_52{
+fill: #FED205;
+}
+.g5_52{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 3.0555556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_52{
+fill: #927300;
+}
+.g7_52{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.9815279;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_52{
+fill: #DC262E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_52{
+font-size: 18.33px;
+font-family: ProximaNova-Semibold_2u1;
+fill: #DC262E;
+}
+.s2_52{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2tj;
+fill: #DC262E;
+}
+.s3_52{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #DC262E;
+}
+.s4_52{
+font-size: 13.37px;
+font-family: ProximaNova-Light_2t-;
+fill: #231F20;
+}
+.s5_52{
+font-size: 19.86px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s6_52{
+font-size: 16.42px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s7_52{
+font-size: 16.42px;
+font-family: Marion-Italic_2si;
+fill: #DC262E;
+}
+.s8_52{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_2un;
+fill: #DC262E;
+}
+.s9_52{
+font-size: 14.51px;
+font-family: ProximaNova-MediumIt_2u8;
+fill: #FFFFFF;
+}
+.s10_52{
+font-size: 21.79px;
+font-family: MuseoSlab-900_2tm;
+fill: #231F20;
+}
+.s11_52{
+font-size: 38.71px;
+font-family: MuseoSlab-700_2u9;
+fill: #231F20;
+}
+.s12_52{
+font-size: 10.51px;
+font-family: MuseoSlab-900_2tm;
+fill: #231F20;
+}
+.s13_52{
+font-size: 20.67px;
+font-family: MuseoSlab-900_2tm;
+fill: #231F20;
+}
+.s14_52{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2u1;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M737.4,482.9l156.3,0" class="g1_52" />
+<path d="M495,528.7l9.1,0" class="g2_52" />
+<path d="M495,672.3l9.8,0" class="g2_52" />
+<text 
+x="737" 
+y="467" 
+dx="0,-0.6,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s1_52"
+>Language Notes</text>
+
+<text 
+x="495" 
+y="524" 
+dx="0" 
+class="s2_52"
+>a</text>
+
+<text 
+x="516" 
+y="528" 
+dx="0" 
+class="s3_52"
+>不</text>
+
+<text 
+x="516" 
+y="554" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>The original tone of </text>
+
+<text 
+x="632" 
+y="554" 
+dx="0" 
+class="s5_52"
+>不</text>
+
+<text 
+x="655" 
+y="554" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>is the falling or </text>
+
+<text 
+x="516" 
+y="580" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>fourth tone, “bù.” However, when followed </text>
+
+<text 
+x="516" 
+y="606" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s4_52"
+>by another fourth tone syllable, </text>
+
+<text 
+x="698" 
+y="606" 
+dx="0" 
+class="s5_52"
+>不</text>
+
+<text 
+x="721" 
+y="606" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_52"
+>changes </text>
+
+<text 
+x="516" 
+y="632" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s4_52"
+>to second tone, as in </text>
+
+<text 
+x="639" 
+y="632" 
+dx="0,0" 
+class="s5_52"
+>不是</text>
+
+<text 
+x="683" 
+y="632" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_52"
+>(bú shì)</text>
+
+<text 
+x="724" 
+y="632" 
+dx="0" 
+class="s4_52"
+>.</text>
+
+<text 
+x="495" 
+y="667" 
+dx="0" 
+class="s2_52"
+>b</text>
+
+<text 
+x="516" 
+y="672" 
+dx="0" 
+class="s3_52"
+>是</text>
+
+<text 
+x="546" 
+y="672" 
+dx="0,0,0,0,0" 
+class="s7_52"
+>(shì)</text>
+
+<text 
+x="570" 
+y="672" 
+dx="0" 
+class="s8_52"
+>/</text>
+
+<text 
+x="583" 
+y="672" 
+dx="0,0" 
+class="s3_52"
+>不是</text>
+
+<text 
+x="639" 
+y="672" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_52"
+>(bú shì)</text>
+
+<text 
+x="516" 
+y="698" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>These are not universal equivalents of </text>
+
+<text 
+x="516" 
+y="724" 
+dx="0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>“yes” and “no.” One does not always need </text>
+
+<text 
+x="516" 
+y="750" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>to introduce an affirmative answer to a </text>
+
+<text 
+x="516" 
+y="776" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>yes/no question with </text>
+
+<text 
+x="638" 
+y="776" 
+dx="0" 
+class="s5_52"
+>是</text>
+
+<text 
+x="662" 
+y="776" 
+dx="0,0,0,0,0" 
+class="s6_52"
+>(shì)</text>
+
+<text 
+x="689" 
+y="776" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>or a negative </text>
+
+<text 
+x="516" 
+y="802" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>answer with </text>
+
+<text 
+x="588" 
+y="802" 
+dx="0,0" 
+class="s5_52"
+>不是</text>
+
+<text 
+x="631" 
+y="802" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_52"
+>(bú shì)</text>
+
+<text 
+x="672" 
+y="802" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s4_52"
+>. For instance, to </text>
+
+<text 
+x="516" 
+y="828" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>answer the question </text>
+
+<text 
+x="636" 
+y="828" 
+dx="0,0,0,0,0" 
+class="s5_52"
+>你姓王吗？</text>
+
+<text 
+x="739" 
+y="828" 
+dx="0,0,0,0" 
+class="s6_52"
+>(Nǐ </text>
+
+<text 
+x="516" 
+y="854" 
+dx="0,0,0,0,0,0,-1.7,0,0,0,0,0,0,0" 
+class="s6_52"
+>xìng Wáng ma?)</text>
+
+<text 
+x="610" 
+y="854" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,-0.3,0,0" 
+class="s4_52"
+>(Is your family name Wang?) </text>
+
+<text 
+x="516" 
+y="880" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0" 
+class="s4_52"
+>affirmatively, one can reply, </text>
+
+<text 
+x="674" 
+y="880" 
+dx="0,0,0,0,0,0" 
+class="s5_52"
+>对，我姓王 </text>
+
+<text 
+x="516" 
+y="906" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.7,0,0,0" 
+class="s6_52"
+>(Duì, wǒ xìng Wáng)</text>
+
+<text 
+x="637" 
+y="906" 
+dx="0,0,-1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_52"
+>(Yes, my family name is </text>
+
+<text 
+x="516" 
+y="932" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0" 
+class="s4_52"
+>Wang) or simply, </text>
+
+<text 
+x="613" 
+y="932" 
+dx="0,0,0" 
+class="s5_52"
+>我姓王</text>
+
+<text 
+x="676" 
+y="932" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.7,0,0,0" 
+class="s6_52"
+>(Wǒ xìng Wáng)</text>
+
+<text 
+x="768" 
+y="932" 
+dx="0,0" 
+class="s4_52"
+>. </text>
+
+<text 
+x="516" 
+y="958" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,0" 
+class="s4_52"
+>To answer the question negatively, say </text>
+
+<text 
+x="516" 
+y="984" 
+dx="0,0,0,0,0,0" 
+class="s5_52"
+>不，我不姓王</text>
+
+<text 
+x="639" 
+y="984" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.7,0,0,0" 
+class="s6_52"
+>(Bù, wǒ bú xìng Wáng)</text>
+
+<text 
+x="516" 
+y="1009" 
+dx="0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0" 
+class="s4_52"
+>(No, my family name is not Wang), or simply, </text>
+
+<text 
+x="516" 
+y="1035" 
+dx="0,0,0,0" 
+class="s5_52"
+>我不姓王</text>
+
+<text 
+x="599" 
+y="1035" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-1.7,0,0,0" 
+class="s6_52"
+>(Wǒ bú xìng Wáng)</text>
+
+<text 
+x="709" 
+y="1035" 
+dx="0" 
+class="s4_52"
+>.</text>
+
+<image preserveAspectRatio="none" x="215" y="514" width="93" height="94" xlink:href="52/img/1.png" />
+<image preserveAspectRatio="none" x="307" y="514" width="93" height="94" xlink:href="52/img/2.png" />
+<image preserveAspectRatio="none" x="399" y="514" width="47" height="235" xlink:href="52/img/3.png" />
+<image preserveAspectRatio="none" x="215" y="608" width="93" height="94" xlink:href="52/img/4.png" />
+<image preserveAspectRatio="none" x="307" y="608" width="93" height="94" xlink:href="52/img/5.png" />
+<image preserveAspectRatio="none" x="215" y="701" width="185" height="48" xlink:href="52/img/6.png" />
+<image preserveAspectRatio="none" x="62" y="514" width="139" height="94" xlink:href="52/img/7.png" />
+<image preserveAspectRatio="none" x="62" y="608" width="139" height="94" xlink:href="52/img/8.png" />
+<image preserveAspectRatio="none" x="62" y="701" width="139" height="48" xlink:href="52/img/9.png" />
+<image preserveAspectRatio="none" x="62" y="764" width="184" height="110" xlink:href="52/img/10.png" />
+<image preserveAspectRatio="none" x="62" y="873" width="184" height="110" xlink:href="52/img/11.png" />
+<image preserveAspectRatio="none" x="62" y="983" width="184" height="55" xlink:href="52/img/12.png" />
+<image preserveAspectRatio="none" x="262" y="764" width="184" height="110" xlink:href="52/img/13.png" />
+<image preserveAspectRatio="none" x="262" y="873" width="184" height="110" xlink:href="52/img/14.png" />
+<image preserveAspectRatio="none" x="262" y="983" width="184" height="55" xlink:href="52/img/15.png" />
+<g clip-path="url(#c0_52)">
+<path d="M1358.7,-353.5c81,-492.1,-224.5,-952.2,-682.3,-1027.6c-457.8,-75.3,-894.6,262.5,-975.6,754.6c-81,492.1,224.4,952,682.2,1027.4c457.8,75.4,894.6,-262.4,975.7,-754.4Z" class="g3_52" />
+</g>
+<image preserveAspectRatio="none" x="0" y="0" width="106" height="256" xlink:href="52/img/16.png" />
+<image preserveAspectRatio="none" x="212" y="0" width="159" height="154" xlink:href="52/img/17.png" />
+<image preserveAspectRatio="none" x="371" y="0" width="159" height="154" xlink:href="52/img/18.png" />
+<image preserveAspectRatio="none" x="530" y="0" width="159" height="154" xlink:href="52/img/19.png" />
+<image preserveAspectRatio="none" x="689" y="0" width="159" height="154" xlink:href="52/img/20.png" />
+<image preserveAspectRatio="none" x="848" y="0" width="54" height="358" xlink:href="52/img/21.png" />
+<image preserveAspectRatio="none" x="212" y="153" width="159" height="154" xlink:href="52/img/22.png" />
+<image preserveAspectRatio="none" x="371" y="153" width="159" height="154" xlink:href="52/img/23.png" />
+<image preserveAspectRatio="none" x="530" y="153" width="159" height="154" xlink:href="52/img/24.png" />
+<image preserveAspectRatio="none" x="689" y="153" width="159" height="154" xlink:href="52/img/25.png" />
+<image preserveAspectRatio="none" x="0" y="256" width="106" height="51" xlink:href="52/img/26.png" />
+<image preserveAspectRatio="none" x="106" y="307" width="583" height="51" xlink:href="52/img/27.png" />
+<image preserveAspectRatio="none" x="689" y="307" width="106" height="102" xlink:href="52/img/28.png" />
+<image preserveAspectRatio="none" x="795" y="307" width="53" height="51" xlink:href="52/img/29.png" />
+<image preserveAspectRatio="none" x="212" y="358" width="477" height="51" xlink:href="52/img/30.png" />
+<g clip-path="url(#c0_52)">
+<path d="M1358.7,-353.5l2.2,0.3c40.6,-246.6,-15.6,-485.2,-139.4,-671.6c-123.8,-186.5,-315.1,-320.7,-544.7,-358.5c-229.6,-37.8,-453.9,28,-630.9,164.9c-177,136.9,-306.7,344.9,-347.3,591.5c-40.7,246.6,15.6,485.2,139.4,671.6C-38.3,231.1,153,365.4,382.6,403.2c229.6,37.8,453.9,-28.1,630.9,-165c177,-136.9,306.8,-344.7,347.4,-591.4l-2.2,-0.3l-2.3,-0.4C1316,-108.4,1186.8,98.4,1010.7,234.6C834.6,370.8,611.6,436.2,383.3,398.6C155.1,361,-35.1,227.6,-158.2,42.1C-281.4,-143.2,-337.3,-380.7,-296.9,-626.2c40.4,-245.4,169.6,-452.4,345.6,-588.6c176.1,-136.2,399.1,-201.6,627.3,-164c228.3,37.6,418.5,171,541.7,356.5c123.1,185.5,179.1,422.9,138.7,668.4l2.3,0.4Z" class="g4_52" />
+<path d="M-892.9,105.3L0,105.3" class="g5_52" />
+</g>
+<image preserveAspectRatio="none" x="56" y="0" width="176" height="154" xlink:href="52/img/31.png" />
+<image preserveAspectRatio="none" x="56" y="153" width="176" height="154" xlink:href="52/img/32.png" />
+<image preserveAspectRatio="none" x="100" y="307" width="132" height="51" xlink:href="52/img/33.png" />
+<path d="M57.8,265.4c23.9,17.1,49.8,33.2,78,48.3c-27,-14.6,-53,-30.8,-78,-48.3M231,357.5c0.3,0.2,0.6,0.3,1,0.4c-0.4,-0.1,-0.7,-0.2,-1,-0.4Z" class="g6_52" />
+<text 
+x="79" 
+y="115" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_52"
+>China has the </text>
+
+<text 
+x="79" 
+y="132" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_52"
+>fastest growing air </text>
+
+<text 
+x="79" 
+y="149" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0" 
+class="s9_52"
+>passenger market </text>
+
+<text 
+x="79" 
+y="165" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_52"
+>in the world. Based </text>
+
+<text 
+x="79" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_52"
+>on his boarding </text>
+
+<text 
+x="79" 
+y="199" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_52"
+>pass, identify this </text>
+
+<text 
+x="79" 
+y="216" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_52"
+>traveler’s flight plan.</text>
+
+<path d="M144.3,432.3c43.8,0,79.3,-35.5,79.3,-79.3c0,-43.8,-35.5,-79.3,-79.3,-79.3c-43.8,0,-79.4,35.5,-79.4,79.3c0,43.8,35.6,79.3,79.4,79.3Z" class="g4_52" />
+<path d="M144.3,432.3c43.8,0,79.3,-35.5,79.3,-79.3c0,-43.8,-35.5,-79.3,-79.3,-79.3c-43.8,0,-79.4,35.5,-79.4,79.3c0,43.8,35.6,79.3,79.4,79.3Z" class="g7_52" />
+<text 
+x="98" 
+y="334" 
+dx="0,0,0" 
+class="s10_52"
+>GET</text>
+
+<text 
+x="74" 
+y="360" 
+dx="0,-0.3,0,-0.2" 
+class="s11_52"
+>Real</text>
+
+<text 
+x="77" 
+y="372" 
+dx="0,0,0,0" 
+class="s12_52"
+>WITH</text>
+
+<text 
+x="111" 
+y="380" 
+dx="0,0,0,0,0,0,0" 
+class="s13_52"
+>CHINESE</text>
+
+<g clip-path="url(#c0_52)">
+<path d="M885.3,1209.2l55,0l0,-1222.1l-55,0l0,1222.1Z" class="g8_52" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 894, 939)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s14_52"
+>Lesson 1 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 995)"
+dx="0,0.3" 
+class="s14_52"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1007)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s14_52"
+>Greetings </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1070)"
+dx="0,0.3" 
+class="s14_52"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1083)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s14_52"
+>Dialogue 2 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1162)"
+dx="0,0.3" 
+class="s14_52"
+>31</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_2u9;
+	src: url("fonts/MuseoSlab-700_2u9.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-900_2tm;
+	src: url("fonts/MuseoSlab-900_2tm.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2un;
+	src: url("fonts/STKaiti-SC-Bold_2un.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-MediumIt_2u8;
+	src: url("fonts/ProximaNova-MediumIt_2u8.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2t-;
+	src: url("fonts/ProximaNova-Light_2t-.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2u1;
+	src: url("fonts/ProximaNova-Semibold_2u1.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2tj;
+	src: url("fonts/ProximaNova-Bold_2tj.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

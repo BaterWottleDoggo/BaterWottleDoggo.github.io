@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 80 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_80{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_80{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_80{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_80{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_80{
+fill: #DAEFEB;
+}
+.g6_80{
+fill: none;
+stroke: #C6EAFA;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_80{
+fill: none;
+stroke: #C6EAFA;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_80{
+fill: #CAE7E2;
+}
+.g9_80{
+fill: none;
+stroke: #00A3AF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_80{
+fill: #00A3AF;
+}
+.g11_80{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_80{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_cmk;
+fill: #8F4198;
+}
+.s2_80{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_cmd;
+fill: #8F4198;
+}
+.s3_80{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cmm;
+fill: #3F3F40;
+}
+.s4_80{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s5_80{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s6_80{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s7_80{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cmk;
+fill: #872B91;
+}
+.s8_80{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_cl_;
+fill: #872B91;
+}
+.s9_80{
+font-size: 14.51px;
+font-family: LibreFranklin-Medium_cl_;
+fill: #231F20;
+}
+.s10_80{
+font-size: 36.67px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #F7931D;
+}
+.s11_80{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #231F20;
+}
+.s12_80{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #00AEEF;
+}
+.s13_80{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #231F20;
+}
+.s14_80{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #00AEEF;
+}
+.s15_80{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cl_;
+fill: #231F20;
+}
+.s16_80{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_cog;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,105.8l12.2,0" class="g1_80" />
+<text 
+x="119" 
+y="100" 
+dx="0,0" 
+class="s1_80"
+>G </text>
+
+<text 
+x="384" 
+y="104" 
+dx="0,-2.6,0,0,0,0,0,-0.7,0,0,0,0,0,0,0,0,0,0" 
+class="s2_80"
+>You saved the day!</text>
+
+<text 
+x="157" 
+y="166" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s3_80"
+>Based on the prompts, use </text>
+
+<text 
+x="340" 
+y="168" 
+dx="0,0,0" 
+class="s4_80"
+>要不是</text>
+
+<text 
+x="414" 
+y="166" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_80"
+>to thank a friend for averting an undesirable situation, </text>
+
+<text 
+x="157" 
+y="194" 
+dx="0,0,0,0,0,0" 
+class="s3_80"
+>e.g.: </text>
+
+<text 
+x="197" 
+y="226" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s3_80"
+>If you hadn’t told me that computer science would have an exam today, I definitely </text>
+
+<text 
+x="197" 
+y="253" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,-1" 
+class="s3_80"
+>wouldn’t have studied last night. I would have done terribly on the test today.</text>
+
+<text 
+x="195" 
+y="298" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_80"
+>要不是你告诉我今天电脑课有考试，昨天晚上我一定</text>
+
+<text 
+x="195" 
+y="332" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_80"
+>不会复习，今天一定考得很糟糕。</text>
+
+<text 
+x="195" 
+y="379" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_80"
+>要不是你告訴我今天電腦課有考試，昨天晚上我一定</text>
+
+<text 
+x="195" 
+y="413" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_80"
+>不會復習，今天一定考得很糟糕。</text>
+
+<text 
+x="168" 
+y="467" 
+dx="0,0.2" 
+class="s7_80"
+>1 </text>
+
+<text 
+x="197" 
+y="467" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_80"
+>The hospital was very difficult to find. If you hadn’t gone with me, I definitely wouldn’t </text>
+
+<text 
+x="197" 
+y="494" 
+dx="0,0,0,-0.4,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s3_80"
+>have found it.</text>
+
+<text 
+x="168" 
+y="536" 
+dx="0,0.2" 
+class="s7_80"
+>2 </text>
+
+<text 
+x="197" 
+y="536" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s3_80"
+>The place for the meeting was very far away. If you hadn’t let me borrow your car, I definitely </text>
+
+<text 
+x="197" 
+y="563" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_80"
+>would have been late.</text>
+
+<text 
+x="168" 
+y="604" 
+dx="0,0.2" 
+class="s7_80"
+>3 </text>
+
+<text 
+x="197" 
+y="604" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,-0.1,-0.1,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_80"
+>My boyfriend/girlfriend and I are still together. If you hadn’t suggested that I sit down with </text>
+
+<text 
+x="197" 
+y="632" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.2,0,-0.4,0,0,0,0,0" 
+class="s3_80"
+>him/her and talk, we definitely would have broken up.</text>
+
+<text 
+x="168" 
+y="673" 
+dx="0,0.2" 
+class="s7_80"
+>4 </text>
+
+<text 
+x="197" 
+y="673" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_80"
+>If you hadn’t told me about this scholarship, I definitely would have had to take out a loan </text>
+
+<text 
+x="197" 
+y="701" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_80"
+>from the bank.</text>
+
+<path d="M146.6,66.2l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_80" />
+<path d="M148.7,118.4l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g3_80" />
+<text 
+x="721" 
+y="101" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s8_80"
+>PRESENTATIONAL</text>
+
+<path d="M719.9,104.2l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g4_80" />
+<path d="M845.1,884.3l0,-37.6L826.7,828.3l-264.3,0l0,56.1Z" class="g5_80" />
+<path d="M76.2,990.7l768.9,0" class="g6_80" />
+<path d="M76.2,1102.8l768.9,0" class="g7_80" />
+<path d="M363.3,1118.9l194.6,0l0,-269.6l-194.6,0l0,269.6Z" class="g8_80" />
+<text 
+x="377" 
+y="916" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.1,0,0,0" 
+class="s9_80"
+>Using the word/phrase </text>
+
+<text 
+x="377" 
+y="934" 
+dx="0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s9_80"
+>in orange as a clue, try to </text>
+
+<text 
+x="377" 
+y="953" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_80"
+>figure out the meaning </text>
+
+<text 
+x="377" 
+y="971" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s9_80"
+>of the words/phrases in </text>
+
+<text 
+x="377" 
+y="989" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_80"
+>blue; consult a dictionary </text>
+
+<text 
+x="377" 
+y="1008" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0" 
+class="s9_80"
+>if necessary. Consider </text>
+
+<text 
+x="377" 
+y="1026" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0" 
+class="s9_80"
+>how the literal and </text>
+
+<text 
+x="377" 
+y="1044" 
+dx="0,-0.3,-0.3,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s9_80"
+>extended senses are </text>
+
+<text 
+x="377" 
+y="1063" 
+dx="0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_80"
+>related in each case.</text>
+
+<path d="M359.4,884.6l0,-56.3l-264.9,0L76.2,846.7l0,38.1Z" class="g5_80" />
+<text 
+x="184" 
+y="866" 
+dx="0,0" 
+class="s10_80"
+>保留</text>
+
+<text 
+x="87" 
+y="918" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s11_80"
+>下个月我要去纽约，能</text>
+
+<text 
+x="87" 
+y="946" 
+dx="0,0,0,0,0,0,0" 
+class="s11_80"
+>不能麻烦你帮我</text>
+
+<text 
+x="268" 
+y="946" 
+dx="0,0" 
+class="s12_80"
+>保管</text>
+
+<text 
+x="320" 
+y="946" 
+dx="0" 
+class="s11_80"
+>电</text>
+
+<text 
+x="87" 
+y="973" 
+dx="0,0" 
+class="s11_80"
+>脑？</text>
+
+<text 
+x="87" 
+y="1031" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s11_80"
+>您今年七十五岁了，应</text>
+
+<text 
+x="87" 
+y="1059" 
+dx="0,0,0,0,0,0,0" 
+class="s11_80"
+>该多休息，好好</text>
+
+<text 
+x="268" 
+y="1059" 
+dx="0,0" 
+class="s12_80"
+>保养</text>
+
+<text 
+x="320" 
+y="1059" 
+dx="0" 
+class="s11_80"
+>身</text>
+
+<text 
+x="87" 
+y="1086" 
+dx="0,0" 
+class="s11_80"
+>体。</text>
+
+<text 
+x="665" 
+y="866" 
+dx="0,0" 
+class="s10_80"
+>保留</text>
+
+<text 
+x="567" 
+y="918" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s13_80"
+>下個月我要去紐約，能</text>
+
+<text 
+x="567" 
+y="946" 
+dx="0,0,0,0,0,0,0" 
+class="s13_80"
+>不能麻煩你幫我</text>
+
+<text 
+x="749" 
+y="946" 
+dx="0,0" 
+class="s14_80"
+>保管</text>
+
+<text 
+x="801" 
+y="946" 
+dx="0" 
+class="s13_80"
+>電</text>
+
+<text 
+x="567" 
+y="973" 
+dx="0,0" 
+class="s13_80"
+>腦？</text>
+
+<text 
+x="567" 
+y="1031" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s13_80"
+>您今年七十五歲了，應</text>
+
+<text 
+x="567" 
+y="1059" 
+dx="0,0,0,0,0,0,0" 
+class="s13_80"
+>該多休息，好好</text>
+
+<text 
+x="749" 
+y="1059" 
+dx="0,0" 
+class="s14_80"
+>保養</text>
+
+<text 
+x="801" 
+y="1059" 
+dx="0" 
+class="s13_80"
+>身</text>
+
+<text 
+x="567" 
+y="1086" 
+dx="0,0" 
+class="s13_80"
+>體。</text>
+
+<path d="M394.5,802.7l-89.8,0l-15.8,10.6l0,15" class="g9_80" />
+<path d="M533.8,802.7l99.5,0L650,813.3l0,15" class="g9_80" />
+<path d="M494.7,786.4c-1.5,2.9,-2.7,5.4,-5.3,10.9l-19.6,43.1l-0.8,0L457.8,815.8l-11.3,24.6l-0.9,0L425.4,797c-1.9,-4.2,-3.6,-7.6,-5.5,-10.6l7.8,0c0.8,2.5,2.2,5.6,3.8,9.2l15.2,34.1L455.2,810l-5.9,-12.9c-2.5,-5.5,-3.6,-7.7,-5.5,-10.7l7.2,0c0.8,2.5,1.7,4.5,4.2,10.1l3,6.6l2.9,-6.8c2.2,-5,3.2,-7.5,4,-9.9l6.6,0c-1,1.6,-2.7,5.2,-5.4,10.8l-5.5,12l8.8,20.2l14.1,-32.9c2.6,-5.7,3.6,-8.3,4.2,-10.1Z" class="g10_80" />
+<path d="M496,817.9c6.3,0,11.2,5,11.2,11.2c0,6.2,-4.9,11.2,-11.2,11.2c-6.3,0,-11.2,-5,-11.2,-11.2c0,-6.2,4.9,-11.2,11.2,-11.2m0,20.2c4.8,0,8.6,-4,8.6,-9c0,-5,-3.8,-9,-8.6,-9c-4.7,0,-8.6,4,-8.6,9c0,5,3.9,9,8.6,9Z" class="g10_80" />
+<path d="M511.8,834.5c0,2.1,0,4.5,0.1,5.5l-2.8,0c0.1,-1,0.1,-3.4,0.1,-5.5l0,-10.6c0,-2.1,0,-4.7,-0.1,-5.6l4.5,0c4.9,0,7.5,2.6,7.5,6.3c0,3.4,-2.1,5.2,-4.3,5.9c2.3,2.8,5,7.1,7.5,9.5l-3.5,0c-1.8,-2.3,-4.4,-5.9,-6.2,-9.1c-0.4,0.1,-0.7,0.1,-1.1,0.1l-1.7,0Zm0,-5.4l2.1,0c2.6,0,4.6,-1.8,4.6,-4.4c0,-2.3,-1.7,-4.4,-5,-4.4l-1.7,0Z" class="g10_80" />
+<path d="M525,840c0.1,-1,0.2,-3.6,0.2,-5.7l0,-10.4c0,-2.1,-0.1,-4.7,-0.2,-5.6l6.1,0c6,0,10.9,4.8,10.9,10.8c0,6,-4.9,10.9,-10.9,10.9Zm2.8,-2.2l3.2,0c4.7,0,8.4,-4,8.4,-8.7c0,-4.8,-3.7,-8.7,-8.4,-8.7l-3.2,0Z" class="g10_80" />
+<path d="M553.3,834.3c0,3.6,-2.6,6.1,-6.5,6.1c-2.1,0,-3.3,-0.5,-5,-0.8l0,-3.6c0.8,1.4,2.9,2.4,5,2.4c2.4,0,3.8,-1.6,3.8,-3.8c0,-4.7,-8.1,-4.7,-8.1,-11c0,-3.7,2.6,-5.8,6.3,-5.8c1.6,0,2.6,0.5,4,0.6l0,3.4c-0.6,-1.3,-2.2,-2,-4,-2c-2.1,0,-3.7,1.3,-3.7,3.5c0,4.6,8.2,4.7,8.2,11Z" class="g10_80" />
+<path d="M495.9,807.4l2.2,0c0.2,0,0.4,-0.1,0.4,-0.3l1.8,-5.1c0.1,-0.1,0.2,-0.2,0.4,-0.2l7.7,0c0.1,0,0.2,0,0.3,0c0,0.1,0,0.2,0.1,0.2l1.8,5c0,0.2,0.2,0.4,0.4,0.4l2.7,0c0.2,0,0.3,-0.2,0.3,-0.4c0,-0.1,0,-0.2,0,-0.2l-7.1,-19.7c-0.1,-0.3,-0.4,-0.5,-0.7,-0.5l-2.8,0c-0.2,0,-0.3,0,-0.4,0.1c-0.1,0.1,-0.2,0.2,-0.2,0.4l-7.2,19.7l0,0.2c0,0.2,0.1,0.4,0.3,0.4m5.6,-8.2c-0.2,0,-0.3,-0.1,-0.3,-0.2l0.1,-0.2l3.1,-8.4c0,-0.1,0.1,-0.2,0.2,-0.2c0,0,0.1,0,0.2,0.2l3,8.4c0,0.1,0,0.2,0,0.3c0,0,-0.1,0.1,-0.2,0.1Zm28.7,-12.6l-2.3,0c-0.2,0,-0.3,0,-0.4,0.1c-0.1,0,-0.1,0.1,-0.2,0.3l-4.9,8.5c0,0.1,-0.1,0.2,-0.2,0.2c-0.1,0,-0.2,-0.1,-0.3,-0.3L517,787c-0.1,-0.2,-0.2,-0.3,-0.3,-0.3c-0.1,-0.1,-0.2,-0.1,-0.4,-0.1l-2.7,0c-0.2,0,-0.4,0.1,-0.4,0.3c0,0.1,0,0.1,0.1,0.2l6.7,11.3c0.1,0.1,0.2,0.3,0.2,0.4c0,0.1,0.1,0.2,0.1,0.4l0,7.7c0,0.3,0.1,0.5,0.4,0.5l2.3,0c0.2,0,0.4,-0.1,0.5,-0.2c0.1,-0.1,0.1,-0.2,0.1,-0.4l0,-7.6c0,-0.4,0,-0.6,0.1,-0.7c0,-0.2,0,-0.3,0.1,-0.4l6.6,-11c0.1,-0.2,0.1,-0.3,0.1,-0.4c-0.1,-0.1,-0.2,-0.1,-0.3,-0.1Z" class="g10_80" />
+<path d="M400,807.4l1.5,0c0.2,0,0.3,-0.1,0.3,-0.2l1.3,-3.6c0,-0.1,0.1,-0.1,0.2,-0.1l5.4,0c0.1,0,0.1,0,0.2,0c0,0.1,0,0.1,0,0.2l1.3,3.4c0,0.2,0.2,0.3,0.3,0.3l1.9,0c0.1,0,0.2,-0.1,0.2,-0.3c0,-0.1,0,-0.1,0,-0.1l-5,-13.7c0,-0.3,-0.2,-0.4,-0.4,-0.4l-2,0c-0.1,0,-0.2,0.1,-0.3,0.1c0,0,-0.1,0.1,-0.1,0.2l-5,13.7l0,0.2c0,0.2,0,0.3,0.2,0.3m3.9,-5.7c-0.1,0,-0.2,-0.1,-0.2,-0.2l0,-0.1l2.2,-5.8c0,-0.1,0.1,-0.2,0.1,-0.2c0.1,0,0.1,0.1,0.2,0.2l2.1,5.8c0,0.1,0,0.1,0,0.2c0,0,-0.1,0.1,-0.2,0.1Z" class="g10_80" />
+<path d="M389.2,823.4l-1.2,0c-0.2,0,-0.3,0,-0.4,0.2l-3.8,13.5c0,0.1,-0.1,0.2,-0.1,0.2c0,0,-0.1,-0.1,-0.1,-0.2l-3.8,-13.5c0,-0.1,-0.1,-0.1,-0.1,-0.2c-0.1,0,-0.2,0,-0.3,0l-1.3,0c-0.2,0,-0.4,0,-0.4,0.2L373.8,837c0,0.2,0,0.3,-0.1,0.3c0,0,-0.1,-0.1,-0.1,-0.3l-3.8,-13.4c0,-0.2,-0.2,-0.2,-0.4,-0.2l-1.5,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,0.1l4.7,16.3c0.1,0.2,0.2,0.3,0.5,0.3l1.5,0c0.1,0,0.2,0,0.3,-0.1c0.1,0,0.1,-0.1,0.2,-0.2l3.7,-13c0,-0.2,0.1,-0.2,0.1,0l3.7,13c0.1,0.2,0.3,0.3,0.6,0.3l1.4,0c0.1,0,0.2,0,0.3,-0.1c0.1,0,0.1,-0.1,0.2,-0.2l4.7,-16.3c0,-0.2,0,-0.3,0,-0.3c-0.1,-0.1,-0.2,-0.1,-0.3,-0.1m3.9,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,16.4c0,0.1,0,0.2,0.1,0.3c0,0,0.1,0,0.2,0l1.5,0c0.1,0,0.2,0,0.3,-0.1c0.1,0,0.1,-0.1,0.1,-0.3l0,-16.3c0,-0.2,-0.1,-0.3,-0.3,-0.3Zm5.1,1.4c0,0.1,0,0.2,0.1,0.2c0,0,0.1,0,0.2,0l5,0c0.1,0,0.1,0.1,0.2,0.1c0,0,0,0.1,0,0.2l0,14.8c0,0.2,0.1,0.3,0.3,0.3l1.7,0c0.1,0,0.2,-0.1,0.2,-0.3l0,-14.8c0,-0.1,0,-0.2,0.1,-0.2c0,0,0.1,-0.1,0.2,-0.1l4.6,0c0.1,0,0.2,0,0.3,0c0,0,0,-0.1,0,-0.2l0,-1.2c0,-0.2,-0.1,-0.2,-0.3,-0.2l-12.3,0c-0.2,0,-0.3,0,-0.3,0.2Zm26.1,7.6c0.2,0,0.2,0.1,0.2,0.3l0,7.4c0,0.1,0.1,0.2,0.1,0.2c0.1,0.1,0.2,0.1,0.3,0.1l1.5,0c0.2,0,0.3,-0.1,0.3,-0.3l0,-16.4c0,-0.1,0,-0.2,0,-0.3c-0.1,0,-0.1,0,-0.2,0l-1.7,0c-0.2,0,-0.3,0,-0.3,0.2l0,6.8c0,0.2,0,0.3,-0.2,0.3l-7.5,0c-0.1,0,-0.2,0,-0.2,-0.1c-0.1,0,-0.1,-0.1,-0.1,-0.2l0,-6.7c0,-0.2,-0.1,-0.3,-0.3,-0.3l-1.6,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,16.4c0,0.1,0,0.2,0.1,0.3c0,0,0.1,0,0.2,0l1.5,0c0.2,0,0.3,0,0.3,-0.1c0.1,0,0.1,-0.1,0.1,-0.2l0,-7.5c0,0,0,-0.1,0.1,-0.1c0,0,0,-0.1,0.1,-0.1Z" class="g10_80" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g11_80" />
+<text 
+x="882" 
+y="1166" 
+dx="0,1.2,0" 
+class="s15_80"
+>57 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 719)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s16_80"
+>Lesson 12 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 808)"
+dx="0,1.2" 
+class="s16_80"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 825)"
+dx="0,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s16_80"
+>Changes in China </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 969)"
+dx="0,1.2" 
+class="s16_80"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 986)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s16_80"
+>Language Practice</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cmm;
+	src: url("fonts/LibreFranklin-Regular_cmm.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_cmd;
+	src: url("fonts/LibreFranklin-Bold_cmd.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cmk;
+	src: url("fonts/LibreFranklin-ExtraBold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cl_;
+	src: url("fonts/LibreFranklin-Medium_cl_.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cog;
+	src: url("fonts/LibreFranklin-SemiBold_cog.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

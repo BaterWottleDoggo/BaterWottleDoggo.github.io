@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 304 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_304{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_304{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_304{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_304{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_304{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_304{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_42g;
+fill: #8F4198;
+}
+.s2_304{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_42j;
+fill: #8F4198;
+}
+.s3_304{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_42q;
+fill: #3F3F40;
+}
+.s4_304{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s5_304{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s6_304{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_42g;
+fill: #872B91;
+}
+.s7_304{
+font-size: 9.17px;
+font-family: Wingdings-Regular_3su;
+fill: #8F4198;
+}
+.s8_304{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_42h;
+fill: #872B91;
+}
+.s9_304{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_42r;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,78.3l12.2,0" class="g1_304" />
+<path d="M119.2,891.1l12.2,0" class="g1_304" />
+<text 
+x="119" 
+y="72" 
+dx="0,0" 
+class="s1_304"
+>E </text>
+
+<text 
+x="406" 
+y="77" 
+dx="0,-2.2,0,0,0,0,0,0,0,0,-1,0" 
+class="s2_304"
+>Fact checker</text>
+
+<text 
+x="157" 
+y="134" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_304"
+>Pair up with a partner and get your facts straight based on the text of this lesson, e.g.:</text>
+
+<text 
+x="195" 
+y="188" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_304"
+>李哲的父母是加拿大移民。</text>
+
+<text 
+x="195" 
+y="229" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_304"
+>李哲的父母是加拿大移民。</text>
+
+<text 
+x="157" 
+y="286" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_304"
+>Person A </text>
+
+<text 
+x="275" 
+y="286" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_304"
+>我听说李哲的父母是加拿大移民。</text>
+
+<text 
+x="276" 
+y="326" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_304"
+>我聽說李哲的父母是加拿大移民。</text>
+
+<text 
+x="157" 
+y="374" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_304"
+>Person B </text>
+
+<text 
+x="275" 
+y="374" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_304"
+>李哲的父母不是加拿大移民，而是墨西哥移民。</text>
+
+<text 
+x="276" 
+y="414" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_304"
+>李哲的父母不是加拿大移民，而是墨西哥移民。</text>
+
+<text 
+x="168" 
+y="475" 
+dx="0,0.2" 
+class="s6_304"
+>1 </text>
+
+<text 
+x="197" 
+y="475" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_304"
+>李哲的哥哥是电脑硕士。</text>
+
+<text 
+x="197" 
+y="523" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_304"
+>李哲的哥哥是電腦碩士。</text>
+
+<text 
+x="168" 
+y="570" 
+dx="0,0.2" 
+class="s6_304"
+>2 </text>
+
+<text 
+x="197" 
+y="570" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_304"
+>李哲的哥哥同意给孩子很大的压力。</text>
+
+<text 
+x="197" 
+y="617" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_304"
+>李哲的哥哥同意給孩子很大的壓力。</text>
+
+<text 
+x="168" 
+y="665" 
+dx="0,0.2" 
+class="s6_304"
+>3 </text>
+
+<text 
+x="197" 
+y="665" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_304"
+>丽莎同意李哲嫂子的做法。</text>
+
+<text 
+x="197" 
+y="712" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_304"
+>麗莎同意李哲嫂子的做法。</text>
+
+<text 
+x="168" 
+y="760" 
+dx="0,0.2" 
+class="s6_304"
+>4 </text>
+
+<text 
+x="197" 
+y="760" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_304"
+>李哲的哥哥和嫂子在家庭经济问题上意见不同。</text>
+
+<text 
+x="197" 
+y="807" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_304"
+>李哲的哥哥和嫂子在家庭經濟問題上意見不同。</text>
+
+<text 
+x="119" 
+y="885" 
+dx="0,0" 
+class="s1_304"
+>F </text>
+
+<text 
+x="409" 
+y="889" 
+dx="0,-2.4,0,0,0,0,0,0,0,0,0,0" 
+class="s2_304"
+>Taking sides</text>
+
+<text 
+x="157" 
+y="947" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_304"
+>How do you indicate agreement or disagreement with others? Here are some options:</text>
+
+<text 
+x="168" 
+y="1001" 
+dx="0" 
+class="s7_304"
+>¡</text>
+
+<text 
+x="197" 
+y="1001" 
+dx="0,0,0,0" 
+class="s4_304"
+>我同意（</text>
+
+<text 
+x="300" 
+y="1001" 
+dx="0,0" 
+class="s3_304"
+>or</text>
+
+<text 
+x="321" 
+y="1001" 
+dx="0,0,0,0,0" 
+class="s4_304"
+>反对）……</text>
+
+<text 
+x="197" 
+y="1048" 
+dx="0,0,0,0" 
+class="s5_304"
+>我同意（</text>
+
+<text 
+x="300" 
+y="1048" 
+dx="0,0" 
+class="s3_304"
+>or</text>
+
+<text 
+x="321" 
+y="1048" 
+dx="0,0,0,0,0" 
+class="s5_304"
+>反對）……</text>
+
+<path d="M146.6,41.8l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_304" />
+<path d="M148.7,94L823,94l0,-50.9l-674.3,0l0,50.9Z" class="g3_304" />
+<text 
+x="724" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_304"
+>INTERPERSONAL</text>
+
+<path d="M719.9,76.7l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g4_304" />
+<path d="M146.6,854.6l0,53.5l0,0.7l0.8,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_304" />
+<path d="M148.7,906.8l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g3_304" />
+<text 
+x="724" 
+y="886" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_304"
+>INTERPERSONAL</text>
+
+<path d="M719.9,889.5l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g4_304" />
+<path d="M881.9,1209.2l67.2,0l0,-1222.1l-67.2,0l0,1222.1Z" class="g5_304" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 849)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s9_304"
+>Lesson 9 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 915)"
+dx="0,1" 
+class="s9_304"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 929)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s9_304"
+>Education </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1001)"
+dx="0,1" 
+class="s9_304"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1015)"
+dx="0,1,1,1,1,1,1,0.8,1,1,1,0.9,1,1,1,1,1,1" 
+class="s9_304"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1151)"
+dx="0,1,1,0" 
+class="s9_304"
+>281 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_42g;
+	src: url("fonts/LibreFranklin-ExtraBold_42g.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_42j;
+	src: url("fonts/LibreFranklin-Bold_42j.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_42q;
+	src: url("fonts/LibreFranklin-Regular_42q.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_42r;
+	src: url("fonts/LibreFranklin-SemiBold_42r.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings-Regular_3su;
+	src: url("fonts/Wingdings-Regular_3su.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_42h;
+	src: url("fonts/LibreFranklin-Medium_42h.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

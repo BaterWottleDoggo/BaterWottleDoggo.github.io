@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 199 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_199{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_199{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_199{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_199{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_199{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_cyv;
+fill: #007D9F;
+}
+.s2_199{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_cyr;
+fill: #007D9F;
+}
+.s3_199{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #3F3F40;
+}
+.s4_199{
+font-size: 27.50px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #3F3F40;
+}
+.s5_199{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cz7;
+fill: #3F3F40;
+}
+.s6_199{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s7_199{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s8_199{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cyv;
+fill: #3F3F40;
+}
+.s9_199{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s10_199{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #007D9F;
+}
+.s11_199{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s12_199{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #007D9F;
+}
+.s13_199{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cyp;
+fill: #231F20;
+}
+.s14_199{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_cg0;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M123.8,91.7l12.2,0" class="g1_199" />
+<text 
+x="123" 
+y="85" 
+dx="0,0" 
+class="s1_199"
+>5 </text>
+
+<text 
+x="386" 
+y="90" 
+dx="0,0,0,0,0,0,0,0,-0.7,0,0,0" 
+class="s2_199"
+>Adjective + </text>
+
+<text 
+x="514" 
+y="90" 
+dx="0" 
+class="s3_199"
+>于</text>
+
+<text 
+x="542" 
+y="90" 
+dx="0" 
+class="s2_199"
+>/</text>
+
+<text 
+x="550" 
+y="90" 
+dx="0" 
+class="s4_199"
+>於</text>
+
+<text 
+x="161" 
+y="152" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s5_199"
+>Used after an adjective, </text>
+
+<text 
+x="323" 
+y="153" 
+dx="0" 
+class="s6_199"
+>于</text>
+
+<text 
+x="346" 
+y="152" 
+dx="0" 
+class="s5_199"
+>/</text>
+
+<text 
+x="351" 
+y="153" 
+dx="0" 
+class="s7_199"
+>於</text>
+
+<text 
+x="378" 
+y="152" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_199"
+>has the same meaning as </text>
+
+<text 
+x="551" 
+y="153" 
+dx="0" 
+class="s6_199"
+>比</text>
+
+<text 
+x="575" 
+y="152" 
+dx="0,0" 
+class="s5_199"
+>. </text>
+
+<text 
+x="581" 
+y="153" 
+dx="0,0" 
+class="s6_199"
+>高于</text>
+
+<text 
+x="631" 
+y="152" 
+dx="0,0,0" 
+class="s5_199"
+>X /</text>
+
+<text 
+x="649" 
+y="153" 
+dx="0,0" 
+class="s7_199"
+>高於</text>
+
+<text 
+x="700" 
+y="152" 
+dx="0,0,0,0,0" 
+class="s5_199"
+>X is </text>
+
+<text 
+x="161" 
+y="179" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_199"
+>synonymous with </text>
+
+<text 
+x="283" 
+y="181" 
+dx="0" 
+class="s6_199"
+>比</text>
+
+<text 
+x="310" 
+y="179" 
+dx="0,0" 
+class="s5_199"
+>X </text>
+
+<text 
+x="323" 
+y="181" 
+dx="0" 
+class="s6_199"
+>高</text>
+
+<text 
+x="347" 
+y="179" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-1,0" 
+class="s5_199"
+>. Similarly, </text>
+
+<text 
+x="415" 
+y="181" 
+dx="0,0" 
+class="s6_199"
+>低于</text>
+
+<text 
+x="466" 
+y="179" 
+dx="0,0,0" 
+class="s5_199"
+>X /</text>
+
+<text 
+x="484" 
+y="181" 
+dx="0,0" 
+class="s7_199"
+>低於</text>
+
+<text 
+x="534" 
+y="179" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_199"
+>X has the same meaning as </text>
+
+<text 
+x="721" 
+y="181" 
+dx="0" 
+class="s6_199"
+>比</text>
+
+<text 
+x="747" 
+y="179" 
+dx="0,0" 
+class="s5_199"
+>X </text>
+
+<text 
+x="761" 
+y="181" 
+dx="0" 
+class="s7_199"
+>低</text>
+
+<text 
+x="784" 
+y="179" 
+dx="0" 
+class="s5_199"
+>.</text>
+
+<text 
+x="174" 
+y="236" 
+dx="0,0" 
+class="s8_199"
+>A </text>
+
+<text 
+x="244" 
+y="238" 
+dx="0,0,0,0,0" 
+class="s9_199"
+>今天的温度</text>
+
+<text 
+x="374" 
+y="238" 
+dx="0,0" 
+class="s10_199"
+>低于</text>
+
+<text 
+x="426" 
+y="238" 
+dx="0,0,0" 
+class="s9_199"
+>昨天。</text>
+
+<text 
+x="244" 
+y="279" 
+dx="0,0,0,0,0" 
+class="s11_199"
+>今天的溫度</text>
+
+<text 
+x="374" 
+y="279" 
+dx="0,0" 
+class="s12_199"
+>低於</text>
+
+<text 
+x="426" 
+y="279" 
+dx="0,0,0" 
+class="s11_199"
+>昨天。</text>
+
+<text 
+x="250" 
+y="312" 
+dx="0,-1.5,0,0,0,0,-0.9,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,-0.9,0" 
+class="s5_199"
+>Today’s temperature is lower than yesterday’s.</text>
+
+<text 
+x="250" 
+y="346" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s5_199"
+>or in other words: </text>
+
+<text 
+x="245" 
+y="391" 
+dx="0,0,0,0,0" 
+class="s9_199"
+>今天的温度</text>
+
+<text 
+x="375" 
+y="391" 
+dx="0" 
+class="s10_199"
+>比</text>
+
+<text 
+x="401" 
+y="391" 
+dx="0,0" 
+class="s9_199"
+>昨天</text>
+
+<text 
+x="452" 
+y="391" 
+dx="0" 
+class="s10_199"
+>低</text>
+
+<text 
+x="478" 
+y="391" 
+dx="0" 
+class="s9_199"
+>。</text>
+
+<text 
+x="245" 
+y="431" 
+dx="0,0,0,0,0" 
+class="s11_199"
+>今天的溫度</text>
+
+<text 
+x="375" 
+y="431" 
+dx="0" 
+class="s12_199"
+>比</text>
+
+<text 
+x="401" 
+y="431" 
+dx="0,0" 
+class="s11_199"
+>昨天</text>
+
+<text 
+x="452" 
+y="431" 
+dx="0" 
+class="s12_199"
+>低</text>
+
+<text 
+x="478" 
+y="431" 
+dx="0" 
+class="s11_199"
+>。</text>
+
+<text 
+x="174" 
+y="486" 
+dx="0,0" 
+class="s8_199"
+>B </text>
+
+<text 
+x="244" 
+y="488" 
+dx="0" 
+class="s9_199"
+>四</text>
+
+<text 
+x="270" 
+y="488" 
+dx="0,0" 
+class="s10_199"
+>大于</text>
+
+<text 
+x="322" 
+y="488" 
+dx="0,0" 
+class="s9_199"
+>三。</text>
+
+<text 
+x="244" 
+y="529" 
+dx="0" 
+class="s11_199"
+>四</text>
+
+<text 
+x="270" 
+y="529" 
+dx="0,0" 
+class="s12_199"
+>大於</text>
+
+<text 
+x="322" 
+y="529" 
+dx="0,0" 
+class="s11_199"
+>三。</text>
+
+<text 
+x="250" 
+y="562" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_199"
+>Four is greater than three.</text>
+
+<text 
+x="250" 
+y="596" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_199"
+>or in other words:</text>
+
+<text 
+x="245" 
+y="641" 
+dx="0" 
+class="s9_199"
+>四</text>
+
+<text 
+x="271" 
+y="641" 
+dx="0" 
+class="s10_199"
+>比</text>
+
+<text 
+x="297" 
+y="641" 
+dx="0" 
+class="s9_199"
+>三</text>
+
+<text 
+x="323" 
+y="641" 
+dx="0" 
+class="s10_199"
+>大</text>
+
+<text 
+x="349" 
+y="641" 
+dx="0" 
+class="s9_199"
+>。</text>
+
+<text 
+x="245" 
+y="681" 
+dx="0" 
+class="s11_199"
+>四</text>
+
+<text 
+x="271" 
+y="681" 
+dx="0" 
+class="s12_199"
+>比</text>
+
+<text 
+x="297" 
+y="681" 
+dx="0" 
+class="s11_199"
+>三</text>
+
+<text 
+x="323" 
+y="681" 
+dx="0" 
+class="s12_199"
+>大</text>
+
+<text 
+x="349" 
+y="681" 
+dx="0" 
+class="s11_199"
+>。</text>
+
+<text 
+x="174" 
+y="736" 
+dx="0,0" 
+class="s8_199"
+>C </text>
+
+<text 
+x="244" 
+y="738" 
+dx="0,0,0,0,0" 
+class="s9_199"
+>那个国家水</text>
+
+<text 
+x="374" 
+y="738" 
+dx="0,0" 
+class="s10_199"
+>贵于</text>
+
+<text 
+x="426" 
+y="738" 
+dx="0,0" 
+class="s9_199"
+>油。</text>
+
+<text 
+x="244" 
+y="778" 
+dx="0,0,0,0,0" 
+class="s11_199"
+>那個國家水</text>
+
+<text 
+x="374" 
+y="778" 
+dx="0,0" 
+class="s12_199"
+>貴於</text>
+
+<text 
+x="426" 
+y="778" 
+dx="0,0" 
+class="s11_199"
+>油。</text>
+
+<text 
+x="250" 
+y="812" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,-0.3,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s5_199"
+>In that country, water is more expensive than oil.</text>
+
+<text 
+x="250" 
+y="846" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s5_199"
+>or in other words: </text>
+
+<text 
+x="245" 
+y="891" 
+dx="0,0,0,0,0,0" 
+class="s9_199"
+>那个国家的水</text>
+
+<text 
+x="401" 
+y="891" 
+dx="0" 
+class="s10_199"
+>比</text>
+
+<text 
+x="427" 
+y="891" 
+dx="0" 
+class="s9_199"
+>油</text>
+
+<text 
+x="452" 
+y="891" 
+dx="0" 
+class="s10_199"
+>贵</text>
+
+<text 
+x="478" 
+y="891" 
+dx="0" 
+class="s9_199"
+>。</text>
+
+<text 
+x="245" 
+y="931" 
+dx="0,0,0,0,0,0" 
+class="s11_199"
+>那個國家的水</text>
+
+<text 
+x="401" 
+y="931" 
+dx="0" 
+class="s12_199"
+>比</text>
+
+<text 
+x="427" 
+y="931" 
+dx="0" 
+class="s11_199"
+>油</text>
+
+<text 
+x="452" 
+y="931" 
+dx="0" 
+class="s12_199"
+>貴</text>
+
+<text 
+x="478" 
+y="931" 
+dx="0" 
+class="s11_199"
+>。</text>
+
+<path d="M152.3,56.7l0,53.4l0,0.8l0.8,0l676.9,0l0.7,0l0,-0.8l0,-53.4l0,-0.8l-0.7,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_199" />
+<path d="M154.3,108.9l674.4,0l0,-51l-674.4,0l0,51Z" class="g3_199" />
+<path d="M168.1,215.1c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_199" />
+<path d="M168.1,217.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_199" />
+<path d="M168.1,463c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_199" />
+<path d="M168.1,465.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_199" />
+<path d="M168.1,713.3c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_199" />
+<path d="M168.1,715.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_199" />
+<path d="M-12.9,1140.5l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g4_199" />
+<text 
+x="20" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s13_199"
+>176 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s14_199"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s14_199"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s14_199"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s14_199"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s14_199"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s14_199"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s14_199"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s14_199"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s14_199"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_cyr;
+	src: url("fonts/LibreFranklin-Bold_cyr.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cz7;
+	src: url("fonts/LibreFranklin-Regular_cz7.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cyv;
+	src: url("fonts/LibreFranklin-ExtraBold_cyv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cyp;
+	src: url("fonts/LibreFranklin-Medium_cyp.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cg0;
+	src: url("fonts/LibreFranklin-SemiBold_cg0.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

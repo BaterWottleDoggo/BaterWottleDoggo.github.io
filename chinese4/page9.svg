@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 32 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_32{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_32{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_32{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_32{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3pt;
+fill: #3F3F40;
+}
+.s2_32{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_3pa;
+fill: #939598;
+}
+.s3_32{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s4_32{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #007D9F;
+}
+.s5_32{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s6_32{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #007D9F;
+}
+.s7_32{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3q9;
+fill: #3F3F40;
+}
+.s8_32{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s9_32{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3qb;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="169" 
+y="71" 
+dx="0,0" 
+class="s1_32"
+>E </text>
+
+<text 
+x="212" 
+y="73" 
+dx="0,0,0" 
+class="s2_32"
+>Q: </text>
+
+<text 
+x="238" 
+y="73" 
+dx="0,0,0,0,0" 
+class="s3_32"
+>这本书你看</text>
+
+<text 
+x="368" 
+y="73" 
+dx="0" 
+class="s4_32"
+>了</text>
+
+<text 
+x="394" 
+y="73" 
+dx="0,0" 
+class="s3_32"
+>吗？</text>
+
+<text 
+x="239" 
+y="114" 
+dx="0,0,0,0,0" 
+class="s5_32"
+>這本書你看</text>
+
+<text 
+x="369" 
+y="114" 
+dx="0" 
+class="s6_32"
+>了</text>
+
+<text 
+x="395" 
+y="114" 
+dx="0,0,0" 
+class="s5_32"
+>嗎？ </text>
+
+<text 
+x="245" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_32"
+>Did you read this book?</text>
+
+<text 
+x="212" 
+y="195" 
+dx="0,0,0" 
+class="s2_32"
+>A: </text>
+
+<text 
+x="241" 
+y="195" 
+dx="0,0" 
+class="s3_32"
+>我看</text>
+
+<text 
+x="293" 
+y="195" 
+dx="0" 
+class="s4_32"
+>了</text>
+
+<text 
+x="319" 
+y="195" 
+dx="0" 
+class="s3_32"
+>。</text>
+
+<text 
+x="239" 
+y="235" 
+dx="0,0" 
+class="s5_32"
+>我看</text>
+
+<text 
+x="291" 
+y="235" 
+dx="0" 
+class="s6_32"
+>了</text>
+
+<text 
+x="317" 
+y="235" 
+dx="0" 
+class="s5_32"
+>。</text>
+
+<text 
+x="245" 
+y="269" 
+dx="0,-1.5,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s7_32"
+>Yes, I read it.</text>
+
+<text 
+x="169" 
+y="328" 
+dx="0,0" 
+class="s1_32"
+>F </text>
+
+<text 
+x="212" 
+y="330" 
+dx="0,0,0" 
+class="s2_32"
+>Q: </text>
+
+<text 
+x="238" 
+y="330" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_32"
+>你买明天的电影票</text>
+
+<text 
+x="446" 
+y="330" 
+dx="0" 
+class="s4_32"
+>了</text>
+
+<text 
+x="472" 
+y="330" 
+dx="0,0" 
+class="s3_32"
+>吗？</text>
+
+<text 
+x="239" 
+y="370" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_32"
+>你買明天的電影票</text>
+
+<text 
+x="447" 
+y="370" 
+dx="0" 
+class="s6_32"
+>了</text>
+
+<text 
+x="473" 
+y="370" 
+dx="0,0" 
+class="s5_32"
+>嗎？</text>
+
+<text 
+x="245" 
+y="404" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.1,0,0,0,-0.3,0,0,0,-0.2,0,0,0,0,-0.2,0,0,-0.9,0,0,0,-0.3,0,0,0" 
+class="s7_32"
+>Did you buy tickets for tomorrow’s movie?</text>
+
+<text 
+x="212" 
+y="451" 
+dx="0,0,0" 
+class="s2_32"
+>A: </text>
+
+<text 
+x="241" 
+y="451" 
+dx="0" 
+class="s3_32"
+>买</text>
+
+<text 
+x="267" 
+y="451" 
+dx="0" 
+class="s4_32"
+>了</text>
+
+<text 
+x="293" 
+y="451" 
+dx="0" 
+class="s3_32"
+>。</text>
+
+<text 
+x="239" 
+y="492" 
+dx="0" 
+class="s5_32"
+>買</text>
+
+<text 
+x="265" 
+y="492" 
+dx="0" 
+class="s6_32"
+>了</text>
+
+<text 
+x="291" 
+y="492" 
+dx="0" 
+class="s5_32"
+>。</text>
+
+<text 
+x="245" 
+y="525" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0" 
+class="s7_32"
+>Yes, I did.</text>
+
+<text 
+x="212" 
+y="573" 
+dx="0,0,0" 
+class="s2_32"
+>Q: </text>
+
+<text 
+x="241" 
+y="573" 
+dx="0" 
+class="s3_32"
+>等</text>
+
+<text 
+x="267" 
+y="573" 
+dx="0" 
+class="s4_32"
+>了</text>
+
+<text 
+x="293" 
+y="573" 
+dx="0,0,0,0,0" 
+class="s3_32"
+>多长时间？</text>
+
+<text 
+x="239" 
+y="613" 
+dx="0" 
+class="s5_32"
+>等</text>
+
+<text 
+x="265" 
+y="613" 
+dx="0" 
+class="s6_32"
+>了</text>
+
+<text 
+x="291" 
+y="613" 
+dx="0,0,0,0,0" 
+class="s5_32"
+>多長時間？</text>
+
+<text 
+x="245" 
+y="647" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_32"
+>How long did you wait?</text>
+
+<text 
+x="212" 
+y="694" 
+dx="0,0,0" 
+class="s2_32"
+>A: </text>
+
+<text 
+x="241" 
+y="694" 
+dx="0,0,0,0,0,0" 
+class="s3_32"
+>人不多，只等</text>
+
+<text 
+x="397" 
+y="694" 
+dx="0" 
+class="s4_32"
+>了</text>
+
+<text 
+x="423" 
+y="694" 
+dx="0,0,0,0" 
+class="s3_32"
+>五分钟。</text>
+
+<text 
+x="239" 
+y="735" 
+dx="0,0,0,0,0,0" 
+class="s5_32"
+>人不多，只等</text>
+
+<text 
+x="395" 
+y="735" 
+dx="0" 
+class="s6_32"
+>了</text>
+
+<text 
+x="421" 
+y="735" 
+dx="0,0,0,0" 
+class="s5_32"
+>五分鐘。</text>
+
+<text 
+x="245" 
+y="768" 
+dx="0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0" 
+class="s7_32"
+>There weren’t a lot of people. I only waited five minutes.</text>
+
+<text 
+x="157" 
+y="816" 
+dx="0,0,0,0,0" 
+class="s7_32"
+>When </text>
+
+<text 
+x="201" 
+y="818" 
+dx="0" 
+class="s8_32"
+>了</text>
+
+<text 
+x="227" 
+y="816" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_32"
+>appears between a verb and an object, the object is usually quantified, as in (A) and </text>
+
+<text 
+x="157" 
+y="844" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s7_32"
+>(B), but it need not be if one of three circumstances applies: if the object is followed by another </text>
+
+<text 
+x="157" 
+y="873" 
+dx="0" 
+class="s8_32"
+>了</text>
+
+<text 
+x="181" 
+y="871" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.3,0,0,0,0,-0.2,0,0,0" 
+class="s7_32"
+>, as in (G); if the object is followed by another clause, as in (H); or if the object refers to a </text>
+
+<text 
+x="157" 
+y="899" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_32"
+>definite person or thing, as in (I).</text>
+
+<text 
+x="169" 
+y="955" 
+dx="0,0" 
+class="s1_32"
+>G </text>
+
+<text 
+x="239" 
+y="958" 
+dx="0,0,0,0,0" 
+class="s3_32"
+>我给小李打</text>
+
+<text 
+x="369" 
+y="958" 
+dx="0" 
+class="s4_32"
+>了</text>
+
+<text 
+x="395" 
+y="958" 
+dx="0,0" 
+class="s3_32"
+>电话</text>
+
+<text 
+x="447" 
+y="958" 
+dx="0" 
+class="s4_32"
+>了</text>
+
+<text 
+x="473" 
+y="958" 
+dx="0" 
+class="s3_32"
+>。</text>
+
+<text 
+x="239" 
+y="998" 
+dx="0,0,0,0,0" 
+class="s5_32"
+>我給小李打</text>
+
+<text 
+x="369" 
+y="998" 
+dx="0" 
+class="s6_32"
+>了</text>
+
+<text 
+x="395" 
+y="998" 
+dx="0,0" 
+class="s5_32"
+>電話</text>
+
+<text 
+x="447" 
+y="998" 
+dx="0" 
+class="s6_32"
+>了</text>
+
+<text 
+x="473" 
+y="998" 
+dx="0" 
+class="s5_32"
+>。</text>
+
+<text 
+x="245" 
+y="1032" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_32"
+>I called Little Li.</text>
+
+<path d="M164.4,48c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_32" />
+<path d="M164.4,50.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_32" />
+<path d="M164.4,304.7c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_32" />
+<path d="M164.4,306.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_32" />
+<path d="M164.4,932.6c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_32" />
+<path d="M164.4,934.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_32" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g3_32" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 832)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s9_32"
+>Lesson 1 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 896)"
+dx="0,1" 
+class="s9_32"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 910)"
+dx="0,0.7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.8,1,1" 
+class="s9_32"
+>Starting a New Semester </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1075)"
+dx="0,1" 
+class="s9_32"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1089)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s9_32"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1165)"
+dx="0,0" 
+class="s9_32"
+>9 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3qb;
+	src: url("fonts/LibreFranklin-SemiBold_3qb.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3pa;
+	src: url("fonts/LibreFranklin-Bold_3pa.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3pt;
+	src: url("fonts/LibreFranklin-ExtraBold_3pt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3q9;
+	src: url("fonts/LibreFranklin-Regular_3q9.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

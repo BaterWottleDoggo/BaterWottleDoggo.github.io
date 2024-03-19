@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 69 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_69"><path d="M706.1,91.2l0,-14.5l90.9,0l0,14.5Z" /></clipPath>
+<clipPath id="c1_69"><path d="M172.2,1132l0,-398.9l563.1,0l0,398.9Z" /></clipPath>
+<clipPath id="c2_69"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_69{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_69{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_69{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_69{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_69{
+fill: #A1C0E4;
+}
+.g6_69{
+fill: #F58320;
+}
+.g7_69{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_69{
+fill: #F15929;
+}
+.g9_69{
+fill: #FFFFFF;
+}
+.g10_69{
+fill: #D1D2D4;
+}
+.g11_69{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.4575;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_69{
+fill: #872B91;
+}
+.g13_69{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_69{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3to;
+fill: #872B91;
+}
+.s2_69{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3tg;
+fill: #872B91;
+}
+.s3_69{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_3u3;
+fill: #3F3F40;
+}
+.s4_69{
+font-size: 24.44px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #872B91;
+}
+.s5_69{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s6_69{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s7_69{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3to;
+fill: #872B91;
+}
+.s8_69{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_3tl;
+fill: #872B91;
+}
+.s9_69{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_3uh;
+fill: #FFFFFF;
+}
+.s10_69{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_3us;
+fill: #6D6E71;
+}
+.s11_69{
+font-size: 21.77px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #6D6E71;
+}
+.s12_69{
+font-size: 16.81px;
+font-family: Marion-Italic_3ug;
+fill: #6D6E71;
+}
+.s13_69{
+font-size: 16.81px;
+font-family: Marion-Italic_3up;
+fill: #6D6E71;
+}
+.s14_69{
+font-size: 20.14px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #231F20;
+}
+.s15_69{
+font-size: 15.28px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #6D6E71;
+}
+.s16_69{
+font-size: 15.28px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #6D6E71;
+}
+.s17_69{
+font-size: 24.44px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #6D6E71;
+}
+.s18_69{
+font-size: 24.44px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #6D6E71;
+}
+.s19_69{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3tt;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,90.5l13,0" class="g1_69" />
+<text 
+x="105" 
+y="87" 
+dx="0,0" 
+class="s1_69"
+>D </text>
+
+<text 
+x="347" 
+y="91" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.7,0,0,-0.5,0,0,0,0,0,0" 
+class="s2_69"
+>Constructive feedback</text>
+
+<text 
+x="143" 
+y="153" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0" 
+class="s3_69"
+>What do Chinese-language teachers hope for from their students? Form complete </text>
+
+<text 
+x="143" 
+y="180" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_69"
+>sentences using </text>
+
+<text 
+x="262" 
+y="182" 
+dx="0" 
+class="s4_69"
+>多</text>
+
+<text 
+x="290" 
+y="180" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s5_69"
+>(duō)</text>
+
+<text 
+x="329" 
+y="180" 
+dx="0,0" 
+class="s3_69"
+>or</text>
+
+<text 
+x="348" 
+y="182" 
+dx="0" 
+class="s4_69"
+>少</text>
+
+<text 
+x="376" 
+y="180" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s5_69"
+>(shǎo)</text>
+
+<text 
+x="417" 
+y="180" 
+dx="0,0,0,0,0,0,0" 
+class="s3_69"
+>, e.g.:</text>
+
+<text 
+x="143" 
+y="226" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_69"
+>老师希望学生： </text>
+
+<text 
+x="537" 
+y="226" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_69"
+>Lǎoshī xīwàng xuésheng:</text>
+
+<text 
+x="143" 
+y="264" 
+dx="0,0,0,0,0" 
+class="s6_69"
+>多来上课 </text>
+
+<text 
+x="537" 
+y="264" 
+dx="0,0.3,0.3,0,-0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3" 
+class="s5_69"
+>duō lái shàng kè</text>
+
+<text 
+x="143" 
+y="303" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_69"
+>老师希望学生多来上课。 </text>
+
+<text 
+x="537" 
+y="303" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0,-0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3" 
+class="s5_69"
+>Lǎoshī xīwàng xuésheng duō lái shàng kè.</text>
+
+<text 
+x="154" 
+y="355" 
+dx="0,0.2" 
+class="s7_69"
+>1 </text>
+
+<text 
+x="183" 
+y="355" 
+dx="0,0,0,0,0" 
+class="s6_69"
+>多预习课文</text>
+
+<text 
+x="183" 
+y="391" 
+dx="0,0.5,0.5,0,0.2,0.5,0.5,0.5,0,0.2,0.5,0.5,0.5,0.5" 
+class="s5_69"
+>duō yùxí kèwén</text>
+
+<text 
+x="154" 
+y="457" 
+dx="0,0.2" 
+class="s7_69"
+>2 </text>
+
+<text 
+x="183" 
+y="457" 
+dx="0,0,0,0" 
+class="s6_69"
+>多听录音</text>
+
+<text 
+x="183" 
+y="494" 
+dx="0,0.5,0.5,0,0.2,0.5,0.5,0.5,0,0.2,0.5,0.5,0.5,0.5" 
+class="s5_69"
+>duō tīng lùyīn</text>
+
+<text 
+x="154" 
+y="560" 
+dx="0,0.2" 
+class="s7_69"
+>3 </text>
+
+<text 
+x="183" 
+y="560" 
+dx="0,0,0,0,0,0,0" 
+class="s6_69"
+>多复习生词语法</text>
+
+<text 
+x="183" 
+y="596" 
+dx="0,0.5,0.5,0,0.2,0.5,0.5,0.5,0,0.2,0.5,0.5,0.5,0.5,0.5,0.5,0,0.2,0.5,0.5,0.5" 
+class="s5_69"
+>duō fùxí shēngcí yǔfǎ</text>
+
+<text 
+x="539" 
+y="355" 
+dx="0,0.2" 
+class="s7_69"
+>4 </text>
+
+<text 
+x="568" 
+y="355" 
+dx="0,0,0,0,0,0" 
+class="s6_69"
+>多练习写汉字</text>
+
+<text 
+x="568" 
+y="391" 
+dx="0,0.5,0.5,0,0.2,0.5,0.5,0.5,0.5,0.5,0,0.2,0.5,0.5,0,0.2,0.5,0.5,0.5,0.5" 
+class="s5_69"
+>duō liànxí xiě Hànzì</text>
+
+<text 
+x="539" 
+y="457" 
+dx="0,0.2" 
+class="s7_69"
+>5 </text>
+
+<text 
+x="568" 
+y="457" 
+dx="0,0,0,0,0,0" 
+class="s6_69"
+>上课少说英文</text>
+
+<text 
+x="568" 
+y="494" 
+dx="0,0.5,0.5,0.5,0.5,0,0.2,0.5,0,0.2,0.5,0.5,0.5,0,0.2,0.5,0.5,0.5,0,0.2,0.5,0.5,0.5,0.5,0.5,0.5" 
+class="s5_69"
+>shàng kè shǎo shuō Yīngwén</text>
+
+<text 
+x="539" 
+y="560" 
+dx="0,0.2" 
+class="s7_69"
+>6 </text>
+
+<text 
+x="568" 
+y="560" 
+dx="0,0,0" 
+class="s6_69"
+>少玩儿</text>
+
+<text 
+x="568" 
+y="596" 
+dx="0,0.5,0.5,0.5,0,0.2,0.5,0.5,0.5" 
+class="s5_69"
+>shǎo wánr</text>
+
+<text 
+x="143" 
+y="637" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_69"
+>Then, in pairs, come up with your own list of what you or would like your teacher to do more </text>
+
+<text 
+x="143" 
+y="665" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_69"
+>or less, using </text>
+
+<text 
+x="238" 
+y="666" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_69"
+>学生希望老师……</text>
+
+<text 
+x="437" 
+y="665" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0,-0.3,0,-0.3,0,-0.3" 
+class="s5_69"
+>(xuésheng xīwàng lǎoshī . . . )</text>
+
+<text 
+x="630" 
+y="665" 
+dx="0" 
+class="s3_69"
+>.</text>
+
+<path d="M132.9,56.3l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g2_69" />
+<path d="M134.9,108.5l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_69" />
+<text 
+x="708" 
+y="88" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s8_69"
+>PRESENTATIONAL</text>
+
+<g clip-path="url(#c0_69)">
+<path d="M706.1,91.2l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g4_69" />
+</g>
+<text 
+x="148" 
+y="88" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_69"
+>INTERPERSONAL</text>
+
+<path d="M144.4,91.1l90.8,0l0,-14.4l-90.8,0l0,14.4Z" class="g4_69" />
+<g clip-path="url(#c1_69)">
+<path d="M359.4,754.2c0,-11.6,-9.4,-21.1,-21.1,-21.1l-144,0c-11.7,0,-21.2,9.5,-21.2,21.1l0,14.9l186.3,0Z" class="g5_69" />
+<path d="M715.6,851.9l19.7,20.6l0,-20.6Z" class="g6_69" />
+</g>
+<text 
+x="205" 
+y="759" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s9_69"
+>Chinese Chat</text>
+
+<path d="M734.9,772.9l0,76.2l-537.8,0c-13.4,0,-24.3,-10.8,-24.3,-24.2l0,-52l562.1,0Z" class="g7_69" />
+<text 
+x="186" 
+y="797" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_69"
+>Li You just posted a restaurant review on Dianping </text>
+
+<text 
+x="558" 
+y="797" 
+dx="0,0,0,0,0,0" 
+class="s11_69"
+>(大众点评)</text>
+
+<text 
+x="661" 
+y="797" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s12_69"
+>(Dàzhòng </text>
+
+<text 
+x="186" 
+y="818" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s13_69"
+>diǎnpíng)</text>
+
+<text 
+x="240" 
+y="818" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_69"
+>, a popular Chinese review app. What dishes do you think she </text>
+
+<text 
+x="186" 
+y="839" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_69"
+>would recommend?</text>
+
+<image preserveAspectRatio="none" x="178" y="888" width="50" height="51" xlink:href="69/img/1.png" />
+<text 
+x="237" 
+y="903" 
+dx="0,0" 
+class="s14_69"
+>李友</text>
+
+<path d="M246.3,923.6l-6.5,0c-1.1,0,-2,-0.9,-2,-2.1l0,-6.4c0,-1.1,0.9,-2,2,-2l6.5,0c1.1,0,2,0.9,2,2l0,6.4c0,1.2,-0.9,2.1,-2,2.1Z" class="g8_69" />
+<path d="M243.2,914.1l1,3.1l3.3,0l-2.7,2l1.1,3.2l-2.7,-2l-2.7,2l1,-3.2l-2.7,-2l3.3,0Z" class="g9_69" />
+<path d="M258.3,923.6l-6.5,0c-1.1,0,-2.1,-0.9,-2.1,-2.1l0,-6.4c0,-1.1,1,-2,2.1,-2l6.5,0c1.1,0,2,0.9,2,2l0,6.4c0,1.2,-0.9,2.1,-2,2.1Z" class="g8_69" />
+<path d="M255.1,914.1l1.1,3.1l3.3,0l-2.7,2l1,3.2l-2.7,-2l-2.7,2l1.1,-3.2l-2.7,-2l3.3,0Z" class="g9_69" />
+<path d="M270.4,923.6l-6.5,0c-1.1,0,-2.1,-0.9,-2.1,-2.1l0,-6.4c0,-1.1,1,-2,2.1,-2l6.5,0c1.1,0,2,0.9,2,2l0,6.4c0,1.2,-0.9,2.1,-2,2.1Z" class="g8_69" />
+<path d="M267.2,914.1l1.1,3.1l3.3,0l-2.7,2l1,3.2l-2.7,-2l-2.7,2l1.1,-3.2l-2.7,-2l3.3,0Z" class="g9_69" />
+<path d="M282.3,923.6l-6.4,0c-1.2,0,-2.1,-0.9,-2.1,-2.1l0,-6.4c0,-1.1,0.9,-2,2.1,-2l6.4,0c1.2,0,2.1,0.9,2.1,2l0,6.4c0,1.2,-0.9,2.1,-2.1,2.1Z" class="g8_69" />
+<path d="M279.2,914.1l1,3.1l3.4,0l-2.7,2l1,3.2l-2.7,-2l-2.7,2l1,-3.2l-2.7,-2l3.4,0Z" class="g9_69" />
+<path d="M294.3,923.6l-6.5,0c-1.1,0,-2,-0.9,-2,-2.1l0,-6.4c0,-1.1,0.9,-2,2,-2l6.5,0c1.1,0,2,0.9,2,2l0,6.4c0,1.2,-0.9,2.1,-2,2.1Z" class="g10_69" />
+<path d="M291.2,914.1l1,3.1l3.3,0l-2.7,2l1.1,3.2l-2.7,-2l-2.7,2l1,-3.2l-2.7,-2l3.3,0Z" class="g9_69" />
+<text 
+x="322" 
+y="924" 
+dx="0,0" 
+class="s15_69"
+>口味</text>
+
+<text 
+x="349" 
+y="924" 
+dx="0,-3.8,0" 
+class="s16_69"
+>：4 </text>
+
+<text 
+x="433" 
+y="924" 
+dx="0,0" 
+class="s15_69"
+>环境</text>
+
+<text 
+x="460" 
+y="924" 
+dx="0,-3.8,0" 
+class="s16_69"
+>：5 </text>
+
+<text 
+x="543" 
+y="924" 
+dx="0,0" 
+class="s15_69"
+>服务</text>
+
+<text 
+x="570" 
+y="924" 
+dx="0,-3.8,0" 
+class="s16_69"
+>：4 </text>
+
+<text 
+x="654" 
+y="924" 
+dx="0,0" 
+class="s15_69"
+>人均</text>
+
+<text 
+x="680" 
+y="924" 
+dx="0,-3.8,0,0,0" 
+class="s16_69"
+>：¥35 </text>
+
+<text 
+x="237" 
+y="967" 
+dx="0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0.5,0,0" 
+class="s17_69"
+>酸辣汤太好喝了！家常豆腐也很好吃，一点儿</text>
+
+<text 
+x="237" 
+y="997" 
+dx="0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0" 
+class="s17_69"
+>味精都没放。不过素饺子不太好吃</text>
+
+<text 
+x="604" 
+y="991" 
+dx="0,0" 
+class="s18_69"
+>……</text>
+
+<text 
+x="236" 
+y="1113" 
+dx="0,0,0,0,0,0" 
+class="s16_69"
+>10-22 </text>
+
+<text 
+x="286" 
+y="1113" 
+dx="0,0,0,0" 
+class="s15_69"
+>心美小馆</text>
+
+<text 
+x="479" 
+y="1113" 
+dx="0" 
+class="s15_69"
+>赞</text>
+
+<text 
+x="487" 
+y="1113" 
+dx="0,-0.6,-0.5" 
+class="s16_69"
+>（9）</text>
+
+<text 
+x="544" 
+y="1113" 
+dx="0,0" 
+class="s15_69"
+>回应</text>
+
+<text 
+x="568" 
+y="1113" 
+dx="0,-0.5,-0.5" 
+class="s16_69"
+>（2）</text>
+
+<text 
+x="626" 
+y="1113" 
+dx="0,0" 
+class="s15_69"
+>收藏</text>
+
+<text 
+x="687" 
+y="1113" 
+dx="0,0" 
+class="s15_69"
+>举报</text>
+
+<path d="M734.4,1131.2l-561.4,0l0,-255.5l561.4,0Z" class="g11_69" />
+<image preserveAspectRatio="none" x="211" y="1008" width="135" height="90" xlink:href="69/img/2.png" />
+<image preserveAspectRatio="none" x="291" y="1008" width="119" height="80" xlink:href="69/img/3.png" />
+<image preserveAspectRatio="none" x="384" y="1009" width="120" height="80" xlink:href="69/img/4.png" />
+<path d="M0,1196.3l40.5,0L40.5,0L0,0L0,1196.3Z" class="g12_69" />
+<g clip-path="url(#c2_69)">
+<path d="M-26.6,1209.2l67.1,0l0,-1222.1l-67.1,0l0,1222.1Z" class="g13_69" />
+</g>
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1" 
+class="s19_69"
+>48 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1136)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s19_69"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 996)"
+dx="0,1" 
+class="s19_69"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 982)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s19_69"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_3up;
+	src: url("fonts/Marion-Italic_3up.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3tl;
+	src: url("fonts/LibreFranklin-Medium_3tl.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_3ru;
+	src: url("fonts/SourceHanSansCN-Regular_3ru.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3tt;
+	src: url("fonts/LibreFranklin-SemiBold_3tt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3tg;
+	src: url("fonts/LibreFranklin-Bold_3tg.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Regular_3ri;
+	src: url("fonts/SourceHanSansTW-Regular_3ri.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3u3;
+	src: url("fonts/LibreFranklin-Regular_3u3.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3uh;
+	src: url("fonts/LibreFranklin-SemiBold_3uh.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3us;
+	src: url("fonts/LibreFranklin-Medium_3us.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3to;
+	src: url("fonts/LibreFranklin-ExtraBold_3to.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_3ug;
+	src: url("fonts/Marion-Italic_3ug.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

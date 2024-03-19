@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 278 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_278"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_278{
+fill: #56565A;
+}
+.g2_278{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_278{
+fill: #56565A;
+stroke: #DCDDDF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_278{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g5_278{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g6_278{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7654167;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_278{
+font-size: 22.92px;
+font-family: LibreFranklin-ExtraBold_dm8;
+fill: #FFFFFF;
+}
+.s2_278{
+font-size: 14.51px;
+font-family: LibreFranklin-Bold_dm9;
+fill: #231F20;
+}
+.s3_278{
+font-size: 15.28px;
+font-family: Wingdings2_cft;
+fill: #E5C354;
+}
+.s4_278{
+font-size: 13.37px;
+font-family: LibreFranklin-Medium_dmb;
+fill: #231F20;
+}
+.s5_278{
+font-size: 32.85px;
+font-family: LibreFranklin-ExtraBold_dm8;
+fill: #FFFFFF;
+}
+.s6_278{
+font-size: 27.50px;
+font-family: SourceHanSansCN-Medium_cfk;
+fill: #FFFFFF;
+}
+.s7_278{
+font-size: 27.50px;
+font-family: SourceHanSansTW-Medium_ceq;
+fill: #FFFFFF;
+}
+.s8_278{
+font-size: 91.67px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #56565A;
+}
+.s9_278{
+font-size: 91.67px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #56565A;
+}
+.s10_278{
+font-size: 36.67px;
+font-family: MuseoSlab-900_dmg;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image preserveAspectRatio="none" x="20" y="22" width="877" height="912" xlink:href="278/img/1.png" />
+<image preserveAspectRatio="none" x="20" y="781" width="361" height="152" xlink:href="278/img/2.png" />
+<image preserveAspectRatio="none" x="381" y="781" width="361" height="152" xlink:href="278/img/3.png" />
+<image preserveAspectRatio="none" x="742" y="781" width="155" height="152" xlink:href="278/img/4.png" />
+<path d="M721.9,152.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.5,3.6,3.5l118.6,0c0,0,3.6,0,3.6,-3.5l0,-42.1c0,0,0,-3.5,-3.6,-3.5Z" class="g1_278" />
+<path d="M721.9,152.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.5,3.6,3.5l118.6,0c0,0,3.6,0,3.6,-3.5l0,-42.1c0,0,0,-3.5,-3.6,-3.5l-118.6,0Z" class="g2_278" />
+<path d="M721.9,212.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.6,3.6,3.6l118.6,0c0,0,3.6,0,3.6,-3.6l0,-42.1c0,0,0,-3.5,-3.6,-3.5Z" class="g1_278" />
+<path d="M721.9,212.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.6,3.6,3.6l118.6,0c0,0,3.6,0,3.6,-3.6l0,-42.1c0,0,0,-3.5,-3.6,-3.5l-118.6,0Z" class="g2_278" />
+<path d="M473.2,956.6l310.4,0l0,-46l-310.4,0l0,46Z" class="g3_278" />
+<path d="M133.2,956.6l310.4,0l0,-46l-310.4,0l0,46Z" class="g3_278" />
+<text 
+x="175" 
+y="939" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.5,0.2" 
+class="s1_278"
+>Learning Objectives</text>
+
+<text 
+x="161" 
+y="987" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s2_278"
+>In this lesson, you will learn to:</text>
+
+<text 
+x="163" 
+y="1012" 
+dx="0" 
+class="s3_278"
+></text>
+
+<text 
+x="182" 
+y="1012" 
+dx="0,-0.2,0,0,0,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,-0.1,-0.2,0,-0.1,0,0,0,-0.1,0,0,0" 
+class="s4_278"
+>Explain why China has been able to attract </text>
+
+<text 
+x="182" 
+y="1030" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.3,-0.4,0,0,0,0,0" 
+class="s4_278"
+>talent and corporations from overseas</text>
+
+<text 
+x="163" 
+y="1052" 
+dx="0" 
+class="s3_278"
+></text>
+
+<text 
+x="182" 
+y="1052" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,-0.2,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_278"
+>Describe overseas returnees and </text>
+
+<text 
+x="182" 
+y="1070" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_278"
+>their nickname</text>
+
+<text 
+x="163" 
+y="1091" 
+dx="0" 
+class="s3_278"
+></text>
+
+<text 
+x="182" 
+y="1091" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s4_278"
+>Recount a nerve-racking interview</text>
+
+<text 
+x="163" 
+y="1113" 
+dx="0" 
+class="s3_278"
+></text>
+
+<text 
+x="182" 
+y="1113" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_278"
+>Handle typical job interview questions</text>
+
+<text 
+x="506" 
+y="939" 
+dx="0,0.2,0.2,0.2,0.2,-0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_278"
+>Relate and Get Ready</text>
+
+<text 
+x="500" 
+y="987" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_278"
+>In your own culture/community:</text>
+
+<text 
+x="502" 
+y="1012" 
+dx="0" 
+class="s3_278"
+></text>
+
+<text 
+x="521" 
+y="1012" 
+dx="0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.3,-0.4,0,0,0,0,0,0" 
+class="s4_278"
+>Are there many returnees from overseas </text>
+
+<text 
+x="521" 
+y="1030" 
+dx="0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0" 
+class="s4_278"
+>with foreign college degrees?</text>
+
+<text 
+x="502" 
+y="1052" 
+dx="0" 
+class="s3_278"
+></text>
+
+<text 
+x="521" 
+y="1052" 
+dx="0,0,0,0,0,-0.3,-0.3,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s4_278"
+>How extensive is the interviewing process </text>
+
+<text 
+x="521" 
+y="1070" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_278"
+>for entry-level positions?</text>
+
+<text 
+x="502" 
+y="1091" 
+dx="0" 
+class="s3_278"
+></text>
+
+<text 
+x="521" 
+y="1091" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0" 
+class="s4_278"
+>What are some typical questions you’d </text>
+
+<text 
+x="521" 
+y="1110" 
+dx="0,-0.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s4_278"
+>expect to be asked during a job interview?</text>
+
+<text 
+x="699" 
+y="117" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_278"
+>Lesson 19</text>
+
+<text 
+x="727" 
+y="187" 
+dx="0,-1.4,-1.4,-1.4" 
+class="s6_278"
+>第十九课</text>
+
+<text 
+x="727" 
+y="248" 
+dx="0,-1.4,-1.4,-1.4" 
+class="s7_278"
+>第十九課</text>
+
+<g clip-path="url(#c0_278)">
+<path d="M670,134.3l302.8,0" class="g4_278" />
+<path d="M670,136.4l302.8,0" class="g5_278" />
+</g>
+<path d="M136.1,808.2l0,60.8l0,1.2l1.2,0l645.8,0l1.2,0l0,-1.2l0,-60.8l0,-1.1l-1.2,0l-645.8,0l-1.2,0l0,1.1Z" class="g2_278" />
+<path d="M139.2,867.1l642,0l0,-56.9l-642,0l0,56.9Z" class="g6_278" />
+<image preserveAspectRatio="none" x="132" y="562" width="544" height="105" xlink:href="278/img/5.png" />
+<image preserveAspectRatio="none" x="676" y="562" width="109" height="105" xlink:href="278/img/6.png" />
+<image preserveAspectRatio="none" x="132" y="676" width="544" height="106" xlink:href="278/img/7.png" />
+<image preserveAspectRatio="none" x="676" y="676" width="109" height="106" xlink:href="278/img/8.png" />
+<text 
+x="367" 
+y="640" 
+dx="0,0" 
+class="s8_278"
+>面试</text>
+
+<text 
+x="367" 
+y="756" 
+dx="0,0" 
+class="s9_278"
+>面試</text>
+
+<text 
+x="301" 
+y="854" 
+dx="0,0,0,0,0,0,0,0,0,-0.6,0,0,0" 
+class="s10_278"
+>JOB INTERVIEW</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_dm9;
+	src: url("fonts/LibreFranklin-Bold_dm9.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_ceq;
+	src: url("fonts/SourceHanSansTW-Medium_ceq.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_dm8;
+	src: url("fonts/LibreFranklin-ExtraBold_dm8.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-900_dmg;
+	src: url("fonts/MuseoSlab-900_dmg.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_cfk;
+	src: url("fonts/SourceHanSansCN-Medium_cfk.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dmb;
+	src: url("fonts/LibreFranklin-Medium_dmb.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings2_cft;
+	src: url("fonts/Wingdings2_cft.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 249 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_249{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_249{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_249{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_249{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_249{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_249{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_32x;
+fill: #872B91;
+}
+.s2_249{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s3_249{
+font-size: 15.28px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s4_249{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s5_249{
+font-size: 15.28px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #A8A9AD;
+}
+.s6_249{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_32x;
+fill: #872B91;
+}
+.s7_249{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_32r;
+fill: #872B91;
+}
+.s8_249{
+font-size: 15.28px;
+font-family: ProximaNova-Light_330;
+fill: #3F3F40;
+}
+.s9_249{
+font-size: 10.31px;
+font-family: ProximaNova-Regular_332;
+fill: #872B91;
+}
+.s10_249{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_32_;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,416.9l13,0" class="g1_249" />
+<text 
+x="154" 
+y="78" 
+dx="0,0.2" 
+class="s1_249"
+>3 </text>
+
+<text 
+x="183" 
+y="78" 
+dx="0,0,0" 
+class="s2_249"
+>喝茶 </text>
+
+<text 
+x="255" 
+y="72" 
+dx="0" 
+class="s3_249"
+>◇</text>
+
+<text 
+x="278" 
+y="78" 
+dx="0,0,0" 
+class="s2_249"
+>咖啡杯</text>
+
+<text 
+x="183" 
+y="114" 
+dx="0,0,0,0,0,0,0" 
+class="s4_249"
+>hē chá </text>
+
+<text 
+x="226" 
+y="114" 
+dx="0" 
+class="s5_249"
+>◇</text>
+
+<text 
+x="245" 
+y="114" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_249"
+>kāfēi bēi</text>
+
+<text 
+x="154" 
+y="180" 
+dx="0,0.2" 
+class="s1_249"
+>4 </text>
+
+<text 
+x="183" 
+y="180" 
+dx="0,0,0,0" 
+class="s2_249"
+>写日记 </text>
+
+<text 
+x="287" 
+y="175" 
+dx="0" 
+class="s5_249"
+>◇</text>
+
+<text 
+x="310" 
+y="180" 
+dx="0,0" 
+class="s2_249"
+>中文</text>
+
+<text 
+x="183" 
+y="216" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_249"
+>xiě rìjì </text>
+
+<text 
+x="225" 
+y="216" 
+dx="0" 
+class="s5_249"
+>◇</text>
+
+<text 
+x="244" 
+y="216" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_249"
+>Zhōngwén</text>
+
+<text 
+x="154" 
+y="282" 
+dx="0,0.2" 
+class="s1_249"
+>5 </text>
+
+<text 
+x="183" 
+y="282" 
+dx="0,0,0,0" 
+class="s2_249"
+>看电影 </text>
+
+<text 
+x="287" 
+y="277" 
+dx="0" 
+class="s5_249"
+>◇</text>
+
+<text 
+x="310" 
+y="282" 
+dx="0,0" 
+class="s2_249"
+>电脑</text>
+
+<text 
+x="183" 
+y="319" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_249"
+>kàn diànyǐng </text>
+
+<text 
+x="265" 
+y="319" 
+dx="0" 
+class="s5_249"
+>◇</text>
+
+<text 
+x="284" 
+y="319" 
+dx="0,0,0,0,0,0,0" 
+class="s4_249"
+>diànnǎo</text>
+
+<text 
+x="105" 
+y="413" 
+dx="0,0" 
+class="s6_249"
+>J </text>
+
+<text 
+x="402" 
+y="418" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_249"
+>Get personal</text>
+
+<text 
+x="143" 
+y="479" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_249"
+>Survey your classmates about how they write letters and diary entries.</text>
+
+<text 
+x="143" 
+y="525" 
+dx="0,0,0,0,0" 
+class="s2_249"
+>你写信吗?</text>
+
+<text 
+x="143" 
+y="561" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_249"
+>Nǐ xiě xìn ma?</text>
+
+<text 
+x="143" 
+y="629" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_249"
+>你常常给谁写信?</text>
+
+<text 
+x="143" 
+y="665" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_249"
+>Nǐ chángcháng gěi shéi xiě xìn?</text>
+
+<text 
+x="143" 
+y="733" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_249"
+>你会用电脑写信吗?</text>
+
+<text 
+x="143" 
+y="769" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_249"
+>Nǐ huì yòng diànnǎo xiě xìn ma?</text>
+
+<text 
+x="143" 
+y="836" 
+dx="0,0,0,0,0,0" 
+class="s2_249"
+>你写日记吗?</text>
+
+<text 
+x="143" 
+y="873" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_249"
+>Nǐ xiě rìjì ma?</text>
+
+<text 
+x="143" 
+y="940" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_249"
+>你用中文写日记还是用英文写日记?</text>
+
+<text 
+x="143" 
+y="977" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_249"
+>Nǐ yòng Zhōngwén xiě rìjì háishi yòng yīngwén xiě rìjì?</text>
+
+<path d="M132.9,382.7l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g2_249" />
+<path d="M134.9,434.9l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_249" />
+<text 
+x="711" 
+y="414" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s9_249"
+>INTERPERSONAL</text>
+
+<path d="M706.1,417.6l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g4_249" />
+<path d="M-31.2,1209.2l67.1,0l0,-1222.1l-67.1,0l0,1222.1Z" class="g5_249" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3,0.3" 
+class="s10_249"
+>228 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1142)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s10_249"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1020)"
+dx="0,0.3" 
+class="s10_249"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1007)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s10_249"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_32x;
+	src: url("fonts/ProximaNova-Extrabld_32x.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_32_;
+	src: url("fonts/ProximaNova-Semibold_32_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_32r;
+	src: url("fonts/ProximaNova-Bold_32r.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_332;
+	src: url("fonts/ProximaNova-Regular_332.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_330;
+	src: url("fonts/ProximaNova-Light_330.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

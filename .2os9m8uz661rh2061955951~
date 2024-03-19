@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 140 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_140{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_140{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_140{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_140{
+fill: #DAEFEB;
+}
+.g5_140{
+fill: none;
+stroke: #C6EAFA;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_140{
+fill: none;
+stroke: #C6EAFA;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_140{
+fill: #CAE7E2;
+}
+.g8_140{
+fill: none;
+stroke: #00A3AF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_140{
+fill: #00A3AF;
+}
+.g10_140{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_140{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3v-;
+fill: #86B345;
+}
+.s2_140{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s3_140{
+font-size: 27.50px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #3F3F40;
+}
+.s4_140{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3vu;
+fill: #7AAD35;
+}
+.s5_140{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s6_140{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3wc;
+fill: #3F3F40;
+}
+.s7_140{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s8_140{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3v-;
+fill: #3F3F40;
+}
+.s9_140{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s10_140{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #749E3C;
+}
+.s11_140{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s12_140{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #749E3C;
+}
+.s13_140{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBoldIt_3w-;
+fill: #67962C;
+}
+.s14_140{
+font-size: 14.51px;
+font-family: LibreFranklin-Medium_3v_;
+fill: #231F20;
+}
+.s15_140{
+font-size: 36.67px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #F7931D;
+}
+.s16_140{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #231F20;
+}
+.s17_140{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #00AEEF;
+}
+.s18_140{
+font-size: 36.67px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #F7931D;
+}
+.s19_140{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #231F20;
+}
+.s20_140{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #00AEEF;
+}
+.s21_140{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3wg;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,78.3l12.2,0" class="g1_140" />
+<text 
+x="119" 
+y="72" 
+dx="0,0" 
+class="s1_140"
+>G </text>
+
+<text 
+x="311" 
+y="77" 
+dx="0,0,0" 
+class="s2_140"
+>标准/</text>
+
+<text 
+x="380" 
+y="77" 
+dx="0,0" 
+class="s3_140"
+>標準</text>
+
+<text 
+x="441" 
+y="77" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s4_140"
+>(criterion, standard)</text>
+
+<text 
+x="157" 
+y="149" 
+dx="0,0" 
+class="s5_140"
+>标准</text>
+
+<text 
+x="204" 
+y="148" 
+dx="0" 
+class="s6_140"
+>/</text>
+
+<text 
+x="209" 
+y="149" 
+dx="0,0" 
+class="s7_140"
+>標準</text>
+
+<text 
+x="260" 
+y="148" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_140"
+>can be used as a noun, as in (1) and (2). </text>
+
+<text 
+x="171" 
+y="204" 
+dx="0,0" 
+class="s8_140"
+>1 </text>
+
+<text 
+x="239" 
+y="206" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_140"
+>你认为一个好老师的</text>
+
+<text 
+x="473" 
+y="206" 
+dx="0,0" 
+class="s10_140"
+>标准</text>
+
+<text 
+x="525" 
+y="206" 
+dx="0,0,0,0" 
+class="s9_140"
+>是什么？</text>
+
+<text 
+x="239" 
+y="247" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s11_140"
+>你認為一個好老師的</text>
+
+<text 
+x="473" 
+y="247" 
+dx="0,0" 
+class="s12_140"
+>標準</text>
+
+<text 
+x="525" 
+y="247" 
+dx="0,0,0,0" 
+class="s11_140"
+>是什麼？</text>
+
+<text 
+x="245" 
+y="281" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.3,0,0,0,0,0,-0.1,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_140"
+>What do you think are the criteria for a good teacher? </text>
+
+<text 
+x="607" 
+y="281" 
+dx="0,0,0,0,0,0" 
+class="s13_140"
+>[noun]</text>
+
+<text 
+x="169" 
+y="339" 
+dx="0,0" 
+class="s8_140"
+>2 </text>
+
+<text 
+x="239" 
+y="342" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_140"
+>这个大学收研究生有什么</text>
+
+<text 
+x="525" 
+y="342" 
+dx="0,0" 
+class="s10_140"
+>标准</text>
+
+<text 
+x="577" 
+y="342" 
+dx="0" 
+class="s9_140"
+>？</text>
+
+<text 
+x="239" 
+y="382" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_140"
+>這個大學收研究生有什麼</text>
+
+<text 
+x="525" 
+y="382" 
+dx="0,0" 
+class="s12_140"
+>標準</text>
+
+<text 
+x="577" 
+y="382" 
+dx="0" 
+class="s11_140"
+>？</text>
+
+<text 
+x="245" 
+y="416" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0" 
+class="s6_140"
+>What are the criteria for accepting graduate students at this university? </text>
+
+<text 
+x="729" 
+y="416" 
+dx="0,0,0,0,0,0" 
+class="s13_140"
+>[noun]</text>
+
+<text 
+x="157" 
+y="465" 
+dx="0,0" 
+class="s7_140"
+>标准</text>
+
+<text 
+x="204" 
+y="464" 
+dx="0,0" 
+class="s6_140"
+>/ </text>
+
+<text 
+x="212" 
+y="465" 
+dx="0,0,0" 
+class="s5_140"
+>標準 </text>
+
+<text 
+x="266" 
+y="464" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0" 
+class="s6_140"
+>can also be used as an adjective—as an attributive, as in (3), or as a predicate, </text>
+
+<text 
+x="157" 
+y="491" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s6_140"
+>as in (4).</text>
+
+<text 
+x="169" 
+y="548" 
+dx="0,0" 
+class="s8_140"
+>3 </text>
+
+<text 
+x="239" 
+y="550" 
+dx="0,0,0,0" 
+class="s9_140"
+>他说的是</text>
+
+<text 
+x="343" 
+y="550" 
+dx="0,0" 
+class="s10_140"
+>标准</text>
+
+<text 
+x="395" 
+y="550" 
+dx="0,0,0,0,0" 
+class="s9_140"
+>的北京话。</text>
+
+<text 
+x="239" 
+y="591" 
+dx="0,0,0,0" 
+class="s11_140"
+>他說的是</text>
+
+<text 
+x="343" 
+y="591" 
+dx="0,0" 
+class="s12_140"
+>標準</text>
+
+<text 
+x="395" 
+y="591" 
+dx="0,0,0,0,0,0" 
+class="s11_140"
+>的北京話。 </text>
+
+<text 
+x="245" 
+y="624" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_140"
+>What he speaks is standard Beijing dialect. </text>
+
+<text 
+x="535" 
+y="624" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s13_140"
+>[attributive]</text>
+
+<text 
+x="169" 
+y="683" 
+dx="0,0" 
+class="s8_140"
+>4 </text>
+
+<text 
+x="239" 
+y="685" 
+dx="0,0,0,0,0,0,0,0" 
+class="s9_140"
+>我说的上海话不太</text>
+
+<text 
+x="447" 
+y="685" 
+dx="0,0" 
+class="s10_140"
+>标准</text>
+
+<text 
+x="499" 
+y="685" 
+dx="0" 
+class="s9_140"
+>。</text>
+
+<text 
+x="239" 
+y="726" 
+dx="0,0,0,0,0,0,0,0" 
+class="s11_140"
+>我說的上海話不太</text>
+
+<text 
+x="447" 
+y="726" 
+dx="0,0" 
+class="s12_140"
+>標準</text>
+
+<text 
+x="499" 
+y="726" 
+dx="0" 
+class="s11_140"
+>。</text>
+
+<text 
+x="245" 
+y="760" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s6_140"
+>My Shanghainese is not very standard. </text>
+
+<text 
+x="507" 
+y="760" 
+dx="0,0,0,-0.2,0,0,0,0,0,-0.2,0" 
+class="s13_140"
+>[predicate]</text>
+
+<path d="M146.6,41.8l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_140" />
+<path d="M148.7,94L823,94l0,-50.9l-674.3,0l0,50.9Z" class="g3_140" />
+<path d="M164.4,181.3c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_140" />
+<path d="M164.4,183.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_140" />
+<path d="M164.4,316.5c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_140" />
+<path d="M164.4,318.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_140" />
+<path d="M164.4,525.1c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_140" />
+<path d="M164.4,527.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_140" />
+<path d="M164.4,660.3c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_140" />
+<path d="M164.4,662.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_140" />
+<path d="M847.9,939.9l0,-37.7L829.6,883.9l-264.4,0l0,56.1Z" class="g4_140" />
+<path d="M79,1020.3l768.9,0" class="g5_140" />
+<path d="M79,1112.2l768.9,0" class="g6_140" />
+<path d="M366.2,1118.1l194.6,0l0,-213.3l-194.6,0l0,213.3Z" class="g7_140" />
+<text 
+x="380" 
+y="948" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.1,0,0,0" 
+class="s14_140"
+>Using the word/phrase </text>
+
+<text 
+x="380" 
+y="966" 
+dx="0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s14_140"
+>in orange as a clue, try to </text>
+
+<text 
+x="380" 
+y="985" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_140"
+>figure out the meaning </text>
+
+<text 
+x="380" 
+y="1003" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s14_140"
+>of the words/phrases in </text>
+
+<text 
+x="380" 
+y="1021" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_140"
+>blue; consult a dictionary </text>
+
+<text 
+x="380" 
+y="1040" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0" 
+class="s14_140"
+>if necessary. Consider </text>
+
+<text 
+x="380" 
+y="1058" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0" 
+class="s14_140"
+>how the literal and </text>
+
+<text 
+x="380" 
+y="1076" 
+dx="0,-0.3,-0.3,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s14_140"
+>extended senses are </text>
+
+<text 
+x="380" 
+y="1095" 
+dx="0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_140"
+>related in each case.</text>
+
+<path d="M362.3,940.2l0,-56.3l-264.9,0L79,902.2l0,38.2Z" class="g4_140" />
+<text 
+x="187" 
+y="922" 
+dx="0,0" 
+class="s15_140"
+>合适</text>
+
+<text 
+x="90" 
+y="974" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s16_140"
+>租这套房子付两百块押</text>
+
+<text 
+x="90" 
+y="1001" 
+dx="0,0,0,0,0" 
+class="s16_140"
+>金不多，很</text>
+
+<text 
+x="219" 
+y="1001" 
+dx="0,0" 
+class="s17_140"
+>合理</text>
+
+<text 
+x="271" 
+y="1001" 
+dx="0" 
+class="s16_140"
+>。</text>
+
+<text 
+x="90" 
+y="1059" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s16_140"
+>这两件衬衫一共就二十</text>
+
+<text 
+x="90" 
+y="1087" 
+dx="0,0,0,0" 
+class="s16_140"
+>块钱？太</text>
+
+<text 
+x="193" 
+y="1087" 
+dx="0,0" 
+class="s17_140"
+>合算</text>
+
+<text 
+x="245" 
+y="1087" 
+dx="0,0" 
+class="s16_140"
+>了！</text>
+
+<text 
+x="668" 
+y="922" 
+dx="0,0" 
+class="s18_140"
+>合適</text>
+
+<text 
+x="570" 
+y="974" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s19_140"
+>租這套房子付兩百塊押</text>
+
+<text 
+x="570" 
+y="1001" 
+dx="0,0,0,0,0" 
+class="s19_140"
+>金不多，很</text>
+
+<text 
+x="700" 
+y="1001" 
+dx="0,0" 
+class="s20_140"
+>合理</text>
+
+<text 
+x="752" 
+y="1001" 
+dx="0" 
+class="s19_140"
+>。</text>
+
+<text 
+x="570" 
+y="1059" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s19_140"
+>這兩件襯衫一共就二十</text>
+
+<text 
+x="570" 
+y="1087" 
+dx="0,0,0,0" 
+class="s19_140"
+>塊錢？太</text>
+
+<text 
+x="674" 
+y="1087" 
+dx="0,0" 
+class="s20_140"
+>合算</text>
+
+<text 
+x="726" 
+y="1087" 
+dx="0,0" 
+class="s19_140"
+>了！</text>
+
+<path d="M397.4,858.3l-89.9,0l-15.8,10.6l0,15" class="g8_140" />
+<path d="M536.6,858.3l99.6,0l16.6,10.6l0,15" class="g8_140" />
+<path d="M497.5,842c-1.5,2.9,-2.7,5.4,-5.2,10.9L472.7,896l-0.8,0L460.6,871.4L449.3,896l-0.9,0L428.3,852.6c-2,-4.2,-3.7,-7.6,-5.5,-10.6l7.7,0c0.9,2.5,2.2,5.6,3.9,9.2l15.2,34.1L458,865.6l-5.9,-12.9c-2.4,-5.5,-3.5,-7.7,-5.5,-10.7l7.2,0c0.9,2.5,1.7,4.5,4.3,10.1l2.9,6.6l2.9,-6.8c2.2,-5.1,3.2,-7.5,4.1,-9.9l6.6,0c-1.1,1.6,-2.8,5.2,-5.4,10.8l-5.6,12l8.8,20.2l14.2,-32.9c2.6,-5.7,3.5,-8.3,4.1,-10.1Z" class="g9_140" />
+<path d="M498.8,873.5c6.3,0,11.3,5,11.3,11.2c0,6.2,-5,11.2,-11.3,11.2c-6.2,0,-11.2,-5,-11.2,-11.2c0,-6.2,5,-11.2,11.2,-11.2m0,20.2c4.8,0,8.6,-4,8.6,-9c0,-5,-3.8,-9,-8.6,-9c-4.7,0,-8.5,4,-8.5,9c0,5,3.8,9,8.5,9Z" class="g9_140" />
+<path d="M514.6,890.1c0,2.1,0.1,4.5,0.2,5.4l-2.8,0c0.1,-0.9,0.1,-3.3,0.1,-5.4l0,-10.6c0,-2.1,0,-4.7,-0.1,-5.6l4.5,0c4.8,0,7.4,2.6,7.4,6.3c0,3.4,-2.1,5.2,-4.3,5.8c2.4,2.9,5.1,7.2,7.6,9.5l-3.6,0c-1.7,-2.2,-4.4,-5.8,-6.2,-9c-0.4,0.1,-0.7,0.1,-1,0.1l-1.8,0Zm0,-5.4l2.1,0c2.7,0,4.6,-1.8,4.6,-4.4c0,-2.3,-1.6,-4.4,-4.9,-4.4l-1.8,0Z" class="g9_140" />
+<path d="M527.9,895.5c0.1,-0.9,0.1,-3.5,0.1,-5.6l0,-10.4c0,-2.1,0,-4.7,-0.1,-5.6l6.1,0c6,0,10.9,4.8,10.9,10.8c0,6,-4.9,10.8,-10.9,10.8Zm2.7,-2.1l3.2,0c4.7,0,8.5,-4,8.5,-8.7c0,-4.8,-3.8,-8.7,-8.5,-8.7l-3.2,0Z" class="g9_140" />
+<path d="M556.2,889.8c0,3.7,-2.7,6.2,-6.6,6.2c-2,0,-3.3,-0.5,-4.9,-0.8l0,-3.6c0.8,1.3,2.8,2.4,5,2.4c2.3,0,3.7,-1.6,3.7,-3.8c0,-4.7,-8.1,-4.7,-8.1,-11c0,-3.7,2.7,-5.8,6.3,-5.8c1.7,0,2.7,0.5,4,0.6l0,3.4c-0.6,-1.4,-2.2,-2,-4,-2c-2.1,0,-3.6,1.3,-3.6,3.5c0,4.6,8.2,4.7,8.2,10.9Z" class="g9_140" />
+<path d="M498.7,862.9l2.2,0c0.3,0,0.4,0,0.5,-0.2l1.8,-5.1c0,-0.1,0.2,-0.2,0.3,-0.2l7.8,0c0.1,0,0.2,0,0.2,0c0,0.1,0.1,0.1,0.1,0.2l1.8,5c0.1,0.2,0.2,0.3,0.5,0.3l2.6,0c0.2,0,0.3,-0.1,0.3,-0.3c0,-0.1,0,-0.2,0,-0.2l-7.1,-19.7c-0.1,-0.3,-0.3,-0.5,-0.7,-0.5l-2.8,0c-0.2,0,-0.3,0,-0.4,0.1c-0.1,0.1,-0.1,0.2,-0.2,0.3l-7.1,19.8l-0.1,0.2c0,0.2,0.1,0.3,0.3,0.3m5.6,-8.1c-0.1,0,-0.2,-0.1,-0.2,-0.2l0,-0.2l3.1,-8.4c0.1,-0.2,0.1,-0.2,0.2,-0.2c0.1,0,0.2,0,0.2,0.2l3,8.4c0.1,0.1,0.1,0.2,0,0.3c0,0,-0.1,0.1,-0.2,0.1ZM533,842.2l-2.2,0c-0.2,0,-0.4,0,-0.4,0.1c-0.1,0,-0.2,0.1,-0.3,0.3l-4.8,8.5c-0.1,0.1,-0.2,0.2,-0.3,0.2c-0.1,0,-0.2,-0.1,-0.3,-0.3l-4.9,-8.4c-0.1,-0.2,-0.1,-0.3,-0.2,-0.3c-0.1,-0.1,-0.3,-0.1,-0.4,-0.1l-2.7,0c-0.3,0,-0.4,0.1,-0.4,0.3c0,0,0,0.1,0,0.2l6.8,11.2c0,0.2,0.1,0.3,0.1,0.4c0.1,0.2,0.1,0.3,0.1,0.5l0,7.7c0,0.3,0.2,0.4,0.5,0.4l2.2,0c0.3,0,0.4,0,0.5,-0.1c0.1,-0.1,0.2,-0.2,0.2,-0.4l0,-7.6c0,-0.4,0,-0.6,0,-0.7c0,-0.2,0.1,-0.3,0.2,-0.4l6.6,-11.1c0.1,-0.1,0.1,-0.2,0,-0.3c0,-0.1,-0.1,-0.1,-0.3,-0.1Z" class="g9_140" />
+<path d="M402.8,862.9l1.5,0c0.2,0,0.3,0,0.4,-0.1l1.2,-3.6c0.1,-0.1,0.2,-0.1,0.3,-0.1l5.4,0c0,0,0.1,0,0.1,0c0,0,0.1,0.1,0.1,0.2l1.2,3.4c0.1,0.2,0.2,0.2,0.4,0.2l1.8,0c0.2,0,0.2,0,0.2,-0.2c0,-0.1,0,-0.1,0,-0.1l-4.9,-13.7c-0.1,-0.3,-0.3,-0.4,-0.5,-0.4l-2,0c-0.1,0,-0.2,0,-0.2,0.1c-0.1,0,-0.2,0.1,-0.2,0.2l-5,13.7l0,0.2c0,0.2,0.1,0.2,0.2,0.2m3.9,-5.6c-0.1,0,-0.1,-0.1,-0.1,-0.2l0,-0.1l2.1,-5.8c0.1,-0.1,0.1,-0.2,0.2,-0.2c0,0,0.1,0.1,0.1,0.1l2.1,5.9c0,0.1,0,0.1,0,0.2c0,0,-0.1,0.1,-0.1,0.1Z" class="g9_140" />
+<path d="M392,878.9l-1.1,0c-0.3,0,-0.4,0.1,-0.4,0.3l-3.8,13.5c-0.1,0.1,-0.1,0.2,-0.2,0.2c0,0,0,-0.1,-0.1,-0.2l-3.8,-13.5c0,-0.1,0,-0.2,-0.1,-0.2c-0.1,0,-0.2,-0.1,-0.3,-0.1l-1.3,0c-0.2,0,-0.3,0.1,-0.4,0.3l-3.8,13.4c-0.1,0.2,-0.1,0.3,-0.2,0.3c0,0,-0.1,-0.1,-0.1,-0.3l-3.7,-13.4c-0.1,-0.2,-0.2,-0.3,-0.4,-0.3l-1.5,0c-0.2,0,-0.4,0.1,-0.4,0.3c0,0.1,0.1,0.1,0.1,0.2l4.6,16.3c0.1,0.2,0.3,0.3,0.6,0.3l1.4,0c0.1,0,0.3,0,0.3,-0.1c0.1,0,0.2,-0.1,0.2,-0.2l3.7,-13c0.1,-0.2,0.1,-0.2,0.2,0l3.7,13c0,0.2,0.2,0.3,0.5,0.3l1.4,0c0.2,0,0.3,0,0.3,-0.1c0.1,0,0.2,-0.1,0.2,-0.2l4.7,-16.3c0.1,-0.2,0.1,-0.3,0,-0.3c0,-0.1,-0.1,-0.2,-0.3,-0.2m3.9,0c-0.2,0,-0.3,0.2,-0.3,0.4l0,16.4c0,0.1,0.1,0.2,0.1,0.2c0,0.1,0.1,0.1,0.3,0.1l1.4,0c0.2,0,0.3,0,0.3,-0.1c0.1,0,0.1,-0.1,0.1,-0.3l0,-16.4c0,-0.2,-0.1,-0.3,-0.2,-0.3Zm5.1,1.5c0,0.1,0.1,0.2,0.1,0.2c0.1,0,0.1,0,0.2,0l5,0c0.1,0,0.2,0,0.2,0.1c0,0,0.1,0.1,0.1,0.2l0,14.8c0,0.2,0.1,0.3,0.2,0.3l1.7,0c0.2,0,0.3,-0.1,0.3,-0.3l0,-14.8c0,-0.1,0,-0.2,0,-0.2c0.1,-0.1,0.1,-0.1,0.2,-0.1l4.7,0c0.1,0,0.2,0,0.2,0c0,0,0.1,-0.1,0.1,-0.2l0,-1.2c0,-0.2,-0.1,-0.3,-0.3,-0.3l-12.4,0c-0.2,0,-0.3,0.1,-0.3,0.3Zm26.2,7.6c0.1,0,0.2,0.1,0.2,0.2l0,7.5c0,0.1,0,0.2,0.1,0.2c0,0.1,0.1,0.1,0.3,0.1l1.5,0c0.2,0,0.3,-0.1,0.3,-0.3l0,-16.4c0,-0.2,0,-0.2,-0.1,-0.3c0,0,-0.1,-0.1,-0.2,-0.1l-1.7,0c-0.1,0,-0.2,0.1,-0.2,0.3l0,6.8c0,0.2,-0.1,0.3,-0.3,0.3l-7.5,0c-0.1,0,-0.2,0,-0.2,-0.1c0,0,0,-0.1,0,-0.2l0,-6.8c0,-0.2,-0.1,-0.3,-0.3,-0.3l-1.7,0c-0.2,0,-0.3,0.2,-0.3,0.4l0,16.4c0,0.1,0.1,0.2,0.1,0.2c0.1,0.1,0.1,0.1,0.3,0.1l1.5,0c0.1,0,0.2,0,0.3,-0.1c0,0,0.1,-0.1,0.1,-0.2l0,-7.5c0,0,0,-0.1,0,-0.1c0,0,0.1,-0.1,0.1,-0.1Z" class="g9_140" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g10_140" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 866)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s21_140"
+>Lesson 4 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 931)"
+dx="0,1" 
+class="s21_140"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 945)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s21_140"
+>Shopping </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1013)"
+dx="0,1" 
+class="s21_140"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1027)"
+dx="0,0.1,1,0.8,1,1,1,1,1,1,1,0.9,1,1,1,1" 
+class="s21_140"
+>Words &amp; Phrases </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1153)"
+dx="0,1,1,0" 
+class="s21_140"
+>117 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3v-;
+	src: url("fonts/LibreFranklin-ExtraBold_3v-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3v_;
+	src: url("fonts/LibreFranklin-Medium_3v_.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3vu;
+	src: url("fonts/LibreFranklin-Bold_3vu.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBoldIt_3w-;
+	src: url("fonts/LibreFranklin-SemiBoldIt_3w-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3wg;
+	src: url("fonts/LibreFranklin-SemiBold_3wg.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3wc;
+	src: url("fonts/LibreFranklin-Regular_3wc.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

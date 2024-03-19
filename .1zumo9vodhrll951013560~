@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 68 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_68{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_68{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_68{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_68{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_68{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3t6;
+fill: #007D9F;
+}
+.s2_68{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3t0;
+fill: #007D9F;
+}
+.s3_68{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3td;
+fill: #3F3F40;
+}
+.s4_68{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3t6;
+fill: #3F3F40;
+}
+.s5_68{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_3t0;
+fill: #007598;
+}
+.s6_68{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s7_68{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s8_68{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #007D9F;
+}
+.s9_68{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #007D9F;
+}
+.s10_68{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3tc;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,79.8l12.2,0" class="g1_68" />
+<text 
+x="119" 
+y="74" 
+dx="0,0" 
+class="s1_68"
+>4 </text>
+
+<text 
+x="404" 
+y="78" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_68"
+>Conjunctions</text>
+
+<text 
+x="157" 
+y="149" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s3_68"
+>Conjunctions are often omitted in spoken Chinese.</text>
+
+<text 
+x="169" 
+y="206" 
+dx="0,0" 
+class="s4_68"
+>A </text>
+
+<text 
+x="212" 
+y="206" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s5_68"
+>Zhang </text>
+
+<text 
+x="311" 
+y="208" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_68"
+>真热！房间里怎么没有空调？</text>
+
+<text 
+x="311" 
+y="249" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_68"
+>真熱！房間裡怎麼沒有空調？</text>
+
+<text 
+x="313" 
+y="282" 
+dx="0,0,0.4,-0.9,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s3_68"
+>It’s so hot! How come there’s no air conditioning in this room?</text>
+
+<text 
+x="212" 
+y="328" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_68"
+>Ke Lin </text>
+
+<text 
+x="311" 
+y="329" 
+dx="0,0,0,0" 
+class="s8_68"
+>（因为）</text>
+
+<text 
+x="415" 
+y="329" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_68"
+>这栋楼比较旧……</text>
+
+<text 
+x="311" 
+y="370" 
+dx="0,0,0,0" 
+class="s9_68"
+>（因為）</text>
+
+<text 
+x="415" 
+y="370" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_68"
+>這棟樓比較舊……</text>
+
+<text 
+x="313" 
+y="404" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_68"
+>(Because) this building is relatively old . . .</text>
+
+<text 
+x="169" 
+y="462" 
+dx="0,0" 
+class="s4_68"
+>B </text>
+
+<text 
+x="212" 
+y="463" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s5_68"
+>Zhang </text>
+
+<text 
+x="311" 
+y="465" 
+dx="0,0,0,0,0,0" 
+class="s6_68"
+>这儿吵不吵？</text>
+
+<text 
+x="311" 
+y="505" 
+dx="0,0,0,0,0,0" 
+class="s7_68"
+>這兒吵不吵？</text>
+
+<text 
+x="313" 
+y="539" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_68"
+>Is it noisy here?</text>
+
+<text 
+x="212" 
+y="585" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_68"
+>Ke Lin </text>
+
+<text 
+x="311" 
+y="586" 
+dx="0,0,0" 
+class="s6_68"
+>不吵，</text>
+
+<text 
+x="389" 
+y="586" 
+dx="0,0,0,0" 
+class="s8_68"
+>（因为）</text>
+
+<text 
+x="493" 
+y="586" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_68"
+>这儿离大马路很远，</text>
+
+<text 
+x="311" 
+y="620" 
+dx="0,0,0,0" 
+class="s8_68"
+>（所以）</text>
+
+<text 
+x="415" 
+y="620" 
+dx="0,0,0,0" 
+class="s6_68"
+>很安静。</text>
+
+<text 
+x="311" 
+y="660" 
+dx="0,0,0" 
+class="s7_68"
+>不吵，</text>
+
+<text 
+x="389" 
+y="660" 
+dx="0,0,0,0" 
+class="s9_68"
+>（因為）</text>
+
+<text 
+x="493" 
+y="660" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_68"
+>這兒離大馬路很遠，</text>
+
+<text 
+x="311" 
+y="694" 
+dx="0,0,0,0" 
+class="s9_68"
+>（所以）</text>
+
+<text 
+x="415" 
+y="694" 
+dx="0,0,0,0" 
+class="s7_68"
+>很安靜。</text>
+
+<text 
+x="313" 
+y="727" 
+dx="0,0,-0.4,0,0,0,0.4,-0.9,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s3_68"
+>No, it’s not noisy here. (Because) it’s far from the major roads, </text>
+
+<text 
+x="313" 
+y="747" 
+dx="0,0,0,0,0,0.4,-0.9,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,-0.4,0,0,0,0,0,0,0,-0.1,0,0,0,0,-0.2,0" 
+class="s3_68"
+>(that’s why) it’s very quiet here.</text>
+
+<path d="M146.6,43.3l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_68" />
+<path d="M148.7,95.5l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g3_68" />
+<path d="M164.4,182.9c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_68" />
+<path d="M164.4,184.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_68" />
+<text 
+x="211" 
+y="228" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_68"
+>Tianming</text>
+
+<path d="M164.4,439.5c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_68" />
+<path d="M164.4,441.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_68" />
+<text 
+x="211" 
+y="485" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_68"
+>Tianming</text>
+
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g4_68" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 916)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s10_68"
+>Lesson 2 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 982)"
+dx="0,1" 
+class="s10_68"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 995)"
+dx="0,1,1,1,1,1,1,1,0.8,1" 
+class="s10_68"
+>Dorm Life </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1067)"
+dx="0,1" 
+class="s10_68"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1080)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s10_68"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1157)"
+dx="0,1,0" 
+class="s10_68"
+>45 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3td;
+	src: url("fonts/LibreFranklin-Regular_3td.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3tc;
+	src: url("fonts/LibreFranklin-SemiBold_3tc.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3t0;
+	src: url("fonts/LibreFranklin-Bold_3t0.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3t6;
+	src: url("fonts/LibreFranklin-ExtraBold_3t6.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

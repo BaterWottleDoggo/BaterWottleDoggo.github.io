@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 298 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_298{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_298{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_298{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_298{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_298{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_298{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_dm8;
+fill: #8F4198;
+}
+.s2_298{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_dm9;
+fill: #8F4198;
+}
+.s3_298{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_dmj;
+fill: #3F3F40;
+}
+.s4_298{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s5_298{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s6_298{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s7_298{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_dm8;
+fill: #872B91;
+}
+.s8_298{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_dmb;
+fill: #872B91;
+}
+.s9_298{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dmb;
+fill: #231F20;
+}
+.s10_298{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_dn0;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,92.1l12.2,0" class="g1_298" />
+<path d="M119.2,727.7l12.2,0" class="g1_298" />
+<text 
+x="119" 
+y="86" 
+dx="0,0" 
+class="s1_298"
+>D </text>
+
+<text 
+x="434" 
+y="90" 
+dx="0,0,0,-0.4,0,0,0,0,0" 
+class="s2_298"
+>Pure luck</text>
+
+<text 
+x="157" 
+y="152" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>Imagine a potentially disadvantageous or even disastrous situation. What would be the best </text>
+
+<text 
+x="157" 
+y="180" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>thing that could happen? Based on the prompts, use </text>
+
+<text 
+x="510" 
+y="181" 
+dx="0,0" 
+class="s4_298"
+>好在</text>
+
+<text 
+x="560" 
+y="180" 
+dx="0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0" 
+class="s3_298"
+>to state how lucky you are/were, </text>
+
+<text 
+x="157" 
+y="207" 
+dx="0,0,0,0,0" 
+class="s3_298"
+>e.g.:</text>
+
+<text 
+x="197" 
+y="250" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1,0" 
+class="s3_298"
+>Teacher gave a pop quiz today. </text>
+
+<text 
+x="650" 
+y="250" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>I reviewed last night.</text>
+
+<text 
+x="157" 
+y="295" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_298"
+>老师今天突然给我们考试，好在我昨天晚上复习了。</text>
+
+<text 
+x="157" 
+y="343" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_298"
+>老師今天突然給我們考試，好在我昨天晚上復習了。</text>
+
+<text 
+x="168" 
+y="382" 
+dx="0,0.2" 
+class="s7_298"
+>1 </text>
+
+<text 
+x="197" 
+y="382" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,-0.1,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1,0" 
+class="s3_298"
+>The stock market dropped one hundred points today. </text>
+
+<text 
+x="650" 
+y="382" 
+dx="0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0" 
+class="s3_298"
+>I no longer flip stocks.</text>
+
+<text 
+x="168" 
+y="420" 
+dx="0,0.2" 
+class="s7_298"
+>2 </text>
+
+<text 
+x="197" 
+y="420" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>The air conditioner broke last night. </text>
+
+<text 
+x="650" 
+y="420" 
+dx="0,0,0.4,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s3_298"
+>It’s only twenty-seven </text>
+
+<text 
+x="650" 
+y="448" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1" 
+class="s3_298"
+>degrees Celsius today.</text>
+
+<text 
+x="168" 
+y="486" 
+dx="0,0.2" 
+class="s7_298"
+>3 </text>
+
+<text 
+x="197" 
+y="486" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.4,-0.1,0,0,0,0,0" 
+class="s3_298"
+>The cost of electricity is skyrocketing. </text>
+
+<text 
+x="650" 
+y="486" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s3_298"
+>My house is powered by </text>
+
+<text 
+x="650" 
+y="514" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-1.2" 
+class="s3_298"
+>solar power.</text>
+
+<text 
+x="168" 
+y="552" 
+dx="0,0.2" 
+class="s7_298"
+>4 </text>
+
+<text 
+x="197" 
+y="552" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>The energy crisis seems to be more and more serious. </text>
+
+<text 
+x="650" 
+y="552" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>More and more countries </text>
+
+<text 
+x="650" 
+y="579" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2" 
+class="s3_298"
+>use solar and wind power.</text>
+
+<text 
+x="168" 
+y="618" 
+dx="0,0.2" 
+class="s7_298"
+>5 </text>
+
+<text 
+x="197" 
+y="618" 
+dx="0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-1,0" 
+class="s3_298"
+>There were too many dynasties and emperors in Chinese history. </text>
+
+<text 
+x="650" 
+y="618" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>I’m not a Chinese </text>
+
+<text 
+x="650" 
+y="645" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-1.2" 
+class="s3_298"
+>history major.</text>
+
+<text 
+x="119" 
+y="721" 
+dx="0,0" 
+class="s1_298"
+>E </text>
+
+<text 
+x="380" 
+y="726" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0" 
+class="s2_298"
+>Human resources</text>
+
+<text 
+x="157" 
+y="788" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>A business leader needs to know what expertise is necessary to succeed at a particular job. </text>
+
+<text 
+x="157" 
+y="815" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s3_298"
+>Imagine that you’re forming a new company. Who would you hire? </text>
+
+<text 
+x="603" 
+y="815" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>Practice describing the </text>
+
+<text 
+x="157" 
+y="843" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>kinds of employees you need for various departments, e.g.: </text>
+
+<text 
+x="197" 
+y="886" 
+dx="0,0,0,0,-0.4,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>marketing department</text>
+
+<text 
+x="158" 
+y="934" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_298"
+>我们必须录用善于销售的人材。</text>
+
+<text 
+x="158" 
+y="981" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_298"
+>我們必須錄用善於銷售的人材。</text>
+
+<text 
+x="168" 
+y="1022" 
+dx="0,0.2" 
+class="s7_298"
+>1 </text>
+
+<text 
+x="197" 
+y="1022" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s3_298"
+>management </text>
+
+<text 
+x="168" 
+y="1064" 
+dx="0,0.2" 
+class="s7_298"
+>2 </text>
+
+<text 
+x="197" 
+y="1064" 
+dx="0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>research department</text>
+
+<text 
+x="168" 
+y="1105" 
+dx="0,0.2" 
+class="s7_298"
+>3 </text>
+
+<text 
+x="197" 
+y="1105" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>energy conservation department</text>
+
+<text 
+x="168" 
+y="1146" 
+dx="0,0.2" 
+class="s7_298"
+>4 </text>
+
+<text 
+x="197" 
+y="1146" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_298"
+>financial planning department</text>
+
+<path d="M148.5,56.1l0,53.5l0,0.7l0.8,0l676.9,0l0.7,0l0,-0.7l0,-53.5l0,-0.8l-0.7,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_298" />
+<path d="M150.5,108.3l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_298" />
+<text 
+x="723" 
+y="87" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s8_298"
+>PRESENTATIONAL</text>
+
+<path d="M721.4,90.3l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g4_298" />
+<path d="M147,692.4l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g2_298" />
+<path d="M149,744.6l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_298" />
+<text 
+x="721" 
+y="723" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s8_298"
+>PRESENTATIONAL</text>
+
+<path d="M719.9,726.6l90.8,0l0,-14.4l-90.8,0l0,14.4Z" class="g4_298" />
+<path d="M876.9,1141.6l57.3,0l0,-1222.1l-57.3,0l0,1222.1Z" class="g5_298" />
+<text 
+x="873" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s9_298"
+>275 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 747)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s10_298"
+>Lesson 19 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 836)"
+dx="0,1.2" 
+class="s10_298"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 853)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s10_298"
+>Job Interview </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 969)"
+dx="0,1.2" 
+class="s10_298"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 986)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,0" 
+class="s10_298"
+>Language Practice </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_dm9;
+	src: url("fonts/LibreFranklin-Bold_dm9.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_dm8;
+	src: url("fonts/LibreFranklin-ExtraBold_dm8.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_dmj;
+	src: url("fonts/LibreFranklin-Regular_dmj.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_dn0;
+	src: url("fonts/LibreFranklin-SemiBold_dn0.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dmb;
+	src: url("fonts/LibreFranklin-Medium_dmb.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

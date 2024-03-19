@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 204 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_204{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_204{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_204{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_204{
+fill: #DAEFEB;
+}
+.g5_204{
+fill: none;
+stroke: #C6EAFA;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_204{
+fill: none;
+stroke: #C6EAFA;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_204{
+fill: #CAE7E2;
+}
+.g8_204{
+fill: none;
+stroke: #00A3AF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_204{
+fill: #00A3AF;
+}
+.g10_204{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_204{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_cyv;
+fill: #86B345;
+}
+.s2_204{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #3F3F40;
+}
+.s3_204{
+font-size: 27.50px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #3F3F40;
+}
+.s4_204{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_cyr;
+fill: #7AAD35;
+}
+.s5_204{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s6_204{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cz7;
+fill: #3F3F40;
+}
+.s7_204{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s8_204{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cyv;
+fill: #3F3F40;
+}
+.s9_204{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s10_204{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #749E3C;
+}
+.s11_204{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s12_204{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #749E3C;
+}
+.s13_204{
+font-size: 14.51px;
+font-family: LibreFranklin-Medium_cyp;
+fill: #231F20;
+}
+.s14_204{
+font-size: 36.67px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #F7931D;
+}
+.s15_204{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #231F20;
+}
+.s16_204{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #00AEEF;
+}
+.s17_204{
+font-size: 36.67px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #F7931D;
+}
+.s18_204{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #231F20;
+}
+.s19_204{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #00AEEF;
+}
+.s20_204{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cyp;
+fill: #231F20;
+}
+.s21_204{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_c-c;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,93.1l13.7,0" class="g1_204" />
+<text 
+x="119" 
+y="87" 
+dx="0,0" 
+class="s1_204"
+>E </text>
+
+<text 
+x="283" 
+y="91" 
+dx="0,0,0,0,0" 
+class="s2_204"
+>从…做起/</text>
+
+<text 
+x="406" 
+y="91" 
+dx="0,0,0,0" 
+class="s3_204"
+>從…做起</text>
+
+<text 
+x="521" 
+y="91" 
+dx="0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_204"
+>(to start with)</text>
+
+<text 
+x="157" 
+y="155" 
+dx="0,0,0,0" 
+class="s5_204"
+>从…做起</text>
+
+<text 
+x="252" 
+y="153" 
+dx="0" 
+class="s6_204"
+>/</text>
+
+<text 
+x="257" 
+y="155" 
+dx="0" 
+class="s7_204"
+>從</text>
+
+<text 
+x="280" 
+y="155" 
+dx="0" 
+class="s5_204"
+>…</text>
+
+<text 
+x="304" 
+y="155" 
+dx="0,0" 
+class="s7_204"
+>做起</text>
+
+<text 
+x="354" 
+y="153" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_204"
+>means “to start with.” </text>
+
+<text 
+x="502" 
+y="155" 
+dx="0" 
+class="s5_204"
+>起</text>
+
+<text 
+x="526" 
+y="153" 
+dx="0" 
+class="s6_204"
+>/</text>
+
+<text 
+x="531" 
+y="155" 
+dx="0" 
+class="s7_204"
+>起</text>
+
+<text 
+x="558" 
+y="153" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s6_204"
+>means “to begin.”</text>
+
+<text 
+x="169" 
+y="210" 
+dx="0,0" 
+class="s8_204"
+>1 </text>
+
+<text 
+x="239" 
+y="212" 
+dx="0,0,0,0,0,0" 
+class="s9_204"
+>节约大家应该</text>
+
+<text 
+x="395" 
+y="212" 
+dx="0" 
+class="s10_204"
+>从</text>
+
+<text 
+x="421" 
+y="212" 
+dx="0,0,0" 
+class="s9_204"
+>小地方</text>
+
+<text 
+x="499" 
+y="212" 
+dx="0,0" 
+class="s10_204"
+>做起</text>
+
+<text 
+x="551" 
+y="212" 
+dx="0" 
+class="s9_204"
+>。</text>
+
+<text 
+x="239" 
+y="253" 
+dx="0,0,0,0,0,0" 
+class="s11_204"
+>節約大家應該</text>
+
+<text 
+x="395" 
+y="253" 
+dx="0" 
+class="s12_204"
+>從</text>
+
+<text 
+x="421" 
+y="253" 
+dx="0,0,0" 
+class="s11_204"
+>小地方</text>
+
+<text 
+x="499" 
+y="253" 
+dx="0,0" 
+class="s12_204"
+>做起</text>
+
+<text 
+x="551" 
+y="253" 
+dx="0" 
+class="s11_204"
+>。</text>
+
+<text 
+x="245" 
+y="286" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_204"
+>Conservation begins with our doing small things.</text>
+
+<text 
+x="169" 
+y="345" 
+dx="0,0" 
+class="s8_204"
+>2 </text>
+
+<text 
+x="239" 
+y="347" 
+dx="0,0,0,0,0,0" 
+class="s9_204"
+>保护环境应该</text>
+
+<text 
+x="395" 
+y="347" 
+dx="0" 
+class="s10_204"
+>从</text>
+
+<text 
+x="421" 
+y="347" 
+dx="0,0,0,0" 
+class="s9_204"
+>节约能源</text>
+
+<text 
+x="525" 
+y="347" 
+dx="0,0" 
+class="s10_204"
+>做起</text>
+
+<text 
+x="577" 
+y="347" 
+dx="0" 
+class="s9_204"
+>。</text>
+
+<text 
+x="239" 
+y="388" 
+dx="0,0,0,0,0,0" 
+class="s11_204"
+>保護環境應該</text>
+
+<text 
+x="395" 
+y="388" 
+dx="0" 
+class="s12_204"
+>從</text>
+
+<text 
+x="421" 
+y="388" 
+dx="0,0,0,0" 
+class="s11_204"
+>節約能源</text>
+
+<text 
+x="525" 
+y="388" 
+dx="0,0" 
+class="s12_204"
+>做起</text>
+
+<text 
+x="577" 
+y="388" 
+dx="0" 
+class="s11_204"
+>。</text>
+
+<text 
+x="245" 
+y="421" 
+dx="0,0,-0.2,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_204"
+>Protecting the environment should start with energy conservation.</text>
+
+<text 
+x="169" 
+y="480" 
+dx="0,0" 
+class="s8_204"
+>3 </text>
+
+<text 
+x="239" 
+y="483" 
+dx="0,0,0,0,0,0" 
+class="s9_204"
+>男女平等应该</text>
+
+<text 
+x="395" 
+y="483" 
+dx="0" 
+class="s10_204"
+>从</text>
+
+<text 
+x="421" 
+y="483" 
+dx="0,0,0,0,0" 
+class="s9_204"
+>日常生活、</text>
+
+<text 
+x="551" 
+y="483" 
+dx="0" 
+class="s10_204"
+>从</text>
+
+<text 
+x="577" 
+y="483" 
+dx="0,0,0,0" 
+class="s9_204"
+>每个家庭</text>
+
+<text 
+x="681" 
+y="483" 
+dx="0,0" 
+class="s10_204"
+>做起</text>
+
+<text 
+x="733" 
+y="483" 
+dx="0" 
+class="s9_204"
+>。</text>
+
+<text 
+x="239" 
+y="523" 
+dx="0,0,0,0,0,0" 
+class="s11_204"
+>男女平等應該</text>
+
+<text 
+x="395" 
+y="523" 
+dx="0" 
+class="s12_204"
+>從</text>
+
+<text 
+x="421" 
+y="523" 
+dx="0,0,0,0,0" 
+class="s11_204"
+>日常生活、</text>
+
+<text 
+x="551" 
+y="523" 
+dx="0" 
+class="s12_204"
+>從</text>
+
+<text 
+x="577" 
+y="523" 
+dx="0,0,0,0" 
+class="s11_204"
+>每個家庭</text>
+
+<text 
+x="681" 
+y="523" 
+dx="0,0" 
+class="s12_204"
+>做起</text>
+
+<text 
+x="733" 
+y="523" 
+dx="0" 
+class="s11_204"
+>。</text>
+
+<text 
+x="245" 
+y="557" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.2,0" 
+class="s6_204"
+>Equality between men and women should begin with the everyday life of </text>
+
+<text 
+x="245" 
+y="576" 
+dx="0,0,-0.4,0,0,0,0,0,0,0,0,0,-1" 
+class="s6_204"
+>every family.</text>
+
+<path d="M145.7,56.4l0,53.4l0,0.8l0.7,0l676.9,0l0.8,0l0,-0.8l0,-53.4l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g2_204" />
+<path d="M147.7,108.6l674.4,0l0,-51l-674.4,0l0,51Z" class="g3_204" />
+<path d="M162.7,187.4c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g2_204" />
+<path d="M162.7,189.4c-0.6,0.1,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_204" />
+<path d="M162.7,322.8c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g2_204" />
+<path d="M162.7,324.8c-0.6,0.1,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_204" />
+<path d="M162.7,458.2c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g2_204" />
+<path d="M162.7,460.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_204" />
+<path d="M842.8,821.9l0,-37.7L824.5,765.9l-264.4,0l0,56Z" class="g4_204" />
+<path d="M73.9,905.1l768.9,0" class="g5_204" />
+<path d="M73.9,1046.5l768.9,0" class="g6_204" />
+<path d="M361,1053.6l194.6,0l0,-266.8l-194.6,0l0,266.8Z" class="g7_204" />
+<text 
+x="375" 
+y="830" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.1,0,0,0" 
+class="s13_204"
+>Using the word/phrase </text>
+
+<text 
+x="375" 
+y="848" 
+dx="0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s13_204"
+>in orange as a clue, try to </text>
+
+<text 
+x="375" 
+y="866" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s13_204"
+>figure out the meaning </text>
+
+<text 
+x="375" 
+y="885" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s13_204"
+>of the words/phrases in </text>
+
+<text 
+x="375" 
+y="903" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s13_204"
+>blue; consult a dictionary </text>
+
+<text 
+x="375" 
+y="921" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0" 
+class="s13_204"
+>if necessary. Consider </text>
+
+<text 
+x="375" 
+y="940" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0" 
+class="s13_204"
+>how the literal and </text>
+
+<text 
+x="375" 
+y="958" 
+dx="0,-0.3,-0.3,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s13_204"
+>extended senses are </text>
+
+<text 
+x="375" 
+y="976" 
+dx="0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s13_204"
+>related in each case.</text>
+
+<path d="M357.1,822.2l0,-56.3l-264.9,0L73.9,784.2l0,38.1Z" class="g4_204" />
+<text 
+x="182" 
+y="804" 
+dx="0,0" 
+class="s14_204"
+>回收</text>
+
+<text 
+x="84" 
+y="856" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s15_204"
+>我的童年生活非常快</text>
+
+<text 
+x="84" 
+y="883" 
+dx="0,0,0,0" 
+class="s15_204"
+>乐，让人</text>
+
+<text 
+x="188" 
+y="883" 
+dx="0,0" 
+class="s16_204"
+>回味</text>
+
+<text 
+x="240" 
+y="883" 
+dx="0" 
+class="s15_204"
+>。</text>
+
+<text 
+x="84" 
+y="941" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s15_204"
+>三十年前的上海和今天</text>
+
+<text 
+x="84" 
+y="969" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s15_204"
+>的上海很不一样。让我</text>
+
+<text 
+x="84" 
+y="996" 
+dx="0" 
+class="s15_204"
+>们</text>
+
+<text 
+x="110" 
+y="996" 
+dx="0,0" 
+class="s16_204"
+>回顾</text>
+
+<text 
+x="162" 
+y="996" 
+dx="0,0,0,0,0,0,0" 
+class="s15_204"
+>一下上海这三十</text>
+
+<text 
+x="84" 
+y="1024" 
+dx="0,0,0,0,0" 
+class="s15_204"
+>年的变化。</text>
+
+<text 
+x="663" 
+y="804" 
+dx="0,0" 
+class="s17_204"
+>回收</text>
+
+<text 
+x="565" 
+y="856" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s18_204"
+>我的童年生活非常快</text>
+
+<text 
+x="565" 
+y="883" 
+dx="0,0,0,0" 
+class="s18_204"
+>樂，讓人</text>
+
+<text 
+x="669" 
+y="883" 
+dx="0,0" 
+class="s19_204"
+>回味</text>
+
+<text 
+x="721" 
+y="883" 
+dx="0" 
+class="s18_204"
+>。</text>
+
+<text 
+x="565" 
+y="941" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s18_204"
+>三十年前的上海和今天</text>
+
+<text 
+x="565" 
+y="969" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s18_204"
+>的上海很不一樣。讓我</text>
+
+<text 
+x="565" 
+y="996" 
+dx="0" 
+class="s18_204"
+>們</text>
+
+<text 
+x="591" 
+y="996" 
+dx="0,0" 
+class="s19_204"
+>回顧</text>
+
+<text 
+x="643" 
+y="996" 
+dx="0,0,0,0,0,0,0" 
+class="s18_204"
+>一下上海這三十</text>
+
+<text 
+x="565" 
+y="1024" 
+dx="0,0,0,0,0" 
+class="s18_204"
+>年的變化。</text>
+
+<path d="M392.2,740.2l-89.8,0l-15.8,10.6l0,15.1" class="g8_204" />
+<path d="M531.5,740.2l99.5,0l16.7,10.6l0,15.1" class="g8_204" />
+<path d="M492.4,723.9c-1.5,3,-2.7,5.4,-5.3,10.9L467.5,778l-0.7,0L455.5,753.3L444.2,778l-0.9,0L423.1,734.6c-1.9,-4.3,-3.6,-7.7,-5.4,-10.7l7.7,0c0.8,2.5,2.2,5.7,3.8,9.2l15.2,34.1l8.5,-19.6L447,734.7c-2.5,-5.6,-3.6,-7.8,-5.5,-10.8l7.2,0c0.8,2.5,1.7,4.6,4.2,10.1l3,6.7l2.9,-6.9c2.2,-5,3.2,-7.5,4,-9.9l6.7,0c-1.1,1.7,-2.8,5.2,-5.4,10.8l-5.6,12.1l8.8,20.1L481.4,734c2.6,-5.7,3.6,-8.2,4.2,-10.1Z" class="g9_204" />
+<path d="M493.7,755.4c6.3,0,11.2,5.1,11.2,11.2c0,6.2,-4.9,11.3,-11.2,11.3c-6.3,0,-11.2,-5.1,-11.2,-11.3c0,-6.1,4.9,-11.2,11.2,-11.2m0,20.3c4.8,0,8.6,-4.1,8.6,-9.1c0,-4.9,-3.8,-9,-8.6,-9c-4.7,0,-8.6,4.1,-8.6,9c0,5,3.9,9.1,8.6,9.1Z" class="g9_204" />
+<path d="M509.5,772c0,2.2,0,4.5,0.1,5.5l-2.8,0c0.1,-1,0.1,-3.3,0.1,-5.5l0,-10.5c0,-2.2,0,-4.7,-0.1,-5.7l4.6,0c4.8,0,7.4,2.7,7.4,6.3c0,3.4,-2.1,5.2,-4.3,5.9c2.3,2.8,5,7.1,7.5,9.5l-3.5,0c-1.8,-2.3,-4.4,-5.9,-6.2,-9.1c-0.4,0.1,-0.7,0.1,-1.1,0.1l-1.7,0Zm0,-5.4l2.1,0c2.6,0,4.6,-1.8,4.6,-4.4c0,-2.2,-1.7,-4.3,-4.9,-4.3l-1.8,0Z" class="g9_204" />
+<path d="M522.7,777.5c0.1,-1,0.2,-3.5,0.2,-5.7l0,-10.3c0,-2.2,-0.1,-4.7,-0.2,-5.7l6.2,0c5.9,0,10.8,4.9,10.8,10.8c0,6,-4.9,10.9,-10.8,10.9Zm2.8,-2.1l3.2,0c4.7,0,8.4,-4,8.4,-8.8c0,-4.7,-3.7,-8.7,-8.4,-8.7l-3.2,0Z" class="g9_204" />
+<path d="M551,771.8c0,3.6,-2.6,6.2,-6.5,6.2c-2.1,0,-3.3,-0.6,-5,-0.8l0,-3.6c0.8,1.3,2.9,2.3,5,2.3c2.4,0,3.8,-1.6,3.8,-3.8c0,-4.7,-8.1,-4.6,-8.1,-10.9c0,-3.7,2.6,-5.8,6.3,-5.8c1.6,0,2.6,0.4,4,0.6l0,3.4c-0.6,-1.4,-2.2,-2,-4,-2c-2.1,0,-3.7,1.2,-3.7,3.5c0,4.5,8.2,4.6,8.2,10.9Z" class="g9_204" />
+<path d="M493.6,744.9l2.2,0c0.2,0,0.4,-0.1,0.4,-0.3l1.9,-5c0,-0.2,0.1,-0.3,0.3,-0.3l7.7,0c0.2,0,0.2,0.1,0.3,0.1c0,0,0,0.1,0.1,0.2l1.8,5c0,0.2,0.2,0.3,0.4,0.3l2.7,0c0.2,0,0.3,-0.1,0.3,-0.4c0,-0.1,0,-0.1,0,-0.2l-7.1,-19.7c-0.1,-0.3,-0.3,-0.5,-0.7,-0.5l-2.8,0c-0.2,0,-0.3,0.1,-0.4,0.1c-0.1,0.1,-0.2,0.2,-0.2,0.4l-7.2,19.7l0,0.3c0,0.2,0.1,0.3,0.3,0.3m5.6,-8.2c-0.2,0,-0.2,-0.1,-0.2,-0.2l0,-0.2l3.1,-8.4c0,-0.1,0.1,-0.2,0.2,-0.2c0.1,0,0.1,0.1,0.2,0.2l3,8.4c0,0.1,0,0.2,0,0.3c0,0.1,-0.1,0.1,-0.2,0.1Zm28.7,-12.6l-2.3,0c-0.2,0,-0.3,0.1,-0.4,0.1c-0.1,0.1,-0.1,0.2,-0.2,0.3l-4.8,8.5c-0.1,0.2,-0.2,0.3,-0.3,0.3c-0.1,0,-0.2,-0.1,-0.3,-0.3l-4.9,-8.5c-0.1,-0.1,-0.2,-0.2,-0.3,-0.3c-0.1,0,-0.2,-0.1,-0.4,-0.1l-2.7,0c-0.2,0,-0.4,0.1,-0.4,0.3c0,0.1,0.1,0.2,0.1,0.3l6.7,11.2c0.1,0.2,0.2,0.3,0.2,0.4c0.1,0.1,0.1,0.2,0.1,0.4l0,7.7c0,0.3,0.1,0.5,0.4,0.5l2.3,0c0.2,0,0.4,0,0.5,-0.1c0.1,-0.1,0.1,-0.3,0.1,-0.5l0,-7.6c0,-0.3,0,-0.6,0.1,-0.7c0,-0.1,0,-0.3,0.1,-0.4l6.7,-11c0,-0.1,0,-0.2,0,-0.3c-0.1,-0.1,-0.2,-0.2,-0.3,-0.2Z" class="g9_204" />
+<path d="M397.7,744.9l1.5,0c0.2,0,0.3,-0.1,0.3,-0.2l1.3,-3.5c0,-0.1,0.1,-0.2,0.2,-0.2l5.4,0c0.1,0,0.2,0,0.2,0.1l0.1,0.1l1.2,3.5c0.1,0.1,0.2,0.2,0.3,0.2l1.9,0c0.1,0,0.2,-0.1,0.2,-0.3c0,0,0,-0.1,0,-0.1l-4.9,-13.7c-0.1,-0.2,-0.3,-0.3,-0.5,-0.3l-2,0c-0.1,0,-0.2,0,-0.3,0c0,0.1,-0.1,0.2,-0.1,0.3l-5,13.7l0,0.2c0,0.1,0.1,0.2,0.2,0.2m3.9,-5.7c-0.1,0,-0.2,0,-0.2,-0.1l0,-0.2l2.2,-5.8c0,-0.1,0.1,-0.1,0.1,-0.1c0.1,0,0.1,0,0.2,0.1l2.1,5.8c0,0.1,0,0.2,0,0.2c0,0.1,-0.1,0.1,-0.2,0.1Z" class="g9_204" />
+<path d="M386.9,760.9l-1.2,0c-0.2,0,-0.3,0.1,-0.4,0.3l-3.7,13.4c-0.1,0.2,-0.1,0.2,-0.2,0.2c0,0,-0.1,0,-0.1,-0.2l-3.8,-13.4c0,-0.1,-0.1,-0.2,-0.1,-0.2c-0.1,-0.1,-0.2,-0.1,-0.3,-0.1l-1.3,0c-0.2,0,-0.4,0.1,-0.4,0.3l-3.9,13.4c0,0.1,0,0.2,-0.1,0.2c0,0,-0.1,-0.1,-0.1,-0.2l-3.8,-13.4c0,-0.2,-0.2,-0.3,-0.4,-0.3l-1.4,0c-0.3,0,-0.4,0.1,-0.4,0.3c0,0,0,0.1,0,0.1l4.7,16.3c0.1,0.3,0.2,0.4,0.5,0.4l1.5,0c0.1,0,0.2,-0.1,0.3,-0.1c0.1,-0.1,0.1,-0.2,0.2,-0.3l3.7,-13c0.1,-0.2,0.1,-0.2,0.2,0l3.6,13c0.1,0.3,0.3,0.4,0.6,0.4l1.4,0c0.1,0,0.2,-0.1,0.3,-0.1c0.1,-0.1,0.1,-0.2,0.2,-0.3l4.7,-16.3c0,-0.1,0,-0.2,0,-0.3c-0.1,-0.1,-0.2,-0.1,-0.3,-0.1m3.9,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,16.4c0,0.2,0,0.3,0.1,0.3c0,0,0.1,0.1,0.2,0.1l1.5,0c0.1,0,0.3,-0.1,0.3,-0.1c0.1,-0.1,0.1,-0.2,0.1,-0.3l0,-16.4c0,-0.2,-0.1,-0.3,-0.3,-0.3Zm5.1,1.4c0,0.1,0,0.2,0.1,0.2c0,0.1,0.1,0.1,0.2,0.1l5,0c0.1,0,0.1,0,0.2,0c0,0.1,0,0.1,0,0.2l0,14.9c0,0.2,0.1,0.3,0.3,0.3l1.7,0c0.1,0,0.2,-0.1,0.2,-0.3l0,-14.9c0,-0.1,0.1,-0.1,0.1,-0.2c0,0,0.1,0,0.2,0l4.7,0c0,0,0.1,0,0.2,-0.1c0,0,0,-0.1,0,-0.2l0,-1.1c0,-0.2,-0.1,-0.3,-0.2,-0.3l-12.4,0c-0.2,0,-0.3,0.1,-0.3,0.3ZM422,770c0.2,0,0.2,0.1,0.2,0.2l0,7.4c0,0.1,0.1,0.2,0.1,0.3c0.1,0,0.2,0.1,0.3,0.1l1.5,0c0.2,0,0.4,-0.1,0.4,-0.4l0,-16.4c0,-0.1,-0.1,-0.2,-0.1,-0.2c0,-0.1,-0.1,-0.1,-0.2,-0.1l-1.7,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,6.8c0,0.1,0,0.2,-0.2,0.2l-7.5,0c-0.1,0,-0.2,0,-0.2,0c-0.1,-0.1,-0.1,-0.1,-0.1,-0.2l0,-6.8c0,-0.2,-0.1,-0.3,-0.3,-0.3l-1.6,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,16.4c0,0.2,0,0.3,0.1,0.3c0,0,0.1,0.1,0.2,0.1l1.5,0c0.2,0,0.3,-0.1,0.3,-0.1c0.1,-0.1,0.1,-0.2,0.1,-0.3l0,-7.4c0,-0.1,0,-0.1,0.1,-0.2l0.1,0Z" class="g9_204" />
+<path d="M876.9,1141.6l57.3,0l0,-1222.1l-57.3,0l0,1222.1Z" class="g10_204" />
+<text 
+x="876" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s20_204"
+>181 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 466)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s21_204"
+>Lesson 16 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 556)"
+dx="0,1.2" 
+class="s21_204"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 573)"
+dx="0,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1,1.1,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s21_204"
+>Environmental Protection and Energy Conservation </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 981)"
+dx="0,1.2" 
+class="s21_204"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 999)"
+dx="0,0.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,0" 
+class="s21_204"
+>Words &amp; Phrases </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_cyr;
+	src: url("fonts/LibreFranklin-Bold_cyr.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cz7;
+	src: url("fonts/LibreFranklin-Regular_cz7.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cyv;
+	src: url("fonts/LibreFranklin-ExtraBold_cyv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_c-c;
+	src: url("fonts/LibreFranklin-SemiBold_c-c.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cyp;
+	src: url("fonts/LibreFranklin-Medium_cyp.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 66 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_66"><path d="M246.9,731.4l0,-17l17,0l0,17Z" /></clipPath>
+<clipPath id="c1_66"><path d="M246.9,771.9l0,-17.1l17,0l0,17.1Z" /></clipPath>
+<clipPath id="c2_66"><path d="M246.9,1046.9l0,-17.1l17,0l0,17.1Z" /></clipPath>
+<clipPath id="c3_66"><path d="M246.9,1087.4l0,-17.1l17,0l0,17.1Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_66{
+fill: #D7282F;
+}
+.g2_66{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g3_66{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_66{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_66{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_66{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3t6;
+fill: #3F3F40;
+}
+.s2_66{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_66{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #007D9F;
+}
+.s4_66{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s5_66{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #007D9F;
+}
+.s6_66{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3td;
+fill: #3F3F40;
+}
+.s7_66{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_3t0;
+fill: #939598;
+}
+.s8_66{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3te;
+fill: #3F3F40;
+}
+.s9_66{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3tm;
+fill: #3F3F40;
+}
+.s10_66{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3tc;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="169" 
+y="71" 
+dx="0,0" 
+class="s1_66"
+>B </text>
+
+<text 
+x="239" 
+y="73" 
+dx="0,0" 
+class="s2_66"
+>今天</text>
+
+<text 
+x="291" 
+y="73" 
+dx="0,0" 
+class="s3_66"
+>比较</text>
+
+<text 
+x="343" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_66"
+>冷，你多穿点衣服吧。</text>
+
+<text 
+x="239" 
+y="114" 
+dx="0,0" 
+class="s4_66"
+>今天</text>
+
+<text 
+x="291" 
+y="114" 
+dx="0,0" 
+class="s5_66"
+>比較</text>
+
+<text 
+x="343" 
+y="114" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s4_66"
+>冷，你多穿點衣服吧。</text>
+
+<text 
+x="245" 
+y="147" 
+dx="0,0,0.4,-0.9,0,0,0,-0.2,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1,0,0,-1.5,0,0,-1,0,0,0,-0.1,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s6_66"
+>It’s pretty cold today. You’d better put on more clothes. </text>
+
+<text 
+x="169" 
+y="206" 
+dx="0,0" 
+class="s1_66"
+>C </text>
+
+<text 
+x="212" 
+y="208" 
+dx="0,0,0" 
+class="s7_66"
+>Q: </text>
+
+<text 
+x="238" 
+y="208" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_66"
+>你喜欢什么运动？</text>
+
+<text 
+x="495" 
+y="208" 
+dx="0,0" 
+class="s7_66"
+>A:</text>
+
+<text 
+x="520" 
+y="208" 
+dx="0" 
+class="s2_66"
+>我</text>
+
+<text 
+x="546" 
+y="208" 
+dx="0,0" 
+class="s3_66"
+>比较</text>
+
+<text 
+x="598" 
+y="208" 
+dx="0,0,0,0,0,0" 
+class="s2_66"
+>喜欢打网球。</text>
+
+<text 
+x="239" 
+y="249" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_66"
+>你喜歡什麼運動？ </text>
+
+<text 
+x="520" 
+y="249" 
+dx="0" 
+class="s4_66"
+>我</text>
+
+<text 
+x="546" 
+y="249" 
+dx="0,0" 
+class="s5_66"
+>比較</text>
+
+<text 
+x="598" 
+y="249" 
+dx="0,0,0,0,0,0" 
+class="s4_66"
+>喜歡打網球。</text>
+
+<text 
+x="245" 
+y="283" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s6_66"
+>What kind of sports do you like? </text>
+
+<text 
+x="522" 
+y="283" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_66"
+>I kind of like playing tennis.</text>
+
+<text 
+x="157" 
+y="326" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_66"
+>(A), (B), and (C) all feature generalized rather than specific comparisons. Contrast these </text>
+
+<text 
+x="157" 
+y="354" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_66"
+>examples with (D): </text>
+
+<text 
+x="169" 
+y="410" 
+dx="0,0" 
+class="s1_66"
+>D </text>
+
+<text 
+x="212" 
+y="412" 
+dx="0,0,0" 
+class="s7_66"
+>Q: </text>
+
+<text 
+x="238" 
+y="412" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_66"
+>听说你这两天不太舒服，今天觉得怎么样？</text>
+
+<text 
+x="239" 
+y="453" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_66"
+>聽說你這兩天不太舒服，今天覺得怎麼樣？</text>
+
+<text 
+x="245" 
+y="486" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s6_66"
+>I heard that you were sick the last couple of days. How are you feeling today?</text>
+
+<text 
+x="212" 
+y="534" 
+dx="0,0,0" 
+class="s7_66"
+>A: </text>
+
+<text 
+x="241" 
+y="534" 
+dx="0,0,0,0,0,0" 
+class="s2_66"
+>好一点儿了。</text>
+
+<text 
+x="239" 
+y="574" 
+dx="0,0,0,0,0,0" 
+class="s4_66"
+>好一點兒了。</text>
+
+<text 
+x="245" 
+y="608" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,-0.2,0,-1.2" 
+class="s6_66"
+>A little better.</text>
+
+<text 
+x="157" 
+y="651" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_66"
+>Because the questioner asks for a specific comparison of the respondent’s current condition to </text>
+
+<text 
+x="157" 
+y="679" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_66"
+>his/her condition over “the last couple of days,” it would be incorrect for the respondent to say:</text>
+
+<text 
+x="239" 
+y="731" 
+dx="0" 
+class="s8_66"
+>[</text>
+
+<g clip-path="url(#c0_66)">
+<path d="M255.4,731.4c4.7,0,8.5,-3.8,8.5,-8.5c0,-4.7,-3.8,-8.5,-8.5,-8.5c-4.7,0,-8.5,3.8,-8.5,8.5c0,4.7,3.8,8.5,8.5,8.5Z" class="g1_66" />
+</g>
+<path d="M251.7,719.1l7.5,7.5" class="g2_66" />
+<path d="M259.2,719.1l-7.5,7.5" class="g2_66" />
+<text 
+x="270" 
+y="731" 
+dx="0,0,0,0,0" 
+class="s2_66"
+>比较好。]</text>
+
+<text 
+x="239" 
+y="771" 
+dx="0" 
+class="s9_66"
+>[</text>
+
+<g clip-path="url(#c1_66)">
+<path d="M255.4,771.9c4.7,0,8.5,-3.8,8.5,-8.5c0,-4.7,-3.8,-8.6,-8.5,-8.6c-4.7,0,-8.5,3.9,-8.5,8.6c0,4.7,3.8,8.5,8.5,8.5Z" class="g1_66" />
+</g>
+<path d="M251.7,759.6l7.5,7.5" class="g2_66" />
+<path d="M259.2,759.6l-7.5,7.5" class="g2_66" />
+<text 
+x="270" 
+y="771" 
+dx="0,0,0,0,0" 
+class="s4_66"
+>比較好。]</text>
+
+<text 
+x="157" 
+y="815" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.7,-0.3,-0.3,-0.7,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s6_66"
+>As with (D), the sentence in (E) involves a specific comparison:</text>
+
+<text 
+x="169" 
+y="871" 
+dx="0,0" 
+class="s1_66"
+>E </text>
+
+<text 
+x="239" 
+y="874" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_66"
+>我很高，我哥哥更高。</text>
+
+<text 
+x="239" 
+y="914" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s4_66"
+>我很高，我哥哥更高。</text>
+
+<text 
+x="245" 
+y="948" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.1,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-1.2" 
+class="s6_66"
+>I’m very tall. My older brother is even taller.</text>
+
+<text 
+x="157" 
+y="991" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s6_66"
+>Hence, it would be incorrect to say:</text>
+
+<text 
+x="239" 
+y="1046" 
+dx="0" 
+class="s8_66"
+>[</text>
+
+<g clip-path="url(#c2_66)">
+<path d="M255.4,1046.9c4.7,0,8.5,-3.8,8.5,-8.5c0,-4.7,-3.8,-8.6,-8.5,-8.6c-4.7,0,-8.5,3.9,-8.5,8.6c0,4.7,3.8,8.5,8.5,8.5Z" class="g1_66" />
+</g>
+<path d="M251.7,1034.6l7.5,7.5" class="g2_66" />
+<path d="M259.2,1034.6l-7.5,7.5" class="g2_66" />
+<text 
+x="270" 
+y="1046" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_66"
+>我很高，我哥哥比较高。]</text>
+
+<text 
+x="239" 
+y="1087" 
+dx="0" 
+class="s9_66"
+>[</text>
+
+<g clip-path="url(#c3_66)">
+<path d="M255.4,1087.4c4.7,0,8.5,-3.8,8.5,-8.5c0,-4.8,-3.8,-8.6,-8.5,-8.6c-4.7,0,-8.5,3.8,-8.5,8.6c0,4.7,3.8,8.5,8.5,8.5Z" class="g1_66" />
+</g>
+<path d="M251.7,1075.1l7.5,7.5" class="g2_66" />
+<path d="M259.2,1075.1l-7.5,7.5" class="g2_66" />
+<text 
+x="270" 
+y="1087" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_66"
+>我很高，我哥哥比較高。]</text>
+
+<path d="M164.4,48c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g3_66" />
+<path d="M164.4,50.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_66" />
+<path d="M164.4,183.2c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g3_66" />
+<path d="M164.4,185.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_66" />
+<path d="M164.4,387.2c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g3_66" />
+<path d="M164.4,389.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_66" />
+<path d="M164.4,848.6c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g3_66" />
+<path d="M164.4,850.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_66" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g5_66" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 917)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s10_66"
+>Lesson 2 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 982)"
+dx="0,1" 
+class="s10_66"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 996)"
+dx="0,1,1,1,1,1,1,1,0.8,1" 
+class="s10_66"
+>Dorm Life </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1067)"
+dx="0,1" 
+class="s10_66"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1080)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s10_66"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1157)"
+dx="0,1,0" 
+class="s10_66"
+>43 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3td;
+	src: url("fonts/LibreFranklin-Regular_3td.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3tc;
+	src: url("fonts/LibreFranklin-SemiBold_3tc.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3te;
+	src: url("fonts/STKaiti-SC-Regular_3te.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3t0;
+	src: url("fonts/LibreFranklin-Bold_3t0.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3t6;
+	src: url("fonts/LibreFranklin-ExtraBold_3t6.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3tm;
+	src: url("fonts/STKaiTi-TC-Regular_3tm.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

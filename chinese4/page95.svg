@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 118 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_118"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_118{
+fill: #C2212E;
+}
+.g2_118{
+fill: #FCBA17;
+fill-opacity: 0.5;
+}
+.g3_118{
+fill: #FFFFFF;
+}
+.g4_118{
+fill: none;
+stroke: #85215E;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_118{
+fill: none;
+stroke: #85215E;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_118{
+fill: none;
+stroke: #9B9B9C;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_118{
+fill: #85215E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_118{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_3ul;
+fill: #85215E;
+}
+.s2_118{
+font-size: 16.81px;
+font-family: LibreFranklin-SemiBold_3u_;
+fill: #85215E;
+}
+.s3_118{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3uw;
+fill: #3F3F40;
+}
+.s4_118{
+font-size: 23.68px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #85215E;
+}
+.s5_118{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #85215E;
+}
+.s6_118{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3u_;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,1196.3l0.1,0L0.1,0L0,0L0,1196.3Z" class="g1_118" />
+<image preserveAspectRatio="none" x="0" y="-31" width="2" height="1243" opacity="0.5" style="mix-blend-mode: multiply;" xlink:href="118/img/1.png" />
+<g clip-path="url(#c0_118)">
+<path d="M67.3,173.2l50.6,0C117.9,173.2,107.7,42,-23.7,42C-155.1,42,-166,173.2,-166,173.2l50.9,0l0,15.8l-50.9,0c0,0,1.8,134.9,142.9,134.9c141,0,141,-134.9,141,-134.9l-50.6,0Zm-220.5,-10c0,0,22.7,-110.6,130.1,-110.6c107.3,0,128.9,110.6,128.9,110.6l-113.7,0l0,-84.8c52.1,2.1,81,62.6,81,62.6l-55.8,0l0,-25.8c6.9,1.1,13.7,10,13.7,10l14.2,0C36.8,100.5,7.3,95.2,7.3,95.2l0,54.8l80.6,0C61,62.6,-15.8,64.2,-15.8,64.2l0,25.8l-17.3,0l0,-25.8C-117.4,73.6,-135.8,150,-135.8,150l78.4,0l0,-55.3c-17.9,-0.5,-40,31.1,-40,31.1l15.8,0c2.7,-7.9,12.1,-10,12.1,-10l0,24.7l-51.6,0C-90,75.2,-43.7,80,-43.7,80l0,83.2Zm52.1,25.8l0,-15.8l68,0l0,-70.1l17.5,0l0,70.1l67.7,0l0,15.8l-67.7,0l0,72.6l-17.5,0l0,-72.6Zm206.9,12.6c0,0,-21.6,110.6,-128.9,110.6c-107.4,0,-130.1,-110.6,-130.1,-110.6l109.5,0l0,83.2c0,0,-46.3,4.7,-77.4,-60.6l51.6,0l0,24.8c0,0,-9.4,-2.1,-12.1,-10l-15.8,0c0,0,22.1,31.6,40,31l0,-55.2l-78.4,0c0,0,18.4,76.3,102.7,85.8l0,-25.8l17.3,0l0,25.8c0,0,76.8,1.6,103.7,-85.8l-80.6,0l0,54.7c0,0,29.5,-5.2,37.9,-30l-14.2,0c0,0,-6.8,9,-13.7,10l0,-25.8l55.8,0c0,0,-28.9,60.6,-81,62.7l0,-84.8Z" class="g2_118" />
+<path d="M67.3,1157.1l50.6,0c0,0,-10.2,-131.1,-141.6,-131.1c-131.4,0,-142.3,131.1,-142.3,131.1l50.9,0l0,15.8l-50.9,0c0,0,1.8,135,142.9,135c141,0,141,-135,141,-135l-50.6,0Zm-220.5,-10c0,0,22.7,-110.5,130.1,-110.5c107.3,0,128.9,110.5,128.9,110.5l-113.7,0l0,-84.7c52.1,2.1,81,62.6,81,62.6l-55.8,0l0,-25.8c6.9,1.1,13.7,10,13.7,10l14.2,0c-8.4,-24.7,-37.9,-30,-37.9,-30l0,54.8l80.6,0C61,1046.6,-15.8,1048.1,-15.8,1048.1l0,25.8l-17.3,0l0,-25.8c-84.3,9.5,-102.7,85.9,-102.7,85.9l78.4,0l0,-55.3c-17.9,-0.5,-40,31,-40,31l15.8,0c2.7,-7.9,12.1,-10,12.1,-10l0,24.8l-51.6,0c31.1,-65.3,77.4,-60.6,77.4,-60.6l0,83.2Zm52.1,25.8l0,-15.8l68,0l0,-70l17.5,0l0,70l67.7,0l0,15.8l-67.7,0l0,72.7l-17.5,0l0,-72.7Zm206.9,12.7c0,0,-21.6,110.5,-128.9,110.5c-107.4,0,-130.1,-110.5,-130.1,-110.5l109.5,0l0,83.2c0,0,-46.3,4.7,-77.4,-60.6l51.6,0l0,24.8c0,0,-9.4,-2.2,-12.1,-10l-15.8,0c0,0,22.1,31.5,40,31l0,-55.3l-78.4,0c0,0,18.4,76.4,102.7,85.9l0,-25.8l17.3,0l0,25.8c0,0,76.8,1.5,103.7,-85.9l-80.6,0l0,54.8c0,0,29.5,-5.3,37.9,-30l-14.2,0c0,0,-6.8,8.9,-13.7,10l0,-25.8l55.8,0c0,0,-28.9,60.5,-81,62.6l0,-84.7Z" class="g2_118" />
+</g>
+<image preserveAspectRatio="none" x="-446" y="31" width="802" height="1134" xlink:href="118/img/2.png" />
+<path d="M0,1196.3l169.6,0L169.6,0L0,0L0,1196.3Z" class="g3_118" />
+<path d="M0,97.3l319.5,0" class="g4_118" />
+<path d="M0,99.8l319.5,0" class="g5_118" />
+<path d="M804.8,163.5l111.9,0" class="g6_118" />
+<path d="M743.6,680.3l173.1,0" class="g6_118" />
+<text 
+x="55" 
+y="85" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_118"
+>Lesson Wrap-Up</text>
+
+<text 
+x="805" 
+y="148" 
+dx="0,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4" 
+class="s2_118"
+>Project</text>
+
+<text 
+x="144" 
+y="194" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0" 
+class="s3_118"
+>The owner of Great Wall, a small local Chinese restaurant, has asked you, a business major, </text>
+
+<text 
+x="144" 
+y="218" 
+dx="0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,-0.1,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>to recommend an improvement plan in exchange for free meals. Research three Chinese </text>
+
+<text 
+x="144" 
+y="242" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>restaurants in town and designate one of them Great Wall. The owner has requested that you </text>
+
+<text 
+x="144" 
+y="267" 
+dx="0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>complete the following tasks. Today is your meeting with the owner. Role-play the conversation </text>
+
+<text 
+x="144" 
+y="291" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s3_118"
+>with a partner, who will use the bullet points below to inquire about your research results. Make </text>
+
+<text 
+x="144" 
+y="316" 
+dx="0,0,0,-0.2,0,0,-0.2,0" 
+class="s3_118"
+>sure to:</text>
+
+<text 
+x="166" 
+y="348" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="348" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.8,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0" 
+class="s3_118"
+>identify two competitors’ locations—how they compare with Great Wall in terms of </text>
+
+<text 
+x="184" 
+y="375" 
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>convenience and target customers, e.g., whether they are near colleges or businesses; </text>
+
+<text 
+x="184" 
+y="403" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>if so, what kinds of businesses; and so on.</text>
+
+<text 
+x="166" 
+y="435" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="435" 
+dx="0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s3_118"
+>research customer reviews—are there online reviews? How does Great Wall do in terms </text>
+
+<text 
+x="184" 
+y="462" 
+dx="0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0" 
+class="s3_118"
+>of general customer satisfaction compared with its competitors? </text>
+
+<text 
+x="166" 
+y="495" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="495" 
+dx="0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0.1,-0.6,0,0,0,0,-0.4,0,0,0,-0.2,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2" 
+class="s3_118"
+>note how customers rate the restaurant's level of hygiene and décor.</text>
+
+<text 
+x="166" 
+y="527" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="527" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>pay attention to what customers say about the restaurants’ prices, menu choices, </text>
+
+<text 
+x="184" 
+y="554" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>and service. </text>
+
+<text 
+x="166" 
+y="586" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="586" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,-0.3,0,0,0,0,0,0,0" 
+class="s3_118"
+>evaluate if Great Wall is on trend in terms of its offerings. </text>
+
+<text 
+x="166" 
+y="618" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="618" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>come up with a business improvement plan for Great Wall with three to five points. </text>
+
+<text 
+x="744" 
+y="665" 
+dx="0,-1.3,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4" 
+class="s2_118"
+>Keep It Flowing</text>
+
+<text 
+x="144" 
+y="710" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>Study the following description; pay particular attention to how the highlighted parts help the </text>
+
+<text 
+x="144" 
+y="735" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,-0.2,0,0,0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>sentences flow smoothly from one to the next. Notice how:</text>
+
+<text 
+x="166" 
+y="767" 
+dx="0,-0.3" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="767" 
+dx="0,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s3_118"
+>pronouns (</text>
+
+<text 
+x="253" 
+y="768" 
+dx="0,-0.5" 
+class="s4_118"
+>他们</text>
+
+<text 
+x="299" 
+y="767" 
+dx="0" 
+class="s3_118"
+>/</text>
+
+<text 
+x="304" 
+y="768" 
+dx="0,-0.5" 
+class="s5_118"
+>他們</text>
+
+<text 
+x="350" 
+y="767" 
+dx="0,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.4,-0.3,0" 
+class="s3_118"
+>) replace corresponding nouns when the subject remains unchanged </text>
+
+<text 
+x="184" 
+y="794" 
+dx="0" 
+class="s3_118"
+>(</text>
+
+<text 
+x="189" 
+y="796" 
+dx="0,0,0" 
+class="s4_118"
+>张天明</text>
+
+<text 
+x="260" 
+y="794" 
+dx="0" 
+class="s3_118"
+>/</text>
+
+<text 
+x="265" 
+y="796" 
+dx="0,0,0" 
+class="s5_118"
+>張天明</text>
+
+<text 
+x="336" 
+y="794" 
+dx="0,0" 
+class="s3_118"
+>, </text>
+
+<text 
+x="342" 
+y="796" 
+dx="0,0" 
+class="s4_118"
+>丽莎</text>
+
+<text 
+x="389" 
+y="794" 
+dx="0" 
+class="s3_118"
+>/</text>
+
+<text 
+x="394" 
+y="796" 
+dx="0,0" 
+class="s5_118"
+>麗莎</text>
+
+<text 
+x="441" 
+y="794" 
+dx="0,0" 
+class="s3_118"
+>, </text>
+
+<text 
+x="448" 
+y="796" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_118"
+>柯林和柯林的女朋友林雪梅</text>
+
+<text 
+x="732" 
+y="794" 
+dx="0" 
+class="s3_118"
+>)</text>
+
+<text 
+x="166" 
+y="826" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="826" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,-0.3,0,-0.2,0,0,0,0,0,0" 
+class="s3_118"
+>definite references (</text>
+
+<text 
+x="320" 
+y="828" 
+dx="0,0" 
+class="s4_118"
+>那个</text>
+
+<text 
+x="367" 
+y="826" 
+dx="0" 
+class="s3_118"
+>/</text>
+
+<text 
+x="372" 
+y="828" 
+dx="0,0" 
+class="s5_118"
+>那個</text>
+
+<text 
+x="420" 
+y="826" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,-0.3,0,-0.2,0,0,0,0,0,0" 
+class="s3_118"
+>) replace indefinite references (</text>
+
+<text 
+x="628" 
+y="828" 
+dx="0,0" 
+class="s4_118"
+>一家</text>
+
+<text 
+x="675" 
+y="826" 
+dx="0" 
+class="s3_118"
+>)</text>
+
+<text 
+x="166" 
+y="859" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="859" 
+dx="0,0,0,0,0,0" 
+class="s3_118"
+>time (</text>
+
+<text 
+x="222" 
+y="860" 
+dx="0,0" 
+class="s4_118"
+>周末</text>
+
+<text 
+x="270" 
+y="859" 
+dx="0" 
+class="s3_118"
+>/</text>
+
+<text 
+x="275" 
+y="860" 
+dx="0,0" 
+class="s5_118"
+>週末</text>
+
+<text 
+x="322" 
+y="859" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s3_118"
+>) and place words (</text>
+
+<text 
+x="446" 
+y="860" 
+dx="0,0" 
+class="s4_118"
+>那儿</text>
+
+<text 
+x="493" 
+y="859" 
+dx="0" 
+class="s3_118"
+>/</text>
+
+<text 
+x="498" 
+y="860" 
+dx="0,0" 
+class="s5_118"
+>那兒</text>
+
+<text 
+x="546" 
+y="859" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>) can serve as connective devices</text>
+
+<text 
+x="166" 
+y="891" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="891" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>certain conjunctions (</text>
+
+<text 
+x="329" 
+y="892" 
+dx="0,0" 
+class="s4_118"
+>所以</text>
+
+<text 
+x="376" 
+y="891" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>) introduce causal relationships </text>
+
+<text 
+x="166" 
+y="923" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="923" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>certain phrases (</text>
+
+<text 
+x="296" 
+y="924" 
+dx="0,0,0" 
+class="s4_118"
+>特别是</text>
+
+<text 
+x="367" 
+y="923" 
+dx="0" 
+class="s3_118"
+>/</text>
+
+<text 
+x="372" 
+y="924" 
+dx="0,0,0" 
+class="s5_118"
+>特別是</text>
+
+<text 
+x="443" 
+y="923" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>) single out specific items for emphasis</text>
+
+<text 
+x="166" 
+y="955" 
+dx="0,0" 
+class="s3_118"
+>• </text>
+
+<text 
+x="184" 
+y="955" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0" 
+class="s3_118"
+>certain adverbs (</text>
+
+<text 
+x="296" 
+y="956" 
+dx="0" 
+class="s4_118"
+>也</text>
+
+<text 
+x="320" 
+y="955" 
+dx="0,0" 
+class="s3_118"
+>, </text>
+
+<text 
+x="326" 
+y="956" 
+dx="0" 
+class="s4_118"
+>还</text>
+
+<text 
+x="350" 
+y="955" 
+dx="0" 
+class="s3_118"
+>/</text>
+
+<text 
+x="355" 
+y="956" 
+dx="0" 
+class="s5_118"
+>還</text>
+
+<text 
+x="379" 
+y="955" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_118"
+>) indicate similarity or addition</text>
+
+<path d="M881.6,1209.2l64.9,0l0,-1222.1l-64.9,0l0,1222.1Z" class="g7_118" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 834)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s6_118"
+>Lesson 3 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 899)"
+dx="0,1" 
+class="s6_118"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 913)"
+dx="0,0.7,1,1,1,1,1,1,1,1,1,1,0.9,1,1,1" 
+class="s6_118"
+>At a Restaurant </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1021)"
+dx="0,1" 
+class="s6_118"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1035)"
+dx="0,1,1,1,1,1,1,1,1,0.9,1,1,1,1,1" 
+class="s6_118"
+>Lesson Wrap-Up </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1157)"
+dx="0,1,0" 
+class="s6_118"
+>95 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3ul;
+	src: url("fonts/LibreFranklin-ExtraBold_3ul.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3uw;
+	src: url("fonts/LibreFranklin-Regular_3uw.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3u_;
+	src: url("fonts/LibreFranklin-SemiBold_3u_.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

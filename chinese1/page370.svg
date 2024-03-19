@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 393 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_393{
+fill: #3986C6;
+}
+
+.s1_393{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_dcl;
+fill: #231F20;
+}
+.s2_393{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_dcf;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_393"
+>Go Far with Chinese</text>
+
+<text 
+x="33" 
+y="1149" 
+dx="0,0,0" 
+class="s2_393"
+>370</text>
+
+<path d="M49.6,1128l1.7,0l0,-38.7l-1.7,0l0,38.7Z" class="g1_393" />
+<path d="M50.4,1125.4c-1.4,0,-2.6,1.1,-2.6,2.6c0,1.4,1.2,2.6,2.6,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g1_393" />
+<image preserveAspectRatio="none" x="19" y="22" width="365" height="384" xlink:href="393/img/1.png" />
+<image preserveAspectRatio="none" x="383" y="22" width="365" height="384" xlink:href="393/img/2.png" />
+<image preserveAspectRatio="none" x="747" y="22" width="156" height="876" xlink:href="393/img/3.png" />
+<image preserveAspectRatio="none" x="19" y="405" width="365" height="383" xlink:href="393/img/4.png" />
+<image preserveAspectRatio="none" x="383" y="405" width="365" height="383" xlink:href="393/img/5.png" />
+<image preserveAspectRatio="none" x="19" y="788" width="365" height="383" xlink:href="393/img/6.png" />
+<image preserveAspectRatio="none" x="383" y="788" width="365" height="383" xlink:href="393/img/7.png" />
+<image preserveAspectRatio="none" x="747" y="897" width="156" height="274" xlink:href="393/img/8.png" />
+<image preserveAspectRatio="none" x="45" y="967" width="10" height="117" xlink:href="393/img/9.png" />
+<image preserveAspectRatio="none" x="45" y="967" width="10" height="117" xlink:href="393/img/10.png" />
+<image preserveAspectRatio="none" x="33" y="1136" width="32" height="14" xlink:href="393/img/11.png" />
+<image preserveAspectRatio="none" x="33" y="1136" width="32" height="14" xlink:href="393/img/12.png" />
+<image preserveAspectRatio="none" x="49" y="1089" width="3" height="37" xlink:href="393/img/13.png" />
+<image preserveAspectRatio="none" x="48" y="1125" width="6" height="6" xlink:href="393/img/14.png" />
+<text 
+x="33" 
+y="1155" 
+dx="0,0,0" 
+class="s2_393"
+>370</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_dcl;
+	src: url("fonts/ProximaNova-Semibold_dcl.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_dcf;
+	src: url("fonts/ProximaNova-Bold_dcf.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

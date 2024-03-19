@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 4 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+
+.s1_4{
+font-size: 16.81px;
+font-family: LibreFranklin-Regular_cc_;
+fill: #231F20;
+}
+.s2_4{
+font-size: 16.81px;
+font-family: LibreFranklin-Italic_cc-;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="210" 
+y="406" 
+dx="0,0,0,0,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s1_4"
+>This Fourth Edition of </text>
+
+<text 
+x="380" 
+y="406" 
+dx="0,0,0,-0.2,0,0,-0.1,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s2_4"
+>Integrated Chinese</text>
+
+<text 
+x="534" 
+y="406" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s1_4"
+>is dedicated to the memory of our </text>
+
+<text 
+x="329" 
+y="427" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.2,-0.4,0,0,0,0,0,0,-1.4,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,-1.5,0,-0.5" 
+class="s1_4"
+>dearest colleague and friend Professor Tao-chung (Ted) Yao.</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Regular_cc_;
+	src: url("fonts/LibreFranklin-Regular_cc_.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Italic_cc-;
+	src: url("fonts/LibreFranklin-Italic_cc-.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

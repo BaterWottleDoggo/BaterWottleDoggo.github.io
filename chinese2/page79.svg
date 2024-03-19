@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 100 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_100"><path d="M477.3,380.1l0,-17.1l17,0l0,17.1Z" /></clipPath>
+<clipPath id="c1_100"><path d="M647.3,865.6l0,-17l17.1,0l0,17Z" /></clipPath>
+<clipPath id="c2_100"><path d="M647.3,993.1l0,-17l17.1,0l0,17Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_100{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_100{
+fill: #DC262E;
+}
+.g3_100{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g4_100{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_100{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_100{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_100{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_2ww;
+fill: #007D9F;
+}
+.s2_100{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_2x3;
+fill: #007D9F;
+}
+.s3_100{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2x7;
+fill: #3F3F40;
+}
+.s4_100{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s5_100{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s6_100{
+font-size: 16.81px;
+font-family: ProximaNova-SemiboldIt_2xd;
+fill: #007598;
+}
+.s7_100{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_2ww;
+fill: #3F3F40;
+}
+.s8_100{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s9_100{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s10_100{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s11_100{
+font-size: 21.39px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #231F20;
+}
+.s12_100{
+font-size: 28.23px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #3F3F40;
+}
+.s13_100{
+font-size: 18.82px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007D9F;
+}
+.s14_100{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2x9;
+fill: #3F3F40;
+}
+.s15_100{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2x8;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,73.2l13,0" class="g1_100" />
+<text 
+x="105" 
+y="69" 
+dx="0,0" 
+class="s1_100"
+>3 </text>
+
+<text 
+x="445" 
+y="74" 
+dx="0,0,0,0" 
+class="s2_100"
+>Time</text>
+
+<text 
+x="143" 
+y="136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_100"
+>The terms used to tell the time are: </text>
+
+<text 
+x="376" 
+y="136" 
+dx="0" 
+class="s4_100"
+>点</text>
+
+<text 
+x="401" 
+y="136" 
+dx="0,0,0,0,0,0" 
+class="s5_100"
+>(diǎn)</text>
+
+<text 
+x="437" 
+y="136" 
+dx="0" 
+class="s3_100"
+>/</text>
+
+<text 
+x="441" 
+y="136" 
+dx="0,0" 
+class="s4_100"
+>点钟</text>
+
+<text 
+x="488" 
+y="136" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_100"
+>(diǎnzhōng)</text>
+
+<text 
+x="562" 
+y="136" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s3_100"
+>(o’clock), </text>
+
+<text 
+x="623" 
+y="136" 
+dx="0" 
+class="s4_100"
+>半</text>
+
+<text 
+x="649" 
+y="136" 
+dx="0,0,0,0,0" 
+class="s5_100"
+>(bàn)</text>
+
+<text 
+x="684" 
+y="136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_100"
+>(half hour), </text>
+
+<text 
+x="143" 
+y="163" 
+dx="0" 
+class="s4_100"
+>刻</text>
+
+<text 
+x="168" 
+y="163" 
+dx="0,0,0,0" 
+class="s5_100"
+>(kè)</text>
+
+<text 
+x="194" 
+y="163" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_100"
+>(quarter hour), and </text>
+
+<text 
+x="319" 
+y="163" 
+dx="0" 
+class="s4_100"
+>分</text>
+
+<text 
+x="344" 
+y="163" 
+dx="0,0,0,0,0" 
+class="s5_100"
+>(fēn)</text>
+
+<text 
+x="375" 
+y="163" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_100"
+>(minute).</text>
+
+<text 
+x="143" 
+y="211" 
+dx="0,0.2,0.2,0.2" 
+class="s6_100"
+>Hour</text>
+
+<text 
+x="154" 
+y="267" 
+dx="0,0" 
+class="s7_100"
+>A </text>
+
+<text 
+x="220" 
+y="269" 
+dx="0" 
+class="s8_100"
+>两</text>
+
+<text 
+x="252" 
+y="269" 
+dx="0,0,0,0" 
+class="s9_100"
+>点（钟）</text>
+
+<text 
+x="224" 
+y="306" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s5_100"
+>liǎng </text>
+
+<text 
+x="258" 
+y="306" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s10_100"
+>diǎn (zhōng) </text>
+
+<text 
+x="224" 
+y="338" 
+dx="0,0,0,0" 
+class="s3_100"
+>2:00</text>
+
+<text 
+x="637" 
+y="269" 
+dx="0,0" 
+class="s8_100"
+>十一</text>
+
+<text 
+x="701" 
+y="269" 
+dx="0,0,0,0" 
+class="s9_100"
+>点（钟）</text>
+
+<text 
+x="642" 
+y="306" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s5_100"
+>shíyī </text>
+
+<text 
+x="673" 
+y="306" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s10_100"
+>diǎn (zhōng) </text>
+
+<text 
+x="642" 
+y="338" 
+dx="0,0,0,0,0" 
+class="s3_100"
+>11:00</text>
+
+<text 
+x="143" 
+y="380" 
+dx="0" 
+class="s4_100"
+>钟</text>
+
+<text 
+x="168" 
+y="380" 
+dx="0,0,0,0,0,0,0" 
+class="s5_100"
+>(zhōng)</text>
+
+<text 
+x="216" 
+y="380" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_100"
+>can be omitted from </text>
+
+<text 
+x="352" 
+y="380" 
+dx="0,0" 
+class="s4_100"
+>点钟</text>
+
+<text 
+x="399" 
+y="380" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_100"
+>(diǎnzhōng)</text>
+
+<text 
+x="469" 
+y="380" 
+dx="0,0" 
+class="s3_100"
+>. </text>
+
+<g clip-path="url(#c0_100)">
+<path d="M485.8,380.1c4.7,0,8.5,-3.8,8.5,-8.5c0,-4.7,-3.8,-8.6,-8.5,-8.6c-4.7,0,-8.5,3.9,-8.5,8.6c0,4.7,3.8,8.5,8.5,8.5Z" class="g2_100" />
+</g>
+<path d="M482.1,367.8l7.5,7.5" class="g3_100" />
+<path d="M489.6,367.8l-7.5,7.5" class="g3_100" />
+<text 
+x="498" 
+y="380" 
+dx="0,0,0,0,0" 
+class="s11_100"
+>二点（钟）</text>
+
+<text 
+x="605" 
+y="380" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_100"
+>is not used.</text>
+
+<text 
+x="143" 
+y="427" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s6_100"
+>Minute</text>
+
+<text 
+x="154" 
+y="483" 
+dx="0,0" 
+class="s7_100"
+>B </text>
+
+<text 
+x="220" 
+y="486" 
+dx="0,0,0,0,0" 
+class="s8_100"
+>十二点四十</text>
+
+<text 
+x="380" 
+y="486" 
+dx="0,0,0" 
+class="s9_100"
+>（分）</text>
+
+<text 
+x="640" 
+y="486" 
+dx="0,0,0,0" 
+class="s8_100"
+>五点二十</text>
+
+<text 
+x="768" 
+y="486" 
+dx="0,0,0" 
+class="s9_100"
+>（分）</text>
+
+<text 
+x="224" 
+y="523" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_100"
+>shí’èr diǎn sìshí </text>
+
+<text 
+x="323" 
+y="523" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s10_100"
+>(fēn) </text>
+
+<text 
+x="640" 
+y="523" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_100"
+>wǔ diǎn èrshí </text>
+
+<text 
+x="727" 
+y="523" 
+dx="0,0.2,0.2,0.2,0.2,0" 
+class="s10_100"
+>(fēn) </text>
+
+<text 
+x="224" 
+y="555" 
+dx="0,0,0,0,0,0" 
+class="s3_100"
+>12:40 </text>
+
+<text 
+x="640" 
+y="555" 
+dx="0,0,0,0" 
+class="s3_100"
+>5:20</text>
+
+<text 
+x="220" 
+y="613" 
+dx="0,0" 
+class="s8_100"
+>两点</text>
+
+<text 
+transform="matrix(1.14, 0, 0, 1, 284, 613)"
+dx="0" 
+class="s12_100"
+>〇</text>
+
+<text 
+x="316" 
+y="613" 
+dx="0" 
+class="s8_100"
+>五</text>
+
+<text 
+x="348" 
+y="613" 
+dx="0,0,0" 
+class="s9_100"
+>（分）</text>
+
+<text 
+x="640" 
+y="613" 
+dx="0,0,0" 
+class="s8_100"
+>八点十</text>
+
+<text 
+x="736" 
+y="613" 
+dx="0" 
+class="s9_100"
+>分</text>
+
+<text 
+x="224" 
+y="650" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_100"
+>liǎng diǎn líng wǔ </text>
+
+<text 
+x="339" 
+y="650" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s10_100"
+>(fēn) </text>
+
+<text 
+x="640" 
+y="650" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_100"
+>bā diǎn shí </text>
+
+<text 
+x="712" 
+y="650" 
+dx="0,0.2,0.2" 
+class="s10_100"
+>fēn</text>
+
+<text 
+x="224" 
+y="682" 
+dx="0,0,0,0,0" 
+class="s3_100"
+>2:05 </text>
+
+<text 
+x="640" 
+y="682" 
+dx="0,0,0,0" 
+class="s3_100"
+>8:10</text>
+
+<text 
+x="143" 
+y="723" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s3_100"
+>When telling the time, </text>
+
+<text 
+transform="matrix(1.14, 0, 0, 1, 289, 723)"
+dx="0" 
+class="s13_100"
+>〇</text>
+
+<text 
+x="315" 
+y="723" 
+dx="0,0,0,0,0,0" 
+class="s5_100"
+>(líng)</text>
+
+<text 
+x="349" 
+y="723" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_100"
+>(zero) is usually added before a single-digit number and </text>
+
+<text 
+x="719" 
+y="723" 
+dx="0" 
+class="s4_100"
+>分</text>
+
+<text 
+x="744" 
+y="723" 
+dx="0,0,0,0,0" 
+class="s5_100"
+>(fēn)</text>
+
+<text 
+x="143" 
+y="751" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0" 
+class="s3_100"
+>(minute), e.g., </text>
+
+<text 
+x="233" 
+y="751" 
+dx="0,0" 
+class="s4_100"
+>两点</text>
+
+<text 
+transform="matrix(1.14, 0, 0, 1, 276, 751)"
+dx="0" 
+class="s13_100"
+>〇</text>
+
+<text 
+x="297" 
+y="751" 
+dx="0,0" 
+class="s4_100"
+>五分</text>
+
+<text 
+x="344" 
+y="751" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_100"
+>(liǎng diǎn líng wǔ fēn) </text>
+
+<text 
+x="486" 
+y="751" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_100"
+>(2:05). </text>
+
+<text 
+x="531" 
+y="751" 
+dx="0" 
+class="s4_100"
+>分</text>
+
+<text 
+x="556" 
+y="751" 
+dx="0,0,0,0,0" 
+class="s5_100"
+>(fēn)</text>
+
+<text 
+x="587" 
+y="751" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_100"
+>can be omitted from the end of </text>
+
+<text 
+x="143" 
+y="778" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_100"
+>the expression if the number for the minutes appears in two syllables. Another way of looking at this </text>
+
+<text 
+x="143" 
+y="806" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_100"
+>is that </text>
+
+<text 
+x="186" 
+y="806" 
+dx="0" 
+class="s4_100"
+>分</text>
+
+<text 
+x="211" 
+y="806" 
+dx="0,0,0,0,0" 
+class="s5_100"
+>(fēn)</text>
+
+<text 
+x="242" 
+y="806" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s3_100"
+>has to be added if the number for the minutes appears in one syllable.</text>
+
+<text 
+x="154" 
+y="862" 
+dx="0,0" 
+class="s7_100"
+>C </text>
+
+<text 
+x="220" 
+y="864" 
+dx="0,0,0,0" 
+class="s8_100"
+>一点四十</text>
+
+<text 
+x="410" 
+y="864" 
+dx="0,0,0" 
+class="s8_100"
+>一点十</text>
+
+<text 
+x="507" 
+y="864" 
+dx="0,0" 
+class="s9_100"
+>分 </text>
+
+<text 
+x="638" 
+y="864" 
+dx="0" 
+class="s14_100"
+>[</text>
+
+<g clip-path="url(#c1_100)">
+<path d="M655.8,865.6c4.7,0,8.6,-3.8,8.6,-8.5c0,-4.7,-3.9,-8.5,-8.6,-8.5c-4.7,0,-8.5,3.8,-8.5,8.5c0,4.7,3.8,8.5,8.5,8.5Z" class="g2_100" />
+</g>
+<path d="M652.1,853.4l7.5,7.4" class="g3_100" />
+<path d="M659.6,853.4l-7.5,7.4" class="g3_100" />
+<text 
+x="672" 
+y="862" 
+dx="0,0,0" 
+class="s8_100"
+>一点十</text>
+
+<text 
+x="768" 
+y="864" 
+dx="0" 
+class="s14_100"
+>]</text>
+
+<text 
+x="224" 
+y="901" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_100"
+>yī diǎn sìshí </text>
+
+<text 
+x="410" 
+y="901" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_100"
+>yī diǎn shí </text>
+
+<text 
+x="479" 
+y="901" 
+dx="0,0.2,0.2" 
+class="s10_100"
+>fēn</text>
+
+<text 
+x="224" 
+y="933" 
+dx="0,0,0,0,0" 
+class="s3_100"
+>1:40 </text>
+
+<text 
+x="410" 
+y="933" 
+dx="0,0,0,0" 
+class="s3_100"
+>1:10</text>
+
+<text 
+x="220" 
+y="992" 
+dx="0,0" 
+class="s8_100"
+>两点</text>
+
+<text 
+transform="matrix(1.14, 0, 0, 1, 284, 992)"
+dx="0" 
+class="s12_100"
+>〇</text>
+
+<text 
+x="316" 
+y="992" 
+dx="0,0" 
+class="s8_100"
+>五 </text>
+
+<text 
+x="410" 
+y="992" 
+dx="0,0,0" 
+class="s8_100"
+>两点五</text>
+
+<text 
+x="507" 
+y="992" 
+dx="0,0" 
+class="s9_100"
+>分 </text>
+
+<text 
+x="638" 
+y="992" 
+dx="0" 
+class="s14_100"
+>[</text>
+
+<g clip-path="url(#c2_100)">
+<path d="M655.8,993.1c4.7,0,8.6,-3.8,8.6,-8.5c0,-4.7,-3.9,-8.5,-8.6,-8.5c-4.7,0,-8.5,3.8,-8.5,8.5c0,4.7,3.8,8.5,8.5,8.5Z" class="g2_100" />
+</g>
+<path d="M652.1,980.9l7.5,7.4" class="g3_100" />
+<path d="M659.6,980.9l-7.5,7.4" class="g3_100" />
+<text 
+x="672" 
+y="990" 
+dx="0,0,0" 
+class="s8_100"
+>两点五</text>
+
+<text 
+x="768" 
+y="992" 
+dx="0" 
+class="s14_100"
+>]</text>
+
+<text 
+x="224" 
+y="1029" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_100"
+>liǎng diǎn líng wǔ </text>
+
+<text 
+x="410" 
+y="1029" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_100"
+>liǎng diǎn wǔ </text>
+
+<text 
+x="499" 
+y="1029" 
+dx="0,0.2,0.2" 
+class="s10_100"
+>fēn</text>
+
+<text 
+x="224" 
+y="1061" 
+dx="0,0,0,0,0" 
+class="s3_100"
+>2:05 </text>
+
+<text 
+x="410" 
+y="1061" 
+dx="0,0,0,0" 
+class="s3_100"
+>2:05</text>
+
+<path d="M132.9,39l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g4_100" />
+<path d="M134.9,91.2l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g5_100" />
+<path d="M149.1,244.1c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_100" />
+<path d="M149.1,246.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_100" />
+<path d="M149.1,460.5c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_100" />
+<path d="M149.1,462.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_100" />
+<path d="M149.1,839.2c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_100" />
+<path d="M149.1,841.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_100" />
+<path d="M885.3,1209.2l69.6,0l0,-1222.1l-69.6,0l0,1222.1Z" class="g6_100" />
+<text 
+transform="matrix(0, 1, -1, 0, 894, 917)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_100"
+>Lesson 3 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 976)"
+dx="0,0.3" 
+class="s15_100"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 988)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_100"
+>Time and Date </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1077)"
+dx="0,0.3" 
+class="s15_100"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1090)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_100"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1160)"
+dx="0,0.3" 
+class="s15_100"
+>79</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_2x8;
+	src: url("fonts/ProximaNova-Semibold_2x8.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2ww;
+	src: url("fonts/ProximaNova-Extrabld_2ww.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2x7;
+	src: url("fonts/ProximaNova-Light_2x7.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2x9;
+	src: url("fonts/STKaiti-SC-Regular_2x9.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-SemiboldIt_2xd;
+	src: url("fonts/ProximaNova-SemiboldIt_2xd.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2x3;
+	src: url("fonts/ProximaNova-Bold_2x3.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

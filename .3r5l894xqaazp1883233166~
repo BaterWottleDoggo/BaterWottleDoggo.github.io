@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 95 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_95"><path d="M195.6,1163.2l0,-414.7l531.7,0l0,414.7Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_95{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_95{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_95{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_95{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_95{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_95{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 0.6645833;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_95{
+fill: #7CA3CC;
+}
+.g8_95{
+fill: #F58320;
+}
+.g9_95{
+fill: none;
+stroke: #7CA3CC;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_95{
+fill: #FFFFFF;
+}
+.g11_95{
+fill: none;
+stroke: #6D6E71;
+stroke-width: 0.75166667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_95{
+fill: #57585A;
+}
+.g13_95{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.3597223;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g14_95{
+fill: none;
+stroke: #0F9544;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g15_95{
+fill: #0F9544;
+}
+.g16_95{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_95{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_cpo;
+fill: #007598;
+}
+.s2_95{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_cpo;
+fill: #007D9F;
+}
+.s3_95{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_cpn;
+fill: #007D9F;
+}
+.s4_95{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cpx;
+fill: #3F3F40;
+}
+.s5_95{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s6_95{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s7_95{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_cic;
+fill: #3F3F40;
+}
+.s8_95{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cqt;
+fill: #3F3F40;
+}
+.s9_95{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_cqp;
+fill: #6D6E71;
+}
+.s10_95{
+font-size: 15.66px;
+font-family: SourceHanSansCN-Medium_cfk;
+fill: #6D6E71;
+}
+.s11_95{
+font-size: 15.66px;
+font-family: GentiumBasic-BoldItalic_vf;
+fill: #6D6E71;
+}
+.s12_95{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_cqr;
+fill: #FFFFFF;
+}
+.s13_95{
+font-size: 27.50px;
+font-family: SourceHanSansTW-Regular_chz;
+fill: #231F20;
+}
+.s14_95{
+font-size: 16.81px;
+font-family: SourceHanSansTW-Regular_chz;
+fill: #231F20;
+}
+.s15_95{
+font-size: 9.08px;
+font-family: ArialMT_cqq;
+fill: #FFFFFF;
+}
+.s16_95{
+font-size: 9.38px;
+font-family: LibreFranklin-Medium_cqp;
+fill: #6D6E71;
+}
+.s17_95{
+font-size: 27.50px;
+font-family: SourceHanSansCN-Regular_cgj;
+fill: #231F20;
+}
+.s18_95{
+font-size: 16.81px;
+font-family: SourceHanSansCN-Regular_cgj;
+fill: #231F20;
+}
+.s19_95{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cpt;
+fill: #231F20;
+}
+.s20_95{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_cg0;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M3.9,97.3l204.6,0" class="g1_95" />
+<path d="M3.9,99.8l204.6,0" class="g2_95" />
+<path d="M123,183.4l10.7,0" class="g3_95" />
+<text 
+x="58" 
+y="85" 
+dx="0,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_95"
+>Grammar</text>
+
+<text 
+x="123" 
+y="177" 
+dx="0,0" 
+class="s2_95"
+>1 </text>
+
+<text 
+x="378" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_95"
+>Numbers in idioms</text>
+
+<text 
+x="161" 
+y="237" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s4_95"
+>Many idioms in Chinese contain two numbers. These numbers are almost never literal in </text>
+
+<text 
+x="161" 
+y="264" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>meaning. For instance, “</text>
+
+<text 
+x="320" 
+y="266" 
+dx="0,0,0,0" 
+class="s5_95"
+>千…百…</text>
+
+<text 
+x="415" 
+y="264" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>” can mean “myriad” or “many,” as in </text>
+
+<text 
+x="659" 
+y="266" 
+dx="0,0,0,0" 
+class="s5_95"
+>千奇百怪</text>
+
+<text 
+x="161" 
+y="292" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(strange in all sorts of ways) and </text>
+
+<text 
+x="378" 
+y="293" 
+dx="0,0,0,0" 
+class="s5_95"
+>千娇百媚</text>
+
+<text 
+x="473" 
+y="292" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="478" 
+y="293" 
+dx="0,0,0,0" 
+class="s6_95"
+>千嬌百媚</text>
+
+<text 
+x="576" 
+y="292" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s7_95"
+>(qiān jiāo bǎi mèi)</text>
+
+<text 
+x="699" 
+y="292" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(charming in </text>
+
+<text 
+x="161" 
+y="319" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>myriad ways). </text>
+
+<text 
+x="255" 
+y="321" 
+dx="0" 
+class="s5_95"
+>千</text>
+
+<text 
+x="282" 
+y="319" 
+dx="0,0,0,0" 
+class="s4_95"
+>and </text>
+
+<text 
+x="310" 
+y="321" 
+dx="0" 
+class="s5_95"
+>万</text>
+
+<text 
+x="334" 
+y="319" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="339" 
+y="321" 
+dx="0" 
+class="s6_95"
+>萬</text>
+
+<text 
+x="366" 
+y="319" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0" 
+class="s4_95"
+>emphasize a large quantity, as in </text>
+
+<text 
+x="585" 
+y="321" 
+dx="0,0,0,0" 
+class="s5_95"
+>千变万化</text>
+
+<text 
+x="680" 
+y="319" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="685" 
+y="321" 
+dx="0,0,0,0" 
+class="s6_95"
+>千變萬化</text>
+
+<text 
+x="161" 
+y="347" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(constantly changing), </text>
+
+<text 
+x="312" 
+y="348" 
+dx="0,0,0,0" 
+class="s5_95"
+>千军万马</text>
+
+<text 
+x="407" 
+y="347" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="412" 
+y="348" 
+dx="0,0,0,0" 
+class="s6_95"
+>千軍萬馬</text>
+
+<text 
+x="509" 
+y="347" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s7_95"
+>(qiān jūn wàn mǎ) </text>
+
+<text 
+x="635" 
+y="347" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(a large and powerful </text>
+
+<text 
+x="161" 
+y="374" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>army), and </text>
+
+<text 
+x="234" 
+y="376" 
+dx="0,0,0,0" 
+class="s5_95"
+>千家万户</text>
+
+<text 
+x="328" 
+y="374" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="333" 
+y="376" 
+dx="0,0,0,0" 
+class="s6_95"
+>千家萬戶</text>
+
+<text 
+x="431" 
+y="374" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s7_95"
+>(qiān jiā wàn hù)</text>
+
+<text 
+x="548" 
+y="374" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(countless families and households). </text>
+
+<text 
+x="161" 
+y="415" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s4_95"
+>In many idioms that contain numbers, the two numbers are consecutive. </text>
+
+<text 
+x="647" 
+y="417" 
+dx="0" 
+class="s5_95"
+>一</text>
+
+<text 
+x="674" 
+y="415" 
+dx="0,0,0,0" 
+class="s4_95"
+>and </text>
+
+<text 
+x="702" 
+y="417" 
+dx="0" 
+class="s5_95"
+>二</text>
+
+<text 
+x="729" 
+y="415" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>frequently </text>
+
+<text 
+x="161" 
+y="443" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,-0.1,-0.1,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>appear together, and imply that something is straightforward or clear-cut, as in </text>
+
+<text 
+x="689" 
+y="445" 
+dx="0,0,0,0" 
+class="s5_95"
+>一干二净</text>
+
+<text 
+x="784" 
+y="443" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="161" 
+y="472" 
+dx="0,0,0,0" 
+class="s6_95"
+>一乾二淨</text>
+
+<text 
+x="259" 
+y="470" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0" 
+class="s4_95"
+>(quick and clean, complete) and </text>
+
+<text 
+x="473" 
+y="472" 
+dx="0,0,0,0" 
+class="s5_95"
+>一清二楚</text>
+
+<text 
+x="571" 
+y="470" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(crystal clear). </text>
+
+<text 
+x="667" 
+y="472" 
+dx="0" 
+class="s5_95"
+>五</text>
+
+<text 
+x="694" 
+y="470" 
+dx="0,0,0,0" 
+class="s4_95"
+>and </text>
+
+<text 
+x="722" 
+y="472" 
+dx="0" 
+class="s5_95"
+>六</text>
+
+<text 
+x="749" 
+y="470" 
+dx="0,0,0,0" 
+class="s4_95"
+>can </text>
+
+<text 
+x="161" 
+y="498" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0" 
+class="s4_95"
+>sometimes mean many, as in </text>
+
+<text 
+x="357" 
+y="500" 
+dx="0,0,0,0" 
+class="s5_95"
+>五颜六色</text>
+
+<text 
+x="452" 
+y="498" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="457" 
+y="500" 
+dx="0,0,0,0" 
+class="s6_95"
+>五顏六色</text>
+
+<text 
+x="554" 
+y="498" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s4_95"
+>(colorful, variegated). </text>
+
+<text 
+x="699" 
+y="500" 
+dx="0" 
+class="s5_95"
+>七</text>
+
+<text 
+x="726" 
+y="498" 
+dx="0,0,0,0" 
+class="s4_95"
+>and </text>
+
+<text 
+x="754" 
+y="500" 
+dx="0" 
+class="s5_95"
+>八</text>
+
+<text 
+x="161" 
+y="525" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>suggest messiness and chaos, as in </text>
+
+<text 
+x="402" 
+y="527" 
+dx="0,0,0,0" 
+class="s5_95"
+>七上八下</text>
+
+<text 
+x="500" 
+y="525" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s4_95"
+>(at an utter loss, feeling unsettled), </text>
+
+<text 
+x="734" 
+y="527" 
+dx="0,0" 
+class="s5_95"
+>乱七</text>
+
+<text 
+x="161" 
+y="555" 
+dx="0,0" 
+class="s5_95"
+>八糟</text>
+
+<text 
+x="208" 
+y="553" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="213" 
+y="555" 
+dx="0,0,0,0,0" 
+class="s6_95"
+>亂七八糟 </text>
+
+<text 
+x="314" 
+y="553" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(messy), </text>
+
+<text 
+x="372" 
+y="555" 
+dx="0,0,0,0" 
+class="s5_95"
+>七手八脚</text>
+
+<text 
+x="467" 
+y="553" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="472" 
+y="555" 
+dx="0,0,0,0" 
+class="s6_95"
+>七手八腳</text>
+
+<text 
+x="570" 
+y="553" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(too many cooks spoiling the </text>
+
+<text 
+x="161" 
+y="580" 
+dx="0,0,-0.2,-0.1,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>broth), and </text>
+
+<text 
+x="236" 
+y="582" 
+dx="0,0,0,0" 
+class="s5_95"
+>七嘴八舌</text>
+
+<text 
+x="334" 
+y="580" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s7_95"
+>(qī zuǐ bā shé)</text>
+
+<text 
+x="430" 
+y="580" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(everyone talking in confusion).</text>
+
+<text 
+x="161" 
+y="622" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>Some idioms involve non-consecutive numbers, such as </text>
+
+<text 
+x="539" 
+y="623" 
+dx="0,0,0,0" 
+class="s5_95"
+>五光十色</text>
+
+<text 
+x="637" 
+y="622" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s4_95"
+>(dazzlingly colored) </text>
+
+<text 
+x="161" 
+y="649" 
+dx="0,0,0" 
+class="s8_95"
+>and</text>
+
+<text 
+x="189" 
+y="651" 
+dx="0,0,0,0" 
+class="s5_95"
+>五花八门</text>
+
+<text 
+x="284" 
+y="649" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="289" 
+y="651" 
+dx="0,0,0,0" 
+class="s6_95"
+>五花八門</text>
+
+<text 
+x="386" 
+y="649" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.6,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.2,1,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(all manner of, every kind of). There are also idioms in which </text>
+
+<text 
+x="161" 
+y="677" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,-0.2,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>the numbers go from large to small, as in </text>
+
+<text 
+x="436" 
+y="678" 
+dx="0,0,0,0" 
+class="s5_95"
+>三番两次</text>
+
+<text 
+x="530" 
+y="677" 
+dx="0" 
+class="s4_95"
+>/</text>
+
+<text 
+x="535" 
+y="678" 
+dx="0,0,0,0" 
+class="s6_95"
+>三番兩次</text>
+
+<text 
+x="633" 
+y="677" 
+dx="0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s4_95"
+>(repeatedly) and </text>
+
+<text 
+x="745" 
+y="678" 
+dx="0,0" 
+class="s5_95"
+>三心</text>
+
+<text 
+x="161" 
+y="706" 
+dx="0,0,0" 
+class="s5_95"
+>二意 </text>
+
+<text 
+x="214" 
+y="704" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s4_95"
+>(half-hearted).</text>
+
+<path d="M149.5,147.2l0,53.5l0,0.7l0.8,0l676.9,0l0.7,0l0,-0.7l0,-53.5l0,-0.8l-0.7,0l-676.9,0l-0.8,0l0,0.8Z" class="g4_95" />
+<path d="M151.6,199.4l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g5_95" />
+<path d="M716.8,1144.2l-237.8,0c-5.7,0,-10.2,-4.5,-10.2,-10.1l0,-229c0,-5.7,4.5,-10.2,10.2,-10.2l237.8,0c5.6,0,10.2,4.5,10.2,10.2l0,229c0,5.6,-4.6,10.1,-10.2,10.1Z" class="g6_95" />
+<text 
+x="205" 
+y="813" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_95"
+>Ke Lin just posted a review on TripAdvisor </text>
+
+<text 
+x="518" 
+y="813" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_95"
+>猫途鹰/貓途鷹 </text>
+
+<text 
+x="621" 
+y="813" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_95"
+>(Māotúyīng)</text>
+
+<text 
+x="699" 
+y="813" 
+dx="0,0" 
+class="s9_95"
+>. </text>
+
+<text 
+x="205" 
+y="838" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_95"
+>What tips does he offer other tourists?</text>
+
+<g clip-path="url(#c0_95)">
+<path d="M379.3,769.6c0,-11.7,-9.5,-21.1,-21.1,-21.1l-141.4,0c-11.7,0,-21.2,9.4,-21.2,21.1l0,14.8l183.7,0Z" class="g7_95" />
+</g>
+<path d="M707.6,856.4l19.7,20.5l0,-20.5Z" class="g8_95" />
+<text 
+x="225" 
+y="774" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s12_95"
+>Chinese Chat</text>
+
+<path d="M196,853.5l0,-65.2l506.5,0c13.4,0,24.3,10.8,24.3,24.2l0,41l-530.8,0Z" class="g9_95" />
+<text 
+x="526" 
+y="935" 
+dx="0,0" 
+class="s13_95"
+>柯林</text>
+
+<text 
+x="526" 
+y="964" 
+dx="0,0,0,0,0,0,0,0,0,0.3,0" 
+class="s14_95"
+>坐火車到雲南以後，我和</text>
+
+<text 
+x="526" 
+y="984" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_95"
+>朋友們嚐了嚐地道的特色</text>
+
+<text 
+x="526" 
+y="1004" 
+dx="0,0,0,0.3,0,0,0,0,0,0,0" 
+class="s14_95"
+>小吃，還遊覽了像樹林一</text>
+
+<text 
+x="526" 
+y="1025" 
+dx="0,0,0,0,0,0.3,0,0,0,0,0" 
+class="s14_95"
+>樣的石林、古老的大理三</text>
+
+<text 
+x="526" 
+y="1045" 
+dx="0,0,0.3,0,0,0,0,0,0,0,0" 
+class="s14_95"
+>塔、和美麗的麗江古城。</text>
+
+<text 
+x="526" 
+y="1065" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_95"
+>我們的導遊雖然很幽默，</text>
+
+<text 
+x="526" 
+y="1085" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s14_95"
+>但是一直讓我們買紀念</text>
+
+<text 
+x="526" 
+y="1105" 
+dx="0" 
+class="s14_95"
+>品</text>
+
+<text 
+x="543" 
+y="1101" 
+dx="0,0" 
+class="s14_95"
+>……</text>
+
+<text 
+x="580" 
+y="1105" 
+dx="0,0,0,0,0,0,0.3,0" 
+class="s14_95"
+>下次來雲南，我打</text>
+
+<text 
+x="526" 
+y="1125" 
+dx="0,0,0,0,-4.2" 
+class="s14_95"
+>算自助遊。</text>
+
+<path d="M196.1,1162.9l317,0l0,-296.8l-317,0l0,296.8Z" class="g10_95" />
+<path d="M513.1,1162.9l-317,0l0,-296.8l317,0Z" class="g11_95" />
+<path d="M510.3,886.3l-312,0l0,-17.4l312,0l0,17.4Z" class="g12_95" />
+<path d="M209.6,881.8l-2.1,0l0,-3.9l2.1,0l0,3.9Z" class="g10_95" />
+<path d="M213.2,881.8l-2.1,0l0,-5.5l2.1,0l0,5.5Z" class="g10_95" />
+<path d="M216.8,881.8l-2.1,0l0,-7.2l2.1,0l0,7.2Z" class="g10_95" />
+<path d="M220.5,881.8l-2.1,0l0,-8.8l2.1,0l0,8.8Z" class="g10_95" />
+<path d="M224.1,881.8l-2.1,0l0,-10.4l2.1,0l0,10.4Z" class="g10_95" />
+<path d="M232.2,876.4c1,-1.2,2.7,-2,4.7,-2c1.9,0,3.7,0.8,4.6,2l1.7,-0.4c-1.1,-1.9,-3.5,-3.1,-6.3,-3.1c-2.9,0,-5.3,1.2,-6.4,3.1Z" class="g10_95" />
+<path d="M234,879.1c0.5,-0.8,1.6,-1.3,2.9,-1.3c1.2,0,2.3,0.5,2.9,1.3l1,-0.7c-0.6,-1.1,-2.2,-1.9,-3.9,-1.9c-1.8,0,-3.4,0.8,-4,1.9Z" class="g10_95" />
+<path d="M235.7,881.7c0.2,-0.3,0.7,-0.5,1.2,-0.5c0.5,0,0.9,0.2,1.1,0.5l0.5,-0.8c-0.3,-0.4,-0.9,-0.8,-1.6,-0.8c-0.8,0,-1.4,0.4,-1.6,0.8Z" class="g10_95" />
+<text 
+x="339" 
+y="879" 
+dx="0,-0.7,0,0,0,0,-0.5,0" 
+class="s15_95"
+>11:48 AM</text>
+
+<text 
+x="462" 
+y="879" 
+dx="0,0,0" 
+class="s15_95"
+>78%</text>
+
+<path d="M500.9,875l-1.5,0l0,-2.5l-14,0l0,7.3l14,0l0,-2.5l1.5,0l0,-2.3Z" class="g13_95" />
+<path d="M495.7,877.6l-9.2,0l0,-3.1l9.2,0l0,3.1Z" class="g10_95" />
+<image preserveAspectRatio="none" x="195" y="882" width="126" height="84" xlink:href="95/img/1.png" />
+<text 
+x="222" 
+y="986" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s16_95"
+>KeLin_IC4</text>
+
+<text 
+x="384" 
+y="914" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s16_95"
+>2018-01-25</text>
+
+<path d="M312.6,910.8c0,4.2,-3.3,7.6,-7.5,7.6c-4.2,0,-7.5,-3.4,-7.5,-7.6c0,-4.1,3.3,-7.5,7.5,-7.5c4.2,0,7.5,3.4,7.5,7.5Z" class="g14_95" />
+<path d="M308.3,910.8c0,1.8,-1.4,3.3,-3.2,3.3c-1.8,0,-3.2,-1.5,-3.2,-3.3c0,-1.7,1.4,-3.2,3.2,-3.2c1.8,0,3.2,1.5,3.2,3.2Z" class="g15_95" />
+<path d="M329,910.8c0,4.2,-3.4,7.6,-7.5,7.6c-4.2,0,-7.6,-3.4,-7.6,-7.6c0,-4.1,3.4,-7.5,7.6,-7.5c4.1,0,7.5,3.4,7.5,7.5Z" class="g14_95" />
+<path d="M324.7,910.8c0,1.8,-1.5,3.3,-3.2,3.3c-1.8,0,-3.2,-1.5,-3.2,-3.3c0,-1.7,1.4,-3.2,3.2,-3.2c1.7,0,3.2,1.5,3.2,3.2Z" class="g15_95" />
+<path d="M344.7,910.8c0,4.2,-3.4,7.6,-7.6,7.6c-4.1,0,-7.5,-3.4,-7.5,-7.6c0,-4.1,3.4,-7.5,7.5,-7.5c4.2,0,7.6,3.4,7.6,7.5Z" class="g14_95" />
+<path d="M340.3,910.8c0,1.8,-1.4,3.3,-3.2,3.3c-1.7,0,-3.2,-1.5,-3.2,-3.3c0,-1.7,1.5,-3.2,3.2,-3.2c1.8,0,3.2,1.5,3.2,3.2Z" class="g15_95" />
+<path d="M361.1,910.8c0,4.2,-3.4,7.6,-7.5,7.6c-4.2,0,-7.6,-3.4,-7.6,-7.6c0,-4.1,3.4,-7.5,7.6,-7.5c4.1,0,7.5,3.4,7.5,7.5Z" class="g14_95" />
+<path d="M356.8,910.8c0,1.8,-1.5,3.3,-3.2,3.3c-1.8,0,-3.3,-1.5,-3.3,-3.3c0,-1.7,1.5,-3.2,3.3,-3.2c1.7,0,3.2,1.5,3.2,3.2Z" class="g15_95" />
+<path d="M376.4,910.8c0,4.2,-3.4,7.6,-7.6,7.6c-4.1,0,-7.5,-3.4,-7.5,-7.6c0,-4.1,3.4,-7.5,7.5,-7.5c4.2,0,7.6,3.4,7.6,7.5Z" class="g14_95" />
+<text 
+x="297" 
+y="956" 
+dx="0,0" 
+class="s17_95"
+>柯林</text>
+
+<text 
+x="297" 
+y="981" 
+dx="0,0,0,0,0,0,0,0,0,0.2,-4.4,0" 
+class="s18_95"
+>坐火车到云南以后 ，我和</text>
+
+<text 
+x="297" 
+y="1001" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_95"
+>朋友们尝了尝地道的特色</text>
+
+<text 
+x="297" 
+y="1021" 
+dx="0,0,0,-0.8,-3,0,0,0,0,0,0,0" 
+class="s18_95"
+>小吃 ，还游览了像树林一</text>
+
+<text 
+x="297" 
+y="1042" 
+dx="0,0,0,0,0,1.2,-5.7,0,0,0,0,0" 
+class="s18_95"
+>样的石林 、古老的大理三</text>
+
+<text 
+x="297" 
+y="1062" 
+dx="0,0,0.5,-4.4,0,0,0,0,0,0,0,0,0.5" 
+class="s18_95"
+>塔 、和美丽的丽江古城 。</text>
+
+<text 
+x="297" 
+y="1082" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-1.2" 
+class="s18_95"
+>我们的导游虽然很幽默 ，</text>
+
+<text 
+x="297" 
+y="1102" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s18_95"
+>但是一直让我们买纪念</text>
+
+<text 
+x="297" 
+y="1122" 
+dx="0" 
+class="s18_95"
+>品</text>
+
+<text 
+x="314" 
+y="1118" 
+dx="0,0" 
+class="s18_95"
+>……</text>
+
+<text 
+x="352" 
+y="1122" 
+dx="0,0,0,0,0,2.4,-5.7,0" 
+class="s18_95"
+>下次来云南，我打</text>
+
+<text 
+x="297" 
+y="1142" 
+dx="0,0,0,0,0,1" 
+class="s18_95"
+>算自助游 。</text>
+
+<path d="M-12.9,1140.6l58,0l0,-1153.5l-58,0l0,1153.5Z" class="g16_95" />
+<text 
+x="20" 
+y="1166" 
+dx="0,1.2,0" 
+class="s19_95"
+>72 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s20_95"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s20_95"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s20_95"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s20_95"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s20_95"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s20_95"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s20_95"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s20_95"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s20_95"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_cpn;
+	src: url("fonts/LibreFranklin-Bold_cpn.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_cic;
+	src: url("fonts/GentiumBasic-Italic_cic.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cqt;
+	src: url("fonts/LibreFranklin-Regular_cqt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cqp;
+	src: url("fonts/LibreFranklin-Medium_cqp.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_cfk;
+	src: url("fonts/SourceHanSansCN-Medium_cfk.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cqr;
+	src: url("fonts/LibreFranklin-SemiBold_cqr.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Regular_chz;
+	src: url("fonts/SourceHanSansTW-Regular_chz.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_cgj;
+	src: url("fonts/SourceHanSansCN-Regular_cgj.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-BoldItalic_vf;
+	src: url("fonts/GentiumBasic-BoldItalic_vf.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_cqq;
+	src: url("fonts/ArialMT_cqq.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cpo;
+	src: url("fonts/LibreFranklin-ExtraBold_cpo.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cpt;
+	src: url("fonts/LibreFranklin-Medium_cpt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cpx;
+	src: url("fonts/LibreFranklin-Regular_cpx.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cg0;
+	src: url("fonts/LibreFranklin-SemiBold_cg0.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

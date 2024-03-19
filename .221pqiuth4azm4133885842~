@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 48 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_48"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_48{
+fill: #FED205;
+}
+.g2_48{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_48{
+fill: #FFFFFF;
+}
+.g4_48{
+fill: none;
+stroke: #3F3F40;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_48{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_48{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_48{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_48{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_48{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2tj;
+fill: #007598;
+}
+.s2_48{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2t-;
+fill: #3F3F40;
+}
+.s3_48{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2tj;
+fill: #939598;
+}
+.s4_48{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s5_48{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_2th;
+fill: #007D9F;
+}
+.s6_48{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_2tj;
+fill: #007D9F;
+}
+.s7_48{
+font-size: 27.50px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s8_48{
+font-size: 22.92px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s9_48{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s10_48{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s11_48{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_2th;
+fill: #3F3F40;
+}
+.s12_48{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s13_48{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s14_48{
+font-size: 17.57px;
+font-family: Marion-Italic_2u3;
+fill: #007D9F;
+}
+.s15_48{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2u1;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_48)">
+<path d="M-810.5,3084.6c-712.2,-49.8,-1251.9,-627.2,-1205.6,-1289.8c46.3,-662.5,661.2,-1159.3,1373.3,-1109.5C69.3,735.1,609,1312.6,562.7,1975.1C516.3,2637.7,-98.4,3134.4,-810.5,3084.6Z" class="g1_48" />
+</g>
+<image preserveAspectRatio="none" x="-2" y="656" width="8" height="542" xlink:href="48/img/1.png" />
+<g clip-path="url(#c0_48)">
+<path d="M-810.5,3084.6c-712.2,-49.8,-1251.9,-627.2,-1205.6,-1289.8c46.3,-662.5,661.2,-1159.3,1373.3,-1109.5C69.3,735.1,609,1312.6,562.7,1975.1C516.3,2637.7,-98.4,3134.4,-810.5,3084.6Z" class="g2_48" />
+</g>
+<path d="M1,1196.3l350.3,0l0,-316L1,880.3l0,316Z" class="g3_48" />
+<path d="M277.2,144.3l88.2,0" class="g4_48" />
+<path d="M624.2,144.3l88.2,0" class="g4_48" />
+<path d="M277.2,188.7l88.2,0" class="g4_48" />
+<path d="M624.2,188.7l88.2,0" class="g4_48" />
+<path d="M105.3,268.3l13,0" class="g5_48" />
+<path d="M657.8,846.9l104.2,0" class="g4_48" />
+<path d="M689.8,891.2l104.3,0" class="g4_48" />
+<path d="M105.3,970.9l13,0" class="g5_48" />
+<text 
+x="143" 
+y="68" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_48"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="95" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s2_48"
+>In pairs, ask and give your name and family name.</text>
+
+<text 
+x="145" 
+y="138" 
+dx="0,0" 
+class="s3_48"
+>1 </text>
+
+<text 
+x="187" 
+y="138" 
+dx="0,0" 
+class="s3_48"
+>Q:</text>
+
+<text 
+x="213" 
+y="140" 
+dx="0,0,0" 
+class="s4_48"
+>我姓 </text>
+
+<text 
+x="365" 
+y="140" 
+dx="0,0,0,0,0" 
+class="s4_48"
+>，你呢？ </text>
+
+<text 
+x="536" 
+y="138" 
+dx="0,0" 
+class="s3_48"
+>A:</text>
+
+<text 
+x="559" 
+y="140" 
+dx="0,0,0" 
+class="s4_48"
+>我姓 </text>
+
+<text 
+x="712" 
+y="140" 
+dx="0" 
+class="s4_48"
+>。</text>
+
+<text 
+x="145" 
+y="182" 
+dx="0,0" 
+class="s3_48"
+>2 </text>
+
+<text 
+x="187" 
+y="182" 
+dx="0,0" 
+class="s3_48"
+>Q:</text>
+
+<text 
+x="213" 
+y="184" 
+dx="0,0,0" 
+class="s4_48"
+>我叫 </text>
+
+<text 
+x="365" 
+y="184" 
+dx="0,0,0,0,0" 
+class="s4_48"
+>，你呢？ </text>
+
+<text 
+x="536" 
+y="182" 
+dx="0,0" 
+class="s3_48"
+>A:</text>
+
+<text 
+x="559" 
+y="184" 
+dx="0,0,0" 
+class="s4_48"
+>我叫 </text>
+
+<text 
+x="712" 
+y="184" 
+dx="0" 
+class="s4_48"
+>。</text>
+
+<text 
+x="105" 
+y="264" 
+dx="0,0" 
+class="s5_48"
+>3 </text>
+
+<text 
+x="384" 
+y="269" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_48"
+>The verb </text>
+
+<text 
+x="487" 
+y="269" 
+dx="0" 
+class="s7_48"
+>叫</text>
+
+<text 
+x="521" 
+y="269" 
+dx="0,0,0,0,0,0" 
+class="s8_48"
+>(jiào)</text>
+
+<text 
+x="143" 
+y="331" 
+dx="0,0,0,0,0,0" 
+class="s2_48"
+>While </text>
+
+<text 
+x="184" 
+y="331" 
+dx="0" 
+class="s9_48"
+>叫</text>
+
+<text 
+x="209" 
+y="331" 
+dx="0,0,0,0,0,0" 
+class="s10_48"
+>(jiào)</text>
+
+<text 
+x="243" 
+y="331" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s2_48"
+>has several meanings, it means “to be called” in this lesson. Like </text>
+
+<text 
+x="669" 
+y="331" 
+dx="0" 
+class="s9_48"
+>姓</text>
+
+<text 
+x="695" 
+y="331" 
+dx="0,0,0,0,0,0" 
+class="s10_48"
+>(xìng)</text>
+
+<text 
+x="728" 
+y="331" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_48"
+>, it must be </text>
+
+<text 
+x="143" 
+y="358" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_48"
+>followed by an object, which can be either a full name or a given name, but seldom a given name </text>
+
+<text 
+x="143" 
+y="386" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s2_48"
+>that consists only of one syllable.</text>
+
+<text 
+x="155" 
+y="455" 
+dx="0,0" 
+class="s11_48"
+>A </text>
+
+<text 
+x="198" 
+y="456" 
+dx="0,0,0" 
+class="s3_48"
+>Q: </text>
+
+<text 
+x="224" 
+y="458" 
+dx="0" 
+class="s4_48"
+>你</text>
+
+<text 
+x="256" 
+y="458" 
+dx="0" 
+class="s12_48"
+>叫</text>
+
+<text 
+x="288" 
+y="458" 
+dx="0,0,0,0,0,0" 
+class="s4_48"
+>什么名字？ </text>
+
+<text 
+x="481" 
+y="456" 
+dx="0,0" 
+class="s3_48"
+>A:</text>
+
+<text 
+x="507" 
+y="458" 
+dx="0" 
+class="s4_48"
+>我</text>
+
+<text 
+x="539" 
+y="458" 
+dx="0" 
+class="s12_48"
+>叫</text>
+
+<text 
+x="571" 
+y="458" 
+dx="0,0,0,0" 
+class="s4_48"
+>王小朋。</text>
+
+<text 
+x="230" 
+y="495" 
+dx="0,0.2,0.2" 
+class="s10_48"
+>Nǐ </text>
+
+<text 
+x="251" 
+y="495" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s13_48"
+>jiào </text>
+
+<text 
+x="277" 
+y="495" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_48"
+>shénme míngzi? </text>
+
+<text 
+x="507" 
+y="495" 
+dx="0,0.2,0.2" 
+class="s10_48"
+>Wǒ </text>
+
+<text 
+x="533" 
+y="495" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s13_48"
+>jiào </text>
+
+<text 
+x="560" 
+y="495" 
+dx="0,-1.6,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_48"
+>Wáng Xiǎopéng.</text>
+
+<text 
+x="230" 
+y="527" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0" 
+class="s2_48"
+>What is your name? </text>
+
+<text 
+x="507" 
+y="527" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_48"
+>My name is Wang Xiaopeng.</text>
+
+<text 
+x="143" 
+y="573" 
+dx="0" 
+class="s9_48"
+>叫</text>
+
+<text 
+x="168" 
+y="573" 
+dx="0,0,0,0,0,0" 
+class="s10_48"
+>(jiào)</text>
+
+<text 
+x="203" 
+y="573" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_48"
+>is usually negated with </text>
+
+<text 
+x="356" 
+y="573" 
+dx="0" 
+class="s9_48"
+>不</text>
+
+<text 
+x="382" 
+y="573" 
+dx="0,0,0,0" 
+class="s10_48"
+>(bù)</text>
+
+<text 
+x="405" 
+y="573" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0" 
+class="s2_48"
+>. [See Grammar 7.]</text>
+
+<text 
+x="155" 
+y="642" 
+dx="0,0" 
+class="s11_48"
+>B </text>
+
+<text 
+x="198" 
+y="643" 
+dx="0,0,0" 
+class="s3_48"
+>Q: </text>
+
+<text 
+x="224" 
+y="644" 
+dx="0" 
+class="s4_48"
+>你</text>
+
+<text 
+x="256" 
+y="644" 
+dx="0" 
+class="s12_48"
+>叫</text>
+
+<text 
+x="288" 
+y="644" 
+dx="0,0,0,0,0" 
+class="s4_48"
+>李生吗？ </text>
+
+<text 
+x="481" 
+y="643" 
+dx="0,0" 
+class="s3_48"
+>A:</text>
+
+<text 
+x="507" 
+y="644" 
+dx="0" 
+class="s4_48"
+>我</text>
+
+<text 
+x="539" 
+y="644" 
+dx="0,0" 
+class="s12_48"
+>不叫</text>
+
+<text 
+x="603" 
+y="644" 
+dx="0,0,0" 
+class="s4_48"
+>李生。</text>
+
+<text 
+x="230" 
+y="681" 
+dx="0,0.2,0.2" 
+class="s10_48"
+>Nǐ </text>
+
+<text 
+x="251" 
+y="681" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s13_48"
+>jiào </text>
+
+<text 
+x="277" 
+y="681" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_48"
+>Lǐ Shēng ma? </text>
+
+<text 
+x="507" 
+y="681" 
+dx="0,0.2,0.2" 
+class="s10_48"
+>Wǒ </text>
+
+<text 
+x="533" 
+y="681" 
+dx="0,0.2,0.2" 
+class="s14_48"
+>bú </text>
+
+<text 
+x="553" 
+y="681" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s13_48"
+>jiào </text>
+
+<text 
+x="580" 
+y="681" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_48"
+>Lǐ Shēng.</text>
+
+<text 
+x="230" 
+y="714" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s2_48"
+>Is your name Li Sheng? </text>
+
+<text 
+x="507" 
+y="714" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_48"
+>My name is not Li Sheng.</text>
+
+<text 
+x="143" 
+y="770" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_48"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="798" 
+dx="0,-1.6,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7" 
+class="s2_48"
+>Take turns answering the questions below.</text>
+
+<text 
+x="145" 
+y="841" 
+dx="0,0" 
+class="s3_48"
+>1 </text>
+
+<text 
+x="187" 
+y="841" 
+dx="0,0" 
+class="s3_48"
+>Q:</text>
+
+<text 
+x="213" 
+y="842" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_48"
+>请问，你叫什么名字？ </text>
+
+<text 
+x="569" 
+y="841" 
+dx="0,0" 
+class="s3_48"
+>A:</text>
+
+<text 
+x="593" 
+y="842" 
+dx="0,0,0" 
+class="s4_48"
+>我叫 </text>
+
+<text 
+x="762" 
+y="842" 
+dx="0" 
+class="s4_48"
+>。</text>
+
+<text 
+x="145" 
+y="885" 
+dx="0,0" 
+class="s3_48"
+>2 </text>
+
+<text 
+x="187" 
+y="885" 
+dx="0,0" 
+class="s3_48"
+>Q:</text>
+
+<text 
+x="213" 
+y="886" 
+dx="0,0,0,0,0,0,0" 
+class="s4_48"
+>你叫李好吗？ </text>
+
+<text 
+x="569" 
+y="885" 
+dx="0,0" 
+class="s3_48"
+>A:</text>
+
+<text 
+x="593" 
+y="886" 
+dx="0,0,0,0" 
+class="s4_48"
+>我不叫 </text>
+
+<text 
+x="794" 
+y="886" 
+dx="0" 
+class="s4_48"
+>。</text>
+
+<text 
+x="105" 
+y="967" 
+dx="0,0" 
+class="s5_48"
+>4 </text>
+
+<text 
+x="347" 
+y="972" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_48"
+>Subject + verb + object</text>
+
+<text 
+x="143" 
+y="1033" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_48"
+>From the examples in the previous Grammar Points, we can see that the basic word order in a </text>
+
+<text 
+x="143" 
+y="1061" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_48"
+>Chinese sentence is subject + verb + object.</text>
+
+<text 
+x="143" 
+y="1095" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_48"
+>The word order remains the same in statements and questions. You don’t place the question word </text>
+
+<text 
+x="143" 
+y="1122" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_48"
+>at the beginning of a question as you do in English, unless that question word is the subject. </text>
+
+<text 
+x="143" 
+y="1150" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0" 
+class="s2_48"
+>[See also Grammar 3, Lesson 2, and Grammar 1, Lesson 4.]</text>
+
+<path d="M132.9,234.2l0,53.4l0,0.8l0.7,0l676.9,0l0.8,0l0,-0.8l0,-53.4l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g6_48" />
+<path d="M134.9,286.4l674.4,0l0,-51l-674.4,0l0,51Z" class="g7_48" />
+<path d="M149.1,432.5c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g6_48" />
+<path d="M149.1,434.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g7_48" />
+<path d="M149.1,619.3c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g6_48" />
+<path d="M149.1,621.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g7_48" />
+<path d="M132.9,936.7l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g6_48" />
+<path d="M134.9,988.9l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g7_48" />
+<path d="M885.3,1209.2l69.6,0l0,-1222.1l-69.6,0l0,1222.1Z" class="g8_48" />
+<text 
+transform="matrix(0, 1, -1, 0, 894, 946)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_48"
+>Lesson 1 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1002)"
+dx="0,0.3" 
+class="s15_48"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1015)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_48"
+>Greetings </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1077)"
+dx="0,0.3" 
+class="s15_48"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1090)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_48"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1160)"
+dx="0,0.3" 
+class="s15_48"
+>27</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2th;
+	src: url("fonts/ProximaNova-Extrabld_2th.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2t-;
+	src: url("fonts/ProximaNova-Light_2t-.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2u1;
+	src: url("fonts/ProximaNova-Semibold_2u1.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2u3;
+	src: url("fonts/Marion-Italic_2u3.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2tj;
+	src: url("fonts/ProximaNova-Bold_2tj.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

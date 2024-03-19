@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 260 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_260"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_260{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_260{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_260{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_260{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_260{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_260{
+fill: #231F20;
+}
+.g7_260{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_260{
+fill: #FFFFFF;
+}
+.g9_260{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_260{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_414;
+fill: #007598;
+}
+.s2_260{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_414;
+fill: #007D9F;
+}
+.s3_260{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_415;
+fill: #007D9F;
+}
+.s4_260{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_41f;
+fill: #3F3F40;
+}
+.s5_260{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s6_260{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s7_260{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_414;
+fill: #3F3F40;
+}
+.s8_260{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s9_260{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #007D9F;
+}
+.s10_260{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s11_260{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #007D9F;
+}
+.s12_260{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ss;
+fill: #3F3F40;
+}
+.s13_260{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_41h;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,97.3l204.6,0" class="g1_260" />
+<path d="M0,99.8l204.6,0" class="g2_260" />
+<path d="M119.2,183.4l12.2,0" class="g3_260" />
+<text 
+x="55" 
+y="85" 
+dx="0,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_260"
+>Grammar</text>
+
+<text 
+x="119" 
+y="177" 
+dx="0,0" 
+class="s2_260"
+>1 </text>
+
+<text 
+x="318" 
+y="182" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_260"
+>Directional complements (III) </text>
+
+<text 
+x="157" 
+y="253" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_260"
+>By definition, this type of complement has to do with direction: for instance, </text>
+
+<text 
+x="666" 
+y="254" 
+dx="0" 
+class="s5_260"
+>来</text>
+
+<text 
+x="690" 
+y="253" 
+dx="0" 
+class="s4_260"
+>/</text>
+
+<text 
+x="694" 
+y="254" 
+dx="0" 
+class="s6_260"
+>來</text>
+
+<text 
+x="721" 
+y="253" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s4_260"
+>signifies </text>
+
+<text 
+x="157" 
+y="280" 
+dx="0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0" 
+class="s4_260"
+>a movement toward the speaker and </text>
+
+<text 
+x="406" 
+y="282" 
+dx="0" 
+class="s5_260"
+>上</text>
+
+<text 
+x="433" 
+y="280" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-1.2,0,0,0,0,0,0" 
+class="s4_260"
+>indicates an upward movement. However, many </text>
+
+<text 
+x="157" 
+y="308" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s4_260"
+>directional complements do not actually deal with direction in a literal sense, but rather suggest </text>
+
+<text 
+x="157" 
+y="335" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s4_260"
+>a result or state of being. This lesson includes directional complements that express results.</text>
+
+<text 
+x="169" 
+y="392" 
+dx="0,0" 
+class="s7_260"
+>A </text>
+
+<text 
+x="239" 
+y="394" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_260"
+>他们希望孩子们能受到良好的教育，所以孩子一生</text>
+
+<text 
+x="239" 
+y="428" 
+dx="0,0" 
+class="s9_260"
+>下来</text>
+
+<text 
+x="291" 
+y="428" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_260"
+>就开始给他们存教育费。</text>
+
+<text 
+x="239" 
+y="468" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_260"
+>他們希望孩子們能受到良好的教育，所以孩子一生</text>
+
+<text 
+x="239" 
+y="502" 
+dx="0,0" 
+class="s11_260"
+>下來</text>
+
+<text 
+x="291" 
+y="502" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_260"
+>就開始給他們存教育費。</text>
+
+<text 
+x="245" 
+y="535" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_260"
+>They hoped that their children would get a good education. Therefore, they started </text>
+
+<text 
+x="245" 
+y="555" 
+dx="0,-0.2,0,0,0,0,-0.4,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s4_260"
+>to save for their educational expenses as soon as the children were born.</text>
+
+<text 
+x="157" 
+y="606" 
+dx="0,0,0,-0.2,0,0" 
+class="s4_260"
+>Here, </text>
+
+<text 
+x="196" 
+y="608" 
+dx="0,0" 
+class="s5_260"
+>下来</text>
+
+<text 
+x="243" 
+y="606" 
+dx="0" 
+class="s4_260"
+>/</text>
+
+<text 
+x="248" 
+y="608" 
+dx="0,0" 
+class="s6_260"
+>下來</text>
+
+<text 
+x="299" 
+y="606" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,-1.2,0,0,0,0,0,0,0,0,0" 
+class="s4_260"
+>implies the detachment or separation of one thing from another. Similar </text>
+
+<text 
+x="157" 
+y="637" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s4_260"
+>examples are </text>
+
+<text 
+x="250" 
+y="639" 
+dx="0,0,0,0,0" 
+class="s5_260"
+>从本子上撕</text>
+
+<text 
+x="372" 
+y="637" 
+dx="0,0.3,0.3,0.3" 
+class="s12_260"
+>(sī)</text>
+
+<text 
+x="396" 
+y="639" 
+dx="0,0,0,0,0" 
+class="s5_260"
+>下一张纸来</text>
+
+<text 
+x="514" 
+y="637" 
+dx="0" 
+class="s4_260"
+>/</text>
+
+<text 
+x="519" 
+y="639" 
+dx="0,0,0,0,0" 
+class="s6_260"
+>從本子上撕</text>
+
+<text 
+x="641" 
+y="637" 
+dx="0,0.3,0.3,0.3" 
+class="s12_260"
+>(sī)</text>
+
+<text 
+x="665" 
+y="639" 
+dx="0,0,0,0,0" 
+class="s6_260"
+>下一張紙來</text>
+
+<text 
+x="157" 
+y="668" 
+dx="0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s4_260"
+>(to tear a piece of paper from a notebook) and </text>
+
+<text 
+x="467" 
+y="669" 
+dx="0,0,0,0" 
+class="s5_260"
+>把西瓜切</text>
+
+<text 
+x="565" 
+y="668" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s12_260"
+>(qiē)</text>
+
+<text 
+x="598" 
+y="669" 
+dx="0,0,0,0" 
+class="s5_260"
+>下来一块</text>
+
+<text 
+x="693" 
+y="668" 
+dx="0" 
+class="s4_260"
+>/</text>
+
+<text 
+x="698" 
+y="669" 
+dx="0,0,0,0" 
+class="s6_260"
+>把西瓜切</text>
+
+<text 
+x="157" 
+y="698" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s12_260"
+>(qiē)</text>
+
+<text 
+x="190" 
+y="700" 
+dx="0,0,0,0" 
+class="s6_260"
+>下來一塊</text>
+
+<text 
+x="288" 
+y="698" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s4_260"
+>(to cut a slice off a watermelon).</text>
+
+<text 
+x="169" 
+y="755" 
+dx="0,0" 
+class="s7_260"
+>B </text>
+
+<text 
+x="239" 
+y="757" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_260"
+>每年开学的时候，家里还是得拿</text>
+
+<text 
+x="603" 
+y="757" 
+dx="0" 
+class="s9_260"
+>出</text>
+
+<text 
+x="629" 
+y="757" 
+dx="0,0,0" 
+class="s8_260"
+>很多钱</text>
+
+<text 
+x="707" 
+y="757" 
+dx="0" 
+class="s9_260"
+>来</text>
+
+<text 
+x="733" 
+y="757" 
+dx="0" 
+class="s8_260"
+>。</text>
+
+<text 
+x="239" 
+y="797" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_260"
+>每年開學的時候，家裡還是得拿</text>
+
+<text 
+x="603" 
+y="797" 
+dx="0" 
+class="s11_260"
+>出</text>
+
+<text 
+x="629" 
+y="797" 
+dx="0,0,0" 
+class="s10_260"
+>很多錢</text>
+
+<text 
+x="707" 
+y="797" 
+dx="0" 
+class="s11_260"
+>來</text>
+
+<text 
+x="733" 
+y="797" 
+dx="0" 
+class="s10_260"
+>。</text>
+
+<text 
+x="245" 
+y="831" 
+dx="0,-0.9,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s4_260"
+>Every year at the beginning of the school year, (my) family still has to come up </text>
+
+<text 
+x="245" 
+y="851" 
+dx="0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,-1" 
+class="s4_260"
+>with a lot of money.</text>
+
+<text 
+x="157" 
+y="901" 
+dx="0,0" 
+class="s5_260"
+>出来</text>
+
+<text 
+x="204" 
+y="899" 
+dx="0" 
+class="s4_260"
+>/</text>
+
+<text 
+x="209" 
+y="901" 
+dx="0,0" 
+class="s6_260"
+>出來</text>
+
+<text 
+x="260" 
+y="899" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_260"
+>signifies the emergence of something from a hidden place into the open, or a </text>
+
+<text 
+x="157" 
+y="927" 
+dx="0,0,0,0,0,-0.1,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s4_260"
+>change from having nothing to having something:</text>
+
+<text 
+x="169" 
+y="983" 
+dx="0,0" 
+class="s7_260"
+>C </text>
+
+<text 
+x="239" 
+y="985" 
+dx="0,0,0,0,0,0" 
+class="s8_260"
+>把你的问题说</text>
+
+<text 
+x="395" 
+y="985" 
+dx="0,0" 
+class="s9_260"
+>出来</text>
+
+<text 
+x="447" 
+y="985" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s8_260"
+>，我们大家帮你解决。</text>
+
+<text 
+x="239" 
+y="1026" 
+dx="0,0,0,0,0,0" 
+class="s10_260"
+>把你的問題說</text>
+
+<text 
+x="395" 
+y="1026" 
+dx="0,0" 
+class="s11_260"
+>出來</text>
+
+<text 
+x="447" 
+y="1026" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s10_260"
+>，我們大家幫你解決。</text>
+
+<text 
+x="245" 
+y="1059" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s4_260"
+>Get your problem out in the open. We will help you solve it.</text>
+
+<path d="M146.6,146.9l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g4_260" />
+<path d="M148.7,199.1l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g5_260" />
+<path d="M164.4,368.9c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g4_260" />
+<path d="M164.4,371c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_260" />
+<path d="M164.4,731.8c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_260" />
+<path d="M164.4,733.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_260" />
+<path d="M164.4,960.2c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_260" />
+<path d="M164.4,962.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_260" />
+<g clip-path="url(#c0_260)">
+<path d="M-884.1,531.3c0,0,156.3,-9.1,236.7,-3.4c239.2,16.7,466.2,93.9,650.8,213C2.5,789.4,1,1218.3,1,1218.3l-886.3,0.7Z" class="g6_260" />
+</g>
+<image preserveAspectRatio="none" x="-72" y="505" width="191" height="698" xlink:href="260/img/1.png" />
+<g clip-path="url(#c0_260)">
+<path d="M-884.1,531.3c0,0,156.3,-9.1,236.7,-3.4c239.2,16.7,466.2,93.9,650.8,213C2.5,789.4,1,1218.3,1,1218.3l-886.3,0.7l1.2,-687.7Z" class="g7_260" />
+</g>
+<path d="M0,1196.3l22.9,0l0,-471.4L0,724.9l0,471.4Z" class="g8_260" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g9_260" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 853)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s13_260"
+>Lesson 8 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 919)"
+dx="0,1" 
+class="s13_260"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 932)"
+dx="0,0.1,1,1,1,1,1,1,1,1,1,1,1,-0.3,1,1,1,1" 
+class="s13_260"
+>Working Part-Time </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1059)"
+dx="0,1" 
+class="s13_260"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1073)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s13_260"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1150)"
+dx="0,1,1,0" 
+class="s13_260"
+>237 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_415;
+	src: url("fonts/LibreFranklin-Bold_415.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ss;
+	src: url("fonts/GentiumBasic-Italic_3ss.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_41h;
+	src: url("fonts/LibreFranklin-SemiBold_41h.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_414;
+	src: url("fonts/LibreFranklin-ExtraBold_414.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_41f;
+	src: url("fonts/LibreFranklin-Regular_41f.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

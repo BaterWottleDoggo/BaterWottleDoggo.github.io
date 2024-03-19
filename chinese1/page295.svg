@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 318 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_318"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_318{
+fill: #3986C6;
+}
+.g2_318{
+fill: #ACBF3B;
+}
+
+.s1_318{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d8s;
+fill: #231F20;
+}
+.s2_318{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_d8z;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="855" 
+y="1149" 
+dx="0,0,0" 
+class="s1_318"
+>295</text>
+
+<path d="M871.5,1128l1.6,0l0,-38.7l-1.6,0l0,38.7Z" class="g1_318" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g1_318" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 832)"
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_318"
+>Chapter 9 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 897)"
+dx="0,0" 
+class="s2_318"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 908)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_318"
+>A Birthday Dinner </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1017)"
+dx="0,0" 
+class="s2_318"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1029)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_318"
+>Section 3</text>
+
+<g clip-path="url(#c0_318)">
+<path d="M-934.9,110L0,110L0,-19.4l-934.9,0l0,129.4Z" class="g2_318" />
+</g>
+<image preserveAspectRatio="none" x="21" y="21" width="365" height="383" xlink:href="318/img/1.png" />
+<image preserveAspectRatio="none" x="385" y="21" width="364" height="383" xlink:href="318/img/2.png" />
+<image preserveAspectRatio="none" x="749" y="21" width="156" height="875" xlink:href="318/img/3.png" />
+<image preserveAspectRatio="none" x="21" y="404" width="365" height="383" xlink:href="318/img/4.png" />
+<image preserveAspectRatio="none" x="385" y="404" width="364" height="383" xlink:href="318/img/5.png" />
+<image preserveAspectRatio="none" x="21" y="786" width="365" height="384" xlink:href="318/img/6.png" />
+<image preserveAspectRatio="none" x="385" y="786" width="364" height="384" xlink:href="318/img/7.png" />
+<image preserveAspectRatio="none" x="749" y="896" width="156" height="274" xlink:href="318/img/8.png" />
+<image preserveAspectRatio="none" x="856" y="1136" width="32" height="14" xlink:href="318/img/9.png" />
+<image preserveAspectRatio="none" x="856" y="1136" width="32" height="14" xlink:href="318/img/10.png" />
+<image preserveAspectRatio="none" x="871" y="1089" width="3" height="37" xlink:href="318/img/11.png" />
+<image preserveAspectRatio="none" x="869" y="1125" width="6" height="6" xlink:href="318/img/12.png" />
+<image preserveAspectRatio="none" x="865" y="833" width="12" height="250" xlink:href="318/img/13.png" />
+<image preserveAspectRatio="none" x="865" y="833" width="12" height="250" xlink:href="318/img/14.png" />
+<text 
+x="855" 
+y="1149" 
+dx="0,0,0" 
+class="s1_318"
+>295</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Bold_d8s;
+	src: url("fonts/ProximaNova-Bold_d8s.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_d8z;
+	src: url("fonts/ProximaNova-Semibold_d8z.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

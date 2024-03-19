@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 78 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_78{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.7508334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_78{
+fill: #57585A;
+}
+.g3_78{
+fill: #FFFFFF;
+}
+.g4_78{
+fill: #E7E8E9;
+}
+.g5_78{
+fill: #BF1D2C;
+}
+.g6_78{
+fill: #F3F4F4;
+}
+.g7_78{
+fill: none;
+stroke: #808285;
+stroke-width: 1.1488888;
+stroke-linecap: round;
+stroke-linejoin: miter;
+}
+.g8_78{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_78{
+fill: #A1C0E4;
+}
+.g10_78{
+fill: #F58320;
+}
+.g11_78{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_78{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.327639;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g13_78{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g14_78{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g15_78{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g16_78{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g17_78{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_78{
+font-size: 10.72px;
+font-family: ArialMT_3v2;
+fill: #FFFFFF;
+}
+.s2_78{
+font-size: 24.44px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #3F3F40;
+}
+.s3_78{
+font-size: 15.48px;
+font-family: ArialMT_3v2;
+fill: #A8A9AD;
+}
+.s4_78{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_3v7;
+fill: #FFFFFF;
+}
+.s5_78{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_3v3;
+fill: #6D6E71;
+}
+.s6_78{
+font-size: 18.33px;
+font-family: MyriadPro-Regular_3v1;
+fill: #231F20;
+}
+.s7_78{
+font-size: 10.72px;
+font-family: ArialMT_3v2;
+fill: #A8A9AD;
+}
+.s8_78{
+font-size: 23.86px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #FFFFFF;
+}
+.s9_78{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3to;
+fill: #872B91;
+}
+.s10_78{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3tg;
+fill: #872B91;
+}
+.s11_78{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_3u3;
+fill: #3F3F40;
+}
+.s12_78{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_3tg;
+fill: #939598;
+}
+.s13_78{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s14_78{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s15_78{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_3tl;
+fill: #872B91;
+}
+.s16_78{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3tt;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M758.8,1141.3l-395,0l0,-681l395,0Z" class="g1_78" />
+<path d="M755.8,480.5l-389.3,0l0,-18.4l389.3,0l0,18.4Z" class="g2_78" />
+<path d="M375.1,474.8l-2,0l0,-3.8l2,0l0,3.8Z" class="g3_78" />
+<path d="M378.6,474.8l-2,0l0,-5.4l2,0l0,5.4Z" class="g3_78" />
+<path d="M382.2,474.8l-2,0l0,-7l2,0l0,7Z" class="g3_78" />
+<path d="M385.7,474.8l-2,0l0,-8.6l2,0l0,8.6Z" class="g3_78" />
+<path d="M389.3,474.8l-2,0l0,-10.2l2,0l0,10.2Z" class="g3_78" />
+<path d="M397.2,469.5c0.9,-1.2,2.6,-2,4.6,-2c1.9,0,3.6,0.8,4.5,2l1.6,-0.5c-1,-1.7,-3.4,-3,-6.1,-3c-2.8,0,-5.2,1.3,-6.2,3Z" class="g3_78" />
+<path d="M398.9,472.1c0.6,-0.7,1.6,-1.2,2.9,-1.2c1.2,0,2.2,0.5,2.8,1.2l1,-0.6c-0.6,-1.1,-2.1,-1.9,-3.8,-1.9c-1.8,0,-3.3,0.8,-3.9,1.9Z" class="g3_78" />
+<path d="M400.6,474.7c0.2,-0.3,0.7,-0.5,1.2,-0.5c0.5,0,0.9,0.2,1.1,0.5l0.4,-0.8c-0.2,-0.5,-0.8,-0.8,-1.5,-0.8c-0.7,0,-1.3,0.3,-1.6,0.8Z" class="g3_78" />
+<text 
+x="537" 
+y="474" 
+dx="0,0,0,0,0,0,0" 
+class="s1_78"
+>9:48 PM</text>
+
+<path d="M755.7,566.8l-389.5,0l0,-53.2l389.5,0l0,53.2Z" class="g4_78" />
+<path d="M755.7,513.7l-389.5,0l0,-32.2l389.5,0l0,32.2Z" class="g5_78" />
+<path d="M756.3,692.7l-390.2,0l0,-74l390.2,0l0,74Z" class="g4_78" />
+<image preserveAspectRatio="none" x="361" y="517" width="63" height="47" xlink:href="78/img/1.png" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 435, 646)"
+dx="0,0,0.5,1,0,0,0,0,0,0,0.5,0" 
+class="s2_78"
+>姓张。一个家常豆腐，一碗</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 435, 675)"
+dx="0,0,0,0,0.5,0,0,0,0.3" 
+class="s2_78"
+>酸辣汤，一碗米饭。</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 435, 548)"
+dx="0,0,0,0,0.3" 
+class="s2_78"
+>我想点餐。</text>
+
+<image preserveAspectRatio="none" x="373" y="560" width="57" height="77" xlink:href="78/img/2.png" />
+<image preserveAspectRatio="none" x="361" y="621" width="63" height="48" xlink:href="78/img/3.png" />
+<path d="M366,1137.7l389.5,0l0,-44.1l-389.5,0l0,44.1Z" class="g6_78" />
+<path d="M393.1,1109.5l-0.1,13.8c0,0,-0.4,3.2,-5.4,3.1c-5.4,-0.1,-5.1,-4.7,-5.1,-4.7l-0.3,-16c0,0,2.8,-4.1,7.8,-0.6c0.8,0.6,-0.1,14.4,-0.1,14.4c0,0,-2.3,2.5,-4.4,0c0,-0.6,0.3,-10.1,0.3,-10.1" class="g7_78" />
+<path d="M697.7,1129.9l-282.9,0c-1,0,-1.9,-0.8,-1.9,-1.8l0,-24.9c0,-1,0.9,-1.8,1.9,-1.8l282.9,0c1,0,1.8,0.8,1.8,1.8l0,24.9c0,1,-0.8,1.8,-1.8,1.8Z" class="g3_78" />
+<text 
+x="707" 
+y="1122" 
+dx="0,0,0,0" 
+class="s3_78"
+>Send</text>
+
+<path d="M366.2,1090.7l389,0" class="g8_78" />
+<path d="M355.9,481.4c0,-11.7,-9.5,-21.2,-21.1,-21.2l-156.1,0c-11.7,0,-21.2,9.5,-21.2,21.2l0,14.8l198.4,0Z" class="g9_78" />
+<path d="M336.3,607.6l19.6,20.6l0,-20.6Z" class="g10_78" />
+<text 
+x="193" 
+y="486" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s4_78"
+>Chinese Chat</text>
+
+<path d="M355.9,500l0,103.8l-174.1,0c-13.4,0,-24.3,-10.9,-24.3,-24.3l0,-79.5l198.4,0Z" class="g11_78" />
+<text 
+x="168" 
+y="522" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>A customer is texting </text>
+
+<text 
+x="168" 
+y="543" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>your restaurant to place </text>
+
+<text 
+x="168" 
+y="564" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>a takeout order. How </text>
+
+<text 
+x="168" 
+y="586" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>would you respond? </text>
+
+<text 
+x="441" 
+y="600" 
+dx="0" 
+class="s6_78"
+>…</text>
+
+<text 
+x="667" 
+y="559" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>15 minutes ago</text>
+
+<text 
+x="667" 
+y="612" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>13 minutes ago</text>
+
+<text 
+x="667" 
+y="686" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>12 minutes ago</text>
+
+<image preserveAspectRatio="none" x="373" y="685" width="57" height="77" xlink:href="78/img/4.png" />
+<text 
+x="441" 
+y="724" 
+dx="0" 
+class="s6_78"
+>…</text>
+
+<text 
+x="667" 
+y="737" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>10 minutes ago</text>
+
+<path d="M755.7,811.8l-389.5,0l0,-67.4l389.5,0l0,67.4Z" class="g4_78" />
+<image preserveAspectRatio="none" x="361" y="746" width="63" height="48" xlink:href="78/img/5.png" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 437, 770)"
+dx="0,0,0,0,0,0,0.5,0,0,0,0,0" 
+class="s2_78"
+>豆腐卖完了？那有什么好吃</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 437, 799)"
+dx="0,0,0,0" 
+class="s2_78"
+>的素菜？</text>
+
+<text 
+x="673" 
+y="807" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>8 minutes ago</text>
+
+<image preserveAspectRatio="none" x="373" y="805" width="57" height="77" xlink:href="78/img/6.png" />
+<text 
+x="441" 
+y="844" 
+dx="0" 
+class="s6_78"
+>…</text>
+
+<text 
+x="673" 
+y="856" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>7 minutes ago</text>
+
+<path d="M755.7,929.6l-389.5,0l0,-64.3l389.5,0l0,64.3Z" class="g4_78" />
+<image preserveAspectRatio="none" x="361" y="867" width="63" height="47" xlink:href="78/img/7.png" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 437, 892)"
+dx="0,0,0.5,0,0,0,0,0,0.5,0,0" 
+class="s2_78"
+>好，一共多少钱？能刷卡</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 437, 921)"
+dx="0,0" 
+class="s2_78"
+>吗？</text>
+
+<text 
+x="673" 
+y="924" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>6 minutes ago</text>
+
+<image preserveAspectRatio="none" x="373" y="923" width="57" height="76" xlink:href="78/img/8.png" />
+<text 
+x="441" 
+y="961" 
+dx="0" 
+class="s6_78"
+>…</text>
+
+<text 
+x="673" 
+y="975" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>5 minutes ago</text>
+
+<path d="M755.7,1034.6l-389.5,0l0,-50.8l389.5,0l0,50.8Z" class="g4_78" />
+<image preserveAspectRatio="none" x="361" y="986" width="63" height="47" xlink:href="78/img/9.png" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 437, 1011)"
+dx="0,0,0,0,0,0,0,0" 
+class="s2_78"
+>什么时候能做好？</text>
+
+<text 
+x="673" 
+y="1029" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>3 minutes ago</text>
+
+<image preserveAspectRatio="none" x="373" y="1028" width="57" height="77" xlink:href="78/img/10.png" />
+<text 
+x="441" 
+y="1066" 
+dx="0" 
+class="s6_78"
+>…</text>
+
+<text 
+x="679" 
+y="1080" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>1 minute ago</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 505, 506)"
+dx="0,0,0,0" 
+class="s8_78"
+>心美小馆</text>
+
+<text 
+x="707" 
+y="472" 
+dx="0,0,0" 
+class="s1_78"
+>85%</text>
+
+<path d="M748.4,468.1l-1.5,0l0,-2.4l-13.7,0l0,7.1l13.7,0l0,-2.4l1.5,0l0,-2.3Z" class="g12_78" />
+<path d="M743.3,470.6l-9,0l0,-3l9,0l0,3Z" class="g3_78" />
+<path d="M119.1,76L132,76" class="g13_78" />
+<text 
+x="119" 
+y="72" 
+dx="0,0" 
+class="s9_78"
+>H </text>
+
+<text 
+x="403" 
+y="77" 
+dx="0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_78"
+>At your service</text>
+
+<text 
+x="157" 
+y="139" 
+dx="0,-1.6,0,0,-0.3,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_78"
+>You’re helping your friend to prepare for an interview for a part-time job at a restaurant. In </text>
+
+<text 
+x="157" 
+y="166" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,-0.2,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s11_78"
+>groups, brainstorm and create a protocol cheat sheet on how to greet and seat customers, </text>
+
+<text 
+x="157" 
+y="194" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_78"
+>recommend dishes, address customers’ dietary restrictions, ensure customer satisfaction, </text>
+
+<text 
+x="157" 
+y="221" 
+dx="0,-0.1,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.9,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,-0.1,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_78"
+>etc. Compare each group’s suggestions and vote for the best.</text>
+
+<text 
+x="157" 
+y="266" 
+dx="0,0.2" 
+class="s12_78"
+>Q:</text>
+
+<text 
+x="198" 
+y="266" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s13_78"
+>如果客人问：“服务员，还有没有位子？”</text>
+
+<text 
+x="198" 
+y="305" 
+dx="0,0,0,0,0,0,0" 
+class="s13_78"
+>服务员说什么？</text>
+
+<text 
+x="200" 
+y="332" 
+dx="0,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0,-0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s14_78"
+>Rúguǒ kèrēn wèn: “Fúwùyuán, hái yǒu méiyǒu wèizi?” Fúwùyuán shuō shénme?</text>
+
+<text 
+x="157" 
+y="385" 
+dx="0,0.2" 
+class="s12_78"
+>A:</text>
+
+<text 
+x="198" 
+y="385" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s13_78"
+>服务员说：“有，有，有，那儿有位子。”</text>
+
+<text 
+x="200" 
+y="412" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0,-0.3,0.3,0.3,0,-0.3,0.3,0.3,0,-0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s14_78"
+>Fúwùyuán shuō: “Yǒu, yǒu, yǒu, nàr yǒu wèizi.”</text>
+
+<path d="M146.6,41.8l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g14_78" />
+<path d="M148.7,94L823,94l0,-50.9l-674.3,0l0,50.9Z" class="g15_78" />
+<text 
+x="721" 
+y="73" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s15_78"
+>PRESENTATIONAL</text>
+
+<path d="M719.9,76.7l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g16_78" />
+<text 
+x="162" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s15_78"
+>INTERPERSONAL</text>
+
+<path d="M158.1,76.6l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g16_78" />
+<path d="M881.9,1209.2l67.2,0l0,-1222.1l-67.2,0l0,1222.1Z" class="g17_78" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 873)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s16_78"
+>Lesson 12 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 945)"
+dx="0,1" 
+class="s16_78"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 958)"
+dx="0,1,1,1,1,1,1" 
+class="s16_78"
+>Dining </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1008)"
+dx="0,1" 
+class="s16_78"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1022)"
+dx="0,1,1,1,1,1,1,0.8,1,1,1,0.9,1,1,1,1,1,1" 
+class="s16_78"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1158)"
+dx="0,1,-2.3" 
+class="s16_78"
+>57 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_3v2;
+	src: url("fonts/ArialMT_3v2.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_3v1;
+	src: url("fonts/MyriadPro-Regular_3v1.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_3ru;
+	src: url("fonts/SourceHanSansCN-Regular_3ru.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3v7;
+	src: url("fonts/LibreFranklin-SemiBold_3v7.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3tl;
+	src: url("fonts/LibreFranklin-Medium_3tl.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3tt;
+	src: url("fonts/LibreFranklin-SemiBold_3tt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3tg;
+	src: url("fonts/LibreFranklin-Bold_3tg.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3u3;
+	src: url("fonts/LibreFranklin-Regular_3u3.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3v3;
+	src: url("fonts/LibreFranklin-Medium_3v3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3to;
+	src: url("fonts/LibreFranklin-ExtraBold_3to.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

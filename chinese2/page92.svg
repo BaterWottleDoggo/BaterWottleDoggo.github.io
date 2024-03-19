@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 113 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_113"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_113{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_113{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_113{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_113{
+fill: #FFFFFF;
+}
+.g5_113{
+fill: #231F20;
+}
+.g6_113{
+fill: #E4E5E7;
+}
+.g7_113{
+fill: #808285;
+}
+.g8_113{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.4758333;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_113{
+fill: none;
+stroke: #E7E8E9;
+stroke-width: 1.5781945;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_113{
+fill: #E7E8E9;
+}
+.g11_113{
+fill: #AFD8F3;
+}
+.g12_113{
+fill: #A1C0E4;
+}
+.g13_113{
+fill: #F58320;
+}
+.g14_113{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g15_113{
+fill: #007598;
+}
+.g16_113{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_113{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_2ww;
+fill: #007D9F;
+}
+.s2_113{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_2x3;
+fill: #007D9F;
+}
+.s3_113{
+font-size: 27.50px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s4_113{
+font-size: 22.92px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s5_113{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2x7;
+fill: #3F3F40;
+}
+.s6_113{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s7_113{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s8_113{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_2ww;
+fill: #3F3F40;
+}
+.s9_113{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s10_113{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s11_113{
+font-size: 17.57px;
+font-family: Marion-Italic_2xb;
+fill: #007D9F;
+}
+.s12_113{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2x3;
+fill: #007598;
+}
+.s13_113{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2x3;
+fill: #939598;
+}
+.s14_113{
+font-size: 15.99px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #1275BC;
+}
+.s15_113{
+font-size: 14.29px;
+font-family: ArialMT_2y2;
+fill: #A8A9AD;
+}
+.s16_113{
+font-size: 14.80px;
+font-family: ArialMT_2y2;
+fill: #1275BC;
+}
+.s17_113{
+font-size: 14.80px;
+font-family: Arial-BoldMT_2y7;
+fill: #3F3F40;
+}
+.s18_113{
+font-size: 14.80px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #231F20;
+}
+.s19_113{
+font-size: 16.47px;
+font-family: ProximaNova-Medium_2y5;
+fill: #6D6E71;
+}
+.s20_113{
+font-size: 21.39px;
+font-family: ProximaNova-Semibold_2y6;
+fill: #FFFFFF;
+}
+.s21_113{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2x8;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.2,73.7l12.9,0" class="g1_113" />
+<text 
+x="105" 
+y="70" 
+dx="0,0" 
+class="s1_113"
+>8 </text>
+
+<text 
+x="270" 
+y="74" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_113"
+>The adverb </text>
+
+<text 
+x="402" 
+y="74" 
+dx="0" 
+class="s3_113"
+>还</text>
+
+<text 
+x="435" 
+y="74" 
+dx="0,0,0,0,0" 
+class="s4_113"
+>(hái)</text>
+
+<text 
+x="477" 
+y="74" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0" 
+class="s2_113"
+>(also, too, as well)</text>
+
+<text 
+x="143" 
+y="136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s5_113"
+>As an adverb, </text>
+
+<text 
+x="237" 
+y="136" 
+dx="0" 
+class="s6_113"
+>还</text>
+
+<text 
+x="263" 
+y="136" 
+dx="0,0,0,0,0" 
+class="s7_113"
+>(hái)</text>
+
+<text 
+x="294" 
+y="136" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_113"
+>(also, too, as well) indicates that the action or situation denoted by the verb </text>
+
+<text 
+x="143" 
+y="164" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s5_113"
+>involves someone or something else.</text>
+
+<text 
+x="154" 
+y="212" 
+dx="0,0" 
+class="s8_113"
+>A </text>
+
+<text 
+x="219" 
+y="214" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_113"
+>白英爱请高文中和王朋，</text>
+
+<text 
+x="572" 
+y="214" 
+dx="0" 
+class="s10_113"
+>还</text>
+
+<text 
+x="604" 
+y="214" 
+dx="0,0,0,0" 
+class="s9_113"
+>请李友。</text>
+
+<text 
+x="224" 
+y="251" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-1.7,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-1.6,0.2,0.2,0.2,0.2,-1.1,0.2,0.2,0.2,0.2" 
+class="s7_113"
+>Bái Yīng’ài qǐng Gāo Wénzhōng hé Wáng Péng, </text>
+
+<text 
+x="523" 
+y="251" 
+dx="0,0.2,0.2" 
+class="s11_113"
+>hái</text>
+
+<text 
+x="547" 
+y="251" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_113"
+>qǐng Lǐ Yǒu.</text>
+
+<text 
+x="224" 
+y="279" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,-0.1" 
+class="s5_113"
+>Bai Ying’ai is inviting Gao Wenzhong and Wang Peng, and Li You, too.</text>
+
+<text 
+x="154" 
+y="327" 
+dx="0,0" 
+class="s8_113"
+>B </text>
+
+<text 
+x="219" 
+y="330" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_113"
+>王朋喜欢吃中国菜，</text>
+
+<text 
+x="508" 
+y="330" 
+dx="0" 
+class="s10_113"
+>还</text>
+
+<text 
+x="540" 
+y="330" 
+dx="0,0,0,0,0,0,0" 
+class="s9_113"
+>喜欢吃美国菜。</text>
+
+<text 
+x="224" 
+y="367" 
+dx="0,-1.6,0.2,0.2,0.2,0.2,-1.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_113"
+>Wáng Péng xǐhuan chī Zhōngguó cài, </text>
+
+<text 
+x="457" 
+y="367" 
+dx="0,0.2,0.2" 
+class="s11_113"
+>hái</text>
+
+<text 
+x="481" 
+y="367" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_113"
+>xǐhuan chī Měiguó cài.</text>
+
+<text 
+x="224" 
+y="394" 
+dx="0,-0.6,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s5_113"
+>Wang Peng likes to eat Chinese food, and American food, too.</text>
+
+<text 
+x="143" 
+y="439" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s12_113"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="466" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_113"
+>Add more information to the sentences by inserting </text>
+
+<text 
+x="485" 
+y="466" 
+dx="0" 
+class="s6_113"
+>还</text>
+
+<text 
+x="510" 
+y="466" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.4,-0.6,0,0,0,0,0,0,0,0" 
+class="s5_113"
+>where appropriate. Use exercise 1 </text>
+
+<text 
+x="143" 
+y="494" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.1" 
+class="s5_113"
+>as an example.</text>
+
+<text 
+x="145" 
+y="537" 
+dx="0,0" 
+class="s13_113"
+>1 </text>
+
+<text 
+x="187" 
+y="538" 
+dx="0,0,0,0,0,0,0,0" 
+class="s9_113"
+>高文中有姐姐。 </text>
+
+<text 
+x="610" 
+y="538" 
+dx="0,0" 
+class="s9_113"
+>哥哥</text>
+
+<text 
+x="187" 
+y="582" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_113"
+>→ 高文中有姐姐，还有哥哥。</text>
+
+<text 
+x="145" 
+y="625" 
+dx="0,0" 
+class="s13_113"
+>2 </text>
+
+<text 
+x="187" 
+y="627" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_113"
+>白英爱明天请高文中吃饭。 </text>
+
+<text 
+x="610" 
+y="627" 
+dx="0,0,0" 
+class="s9_113"
+>王朋 </text>
+
+<text 
+x="145" 
+y="670" 
+dx="0,0" 
+class="s13_113"
+>3 </text>
+
+<text 
+x="187" 
+y="671" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_113"
+>王朋认识白英爱。 </text>
+
+<text 
+x="610" 
+y="671" 
+dx="0,0" 
+class="s9_113"
+>李友</text>
+
+<path d="M132.8,39.5l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g2_113" />
+<path d="M134.8,91.7l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g3_113" />
+<path d="M149,189.2c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_113" />
+<path d="M149,191.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_113" />
+<path d="M149,304.5c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_113" />
+<path d="M149,306.5c-0.6,0,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_113" />
+<image preserveAspectRatio="none" x="198" y="723" width="327" height="420" xlink:href="113/img/1.png" />
+<path d="M514.4,1132.7l-306.5,0l0,-398.9l306.5,0l0,398.9Z" class="g4_113" />
+<path d="M514.4,1132.7l0,0.2l-306.7,0l0,-399.3l306.9,0l0,399.3l-0.2,0l0,-0.2l-0.2,0l0,-398.7l-306.1,0l0,398.6l306.3,0l0,0.1l-0.2,0Z" class="g5_113" />
+<image preserveAspectRatio="none" x="208" y="735" width="304" height="43" xlink:href="113/img/2.png" />
+<path d="M511.7,774.5l-301.7,0l0,-39.3l301.7,0l0,39.3Z" class="g6_113" />
+<text 
+transform="matrix(1.36, 0, 0, 1, 204, 761)"
+dx="0" 
+class="s14_113"
+>〈</text>
+
+<path d="M237.6,1098.1l-3.8,0l0,-0.7c0,-1,-0.8,-1.8,-1.8,-1.8l-4.8,0c-1,0,-1.8,0.8,-1.8,1.8l0,0.7l-2.5,0l0,-0.3l0,-1.8c0,-0.3,-0.2,-0.6,-0.6,-0.6c-0.3,0,-0.5,0.3,-0.5,0.6l0,1.8l0,0.3l-0.8,0c-0.9,0,-1.7,0.8,-1.7,1.7l0,8.6c0,1,0.8,1.8,1.7,1.8l16.6,0c1,0,1.8,-0.8,1.8,-1.8l0,-8.6c0,-0.9,-0.8,-1.7,-1.8,-1.7Z" class="g7_113" />
+<path d="M233.6,1103.7c0,2.4,-2,4.3,-4.4,4.3c-2.4,0,-4.3,-1.9,-4.3,-4.3c0,-2.4,1.9,-4.3,4.3,-4.3c2.4,0,4.4,1.9,4.4,4.3Z" class="g8_113" />
+<path d="M235.7,1099.7c0,0.5,-0.4,0.8,-0.8,0.8c-0.5,0,-0.8,-0.3,-0.8,-0.8c0,-0.4,0.3,-0.8,0.8,-0.8c0.4,0,0.8,0.4,0.8,0.8Z" class="g4_113" />
+<path d="M460.5,1113.3l-210.9,0c-1.4,0,-2.6,-1.1,-2.6,-2.6l0,-16c0,-1.5,1.2,-2.6,2.6,-2.6l210.9,0c1.5,0,2.7,1.1,2.7,2.6l0,16c0,1.5,-1.2,2.6,-2.7,2.6Z" class="g4_113" />
+<path d="M460.5,1113.3l-210.9,0c-1.4,0,-2.6,-1.1,-2.6,-2.6l0,-16c0,-1.5,1.2,-2.6,2.6,-2.6l210.9,0c1.5,0,2.7,1.1,2.7,2.6l0,16c0,1.5,-1.2,2.6,-2.7,2.6Z" class="g9_113" />
+<text 
+x="471" 
+y="1107" 
+dx="0,0,0,0" 
+class="s15_113"
+>Send</text>
+
+<text 
+x="452" 
+y="760" 
+dx="0,0,0,0,0,0,0" 
+class="s16_113"
+>Contact</text>
+
+<text 
+x="234" 
+y="760" 
+dx="0,0,0,0,0,0,0,0" 
+class="s16_113"
+>Messages</text>
+
+<text 
+x="335" 
+y="760" 
+dx="0,-0.5,0,0,0,0,-0.6,0,0" 
+class="s17_113"
+>Ying Wang</text>
+
+<text 
+x="252" 
+y="1107" 
+dx="0,0,0,0,0,0,0,0" 
+class="s15_113"
+>iMessage</text>
+
+<path d="M410.6,793.6l-175.4,0l-2.9,0c-6,0,-11.1,4.2,-12.5,9.7c-0.2,1,-0.3,2,-0.3,3.1l0,3c0,1.5,0.2,2.8,0.6,4.1c-0.8,3.7,-2.8,7.2,-5.6,10c3.7,-0.7,7.1,-2.1,10.1,-3.8c2.1,1.6,4.8,2.5,7.7,2.5l178.3,0c7.1,0,12.8,-5.7,12.8,-12.8l0,-3c0,-7.1,-5.7,-12.8,-12.8,-12.8Z" class="g10_113" />
+<text 
+x="231" 
+y="813" 
+dx="0,0,0,0,0,0,0" 
+class="s18_113"
+>明天晚上忙吗？</text>
+
+<text 
+x="334" 
+y="813" 
+dx="0,0,0,0,0,0.2" 
+class="s18_113"
+>我请你吃饭。</text>
+
+<path d="M456.3,863.4l-221.1,0l-2.9,0c-6,0,-11.1,4.2,-12.5,9.8c-0.2,1,-0.3,2,-0.3,3l0,3.1c0,1.4,0.2,2.8,0.6,4.1c-0.8,3.7,-2.8,7.1,-5.6,10c3.7,-0.8,7.1,-2.1,10.1,-3.9c2.1,1.6,4.8,2.6,7.7,2.6l224,0c7.1,0,12.8,-5.8,12.8,-12.8l0,-3.1c0,-7,-5.7,-12.8,-12.8,-12.8Z" class="g10_113" />
+<text 
+x="230" 
+y="883" 
+dx="0,0,0,0,0,-0.9" 
+class="s18_113"
+>明天星期六，</text>
+
+<text 
+x="318" 
+y="883" 
+dx="0,0,0,0,0,0,0,0,0,0.2" 
+class="s18_113"
+>也是我二十岁的生日。</text>
+
+<path d="M385,934.3l-149.8,0l-2.9,0c-6,0,-11.1,4.2,-12.5,9.8c-0.2,0.9,-0.3,2,-0.3,3l0,3.1c0,1.4,0.2,2.8,0.6,4c-0.8,3.8,-2.8,7.2,-5.6,10.1c3.7,-0.8,7.1,-2.1,10.1,-3.9c2.1,1.6,4.8,2.6,7.7,2.6L385,963c7,0,12.8,-5.8,12.8,-12.8l0,-3.1c0,-7,-5.8,-12.8,-12.8,-12.8Z" class="g10_113" />
+<text 
+x="231" 
+y="953" 
+dx="0,-0.9" 
+class="s18_113"
+>你，</text>
+
+<text 
+x="260" 
+y="953" 
+dx="0,0,0,0,0,0,0,0,0.2" 
+class="s18_113"
+>还有我的同学小王。</text>
+
+<path d="M369.9,1004.6l-134.7,0l-2.9,0c-6,0,-11.1,4.2,-12.5,9.8c-0.2,0.9,-0.3,1.9,-0.3,3l0,3.1c0,1.4,0.2,2.8,0.6,4c-0.8,3.8,-2.8,7.2,-5.6,10.1c3.7,-0.8,7.1,-2.1,10.1,-3.9c2.1,1.6,4.8,2.5,7.7,2.5l137.6,0c7.1,0,12.8,-5.7,12.8,-12.7l0,-3.1c0,-7,-5.7,-12.8,-12.8,-12.8Z" class="g10_113" />
+<text 
+x="231" 
+y="1023" 
+dx="0,0,0,0,0,-0.9" 
+class="s18_113"
+>晚上六点半，</text>
+
+<text 
+x="319" 
+y="1023" 
+dx="0,0,0,0" 
+class="s18_113"
+>怎么样？</text>
+
+<path d="M465,901.6l11.2,0l2.9,0c6,0,11,4.2,12.4,9.8c0.2,0.9,0.4,1.9,0.4,3l0,3c0,1.5,-0.3,2.8,-0.7,4.1c0.9,3.8,2.8,7.2,5.6,10.1c-3.7,-0.8,-7.1,-2.1,-10.1,-3.9c-2.1,1.6,-4.7,2.5,-7.6,2.5l-14.1,0c-7,0,-12.8,-5.7,-12.8,-12.8l0,-3c0,-7,5.8,-12.8,12.8,-12.8Z" class="g11_113" />
+<text 
+x="470" 
+y="919" 
+dx="0,0,0" 
+class="s17_113"
+>...</text>
+
+<path d="M465,831.3l11.2,0l2.9,0c6,0,11,4.2,12.4,9.8c0.2,0.9,0.4,2,0.4,3l0,3.1c0,1.4,-0.3,2.8,-0.7,4c0.9,3.8,2.8,7.2,5.6,10.1c-3.7,-0.8,-7.1,-2.1,-10.1,-3.9c-2.1,1.6,-4.7,2.6,-7.6,2.6L465,860c-7,0,-12.8,-5.8,-12.8,-12.8l0,-3.1c0,-7,5.8,-12.8,12.8,-12.8Z" class="g11_113" />
+<text 
+x="470" 
+y="849" 
+dx="0,0,0" 
+class="s17_113"
+>...</text>
+
+<path d="M465,971.9l11.2,0l2.9,0c6,0,11,4.2,12.4,9.7c0.2,1,0.4,2,0.4,3.1l0,3c0,1.5,-0.3,2.8,-0.7,4.1c0.9,3.7,2.8,7.2,5.6,10c-3.7,-0.7,-7.1,-2.1,-10.1,-3.8c-2.1,1.6,-4.7,2.5,-7.6,2.5l-14.1,0c-7,0,-12.8,-5.7,-12.8,-12.8l0,-3c0,-7.1,5.8,-12.8,12.8,-12.8Z" class="g11_113" />
+<text 
+x="470" 
+y="990" 
+dx="0,0,0" 
+class="s17_113"
+>...</text>
+
+<path d="M465,1042.2l11.2,0l2.9,0c6,0,11,4.1,12.4,9.7c0.2,1,0.4,2,0.4,3.1l0,3c0,1.5,-0.3,2.8,-0.7,4.1c0.9,3.7,2.8,7.1,5.6,10c-3.7,-0.7,-7.1,-2.1,-10.1,-3.9c-2.1,1.7,-4.7,2.6,-7.6,2.6l-14.1,0c-7,0,-12.8,-5.7,-12.8,-12.8l0,-3c0,-7.1,5.8,-12.8,12.8,-12.8Z" class="g11_113" />
+<text 
+x="470" 
+y="1060" 
+dx="0,0,0" 
+class="s17_113"
+>...</text>
+
+<text 
+x="535" 
+y="793" 
+dx="0,-2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s19_113"
+>You and a friend are </text>
+
+<text 
+x="535" 
+y="812" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s19_113"
+>using iMessage to set </text>
+
+<text 
+x="535" 
+y="832" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s19_113"
+>up a dinner date. How </text>
+
+<text 
+x="535" 
+y="852" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s19_113"
+>would you respond to </text>
+
+<text 
+x="535" 
+y="872" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7" 
+class="s19_113"
+>ﬁnalize your plans?</text>
+
+<path d="M711.9,754.9c0,-11.7,-9.5,-21.2,-21.2,-21.2l-146.1,0c-11.7,0,-21.2,9.5,-21.2,21.2l0,14.8l188.5,0Z" class="g12_113" />
+<path d="M543.4,888.5l-19.6,20.6l0,-20.6Z" class="g13_113" />
+<text 
+x="556" 
+y="760" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s20_113"
+>Chinese Chat</text>
+
+<path d="M524,773.5l0,111.6l163.4,0c13.4,0,24.3,-10.9,24.3,-24.3l0,-87.3l-187.7,0Z" class="g14_113" />
+<path d="M0,1196.3l35.9,0L35.9,0L0,0L0,1196.3Z" class="g15_113" />
+<g clip-path="url(#c0_113)">
+<path d="M-22.1,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g16_113" />
+</g>
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3" 
+class="s21_113"
+>92 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1142)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s21_113"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1021)"
+dx="0,0.3" 
+class="s21_113"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1008)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s21_113"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_2x8;
+	src: url("fonts/ProximaNova-Semibold_2x8.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2xb;
+	src: url("fonts/Marion-Italic_2xb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Medium_2y5;
+	src: url("fonts/ProximaNova-Medium_2y5.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2ww;
+	src: url("fonts/ProximaNova-Extrabld_2ww.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2y6;
+	src: url("fonts/ProximaNova-Semibold_2y6.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2x7;
+	src: url("fonts/ProximaNova-Light_2x7.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Normal_4av;
+	src: url("fonts/SourceHanSansCN-Normal_4av.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_2u_;
+	src: url("fonts/SourceHanSansCN-Regular_2u_.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: Arial-BoldMT_2y7;
+	src: url("fonts/Arial-BoldMT_2y7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_2y2;
+	src: url("fonts/ArialMT_2y2.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2x3;
+	src: url("fonts/ProximaNova-Bold_2x3.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 104 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_104"><path d="M226,582.5l0,-394.7l455.5,0l0,394.7Z" /></clipPath>
+<clipPath id="c1_104"><path d="M245.1,556.3l0,-321.1l45.5,0l0,321.1Z" /></clipPath>
+<clipPath id="c2_104"><path d="M261.1,267.5l0,-14.6l15.3,0l0,14.6Z" /></clipPath>
+<clipPath id="c3_104"><path d="M246,357.1l0,-14.3l44.6,0l0,14.3Z" /></clipPath>
+<clipPath id="c4_104"><path d="M246,413.9l0,-14.3l44.6,0l0,14.3Z" /></clipPath>
+<clipPath id="c5_104"><path d="M246,470.8l0,-14.4l44.6,0l0,14.4Z" /></clipPath>
+<clipPath id="c6_104"><path d="M250.7,430.9l0,-11.9l39.9,0l0,11.9Z" /></clipPath>
+<clipPath id="c7_104"><path d="M252.1,544.6l0,-12l38.5,0l0,12Z" /></clipPath>
+<clipPath id="c8_104"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_104{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_104{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_104{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_104{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_104{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_104{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_104{
+fill: #3AB54A;
+}
+.g8_104{
+fill: #FBB040;
+}
+.g9_104{
+fill: #FFFFFF;
+}
+.g10_104{
+fill: #EE1D23;
+}
+.g11_104{
+fill: #FFDC01;
+}
+.g12_104{
+fill: #872B91;
+}
+.g13_104{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_104{
+font-size: 35.14px;
+font-family: ProximaNova-Extrabld_2ww;
+fill: #872B91;
+}
+.s2_104{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_2ww;
+fill: #872B91;
+}
+.s3_104{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_2x3;
+fill: #872B91;
+}
+.s4_104{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2x7;
+fill: #3F3F40;
+}
+.s5_104{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s6_104{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s7_104{
+font-size: 16.81px;
+font-family: ProximaNova-Semibold_2x8;
+fill: #808285;
+}
+.s8_104{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_2ww;
+fill: #872B91;
+}
+.s9_104{
+font-size: 10.31px;
+font-family: ProximaNova-Regular_2xa;
+fill: #872B91;
+}
+.s10_104{
+font-size: 25.51px;
+font-family: SourceHanSansCN-Heavy_2mg;
+fill: #EE1D23;
+}
+.s11_104{
+font-size: 16.93px;
+font-family: SourceHanSansCN-Bold_2xi;
+fill: #2E3092;
+}
+.s12_104{
+font-size: 16.93px;
+font-family: SourceHanSansCN-Bold_2xi;
+fill: #FFFFFF;
+}
+.s13_104{
+font-size: 18.90px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #BF1D2C;
+}
+.s14_104{
+font-size: 13.17px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #2E3092;
+}
+.s15_104{
+font-size: 16.93px;
+font-family: SourceHanSansCN-Bold_2xi;
+fill: #00A8E4;
+}
+.s16_104{
+font-size: 18.90px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #CBBE38;
+}
+.s17_104{
+font-size: 13.17px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #00A8E4;
+}
+.s18_104{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2x8;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,72.5l346.6,0" class="g1_104" />
+<path d="M0,74.9l346.6,0" class="g2_104" />
+<path d="M105.3,146.1l13,0" class="g3_104" />
+<text 
+x="41" 
+y="62" 
+dx="0,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s1_104"
+>Language Practice</text>
+
+<text 
+x="105" 
+y="142" 
+dx="0,0" 
+class="s2_104"
+>A </text>
+
+<text 
+x="388" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_104"
+>March madness</text>
+
+<text 
+x="143" 
+y="628" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,-0.1,0,0" 
+class="s4_104"
+>In pairs, form a question-and-answer about dates based on the calendar above, e.g.:</text>
+
+<text 
+x="143" 
+y="673" 
+dx="0,0,0,0,0,0" 
+class="s5_104"
+>三月二十一号</text>
+
+<text 
+x="143" 
+y="710" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_104"
+>sānyuè èrshíyī hào</text>
+
+<text 
+x="143" 
+y="762" 
+dx="0,0.2" 
+class="s7_104"
+>Q:</text>
+
+<text 
+x="184" 
+y="762" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_104"
+>三月二十一号（是）星期几？</text>
+
+<text 
+x="186" 
+y="789" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_104"
+>Sānyuè èrshíyī hào (shì) xīngqījǐ?</text>
+
+<text 
+x="143" 
+y="828" 
+dx="0,0.2" 
+class="s7_104"
+>A:</text>
+
+<text 
+x="184" 
+y="828" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_104"
+>三月二十一号（是）星期三。</text>
+
+<text 
+x="186" 
+y="855" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_104"
+>Sānyuè èrshíyī hào (shì) xīngqīsān.</text>
+
+<text 
+x="154" 
+y="921" 
+dx="0,0.2" 
+class="s8_104"
+>1 </text>
+
+<text 
+x="183" 
+y="921" 
+dx="0,0,0,0,0,0" 
+class="s5_104"
+>三月十八号 </text>
+
+<text 
+x="537" 
+y="921" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_104"
+>sānyuè shíbā hào</text>
+
+<text 
+x="154" 
+y="974" 
+dx="0,0.2" 
+class="s8_104"
+>2 </text>
+
+<text 
+x="183" 
+y="974" 
+dx="0,0,0,0,0,0" 
+class="s5_104"
+>三月二十号 </text>
+
+<text 
+x="537" 
+y="974" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_104"
+>sānyuè èrshí hào </text>
+
+<text 
+x="154" 
+y="1026" 
+dx="0,0.2" 
+class="s8_104"
+>3 </text>
+
+<text 
+x="183" 
+y="1026" 
+dx="0,0,0,0,0,0,0" 
+class="s5_104"
+>三月二十三号 </text>
+
+<text 
+x="537" 
+y="1026" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_104"
+>sānyuè èrshísān hào</text>
+
+<text 
+x="154" 
+y="1078" 
+dx="0,0.2" 
+class="s8_104"
+>4 </text>
+
+<text 
+x="183" 
+y="1078" 
+dx="0,0,0,0,0,0,0" 
+class="s5_104"
+>三月二十四号 </text>
+
+<text 
+x="537" 
+y="1078" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_104"
+>sānyuè èrshísì hào</text>
+
+<path d="M132.9,111.9l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g4_104" />
+<path d="M134.9,164.1l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g5_104" />
+<text 
+x="711" 
+y="143" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s9_104"
+>INTERPERSONAL</text>
+
+<path d="M706.1,146.8l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g6_104" />
+<g clip-path="url(#c0_104)">
+<path d="M672.4,564.7L266.5,582.5c-5.2,0.2,-9.5,-4.6,-9.7,-10.7L246.2,240.4c-0.1,-6.1,3.9,-11.2,9.1,-11.4L661.2,211.2c5.2,-0.2,9.6,4.6,9.7,10.7l10.6,331.4c0.2,6.1,-3.9,11.2,-9.1,11.4Z" class="g7_104" />
+<path d="M656.9,545.2L246.4,563.1c-5.2,0.2,-9.5,-4.6,-9.7,-10.6L226,217.1c-0.2,-6.1,3.9,-11.2,9.1,-11.4L645.6,187.8c5.2,-0.3,9.6,4.5,9.8,10.6L666,533.7c0.2,6.1,-3.9,11.2,-9.1,11.5Z" class="g8_104" />
+</g>
+<path d="M659.3,564.7l-414.6,0c-3.9,0,-7,-3.1,-7,-6.9l0,-342.9c0,-3.8,3.1,-6.9,7,-6.9l414.6,0c3.9,0,7,3.1,7,6.9l0,342.9c0,3.8,-3.1,6.9,-7,6.9Z" class="g9_104" />
+<text 
+x="431" 
+y="231" 
+dx="0,0" 
+class="s10_104"
+>三月</text>
+
+<path d="M650.9,273.9l-399.7,0c-2.8,0,-5,-2.3,-5,-5.1l0,-20.9c0,-2.8,2.2,-5.1,5,-5.1l399.7,0c2.8,0,5.1,2.3,5.1,5.1l0,20.9c0,2.8,-2.3,5.1,-5.1,5.1Z" class="g10_104" />
+<text 
+x="258" 
+y="266" 
+dx="0,1" 
+class="s11_104"
+>日 </text>
+
+<text 
+x="304" 
+y="266" 
+dx="0,1" 
+class="s12_104"
+>一 </text>
+
+<text 
+x="369" 
+y="266" 
+dx="0,1" 
+class="s12_104"
+>二 </text>
+
+<text 
+x="434" 
+y="266" 
+dx="0,1" 
+class="s12_104"
+>三 </text>
+
+<text 
+x="496" 
+y="266" 
+dx="0,1" 
+class="s12_104"
+>四 </text>
+
+<text 
+x="561" 
+y="266" 
+dx="0,1" 
+class="s12_104"
+>五 </text>
+
+<text 
+x="629" 
+y="266" 
+dx="0" 
+class="s12_104"
+>六</text>
+
+<text 
+x="502" 
+y="300" 
+dx="0,0" 
+class="s13_104"
+>1 </text>
+
+<text 
+x="567" 
+y="300" 
+dx="0,0" 
+class="s13_104"
+>2 </text>
+
+<text 
+x="633" 
+y="300" 
+dx="0" 
+class="s13_104"
+>3</text>
+
+<text 
+x="258" 
+y="356" 
+dx="0,0" 
+class="s13_104"
+>4 </text>
+
+<text 
+x="305" 
+y="356" 
+dx="0,0" 
+class="s13_104"
+>5 </text>
+
+<text 
+x="371" 
+y="356" 
+dx="0,0" 
+class="s13_104"
+>6 </text>
+
+<text 
+x="437" 
+y="356" 
+dx="0,0" 
+class="s13_104"
+>7 </text>
+
+<text 
+x="502" 
+y="356" 
+dx="0,0" 
+class="s13_104"
+>8 </text>
+
+<text 
+x="567" 
+y="356" 
+dx="0,0" 
+class="s13_104"
+>9 </text>
+
+<text 
+x="628" 
+y="356" 
+dx="0,0" 
+class="s13_104"
+>10</text>
+
+<text 
+x="254" 
+y="413" 
+dx="0,0,0" 
+class="s13_104"
+>11 </text>
+
+<text 
+x="300" 
+y="413" 
+dx="0,0,0" 
+class="s13_104"
+>12 </text>
+
+<text 
+x="366" 
+y="413" 
+dx="0,0,0" 
+class="s13_104"
+>13 </text>
+
+<text 
+x="431" 
+y="413" 
+dx="0,0,0" 
+class="s13_104"
+>14 </text>
+
+<text 
+x="497" 
+y="413" 
+dx="0,0,0" 
+class="s13_104"
+>15 </text>
+
+<text 
+x="562" 
+y="413" 
+dx="0,0,0" 
+class="s13_104"
+>16 </text>
+
+<text 
+x="628" 
+y="413" 
+dx="0,0" 
+class="s13_104"
+>17</text>
+
+<text 
+x="254" 
+y="470" 
+dx="0,0,0" 
+class="s13_104"
+>18 </text>
+
+<text 
+x="300" 
+y="470" 
+dx="0,0,0" 
+class="s13_104"
+>19 </text>
+
+<text 
+x="366" 
+y="470" 
+dx="0,0,0" 
+class="s13_104"
+>20 </text>
+
+<text 
+x="431" 
+y="470" 
+dx="0,0,0" 
+class="s13_104"
+>21 </text>
+
+<text 
+x="497" 
+y="470" 
+dx="0,0,0" 
+class="s13_104"
+>22 </text>
+
+<text 
+x="562" 
+y="470" 
+dx="0,0,0" 
+class="s13_104"
+>23 </text>
+
+<text 
+x="628" 
+y="470" 
+dx="0,0" 
+class="s13_104"
+>24</text>
+
+<text 
+x="254" 
+y="527" 
+dx="0,0,0" 
+class="s13_104"
+>25 </text>
+
+<text 
+x="300" 
+y="527" 
+dx="0,0,0" 
+class="s13_104"
+>26 </text>
+
+<text 
+x="366" 
+y="527" 
+dx="0,0,0" 
+class="s13_104"
+>27 </text>
+
+<text 
+x="431" 
+y="527" 
+dx="0,0,0" 
+class="s13_104"
+>28 </text>
+
+<text 
+x="497" 
+y="527" 
+dx="0,0,0" 
+class="s13_104"
+>29 </text>
+
+<text 
+x="562" 
+y="527" 
+dx="0,0,0" 
+class="s13_104"
+>30 </text>
+
+<text 
+x="628" 
+y="527" 
+dx="0,0" 
+class="s13_104"
+>31</text>
+
+<text 
+x="488" 
+y="316" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>十二 </text>
+
+<text 
+x="551" 
+y="316" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>十三 </text>
+
+<text 
+x="615" 
+y="316" 
+dx="0,1.8" 
+class="s14_104"
+>十四</text>
+
+<text 
+x="251" 
+y="373" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>十五 </text>
+
+<text 
+x="297" 
+y="373" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>十六 </text>
+
+<text 
+x="360" 
+y="373" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>惊蛰 </text>
+
+<text 
+x="424" 
+y="373" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>十八 </text>
+
+<text 
+x="490" 
+y="373" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>十九 </text>
+
+<text 
+x="556" 
+y="373" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>二十 </text>
+
+<text 
+x="622" 
+y="373" 
+dx="0,1.8" 
+class="s14_104"
+>廿一</text>
+
+<text 
+x="249" 
+y="429" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>廿二 </text>
+
+<text 
+x="297" 
+y="429" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>廿三 </text>
+
+<text 
+x="360" 
+y="429" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>廿四 </text>
+
+<text 
+x="429" 
+y="429" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>廿五 </text>
+
+<text 
+x="493" 
+y="429" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>廿六 </text>
+
+<text 
+x="559" 
+y="429" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>廿七 </text>
+
+<text 
+x="622" 
+y="429" 
+dx="0,1.8" 
+class="s14_104"
+>廿八</text>
+
+<text 
+x="251" 
+y="486" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>廿九 </text>
+
+<text 
+x="297" 
+y="486" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>二月 </text>
+
+<text 
+x="360" 
+y="486" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>初二 </text>
+
+<text 
+x="424" 
+y="486" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>春分 </text>
+
+<text 
+x="490" 
+y="486" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>初四 </text>
+
+<text 
+x="556" 
+y="486" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>初五 </text>
+
+<text 
+x="622" 
+y="486" 
+dx="0,1.8" 
+class="s14_104"
+>初六</text>
+
+<text 
+x="251" 
+y="543" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>初七 </text>
+
+<text 
+x="297" 
+y="543" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>初八 </text>
+
+<text 
+x="360" 
+y="543" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>初九 </text>
+
+<text 
+x="429" 
+y="543" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>初十 </text>
+
+<text 
+x="493" 
+y="543" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>十一 </text>
+
+<text 
+x="556" 
+y="543" 
+dx="0,1.8,1.8" 
+class="s14_104"
+>十二 </text>
+
+<text 
+x="622" 
+y="543" 
+dx="0,1.8" 
+class="s14_104"
+>十三</text>
+
+<g clip-path="url(#c1_104)">
+<path d="M285.6,235.2l-35.5,0c-2.7,0,-5,2.3,-5,5l0,311c0,2.8,2.3,5.1,5.1,5.1l35.3,0c2.8,0,5.1,-2.3,5.1,-5.1l0,-6.6l-38.5,0l0,-12l38.5,0l0,-5l-44.6,0l0,-14.4l44.6,0l0,-25.4l-38.3,0l0,-12.1l38.3,0l0,-4.9l-44.6,0l0,-14.4l44.6,0l0,-25.5l-39.9,0l0,-11.9l39.9,0l0,-5.1l-44.6,0l0,-14.3l44.6,0l0,-25.3l-38.5,0l0,-12.2l38.5,0l0,-5l-44.6,0l0,-14.3l44.6,0l0,-26.5l-42.2,0l42.2,0l0,-16.2l-44.6,0l44.6,0l0,-26.2l-39.4,0c-2.8,0,-5,-2.3,-5,-5.1l0,-20.9c0,-2.8,2.2,-5.1,5,-5.1l39.4,0l0,-2.6c0,-2.7,-2.3,-5,-5,-5Z" class="g9_104" />
+<path d="M290.6,242.8l-39.4,0c-2.8,0,-5,2.3,-5,5.1l0,20.9c0,2.8,2.2,5.1,5,5.1l39.4,0l0,-31.1m-29.5,10.1l15.3,0l0,14.6l-15.3,0l0,-14.6Zm-10.8,13.4l6.8,0l-6.8,0Z" class="g11_104" />
+</g>
+<g clip-path="url(#c2_104)">
+<path d="M261.1,267.5l15.3,0l0,-14.6l-15.3,0l0,14.6Z" class="g11_104" />
+</g>
+<text 
+x="258" 
+y="266" 
+dx="0,1" 
+class="s15_104"
+>日 </text>
+
+<g clip-path="url(#c3_104)">
+<path d="M246,357.1l44.6,0l0,-14.3l-44.6,0l0,14.3Z" class="g9_104" />
+</g>
+<text 
+x="258" 
+y="356" 
+dx="0,0" 
+class="s16_104"
+>4 </text>
+
+<g clip-path="url(#c4_104)">
+<path d="M246,413.9l44.6,0l0,-14.3l-44.6,0l0,14.3Z" class="g9_104" />
+</g>
+<text 
+x="254" 
+y="413" 
+dx="0,0,0" 
+class="s16_104"
+>11 </text>
+
+<g clip-path="url(#c5_104)">
+<path d="M246,470.8l44.6,0l0,-14.4l-44.6,0l0,14.4Z" class="g9_104" />
+</g>
+<text 
+x="254" 
+y="470" 
+dx="0,0,0" 
+class="s16_104"
+>18 </text>
+
+<path d="M246,527.6l44.6,0l0,-14.4l-44.6,0l0,14.4Z" class="g9_104" />
+<text 
+x="254" 
+y="527" 
+dx="0,0,0" 
+class="s16_104"
+>25 </text>
+
+<path d="M252.1,374.3l38.5,0l0,-12.2l-38.5,0l0,12.2Z" class="g9_104" />
+<text 
+x="251" 
+y="373" 
+dx="0,1.8,1.8" 
+class="s17_104"
+>十五 </text>
+
+<g clip-path="url(#c6_104)">
+<path d="M250.7,430.9l39.9,0l0,-11.9l-39.9,0l0,11.9Z" class="g9_104" />
+</g>
+<text 
+x="249" 
+y="429" 
+dx="0,1.8,1.8" 
+class="s17_104"
+>廿二 </text>
+
+<path d="M252.3,487.8l38.3,0l0,-12.1l-38.3,0l0,12.1Z" class="g9_104" />
+<text 
+x="251" 
+y="486" 
+dx="0,1.8,1.8" 
+class="s17_104"
+>廿九 </text>
+
+<g clip-path="url(#c7_104)">
+<path d="M252.1,544.6l38.5,0l0,-12l-38.5,0l0,12Z" class="g9_104" />
+</g>
+<text 
+x="251" 
+y="543" 
+dx="0,1.8,1.8" 
+class="s17_104"
+>初七 </text>
+
+<path d="M885.3,1196.3l36,0L921.3,0l-36,0l0,1196.3Z" class="g12_104" />
+<g clip-path="url(#c8_104)">
+<path d="M885.3,1209.2l67.3,0l0,-1222.1l-67.3,0l0,1222.1Z" class="g13_104" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 894, 866)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s18_104"
+>Lesson 3 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 924)"
+dx="0,0.3" 
+class="s18_104"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 937)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s18_104"
+>Time and Date </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1026)"
+dx="0,0.3" 
+class="s18_104"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1039)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s18_104"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1159)"
+dx="0,0.3" 
+class="s18_104"
+>83</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_2x8;
+	src: url("fonts/ProximaNova-Semibold_2x8.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_2xa;
+	src: url("fonts/ProximaNova-Regular_2xa.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2ww;
+	src: url("fonts/ProximaNova-Extrabld_2ww.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2x7;
+	src: url("fonts/ProximaNova-Light_2x7.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Normal_4av;
+	src: url("fonts/SourceHanSansCN-Normal_4av.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Bold_2xi;
+	src: url("fonts/SourceHanSansCN-Bold_2xi.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Heavy_2mg;
+	src: url("fonts/SourceHanSansCN-Heavy_2mg.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2x3;
+	src: url("fonts/ProximaNova-Bold_2x3.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

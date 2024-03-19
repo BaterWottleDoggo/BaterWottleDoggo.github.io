@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 39 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_39{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_39{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.8715278;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_39{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_39{
+font-size: 32.08px;
+font-family: ProximaNova-Extrabld_2sn;
+fill: #7AAD35;
+}
+.s2_39{
+font-size: 14.82px;
+font-family: ProximaNova-Regular_2sw;
+fill: #3F3F40;
+}
+.s3_39{
+font-size: 18.33px;
+font-family: ProximaNova-Semibold_2s-;
+fill: #77787B;
+}
+.s4_39{
+font-size: 32.85px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #67962C;
+}
+.s5_39{
+font-size: 15.28px;
+font-family: ProximaNova-SemiboldIt_2te;
+fill: #939598;
+}
+.s6_39{
+font-size: 15.28px;
+font-family: ProximaNova-Medium_2sm;
+fill: #3F3F40;
+}
+.s7_39{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2s-;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M13.8,83.8l514.6,0" class="g1_39" />
+<path d="M13.8,86.3l514.6,0" class="g2_39" />
+<text 
+x="55" 
+y="71" 
+dx="0,-0.3,-0.3,-0.3,-0.3,0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s1_39"
+>Important Grammatical Features</text>
+
+<text 
+x="110" 
+y="131" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_39"
+>Chinese grammar is relatively simple, since Chinese contains virtually no significant inflectional changes. </text>
+
+<text 
+x="110" 
+y="149" 
+dx="0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s2_39"
+>However, beginners of Chinese should frequently review some fundamental characteristics of the language, </text>
+
+<text 
+x="110" 
+y="167" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s2_39"
+>even though not all these characteristics are unique to Chinese. </text>
+
+<text 
+x="110" 
+y="216" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_39"
+>1. The most basic sentence structure in Chinese is: </text>
+
+<text 
+x="123" 
+y="239" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_39"
+>Subject + Verb + Object</text>
+
+<text 
+x="123" 
+y="282" 
+dx="0,0,0,20.8,0,0,17.8,0,0" 
+class="s4_39"
+>王朋 喜欢 打球。</text>
+
+<text 
+x="127" 
+y="304" 
+dx="0,-0.6,0,0,0,0,-0.2,0,0,0,8.3,0,0,-0.1,0" 
+class="s5_39"
+>Wang Peng like </text>
+
+<text 
+x="310" 
+y="304" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_39"
+>play ball</text>
+
+<text 
+x="127" 
+y="327" 
+dx="0,-0.6,0,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_39"
+>Wang Peng likes to play ball.</text>
+
+<text 
+x="110" 
+y="370" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_39"
+>2. In Chinese, modifiers of nouns go before the nouns.</text>
+
+<text 
+x="123" 
+y="413" 
+dx="0,0,0" 
+class="s4_39"
+>姐姐 </text>
+
+<text 
+x="223" 
+y="413" 
+dx="0,0,9.4,0" 
+class="s4_39"
+>给 我 </text>
+
+<text 
+x="337" 
+y="413" 
+dx="0,0" 
+class="s4_39"
+>买 </text>
+
+<text 
+x="406" 
+y="413" 
+dx="0,0" 
+class="s4_39"
+>的 </text>
+
+<text 
+x="472" 
+y="413" 
+dx="0,0,0" 
+class="s4_39"
+>衬衫。</text>
+
+<text 
+x="127" 
+y="435" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_39"
+>older sister </text>
+
+<text 
+x="223" 
+y="435" 
+dx="0,0,0,0" 
+class="s5_39"
+>for </text>
+
+<text 
+x="273" 
+y="435" 
+dx="0,0,0" 
+class="s5_39"
+>me </text>
+
+<text 
+x="337" 
+y="435" 
+dx="0,0,0,0" 
+class="s5_39"
+>buy </text>
+
+<text 
+x="472" 
+y="435" 
+dx="0,0,0,0,0" 
+class="s5_39"
+>shirt</text>
+
+<text 
+x="127" 
+y="457" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s6_39"
+>The shirt that my older sister bought me.</text>
+
+<text 
+x="110" 
+y="501" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_39"
+>3. In Chinese, adverbials, which modify verbs, go before verbs. Adverbials typically follow the subject or the </text>
+
+<text 
+x="125" 
+y="518" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s2_39"
+>topic of the sentence.</text>
+
+<text 
+x="123" 
+y="562" 
+dx="0,0,0" 
+class="s4_39"
+>王朋 </text>
+
+<text 
+x="224" 
+y="562" 
+dx="0,0,0,16.2,0" 
+class="s4_39"
+>昨天 看 </text>
+
+<text 
+x="381" 
+y="562" 
+dx="0,0" 
+class="s4_39"
+>了 </text>
+
+<text 
+x="444" 
+y="562" 
+dx="0,0,0,11.7,0,0,10.1,0,0" 
+class="s4_39"
+>一个 中国 电影。</text>
+
+<text 
+x="127" 
+y="584" 
+dx="0,-0.6,0,0,0,0,-0.2,0,0,0" 
+class="s5_39"
+>Wang Peng </text>
+
+<text 
+x="224" 
+y="584" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_39"
+>yesterday </text>
+
+<text 
+x="314" 
+y="584" 
+dx="0,0,0,0" 
+class="s5_39"
+>see </text>
+
+<text 
+x="444" 
+y="584" 
+dx="0,0,0,0" 
+class="s5_39"
+>one </text>
+
+<text 
+x="530" 
+y="584" 
+dx="0,0,0,0,0,0" 
+class="s5_39"
+>China </text>
+
+<text 
+x="614" 
+y="584" 
+dx="0,0,0,0,0" 
+class="s5_39"
+>movie</text>
+
+<text 
+x="127" 
+y="606" 
+dx="0,-0.6,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9" 
+class="s6_39"
+>Wang Peng watched a Chinese movie yesterday.</text>
+
+<text 
+x="123" 
+y="650" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s2_39"
+>Unlike in English, adverbials in Chinese never appear at the end of the sentence.</text>
+
+<text 
+x="109" 
+y="693" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_39"
+>4. In general, Chinese nouns do not directly follow numerals; there must be a measure word in between.</text>
+
+<text 
+x="123" 
+y="736" 
+dx="0,0" 
+class="s4_39"
+>一 </text>
+
+<text 
+x="189" 
+y="736" 
+dx="0,0" 
+class="s4_39"
+>个 </text>
+
+<text 
+x="262" 
+y="736" 
+dx="0,0" 
+class="s4_39"
+>人 </text>
+
+<text 
+x="127" 
+y="755" 
+dx="0,0" 
+class="s5_39"
+>a </text>
+
+<text 
+x="262" 
+y="755" 
+dx="0,0,0,0,0,0,0" 
+class="s5_39"
+>person </text>
+
+<text 
+x="123" 
+y="798" 
+dx="0,0" 
+class="s4_39"
+>三 </text>
+
+<text 
+x="189" 
+y="798" 
+dx="0,0" 
+class="s4_39"
+>本 </text>
+
+<text 
+x="262" 
+y="798" 
+dx="0,0" 
+class="s4_39"
+>书 </text>
+
+<text 
+x="123" 
+y="821" 
+dx="0,0,0,0,0,0" 
+class="s5_39"
+>three </text>
+
+<text 
+x="262" 
+y="821" 
+dx="0,0,0,0,-0.2" 
+class="s5_39"
+>books</text>
+
+<text 
+x="110" 
+y="864" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_39"
+>5. If a sentence has multiple clauses with the same subject, the subject in the ensuing clauses is typically </text>
+
+<text 
+x="125" 
+y="882" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_39"
+>omitted. If two consecutive sentences have the same subject, the subject of the second sentence is </text>
+
+<text 
+x="125" 
+y="899" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_39"
+>typically represented by a pronoun.</text>
+
+<text 
+x="123" 
+y="943" 
+dx="0,0,0,5.6,0,4.8,0,0,1,0,7.8,0,0,0,9.4,0,10.9,0,4.8,0,6.3,0,0,8.6,0,0" 
+class="s4_39"
+>李友 在 商店 买 衣服。 她 买 了 一件 衬衫，</text>
+
+<text 
+x="127" 
+y="965" 
+dx="0,0,0,0,-1.8,0,0" 
+class="s5_39"
+>Li You </text>
+
+<text 
+x="203" 
+y="965" 
+dx="0,0,0" 
+class="s5_39"
+>at </text>
+
+<text 
+x="249" 
+y="965" 
+dx="0,0,0,0,0,0" 
+class="s5_39"
+>store </text>
+
+<text 
+x="323" 
+y="965" 
+dx="0,0,0,0" 
+class="s5_39"
+>buy </text>
+
+<text 
+x="372" 
+y="965" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_39"
+>clothes </text>
+
+<text 
+x="488" 
+y="965" 
+dx="0,0,0,0" 
+class="s5_39"
+>she </text>
+
+<text 
+x="540" 
+y="965" 
+dx="0,0,0,0" 
+class="s5_39"
+>buy </text>
+
+<text 
+x="634" 
+y="965" 
+dx="0,0,0,0" 
+class="s5_39"
+>one </text>
+
+<text 
+x="716" 
+y="965" 
+dx="0,0,0,0,0" 
+class="s5_39"
+>shirt</text>
+
+<text 
+x="123" 
+y="1008" 
+dx="0,0,15.5,0,10.9,0,3.3,0,0,11.7,0,0,0,3.3,0,20,0,7.8,0,0,11.7,0" 
+class="s4_39"
+>还 买 了 一条 裤子， 花 了 六十 块 </text>
+
+<text 
+x="731" 
+y="1008" 
+dx="0,0" 
+class="s4_39"
+>钱。</text>
+
+<text 
+x="127" 
+y="1030" 
+dx="0,0,0,0,0" 
+class="s5_39"
+>also </text>
+
+<text 
+x="180" 
+y="1030" 
+dx="0,0,0,0" 
+class="s5_39"
+>buy </text>
+
+<text 
+x="276" 
+y="1030" 
+dx="0,0,0,0" 
+class="s5_39"
+>one </text>
+
+<text 
+x="362" 
+y="1030" 
+dx="0,0,0,0,0,0" 
+class="s5_39"
+>pants </text>
+
+<text 
+x="472" 
+y="1030" 
+dx="0,0,0,0,0,0" 
+class="s5_39"
+>spend </text>
+
+<text 
+x="582" 
+y="1030" 
+dx="0,0,0,0,0,0" 
+class="s5_39"
+>sixty </text>
+
+<text 
+x="667" 
+y="1030" 
+dx="0,0,0,0,0,0,0" 
+class="s5_39"
+>dollar </text>
+
+<text 
+x="731" 
+y="1030" 
+dx="0,0,0,0,0" 
+class="s5_39"
+>money</text>
+
+<text 
+x="127" 
+y="1052" 
+dx="0,0,0,0,-1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_39"
+>Li You went shopping for clothes. She bought a shirt. She bought a pair of pants as well. </text>
+
+<text 
+x="127" 
+y="1071" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_39"
+>She spent sixty dollars. </text>
+
+<path d="M-15.9,1224.5l51.8,0l0,-1256.9l-51.8,0l0,1256.9Z" class="g3_39" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3" 
+class="s7_39"
+>18 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1151)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s7_39"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1030)"
+dx="0,0.3" 
+class="s7_39"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1017)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s7_39"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Regular_2sw;
+	src: url("fonts/ProximaNova-Regular_2sw.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Medium_2sm;
+	src: url("fonts/ProximaNova-Medium_2sm.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2sn;
+	src: url("fonts/ProximaNova-Extrabld_2sn.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-SemiboldIt_2te;
+	src: url("fonts/ProximaNova-SemiboldIt_2te.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2s-;
+	src: url("fonts/ProximaNova-Semibold_2s-.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

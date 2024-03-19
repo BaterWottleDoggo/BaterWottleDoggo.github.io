@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 322 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_322{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_322{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_322{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_322{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_322{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_322{
+fill: none;
+stroke: #EDF3F7;
+stroke-width: 61.11111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_322{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_322{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_322{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_322{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_def;
+fill: #007598;
+}
+.s2_322{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_def;
+fill: #007D9F;
+}
+.s3_322{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_dee;
+fill: #007D9F;
+}
+.s4_322{
+font-size: 20.63px;
+font-family: LibreFranklin-Bold_dee;
+fill: #007598;
+}
+.s5_322{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_deu;
+fill: #3F3F40;
+}
+.s6_322{
+font-size: 17.57px;
+font-family: LibreFranklin-Medium_dec;
+fill: #231F20;
+}
+.s7_322{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_def;
+fill: #3F3F40;
+}
+.s8_322{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s9_322{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s10_322{
+font-size: 14.51px;
+font-family: LibreFranklin-Italic_dfm;
+fill: #3F3F40;
+}
+.s11_322{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #007D9F;
+}
+.s12_322{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #007D9F;
+}
+.s13_322{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dec;
+fill: #231F20;
+}
+.s14_322{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_dfv;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M2.3,97.3l204.6,0" class="g1_322" />
+<path d="M2.3,99.8l204.6,0" class="g2_322" />
+<path d="M121.5,183.4l12.2,0" class="g3_322" />
+<path d="M156.6,255.4l252.9,0" class="g4_322" />
+<path d="M156.6,257.4l252.9,0" class="g5_322" />
+<path d="M150.5,364.8l661.5,0" class="g6_322" />
+<text 
+x="57" 
+y="85" 
+dx="0,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_322"
+>Grammar</text>
+
+<text 
+x="121" 
+y="177" 
+dx="0,0" 
+class="s2_322"
+>1 </text>
+
+<text 
+x="290" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_322"
+>Summary of word order in Chinese</text>
+
+<text 
+x="156" 
+y="249" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0" 
+class="s4_322"
+>Basic sentence structure </text>
+
+<text 
+x="159" 
+y="281" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_322"
+>As you will recall from “Important Grammatical Features” in Basics and Grammar 1, Lesson 4, </text>
+
+<text 
+x="159" 
+y="308" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s5_322"
+>IC1, the basic Chinese sentence structure can be outlined as follows:</text>
+
+<text 
+x="234" 
+y="361" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.4,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.4,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s6_322"
+>Subject/agent—(adverbial)—verb—(complement)—(object/ </text>
+
+<text 
+x="384" 
+y="382" 
+dx="0,-0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_322"
+>recipient of the action)</text>
+
+<text 
+x="171" 
+y="448" 
+dx="0,0" 
+class="s7_322"
+>A </text>
+
+<text 
+x="242" 
+y="450" 
+dx="0,0" 
+class="s8_322"
+>我们</text>
+
+<text 
+x="326" 
+y="450" 
+dx="0,0,0,0" 
+class="s8_322"
+>下个星期</text>
+
+<text 
+x="459" 
+y="450" 
+dx="0" 
+class="s8_322"
+>学</text>
+
+<text 
+x="514" 
+y="450" 
+dx="0" 
+class="s8_322"
+>完</text>
+
+<text 
+x="611" 
+y="450" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s8_322"
+>《中文听说读写》。</text>
+
+<text 
+x="242" 
+y="491" 
+dx="0,0" 
+class="s9_322"
+>我們</text>
+
+<text 
+x="326" 
+y="491" 
+dx="0,0,0,0" 
+class="s9_322"
+>下個星期</text>
+
+<text 
+x="459" 
+y="491" 
+dx="0" 
+class="s9_322"
+>學</text>
+
+<text 
+x="514" 
+y="491" 
+dx="0" 
+class="s9_322"
+>完</text>
+
+<text 
+x="611" 
+y="491" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_322"
+>《中文聽說讀寫》。</text>
+
+<text 
+x="248" 
+y="524" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_322"
+>Subject </text>
+
+<text 
+x="326" 
+y="524" 
+dx="0,0,0,-0.4,0,0,0,0,0,0" 
+class="s5_322"
+>Adverbial </text>
+
+<text 
+x="459" 
+y="524" 
+dx="0,-0.9,0,0,0" 
+class="s5_322"
+>Verb </text>
+
+<text 
+x="514" 
+y="524" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_322"
+>Complement </text>
+
+<text 
+x="625" 
+y="524" 
+dx="0,0,0,0,0,0" 
+class="s5_322"
+>Object</text>
+
+<text 
+x="248" 
+y="558" 
+dx="0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_322"
+>We will finish studying </text>
+
+<text 
+x="400" 
+y="558" 
+dx="0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s10_322"
+>Integrated Chinese </text>
+
+<text 
+x="533" 
+y="558" 
+dx="0,0,-0.3,-0.2,0,0,0,0,0,0" 
+class="s5_322"
+>next week.</text>
+
+<text 
+x="171" 
+y="617" 
+dx="0,0" 
+class="s7_322"
+>B </text>
+
+<text 
+x="242" 
+y="619" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_322"
+>学生慢慢地走进了教室。</text>
+
+<text 
+x="242" 
+y="660" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_322"
+>學生慢慢地走進了教室。</text>
+
+<text 
+x="248" 
+y="693" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-1" 
+class="s5_322"
+>Students walked into the classroom slowly.</text>
+
+<text 
+x="171" 
+y="752" 
+dx="0,0" 
+class="s7_322"
+>C </text>
+
+<text 
+x="242" 
+y="754" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_322"
+>很多大学毕业生找不到满意的工作。</text>
+
+<text 
+x="242" 
+y="795" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_322"
+>很多大學畢業生找不到滿意的工作。</text>
+
+<text 
+x="248" 
+y="828" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s5_322"
+>Many college graduates can’t find jobs they like.</text>
+
+<text 
+x="159" 
+y="874" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_322"
+>Attributives in Chinese appear before what they modify:</text>
+
+<text 
+x="171" 
+y="931" 
+dx="0,0" 
+class="s7_322"
+>D </text>
+
+<text 
+x="242" 
+y="933" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_322"
+>小李是广东人，不太爱吃</text>
+
+<text 
+x="527" 
+y="933" 
+dx="0,0,0,0,0" 
+class="s11_322"
+>又酸又辣的</text>
+
+<text 
+x="657" 
+y="933" 
+dx="0,0" 
+class="s8_322"
+>菜。</text>
+
+<text 
+x="242" 
+y="974" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_322"
+>小李是廣東人，不太愛吃</text>
+
+<text 
+x="527" 
+y="974" 
+dx="0,0,0,0,0" 
+class="s12_322"
+>又酸又辣的</text>
+
+<text 
+x="657" 
+y="974" 
+dx="0,0" 
+class="s9_322"
+>菜。</text>
+
+<text 
+x="248" 
+y="1007" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1" 
+class="s5_322"
+>Little Li is Cantonese. He doesn’t really like to eat food that is sour and spicy.</text>
+
+<text 
+x="171" 
+y="1066" 
+dx="0,0" 
+class="s7_322"
+>E </text>
+
+<text 
+x="242" 
+y="1068" 
+dx="0,0,0,0,0,0,0,0" 
+class="s11_322"
+>昨天给我打电话的</text>
+
+<text 
+x="449" 
+y="1068" 
+dx="0,0,0,0,0,0,0" 
+class="s8_322"
+>人刚才来看我。</text>
+
+<text 
+x="242" 
+y="1109" 
+dx="0,0,0,0,0,0,0,0" 
+class="s12_322"
+>昨天給我打電話的</text>
+
+<text 
+x="449" 
+y="1109" 
+dx="0,0,0,0,0,0,0" 
+class="s9_322"
+>人剛才來看我。</text>
+
+<text 
+x="248" 
+y="1142" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s5_322"
+>The person who called me yesterday just came to visit me.</text>
+
+<path d="M145.9,147.5l0,53.5l0,0.7l0.8,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g7_322" />
+<path d="M148,199.7l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g8_322" />
+<path d="M165.8,426.6c-0.1,0,-7.7,0,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g7_322" />
+<path d="M165.8,428.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_322" />
+<path d="M165.8,595c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g7_322" />
+<path d="M165.8,597c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_322" />
+<path d="M165.8,729.4c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g7_322" />
+<path d="M165.8,731.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_322" />
+<path d="M165.8,908.5c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g7_322" />
+<path d="M165.8,910.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_322" />
+<path d="M165.8,1043.8c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g7_322" />
+<path d="M165.8,1045.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_322" />
+<path d="M876.9,1141.6l57.3,0l0,-1222.1l-57.3,0l0,1222.1Z" class="g9_322" />
+<text 
+x="872" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s13_322"
+>299 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 699)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s14_322"
+>Lesson 20 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 791)"
+dx="0,1.2" 
+class="s14_322"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 808)"
+dx="0,1.2,1.2,1.2,1.2,0.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s14_322"
+>The World Is Getting Smaller </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1043)"
+dx="0,1.2" 
+class="s14_322"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1060)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s14_322"
+>Grammar</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_deu;
+	src: url("fonts/LibreFranklin-Regular_deu.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dec;
+	src: url("fonts/LibreFranklin-Medium_dec.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_dfv;
+	src: url("fonts/LibreFranklin-SemiBold_dfv.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_dee;
+	src: url("fonts/LibreFranklin-Bold_dee.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Italic_dfm;
+	src: url("fonts/LibreFranklin-Italic_dfm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_def;
+	src: url("fonts/LibreFranklin-ExtraBold_def.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 38 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_38{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_38{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_38{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_38{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_38{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_cep;
+fill: #007598;
+}
+.s2_38{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_ce-;
+fill: #007D9F;
+}
+.s3_38{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #3F3F40;
+}
+.s4_38{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cg9;
+fill: #3F3F40;
+}
+.s5_38{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s6_38{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cep;
+fill: #3F3F40;
+}
+.s7_38{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_ce-;
+fill: #939598;
+}
+.s8_38{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s9_38{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s10_38{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #007D9F;
+}
+.s11_38{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #007D9F;
+}
+.s12_38{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cey;
+fill: #231F20;
+}
+.s13_38{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_ci3;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,90.6l12.2,0" class="g1_38" />
+<text 
+x="119" 
+y="84" 
+dx="0,0" 
+class="s1_38"
+>4 </text>
+
+<text 
+x="330" 
+y="89" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s2_38"
+>The pattern </text>
+
+<text 
+x="466" 
+y="89" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_38"
+>（先）···再···</text>
+
+<text 
+x="157" 
+y="151" 
+dx="0,0,0,0" 
+class="s4_38"
+>The </text>
+
+<text 
+x="186" 
+y="152" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_38"
+>（先）···再··· </text>
+
+<text 
+x="328" 
+y="151" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s4_38"
+>pattern can be translated as “(first) . . . then . . .” Like </text>
+
+<text 
+x="673" 
+y="152" 
+dx="0" 
+class="s5_38"
+>才</text>
+
+<text 
+x="697" 
+y="151" 
+dx="0,0" 
+class="s4_38"
+>, </text>
+
+<text 
+x="703" 
+y="152" 
+dx="0" 
+class="s5_38"
+>再</text>
+
+<text 
+x="730" 
+y="151" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_38"
+>can link </text>
+
+<text 
+x="157" 
+y="178" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-1.2,0,0,0,0,0,0,-0.4,0" 
+class="s4_38"
+>two clauses. However, unlike </text>
+
+<text 
+x="352" 
+y="180" 
+dx="0" 
+class="s5_38"
+>才</text>
+
+<text 
+x="376" 
+y="178" 
+dx="0,0" 
+class="s4_38"
+>, </text>
+
+<text 
+x="382" 
+y="180" 
+dx="0" 
+class="s5_38"
+>再</text>
+
+<text 
+x="409" 
+y="178" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_38"
+>indicates that the action described in the first clause is a </text>
+
+<text 
+x="157" 
+y="206" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0" 
+class="s4_38"
+>desired condition for the action in the second clause. In other words, the speaker would like to </text>
+
+<text 
+x="157" 
+y="233" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_38"
+>postpone the second action until the first action has occurred.</text>
+
+<text 
+x="169" 
+y="290" 
+dx="0,0" 
+class="s6_38"
+>A </text>
+
+<text 
+x="212" 
+y="292" 
+dx="0,0,0" 
+class="s7_38"
+>Q: </text>
+
+<text 
+x="238" 
+y="292" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_38"
+>我们今年去云南旅游，怎么样？</text>
+
+<text 
+x="239" 
+y="333" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_38"
+>我們今年去雲南旅遊，怎麼樣？</text>
+
+<text 
+x="245" 
+y="366" 
+dx="0,0,-0.1,0.4,-0.9,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_38"
+>Let’s take a trip to Yunnan this year. How about it?</text>
+
+<text 
+x="212" 
+y="414" 
+dx="0,0,0" 
+class="s7_38"
+>A: </text>
+
+<text 
+x="241" 
+y="414" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_38"
+>我今年不想去，想等明年拿到硕士学位以后</text>
+
+<text 
+x="734" 
+y="414" 
+dx="0" 
+class="s10_38"
+>再</text>
+
+<text 
+x="760" 
+y="414" 
+dx="0,0" 
+class="s8_38"
+>去。</text>
+
+<text 
+x="239" 
+y="454" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_38"
+>我今年不想去，想等明年拿到碩士學位以後</text>
+
+<text 
+x="733" 
+y="454" 
+dx="0" 
+class="s11_38"
+>再</text>
+
+<text 
+x="759" 
+y="454" 
+dx="0,0" 
+class="s9_38"
+>去。</text>
+
+<text 
+x="245" 
+y="488" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-0.3,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-1.4,-0.2,-0.2,-0.2,-1.2,-0.2,-0.2,-0.2,-0.2,-0.6,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-1.1,-0.2,-0.2,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.5,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-1.4" 
+class="s4_38"
+>I don’t want to go this year. I’d like to wait until I receive my master’s degree next year.</text>
+
+<text 
+x="169" 
+y="547" 
+dx="0,0" 
+class="s6_38"
+>B </text>
+
+<text 
+x="239" 
+y="549" 
+dx="0,0,0,0,0,0" 
+class="s8_38"
+>明年暑假我想</text>
+
+<text 
+x="395" 
+y="549" 
+dx="0" 
+class="s10_38"
+>先</text>
+
+<text 
+x="421" 
+y="549" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_38"
+>待在这儿打工挣点钱，然后</text>
+
+<text 
+x="733" 
+y="549" 
+dx="0" 
+class="s10_38"
+>再</text>
+
+<text 
+x="759" 
+y="549" 
+dx="0" 
+class="s8_38"
+>回</text>
+
+<text 
+x="239" 
+y="582" 
+dx="0,0,0,0,0,0" 
+class="s8_38"
+>纽约看父母。</text>
+
+<text 
+x="239" 
+y="623" 
+dx="0,0,0,0,0,0" 
+class="s9_38"
+>明年暑假我想</text>
+
+<text 
+x="395" 
+y="623" 
+dx="0" 
+class="s11_38"
+>先</text>
+
+<text 
+x="421" 
+y="623" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_38"
+>待在這兒打工掙點錢，然後</text>
+
+<text 
+x="733" 
+y="623" 
+dx="0" 
+class="s11_38"
+>再</text>
+
+<text 
+x="759" 
+y="623" 
+dx="0" 
+class="s9_38"
+>回</text>
+
+<text 
+x="239" 
+y="657" 
+dx="0,0,0,0,0,0" 
+class="s9_38"
+>紐約看父母。</text>
+
+<text 
+x="245" 
+y="690" 
+dx="0,0,-0.3,-0.2,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_38"
+>Next year over summer break, I’ll stay here to make a little money working part-time. </text>
+
+<text 
+x="245" 
+y="710" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-1.5,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s4_38"
+>Then I’ll go back to New York to see my parents.</text>
+
+<text 
+x="169" 
+y="769" 
+dx="0,0" 
+class="s6_38"
+>C </text>
+
+<text 
+x="239" 
+y="771" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_38"
+>这个问题我们应该</text>
+
+<text 
+x="447" 
+y="771" 
+dx="0" 
+class="s10_38"
+>先</text>
+
+<text 
+x="473" 
+y="771" 
+dx="0,0,0,0,0,0,0" 
+class="s8_38"
+>好好儿讨论讨论</text>
+
+<text 
+x="655" 
+y="771" 
+dx="0" 
+class="s10_38"
+>再</text>
+
+<text 
+x="681" 
+y="771" 
+dx="0,0,0,0" 
+class="s8_38"
+>做决定。</text>
+
+<text 
+x="239" 
+y="812" 
+dx="0,0,0,0,0,0,0,0" 
+class="s9_38"
+>這個問題我們應該</text>
+
+<text 
+x="447" 
+y="812" 
+dx="0" 
+class="s11_38"
+>先</text>
+
+<text 
+x="473" 
+y="812" 
+dx="0,0,0,0,0,0,0" 
+class="s9_38"
+>好好兒討論討論</text>
+
+<text 
+x="655" 
+y="812" 
+dx="0" 
+class="s11_38"
+>再</text>
+
+<text 
+x="681" 
+y="812" 
+dx="0,0,0,0" 
+class="s9_38"
+>做決定。</text>
+
+<text 
+x="245" 
+y="845" 
+dx="0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_38"
+>We should discuss this question thoroughly before we make a decision.</text>
+
+<path d="M146.1,54.3l0,53.5l0,0.7l0.8,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_38" />
+<path d="M148.2,106.5l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g3_38" />
+<path d="M164.4,267c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_38" />
+<path d="M164.4,269c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_38" />
+<path d="M164.4,523.7c-0.1,0,-7.7,0,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_38" />
+<path d="M164.4,525.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_38" />
+<path d="M164.4,745.9c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_38" />
+<path d="M164.4,748c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_38" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g4_38" />
+<text 
+x="884" 
+y="1166" 
+dx="0,1.2,0" 
+class="s12_38"
+>15 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 800)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s13_38"
+>Lesson 11 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 887)"
+dx="0,1.2" 
+class="s13_38"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 904)"
+dx="0,1.2,1.2,1.2,1.2,1.2,0.5,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s13_38"
+>China’s Holidays </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1043)"
+dx="0,1.2" 
+class="s13_38"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1060)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s13_38"
+>Grammar</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cg9;
+	src: url("fonts/LibreFranklin-Regular_cg9.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cep;
+	src: url("fonts/LibreFranklin-ExtraBold_cep.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cey;
+	src: url("fonts/LibreFranklin-Medium_cey.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_ce-;
+	src: url("fonts/LibreFranklin-Bold_ce-.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_ci3;
+	src: url("fonts/LibreFranklin-SemiBold_ci3.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

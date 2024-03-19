@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 37 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_37"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_37{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_37{
+fill: #3986C6;
+}
+.g3_37{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_37{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.9097222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_37{
+fill: #ACBF3B;
+}
+.g6_37{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_37{
+fill: #DCDDDF;
+}
+.g8_37{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_37{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cot;
+fill: #231F20;
+}
+.s2_37{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cnt;
+fill: #231F20;
+}
+.s3_37{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_cnt;
+fill: #231F20;
+}
+.s4_37{
+font-size: 19.10px;
+font-family: Alegreya-Regular_cnx;
+fill: #231F20;
+}
+.s5_37{
+font-size: 44.31px;
+font-family: ProximaNova-Bold_cnt;
+fill: #3986C6;
+}
+.s6_37{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_coa;
+fill: #FFFFFF;
+}
+.s7_37{
+font-size: 32.08px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s8_37{
+font-size: 19.10px;
+font-family: Alegreya-Bold_cny;
+fill: #3986C6;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>Go Far with Chinese</text>
+
+<text 
+x="39" 
+y="1149" 
+dx="0,0" 
+class="s2_37"
+>14</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_37" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_37" />
+<path d="M128.3,304.5c-10.1,0,-18.3,-8.2,-18.3,-18.3L110,266l23.1,0c10.2,0,18.4,8.2,18.4,18.4l0,20.1Z" class="g2_37" />
+<path d="M116.1,266.5l247.5,0" class="g3_37" />
+<path d="M129.9,303.9l233.7,0" class="g3_37" />
+<text 
+x="157" 
+y="292" 
+dx="0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0" 
+class="s3_37"
+>Basic Word Order</text>
+
+<text 
+x="109" 
+y="345" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.3,0,0,0,-0.3,-0.3,0,0,0,-0.3,0" 
+class="s4_37"
+>The basic word order for a sentence in English and Chinese is the same: a subject, followed by </text>
+
+<text 
+x="110" 
+y="371" 
+dx="0,0,0,-0.3,0,0,-0.8,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s4_37"
+>a verb, and then (sometimes) an object. The subject either does the action of the sentence or is </text>
+
+<text 
+x="110" 
+y="397" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.6,-0.4,0,-0.2,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_37"
+>the person or thing described by the sentence. The verb is the word that expresses the action </text>
+
+<text 
+x="110" 
+y="423" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0" 
+class="s4_37"
+>or state of being. In sentences that have an object, the object is the word that is affected by </text>
+
+<text 
+x="110" 
+y="449" 
+dx="0,0,0,0,0,-0.3,0,0,-0.8,-0.4" 
+class="s4_37"
+>the verb. </text>
+
+<g clip-path="url(#c0_37)">
+<path d="M-13.7,51.3l877.1,0" class="g4_37" />
+</g>
+<path d="M863.4,55.9c2.6,0,4.6,-2.1,4.6,-4.6c0,-2.5,-2,-4.6,-4.6,-4.6c-2.5,0,-4.6,2.1,-4.6,4.6c0,2.5,2.1,4.6,4.6,4.6Z" class="g2_37" />
+<path d="M314.1,31.1c11.2,0,20.2,9.1,20.2,20.2l0,20.2l-112.2,0l0,-40.4Z" class="g5_37" />
+<path d="M130.2,71.5C119,71.5,110,62.4,110,51.3l0,-20.2l112.1,0l0,40.4Z" class="g2_37" />
+<text 
+x="111" 
+y="122" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_37"
+>Getting started in Chinese</text>
+
+<path d="M222.9,25.6l0,45.9" class="g6_37" />
+<text 
+x="231" 
+y="57" 
+dx="0,-0.4,0,0,0,0,0" 
+class="s6_37"
+>±²P³c 3</text>
+
+<text 
+x="120" 
+y="57" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s6_37"
+>chaP±e´ 1 </text>
+
+<text 
+x="108" 
+y="177" 
+dx="0,-0.8,0,-1,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_37"
+>You’ve learned some basic information about characters and the different Mandarin sounds </text>
+
+<text 
+x="110" 
+y="203" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,-0.4,-0.4,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s4_37"
+>that will help you understand Chinese words. The next step is to put words together to create </text>
+
+<text 
+x="110" 
+y="229" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s4_37"
+>simple sentences and questions.</text>
+
+<path d="M110,508.8l96.2,0l0,36.3l-96.2,0l0,-36.3Zm96.2,0l96.3,0l0,36.3l-96.3,0l0,-36.3Zm96.3,0l123.7,0l0,36.3l-123.7,0l0,-36.3Zm123.7,0l82.5,0l0,36.3l-82.5,0l0,-36.3Zm82.5,0l193.6,0l0,36.3l-193.6,0l0,-36.3Z" class="g7_37" />
+<path d="M110,593.2l96.2,0" class="g8_37" />
+<path d="M206.2,593.2l96.3,0" class="g8_37" />
+<path d="M302.5,593.2l123.7,0" class="g8_37" />
+<path d="M426.2,593.2l82.5,0" class="g8_37" />
+<path d="M508.7,593.2l193.6,0" class="g8_37" />
+<path d="M110,641.3l96.2,0" class="g8_37" />
+<path d="M206.2,641.3l96.3,0" class="g8_37" />
+<path d="M302.5,641.3l123.7,0" class="g8_37" />
+<path d="M426.2,641.3l82.5,0" class="g8_37" />
+<path d="M508.7,641.3l193.6,0" class="g8_37" />
+<text 
+x="128" 
+y="534" 
+dx="0,0,0,0,0,0,0" 
+class="s2_37"
+>Subject</text>
+
+<text 
+x="224" 
+y="534" 
+dx="0,-1.1,0,0" 
+class="s2_37"
+>Verb</text>
+
+<text 
+x="321" 
+y="534" 
+dx="0,0,0,0,0,0" 
+class="s2_37"
+>Object</text>
+
+<text 
+x="127" 
+y="577" 
+dx="0,-1.4" 
+class="s4_37"
+>Wǒ</text>
+
+<text 
+x="224" 
+y="577" 
+dx="0,0,0,0,0,0" 
+class="s4_37"
+>xǐhuan</text>
+
+<text 
+x="321" 
+y="577" 
+dx="0,0" 
+class="s4_37"
+>tā</text>
+
+<text 
+x="127" 
+y="625" 
+dx="0" 
+class="s4_37"
+>I</text>
+
+<text 
+x="225" 
+y="625" 
+dx="0,0,0,-0.4" 
+class="s4_37"
+>like</text>
+
+<text 
+x="320" 
+y="625" 
+dx="0,0" 
+class="s4_37"
+>it</text>
+
+<text 
+x="441" 
+y="626" 
+dx="0" 
+class="s7_37"
+>→</text>
+
+<text 
+x="526" 
+y="625" 
+dx="0,0,0,0,0,-0.4,0,0,0,0" 
+class="s4_37"
+>I like it.</text>
+
+<text 
+x="109" 
+y="764" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0" 
+class="s4_37"
+>To ask a simple yes/no question in Chinese, just add the word </text>
+
+<text 
+x="586" 
+y="765" 
+dx="0,0" 
+class="s8_37"
+>ma</text>
+
+<text 
+x="615" 
+y="764" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.6,-0.4" 
+class="s4_37"
+>at the end of the sentence. </text>
+
+<text 
+x="108" 
+y="790" 
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.6,-0.4" 
+class="s4_37"
+>You do not need to change the word order of the sentence. </text>
+
+<path d="M128.3,718.8c-10.1,0,-18.3,-8.2,-18.3,-18.3l0,-20.2l23.1,0c10.2,0,18.4,8.2,18.4,18.4l0,20.1Z" class="g2_37" />
+<path d="M116.1,680.7l248.8,0" class="g3_37" />
+<path d="M129.9,718.2l235,0" class="g3_37" />
+<text 
+x="157" 
+y="707" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_37"
+>Asking Questions</text>
+
+<path d="M110,821.9l96.2,0l0,36.3l-96.2,0l0,-36.3Zm96.2,0l96.3,0l0,36.3l-96.3,0l0,-36.3Zm96.3,0l123.7,0l0,36.3l-123.7,0l0,-36.3Zm123.7,0l82.5,0l0,36.3l-82.5,0l0,-36.3Zm82.5,0l91.3,0l0,36.3l-91.3,0l0,-36.3Zm91.3,0l193.6,0l0,36.3l-193.6,0l0,-36.3Z" class="g7_37" />
+<path d="M110,906.4l96.2,0" class="g8_37" />
+<path d="M206.2,906.4l96.3,0" class="g8_37" />
+<path d="M302.5,906.4l123.7,0" class="g8_37" />
+<path d="M426.2,906.4l82.5,0" class="g8_37" />
+<path d="M508.7,906.4l91.3,0" class="g8_37" />
+<path d="M600,906.4l193.6,0" class="g8_37" />
+<path d="M110,954.5l96.2,0" class="g8_37" />
+<path d="M206.2,954.5l96.3,0" class="g8_37" />
+<path d="M302.5,954.5l123.7,0" class="g8_37" />
+<path d="M426.2,954.5l82.5,0" class="g8_37" />
+<path d="M508.7,954.5l91.3,0" class="g8_37" />
+<path d="M600,954.5l193.6,0" class="g8_37" />
+<text 
+x="128" 
+y="847" 
+dx="0,0,0,0,0,0,0" 
+class="s2_37"
+>Subject</text>
+
+<text 
+x="224" 
+y="847" 
+dx="0,-1.1,0,0" 
+class="s2_37"
+>Verb</text>
+
+<text 
+x="321" 
+y="847" 
+dx="0,0,0,0,0,0" 
+class="s2_37"
+>Object</text>
+
+<text 
+x="127" 
+y="890" 
+dx="0,-0.2" 
+class="s4_37"
+>Nǐ</text>
+
+<text 
+x="224" 
+y="890" 
+dx="0,0,0,0,0,0" 
+class="s4_37"
+>xǐhuan</text>
+
+<text 
+x="321" 
+y="890" 
+dx="0,0" 
+class="s4_37"
+>tā</text>
+
+<text 
+x="444" 
+y="890" 
+dx="0,0,0" 
+class="s4_37"
+>ma?</text>
+
+<text 
+x="127" 
+y="938" 
+dx="0,-0.8,0" 
+class="s4_37"
+>You</text>
+
+<text 
+x="225" 
+y="938" 
+dx="0,0,0,-0.4" 
+class="s4_37"
+>like</text>
+
+<text 
+x="320" 
+y="938" 
+dx="0,0" 
+class="s4_37"
+>it</text>
+
+<text 
+x="443" 
+y="938" 
+dx="0" 
+class="s4_37"
+>?</text>
+
+<text 
+x="523" 
+y="939" 
+dx="0" 
+class="s7_37"
+>→</text>
+
+<text 
+x="617" 
+y="938" 
+dx="0,0,0,0,-0.3,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s4_37"
+>Do you like it?</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Extrabld_coa;
+	src: url("fonts/ProximaNova-Extrabld_coa.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_cnx;
+	src: url("fonts/Alegreya-Regular_cnx.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_cny;
+	src: url("fonts/Alegreya-Bold_cny.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cnt;
+	src: url("fonts/ProximaNova-Bold_cnt.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cot;
+	src: url("fonts/ProximaNova-Semibold_cot.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

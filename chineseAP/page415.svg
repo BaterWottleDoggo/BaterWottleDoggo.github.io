@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 438 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_438{
+fill: #DC262E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_438{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_438{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_438{
+fill: #FFFFFF;
+}
+.g5_438{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_438{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_438{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dhv;
+fill: #231F20;
+}
+.s2_438{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di-;
+fill: #FFFFFF;
+}
+.s3_438{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #FFFFFF;
+}
+.s4_438{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_diz;
+fill: #909295;
+}
+.s5_438{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dib;
+fill: #3F3F40;
+}
+.s6_438{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #A8A9AD;
+}
+.s7_438{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dim;
+fill: #3F3F40;
+}
+.s8_438{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g1_438" />
+<text 
+x="874" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_438"
+>415 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 736)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_438"
+>Lesson 20 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 828)"
+dx="0,1.2" 
+class="s2_438"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 845)"
+dx="0,1.2,1.2,1.2,1.2,0.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_438"
+>The World Is Getting Smaller </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1080)"
+dx="0,1.2" 
+class="s2_438"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1097)"
+dx="0,-0.3,0.9,0.9" 
+class="s2_438"
+>Text</text>
+
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g2_438" />
+<text 
+x="874" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_438"
+>415 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 869)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,-0.3,0.9,0.9,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s3_438"
+>Appendix: Lesson Texts in English</text>
+
+<path d="M317.9,78.6l0,1062.7" class="g3_438" />
+<text 
+x="144" 
+y="81" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_438"
+>Lesson 18</text>
+
+<text 
+x="398" 
+y="72" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>This semester, besides Chinese, Lisha is also taking an elective course </text>
+
+<text 
+x="398" 
+y="92" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>in Chinese history. China is one of the world’s ancient civilizations, </text>
+
+<text 
+x="398" 
+y="112" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s5_438"
+>with a recorded history of more than four thousand years. In order </text>
+
+<text 
+x="398" 
+y="132" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.9,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.9,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0" 
+class="s5_438"
+>to know more about Chinese history, she asks Li Wen to take her to </text>
+
+<text 
+x="398" 
+y="152" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,0,0,0,0" 
+class="s5_438"
+>the National Museum of China for a visit. Zhang Tianming and Ke Lin </text>
+
+<text 
+x="398" 
+y="172" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>are also interested in Chinese history. When they hear that Lisha is </text>
+
+<text 
+x="398" 
+y="191" 
+dx="0,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>going to visit the museum, they want to go as well. Li Wen very happily </text>
+
+<text 
+x="398" 
+y="211" 
+dx="0,0,0,-0.2,0,0,0" 
+class="s5_438"
+>agrees.</text>
+
+<text 
+x="398" 
+y="231" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_438"
+>The National Museum of China is very big. Chinese history is </text>
+
+<text 
+x="398" 
+y="251" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>only one part of it. Li Wen suggests that they concentrate on just </text>
+
+<text 
+x="398" 
+y="271" 
+dx="0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_438"
+>a few dynasties today. They could visit the museum again later at </text>
+
+<text 
+x="398" 
+y="291" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>a more leisurely pace. Lisha and her friends think that that is an </text>
+
+<text 
+x="398" 
+y="311" 
+dx="0,-0.2,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s5_438"
+>excellent suggestion.</text>
+
+<text 
+x="398" 
+y="346" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_438"
+>Li Wen:</text>
+
+<text 
+x="543" 
+y="346" 
+dx="0,-1.5,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_438"
+>You are all students. I’ll ﬁrst tell you about the </text>
+
+<text 
+x="543" 
+y="366" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.9,0,0,0,0" 
+class="s5_438"
+>most important educator in Chinese history. Do </text>
+
+<text 
+x="543" 
+y="385" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>you know who he is?</text>
+
+<text 
+x="398" 
+y="405" 
+dx="0,0,0,0,0,0" 
+class="s6_438"
+>Lisha:</text>
+
+<text 
+x="543" 
+y="405" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>Is it Confucius?</text>
+
+<text 
+x="398" 
+y="425" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_438"
+>Li Wen:</text>
+
+<text 
+x="543" 
+y="425" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_438"
+>Correct. Confucius was the greatest educator </text>
+
+<text 
+x="543" 
+y="445" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.9,0,0,-0.9,-0.4,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s5_438"
+>and thinker in Chinese history. Even today he </text>
+
+<text 
+x="543" 
+y="465" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>has a great impact on Chinese education.</text>
+
+<text 
+x="398" 
+y="485" 
+dx="0,-0.7,0,0,0,0,0" 
+class="s6_438"
+>Ke Lin:</text>
+
+<text 
+x="543" 
+y="485" 
+dx="0,-0.1,-0.1,-0.1,-1.9,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0" 
+class="s5_438"
+>My T-shirt has a saying by Confucius on it: </text>
+
+<text 
+x="543" 
+y="505" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s5_438"
+>“Having friends from afar—isn’t that a great joy?”</text>
+
+<text 
+x="398" 
+y="524" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_438"
+>Li Wen:</text>
+
+<text 
+x="543" 
+y="524" 
+dx="0,-0.9,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0" 
+class="s5_438"
+>We are now in the Qin dynasty gallery. The </text>
+
+<text 
+x="543" 
+y="544" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_438"
+>First Emperor of the Qin dynasty was the ﬁrst </text>
+
+<text 
+x="543" 
+y="564" 
+dx="0,0,0,0,0,-0.2,0,0" 
+class="s5_438"
+>emperor </text>
+
+<text 
+x="543" 
+y="584" 
+dx="0,-0.2,0,0,0,0,0,0,0" 
+class="s5_438"
+>of China.</text>
+
+<text 
+x="398" 
+y="604" 
+dx="0,0,0,0,0,0" 
+class="s6_438"
+>Lisha:</text>
+
+<text 
+x="543" 
+y="604" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_438"
+>My history teacher said that the First Emperor </text>
+
+<text 
+x="543" 
+y="624" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_438"
+>made a great contribution to the uniﬁcation of </text>
+
+<text 
+x="543" 
+y="644" 
+dx="0,0,0,0,0,0" 
+class="s5_438"
+>China.</text>
+
+<text 
+x="398" 
+y="663" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_438"
+>Li Wen:</text>
+
+<text 
+x="543" 
+y="663" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_438"
+>Correct. He also uniﬁed the script.</text>
+
+<text 
+x="398" 
+y="683" 
+dx="0,-0.7,0,0,0,0,0" 
+class="s6_438"
+>Ke Lin:</text>
+
+<text 
+x="543" 
+y="683" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.8,0,0,0" 
+class="s5_438"
+>And he made the people build the Great Wall.</text>
+
+<text 
+x="398" 
+y="703" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_438"
+>Li Wen:</text>
+
+<text 
+x="543" 
+y="703" 
+dx="0,-0.8,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>Was everything he did right?</text>
+
+<text 
+x="398" 
+y="723" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_438"
+>Zhang Tianming:</text>
+
+<text 
+x="543" 
+y="723" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>He killed several hundred scholars and burned </text>
+
+<text 
+x="543" 
+y="743" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>many classics. Is that right?</text>
+
+<text 
+x="398" 
+y="763" 
+dx="0,0,0,0,0,0" 
+class="s6_438"
+>Lisha:</text>
+
+<text 
+x="543" 
+y="763" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>And he made many many people build palaces </text>
+
+<text 
+x="543" 
+y="783" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s5_438"
+>and a tomb for him.</text>
+
+<text 
+x="398" 
+y="802" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_438"
+>Li Wen:</text>
+
+<text 
+x="543" 
+y="802" 
+dx="0,-1.5,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>You are all correct. Look, these are the First </text>
+
+<text 
+x="543" 
+y="822" 
+dx="0,0,0,0,0,-0.2,0,0,-1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>Emperor’s terracotta warriors. Even in death, he </text>
+
+<text 
+x="543" 
+y="842" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0" 
+class="s5_438"
+>made so many “warriors” protect him.</text>
+
+<text 
+x="543" 
+y="862" 
+dx="0,0,0,0,0" 
+class="s5_438"
+>. . .</text>
+
+<text 
+x="398" 
+y="882" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_438"
+>Li Wen:</text>
+
+<text 
+x="543" 
+y="882" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.1,0" 
+class="s5_438"
+>The Qin dynasty didn’t last long. The next </text>
+
+<text 
+x="543" 
+y="902" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>important dynasty is the Han dynasty. The Han </text>
+
+<text 
+x="543" 
+y="921" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0" 
+class="s5_438"
+>made great strides politically and economically. </text>
+
+<text 
+x="543" 
+y="941" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_438"
+>The term “Han” [for the Han ethnicity] originated </text>
+
+<text 
+x="543" 
+y="961" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9" 
+class="s5_438"
+>with the Han dynasty.</text>
+
+<text 
+x="398" 
+y="981" 
+dx="0,0,0,0,0,0" 
+class="s6_438"
+>Lisha:</text>
+
+<text 
+x="543" 
+y="981" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>The Silk Road also has to do with the Han </text>
+
+<text 
+x="543" 
+y="1001" 
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0" 
+class="s5_438"
+>dynasty, right?</text>
+
+<text 
+x="398" 
+y="1021" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_438"
+>Li Wen:</text>
+
+<text 
+x="543" 
+y="1021" 
+dx="0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>Right. Trade with the West started in the Han </text>
+
+<text 
+x="543" 
+y="1041" 
+dx="0,0,0,0,0,0,0,-0.9" 
+class="s5_438"
+>dynasty.</text>
+
+<text 
+x="398" 
+y="1060" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_438"
+>Zhang Tianming:</text>
+
+<text 
+x="543" 
+y="1060" 
+dx="0,0,0,0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>Look, we’ve come to the Tang [gallery]. My dad </text>
+
+<text 
+x="543" 
+y="1080" 
+dx="0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s5_438"
+>often says that Chinese Tang poetry is very </text>
+
+<text 
+x="543" 
+y="1100" 
+dx="0,0,0,0,0,0,0" 
+class="s5_438"
+>famous.</text>
+
+<text 
+x="398" 
+y="1120" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_438"
+>Li Wen:</text>
+
+<text 
+x="543" 
+y="1120" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>Correct. Many great poets emerged during the </text>
+
+<text 
+x="543" 
+y="1140" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_438"
+>Tang dynasty. Whose poems have you studied?</text>
+
+<path d="M281.6,57.7c0,0,-15.3,0,-15.3,15.2l0,3.1c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g4_438" />
+<text 
+x="301" 
+y="81" 
+dx="0,-1.8,-0.6,-0.7" 
+class="s8_438"
+>Text</text>
+
+<path d="M281.6,56.9c-0.2,0,-16.1,0.2,-16.1,16l0,3.1c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.1,0Z" class="g5_438" />
+<path d="M281.6,58.9c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.1,0Z" class="g6_438" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di3;
+	src: url("fonts/LibreFranklin-SemiBold_di3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dim;
+	src: url("fonts/LibreFranklin-Light_dim.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dib;
+	src: url("fonts/LibreFranklin-Light_dib.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dhv;
+	src: url("fonts/LibreFranklin-Medium_dhv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di-;
+	src: url("fonts/LibreFranklin-SemiBold_di-.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_diz;
+	src: url("fonts/LibreFranklin-ExtraBold_diz.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

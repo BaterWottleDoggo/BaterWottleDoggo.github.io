@@ -1,0 +1,1975 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 27 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_27{
+fill: #7AAD35;
+}
+.g2_27{
+fill: #F3F4F4;
+}
+.g3_27{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_27{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_27{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_27{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_27{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_27{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_27{
+font-size: 14.82px;
+font-family: ProximaNova-Bold_2ss;
+fill: #FFFFFF;
+}
+.s2_27{
+font-size: 14.82px;
+font-family: ProximaNova-Medium_2sm;
+fill: #7AAD35;
+}
+.s3_27{
+font-size: 18.33px;
+font-family: Marion-Italic_2sy;
+fill: #537D23;
+}
+.s4_27{
+font-size: 19.10px;
+font-family: Marion-Italic_2sy;
+fill: #537D23;
+}
+.s5_27{
+font-size: 14.82px;
+font-family: ProximaNova-Bold_2ss;
+fill: #7AAD35;
+}
+.s6_27{
+font-size: 24.44px;
+font-family: Marion-Italic_2sy;
+fill: #537D23;
+}
+.s7_27{
+font-size: 14.82px;
+font-family: ProximaNova-Regular_2sw;
+fill: #3F3F40;
+}
+.s8_27{
+font-size: 17.57px;
+font-family: Marion-Italic_2sy;
+fill: #537D23;
+}
+.s9_27{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_2ss;
+fill: #3F3F40;
+}
+.s10_27{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2s-;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M232.7,663.6l55,0l0,24l-55,0l0,-24Z" class="g1_27" />
+<path d="M232.7,687.6l55,0l0,34.3l-55,0l0,-34.3Zm55,0l55,0l0,34.3l-55,0l0,-34.3Zm55,0l55,0l0,34.3l-55,0l0,-34.3Zm55,0l55,0l0,34.3l-55,0l0,-34.3Zm-165,68.7l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Z" class="g2_27" />
+<path d="M232.7,825.1l55,0" class="g3_27" />
+<path d="M287.7,825.1l55,0" class="g3_27" />
+<path d="M342.7,825.1l55,0" class="g3_27" />
+<path d="M397.7,825.1l55,0" class="g3_27" />
+<path d="M232.7,721.9l55,0" class="g4_27" />
+<path d="M287.7,721.9l55,0" class="g4_27" />
+<path d="M342.7,721.9l55,0" class="g4_27" />
+<path d="M397.7,721.9l55,0" class="g4_27" />
+<path d="M232.7,756.3l55,0" class="g4_27" />
+<path d="M287.7,756.3l55,0" class="g4_27" />
+<path d="M342.7,756.3l55,0" class="g4_27" />
+<path d="M397.7,756.3l55,0" class="g4_27" />
+<path d="M232.7,687.6l55,0" class="g5_27" />
+<path d="M287.7,687.6l55,0" class="g5_27" />
+<path d="M342.7,687.6l55,0" class="g5_27" />
+<path d="M397.7,687.6l55,0" class="g5_27" />
+<path d="M232.7,790.7l55,0" class="g4_27" />
+<path d="M287.7,790.7l55,0" class="g4_27" />
+<path d="M342.7,790.7l55,0" class="g4_27" />
+<path d="M397.7,790.7l55,0" class="g4_27" />
+<text 
+x="238" 
+y="681" 
+dx="0,0,0,0,0" 
+class="s1_27"
+>B.6.a</text>
+
+<text 
+transform="matrix(0.9, 0, 0, 1, 293, 681)"
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s2_27"
+>(Initial-Final Combinations)</text>
+
+<text 
+x="238" 
+y="711" 
+dx="0,0,0" 
+class="s3_27"
+>zha</text>
+
+<text 
+x="293" 
+y="711" 
+dx="0,0,0" 
+class="s3_27"
+>zhu</text>
+
+<text 
+x="348" 
+y="711" 
+dx="0,0,0" 
+class="s3_27"
+>zhe</text>
+
+<text 
+x="403" 
+y="711" 
+dx="0,0,0" 
+class="s3_27"
+>zhi</text>
+
+<text 
+x="238" 
+y="745" 
+dx="0,0,0" 
+class="s3_27"
+>cha</text>
+
+<text 
+x="293" 
+y="745" 
+dx="0,0,0" 
+class="s3_27"
+>chu</text>
+
+<text 
+x="348" 
+y="745" 
+dx="0,0,0" 
+class="s3_27"
+>che</text>
+
+<text 
+x="403" 
+y="745" 
+dx="0,0,0" 
+class="s3_27"
+>chi</text>
+
+<text 
+x="238" 
+y="779" 
+dx="0,0,0" 
+class="s3_27"
+>sha</text>
+
+<text 
+x="293" 
+y="779" 
+dx="0,0,0" 
+class="s3_27"
+>shu</text>
+
+<text 
+x="348" 
+y="779" 
+dx="0,0,0" 
+class="s3_27"
+>she</text>
+
+<text 
+x="403" 
+y="779" 
+dx="0,0,0" 
+class="s3_27"
+>shi</text>
+
+<text 
+x="238" 
+y="814" 
+dx="0,0" 
+class="s3_27"
+>ru</text>
+
+<text 
+x="293" 
+y="814" 
+dx="0,0" 
+class="s3_27"
+>re</text>
+
+<text 
+x="348" 
+y="814" 
+dx="0,0" 
+class="s3_27"
+>ri</text>
+
+<path d="M232.7,909.3l55,0l0,25.6l-55,0l0,-25.6Z" class="g1_27" />
+<path d="M232.7,934.9l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Z" class="g2_27" />
+<path d="M232.7,934.9l55,0" class="g5_27" />
+<path d="M287.7,934.9l55,0" class="g5_27" />
+<path d="M342.7,934.9l55,0" class="g5_27" />
+<path d="M397.7,934.9l55,0" class="g5_27" />
+<path d="M232.7,969.3l55,0" class="g3_27" />
+<path d="M287.7,969.3l55,0" class="g3_27" />
+<path d="M342.7,969.3l55,0" class="g3_27" />
+<path d="M397.7,969.3l55,0" class="g3_27" />
+<text 
+x="238" 
+y="927" 
+dx="0,0,0,0,-0.1" 
+class="s1_27"
+>B.6.c</text>
+
+<text 
+x="321" 
+y="928" 
+dx="0,0" 
+class="s4_27"
+>zh</text>
+
+<text 
+x="340" 
+y="928" 
+dx="0,0,0,0" 
+class="s5_27"
+>vs. </text>
+
+<text 
+x="362" 
+y="928" 
+dx="0,0" 
+class="s4_27"
+>ch</text>
+
+<text 
+x="238" 
+y="958" 
+dx="0,0,0" 
+class="s3_27"
+>zha</text>
+
+<text 
+x="293" 
+y="958" 
+dx="0,0,0" 
+class="s3_27"
+>cha</text>
+
+<text 
+x="348" 
+y="958" 
+dx="0,0,0" 
+class="s3_27"
+>zhu</text>
+
+<text 
+x="403" 
+y="958" 
+dx="0,0,0" 
+class="s3_27"
+>chu</text>
+
+<path d="M232.7,1053.3l55,0l0,25.5l-55,0l0,-25.5Z" class="g1_27" />
+<path d="M232.7,1078.8l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Z" class="g2_27" />
+<path d="M232.7,1113.2l55,0" class="g4_27" />
+<path d="M287.7,1113.2l55,0" class="g4_27" />
+<path d="M342.7,1113.2l55,0" class="g4_27" />
+<path d="M397.7,1113.2l55,0" class="g4_27" />
+<path d="M232.7,1078.8l55,0" class="g5_27" />
+<path d="M287.7,1078.8l55,0" class="g5_27" />
+<path d="M342.7,1078.8l55,0" class="g5_27" />
+<path d="M397.7,1078.8l55,0" class="g5_27" />
+<path d="M232.7,1147.6l55,0" class="g3_27" />
+<path d="M287.7,1147.6l55,0" class="g3_27" />
+<path d="M342.7,1147.6l55,0" class="g3_27" />
+<path d="M397.7,1147.6l55,0" class="g3_27" />
+<text 
+x="238" 
+y="1071" 
+dx="0,0,0,0,-0.1" 
+class="s1_27"
+>B.6.e</text>
+
+<text 
+x="315" 
+y="1072" 
+dx="0,0" 
+class="s4_27"
+>zh</text>
+
+<text 
+x="330" 
+y="1072" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="337" 
+y="1072" 
+dx="0,0" 
+class="s4_27"
+>ch</text>
+
+<text 
+x="352" 
+y="1072" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="359" 
+y="1072" 
+dx="0,0" 
+class="s4_27"
+>sh</text>
+
+<text 
+x="238" 
+y="1102" 
+dx="0,0,0" 
+class="s3_27"
+>shi</text>
+
+<text 
+x="293" 
+y="1102" 
+dx="0,0,0" 
+class="s3_27"
+>zhi</text>
+
+<text 
+x="348" 
+y="1102" 
+dx="0,0,0" 
+class="s3_27"
+>chi</text>
+
+<text 
+x="403" 
+y="1102" 
+dx="0,0,0" 
+class="s3_27"
+>shi</text>
+
+<text 
+x="238" 
+y="1136" 
+dx="0,0,0" 
+class="s3_27"
+>she</text>
+
+<text 
+x="293" 
+y="1136" 
+dx="0,0,0" 
+class="s3_27"
+>zhe</text>
+
+<text 
+x="348" 
+y="1136" 
+dx="0,0,0" 
+class="s3_27"
+>che</text>
+
+<text 
+x="403" 
+y="1136" 
+dx="0,0,0" 
+class="s3_27"
+>she</text>
+
+<path d="M476.4,743.8l55,0l0,25.6l-55,0l0,-25.6Z" class="g1_27" />
+<path d="M476.4,769.4l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Z" class="g2_27" />
+<path d="M476.4,803.8l55,0" class="g3_27" />
+<path d="M531.4,803.8l55,0" class="g3_27" />
+<path d="M586.4,803.8l55,0" class="g3_27" />
+<path d="M641.4,803.8l55,0" class="g3_27" />
+<path d="M476.4,769.4l55,0" class="g5_27" />
+<path d="M531.4,769.4l55,0" class="g5_27" />
+<path d="M586.4,769.4l55,0" class="g5_27" />
+<path d="M641.4,769.4l55,0" class="g5_27" />
+<text 
+x="482" 
+y="761" 
+dx="0,0,0,0,-0.1" 
+class="s1_27"
+>B.6.g</text>
+
+<text 
+x="565" 
+y="763" 
+dx="0" 
+class="s4_27"
+>r</text>
+
+<text 
+x="574" 
+y="763" 
+dx="0,0,0,0" 
+class="s5_27"
+>vs. </text>
+
+<text 
+x="597" 
+y="763" 
+dx="0" 
+class="s4_27"
+>l</text>
+
+<text 
+x="482" 
+y="793" 
+dx="0,0" 
+class="s3_27"
+>lu</text>
+
+<text 
+x="537" 
+y="793" 
+dx="0,0" 
+class="s3_27"
+>ru</text>
+
+<text 
+x="592" 
+y="793" 
+dx="0,0" 
+class="s3_27"
+>li</text>
+
+<text 
+x="647" 
+y="793" 
+dx="0,0" 
+class="s3_27"
+>ri</text>
+
+<path d="M476.4,904.3l55,0l0,25.6l-55,0l0,-25.6Z" class="g1_27" />
+<path d="M476.4,929.9l55,0l0,34.3l-55,0l0,-34.3Zm55,0l55,0l0,34.3l-55,0l0,-34.3Zm55,0l55,0l0,34.3l-55,0l0,-34.3Zm55,0l55,0l0,34.3l-55,0l0,-34.3Z" class="g2_27" />
+<path d="M476.4,964.2l55,0" class="g3_27" />
+<path d="M531.4,964.2l55,0" class="g3_27" />
+<path d="M586.4,964.2l55,0" class="g3_27" />
+<path d="M641.4,964.2l55,0" class="g3_27" />
+<path d="M476.4,929.9l55,0" class="g5_27" />
+<path d="M531.4,929.9l55,0" class="g5_27" />
+<path d="M586.4,929.9l55,0" class="g5_27" />
+<path d="M641.4,929.9l55,0" class="g5_27" />
+<text 
+x="482" 
+y="922" 
+dx="0,0,0,0,0" 
+class="s1_27"
+>B.6.i</text>
+
+<text 
+x="565" 
+y="923" 
+dx="0,0" 
+class="s4_27"
+>zh</text>
+
+<text 
+x="579" 
+y="923" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="587" 
+y="923" 
+dx="0,0" 
+class="s4_27"
+>ch</text>
+
+<text 
+x="602" 
+y="923" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="609" 
+y="923" 
+dx="0" 
+class="s4_27"
+>r</text>
+
+<text 
+x="482" 
+y="953" 
+dx="0,0,0" 
+class="s3_27"
+>zhe</text>
+
+<text 
+x="537" 
+y="953" 
+dx="0,0" 
+class="s3_27"
+>re</text>
+
+<text 
+x="592" 
+y="953" 
+dx="0,0,0" 
+class="s3_27"
+>che</text>
+
+<text 
+x="647" 
+y="953" 
+dx="0,0" 
+class="s3_27"
+>re</text>
+
+<path d="M232.7,837.4l55,0l0,25.6l-55,0l0,-25.6Z" class="g1_27" />
+<path d="M232.7,863l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Z" class="g2_27" />
+<path d="M232.7,863l55,0" class="g5_27" />
+<path d="M287.7,863l55,0" class="g5_27" />
+<path d="M342.7,863l55,0" class="g5_27" />
+<path d="M397.7,863l55,0" class="g5_27" />
+<path d="M232.7,897.4l55,0" class="g3_27" />
+<path d="M287.7,897.4l55,0" class="g3_27" />
+<path d="M342.7,897.4l55,0" class="g3_27" />
+<path d="M397.7,897.4l55,0" class="g3_27" />
+<text 
+x="238" 
+y="855" 
+dx="0,0,0,0,0" 
+class="s1_27"
+>B.6.b</text>
+
+<text 
+x="321" 
+y="856" 
+dx="0,0" 
+class="s4_27"
+>zh</text>
+
+<text 
+x="340" 
+y="856" 
+dx="0,0,0,0" 
+class="s5_27"
+>vs. </text>
+
+<text 
+x="362" 
+y="856" 
+dx="0,0" 
+class="s4_27"
+>sh</text>
+
+<text 
+x="238" 
+y="886" 
+dx="0,0,0" 
+class="s3_27"
+>sha</text>
+
+<text 
+x="293" 
+y="886" 
+dx="0,0,0" 
+class="s3_27"
+>zha</text>
+
+<text 
+x="348" 
+y="886" 
+dx="0,0,0" 
+class="s3_27"
+>shu</text>
+
+<text 
+x="403" 
+y="886" 
+dx="0,0,0" 
+class="s3_27"
+>zhu</text>
+
+<path d="M232.7,981.3l55,0l0,25.6l-55,0l0,-25.6Z" class="g1_27" />
+<path d="M232.7,1006.9l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Z" class="g2_27" />
+<path d="M232.7,1041.3l55,0" class="g3_27" />
+<path d="M287.7,1041.3l55,0" class="g3_27" />
+<path d="M342.7,1041.3l55,0" class="g3_27" />
+<path d="M397.7,1041.3l55,0" class="g3_27" />
+<path d="M232.7,1006.9l55,0" class="g5_27" />
+<path d="M287.7,1006.9l55,0" class="g5_27" />
+<path d="M342.7,1006.9l55,0" class="g5_27" />
+<path d="M397.7,1006.9l55,0" class="g5_27" />
+<text 
+x="238" 
+y="999" 
+dx="0,0,0,0,-0.1" 
+class="s1_27"
+>B.6.d</text>
+
+<text 
+x="321" 
+y="1000" 
+dx="0,0" 
+class="s4_27"
+>ch</text>
+
+<text 
+x="340" 
+y="1000" 
+dx="0,0,0,0" 
+class="s5_27"
+>vs. </text>
+
+<text 
+x="362" 
+y="1000" 
+dx="0,0" 
+class="s4_27"
+>sh</text>
+
+<text 
+x="238" 
+y="1030" 
+dx="0,0,0" 
+class="s3_27"
+>chu</text>
+
+<text 
+x="293" 
+y="1030" 
+dx="0,0,0" 
+class="s3_27"
+>shu</text>
+
+<text 
+x="348" 
+y="1030" 
+dx="0,0,0" 
+class="s3_27"
+>sha</text>
+
+<text 
+x="403" 
+y="1030" 
+dx="0,0,0" 
+class="s3_27"
+>cha</text>
+
+<path d="M476.4,663.6l55,0l0,25.6l-55,0l0,-25.6Z" class="g1_27" />
+<path d="M476.4,689.2l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Z" class="g2_27" />
+<path d="M476.4,723.6l55,0" class="g3_27" />
+<path d="M531.4,723.6l55,0" class="g3_27" />
+<path d="M586.4,723.6l55,0" class="g3_27" />
+<path d="M641.4,723.6l55,0" class="g3_27" />
+<path d="M476.4,689.2l55,0" class="g5_27" />
+<path d="M531.4,689.2l55,0" class="g5_27" />
+<path d="M586.4,689.2l55,0" class="g5_27" />
+<path d="M641.4,689.2l55,0" class="g5_27" />
+<text 
+x="482" 
+y="681" 
+dx="0,0,0,0,-0.4" 
+class="s1_27"
+>B.6.f</text>
+
+<text 
+x="565" 
+y="683" 
+dx="0,0" 
+class="s4_27"
+>sh</text>
+
+<text 
+x="582" 
+y="683" 
+dx="0,0,0,0" 
+class="s5_27"
+>vs. </text>
+
+<text 
+x="604" 
+y="683" 
+dx="0" 
+class="s4_27"
+>r</text>
+
+<text 
+x="482" 
+y="712" 
+dx="0,0,0" 
+class="s3_27"
+>shu</text>
+
+<text 
+x="537" 
+y="712" 
+dx="0,0" 
+class="s3_27"
+>ru</text>
+
+<text 
+x="592" 
+y="712" 
+dx="0,0,0" 
+class="s3_27"
+>shi</text>
+
+<text 
+x="647" 
+y="712" 
+dx="0,0" 
+class="s3_27"
+>ri</text>
+
+<path d="M476.4,824.1l55,0l0,25.6l-55,0l0,-25.6Z" class="g1_27" />
+<path d="M476.4,849.7l55,0l0,34.3l-55,0l0,-34.3Zm55,0l55,0l0,34.3l-55,0l0,-34.3Zm55,0l55,0l0,34.3l-55,0l0,-34.3Zm55,0l55,0l0,34.3l-55,0l0,-34.3Z" class="g2_27" />
+<path d="M476.4,884l55,0" class="g3_27" />
+<path d="M531.4,884l55,0" class="g3_27" />
+<path d="M586.4,884l55,0" class="g3_27" />
+<path d="M641.4,884l55,0" class="g3_27" />
+<path d="M476.4,849.7l55,0" class="g5_27" />
+<path d="M531.4,849.7l55,0" class="g5_27" />
+<path d="M586.4,849.7l55,0" class="g5_27" />
+<path d="M641.4,849.7l55,0" class="g5_27" />
+<text 
+x="482" 
+y="841" 
+dx="0,0,0,0,0" 
+class="s1_27"
+>B.6.h</text>
+
+<text 
+x="565" 
+y="843" 
+dx="0,0" 
+class="s4_27"
+>sh</text>
+
+<text 
+x="578" 
+y="843" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="586" 
+y="843" 
+dx="0" 
+class="s4_27"
+>r</text>
+
+<text 
+x="592" 
+y="843" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="599" 
+y="843" 
+dx="0" 
+class="s4_27"
+>l</text>
+
+<text 
+x="482" 
+y="873" 
+dx="0,0,0" 
+class="s3_27"
+>she</text>
+
+<text 
+x="537" 
+y="873" 
+dx="0,0" 
+class="s3_27"
+>re</text>
+
+<text 
+x="592" 
+y="873" 
+dx="0,0" 
+class="s3_27"
+>le</text>
+
+<text 
+x="647" 
+y="873" 
+dx="0,0" 
+class="s3_27"
+>re</text>
+
+<path d="M476.4,984.5l55,0l0,25.6l-55,0l0,-25.6Z" class="g1_27" />
+<path d="M476.4,1010.1l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm-165,68.7l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Z" class="g2_27" />
+<path d="M476.4,1147.6l55,0" class="g3_27" />
+<path d="M531.4,1147.6l55,0" class="g3_27" />
+<path d="M586.4,1147.6l55,0" class="g3_27" />
+<path d="M641.4,1147.6l55,0" class="g3_27" />
+<path d="M476.4,1044.5l55,0" class="g4_27" />
+<path d="M531.4,1044.5l55,0" class="g4_27" />
+<path d="M586.4,1044.5l55,0" class="g4_27" />
+<path d="M641.4,1044.5l55,0" class="g4_27" />
+<path d="M476.4,1078.8l55,0" class="g4_27" />
+<path d="M531.4,1078.8l55,0" class="g4_27" />
+<path d="M586.4,1078.8l55,0" class="g4_27" />
+<path d="M641.4,1078.8l55,0" class="g4_27" />
+<path d="M476.4,1113.2l55,0" class="g4_27" />
+<path d="M531.4,1113.2l55,0" class="g4_27" />
+<path d="M586.4,1113.2l55,0" class="g4_27" />
+<path d="M641.4,1113.2l55,0" class="g4_27" />
+<path d="M476.4,1010.1l55,0" class="g5_27" />
+<path d="M531.4,1010.1l55,0" class="g5_27" />
+<path d="M586.4,1010.1l55,0" class="g5_27" />
+<path d="M641.4,1010.1l55,0" class="g5_27" />
+<text 
+x="482" 
+y="1002" 
+dx="0,0,0,0,0.6" 
+class="s1_27"
+>B.6.j</text>
+
+<text 
+x="565" 
+y="1003" 
+dx="0,0" 
+class="s4_27"
+>zh</text>
+
+<text 
+x="579" 
+y="1003" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="587" 
+y="1003" 
+dx="0,0" 
+class="s4_27"
+>ch</text>
+
+<text 
+x="602" 
+y="1003" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="609" 
+y="1003" 
+dx="0,0" 
+class="s4_27"
+>sh</text>
+
+<text 
+x="623" 
+y="1003" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="630" 
+y="1003" 
+dx="0" 
+class="s4_27"
+>r</text>
+
+<text 
+x="482" 
+y="1033" 
+dx="0,0,0" 
+class="s3_27"
+>sha</text>
+
+<text 
+x="537" 
+y="1033" 
+dx="0,0,0" 
+class="s3_27"
+>cha</text>
+
+<text 
+x="592" 
+y="1033" 
+dx="0,0,0" 
+class="s3_27"
+>zha</text>
+
+<text 
+x="482" 
+y="1068" 
+dx="0,0,0" 
+class="s3_27"
+>shu</text>
+
+<text 
+x="537" 
+y="1068" 
+dx="0,0,0" 
+class="s3_27"
+>zhu</text>
+
+<text 
+x="592" 
+y="1068" 
+dx="0,0,0" 
+class="s3_27"
+>chu</text>
+
+<text 
+x="647" 
+y="1068" 
+dx="0,0" 
+class="s3_27"
+>ru</text>
+
+<text 
+x="482" 
+y="1102" 
+dx="0,0,0" 
+class="s3_27"
+>zhi</text>
+
+<text 
+x="537" 
+y="1102" 
+dx="0,0,0" 
+class="s3_27"
+>chi</text>
+
+<text 
+x="592" 
+y="1102" 
+dx="0,0,0" 
+class="s3_27"
+>shi</text>
+
+<text 
+x="647" 
+y="1102" 
+dx="0,0" 
+class="s3_27"
+>ri</text>
+
+<text 
+x="482" 
+y="1136" 
+dx="0,0,0" 
+class="s3_27"
+>che</text>
+
+<text 
+x="537" 
+y="1136" 
+dx="0,0,0" 
+class="s3_27"
+>zhe</text>
+
+<text 
+x="592" 
+y="1136" 
+dx="0,0,0" 
+class="s3_27"
+>she</text>
+
+<text 
+x="647" 
+y="1136" 
+dx="0,0" 
+class="s3_27"
+>re</text>
+
+<text 
+x="172" 
+y="353" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_27"
+>zh, ch, sh, r</text>
+
+<text 
+x="172" 
+y="391" 
+dx="0,-1.7,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s7_27"
+>To make the </text>
+
+<text 
+x="255" 
+y="391" 
+dx="0,0" 
+class="s8_27"
+>zh</text>
+
+<text 
+x="273" 
+y="391" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_27"
+>sound, first curl up the tip of your tongue against your hard palate, then loosen it </text>
+
+<text 
+x="172" 
+y="409" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_27"
+>and let the air squeeze out through the channel you’ve made. It is unaspirated and the vocal cords </text>
+
+<text 
+x="172" 
+y="427" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s7_27"
+>do not vibrate. </text>
+
+<text 
+x="270" 
+y="427" 
+dx="0,0" 
+class="s8_27"
+>zh</text>
+
+<text 
+x="287" 
+y="427" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_27"
+>sounds rather like the first sound in “jerk,” but it is unvoiced.</text>
+
+<text 
+x="172" 
+y="451" 
+dx="0,0" 
+class="s8_27"
+>ch</text>
+
+<text 
+x="190" 
+y="451" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s7_27"
+>is pronounced like </text>
+
+<text 
+x="313" 
+y="451" 
+dx="0,0" 
+class="s8_27"
+>zh</text>
+
+<text 
+x="326" 
+y="451" 
+dx="0,0,0,0,0,0" 
+class="s7_27"
+>, but </text>
+
+<text 
+x="358" 
+y="451" 
+dx="0,0" 
+class="s8_27"
+>ch</text>
+
+<text 
+x="375" 
+y="451" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_27"
+>is aspirated. </text>
+
+<text 
+x="457" 
+y="451" 
+dx="0,0" 
+class="s8_27"
+>ch</text>
+
+<text 
+x="474" 
+y="451" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.1,-1.1" 
+class="s7_27"
+>sounds rather like the “ch” in “chirp.”</text>
+
+<text 
+x="172" 
+y="476" 
+dx="0,-2.1,-0.4,-0.4,-0.4,-0.4,-0.8,-0.4,-0.4,-0.4,-0.4,-0.4" 
+class="s7_27"
+>To make the </text>
+
+<text 
+x="250" 
+y="476" 
+dx="0,-0.5" 
+class="s8_27"
+>sh</text>
+
+<text 
+x="265" 
+y="476" 
+dx="0,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,0" 
+class="s7_27"
+>sound, turn the tip of your tongue up toward (but not touching) the hard palate and then let </text>
+
+<text 
+x="172" 
+y="494" 
+dx="0,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.5,-0.4" 
+class="s7_27"
+>the air squeeze out. The vocal cords do not vibrate. </text>
+
+<text 
+x="485" 
+y="494" 
+dx="0,-0.5" 
+class="s8_27"
+>sh</text>
+
+<text 
+x="500" 
+y="494" 
+dx="0,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.8,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.9,-0.4,-0.5,-0.4,-0.4,-0.4,-0.4,-0.4,-0.9,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-1.3,-1.6" 
+class="s7_27"
+>sounds rather like the “sh” in “shirt” and “Shirley.”</text>
+
+<text 
+x="172" 
+y="518" 
+dx="0" 
+class="s8_27"
+>r</text>
+
+<text 
+x="182" 
+y="518" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_27"
+>is pronounced in the same manner as </text>
+
+<text 
+x="429" 
+y="518" 
+dx="0,0" 
+class="s8_27"
+>sh</text>
+
+<text 
+x="441" 
+y="518" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s7_27"
+>, but it is voiced; therefore, the vocal cords vibrate. </text>
+
+<text 
+x="172" 
+y="536" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_27"
+>Pronounce it simply by prolonging</text>
+
+<text 
+x="398" 
+y="536" 
+dx="0,0" 
+class="s8_27"
+>sh</text>
+
+<text 
+x="410" 
+y="536" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_27"
+>, making sure your lips are not rounded.</text>
+
+<text 
+x="172" 
+y="561" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s7_27"
+>The finals that can be combined with </text>
+
+<text 
+x="420" 
+y="561" 
+dx="0,0.2" 
+class="s8_27"
+>zh</text>
+
+<text 
+x="433" 
+y="561" 
+dx="0,0.1" 
+class="s7_27"
+>, </text>
+
+<text 
+x="441" 
+y="561" 
+dx="0,0.2" 
+class="s8_27"
+>ch</text>
+
+<text 
+x="455" 
+y="561" 
+dx="0,0.1" 
+class="s7_27"
+>, </text>
+
+<text 
+x="462" 
+y="561" 
+dx="0,0.2" 
+class="s8_27"
+>sh</text>
+
+<text 
+x="475" 
+y="561" 
+dx="0,0.1,0.1,0.1,0.1,0.1" 
+class="s7_27"
+>, and </text>
+
+<text 
+x="511" 
+y="561" 
+dx="0" 
+class="s8_27"
+>r</text>
+
+<text 
+x="521" 
+y="561" 
+dx="0,0.1,0.1,0.1" 
+class="s7_27"
+>are </text>
+
+<text 
+x="546" 
+y="561" 
+dx="0" 
+class="s8_27"
+>a</text>
+
+<text 
+x="554" 
+y="561" 
+dx="0,0.1" 
+class="s7_27"
+>, </text>
+
+<text 
+x="561" 
+y="561" 
+dx="0" 
+class="s8_27"
+>e</text>
+
+<text 
+x="568" 
+y="561" 
+dx="0,0.1" 
+class="s7_27"
+>, </text>
+
+<text 
+x="575" 
+y="561" 
+dx="0" 
+class="s8_27"
+>u</text>
+
+<text 
+x="583" 
+y="561" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s7_27"
+>, and the back apical vowel</text>
+
+<text 
+x="767" 
+y="561" 
+dx="0" 
+class="s8_27"
+>i</text>
+
+<text 
+x="771" 
+y="561" 
+dx="0,0.1,0.1,0.1,0" 
+class="s7_27"
+>, as </text>
+
+<text 
+x="172" 
+y="579" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s7_27"
+>well as compound finals that start with </text>
+
+<text 
+x="429" 
+y="579" 
+dx="0" 
+class="s8_27"
+>a</text>
+
+<text 
+x="436" 
+y="579" 
+dx="0,0.1" 
+class="s7_27"
+>, </text>
+
+<text 
+x="444" 
+y="579" 
+dx="0" 
+class="s8_27"
+>e</text>
+
+<text 
+x="450" 
+y="579" 
+dx="0,0.1,0.1,0.1,0.1" 
+class="s7_27"
+>, or </text>
+
+<text 
+x="475" 
+y="579" 
+dx="0" 
+class="s8_27"
+>u</text>
+
+<text 
+x="483" 
+y="579" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s7_27"
+>. When pronouncing the syllables </text>
+
+<text 
+x="707" 
+y="579" 
+dx="0,0.2,0.2" 
+class="s8_27"
+>zhi</text>
+
+<text 
+x="725" 
+y="579" 
+dx="0,0.1" 
+class="s7_27"
+>, </text>
+
+<text 
+x="732" 
+y="579" 
+dx="0,0.2,0.2" 
+class="s8_27"
+>chi</text>
+
+<text 
+x="750" 
+y="579" 
+dx="0,0.1" 
+class="s7_27"
+>, </text>
+
+<text 
+x="758" 
+y="579" 
+dx="0,0.2,0.2" 
+class="s8_27"
+>shi</text>
+
+<text 
+x="775" 
+y="579" 
+dx="0,0.1,0.1,0.1,0.1,0" 
+class="s7_27"
+>, and </text>
+
+<text 
+x="172" 
+y="596" 
+dx="0,0.2" 
+class="s8_27"
+>ri</text>
+
+<text 
+x="182" 
+y="596" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0" 
+class="s7_27"
+>, hold your tongue in the same position; relax it slightly as the articulation moves from the initial </text>
+
+<text 
+x="172" 
+y="614" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s7_27"
+>consonant to the vowel.</text>
+
+<text 
+x="172" 
+y="639" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_27"
+>Practice your pronunciation with the audio exercises below: </text>
+
+<text 
+x="118" 
+y="359" 
+dx="0,0,0" 
+class="s9_27"
+>B.6</text>
+
+<path d="M119.3,336.8c-0.1,0,-7.6,0,-7.6,7.6l0,19.3c0,0.1,0.1,7.7,7.6,7.7l22.2,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.3c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.2,0Z" class="g6_27" />
+<path d="M119.3,338.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.3c0,0.6,0.2,5.6,5.6,5.6l22.2,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.3c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.2,0Z" class="g7_27" />
+<path d="M232.7,55l55,0l0,25.6l-55,0l0,-25.6Z" class="g1_27" />
+<path d="M232.7,80.6l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Z" class="g2_27" />
+<path d="M232.7,115l55,0" class="g4_27" />
+<path d="M287.7,115l55,0" class="g4_27" />
+<path d="M342.7,115l55,0" class="g4_27" />
+<path d="M397.7,115l55,0" class="g4_27" />
+<path d="M232.7,80.6l55,0" class="g5_27" />
+<path d="M287.7,80.6l55,0" class="g5_27" />
+<path d="M342.7,80.6l55,0" class="g5_27" />
+<path d="M397.7,80.6l55,0" class="g5_27" />
+<path d="M232.7,149.3l55,0" class="g3_27" />
+<path d="M287.7,149.3l55,0" class="g3_27" />
+<path d="M342.7,149.3l55,0" class="g3_27" />
+<path d="M397.7,149.3l55,0" class="g3_27" />
+<text 
+x="238" 
+y="72" 
+dx="0,0,0,0,-0.1" 
+class="s1_27"
+>B.5.c</text>
+
+<text 
+x="321" 
+y="74" 
+dx="0" 
+class="s4_27"
+>z</text>
+
+<text 
+x="332" 
+y="74" 
+dx="0,0,0,0" 
+class="s5_27"
+>vs. </text>
+
+<text 
+x="354" 
+y="74" 
+dx="0" 
+class="s4_27"
+>c</text>
+
+<text 
+x="238" 
+y="104" 
+dx="0,0" 
+class="s3_27"
+>za</text>
+
+<text 
+x="293" 
+y="104" 
+dx="0,0" 
+class="s3_27"
+>ca</text>
+
+<text 
+x="348" 
+y="104" 
+dx="0,0" 
+class="s3_27"
+>zi</text>
+
+<text 
+x="403" 
+y="104" 
+dx="0,0" 
+class="s3_27"
+>ci</text>
+
+<text 
+x="238" 
+y="138" 
+dx="0,0" 
+class="s3_27"
+>ze</text>
+
+<text 
+x="293" 
+y="138" 
+dx="0,0" 
+class="s3_27"
+>ce</text>
+
+<text 
+x="348" 
+y="138" 
+dx="0,0" 
+class="s3_27"
+>zu</text>
+
+<text 
+x="403" 
+y="138" 
+dx="0,0" 
+class="s3_27"
+>cu</text>
+
+<path d="M232.7,168.3l55,0l0,25.5l-55,0l0,-25.5Z" class="g1_27" />
+<path d="M232.7,193.8l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Zm55,0l55,0l0,34.4l-55,0l0,-34.4Z" class="g2_27" />
+<path d="M232.7,228.2l55,0" class="g4_27" />
+<path d="M287.7,228.2l55,0" class="g4_27" />
+<path d="M342.7,228.2l55,0" class="g4_27" />
+<path d="M397.7,228.2l55,0" class="g4_27" />
+<path d="M232.7,193.8l55,0" class="g5_27" />
+<path d="M287.7,193.8l55,0" class="g5_27" />
+<path d="M342.7,193.8l55,0" class="g5_27" />
+<path d="M397.7,193.8l55,0" class="g5_27" />
+<path d="M232.7,262.6l55,0" class="g3_27" />
+<path d="M287.7,262.6l55,0" class="g3_27" />
+<path d="M342.7,262.6l55,0" class="g3_27" />
+<path d="M397.7,262.6l55,0" class="g3_27" />
+<text 
+x="238" 
+y="186" 
+dx="0,0,0,0,-0.1" 
+class="s1_27"
+>B.5.d</text>
+
+<text 
+x="321" 
+y="187" 
+dx="0" 
+class="s4_27"
+>s</text>
+
+<text 
+x="330" 
+y="187" 
+dx="0,0,0,0" 
+class="s5_27"
+>vs. </text>
+
+<text 
+x="353" 
+y="187" 
+dx="0" 
+class="s4_27"
+>c</text>
+
+<text 
+x="238" 
+y="217" 
+dx="0,0" 
+class="s3_27"
+>sa</text>
+
+<text 
+x="293" 
+y="217" 
+dx="0,0" 
+class="s3_27"
+>ca</text>
+
+<text 
+x="348" 
+y="217" 
+dx="0,0" 
+class="s3_27"
+>si</text>
+
+<text 
+x="403" 
+y="217" 
+dx="0,0" 
+class="s3_27"
+>ci</text>
+
+<text 
+x="238" 
+y="251" 
+dx="0,0" 
+class="s3_27"
+>su</text>
+
+<text 
+x="293" 
+y="251" 
+dx="0,0" 
+class="s3_27"
+>cu</text>
+
+<text 
+x="348" 
+y="251" 
+dx="0,0" 
+class="s3_27"
+>se</text>
+
+<text 
+x="403" 
+y="251" 
+dx="0,0" 
+class="s3_27"
+>ce</text>
+
+<path d="M472.8,55l55,0l0,25.6l-55,0l0,-25.6Z" class="g1_27" />
+<path d="M472.8,80.6l73.4,0l0,34.4l-73.4,0l0,-34.4Zm73.4,0l73.3,0l0,34.4l-73.3,0l0,-34.4Zm73.3,0l73.3,0l0,34.4l-73.3,0l0,-34.4ZM472.8,149.3l73.4,0l0,34.4l-73.4,0l0,-34.4Zm73.4,0l73.3,0l0,34.4l-73.3,0l0,-34.4Zm73.3,0l73.3,0l0,34.4l-73.3,0l0,-34.4ZM472.8,218.1l73.4,0l0,34.4l-73.4,0l0,-34.4Zm73.4,0l73.3,0l0,34.4l-73.3,0l0,-34.4Zm73.3,0l73.3,0l0,34.4l-73.3,0l0,-34.4ZM472.8,286.8l73.4,0l0,34.4l-73.4,0l0,-34.4Zm73.4,0l73.3,0l0,34.4l-73.3,0l0,-34.4Zm73.3,0l73.3,0l0,34.4l-73.3,0l0,-34.4Z" class="g2_27" />
+<path d="M472.8,321.2l55,0" class="g3_27" />
+<path d="M527.8,321.2l18.4,0" class="g3_27" />
+<path d="M546.2,321.2l73.3,0" class="g3_27" />
+<path d="M619.5,321.2l73.3,0" class="g3_27" />
+<path d="M472.8,80.6l55,0" class="g5_27" />
+<path d="M527.8,80.6l18.4,0" class="g5_27" />
+<path d="M546.2,80.6l73.3,0" class="g5_27" />
+<path d="M619.5,80.6l73.3,0" class="g5_27" />
+<path d="M472.8,115l55,0" class="g4_27" />
+<path d="M527.8,115l18.4,0" class="g4_27" />
+<path d="M546.2,115l73.3,0" class="g4_27" />
+<path d="M619.5,115l73.3,0" class="g4_27" />
+<path d="M472.8,149.3l55,0" class="g4_27" />
+<path d="M527.8,149.3l18.4,0" class="g4_27" />
+<path d="M546.2,149.3l73.3,0" class="g4_27" />
+<path d="M619.5,149.3l73.3,0" class="g4_27" />
+<path d="M472.8,183.7l55,0" class="g4_27" />
+<path d="M527.8,183.7l18.4,0" class="g4_27" />
+<path d="M546.2,183.7l73.3,0" class="g4_27" />
+<path d="M619.5,183.7l73.3,0" class="g4_27" />
+<path d="M472.8,218.1l55,0" class="g4_27" />
+<path d="M527.8,218.1l18.4,0" class="g4_27" />
+<path d="M546.2,218.1l73.3,0" class="g4_27" />
+<path d="M619.5,218.1l73.3,0" class="g4_27" />
+<path d="M472.8,252.5l55,0" class="g4_27" />
+<path d="M527.8,252.5l18.4,0" class="g4_27" />
+<path d="M546.2,252.5l73.3,0" class="g4_27" />
+<path d="M619.5,252.5l73.3,0" class="g4_27" />
+<path d="M472.8,286.8l55,0" class="g4_27" />
+<path d="M527.8,286.8l18.4,0" class="g4_27" />
+<path d="M546.2,286.8l73.3,0" class="g4_27" />
+<path d="M619.5,286.8l73.3,0" class="g4_27" />
+<text 
+x="478" 
+y="72" 
+dx="0,0,0,0,-0.1" 
+class="s1_27"
+>B.5.e</text>
+
+<text 
+x="561" 
+y="74" 
+dx="0" 
+class="s4_27"
+>z</text>
+
+<text 
+x="568" 
+y="74" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="576" 
+y="74" 
+dx="0" 
+class="s4_27"
+>c</text>
+
+<text 
+x="582" 
+y="74" 
+dx="0,0" 
+class="s5_27"
+>, </text>
+
+<text 
+x="590" 
+y="74" 
+dx="0" 
+class="s4_27"
+>s</text>
+
+<text 
+x="478" 
+y="104" 
+dx="0,0" 
+class="s3_27"
+>sa</text>
+
+<text 
+x="552" 
+y="104" 
+dx="0,0" 
+class="s3_27"
+>za</text>
+
+<text 
+x="625" 
+y="104" 
+dx="0,0" 
+class="s3_27"
+>ca</text>
+
+<text 
+x="478" 
+y="138" 
+dx="0,0" 
+class="s3_27"
+>su</text>
+
+<text 
+x="552" 
+y="138" 
+dx="0,0" 
+class="s3_27"
+>zu</text>
+
+<text 
+x="625" 
+y="138" 
+dx="0,0" 
+class="s3_27"
+>cu</text>
+
+<text 
+x="478" 
+y="172" 
+dx="0,0" 
+class="s3_27"
+>se</text>
+
+<text 
+x="552" 
+y="172" 
+dx="0,0" 
+class="s3_27"
+>ze</text>
+
+<text 
+x="625" 
+y="172" 
+dx="0,0" 
+class="s3_27"
+>ce</text>
+
+<text 
+x="478" 
+y="207" 
+dx="0,0" 
+class="s3_27"
+>si</text>
+
+<text 
+x="552" 
+y="207" 
+dx="0,0" 
+class="s3_27"
+>zi</text>
+
+<text 
+x="625" 
+y="207" 
+dx="0,0" 
+class="s3_27"
+>ci</text>
+
+<text 
+x="478" 
+y="241" 
+dx="0,0" 
+class="s3_27"
+>za</text>
+
+<text 
+x="552" 
+y="241" 
+dx="0,0" 
+class="s3_27"
+>cu</text>
+
+<text 
+x="625" 
+y="241" 
+dx="0,0" 
+class="s3_27"
+>se</text>
+
+<text 
+x="478" 
+y="276" 
+dx="0,0" 
+class="s3_27"
+>ci</text>
+
+<text 
+x="552" 
+y="276" 
+dx="0,0" 
+class="s3_27"
+>sa</text>
+
+<text 
+x="625" 
+y="276" 
+dx="0,0" 
+class="s3_27"
+>zu</text>
+
+<text 
+x="478" 
+y="310" 
+dx="0,0" 
+class="s3_27"
+>su</text>
+
+<text 
+x="552" 
+y="310" 
+dx="0,0" 
+class="s3_27"
+>zi</text>
+
+<text 
+x="625" 
+y="310" 
+dx="0,0" 
+class="s3_27"
+>ce</text>
+
+<path d="M-15.9,1224.5l51.8,0l0,-1256.9l-51.8,0l0,1256.9Z" class="g8_27" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3" 
+class="s10_27"
+>6 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1156)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s10_27"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1034)"
+dx="0,0.3" 
+class="s10_27"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1022)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s10_27"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Regular_2sw;
+	src: url("fonts/ProximaNova-Regular_2sw.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2ss;
+	src: url("fonts/ProximaNova-Bold_2ss.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2sy;
+	src: url("fonts/Marion-Italic_2sy.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Medium_2sm;
+	src: url("fonts/ProximaNova-Medium_2sm.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2s-;
+	src: url("fonts/ProximaNova-Semibold_2s-.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

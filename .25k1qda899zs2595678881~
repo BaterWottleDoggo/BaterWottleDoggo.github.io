@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 155 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_155"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+<clipPath id="c1_155"><path d="M191.6,660.5l0,-379.7l524.4,0l0,379.7Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_155{
+fill: #FED205;
+}
+.g2_155{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.9815279;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_155{
+fill: none;
+stroke: #3F3F40;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_155{
+fill: #FFFFFF;
+}
+.g5_155{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.6722222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_155{
+fill: none;
+stroke: #F58320;
+stroke-width: 3.0555556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_155{
+fill: #F58320;
+}
+.g8_155{
+fill: #A1C0E4;
+}
+.g9_155{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_155{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_155{
+font-size: 14.51px;
+font-family: ProximaNova-MediumIt_2-l;
+fill: #FFFFFF;
+}
+.s2_155{
+font-size: 21.79px;
+font-family: MuseoSlab-900_2-7;
+fill: #231F20;
+}
+.s3_155{
+font-size: 38.71px;
+font-family: MuseoSlab-700_2-m;
+fill: #231F20;
+}
+.s4_155{
+font-size: 10.51px;
+font-family: MuseoSlab-900_2-7;
+fill: #231F20;
+}
+.s5_155{
+font-size: 20.67px;
+font-family: MuseoSlab-900_2-7;
+fill: #231F20;
+}
+.s6_155{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2-2;
+fill: #007598;
+}
+.s7_155{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2-b;
+fill: #3F3F40;
+}
+.s8_155{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s9_155{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2-2;
+fill: #939598;
+}
+.s10_155{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s11_155{
+font-size: 27.50px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #3FAE49;
+}
+.s12_155{
+font-size: 16.81px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #818180;
+}
+.s13_155{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #939598;
+}
+.s14_155{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #231F20;
+}
+.s15_155{
+font-size: 24.44px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #231F20;
+}
+.s16_155{
+font-size: 21.39px;
+font-family: ProximaNova-Semibold_2-o;
+fill: #FFFFFF;
+}
+.s17_155{
+font-size: 16.47px;
+font-family: ProximaNova-Medium_2-p;
+fill: #6D6E71;
+}
+.s18_155{
+font-size: 16.47px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #6D6E71;
+}
+.s19_155{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #6D6E71;
+}
+.s20_155{
+font-size: 18.33px;
+font-family: Marion-Italic_2si;
+fill: #6D6E71;
+}
+.s21_155{
+font-size: 14.51px;
+font-family: ProximaNova-MediumIt_2-l;
+fill: #AAA9AA;
+}
+.s22_155{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2-g;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_155)">
+<path d="M110.6,3084.6c-712,-49.8,-1251.8,-627.2,-1205.4,-1289.8C-1048.5,1132.3,-433.7,635.5,278.4,685.3c712.1,49.8,1251.9,627.3,1205.5,1289.8C1437.6,2637.7,822.7,3134.4,110.6,3084.6Z" class="g1_155" />
+</g>
+<image preserveAspectRatio="none" x="23" y="682" width="899" height="517" xlink:href="155/img/1.png" />
+<g clip-path="url(#c0_155)">
+<path d="M110.6,3084.6l-0.2,2.3c-356.5,-24.9,-670,-182,-888.6,-415.8c-218.5,-233.9,-342.1,-544.5,-318.9,-876.4c23.2,-332,188.8,-622.4,437.8,-823.6C-410.3,770,-78,658.1,278.5,683c356.7,25,670.2,182,888.8,415.9c218.5,233.8,342.1,544.4,318.9,876.4c-23.2,332,-188.8,622.4,-437.8,823.5c-249,201.2,-581.3,313.1,-938,288.1l0.2,-2.3l0.2,-2.2c355.5,24.8,686.6,-86.7,934.7,-287.2c248.1,-200.4,413,-489.6,436.1,-820.2c23.2,-330.6,-99.9,-640,-317.7,-873C946.1,869,633.7,712.5,278.2,687.6C-77.2,662.7,-408.3,774.3,-656.4,974.7c-248.1,200.4,-413,489.7,-436.1,820.3c-23.2,330.6,99.9,639.9,317.7,872.9c217.7,233,530.2,389.6,885.6,414.5l-0.2,2.2Z" class="g1_155" />
+</g>
+<image preserveAspectRatio="none" x="632" y="759" width="179" height="220" xlink:href="155/img/2.png" />
+<image preserveAspectRatio="none" x="633" y="978" width="179" height="219" xlink:href="155/img/3.png" />
+<text 
+x="657" 
+y="927" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_155"
+>Chinese lanterns </text>
+
+<text 
+x="657" 
+y="944" 
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s1_155"
+>are sometimes used </text>
+
+<text 
+x="657" 
+y="961" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_155"
+>as advertisements. </text>
+
+<text 
+x="657" 
+y="978" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_155"
+>What are these </text>
+
+<text 
+x="657" 
+y="995" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s1_155"
+>lanterns promoting? </text>
+
+<path d="M721.8,874.9c43.8,0,79.3,-35.5,79.3,-79.3c0,-43.8,-35.5,-79.3,-79.3,-79.3c-43.8,0,-79.3,35.5,-79.3,79.3c0,43.8,35.5,79.3,79.3,79.3Z" class="g1_155" />
+<path d="M721.8,874.9c43.8,0,79.3,-35.5,79.3,-79.3c0,-43.8,-35.5,-79.3,-79.3,-79.3c-43.8,0,-79.3,35.5,-79.3,79.3c0,43.8,35.5,79.3,79.3,79.3Z" class="g2_155" />
+<text 
+x="676" 
+y="777" 
+dx="0,0,0" 
+class="s2_155"
+>GET</text>
+
+<text 
+x="652" 
+y="802" 
+dx="0,-0.3,0,-0.2" 
+class="s3_155"
+>Real</text>
+
+<text 
+x="654" 
+y="815" 
+dx="0,0,0,0" 
+class="s4_155"
+>WITH</text>
+
+<text 
+x="689" 
+y="822" 
+dx="0,0,0,0,0,0,0" 
+class="s5_155"
+>CHINESE</text>
+
+<path d="M348.3,144.3l88.3,0" class="g3_155" />
+<path d="M508.8,188.7l88.2,0" class="g3_155" />
+<path d="M476.7,233l88.2,0" class="g3_155" />
+<text 
+x="143" 
+y="68" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_155"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="95" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_155"
+>Soften the tone of these suggestions by inserting </text>
+
+<text 
+x="470" 
+y="95" 
+dx="0" 
+class="s8_155"
+>吧</text>
+
+<text 
+x="492" 
+y="95" 
+dx="0,0,0,0,0,0,0,-0.4,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.1" 
+class="s7_155"
+>. Use exercise 1 as an example.</text>
+
+<text 
+x="145" 
+y="138" 
+dx="0,0" 
+class="s9_155"
+>1 </text>
+
+<text 
+x="187" 
+y="140" 
+dx="0,0,0,0,0" 
+class="s10_155"
+>你喝点儿水</text>
+
+<text 
+x="436" 
+y="140" 
+dx="0,0,4.6,0,14.9,0,0,0,0,0,0" 
+class="s10_155"
+>。 → 你喝点儿水吧。</text>
+
+<text 
+x="145" 
+y="182" 
+dx="0,0" 
+class="s9_155"
+>2 </text>
+
+<text 
+x="187" 
+y="184" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s10_155"
+>我们明天去看中国电影</text>
+
+<text 
+x="596" 
+y="184" 
+dx="0" 
+class="s10_155"
+>。</text>
+
+<text 
+x="145" 
+y="227" 
+dx="0,0" 
+class="s9_155"
+>3 </text>
+
+<text 
+x="187" 
+y="228" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s10_155"
+>你今天晚上去听音乐</text>
+
+<text 
+x="564" 
+y="228" 
+dx="0" 
+class="s10_155"
+>。</text>
+
+<path d="M195.6,614.4l520.1,0l0,-188.3l-520.1,0l0,188.3Z" class="g4_155" />
+<path d="M195.6,614.4l520.1,0l0,-188.3l-520.1,0Z" class="g5_155" />
+<path d="M195.6,654.9l520.1,0l0,-40.9l-520.1,0l0,40.9Z" class="g4_155" />
+<path d="M195.6,654.9l520.1,0l0,-40.9l-520.1,0Z" class="g5_155" />
+<text 
+x="294" 
+y="478" 
+dx="0,0,0" 
+class="s11_155"
+>高文中</text>
+
+<text 
+x="295" 
+y="508" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_155"
+>02-13 17:54 </text>
+
+<text 
+x="391" 
+y="508" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_155"
+>来自 iPhone 客户端</text>
+
+<text 
+x="218" 
+y="641" 
+dx="0,0,0,0,0.1" 
+class="s13_155"
+>转发 1 </text>
+
+<text 
+x="328" 
+y="641" 
+dx="0,0,0,0,0.1" 
+class="s14_155"
+>评论 7 </text>
+
+<text 
+x="646" 
+y="641" 
+dx="0,0,0,0" 
+class="s13_155"
+>赞 79</text>
+
+<text 
+x="218" 
+y="558" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s15_155"
+>晚上朋友请客！太高兴了！去哪吃呀？</text>
+
+<text 
+x="218" 
+y="588" 
+dx="0,0,0,0" 
+class="s15_155"
+>@白英爱</text>
+
+<image preserveAspectRatio="none" x="216" y="446" width="71" height="71" xlink:href="155/img/4.png" />
+<path d="M330.1,654.6l48.8,0" class="g6_155" />
+<path d="M695.9,400.9l19.7,20.6l0,-20.6Z" class="g7_155" />
+<g clip-path="url(#c1_155)">
+<path d="M380,301.9c0,-11.7,-9.4,-21.1,-21.1,-21.1l-146.2,0c-11.6,0,-21.1,9.4,-21.1,21.1l0,14.8l188.4,0Z" class="g8_155" />
+</g>
+<text 
+x="224" 
+y="307" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s16_155"
+>Chinese Chat</text>
+
+<path d="M715.9,320.2l0,77.2l-499.6,0C202.9,397.4,192,386.5,192,373.1l0,-52.9l523.9,0Z" class="g9_155" />
+<text 
+x="208" 
+y="343" 
+dx="0,0,0,0,0,-0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,0,0" 
+class="s17_155"
+>Gao Wenzhong just published a new post on Weibo</text>
+
+<text 
+x="586" 
+y="343" 
+dx="0" 
+class="s18_155"
+>(</text>
+
+<text 
+x="592" 
+y="343" 
+dx="0,0" 
+class="s19_155"
+>微博</text>
+
+<text 
+x="628" 
+y="343" 
+dx="0,0" 
+class="s18_155"
+>) </text>
+
+<text 
+x="637" 
+y="343" 
+dx="0,0,0,0,0,0,0" 
+class="s20_155"
+>(Wēibó)</text>
+
+<text 
+x="688" 
+y="343" 
+dx="0,0" 
+class="s17_155"
+>, </text>
+
+<text 
+x="208" 
+y="362" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s17_155"
+>a popular Chinese microblogging platform. Based on his tone, can </text>
+
+<text 
+x="208" 
+y="382" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.5,0,0,0,0,0,0,0,0,-0.4" 
+class="s17_155"
+>you tell how he’s feeling?</text>
+
+<text 
+x="657" 
+y="1123" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s21_155"
+>photo courtesy of </text>
+
+<text 
+x="657" 
+y="1140" 
+dx="0,0,0,-0.4,-0.6,0,0,0,0,0,0,0" 
+class="s21_155"
+>ShuWen Zhang</text>
+
+<g clip-path="url(#c0_155)">
+<path d="M-22.1,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g10_155" />
+</g>
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3,0.3" 
+class="s22_155"
+>134 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1138)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s22_155"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1016)"
+dx="0,0.3" 
+class="s22_155"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1004)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s22_155"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2-o;
+	src: url("fonts/ProximaNova-Semibold_2-o.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Medium_2-p;
+	src: url("fonts/ProximaNova-Medium_2-p.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-900_2-7;
+	src: url("fonts/MuseoSlab-900_2-7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-MediumIt_2-l;
+	src: url("fonts/ProximaNova-MediumIt_2-l.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_2-m;
+	src: url("fonts/MuseoSlab-700_2-m.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Normal_4av;
+	src: url("fonts/SourceHanSansCN-Normal_4av.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2-g;
+	src: url("fonts/ProximaNova-Semibold_2-g.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2-2;
+	src: url("fonts/ProximaNova-Bold_2-2.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2-b;
+	src: url("fonts/ProximaNova-Light_2-b.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

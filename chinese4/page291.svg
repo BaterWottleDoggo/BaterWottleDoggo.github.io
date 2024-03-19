@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 314 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_314"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_314{
+fill: #FFFFFF;
+fill-opacity: 0.880005;
+}
+.g2_314{
+fill: #E49B1B;
+}
+.g3_314{
+fill: none;
+stroke: #DCDDDF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_314{
+fill: #E49B1B;
+stroke: #DCDDDF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_314{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g6_314{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g7_314{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_314{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7654167;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_314{
+font-size: 22.92px;
+font-family: LibreFranklin-ExtraBold_43o;
+fill: #FFFFFF;
+}
+.s2_314{
+font-size: 14.51px;
+font-family: LibreFranklin-Bold_43q;
+fill: #231F20;
+}
+.s3_314{
+font-size: 15.28px;
+font-family: Wingdings2_3pi;
+fill: #E5C354;
+}
+.s4_314{
+font-size: 13.37px;
+font-family: LibreFranklin-Medium_43s;
+fill: #231F20;
+}
+.s5_314{
+font-size: 32.85px;
+font-family: LibreFranklin-ExtraBold_43o;
+fill: #E49B1B;
+}
+.s6_314{
+font-size: 27.50px;
+font-family: SourceHanSansCN-Medium_3p3;
+fill: #FFFFFF;
+}
+.s7_314{
+font-size: 27.50px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #FFFFFF;
+}
+.s8_314{
+font-size: 91.67px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #E49B1B;
+}
+.s9_314{
+font-size: 91.67px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #E49B1B;
+}
+.s10_314{
+font-size: 36.67px;
+font-family: MuseoSlab-900_43r;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image preserveAspectRatio="none" x="18" y="20" width="881" height="915" xlink:href="314/img/1.png" />
+<image preserveAspectRatio="none" x="631" y="-48" width="292" height="277" xlink:href="314/img/2.png" />
+<image preserveAspectRatio="none" x="539" y="-156" width="477" height="474" xlink:href="314/img/3.png" />
+<path d="M147,562c0,0,-13.8,0,-13.8,13.7l0,77.4c0,0,0,13.8,13.8,13.8l622.9,0c0,0,13.7,0,13.7,-13.8l0,-77.4c0,0,0,-13.7,-13.7,-13.7Z" class="g1_314" />
+<path d="M147,676.1c0,0,-13.8,0,-13.8,13.8l0,77.4c0,0,0,13.7,13.8,13.7l622.9,0c0,0,13.7,0,13.7,-13.7l0,-77.4c0,0,0,-13.8,-13.7,-13.8Z" class="g1_314" />
+<path d="M721.9,152.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.5,3.6,3.5l118.6,0c0,0,3.6,0,3.6,-3.5l0,-42.1c0,0,0,-3.5,-3.6,-3.5Z" class="g2_314" />
+<path d="M721.9,152.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.5,3.6,3.5l118.6,0c0,0,3.6,0,3.6,-3.5l0,-42.1c0,0,0,-3.5,-3.6,-3.5l-118.6,0Z" class="g3_314" />
+<path d="M721.9,212.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.6,3.6,3.6l118.6,0c0,0,3.6,0,3.6,-3.6l0,-42.1c0,0,0,-3.5,-3.6,-3.5Z" class="g2_314" />
+<path d="M721.9,212.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.6,3.6,3.6l118.6,0c0,0,3.6,0,3.6,-3.6l0,-42.1c0,0,0,-3.5,-3.6,-3.5l-118.6,0Z" class="g3_314" />
+<path d="M473.2,956.6l310.4,0l0,-46l-310.4,0l0,46Z" class="g4_314" />
+<path d="M133.2,956.6l310.4,0l0,-46l-310.4,0l0,46Z" class="g4_314" />
+<text 
+x="175" 
+y="939" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.5,0.2" 
+class="s1_314"
+>Learning Objectives</text>
+
+<text 
+x="161" 
+y="987" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s2_314"
+>In this lesson, you will learn to:</text>
+
+<text 
+x="163" 
+y="1012" 
+dx="0" 
+class="s3_314"
+>y</text>
+
+<text 
+x="182" 
+y="1012" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.5,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0" 
+class="s4_314"
+>Locate major Chinese cities, provinces, </text>
+
+<text 
+x="182" 
+y="1030" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.4,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s4_314"
+>and geographic features on a map</text>
+
+<text 
+x="163" 
+y="1052" 
+dx="0" 
+class="s3_314"
+>y</text>
+
+<text 
+x="182" 
+y="1052" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_314"
+>Compare basic geographic aspects </text>
+
+<text 
+x="182" 
+y="1070" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_314"
+>of China and your own country</text>
+
+<text 
+x="163" 
+y="1091" 
+dx="0" 
+class="s3_314"
+>y</text>
+
+<text 
+x="182" 
+y="1091" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_314"
+>Describe features of a tourist sight </text>
+
+<text 
+x="182" 
+y="1110" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0" 
+class="s4_314"
+>that would attract or deter you</text>
+
+<text 
+x="163" 
+y="1131" 
+dx="0" 
+class="s3_314"
+>y</text>
+
+<text 
+x="182" 
+y="1131" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,-0.3,0,0,0,0,-0.1,0,-0.4,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s4_314"
+>Discuss an itinerary for travel to China </text>
+
+<text 
+x="517" 
+y="939" 
+dx="0,0.2,0.2,0.2,0.2,-0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_314"
+>Relate &amp; Get Ready</text>
+
+<text 
+x="500" 
+y="987" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_314"
+>In your own culture/community:</text>
+
+<text 
+x="502" 
+y="1012" 
+dx="0" 
+class="s3_314"
+>y</text>
+
+<text 
+x="521" 
+y="1012" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.1,0,0,0,0,0,-0.3,-0.4,0,0,-0.2,0,0,0,0,0" 
+class="s4_314"
+>How has local geography exerted an </text>
+
+<text 
+x="521" 
+y="1030" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s4_314"
+>influence on development? </text>
+
+<text 
+x="502" 
+y="1052" 
+dx="0" 
+class="s3_314"
+>y</text>
+
+<text 
+x="521" 
+y="1052" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s4_314"
+>What are considered the most desirable </text>
+
+<text 
+x="521" 
+y="1070" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s4_314"
+>destinations for domestic tourism?</text>
+
+<text 
+x="502" 
+y="1091" 
+dx="0" 
+class="s3_314"
+>y</text>
+
+<text 
+x="521" 
+y="1091" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_314"
+>What local features are popular among </text>
+
+<text 
+x="521" 
+y="1110" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s4_314"
+>tourists, and what would you recommend </text>
+
+<text 
+x="521" 
+y="1128" 
+dx="0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_314"
+>to tourists planning a trip?</text>
+
+<text 
+x="699" 
+y="117" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_314"
+>Lesson 10</text>
+
+<text 
+x="740" 
+y="187" 
+dx="0,-1.4,-1.4" 
+class="s6_314"
+>第十课</text>
+
+<text 
+x="740" 
+y="248" 
+dx="0,-1.4,-1.4" 
+class="s7_314"
+>第十課</text>
+
+<g clip-path="url(#c0_314)">
+<path d="M670,134.3l302.8,0" class="g5_314" />
+<path d="M670,136.4l302.8,0" class="g6_314" />
+</g>
+<text 
+x="275" 
+y="640" 
+dx="0,0,0,0" 
+class="s8_314"
+>中国地理</text>
+
+<text 
+x="275" 
+y="756" 
+dx="0,0,0,0" 
+class="s9_314"
+>中國地理</text>
+
+<text 
+x="234" 
+y="854" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s10_314"
+>GEOGRAPHY OF CHINA</text>
+
+<path d="M136.1,811.5l0,60.8l0,1.2l1.2,0l645.8,0l1.2,0l0,-1.2l0,-60.8l0,-1.1l-1.2,0l-645.8,0l-1.2,0l0,1.1Z" class="g7_314" />
+<path d="M139.2,870.4l642,0l0,-57l-642,0l0,57Z" class="g8_314" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Wingdings2_3pi;
+	src: url("fonts/Wingdings2_3pi.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-900_43r;
+	src: url("fonts/MuseoSlab-900_43r.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_43q;
+	src: url("fonts/LibreFranklin-Bold_43q.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_3p3;
+	src: url("fonts/SourceHanSansCN-Medium_3p3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_43s;
+	src: url("fonts/LibreFranklin-Medium_43s.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_43o;
+	src: url("fonts/LibreFranklin-ExtraBold_43o.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_3ps;
+	src: url("fonts/SourceHanSansTW-Medium_3ps.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

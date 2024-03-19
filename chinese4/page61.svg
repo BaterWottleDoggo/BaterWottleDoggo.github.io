@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 84 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_84{
+fill: #85215E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_84{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3t6;
+fill: #85215E;
+}
+.s2_84{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_84{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s4_84{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ss;
+fill: #3F3F40;
+}
+.s5_84{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3td;
+fill: #3F3F40;
+}
+.s6_84{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3tc;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="175" 
+y="73" 
+dx="0,0.2" 
+class="s1_84"
+>6 </text>
+
+<text 
+x="212" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_84"
+>你觉得你住的地方旧不旧？</text>
+
+<text 
+x="212" 
+y="111" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_84"
+>你覺得你住的地方舊不舊？</text>
+
+<text 
+x="175" 
+y="159" 
+dx="0,0.2" 
+class="s1_84"
+>7 </text>
+
+<text 
+x="212" 
+y="159" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_84"
+>你觉得你住的地方安静不安静？</text>
+
+<text 
+x="212" 
+y="197" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_84"
+>你覺得你住的地方安靜不安靜？</text>
+
+<text 
+x="175" 
+y="244" 
+dx="0,0.2" 
+class="s1_84"
+>8 </text>
+
+<text 
+x="212" 
+y="244" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_84"
+>你觉得你住的地方买东西方便不方便？</text>
+
+<text 
+x="212" 
+y="283" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_84"
+>你覺得你住的地方買東西方便不方便？</text>
+
+<text 
+x="175" 
+y="330" 
+dx="0,0.2" 
+class="s1_84"
+>9 </text>
+
+<text 
+x="212" 
+y="330" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_84"
+>你觉得你住的地方洗衣服方便不方便？</text>
+
+<text 
+x="212" 
+y="368" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_84"
+>你覺得你住的地方洗衣服方便不方便？</text>
+
+<text 
+x="175" 
+y="415" 
+dx="0,0.2,0.2" 
+class="s1_84"
+>10 </text>
+
+<text 
+x="212" 
+y="415" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_84"
+>你喜欢不喜欢你住的地方？</text>
+
+<text 
+x="212" 
+y="454" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_84"
+>你喜歡不喜歡你住的地方？</text>
+
+<text 
+x="175" 
+y="501" 
+dx="0,0.2,0.2" 
+class="s1_84"
+>11 </text>
+
+<text 
+x="212" 
+y="501" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_84"
+>你觉得你的卫生间怎么样？</text>
+
+<text 
+x="212" 
+y="539" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_84"
+>你覺得你的衞生間怎麼樣？</text>
+
+<text 
+x="175" 
+y="587" 
+dx="0,0.2,0.2" 
+class="s1_84"
+>12 </text>
+
+<text 
+x="212" 
+y="587" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_84"
+>你最喜欢你的房间的什么？</text>
+
+<text 
+x="212" 
+y="625" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_84"
+>你最喜歡你的房間的什麼？</text>
+
+<text 
+x="175" 
+y="672" 
+dx="0,0.2,0.2" 
+class="s1_84"
+>13 </text>
+
+<text 
+x="212" 
+y="672" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_84"
+>你最不喜欢你的房间的什么？</text>
+
+<text 
+x="212" 
+y="710" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_84"
+>你最不喜歡你的房間的什麼？</text>
+
+<text 
+x="175" 
+y="758" 
+dx="0,0.2,0.2" 
+class="s1_84"
+>14 </text>
+
+<text 
+x="212" 
+y="758" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_84"
+>你觉得你住的地方缺</text>
+
+<text 
+x="452" 
+y="758" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s4_84"
+>(quē)</text>
+
+<text 
+x="493" 
+y="758" 
+dx="0,0,-0.2,0,0,0,0,0,0" 
+class="s5_84"
+>(to lack)</text>
+
+<text 
+x="553" 
+y="758" 
+dx="0,0,0" 
+class="s2_84"
+>什么？</text>
+
+<text 
+x="212" 
+y="796" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_84"
+>你覺得你住的地方缺 </text>
+
+<text 
+x="452" 
+y="796" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s4_84"
+>(quē)</text>
+
+<text 
+x="493" 
+y="796" 
+dx="0,0,-0.2,0,0,0,0,0,0" 
+class="s5_84"
+>(to lack)</text>
+
+<text 
+x="553" 
+y="796" 
+dx="0,0,0" 
+class="s3_84"
+>什麼？</text>
+
+<path d="M881.6,1209.2l64.9,0l0,-1222.1l-64.9,0l0,1222.1Z" class="g1_84" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 873)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s6_84"
+>Lesson 2 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 938)"
+dx="0,1" 
+class="s6_84"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 952)"
+dx="0,1,1,1,1,1,1,1,0.8,1" 
+class="s6_84"
+>Dorm Life </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1023)"
+dx="0,1" 
+class="s6_84"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1037)"
+dx="0,1,1,1,1,1,1,1,1,0.9,1,1,1,1,1" 
+class="s6_84"
+>Lesson Wrap-Up </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1159)"
+dx="0,1,0" 
+class="s6_84"
+>61 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Regular_3td;
+	src: url("fonts/LibreFranklin-Regular_3td.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3tc;
+	src: url("fonts/LibreFranklin-SemiBold_3tc.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ss;
+	src: url("fonts/GentiumBasic-Italic_3ss.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3t6;
+	src: url("fonts/LibreFranklin-ExtraBold_3t6.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 44 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_44{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_44{
+fill: #3986C6;
+}
+.g3_44{
+fill: #DCDDDF;
+}
+.g4_44{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_44{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_44{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_44{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cnt;
+fill: #231F20;
+}
+.s2_44{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cnz;
+fill: #231F20;
+}
+.s3_44{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_cnt;
+fill: #231F20;
+}
+.s4_44{
+font-size: 19.10px;
+font-family: Alegreya-Bold_cny;
+fill: #231F20;
+}
+.s5_44{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #3986C6;
+}
+.s6_44{
+font-size: 19.10px;
+font-family: Alegreya-Regular_cnx;
+fill: #231F20;
+}
+.s7_44{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s8_44{
+font-size: 24.44px;
+font-family: Alegreya-Regular_cnx;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="862" 
+y="1149" 
+dx="0,0" 
+class="s1_44"
+>21</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_44" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_44" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 806)"
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_44"
+>Chapter 1 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 867)"
+dx="0,0" 
+class="s2_44"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 879)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_44"
+>Getting to Know Chinese </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1030)"
+dx="0,0" 
+class="s2_44"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1041)"
+dx="0,-1.4,0,0,0,0,0" 
+class="s2_44"
+>Topic 6</text>
+
+<text 
+x="89" 
+y="455" 
+dx="0,-1.2,0,0,0,0,0,0,0,0" 
+class="s3_44"
+>Vocabulary</text>
+
+<path d="M90.1,471.3l55,0l0,36.3l-55,0l0,-36.3Zm55,0l212.2,0l0,36.3l-212.2,0l0,-36.3Zm212.2,0l168.3,0l0,36.3l-168.3,0l0,-36.3Zm168.3,0l281.7,0l0,36.3l-281.7,0l0,-36.3Z" class="g3_44" />
+<path d="M90.1,562.6l55,0" class="g4_44" />
+<path d="M145.1,562.6l212.2,0" class="g4_44" />
+<path d="M357.3,562.6l168.3,0" class="g4_44" />
+<path d="M525.6,562.6l281.7,0" class="g4_44" />
+<path d="M90.1,617.6l55,0" class="g4_44" />
+<path d="M145.1,617.6l212.2,0" class="g4_44" />
+<path d="M357.3,617.6l168.3,0" class="g4_44" />
+<path d="M525.6,617.6l281.7,0" class="g4_44" />
+<path d="M90.1,672.6l55,0" class="g4_44" />
+<path d="M145.1,672.6l212.2,0" class="g4_44" />
+<path d="M357.3,672.6l168.3,0" class="g4_44" />
+<path d="M525.6,672.6l281.7,0" class="g4_44" />
+<path d="M90.1,727.6l55,0" class="g4_44" />
+<path d="M145.1,727.6l212.2,0" class="g4_44" />
+<path d="M357.3,727.6l168.3,0" class="g4_44" />
+<path d="M525.6,727.6l281.7,0" class="g4_44" />
+<path d="M90.1,782.6l55,0" class="g4_44" />
+<path d="M145.1,782.6l212.2,0" class="g4_44" />
+<path d="M357.3,782.6l168.3,0" class="g4_44" />
+<path d="M525.6,782.6l281.7,0" class="g4_44" />
+<path d="M145.1,837.6l212.2,0" class="g4_44" />
+<path d="M357.3,837.6l168.3,0" class="g4_44" />
+<path d="M525.6,837.6l281.7,0" class="g4_44" />
+<path d="M145.1,892.6l212.2,0" class="g4_44" />
+<path d="M357.3,892.6l168.3,0" class="g4_44" />
+<path d="M525.6,892.6l281.7,0" class="g4_44" />
+<path d="M90.1,947.6l55,0" class="g4_44" />
+<path d="M145.1,947.6l212.2,0" class="g4_44" />
+<path d="M357.3,947.6l168.3,0" class="g4_44" />
+<path d="M525.6,947.6l281.7,0" class="g4_44" />
+<path d="M90.1,1002.6l55,0" class="g4_44" />
+<path d="M145.1,1002.6l212.2,0" class="g4_44" />
+<path d="M357.3,1002.6l168.3,0" class="g4_44" />
+<path d="M525.6,1002.6l281.7,0" class="g4_44" />
+<path d="M90.1,1057.6l55,0" class="g5_44" />
+<path d="M145.1,1057.6l212.2,0" class="g5_44" />
+<path d="M357.3,1057.6l168.3,0" class="g5_44" />
+<path d="M525.6,1057.6l281.7,0" class="g5_44" />
+<path d="M90.1,837.6l55,0" class="g4_44" />
+<path d="M90.1,892.6l55,0" class="g4_44" />
+<text 
+x="163" 
+y="496" 
+dx="0,-0.7,0,0" 
+class="s1_44"
+>Word</text>
+
+<text 
+x="376" 
+y="496" 
+dx="0,0,0,0,0,0" 
+class="s1_44"
+>Pinyin</text>
+
+<text 
+x="544" 
+y="496" 
+dx="0,0,0,0,0,0,0" 
+class="s1_44"
+>Meaning</text>
+
+<text 
+x="108" 
+y="543" 
+dx="0" 
+class="s4_44"
+>1</text>
+
+<text 
+x="159" 
+y="543" 
+dx="0,0" 
+class="s5_44"
+>你好</text>
+
+<text 
+x="375" 
+y="543" 
+dx="0,0,0,0,0,0" 
+class="s6_44"
+>nǐ hǎo</text>
+
+<text 
+x="544" 
+y="543" 
+dx="0,0,0,0,0" 
+class="s6_44"
+>hello</text>
+
+<text 
+x="108" 
+y="598" 
+dx="0" 
+class="s4_44"
+>2</text>
+
+<text 
+x="159" 
+y="598" 
+dx="0" 
+class="s5_44"
+>你</text>
+
+<text 
+x="375" 
+y="598" 
+dx="0,0" 
+class="s6_44"
+>nǐ</text>
+
+<text 
+x="543" 
+y="598" 
+dx="0,-0.3,0" 
+class="s6_44"
+>you</text>
+
+<text 
+x="108" 
+y="653" 
+dx="0" 
+class="s4_44"
+>3</text>
+
+<text 
+x="161" 
+y="653" 
+dx="0" 
+class="s5_44"
+>好</text>
+
+<text 
+x="376" 
+y="653" 
+dx="0,0,0" 
+class="s6_44"
+>hǎo</text>
+
+<text 
+x="544" 
+y="653" 
+dx="0,0,0,0,-0.6,-0.4,0,0,0,0,0,-0.4,0,0,0,-0.3,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_44"
+>fine, good, nice; OK, it’s settled</text>
+
+<text 
+x="107" 
+y="708" 
+dx="0" 
+class="s4_44"
+>4</text>
+
+<text 
+x="159" 
+y="708" 
+dx="0" 
+class="s5_44"
+>是</text>
+
+<text 
+x="376" 
+y="708" 
+dx="0,0,0" 
+class="s6_44"
+>shì</text>
+
+<text 
+x="544" 
+y="708" 
+dx="0,0,0,0,0" 
+class="s6_44"
+>to be</text>
+
+<text 
+x="108" 
+y="763" 
+dx="0" 
+class="s4_44"
+>5</text>
+
+<text 
+x="160" 
+y="763" 
+dx="0,0" 
+class="s5_44"
+>老师</text>
+
+<text 
+x="376" 
+y="763" 
+dx="0,0,0,0,0,0" 
+class="s6_44"
+>lǎoshī</text>
+
+<text 
+x="544" 
+y="763" 
+dx="0,0,0,0,0,0,0" 
+class="s6_44"
+>teacher</text>
+
+<text 
+x="108" 
+y="818" 
+dx="0" 
+class="s4_44"
+>6</text>
+
+<text 
+x="159" 
+y="818" 
+dx="0" 
+class="s5_44"
+>吗</text>
+
+<text 
+x="375" 
+y="818" 
+dx="0,0" 
+class="s6_44"
+>ma</text>
+
+<text 
+x="544" 
+y="818" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0" 
+class="s6_44"
+>(question word)</text>
+
+<text 
+x="108" 
+y="873" 
+dx="0" 
+class="s4_44"
+>7</text>
+
+<text 
+x="160" 
+y="873" 
+dx="0" 
+class="s5_44"
+>我</text>
+
+<text 
+x="375" 
+y="873" 
+dx="0,-0.3" 
+class="s6_44"
+>wǒ</text>
+
+<text 
+x="543" 
+y="873" 
+dx="0,-0.6,-0.4,0,0" 
+class="s6_44"
+>I, me</text>
+
+<text 
+x="108" 
+y="928" 
+dx="0" 
+class="s4_44"
+>8</text>
+
+<text 
+x="158" 
+y="928" 
+dx="0" 
+class="s5_44"
+>不</text>
+
+<text 
+x="375" 
+y="928" 
+dx="0,0" 
+class="s6_44"
+>bù</text>
+
+<text 
+x="544" 
+y="928" 
+dx="0,0,-0.8,-0.4,0,0,0" 
+class="s6_44"
+>no, not</text>
+
+<text 
+x="108" 
+y="983" 
+dx="0" 
+class="s4_44"
+>9</text>
+
+<text 
+x="160" 
+y="983" 
+dx="0,0" 
+class="s5_44"
+>学生</text>
+
+<text 
+x="375" 
+y="983" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_44"
+>xuéshēng</text>
+
+<text 
+x="544" 
+y="983" 
+dx="0,0,0,0,0,0,0" 
+class="s6_44"
+>student</text>
+
+<text 
+x="108" 
+y="1038" 
+dx="0,0" 
+class="s4_44"
+>10</text>
+
+<text 
+x="159" 
+y="1038" 
+dx="0,0" 
+class="s5_44"
+>再见</text>
+
+<text 
+x="375" 
+y="1038" 
+dx="0,0,0,0,0,0,0" 
+class="s6_44"
+>zàijiàn</text>
+
+<text 
+x="544" 
+y="1038" 
+dx="0,0,0,0,0,-0.3,-0.3,-0.6,-0.4,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0" 
+class="s6_44"
+>goodbye, see you again</text>
+
+<path d="M203,452.3l608.2,0" class="g6_44" />
+<path d="M203,455.3c1.7,0,3,-1.3,3,-3c0,-1.7,-1.3,-3.1,-3,-3.1c-1.7,0,-3.1,1.4,-3.1,3.1c0,1.7,1.4,3,3.1,3Z" class="g2_44" />
+<image preserveAspectRatio="none" x="92" y="82" width="46" height="54" xlink:href="44/img/1.png" />
+<image preserveAspectRatio="none" x="92" y="265" width="46" height="54" xlink:href="44/img/2.png" />
+<image preserveAspectRatio="none" x="92" y="155" width="46" height="54" xlink:href="44/img/3.png" />
+<image preserveAspectRatio="none" x="92" y="338" width="46" height="54" xlink:href="44/img/4.png" />
+<text 
+x="156" 
+y="116" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_44"
+>你好！你是老师吗？</text>
+
+<text 
+x="523" 
+y="118" 
+dx="0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_44"
+>Nǐ hǎo! Nǐ shì lǎoshī ma?</text>
+
+<text 
+x="523" 
+y="196" 
+dx="0,-1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s6_44"
+>Wǒ bú shì lǎoshī, wǒ shì xuéshēng. </text>
+
+<text 
+x="156" 
+y="192" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_44"
+>我不是老师，我是学生。</text>
+
+<text 
+x="155" 
+y="299" 
+dx="0,0,0" 
+class="s7_44"
+>再见！</text>
+
+<text 
+x="155" 
+y="372" 
+dx="0,0,0" 
+class="s7_44"
+>再见！</text>
+
+<text 
+x="524" 
+y="303" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_44"
+>Zàijiàn!</text>
+
+<text 
+x="524" 
+y="372" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_44"
+>Zàijiàn!</text>
+
+<text 
+x="157" 
+y="244" 
+dx="0,0" 
+class="s8_44"
+>….</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Alegreya-Regular_cnx;
+	src: url("fonts/Alegreya-Regular_cnx.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cnz;
+	src: url("fonts/ProximaNova-Semibold_cnz.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_cny;
+	src: url("fonts/Alegreya-Bold_cny.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cnt;
+	src: url("fonts/ProximaNova-Bold_cnt.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

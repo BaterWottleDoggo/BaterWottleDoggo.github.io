@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 162 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_162{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_162{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_162{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_162{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_162{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_162{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_162{
+font-size: 35.14px;
+font-family: ProximaNova-Extrabld_2-a;
+fill: #007598;
+}
+.s2_162{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_2-a;
+fill: #007D9F;
+}
+.s3_162{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_2-2;
+fill: #007D9F;
+}
+.s4_162{
+font-size: 27.50px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s5_162{
+font-size: 22.92px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s6_162{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2-b;
+fill: #3F3F40;
+}
+.s7_162{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s8_162{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s9_162{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_2-a;
+fill: #3F3F40;
+}
+.s10_162{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s11_162{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s12_162{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s13_162{
+font-size: 12.22px;
+font-family: ProximaNova-Light_2-b;
+fill: #3F3F40;
+}
+.s14_162{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2-2;
+fill: #939598;
+}
+.s15_162{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2-g;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,74.7l195,0" class="g1_162" />
+<path d="M0,77.2l195,0" class="g2_162" />
+<path d="M105.3,144.4l13,0" class="g3_162" />
+<text 
+x="41" 
+y="64" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s1_162"
+>Grammar</text>
+
+<text 
+x="105" 
+y="140" 
+dx="0,0" 
+class="s2_162"
+>5 </text>
+
+<text 
+x="364" 
+y="145" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_162"
+>The particle </text>
+
+<text 
+x="502" 
+y="145" 
+dx="0" 
+class="s4_162"
+>了</text>
+
+<text 
+x="529" 
+y="145" 
+dx="0,0,0,0" 
+class="s5_162"
+>(le)</text>
+
+<text 
+x="559" 
+y="145" 
+dx="0,0,0" 
+class="s3_162"
+>(I)</text>
+
+<text 
+x="143" 
+y="207" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_162"
+>The dynamic particle </text>
+
+<text 
+x="284" 
+y="207" 
+dx="0" 
+class="s7_162"
+>了</text>
+
+<text 
+x="309" 
+y="207" 
+dx="0,0,0,0" 
+class="s8_162"
+>(le)</text>
+
+<text 
+x="332" 
+y="207" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_162"
+>signifies : 1) the occurrence or completion of an action or event, or </text>
+
+<text 
+x="143" 
+y="234" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_162"
+>2) the emergence of a situation. The action, event, or situation usually pertains to the past, but </text>
+
+<text 
+x="143" 
+y="262" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_162"
+>sometimes it can refer to the future. Therefore </text>
+
+<text 
+x="450" 
+y="262" 
+dx="0" 
+class="s7_162"
+>了</text>
+
+<text 
+x="475" 
+y="262" 
+dx="0,0,0,0" 
+class="s8_162"
+>(le)</text>
+
+<text 
+x="497" 
+y="262" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_162"
+>is not a “past tense” marker and should not </text>
+
+<text 
+x="143" 
+y="289" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_162"
+>be taken as the equivalent of the past tense in English. In this lesson, it indicates the occurrence </text>
+
+<text 
+x="143" 
+y="317" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_162"
+>or completion of an action or event. It is usually used directly after a verb. In interrogative and </text>
+
+<text 
+x="143" 
+y="344" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s6_162"
+>declarative sentences, it sometimes appears after a verb and the object of the verb.</text>
+
+<text 
+x="154" 
+y="408" 
+dx="0,0" 
+class="s9_162"
+>A </text>
+
+<text 
+x="220" 
+y="410" 
+dx="0,0,0,0,0" 
+class="s10_162"
+>今天妈妈喝</text>
+
+<text 
+x="380" 
+y="410" 
+dx="0" 
+class="s11_162"
+>了</text>
+
+<text 
+x="412" 
+y="410" 
+dx="0,0,0,0" 
+class="s10_162"
+>三杯水。</text>
+
+<text 
+x="224" 
+y="447" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_162"
+>Jīntiān Māma hē </text>
+
+<text 
+x="336" 
+y="447" 
+dx="0,0.2,0.2" 
+class="s12_162"
+>le </text>
+
+<text 
+x="350" 
+y="447" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_162"
+>sān bēi shuǐ.</text>
+
+<text 
+x="224" 
+y="480" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9" 
+class="s6_162"
+>Mom drank three glasses of water today.</text>
+
+<text 
+x="226" 
+y="508" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.7,0,0.2,-0.9" 
+class="s13_162"
+>OCCURRENCE OR COMPLETION OF AN ACTION, IN THE PAST.</text>
+
+<text 
+x="154" 
+y="565" 
+dx="0,0" 
+class="s9_162"
+>B </text>
+
+<text 
+x="220" 
+y="567" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_162"
+>星期一小高请我喝</text>
+
+<text 
+x="476" 
+y="567" 
+dx="0" 
+class="s11_162"
+>了</text>
+
+<text 
+x="508" 
+y="567" 
+dx="0,0,0,0,0" 
+class="s10_162"
+>一瓶可乐。</text>
+
+<text 
+x="224" 
+y="604" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_162"
+>Xīngqīyī Xiǎo Gāo qǐng wǒ hē </text>
+
+<text 
+x="416" 
+y="604" 
+dx="0,0.2,0.2" 
+class="s12_162"
+>le </text>
+
+<text 
+x="430" 
+y="604" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_162"
+>yì píng kělè.</text>
+
+<text 
+x="224" 
+y="636" 
+dx="0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_162"
+>On Monday, Little Gao bought me a bottle of cola.</text>
+
+<text 
+x="226" 
+y="664" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.9,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.7,0,0.2,-0.9" 
+class="s13_162"
+>OCCURRENCE OR COMPLETION OF AN EVENT, IN THE PAST.</text>
+
+<text 
+x="155" 
+y="727" 
+dx="0,0" 
+class="s9_162"
+>C </text>
+
+<text 
+x="198" 
+y="728" 
+dx="0,0,0" 
+class="s14_162"
+>Q: </text>
+
+<text 
+x="224" 
+y="729" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_162"
+>昨天晚上你去打球</text>
+
+<text 
+x="481" 
+y="729" 
+dx="0" 
+class="s11_162"
+>了</text>
+
+<text 
+x="513" 
+y="729" 
+dx="0,0" 
+class="s10_162"
+>吗？</text>
+
+<text 
+x="224" 
+y="766" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_162"
+>Zuótiān wǎnshang nǐ qù dǎ qiú </text>
+
+<text 
+x="421" 
+y="766" 
+dx="0,0.2,0.2" 
+class="s12_162"
+>le </text>
+
+<text 
+x="435" 
+y="766" 
+dx="0,0.2,0.2" 
+class="s8_162"
+>ma?</text>
+
+<text 
+x="224" 
+y="798" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_162"
+>Did you play ball last night?</text>
+
+<text 
+x="226" 
+y="827" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.9,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.7,0,0.2,-0.9,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.6,0.2,0.2,0.2" 
+class="s13_162"
+>OCCURRENCE OR COMPLETION OF AN EVENT, IN THE PAST, INTERROGATIVE</text>
+
+<text 
+x="198" 
+y="890" 
+dx="0,0,0" 
+class="s14_162"
+>A: </text>
+
+<text 
+x="224" 
+y="892" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_162"
+>昨天晚上我去打球</text>
+
+<text 
+x="481" 
+y="892" 
+dx="0" 
+class="s11_162"
+>了</text>
+
+<text 
+x="513" 
+y="892" 
+dx="0" 
+class="s10_162"
+>。</text>
+
+<text 
+x="224" 
+y="929" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_162"
+>Zuótiān wǎnshang wǒ qù dǎ qiú </text>
+
+<text 
+x="426" 
+y="929" 
+dx="0,0.2" 
+class="s12_162"
+>le</text>
+
+<text 
+x="436" 
+y="929" 
+dx="0" 
+class="s8_162"
+>.</text>
+
+<text 
+x="224" 
+y="961" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_162"
+>I went to play ball last night.</text>
+
+<text 
+x="226" 
+y="989" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.9,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.7,0,0.2,-0.9" 
+class="s13_162"
+>OCCURRENCE OR COMPLETION OF AN EVENT, IN THE PAST.</text>
+
+<text 
+x="154" 
+y="1046" 
+dx="0,0" 
+class="s9_162"
+>D </text>
+
+<text 
+x="220" 
+y="1048" 
+dx="0,0,0,0" 
+class="s10_162"
+>明天我吃</text>
+
+<text 
+x="348" 
+y="1048" 
+dx="0" 
+class="s11_162"
+>了</text>
+
+<text 
+x="380" 
+y="1048" 
+dx="0,0,0,0,0,0,0" 
+class="s10_162"
+>晚饭去看电影。</text>
+
+<text 
+x="224" 
+y="1085" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_162"
+>Míngtiān wǒ chī </text>
+
+<text 
+x="330" 
+y="1085" 
+dx="0,0.2,0.2" 
+class="s12_162"
+>le </text>
+
+<text 
+x="344" 
+y="1085" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_162"
+>wǎnfàn qù kàn diànyǐng.</text>
+
+<text 
+x="224" 
+y="1117" 
+dx="0,-1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3" 
+class="s6_162"
+>Tomorrow I’ll go see a movie after I eat dinner.</text>
+
+<text 
+x="226" 
+y="1146" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.7,0.2,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s13_162"
+>OCCURRENCE OR COMPLETION OF AN ACTION IN THE FIRST PART OF THE SENTENCE, IN THE FUTURE</text>
+
+<path d="M132.9,110.2l0,53.5l0,0.8l0.7,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.7,0l0,0.7Z" class="g4_162" />
+<path d="M134.9,162.4l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g5_162" />
+<path d="M149.1,385.3c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_162" />
+<path d="M149.1,387.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_162" />
+<path d="M149.1,541.8c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_162" />
+<path d="M149.1,543.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_162" />
+<path d="M149.1,704.1c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.6c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.6c0,-0.1,0,-7.7,-7.6,-7.7l-22.4,0Z" class="g4_162" />
+<path d="M149.1,706.1c-0.6,0.1,-5.6,0.3,-5.6,5.7l0,19.6c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.6c0,-0.6,-0.2,-5.7,-5.6,-5.7l-22.4,0Z" class="g5_162" />
+<path d="M149.1,1023c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_162" />
+<path d="M149.1,1025c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_162" />
+<path d="M885.3,1209.2l69.6,0l0,-1222.1l-69.6,0l0,1222.1Z" class="g6_162" />
+<text 
+transform="matrix(0, 1, -1, 0, 894, 909)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_162"
+>Lesson 5 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 967)"
+dx="0,0.3" 
+class="s15_162"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 980)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_162"
+>Visiting Friends </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1075)"
+dx="0,0.3" 
+class="s15_162"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1087)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_162"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1157)"
+dx="0,0.3,0.3" 
+class="s15_162"
+>141</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2-g;
+	src: url("fonts/ProximaNova-Semibold_2-g.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2-2;
+	src: url("fonts/ProximaNova-Bold_2-2.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2-b;
+	src: url("fonts/ProximaNova-Light_2-b.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2-a;
+	src: url("fonts/ProximaNova-Extrabld_2-a.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

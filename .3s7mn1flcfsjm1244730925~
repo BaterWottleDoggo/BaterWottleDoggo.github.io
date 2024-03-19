@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 437 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_437{
+fill: #DC262E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_437{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_437{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_437{
+fill: #FFFFFF;
+}
+.g5_437{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_437{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_437{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dhv;
+fill: #231F20;
+}
+.s2_437{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_dj3;
+fill: #FFFFFF;
+}
+.s3_437{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_cg0;
+fill: #FFFFFF;
+}
+.s4_437{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dib;
+fill: #3F3F40;
+}
+.s5_437{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #A8A9AD;
+}
+.s6_437{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dim;
+fill: #3F3F40;
+}
+.s7_437{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M-12.9,1140.6l58,0l0,-1153.5l-58,0l0,1153.5Z" class="g1_437" />
+<text 
+x="20" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_437"
+>414 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_437"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s2_437"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s2_437"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_437"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s2_437"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s2_437"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_437"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s2_437"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s2_437"
+>Textbook</text>
+
+<path d="M-12.9,1140.6l58,0l0,-1153.5l-58,0l0,1153.5Z" class="g2_437" />
+<text 
+x="20" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_437"
+>414 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s3_437"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s3_437"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s3_437"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s3_437"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s3_437"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s3_437"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s3_437"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s3_437"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s3_437"
+>Textbook</text>
+
+<text 
+x="550" 
+y="69" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0" 
+class="s4_437"
+>that she bought an apartment and moved in. </text>
+
+<text 
+x="550" 
+y="88" 
+dx="0,0,0,0,0,-0.4,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>However, the other old lady took out a loan and </text>
+
+<text 
+x="550" 
+y="108" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>bought a house and moved in thirty years </text>
+
+<text 
+x="550" 
+y="128" 
+dx="0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>earlier. If you compare them, which old lady </text>
+
+<text 
+x="550" 
+y="148" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0" 
+class="s4_437"
+>knows how to live better?</text>
+
+<text 
+x="398" 
+y="168" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_437"
+>Zhang Tianming:</text>
+
+<text 
+x="550" 
+y="168" 
+dx="0,0,0,0,0.4,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0" 
+class="s4_437"
+>That’s right. My cousin used this story to </text>
+
+<text 
+x="550" 
+y="188" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_437"
+>persuade my aunt to ﬁnally buy an apartment.</text>
+
+<text 
+x="398" 
+y="208" 
+dx="0,0,0,0,0,0" 
+class="s5_437"
+>Lisha:</text>
+
+<text 
+x="550" 
+y="208" 
+dx="0,0,0,0,0.4,-1,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s4_437"
+>That’s great. Problem solved.</text>
+
+<text 
+x="398" 
+y="227" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_437"
+>Zhang Tianming:</text>
+
+<text 
+x="550" 
+y="227" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,-0.2,0,0,0,-0.1,-0.4,0,0,0,0,0,-0.2,0" 
+class="s4_437"
+>That wasn’t the end of it. Two weeks ago, there </text>
+
+<text 
+x="550" 
+y="247" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s4_437"
+>was an apartment with three bedrooms, a </text>
+
+<text 
+x="550" 
+y="267" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s4_437"
+>living room and two bathrooms that they liked. </text>
+
+<text 
+x="550" 
+y="287" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s4_437"
+>Originally, they were going to sign the purchase </text>
+
+<text 
+x="550" 
+y="307" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.2,0,-1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>agreement the day after tomorrow. Who could </text>
+
+<text 
+x="550" 
+y="327" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0" 
+class="s4_437"
+>have imagined it? My aunt suddenly changed </text>
+
+<text 
+x="550" 
+y="346" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>her mind.</text>
+
+<text 
+x="398" 
+y="366" 
+dx="0,0,0,0,0,0" 
+class="s5_437"
+>Lisha:</text>
+
+<text 
+x="549" 
+y="366" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>What happened?</text>
+
+<text 
+x="398" 
+y="386" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_437"
+>Zhang Tianming:</text>
+
+<text 
+x="550" 
+y="386" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,-0.1,0,0,0,0,-0.2,0,-0.1,0,0,0,0,0" 
+class="s4_437"
+>Since she retired, my aunt often gets together </text>
+
+<text 
+x="550" 
+y="406" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>with her volunteer friends to play mahjong and </text>
+
+<text 
+x="550" 
+y="426" 
+dx="0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>chat. A few days ago my aunt heard that some </text>
+
+<text 
+x="550" 
+y="446" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>of them had made money every time they </text>
+
+<text 
+x="550" 
+y="466" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_437"
+>ﬂipped stocks. So she changed her mind, and </text>
+
+<text 
+x="550" 
+y="485" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s4_437"
+>doesn’t want to buy an apartment anymore.</text>
+
+<text 
+x="398" 
+y="505" 
+dx="0,0,0,0,0,0" 
+class="s5_437"
+>Lisha:</text>
+
+<text 
+x="550" 
+y="505" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s4_437"
+>Does she want to invest in the stock market?</text>
+
+<text 
+x="398" 
+y="525" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_437"
+>Zhang Tianming:</text>
+
+<text 
+x="550" 
+y="525" 
+dx="0,-0.4,0,0,0,0,0,-0.9" 
+class="s4_437"
+>Exactly.</text>
+
+<text 
+x="398" 
+y="545" 
+dx="0,0,0,0,0,0" 
+class="s5_437"
+>Lisha:</text>
+
+<text 
+x="550" 
+y="545" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0" 
+class="s6_437"
+>But doesn’t your aunt know that ﬂipping stocks </text>
+
+<text 
+x="550" 
+y="565" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>is risky? An old gentleman who practices tai </text>
+
+<text 
+x="550" 
+y="585" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,-1,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>chi with Li Wen’s parents mortgaged his house </text>
+
+<text 
+x="550" 
+y="605" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s4_437"
+>to the bank and used all of the money to buy </text>
+
+<text 
+x="550" 
+y="624" 
+dx="0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>stocks. But who would have imagined that the </text>
+
+<text 
+x="550" 
+y="644" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_437"
+>stock market would keep falling. Within three </text>
+
+<text 
+x="550" 
+y="664" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>months he lost half [of the money].</text>
+
+<text 
+x="398" 
+y="684" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_437"
+>Zhang Tianming:</text>
+
+<text 
+x="550" 
+y="684" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0,0,-0.2,0,0" 
+class="s4_437"
+>Is buying an apartment risk-free?</text>
+
+<text 
+x="398" 
+y="704" 
+dx="0,0,0,0,0,0,0" 
+class="s5_437"
+>Lisha: </text>
+
+<text 
+x="550" 
+y="704" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s4_437"
+>Buying an apartment when housing prices are </text>
+
+<text 
+x="550" 
+y="724" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9" 
+class="s4_437"
+>too high is naturally risky.</text>
+
+<text 
+x="398" 
+y="744" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_437"
+>Zhang Tianming:</text>
+
+<text 
+x="550" 
+y="744" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.2,0" 
+class="s4_437"
+>It seems that investment isn’t a simple matter. </text>
+
+<text 
+x="550" 
+y="763" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_437"
+>I don’t know in the end what my aunt will </text>
+
+<text 
+x="550" 
+y="783" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.4" 
+class="s4_437"
+>decide to do.</text>
+
+<path d="M317.9,94.1l0,769.9" class="g3_437" />
+<path d="M283.8,57.5c0,0,-15.2,0,-15.2,15.2l0,3.1c0,0,0,15.3,15.2,15.3l68.2,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g4_437" />
+<text 
+x="303" 
+y="80" 
+dx="0,-1.8,-0.6,-0.7" 
+class="s7_437"
+>Text</text>
+
+<path d="M283.8,56.7c-0.1,0,-16,0.2,-16,16l0,3.1c0,0.2,0.2,16.1,16,16.1l68.2,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.2,0Z" class="g5_437" />
+<path d="M283.8,58.7c-0.5,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.2,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.2,0Z" class="g6_437" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di3;
+	src: url("fonts/LibreFranklin-SemiBold_di3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dim;
+	src: url("fonts/LibreFranklin-Light_dim.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dib;
+	src: url("fonts/LibreFranklin-Light_dib.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dhv;
+	src: url("fonts/LibreFranklin-Medium_dhv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_dj3;
+	src: url("fonts/LibreFranklin-SemiBold_dj3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cg0;
+	src: url("fonts/LibreFranklin-SemiBold_cg0.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

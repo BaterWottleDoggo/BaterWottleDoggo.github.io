@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 229 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_229"><path d="M141.4,1120.6l0,-443.3l664.7,0l0,443.3Z" /></clipPath>
+<clipPath id="c1_229"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_229{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_229{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_229{
+fill: #A1C0E4;
+}
+.g4_229{
+fill: #F58320;
+}
+.g5_229{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_229{
+fill: #FFFFFF;
+}
+.g7_229{
+fill: none;
+stroke: #6D6E71;
+stroke-width: 0.8509723;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_229{
+fill: #0B6739;
+}
+.g9_229{
+fill: #A8A9AD;
+}
+.g10_229{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.3627777;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g11_229{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 0.9670834;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_229{
+fill: #007598;
+}
+.g13_229{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_229{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_47v;
+fill: #3F3F40;
+}
+.s2_229{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_47v;
+fill: #007598;
+}
+.s3_229{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #3F3F40;
+}
+.s4_229{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #007D9F;
+}
+.s5_229{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s6_229{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s7_229{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_48f;
+fill: #3F3F40;
+}
+.s8_229{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_47x;
+fill: #007598;
+}
+.s9_229{
+font-size: 24.44px;
+font-family: STKaitiSC-Bold_3wm;
+fill: #007598;
+}
+.s10_229{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_47x;
+fill: #939598;
+}
+.s11_229{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_48p;
+fill: #FFFFFF;
+}
+.s12_229{
+font-size: 16.47px;
+font-family: LibreFranklin-Medium_48n;
+fill: #6D6E71;
+}
+.s13_229{
+font-size: 18.33px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #231F20;
+}
+.s14_229{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #231F20;
+}
+.s15_229{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #808285;
+}
+.s16_229{
+font-size: 21.39px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #808285;
+}
+.s17_229{
+font-size: 21.39px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #3F3F40;
+}
+.s18_229{
+font-size: 24.44px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #3F3F40;
+}
+.s19_229{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_487;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="157" 
+y="75" 
+dx="0,0" 
+class="s1_229"
+>J </text>
+
+<text 
+x="198" 
+y="78" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_229"
+>Student A </text>
+
+<text 
+x="291" 
+y="78" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_229"
+>这家饭馆儿的师傅和服务员认识</text>
+
+<text 
+x="291" 
+y="116" 
+dx="0,0" 
+class="s3_229"
+>十年</text>
+
+<text 
+x="355" 
+y="116" 
+dx="0" 
+class="s4_229"
+>多</text>
+
+<text 
+x="388" 
+y="116" 
+dx="0,0" 
+class="s3_229"
+>了。</text>
+
+<text 
+x="291" 
+y="152" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_229"
+>Zhè jiā fànguǎnr de shīfu hé fúwùyuán rènshi shí nián </text>
+
+<text 
+x="654" 
+y="152" 
+dx="0,0.3,0.3,0.3" 
+class="s6_229"
+>duō </text>
+
+<text 
+x="682" 
+y="152" 
+dx="0,0.3,0.3" 
+class="s5_229"
+>le.</text>
+
+<text 
+x="291" 
+y="185" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s7_229"
+>The chef and the waiter at this restaurant have known each other </text>
+
+<text 
+x="291" 
+y="203" 
+dx="0,-0.3,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_229"
+>for ten years and some months. </text>
+
+<text 
+x="291" 
+y="235" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0" 
+class="s7_229"
+>(The length of time is longer than ten years but shorter than eleven.)</text>
+
+<text 
+x="198" 
+y="292" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_229"
+>Student B </text>
+
+<text 
+x="291" 
+y="292" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_229"
+>我以为他们认识十多年了。</text>
+
+<text 
+x="291" 
+y="328" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_229"
+>Wǒ yǐwéi tāmen rènshi shí </text>
+
+<text 
+x="469" 
+y="328" 
+dx="0,0.3,0.3,0.3" 
+class="s6_229"
+>duō </text>
+
+<text 
+x="497" 
+y="328" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_229"
+>nián le.</text>
+
+<text 
+x="291" 
+y="360" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s7_229"
+>I thought they had known each other for a dozen years or so. </text>
+
+<text 
+x="291" 
+y="392" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_229"
+>(The length of time is between ten and twenty years.)</text>
+
+<text 
+x="143" 
+y="449" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_229"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="476" 
+dx="0,-1.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_229"
+>Translate the approximate number using </text>
+
+<text 
+x="433" 
+y="478" 
+dx="0" 
+class="s9_229"
+>多</text>
+
+<text 
+x="461" 
+y="476" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,-0.4,0,-0.2,0,0,0,0,0,0" 
+class="s7_229"
+>where appropriate. Use exercise 1 </text>
+
+<text 
+x="143" 
+y="504" 
+dx="0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s7_229"
+>as an example.</text>
+
+<text 
+x="145" 
+y="530" 
+dx="0,0" 
+class="s10_229"
+>1 </text>
+
+<text 
+x="187" 
+y="531" 
+dx="0,-0.4,-0.5,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0" 
+class="s7_229"
+>over one hundred books </text>
+
+<text 
+x="187" 
+y="576" 
+dx="0,0" 
+class="s3_229"
+>→ </text>
+
+<text 
+x="236" 
+y="576" 
+dx="0,0,0,0,0" 
+class="s3_229"
+>一百多本书</text>
+
+<text 
+x="145" 
+y="602" 
+dx="0,0" 
+class="s10_229"
+>2 </text>
+
+<text 
+x="187" 
+y="603" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_229"
+>more than fifty students</text>
+
+<text 
+x="145" 
+y="629" 
+dx="0,0" 
+class="s10_229"
+>3 </text>
+
+<text 
+x="187" 
+y="631" 
+dx="0,-0.4,-0.5,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_229"
+>over two hundred and fifty Chinese characters but fewer than two hundred and sixty</text>
+
+<path d="M150.6,52.4c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g1_229" />
+<path d="M150.6,54.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_229" />
+<g clip-path="url(#c0_229)">
+<path d="M353,698.4c0,-11.7,-9.5,-21.1,-21.2,-21.1l-168.8,0c-11.7,0,-21.1,9.4,-21.1,21.1l0,14.9l211.1,0Z" class="g3_229" />
+</g>
+<path d="M785.8,774.8l19.6,20.5l0,-20.5Z" class="g4_229" />
+<text 
+x="181" 
+y="703" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s11_229"
+>Chinese Chat</text>
+
+<path d="M805.7,716.1l0,54.1l-639.4,0C152.9,770.2,142,759.4,142,746l0,-29.9l663.7,0Z" class="g5_229" />
+<text 
+x="157" 
+y="737" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_229"
+>Bai Ying’ai just posted a review on Airbnb. Would you consider staying at the same </text>
+
+<text 
+x="157" 
+y="756" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s12_229"
+>place after reading her review?</text>
+
+<path d="M141.9,1119.3l663.3,0l0,-320l-663.3,0l0,320Z" class="g6_229" />
+<path d="M805.2,1119.3l-663.3,0l0,-320l663.3,0Z" class="g7_229" />
+<image preserveAspectRatio="none" x="158" y="981" width="31" height="31" xlink:href="229/img/1.png" />
+<image preserveAspectRatio="none" x="189" y="981" width="31" height="31" xlink:href="229/img/2.png" />
+<image preserveAspectRatio="none" x="158" y="1012" width="31" height="31" xlink:href="229/img/3.png" />
+<image preserveAspectRatio="none" x="189" y="1012" width="31" height="31" xlink:href="229/img/4.png" />
+<text 
+x="153" 
+y="843" 
+dx="0,0" 
+class="s13_229"
+>65</text>
+
+<text 
+x="174" 
+y="843" 
+dx="0,0,0" 
+class="s14_229"
+>条评价</text>
+
+<path d="M242.9,828.7l2.4,5l5.6,0.8l-4,3.8l0.9,5.5l-4.9,-2.6l-4.9,2.6l0.9,-5.5l-4,-3.8l5.5,-0.8Z" class="g8_229" />
+<path d="M262.8,828.7l2.4,5l5.5,0.8l-3.9,3.8l0.9,5.5l-4.9,-2.6l-5,2.6l1,-5.5l-4,-3.8l5.5,-0.8Z" class="g8_229" />
+<path d="M282.7,828.7l2.4,5l5.5,0.8l-3.9,3.8l0.9,5.5l-4.9,-2.6l-5,2.6l1,-5.5l-4,-3.8l5.5,-0.8Z" class="g8_229" />
+<path d="M302.6,828.7l2.4,5l5.5,0.8l-4,3.8l1,5.5l-4.9,-2.6l-5,2.6l1,-5.5l-4,-3.8l5.5,-0.8Z" class="g8_229" />
+<path d="M322.4,828.7l2.5,5l5.5,0.8l-4,3.8l1,5.5l-5,-2.6l-4.9,2.6l1,-5.5l-4,-3.8l5.5,-0.8Z" class="g8_229" />
+<path d="M322.4,828.7l2.5,5l5.5,0.8l-4,3.8l1,5.5l-5,-2.6Z" class="g9_229" />
+<path d="M713.5,874.6l1.9,3.9l4.3,0.6l-3.1,3l0.7,4.3l-3.8,-2l-3.9,2l0.7,-4.3l-3.1,-3l4.3,-0.6Z" class="g8_229" />
+<path d="M729.1,874.6l1.9,3.9l4.3,0.6l-3.1,3l0.7,4.3l-3.8,-2l-3.9,2l0.7,-4.3l-3.1,-3l4.3,-0.6Z" class="g8_229" />
+<path d="M744.6,874.6l2,3.9l4.3,0.6l-3.1,3l0.7,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3l4.3,-0.6Z" class="g8_229" />
+<path d="M760.2,874.6l1.9,3.9l4.4,0.6l-3.2,3l0.8,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3l4.3,-0.6Z" class="g8_229" />
+<path d="M775.8,874.6l1.9,3.9l4.3,0.6l-3.1,3l0.8,4.3l-3.9,-2l-3.9,2l0.8,-4.3l-3.2,-3l4.4,-0.6Z" class="g8_229" />
+<path d="M775.8,874.6l1.9,3.9l4.3,0.6l-3.1,3l0.8,4.3l-3.9,-2Z" class="g9_229" />
+<path d="M713.5,927.3l1.9,3.9l4.3,0.6l-3.1,3.1l0.7,4.3l-3.8,-2l-3.9,2l0.7,-4.3l-3.1,-3.1l4.3,-0.6Z" class="g8_229" />
+<path d="M729.1,927.3l1.9,3.9l4.3,0.6l-3.1,3.1l0.7,4.3l-3.8,-2l-3.9,2l0.7,-4.3l-3.1,-3.1l4.3,-0.6Z" class="g8_229" />
+<path d="M744.6,927.3l2,3.9l4.3,0.6l-3.1,3.1l0.7,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3.1l4.3,-0.6Z" class="g8_229" />
+<path d="M760.2,927.3l1.9,3.9l4.4,0.6l-3.2,3.1l0.8,4.3l-3.9,-2l-3.8,2l0.7,-4.3L754,931.8l4.3,-0.6Z" class="g8_229" />
+<path d="M775.8,927.3l1.9,3.9l4.3,0.6l-3.1,3.1l0.8,4.3l-3.9,-2l-3.9,2l0.8,-4.3l-3.2,-3.1l4.4,-0.6Z" class="g8_229" />
+<path d="M775.8,927.3l1.9,3.9l4.3,0.6l-3.1,3.1l0.8,4.3l-3.9,-2Z" class="g9_229" />
+<path d="M713.5,900.9l1.9,3.9l4.3,0.7l-3.1,3l0.7,4.3l-3.8,-2l-3.9,2l0.7,-4.3l-3.1,-3l4.3,-0.7Z" class="g8_229" />
+<path d="M729.1,900.9l1.9,3.9l4.3,0.7l-3.1,3l0.7,4.3l-3.8,-2l-3.9,2l0.7,-4.3l-3.1,-3l4.3,-0.7Z" class="g8_229" />
+<path d="M744.6,900.9l2,3.9l4.3,0.7l-3.1,3l0.7,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3l4.3,-0.7Z" class="g8_229" />
+<path d="M760.2,900.9l1.9,3.9l4.4,0.7l-3.2,3l0.8,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3l4.3,-0.7Z" class="g8_229" />
+<path d="M775.8,900.9l1.9,3.9l4.3,0.7l-3.1,3l0.8,4.3l-3.9,-2l-3.9,2l0.8,-4.3l-3.2,-3l4.4,-0.7Z" class="g8_229" />
+<path d="M470.4,874.6l1.9,3.9l4.3,0.6l-3.1,3l0.8,4.3l-3.9,-2l-3.9,2l0.8,-4.3l-3.1,-3l4.3,-0.6Z" class="g8_229" />
+<path d="M486,874.6l1.9,3.9l4.3,0.6l-3.1,3l0.7,4.3l-3.8,-2l-3.9,2l0.8,-4.3l-3.2,-3l4.4,-0.6Z" class="g8_229" />
+<path d="M501.6,874.6l1.9,3.9l4.3,0.6l-3.1,3l0.7,4.3l-3.8,-2l-3.9,2l0.7,-4.3l-3.1,-3l4.3,-0.6Z" class="g8_229" />
+<path d="M517.1,874.6l2,3.9l4.3,0.6l-3.1,3l0.7,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3l4.3,-0.6Z" class="g8_229" />
+<path d="M532.7,874.6l2,3.9l4.3,0.6l-3.2,3l0.8,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3l4.3,-0.6Z" class="g8_229" />
+<path d="M470.4,927.3l1.9,3.9l4.3,0.6l-3.1,3.1l0.8,4.3l-3.9,-2l-3.9,2l0.8,-4.3l-3.1,-3.1l4.3,-0.6Z" class="g8_229" />
+<path d="M486,927.3l1.9,3.9l4.3,0.6l-3.1,3.1l0.7,4.3l-3.8,-2l-3.9,2l0.8,-4.3l-3.2,-3.1l4.4,-0.6Z" class="g8_229" />
+<path d="M501.6,927.3l1.9,3.9l4.3,0.6l-3.1,3.1l0.7,4.3l-3.8,-2l-3.9,2l0.7,-4.3l-3.1,-3.1l4.3,-0.6Z" class="g8_229" />
+<path d="M517.1,927.3l2,3.9l4.3,0.6l-3.1,3.1l0.7,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3.1l4.3,-0.6Z" class="g8_229" />
+<path d="M532.7,927.3l2,3.9l4.3,0.6l-3.2,3.1l0.8,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3.1l4.3,-0.6Z" class="g8_229" />
+<path d="M470.4,900.9l1.9,3.9l4.3,0.7l-3.1,3l0.8,4.3l-3.9,-2l-3.9,2l0.8,-4.3l-3.1,-3l4.3,-0.7Z" class="g8_229" />
+<path d="M486,900.9l1.9,3.9l4.3,0.7l-3.1,3l0.7,4.3l-3.8,-2l-3.9,2l0.8,-4.3l-3.2,-3l4.4,-0.7Z" class="g8_229" />
+<path d="M501.6,900.9l1.9,3.9l4.3,0.7l-3.1,3l0.7,4.3l-3.8,-2l-3.9,2l0.7,-4.3l-3.1,-3l4.3,-0.7Z" class="g8_229" />
+<path d="M517.1,900.9l2,3.9l4.3,0.7l-3.1,3l0.7,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3l4.3,-0.7Z" class="g8_229" />
+<path d="M532.7,900.9l2,3.9l4.3,0.7l-3.2,3l0.8,4.3l-3.9,-2l-3.8,2l0.7,-4.3l-3.1,-3l4.3,-0.7Z" class="g8_229" />
+<path d="M781.1,842L588,842l0,-33.7l193.1,0Z" class="g10_229" />
+<path d="M784.7,1113.4l-57.7,0c-2.6,0,-4.6,-2,-4.6,-4.5l0,-14.8c0,-2.5,2,-4.5,4.6,-4.5l57.7,0c2.5,0,4.5,2,4.5,4.5l0,14.8c0,2.5,-2,4.5,-4.5,4.5Z" class="g10_229" />
+<text 
+x="597" 
+y="831" 
+dx="0,0,0,0" 
+class="s15_229"
+>搜索评价</text>
+
+<text 
+x="154" 
+y="891" 
+dx="0,0" 
+class="s16_229"
+>概述</text>
+
+<text 
+x="315" 
+y="891" 
+dx="0,0,0" 
+class="s17_229"
+>准确性</text>
+
+<text 
+x="315" 
+y="915" 
+dx="0,0,0,0" 
+class="s17_229"
+>沟通交流</text>
+
+<text 
+x="315" 
+y="939" 
+dx="0,0,0" 
+class="s17_229"
+>清洁度</text>
+
+<text 
+x="560" 
+y="891" 
+dx="0,0" 
+class="s17_229"
+>位置</text>
+
+<text 
+x="560" 
+y="915" 
+dx="0,0" 
+class="s17_229"
+>入住</text>
+
+<text 
+x="560" 
+y="939" 
+dx="0,0,0" 
+class="s17_229"
+>性价比</text>
+
+<text 
+x="161" 
+y="1065" 
+dx="0,0,0" 
+class="s15_229"
+>白英爱</text>
+
+<text 
+x="237" 
+y="1008" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0.5,0,0,-0.2" 
+class="s18_229"
+>我在这个公寓住了两天了。公寓带家具；离公园、</text>
+
+<text 
+x="237" 
+y="1040" 
+dx="0,0,0,0.5,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0.5,0,0" 
+class="s18_229"
+>商店、地铁站都很近，做什么都非常方便。冰箱里</text>
+
+<text 
+x="237" 
+y="1072" 
+dx="0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_229"
+>每天都有水果和饮料，这样连早饭都不用出去吃了！</text>
+
+<path d="M731.9,1109.1l-1,0c-0.3,0,-0.6,-0.3,-0.6,-0.6l0,-8.6c0,-0.4,0.3,-0.6,0.6,-0.6l1,0c0.3,0,0.6,0.2,0.6,0.6l0,8.6c0,0.3,-0.3,0.6,-0.6,0.6Z" class="g11_229" />
+<path d="M733.6,1108.5l0,-8.8c0,0,1.7,-1,1.7,-2c0,-1,-0.8,-4.8,0.9,-4.2c1.7,0.6,1.8,1.5,1.8,2.5c0,1,-0.5,3.1,-0.1,3.5c0.4,0.3,5.3,-0.4,5.5,0c0.3,0.3,0.6,1.3,0.3,1.8c-0.4,0.5,0.6,1.6,-0.4,2.7c-1,1.2,0,4,-1,4.5c-1,0.5,-8.2,0.9,-8.7,0Z" class="g11_229" />
+<text 
+x="748" 
+y="1107" 
+dx="0,0" 
+class="s15_229"
+>有用</text>
+
+<path d="M0,1196.3l40.5,0L40.5,0L0,0L0,1196.3Z" class="g12_229" />
+<g clip-path="url(#c1_229)">
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g13_229" />
+</g>
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s19_229"
+>208 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1128)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s19_229"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 988)"
+dx="0,1" 
+class="s19_229"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 974)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s19_229"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_3ru;
+	src: url("fonts/SourceHanSansCN-Regular_3ru.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_47x;
+	src: url("fonts/LibreFranklin-Bold_47x.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_48n;
+	src: url("fonts/LibreFranklin-Medium_48n.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Regular_3ri;
+	src: url("fonts/SourceHanSansTW-Regular_3ri.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_3wm;
+	src: url("fonts/STKaitiSC-Bold_3wm.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_44y;
+	src: url("fonts/STKaitiSC-Regular_44y.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_48f;
+	src: url("fonts/LibreFranklin-Regular_48f.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_487;
+	src: url("fonts/LibreFranklin-SemiBold_487.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_48p;
+	src: url("fonts/LibreFranklin-SemiBold_48p.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_47v;
+	src: url("fonts/LibreFranklin-ExtraBold_47v.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

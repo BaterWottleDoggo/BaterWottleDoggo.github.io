@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 61 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_61{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_61{
+fill: #3986C6;
+}
+.g3_61{
+fill: #E2E3E5;
+}
+.g4_61{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_61{
+fill: #ED692E;
+}
+.g6_61{
+fill: none;
+stroke: #ED692E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_61{
+fill: #8B8D9A;
+}
+.g8_61{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_61{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cqy;
+fill: #231F20;
+}
+.s2_61{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cpr;
+fill: #231F20;
+}
+.s3_61{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_cpr;
+fill: #231F20;
+}
+.s4_61{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_cqx;
+fill: #231F20;
+}
+.s5_61{
+font-size: 22.92px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s6_61{
+font-size: 19.10px;
+font-family: Alegreya-Regular_cpq;
+fill: #231F20;
+}
+.s7_61{
+font-size: 16.04px;
+font-family: Alegreya-Regular_cpq;
+fill: #231F20;
+}
+.s8_61{
+font-size: 19.10px;
+font-family: Alegreya-Bold_cpw;
+fill: #231F20;
+}
+.s9_61{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s10_61{
+font-size: 16.81px;
+font-family: ProximaNovaCond-Extrabld_cqu;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_61"
+>Go Far with Chinese</text>
+
+<text 
+x="38" 
+y="1149" 
+dx="0,0" 
+class="s2_61"
+>38</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_61" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_61" />
+<path d="M211.3,251.3c-3.8,0,-6.9,3,-6.9,6.8l0,26.4c0,3.8,3.1,6.9,6.9,6.9l25.8,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-26.4c0,-3.8,-3.1,-6.8,-6.9,-6.8Z" class="g3_61" />
+<path d="M207.6,333.8c-3.8,0,-6.9,3,-6.9,6.8l0,26.4c0,3.8,3.1,6.9,6.9,6.9l25.9,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-26.4c0,-3.8,-3.1,-6.8,-6.9,-6.8Z" class="g3_61" />
+<path d="M210.6,581.3c-3.8,0,-6.8,3,-6.8,6.8l0,26.4c0,3.8,3,6.9,6.8,6.9l25.9,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-26.4c0,-3.8,-3.1,-6.8,-6.9,-6.8Z" class="g3_61" />
+<path d="M180.5,657.2c-3.8,0,-6.9,3.1,-6.9,6.9l0,26.3c0,3.8,3.1,6.9,6.9,6.9l26.4,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-26.3c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_61" />
+<path d="M277.4,657.2c-3.8,0,-6.9,3.1,-6.9,6.9l0,26.3c0,3.8,3.1,6.9,6.9,6.9l57.2,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-26.3c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_61" />
+<path d="M211,418.1c-3.8,0,-6.9,3.1,-6.9,6.9l0,26.3c0,3.8,3.1,6.9,6.9,6.9l55,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-26.3c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_61" />
+<text 
+x="110" 
+y="98" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s3_61"
+>Language Reference</text>
+
+<path d="M311.6,92.1l520.5,0" class="g4_61" />
+<path d="M311.6,95.2c1.7,0,3.1,-1.4,3.1,-3.1c0,-1.7,-1.4,-3,-3.1,-3c-1.7,0,-3,1.3,-3,3c0,1.7,1.3,3.1,3,3.1Z" class="g2_61" />
+<text 
+x="140" 
+y="144" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_61"
+>Expressing having and not having with </text>
+
+<text 
+x="466" 
+y="144" 
+dx="0" 
+class="s4_61"
+>有</text>
+
+<text 
+x="493" 
+y="144" 
+dx="0,0,0,0" 
+class="s2_61"
+>and </text>
+
+<text 
+x="529" 
+y="144" 
+dx="0,-1.1" 
+class="s4_61"
+>没有</text>
+
+<text 
+x="138" 
+y="182" 
+dx="0" 
+class="s5_61"
+>有</text>
+
+<text 
+x="165" 
+y="182" 
+dx="0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0" 
+class="s6_61"
+>(yǒu) is different from other Chinese verbs because the word </text>
+
+<text 
+x="634" 
+y="182" 
+dx="0" 
+class="s5_61"
+>没</text>
+
+<text 
+x="661" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s6_61"
+>(méi) is used for the </text>
+
+<text 
+x="140" 
+y="208" 
+dx="0,0,-0.2,-0.2,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_61"
+>negative form instead of </text>
+
+<text 
+x="333" 
+y="208" 
+dx="0" 
+class="s5_61"
+>不</text>
+
+<text 
+x="361" 
+y="208" 
+dx="0" 
+class="s6_61"
+>.</text>
+
+<text 
+x="211" 
+y="243" 
+dx="0,0,0.2" 
+class="s7_61"
+>yǒu</text>
+
+<text 
+x="140" 
+y="278" 
+dx="0,0" 
+class="s8_61"
+>Q:</text>
+
+<text 
+x="167" 
+y="281" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s9_61"
+>你 有 中文名字吗？</text>
+
+<text 
+x="549" 
+y="278" 
+dx="0,0,0,0,-0.3,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_61"
+>Do you have a Chinese name?</text>
+
+<text 
+x="208" 
+y="326" 
+dx="0,0,0.2" 
+class="s7_61"
+>yǒu</text>
+
+<text 
+x="140" 
+y="361" 
+dx="0,0,0" 
+class="s8_61"
+>A1:</text>
+
+<text 
+x="163" 
+y="364" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_61"
+>我 有 中文名字。</text>
+
+<text 
+x="549" 
+y="361" 
+dx="0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s6_61"
+>I have a Chinese name.</text>
+
+<text 
+x="212" 
+y="410" 
+dx="0,0.2,0.2,0.2,0,0.2" 
+class="s7_61"
+>méiyǒu</text>
+
+<text 
+x="140" 
+y="445" 
+dx="0,0,0" 
+class="s8_61"
+>A2:</text>
+
+<text 
+x="165" 
+y="447" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s9_61"
+>我 没有 中文名字。</text>
+
+<text 
+x="549" 
+y="445" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s6_61"
+>I do not have a Chinese name.</text>
+
+<text 
+x="140" 
+y="518" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_61"
+>Questions with </text>
+
+<text 
+x="262" 
+y="518" 
+dx="0" 
+class="s5_61"
+>有</text>
+
+<text 
+x="289" 
+y="518" 
+dx="0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_61"
+>(yǒu) can also be answered more simply by just responding </text>
+
+<text 
+x="745" 
+y="518" 
+dx="0" 
+class="s5_61"
+>有</text>
+
+<text 
+x="772" 
+y="518" 
+dx="0,0,-0.3,0,0,0" 
+class="s6_61"
+>(yǒu) </text>
+
+<text 
+x="140" 
+y="544" 
+dx="0,0,0" 
+class="s6_61"
+>or </text>
+
+<text 
+x="161" 
+y="544" 
+dx="0,0" 
+class="s5_61"
+>没有</text>
+
+<text 
+x="211" 
+y="544" 
+dx="0,0,0,0,0,-0.3,0,0,0" 
+class="s6_61"
+>(méiyǒu).</text>
+
+<text 
+x="140" 
+y="608" 
+dx="0,0,0" 
+class="s8_61"
+>Q: </text>
+
+<text 
+x="167" 
+y="611" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s9_61"
+>你 有 英文名字吗？</text>
+
+<text 
+x="549" 
+y="608" 
+dx="0,0,0,0,-0.3,0,0,0,0,-0.4,-0.3,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_61"
+>Do you have an English name?</text>
+
+<text 
+x="140" 
+y="683" 
+dx="0,0,0" 
+class="s8_61"
+>A: </text>
+
+<text 
+x="178" 
+y="686" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_61"
+>有 。/ 没有 。</text>
+
+<text 
+x="549" 
+y="683" 
+dx="0,-0.8,0,-0.4,-0.4,0,0,0,0,-0.8,-0.4,0,0,0,-0.4,-0.8,-0.4,0,0,0,0,0,-1.5,0,0" 
+class="s6_61"
+>Yes, I do. / No, I don't.</text>
+
+<text 
+x="213" 
+y="573" 
+dx="0,0,0.2" 
+class="s7_61"
+>yǒu</text>
+
+<text 
+x="182" 
+y="650" 
+dx="0,0,0.2,0.2" 
+class="s7_61"
+>yǒu </text>
+
+<text 
+x="281" 
+y="650" 
+dx="0,0.2,0.2,0.2,0,0.2" 
+class="s7_61"
+>méiyǒu</text>
+
+<text 
+x="165" 
+y="897" 
+dx="0,-0.8,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,-0.4,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,-0.4,0,0,0,-1.1,-0.4,0,0,0,0,-0.4,0,0,0,0,0,-1.1,-0.4,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4" 
+class="s6_61"
+>You know how to say two of the 5W’s, “who” and “what,” in Chinese. </text>
+
+<text 
+x="165" 
+y="923" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.6,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-1.1,0,0,0,0" 
+class="s6_61"
+>Ask your teacher how to say the remaining W’s. Refer back to Topic </text>
+
+<text 
+x="165" 
+y="949" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_61"
+>4 in Chapter 1 if you need a reminder of how to use Chinese to ask </text>
+
+<text 
+x="165" 
+y="975" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_61"
+>for the Chinese word for something.</text>
+
+<path d="M137.5,818.6l0,-27.1l5.2,0l0,22.5l12,0l0,4.6Z" class="g5_61" />
+<path d="M181.8,818.6l-5.2,0l-2.2,-6.4l-10.7,0l-2.2,6.4l-5.2,0L166,791.5l6.2,0ZM169,796.1l-4,11.7l8,0Z" class="g5_61" />
+<path d="M201.5,791.5l5,0l0,27.4l-5.6,0L188.2,799l0,19.6l-4.9,0l0,-27.1l5.7,0l12.5,19.8Z" class="g5_61" />
+<path d="M222.6,819.3c-8.2,0,-13.8,-5.4,-13.8,-14.2c0,-8.7,5.6,-14.2,13.8,-14.2c3.2,0,7,0.9,9.4,2.3l-1.7,4.6c-2.3,-1.4,-5,-2.4,-7.6,-2.4c-5.3,0,-8.7,3.7,-8.7,9.6c0,6,3.2,9.8,8.7,9.8c1.8,0,3.7,-0.5,5,-1.1l0,-5.2l-7,0l0,-4.4l11.8,0l0,12.6c-2.9,1.7,-6.6,2.6,-9.9,2.6Z" class="g5_61" />
+<path d="M246.3,819.3c-6.8,0,-11,-3.9,-11,-11l0,-16.8l5.1,0l0,16.2c0,4.4,1.9,6.9,6.1,6.9c3.7,0,5.7,-2,5.7,-6.7l0,-16.4l5.2,0l0,16.4c0,7.3,-4.1,11.4,-11.1,11.4Z" class="g5_61" />
+<path d="M311.6,819.3c-8.1,0,-13.8,-5.4,-13.8,-14.2c0,-8.7,5.7,-14.2,13.9,-14.2c3.2,0,7,0.9,9.4,2.3l-1.7,4.6c-2.3,-1.4,-5,-2.4,-7.6,-2.4c-5.3,0,-8.7,3.7,-8.7,9.6c0,6,3.2,9.8,8.7,9.8c1.8,0,3.7,-0.5,5,-1.1l0,-5.2l-7,0l0,-4.4l11.8,0l0,12.6c-2.9,1.7,-6.6,2.6,-10,2.6Z" class="g5_61" />
+<path d="M324.5,818.6l0,-27.1l18.1,0l0,4.5l-13,0l0,6.8l10.6,0l0,4.5l-10.6,0l0,6.9l13,0l0,4.4Z" class="g5_61" />
+<path d="M217,830.1c-2.1,-1.4,-4.4,-2.2,-6.9,-2.2c-5.2,0,-8.7,3.7,-8.7,9.6c0,5.9,3.4,9.7,8.8,9.7c2.7,0,5.3,-1,7.2,-2.4l1,4.8c-2.1,1.3,-5.4,2.2,-8.5,2.2c-8.1,0,-13.7,-5.3,-13.7,-14.2c0,-8.6,5.6,-14.2,13.9,-14.2c3.1,0,6.2,0.8,8.5,2.1Z" class="g2_61" />
+<path d="M238.5,851.1l0,-11.3l-12.6,0l0,11.3l-5.2,0l0,-27.1l5.2,0l0,11.2l12.6,0l0,-11.2l5.2,0l0,27.1Z" class="g2_61" />
+<path d="M311.6,851.1l0,-27.1l5.2,0l0,22.5l12,0l0,4.6Z" class="g2_61" />
+<path d="M331.5,851.1l0,-27.1l5.2,0l0,22.5l11.9,0l0,4.6Z" class="g2_61" />
+<path d="M351.3,851.1l0,-27.1l18.1,0l0,4.5l-13,0l0,6.8l10.7,0l0,4.5l-10.7,0l0,6.8l13,0l0,4.5Z" class="g2_61" />
+<path d="M390.1,824l4.9,0l0,27.4l-5.5,0l-12.7,-20l0,19.7l-4.9,0l0,-27.1l5.6,0l12.6,19.7Z" class="g2_61" />
+<path d="M410.2,851.8c-8.1,0,-13.8,-5.4,-13.8,-14.2c0,-8.7,5.6,-14.2,13.9,-14.2c3.2,0,7,0.9,9.4,2.3l-1.7,4.6c-2.3,-1.5,-5,-2.4,-7.6,-2.4c-5.3,0,-8.7,3.7,-8.7,9.6c0,6,3.2,9.8,8.7,9.8c1.8,0,3.7,-0.5,5,-1.1l0,-5.2l-7,0l0,-4.4l11.8,0l0,12.6c-2.9,1.7,-6.6,2.6,-10,2.6Z" class="g2_61" />
+<path d="M423.9,851.1l0,-27.1l18.1,0l0,4.5l-13,0l0,6.8l10.7,0l0,4.5l-10.7,0l0,6.8l13,0l0,4.5Z" class="g2_61" />
+<path d="M309.9,851l-7.6,0l-7.8,-21.5l-33.2,0L253.6,851l-7.7,0l27.8,-74.9l8.9,0ZM278,783.7l-14.1,38.9l28,0Z" class="g5_61" />
+<path d="M309.9,851l-7.6,0l-7.8,-21.5l-33.2,0L253.6,851l-7.7,0l27.8,-74.9l8.9,0L309.9,851ZM278,783.7l-14.1,38.9l28,0L278,783.7Z" class="g6_61" />
+<path d="M279.2,759.5c0,0,3.6,-3,8.7,1.1c5.1,4,6,2.1,6,2.1c0,0,-2,3.5,-5.5,4c-3.6,0.5,-8.3,1,-9.2,-0.2Z" class="g5_61" />
+<path d="M279.4,776.1l-2.5,0l0,-17.9l2.5,0l0,17.9Z" class="g7_61" />
+<path d="M364,794.2l75.8,0c7.8,0,14.1,7.8,14.1,17.4l0,40.2l231.2,0" class="g8_61" />
+<path d="M364,798.8c2.5,0,4.6,-2,4.6,-4.6c0,-2.5,-2.1,-4.6,-4.6,-4.6c-2.5,0,-4.6,2.1,-4.6,4.6c0,2.6,2.1,4.6,4.6,4.6Z" class="g2_61" />
+<path d="M138.6,837.7L139.1,990c0,10.1,8.3,18.3,18.4,18.3l552.9,0" class="g8_61" />
+<path d="M710.4,1012.9c2.5,0,4.6,-2,4.6,-4.6c0,-2.5,-2.1,-4.5,-4.6,-4.5c-2.5,0,-4.6,2,-4.6,4.5c0,2.6,2.1,4.6,4.6,4.6Z" class="g2_61" />
+<path d="M110,148l20.6,0l0,-20.7l-20.6,0l0,20.7Z" class="g3_61" />
+<text 
+x="115" 
+y="144" 
+dx="0" 
+class="s10_61"
+>3</text>
+
+<path d="M710.1,1005.3l0.6,-126c0.1,-15.2,-12.2,-27.5,-27.4,-27.5l-136.4,0" class="g4_61" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Alegreya-Bold_cpw;
+	src: url("fonts/Alegreya-Bold_cpw.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNovaCond-Extrabld_cqu;
+	src: url("fonts/ProximaNovaCond-Extrabld_cqu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cqy;
+	src: url("fonts/ProximaNova-Semibold_cqy.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cpr;
+	src: url("fonts/ProximaNova-Bold_cpr.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cqx;
+	src: url("fonts/STKaiti-SC-Bold_cqx.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_cpq;
+	src: url("fonts/Alegreya-Regular_cpq.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

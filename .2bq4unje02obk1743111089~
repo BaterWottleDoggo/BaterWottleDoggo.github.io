@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 230 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_230"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+<clipPath id="c1_230"><path d="M511.2,411.4C468.8,411.4,426,408,383,400.9C237.4,376.9,107.2,314.1,0,223.7L0,0L921.3,0l0,298C797.6,370.7,657.2,411.4,511.2,411.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_230{
+fill: #F0F1F2;
+}
+.g2_230{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_230{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_230{
+fill: #FFFFFF;
+}
+.g5_230{
+fill: #FED205;
+}
+.g6_230{
+fill: #927300;
+}
+.g7_230{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.9815279;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_230{
+fill: none;
+stroke: #AAA9A9;
+stroke-width: 1.5583333;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_230{
+fill: none;
+stroke: #AAA9A9;
+stroke-width: 0.5209722;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_230{
+fill: #AAA9A9;
+}
+.g11_230{
+fill: none;
+stroke: #AAA9A9;
+stroke-width: 0.6111111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_230{
+fill: none;
+stroke: #B1B0B0;
+stroke-width: 0.9548611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g13_230{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.3575;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g14_230{
+fill: #482D8F;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_230{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_32r;
+fill: #482D8F;
+}
+.s2_230{
+font-size: 15.28px;
+font-family: ProximaNova-Semibold_32_;
+fill: #77787B;
+}
+.s3_230{
+font-size: 32.85px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #482D8F;
+}
+.s4_230{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #482D8F;
+}
+.s5_230{
+font-size: 15.28px;
+font-family: ProximaNova-Regular_332;
+fill: #3F3F40;
+}
+.s6_230{
+font-size: 14.51px;
+font-family: ProximaNova-Light_330;
+fill: #3F3F40;
+}
+.s7_230{
+font-size: 21.79px;
+font-family: MuseoSlab-900_32s;
+fill: #231F20;
+}
+.s8_230{
+font-size: 38.71px;
+font-family: MuseoSlab-700_333;
+fill: #231F20;
+}
+.s9_230{
+font-size: 10.51px;
+font-family: MuseoSlab-900_32s;
+fill: #231F20;
+}
+.s10_230{
+font-size: 20.67px;
+font-family: MuseoSlab-900_32s;
+fill: #231F20;
+}
+.s11_230{
+font-size: 14.51px;
+font-family: ProximaNova-MediumIt_334;
+fill: #FFFFFF;
+}
+.s12_230{
+font-size: 35.14px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #FFFFFF;
+}
+.s13_230{
+font-size: 19.10px;
+font-family: Marion-Italic_2si;
+fill: #A4A3A3;
+}
+.s14_230{
+font-size: 13.75px;
+font-family: ProximaNova-Medium_32t;
+fill: #AAA9A9;
+}
+.s15_230{
+font-size: 30.56px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #AAA9A9;
+}
+.s16_230{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_32_;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M123.8,498.8l41.7,0l0,48.1l-41.7,0l0,-48.1Zm41.7,0l121,0l0,48.1l-121,0l0,-48.1Zm121,0l97.9,0l0,48.1l-97.9,0l0,-48.1Zm97.9,0l69,0l0,48.1l-69,0l0,-48.1Zm69,0l384.4,0l0,48.1l-384.4,0l0,-48.1ZM123.8,595.1l41.7,0l0,48.1l-41.7,0l0,-48.1Zm41.7,0l121,0l0,48.1l-121,0l0,-48.1Zm121,0l97.9,0l0,48.1l-97.9,0l0,-48.1Zm97.9,0l69,0l0,48.1l-69,0l0,-48.1Zm69,0l384.4,0l0,48.1l-384.4,0l0,-48.1Z" class="g1_230" />
+<path d="M123.8,595.1l41.7,0" class="g2_230" />
+<path d="M165.5,595.1l121,0" class="g2_230" />
+<path d="M286.5,595.1l97.9,0" class="g2_230" />
+<path d="M384.4,595.1l69,0" class="g2_230" />
+<path d="M453.4,595.1l384.4,0" class="g2_230" />
+<path d="M123.8,643.2l41.7,0" class="g2_230" />
+<path d="M165.5,643.2l121,0" class="g2_230" />
+<path d="M286.5,643.2l97.9,0" class="g2_230" />
+<path d="M384.4,643.2l69,0" class="g2_230" />
+<path d="M453.4,643.2l384.4,0" class="g2_230" />
+<path d="M123.8,498.8l41.7,0" class="g3_230" />
+<path d="M165.5,498.8l121,0" class="g3_230" />
+<path d="M286.5,498.8l97.9,0" class="g3_230" />
+<path d="M384.4,498.8l69,0" class="g3_230" />
+<path d="M453.4,498.8l384.4,0" class="g3_230" />
+<path d="M123.8,691.3l41.7,0" class="g3_230" />
+<path d="M165.5,691.3l121,0" class="g3_230" />
+<path d="M286.5,691.3l97.9,0" class="g3_230" />
+<path d="M384.4,691.3l69,0" class="g3_230" />
+<path d="M453.4,691.3l384.4,0" class="g3_230" />
+<path d="M123.8,546.9l41.7,0" class="g2_230" />
+<path d="M165.5,546.9l121,0" class="g2_230" />
+<path d="M286.5,546.9l97.9,0" class="g2_230" />
+<path d="M384.4,546.9l69,0" class="g2_230" />
+<path d="M453.4,546.9l384.4,0" class="g2_230" />
+<text 
+x="133" 
+y="485" 
+dx="0,0.2,0.1" 
+class="s1_230"
+>No.</text>
+
+<text 
+x="179" 
+y="485" 
+dx="0,-0.5,0.2,0.2" 
+class="s1_230"
+>Word</text>
+
+<text 
+x="296" 
+y="485" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s1_230"
+>Pinyin</text>
+
+<text 
+x="394" 
+y="478" 
+dx="0,-0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_230"
+>Part of</text>
+
+<text 
+x="394" 
+y="492" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s1_230"
+>Speech</text>
+
+<text 
+x="463" 
+y="485" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_230"
+>Definition</text>
+
+<text 
+x="133" 
+y="528" 
+dx="0,0,0" 
+class="s2_230"
+>19 </text>
+
+<text 
+x="179" 
+y="534" 
+dx="0,0" 
+class="s3_230"
+>以前</text>
+
+<text 
+x="299" 
+y="528" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_230"
+>yǐqián</text>
+
+<text 
+x="394" 
+y="528" 
+dx="0" 
+class="s5_230"
+>t</text>
+
+<text 
+x="463" 
+y="528" 
+dx="0,0,0,0,0,0" 
+class="s6_230"
+>before</text>
+
+<text 
+x="133" 
+y="577" 
+dx="0,0,0" 
+class="s2_230"
+>20 </text>
+
+<text 
+x="179" 
+y="582" 
+dx="0,0" 
+class="s3_230"
+>告诉</text>
+
+<text 
+x="299" 
+y="576" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s4_230"
+>gàosu</text>
+
+<text 
+x="394" 
+y="577" 
+dx="0" 
+class="s5_230"
+>v</text>
+
+<text 
+x="463" 
+y="576" 
+dx="0,0,0,0,0,0,0" 
+class="s6_230"
+>to tell</text>
+
+<text 
+x="133" 
+y="625" 
+dx="0,0,0" 
+class="s2_230"
+>21 </text>
+
+<text 
+x="179" 
+y="630" 
+dx="0,0" 
+class="s3_230"
+>已经</text>
+
+<text 
+x="299" 
+y="625" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_230"
+>yǐjīng</text>
+
+<text 
+x="394" 
+y="625" 
+dx="0,0,0" 
+class="s5_230"
+>adv</text>
+
+<text 
+x="463" 
+y="624" 
+dx="0,0,0,0,0,0,0" 
+class="s6_230"
+>already</text>
+
+<text 
+x="133" 
+y="673" 
+dx="0,0,0" 
+class="s2_230"
+>22 </text>
+
+<text 
+x="179" 
+y="679" 
+dx="0,0" 
+class="s3_230"
+>知道</text>
+
+<text 
+x="299" 
+y="673" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_230"
+>zhīdao</text>
+
+<text 
+x="394" 
+y="673" 
+dx="0" 
+class="s5_230"
+>v</text>
+
+<text 
+x="463" 
+y="672" 
+dx="0,0,0,0,0,0,0" 
+class="s6_230"
+>to know</text>
+
+<g clip-path="url(#c0_230)">
+<path d="M1358.7,-353.5c81,-492.1,-224.5,-952.2,-682.3,-1027.6c-457.8,-75.3,-894.6,262.5,-975.6,754.6c-81,492.1,224.4,952,682.2,1027.4c457.8,75.4,894.6,-262.4,975.7,-754.4Z" class="g4_230" />
+</g>
+<g clip-path="url(#c1_230)">
+<path d="M1358.7,-353.5c81,-492.1,-224.5,-952.2,-682.3,-1027.6c-457.8,-75.3,-894.6,262.5,-975.6,754.6c-81,492.1,224.4,952,682.2,1027.4c457.8,75.4,894.6,-262.4,975.7,-754.4Z" class="g4_230" />
+</g>
+<image preserveAspectRatio="none" x="0" y="0" width="54" height="307" xlink:href="230/img/1.png" />
+<image preserveAspectRatio="none" x="216" y="0" width="272" height="256" xlink:href="230/img/2.png" />
+<image preserveAspectRatio="none" x="488" y="0" width="271" height="256" xlink:href="230/img/3.png" />
+<image preserveAspectRatio="none" x="759" y="0" width="163" height="359" xlink:href="230/img/4.png" />
+<image preserveAspectRatio="none" x="54" y="256" width="109" height="51" xlink:href="230/img/5.png" />
+<image preserveAspectRatio="none" x="216" y="256" width="435" height="154" xlink:href="230/img/6.png" />
+<image preserveAspectRatio="none" x="650" y="256" width="109" height="154" xlink:href="230/img/7.png" />
+<image preserveAspectRatio="none" x="108" y="307" width="109" height="52" xlink:href="230/img/8.png" />
+<image preserveAspectRatio="none" x="759" y="358" width="54" height="52" xlink:href="230/img/9.png" />
+<g clip-path="url(#c1_230)">
+<path d="M1358.7,-353.5l2.2,0.3c40.6,-246.6,-15.6,-485.2,-139.4,-671.6c-123.8,-186.5,-315.1,-320.7,-544.7,-358.5c-229.6,-37.8,-453.9,28,-630.9,164.9c-177,136.9,-306.7,344.9,-347.3,591.5c-40.7,246.6,15.6,485.2,139.4,671.6C-38.3,231.1,153,365.4,382.6,403.2c229.6,37.8,453.9,-28.1,630.9,-165c177,-136.9,306.8,-344.7,347.4,-591.4l-2.2,-0.3l-2.3,-0.4C1316,-108.4,1186.8,98.4,1010.7,234.6C834.6,370.8,611.6,436.2,383.3,398.6C155.1,361,-35.1,227.6,-158.2,42.1C-281.4,-143.2,-337.3,-380.7,-296.9,-626.2c40.4,-245.4,169.6,-452.4,345.6,-588.6c176.1,-136.2,399.1,-201.6,627.3,-164c228.3,37.6,418.5,171,541.7,356.5c123.1,185.5,179.1,422.9,138.7,668.4l2.3,0.4Z" class="g5_230" />
+</g>
+<g clip-path="url(#c0_230)">
+<path d="M1358.7,-353.5l2.2,0.3c40.6,-246.6,-15.6,-485.2,-139.4,-671.6c-123.8,-186.5,-315.1,-320.7,-544.7,-358.5c-229.6,-37.8,-453.9,28,-630.9,164.9c-177,136.9,-306.7,344.9,-347.3,591.5c-40.7,246.6,15.6,485.2,139.4,671.6C-38.3,231.1,153,365.4,382.6,403.2c229.6,37.8,453.9,-28.1,630.9,-165c177,-136.9,306.8,-344.7,347.4,-591.4l-2.2,-0.3l-2.3,-0.4C1316,-108.4,1186.8,98.4,1010.7,234.6C834.6,370.8,611.6,436.2,383.3,398.6C155.1,361,-35.1,227.6,-158.2,42.1C-281.4,-143.2,-337.3,-380.7,-296.9,-626.2c40.4,-245.4,169.6,-452.4,345.6,-588.6c176.1,-136.2,399.1,-201.6,627.3,-164c228.3,37.6,418.5,171,541.7,356.5c123.1,185.5,179.1,422.9,138.7,668.4l2.3,0.4Z" class="g5_230" />
+</g>
+<image preserveAspectRatio="none" x="50" y="0" width="176" height="356" xlink:href="230/img/10.png" />
+<path d="M51.7,261c9.3,7.1,20.2,14.4,31.8,21.7C72.7,275.7,62.1,268.5,51.7,261m161.8,89.6c4.7,2,8.9,3.7,12.3,5c-4.1,-1.6,-8.2,-3.3,-12.3,-5Z" class="g6_230" />
+<path d="M138.1,432.3c43.8,0,79.3,-35.5,79.3,-79.3c0,-43.8,-35.5,-79.3,-79.3,-79.3c-43.8,0,-79.3,35.5,-79.3,79.3c0,43.8,35.5,79.3,79.3,79.3Z" class="g5_230" />
+<path d="M138.1,432.3c43.8,0,79.3,-35.5,79.3,-79.3c0,-43.8,-35.5,-79.3,-79.3,-79.3c-43.8,0,-79.3,35.5,-79.3,79.3c0,43.8,35.5,79.3,79.3,79.3Z" class="g7_230" />
+<text 
+x="92" 
+y="334" 
+dx="0,0,0" 
+class="s7_230"
+>GET</text>
+
+<text 
+x="68" 
+y="360" 
+dx="0,-0.3,0,-0.2" 
+class="s8_230"
+>Real</text>
+
+<text 
+x="71" 
+y="372" 
+dx="0,0,0,0" 
+class="s9_230"
+>WITH</text>
+
+<text 
+x="105" 
+y="380" 
+dx="0,0,0,0,0,0,0" 
+class="s10_230"
+>CHINESE</text>
+
+<text 
+x="76" 
+y="55" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_230"
+>Street food in </text>
+
+<text 
+x="76" 
+y="72" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_230"
+>China ranges from </text>
+
+<text 
+x="76" 
+y="89" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_230"
+>steamed buns to </text>
+
+<text 
+x="76" 
+y="106" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s11_230"
+>scallion pancakes. </text>
+
+<text 
+x="76" 
+y="122" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_230"
+>Based on the </text>
+
+<text 
+x="76" 
+y="139" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_230"
+>character with </text>
+
+<text 
+x="76" 
+y="156" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s11_230"
+>the smiley face, </text>
+
+<text 
+x="76" 
+y="173" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_230"
+>determine whether </text>
+
+<text 
+x="76" 
+y="190" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_230"
+>this food truck </text>
+
+<text 
+x="76" 
+y="207" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_230"
+>serves breakfast, </text>
+
+<text 
+x="76" 
+y="223" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2" 
+class="s11_230"
+>lunch, or dinner.</text>
+
+<path d="M377.2,792.6c-0.2,0,-14.7,1.4,-14.9,16L360,1019.5c0,0.1,0,14.7,14.6,15.6l408.7,25.2c0.3,0.1,6.6,0.4,11,-3.7c2.5,-2.4,3.8,-5.8,3.8,-10.2l0,-274.4c0,-0.2,0,-6.6,-4.3,-10.6c-2.6,-2.3,-6.1,-3.3,-10.5,-3L377.2,792.6Z" class="g8_230" />
+<path d="M377.4,794.7c-0.6,0,-12.8,1.3,-13,13.9l-2.3,210.9c0,0.5,0,12.8,12.6,13.6l408.8,25.2c0,0,5.7,0.3,9.4,-3.2c2.1,-2,3.2,-4.9,3.2,-8.7l0,-274.4c0,0,-0.1,-5.7,-3.8,-9.1c-2.1,-1.9,-5.1,-2.7,-8.8,-2.4C648.1,771.9,512.7,783.3,377.4,794.7Z" class="g9_230" />
+<path d="M798.6,788.6l0,9.8l3.8,0l0,-2.3l4.5,0l0,7.4l-4.5,0l0,-2.3l-3.8,0l0,9.8l3.8,0l0,-2.3l13.2,0l0,2.3l3.8,0l0,-9.8l-3.8,0l0,2.3l-4.6,0l0,-7.4l4.6,0l0,2.3l3.8,0l0,-9.8l-3.8,0l0,2.3l-13.2,0l0,-2.3Zm7.5,24.2c-4.7,0,-7.8,3.8,-7.8,8.5c0,4.7,3.1,8.5,7.8,8.5c4.7,0,7.8,-3.8,7.8,-8.5c0,-4.7,-3.1,-8.5,-7.8,-8.5m0,5.1c2.2,0,3.6,1.6,3.6,3.4c0,1.9,-1.4,3.4,-3.6,3.4c-2.3,0,-3.6,-1.5,-3.6,-3.4c0,-1.8,1.3,-3.4,3.6,-3.4m3.9,12.9l0,1.7l-11.4,2.9l0,5.8l6.9,1.7c1,0.2,2,0.2,2,0.2l0,0.1c0,0,-1,0.1,-2,0.3l-6.9,1.7l0,5.8l11.4,2.8l0,1.7l3.6,0l0,-7.9l-3.6,0l0,1.5L804.8,848c-0.9,-0.2,-2,-0.3,-2,-0.3l0,-0.1c0,0,1.1,0,2,-0.2l8.8,-2.1l0,-4.3l-8.8,-2c-0.9,-0.2,-2,-0.3,-2,-0.3l0,-0.1c0,0,1.1,0,2,-0.2l5.2,-1.1l0,1.5l3.6,0l0,-8Zm-11.4,32.6l0,8.7l3.8,0l0,-1.8l2.8,0.7l0,5.4l-2.8,0.8l0,-1.8l-3.8,0l0,8.7l3.8,0l0,-1.8l17,-5.6l0,-5.9l-17,-5.7l0,-1.7Zm10.5,8.8l3.8,1.1c1.3,0.3,2.2,0.4,2.2,0.4l0,0.1c0,0,-0.9,0,-2.2,0.4l-3.8,1.1Zm-10.5,14.1l0,4.7l0.5,0c0.5,0,1,-0.1,1,-0.1l0,0.1c0,0,-1.8,1.1,-1.8,4.1c0,4,3.1,6.9,7.8,6.9c4.6,0,7.8,-2.6,7.8,-6.7c0,-2.6,-1.6,-4,-1.6,-4l0,-0.1c0,0,0.6,0.1,1.3,0.1l5.8,0l0,-7.1l-3.6,0l0,2.1Zm7.4,4.8c2.6,0,3.7,1.5,3.7,3c0,1.7,-1.5,2.9,-3.7,2.9c-2.3,0,-3.6,-1.4,-3.6,-2.9c0,-2,1.8,-3,3.6,-3m0.1,12.5c-4.7,0,-7.8,3.7,-7.8,8.4c0,4.7,3.1,8.5,7.8,8.5c4.7,0,7.8,-3.8,7.8,-8.5c0,-4.7,-3.1,-8.4,-7.8,-8.4m0,5c2.2,0,3.6,1.6,3.6,3.4c0,1.9,-1.4,3.4,-3.6,3.4c-2.3,0,-3.6,-1.5,-3.6,-3.4c0,-1.8,1.3,-3.4,3.6,-3.4m-2.2,15.3c-4.2,0,-5.6,2.2,-5.6,4.9c0,3.8,2.9,5.1,2.9,5.1c0,0,-0.3,0,-0.5,0l-0.4,0c-1,0,-1.7,0.7,-1.7,2.1l0,4.6l3.7,0l0,-1.3c0,-0.4,0.2,-0.6,0.6,-0.6l10.7,0l0,-7.1l-3.6,0l0,2.1l-2.7,0c-2.3,0,-4.6,-1.2,-4.6,-3.1c0,-1.1,0.6,-1.7,2,-1.7l8.9,0l0,-7.1l-3.6,0l0,2.1Zm0.2,19.9c-5,0,-5.6,4.6,-5.6,7c0,0.8,0.1,1.3,0.1,1.3l4,0c0,0,0,-0.2,0,-0.6c0,-1,0.3,-2.7,2.1,-2.7l5.3,0l0,3.1l3.6,0l0,-3.1l4,0l0,-4.9l-4,0l0,-2.1l-3.6,0l0,2Zm-5.5,21.3l0,9.9l3.8,0l0,-2.4l4.7,0l8.5,5.1l0,1.8l3.8,0l0,-8.6l-3.8,0l0,1.8l-3.8,-2.1c-0.6,-0.4,-1,-0.5,-1,-0.5l0,-0.1c0,0,0.4,-0.1,1,-0.4l3.8,-2.2l0,1.8l3.8,0l0,-8.6l-3.8,0l0,1.8l-8.5,5l-4.7,0l0,-2.3Zm7.5,13.6c-4.7,0,-7.8,3.8,-7.8,8.5c0,4.7,3.1,8.4,7.8,8.4c4.7,0,7.8,-3.7,7.8,-8.5c0,-4.6,-3.1,-8.4,-7.8,-8.4m0,5.1c2.2,0,3.6,1.5,3.6,3.4c0,1.8,-1.4,3.4,-3.6,3.4c-2.3,0,-3.6,-1.6,-3.6,-3.4c0,-1.9,1.3,-3.4,3.6,-3.4M803.9,999c-4.2,0,-5.6,2.3,-5.6,4.9c0,3.8,2.9,5.1,2.9,5.1c0,0,-0.3,0,-0.5,0l-0.4,0c-1,0,-1.7,0.7,-1.7,2.1l0,4.6l3.7,0l0,-1.3c0,-0.4,0.2,-0.6,0.6,-0.6l10.7,0l0,-7l-3.6,0l0,2l-2.7,0c-2.3,0,-4.6,-1.1,-4.6,-3.1c0,-1.1,0.6,-1.7,2,-1.7l8.9,0l0,-7l-3.6,0l0,2Zm1.1,21.3l0,4.8l1.1,0c2.6,0,3.3,5,8,5c3.8,0,5.7,-3.5,5.7,-6.8c0,-3.9,-2.4,-6,-2.4,-6L814,1020c0,0,1.3,1.4,1.3,2.8c0,1.1,-0.8,2.1,-1.8,2.1c-2.4,0,-3.1,-4.6,-7,-4.6Zm-6.4,4.7l4.4,0l0,-4.6l-4.4,0l0,4.6Z" class="g10_230" />
+<path d="M91.4,863.7c0,0,-6.9,0,-6.9,6.9l0,80.4c0,0,0,6.9,6.9,6.9l288.7,0c0,0,6.9,0,6.9,-6.9l0,-80.4c0,0,0,-6.9,-6.9,-6.9Z" class="g10_230" />
+<text 
+x="105" 
+y="901" 
+dx="0,0,0,0,0,0,0" 
+class="s12_230"
+>你和朋友在哪儿</text>
+
+<text 
+x="105" 
+y="943" 
+dx="0,0,0" 
+class="s12_230"
+>见面？</text>
+
+<text 
+x="105" 
+y="993" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s13_230"
+>Nǐ hé péngyǒu zài nǎ'er jiànmiàn?</text>
+
+<text 
+x="105" 
+y="1017" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s14_230"
+>Where do you meet your friends?</text>
+
+<path d="M515.2,988.9l122.2,0" class="g11_230" />
+<path d="M515.8,1018.3l121.8,0" class="g12_230" />
+<text 
+x="415" 
+y="984" 
+dx="0,0,0,0" 
+class="s15_230"
+>我们在 </text>
+
+<text 
+x="637" 
+y="984" 
+dx="0,0,0" 
+class="s15_230"
+>见面。</text>
+
+<text 
+x="436" 
+y="1016" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s13_230"
+>Wǒmen zài</text>
+
+<text 
+x="642" 
+y="1016" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s13_230"
+>jiànmiàn.</text>
+
+<image preserveAspectRatio="none" x="505" y="856" width="148" height="100" xlink:href="230/img/11.png" />
+<path d="M506.6,954.5l144.9,0l0,-96.7l-144.9,0l0,96.7Z" class="g13_230" />
+<image preserveAspectRatio="none" x="438" y="751" width="149" height="100" xlink:href="230/img/12.png" />
+<path d="M440,849.3l145,0l0,-96.7l-145,0l0,96.7Z" class="g13_230" />
+<image preserveAspectRatio="none" x="592" y="751" width="148" height="100" xlink:href="230/img/13.png" />
+<path d="M593.2,849.3l144.9,0l0,-96.7l-144.9,0l0,96.7Z" class="g13_230" />
+<text 
+transform="matrix(1, 0.06, -0.06, 1, 379, 1053)"
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_230"
+>See index for corresponding vocabulary or research another term.</text>
+
+<g clip-path="url(#c0_230)">
+<path d="M885.3,1209.2l54.7,0L940,-12.9l-54.7,0l0,1222.1Z" class="g14_230" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 894, 917)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s16_230"
+>Lesson 8 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 976)"
+dx="0,0.3" 
+class="s16_230"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 988)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s16_230"
+>School Life </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1059)"
+dx="0,0.3" 
+class="s16_230"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1071)"
+dx="0,-0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s16_230"
+>Vocabulary </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1152)"
+dx="0,0.3,0.3" 
+class="s16_230"
+>209</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Medium_32t;
+	src: url("fonts/ProximaNova-Medium_32t.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-MediumIt_334;
+	src: url("fonts/ProximaNova-MediumIt_334.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_32_;
+	src: url("fonts/ProximaNova-Semibold_32_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_32r;
+	src: url("fonts/ProximaNova-Bold_32r.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_333;
+	src: url("fonts/MuseoSlab-700_333.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-900_32s;
+	src: url("fonts/MuseoSlab-900_32s.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_332;
+	src: url("fonts/ProximaNova-Regular_332.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_330;
+	src: url("fonts/ProximaNova-Light_330.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

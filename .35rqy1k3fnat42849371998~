@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 308 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_308{
+fill: none;
+stroke: #EDF3F7;
+stroke-width: 91.666664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_308{
+fill: none;
+stroke: #3F3F40;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_308{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_308{
+fill: none;
+stroke: #EDF3F7;
+stroke-width: 33.61111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_308{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_308{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_308{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_308{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_4em;
+fill: #3F3F40;
+}
+.s2_308{
+font-size: 24.44px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #007598;
+}
+.s3_308{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s4_308{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_4es;
+fill: #3F3F40;
+}
+.s5_308{
+font-size: 17.57px;
+font-family: LibreFranklin-Medium_4dx;
+fill: #231F20;
+}
+.s6_308{
+font-size: 22.92px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #231F20;
+}
+.s7_308{
+font-size: 17.19px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #3F3F40;
+}
+.s8_308{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_4d_;
+fill: #007598;
+}
+.s9_308{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_4d_;
+fill: #939598;
+}
+.s10_308{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s11_308{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_4dv;
+fill: #007D9F;
+}
+.s12_308{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_4d_;
+fill: #007D9F;
+}
+.s13_308{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #3F3F40;
+}
+.s14_308{
+font-size: 20.63px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s15_308{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #3F3F40;
+}
+.s16_308{
+font-size: 18.33px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s17_308{
+font-size: 19.86px;
+font-family: LibreFranklin-Bold_4d_;
+fill: #007598;
+}
+.s18_308{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_4dv;
+fill: #3F3F40;
+}
+.s19_308{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #007D9F;
+}
+.s20_308{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s21_308{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_4es;
+fill: #007D9F;
+}
+.s22_308{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_4eh;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M148.2,178l679.9,0" class="g1_308" />
+<path d="M273.9,342.7l64.1,0" class="g2_308" />
+<path d="M450.3,342.7l64.2,0" class="g2_308" />
+<path d="M434.3,431.3l64.1,0" class="g2_308" />
+<path d="M305.9,475.6l64.2,0" class="g2_308" />
+<path d="M305.9,519.9l64.2,0" class="g2_308" />
+<path d="M546.6,519.9l64.1,0" class="g2_308" />
+<path d="M119.1,623.1l12.9,0" class="g3_308" />
+<path d="M148.2,811.1l679.9,0" class="g4_308" />
+<path d="M148.2,840.2l679.9,0" class="g4_308" />
+<path d="M148.2,861.6l679.9,0" class="g4_308" />
+<text 
+x="157" 
+y="72" 
+dx="0,0,0,0,0,0,0,0" 
+class="s1_308"
+>In (P), </text>
+
+<text 
+x="199" 
+y="74" 
+dx="0,0" 
+class="s2_308"
+>高兴</text>
+
+<text 
+x="251" 
+y="72" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s3_308"
+>(gāoxìng)</text>
+
+<text 
+x="318" 
+y="72" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_308"
+>is used to describe the manner of his singing. In (Q), </text>
+
+<text 
+x="682" 
+y="74" 
+dx="0,0" 
+class="s2_308"
+>高兴</text>
+
+<text 
+x="734" 
+y="72" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s3_308"
+>(gāoxìng)</text>
+
+<text 
+x="157" 
+y="100" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.3,0,0" 
+class="s1_308"
+>is the cause of his singing. Patterns for </text>
+
+<text 
+x="433" 
+y="101" 
+dx="0" 
+class="s2_308"
+>的</text>
+
+<text 
+x="460" 
+y="100" 
+dx="0,0.3,0.3,0.3" 
+class="s4_308"
+>(de)</text>
+
+<text 
+x="486" 
+y="100" 
+dx="0,0" 
+class="s1_308"
+>, </text>
+
+<text 
+x="493" 
+y="101" 
+dx="0" 
+class="s2_308"
+>地</text>
+
+<text 
+x="521" 
+y="100" 
+dx="0,0.3,0.3,0.3" 
+class="s4_308"
+>(de)</text>
+
+<text 
+x="547" 
+y="100" 
+dx="0,0,0,0,0,0" 
+class="s1_308"
+>, and </text>
+
+<text 
+x="583" 
+y="101" 
+dx="0" 
+class="s2_308"
+>得</text>
+
+<text 
+x="611" 
+y="100" 
+dx="0,0.3,0.3,0.3" 
+class="s4_308"
+>(de)</text>
+
+<text 
+x="640" 
+y="100" 
+dx="0,0,-0.2,0,0,0,-0.2,-0.4,0,0,0,0,0,0,0,0,0,0,-1.1" 
+class="s1_308"
+>are provided below.</text>
+
+<text 
+x="380" 
+y="155" 
+dx="0,-0.6,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2" 
+class="s5_308"
+>Attributive + </text>
+
+<text 
+x="485" 
+y="155" 
+dx="0" 
+class="s6_308"
+>的</text>
+
+<text 
+x="511" 
+y="155" 
+dx="0,0.3,0.3,0.3" 
+class="s7_308"
+>(de)</text>
+
+<text 
+x="541" 
+y="155" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,0" 
+class="s5_308"
+>+ noun </text>
+
+<text 
+x="387" 
+y="182" 
+dx="0,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s5_308"
+>Adverbial + </text>
+
+<text 
+x="482" 
+y="182" 
+dx="0" 
+class="s6_308"
+>地</text>
+
+<text 
+x="508" 
+y="182" 
+dx="0,0.3,0.3,0.3" 
+class="s7_308"
+>(de)</text>
+
+<text 
+x="538" 
+y="182" 
+dx="0,-0.2,-0.2,-0.7,-0.2,-0.2,0" 
+class="s5_308"
+>+ verb </text>
+
+<text 
+x="327" 
+y="210" 
+dx="0,-1.3,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2" 
+class="s5_308"
+>Verb/adjective + </text>
+
+<text 
+x="462" 
+y="210" 
+dx="0" 
+class="s6_308"
+>得</text>
+
+<text 
+x="489" 
+y="210" 
+dx="0,0.3,0.3,0.3" 
+class="s7_308"
+>(de)</text>
+
+<text 
+x="519" 
+y="210" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.7,-0.2,-0.2" 
+class="s5_308"
+>+ adjective/verb</text>
+
+<text 
+x="157" 
+y="266" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_308"
+>EXERCISES</text>
+
+<text 
+x="157" 
+y="294" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s1_308"
+>Fill in the blanks with </text>
+
+<text 
+x="307" 
+y="295" 
+dx="0" 
+class="s2_308"
+>的</text>
+
+<text 
+x="331" 
+y="294" 
+dx="0,0" 
+class="s1_308"
+>, </text>
+
+<text 
+x="338" 
+y="295" 
+dx="0" 
+class="s2_308"
+>得</text>
+
+<text 
+x="362" 
+y="294" 
+dx="0,0,0,0,0" 
+class="s1_308"
+>, or </text>
+
+<text 
+x="387" 
+y="295" 
+dx="0" 
+class="s2_308"
+>地</text>
+
+<text 
+x="415" 
+y="294" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s1_308"
+>where appropriate. Use exercise 1 as an example.</text>
+
+<text 
+x="158" 
+y="336" 
+dx="0,0" 
+class="s9_308"
+>1 </text>
+
+<text 
+x="201" 
+y="338" 
+dx="0,0,0" 
+class="s10_308"
+>公寓 </text>
+
+<text 
+x="346" 
+y="338" 
+dx="0,0,0,0" 
+class="s10_308"
+>房租贵 </text>
+
+<text 
+x="522" 
+y="338" 
+dx="0,0,0,0,0" 
+class="s10_308"
+>不得了。 </text>
+
+<text 
+x="201" 
+y="382" 
+dx="0,0" 
+class="s10_308"
+>→ </text>
+
+<text 
+x="249" 
+y="382" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_308"
+>公寓的房租贵得不得了。</text>
+
+<text 
+x="158" 
+y="425" 
+dx="0,0" 
+class="s9_308"
+>2 </text>
+
+<text 
+x="201" 
+y="427" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_308"
+>要是希望游泳游 </text>
+
+<text 
+x="506" 
+y="427" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_308"
+>又快又好，得每天</text>
+
+<text 
+x="201" 
+y="471" 
+dx="0,0,0,0" 
+class="s10_308"
+>好好儿 </text>
+
+<text 
+x="378" 
+y="471" 
+dx="0,0,0" 
+class="s10_308"
+>练习。</text>
+
+<text 
+x="158" 
+y="514" 
+dx="0,0" 
+class="s9_308"
+>3 </text>
+
+<text 
+x="201" 
+y="515" 
+dx="0,0,0,0" 
+class="s10_308"
+>他托运 </text>
+
+<text 
+x="378" 
+y="515" 
+dx="0,0,0,0,0,0" 
+class="s10_308"
+>行李被慢慢 </text>
+
+<text 
+x="618" 
+y="515" 
+dx="0,0,0,0,0" 
+class="s10_308"
+>送上飞机。</text>
+
+<text 
+x="119" 
+y="619" 
+dx="0,0" 
+class="s11_308"
+>2 </text>
+
+<text 
+x="340" 
+y="624" 
+dx="0,0,0,0" 
+class="s12_308"
+>The </text>
+
+<text 
+x="388" 
+y="624" 
+dx="0" 
+class="s13_308"
+>把</text>
+
+<text 
+x="420" 
+y="624" 
+dx="0,0.4,0.4,0.4" 
+class="s14_308"
+>(bǎ)</text>
+
+<text 
+x="457" 
+y="624" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_308"
+>construction (II)</text>
+
+<text 
+x="157" 
+y="686" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0" 
+class="s1_308"
+>You can use </text>
+
+<text 
+x="245" 
+y="687" 
+dx="0" 
+class="s2_308"
+>把</text>
+
+<text 
+x="272" 
+y="686" 
+dx="0,0.3,0.3,0.3" 
+class="s3_308"
+>(bǎ)</text>
+
+<text 
+x="302" 
+y="686" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s1_308"
+>with a directional complement. The basic constructions are </text>
+
+<text 
+x="157" 
+y="713" 
+dx="0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s1_308"
+>as follows.</text>
+
+<text 
+x="154" 
+y="768" 
+dx="0" 
+class="s15_308"
+>把</text>
+
+<text 
+x="184" 
+y="768" 
+dx="0,0.3,0.3,0.3" 
+class="s16_308"
+>(bǎ)</text>
+
+<text 
+x="217" 
+y="768" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s17_308"
+>with simple directional complements:</text>
+
+<text 
+x="447" 
+y="817" 
+dx="0,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2" 
+class="s5_308"
+>Pattern A</text>
+
+<text 
+x="336" 
+y="846" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_308"
+>Subject + </text>
+
+<text 
+x="419" 
+y="846" 
+dx="0" 
+class="s6_308"
+>把</text>
+
+<text 
+x="446" 
+y="846" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.4,0.2,0.2,0.2,0.2,0.2" 
+class="s5_308"
+>+ object + verb + </text>
+
+<text 
+x="587" 
+y="846" 
+dx="0" 
+class="s6_308"
+>来</text>
+
+<text 
+x="610" 
+y="846" 
+dx="0" 
+class="s5_308"
+>/</text>
+
+<text 
+x="616" 
+y="846" 
+dx="0" 
+class="s6_308"
+>去</text>
+
+<text 
+x="417" 
+y="867" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s7_308"
+>(bǎ) </text>
+
+<text 
+x="588" 
+y="867" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s7_308"
+>(lai/qu)</text>
+
+<text 
+x="169" 
+y="931" 
+dx="0,0" 
+class="s18_308"
+>A </text>
+
+<text 
+x="239" 
+y="933" 
+dx="0" 
+class="s10_308"
+>请</text>
+
+<text 
+x="271" 
+y="933" 
+dx="0" 
+class="s19_308"
+>把</text>
+
+<text 
+x="304" 
+y="933" 
+dx="0,0,0,0" 
+class="s10_308"
+>你的床搬</text>
+
+<text 
+x="432" 
+y="933" 
+dx="0" 
+class="s19_308"
+>来</text>
+
+<text 
+x="464" 
+y="933" 
+dx="0" 
+class="s10_308"
+>。</text>
+
+<text 
+x="245" 
+y="970" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s3_308"
+>Qǐng </text>
+
+<text 
+x="280" 
+y="970" 
+dx="0,0.3,0.3" 
+class="s20_308"
+>bǎ </text>
+
+<text 
+x="300" 
+y="970" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s3_308"
+>nǐ de chuáng bān </text>
+
+<text 
+x="418" 
+y="970" 
+dx="0,0.3,0.3" 
+class="s21_308"
+>lai</text>
+
+<text 
+x="434" 
+y="970" 
+dx="0" 
+class="s3_308"
+>.</text>
+
+<text 
+x="245" 
+y="1002" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s1_308"
+>Please move your bed here.</text>
+
+<text 
+x="169" 
+y="1066" 
+dx="0,0" 
+class="s18_308"
+>B </text>
+
+<text 
+x="239" 
+y="1068" 
+dx="0,0" 
+class="s10_308"
+>小王</text>
+
+<text 
+x="304" 
+y="1068" 
+dx="0" 
+class="s19_308"
+>把</text>
+
+<text 
+x="336" 
+y="1068" 
+dx="0,0,0" 
+class="s10_308"
+>冰茶拿</text>
+
+<text 
+x="432" 
+y="1068" 
+dx="0" 
+class="s19_308"
+>去</text>
+
+<text 
+x="464" 
+y="1068" 
+dx="0,0" 
+class="s10_308"
+>了。</text>
+
+<text 
+x="245" 
+y="1105" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s3_308"
+>Xiǎo Wáng </text>
+
+<text 
+x="321" 
+y="1105" 
+dx="0,0.3,0.3" 
+class="s20_308"
+>bǎ </text>
+
+<text 
+x="341" 
+y="1105" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s3_308"
+>bīngchá ná </text>
+
+<text 
+x="418" 
+y="1105" 
+dx="0,0.3,0.3" 
+class="s20_308"
+>qu </text>
+
+<text 
+x="439" 
+y="1105" 
+dx="0,0.3,0.3" 
+class="s3_308"
+>le.</text>
+
+<text 
+x="245" 
+y="1137" 
+dx="0,0,0,0,0,0,0,0,-0.8,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_308"
+>Little Wang took the iced tea (with him).</text>
+
+<path d="M146.6,589l0,53.4l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.4l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g5_308" />
+<path d="M148.7,641.2l674.3,0l0,-51l-674.3,0l0,51Z" class="g6_308" />
+<path d="M164.4,908c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g5_308" />
+<path d="M164.4,910c-0.6,0.1,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_308" />
+<path d="M164.4,1043.1c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g5_308" />
+<path d="M164.4,1045.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_308" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g7_308" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 874)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s22_308"
+>Lesson 20 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 948)"
+dx="0,1" 
+class="s22_308"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 962)"
+dx="0,0.7,1,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s22_308"
+>At the Airport </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1059)"
+dx="0,1" 
+class="s22_308"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1073)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s22_308"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1150)"
+dx="0,1,1,-2.3" 
+class="s22_308"
+>287 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Medium_4dx;
+	src: url("fonts/LibreFranklin-Medium_4dx.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_4dv;
+	src: url("fonts/LibreFranklin-ExtraBold_4dv.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_4em;
+	src: url("fonts/LibreFranklin-Regular_4em.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_4d_;
+	src: url("fonts/LibreFranklin-Bold_4d_.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_4eh;
+	src: url("fonts/LibreFranklin-SemiBold_4eh.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_4es;
+	src: url("fonts/GentiumBasic-Italic_4es.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

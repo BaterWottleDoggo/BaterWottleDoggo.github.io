@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 253 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_253{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_253{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_253{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_253{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_253{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_4a8;
+fill: #3F3F40;
+}
+.s2_253{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_49y;
+fill: #3F3F40;
+}
+.s3_253{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_49y;
+fill: #007598;
+}
+.s4_253{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s5_253{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s6_253{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #007D9F;
+}
+.s7_253{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s8_253{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_4af;
+fill: #3F3F40;
+}
+.s9_253{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_49-;
+fill: #007598;
+}
+.s10_253{
+font-size: 24.44px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #007598;
+}
+.s11_253{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_49-;
+fill: #939598;
+}
+.s12_253{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_49y;
+fill: #007D9F;
+}
+.s13_253{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #3F3F40;
+}
+.s14_253{
+font-size: 20.63px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s15_253{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_49-;
+fill: #007D9F;
+}
+.s16_253{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_49_;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,754.9l13,0" class="g1_253" />
+<text 
+x="143" 
+y="69" 
+dx="0,-0.4,-0.5,-0.6,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.6,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.6,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.8,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.6,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,0" 
+class="s1_253"
+>Note that there is a difference between this construction and its affirmative counterpart. </text>
+
+<text 
+x="143" 
+y="97" 
+dx="0,-0.4,-0.4,-0.4,-0.4,-0.4,-0.6,-0.4" 
+class="s1_253"
+>Compare:</text>
+
+<text 
+x="157" 
+y="162" 
+dx="0,0" 
+class="s2_253"
+>F </text>
+
+<text 
+x="198" 
+y="164" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s3_253"
+>Student A</text>
+
+<text 
+x="291" 
+y="164" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_253"
+>我学了两年中文了。</text>
+
+<text 
+x="291" 
+y="200" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>Wǒ xué le liǎng nián Zhōngwén le.</text>
+
+<text 
+x="291" 
+y="232" 
+dx="0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>I have been studying Chinese for two years.</text>
+
+<text 
+x="198" 
+y="295" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s3_253"
+>Student B</text>
+
+<text 
+x="291" 
+y="295" 
+dx="0,0,0,0,0,0" 
+class="s4_253"
+>是吗？我两年</text>
+
+<text 
+x="484" 
+y="295" 
+dx="0,0,0,0,0" 
+class="s6_253"
+>没学中文了</text>
+
+<text 
+x="644" 
+y="295" 
+dx="0" 
+class="s4_253"
+>。</text>
+
+<text 
+x="291" 
+y="331" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>Shì ma? Wǒ liǎng nián </text>
+
+<text 
+x="443" 
+y="331" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s7_253"
+>méi xué Zhōngwén le</text>
+
+<text 
+x="582" 
+y="331" 
+dx="0" 
+class="s8_253"
+>.</text>
+
+<text 
+x="291" 
+y="364" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>Really? I haven’t studied Chinese for two years.</text>
+
+<text 
+x="143" 
+y="423" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_253"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="451" 
+dx="0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>Complete the sentences to indicate the duration of inactivity, using the “Time expression + </text>
+
+<text 
+x="143" 
+y="480" 
+dx="0" 
+class="s10_253"
+>没</text>
+
+<text 
+x="171" 
+y="478" 
+dx="0,0,0,-0.5,0,0,0,0,0,0" 
+class="s1_253"
+>+ verb + (</text>
+
+<text 
+x="234" 
+y="480" 
+dx="0" 
+class="s10_253"
+>了</text>
+
+<text 
+x="258" 
+y="478" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s1_253"
+>)” structure where appropriate. Use exercise 1 as an example.</text>
+
+<text 
+x="145" 
+y="521" 
+dx="0,0" 
+class="s11_253"
+>1 </text>
+
+<text 
+x="187" 
+y="522" 
+dx="0,0,0,0,0,0" 
+class="s4_253"
+>小李付房租 </text>
+
+<text 
+x="395" 
+y="522" 
+dx="0,0,0,0" 
+class="s4_253"
+>两个月 </text>
+
+<text 
+x="187" 
+y="567" 
+dx="0,0" 
+class="s4_253"
+>→ </text>
+
+<text 
+x="236" 
+y="567" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_253"
+>小李两个月没付房租了。</text>
+
+<text 
+x="145" 
+y="609" 
+dx="0,0" 
+class="s11_253"
+>2 </text>
+
+<text 
+x="187" 
+y="611" 
+dx="0,0,0,0,0,0" 
+class="s4_253"
+>小王买衣服 </text>
+
+<text 
+x="395" 
+y="611" 
+dx="0,0" 
+class="s4_253"
+>半年</text>
+
+<text 
+x="145" 
+y="654" 
+dx="0,0" 
+class="s11_253"
+>3 </text>
+
+<text 
+x="187" 
+y="655" 
+dx="0,0,0,0,0" 
+class="s4_253"
+>王朋打球 </text>
+
+<text 
+x="395" 
+y="655" 
+dx="0,0,0,0" 
+class="s4_253"
+>三个星期</text>
+
+<text 
+x="105" 
+y="751" 
+dx="0,0" 
+class="s12_253"
+>2 </text>
+
+<text 
+x="358" 
+y="756" 
+dx="0,0,0" 
+class="s13_253"
+>好/难</text>
+
+<text 
+x="432" 
+y="756" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s14_253"
+>(hǎo/nán)</text>
+
+<text 
+x="519" 
+y="756" 
+dx="0,0,0,-0.7,0,0" 
+class="s15_253"
+>+ verb</text>
+
+<text 
+x="143" 
+y="817" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>Some verbs can be preceded by </text>
+
+<text 
+x="373" 
+y="819" 
+dx="0" 
+class="s10_253"
+>好</text>
+
+<text 
+x="401" 
+y="817" 
+dx="0,0,0,0,0" 
+class="s5_253"
+>(hǎo)</text>
+
+<text 
+x="438" 
+y="817" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>(fine, good, nice) or </text>
+
+<text 
+x="574" 
+y="819" 
+dx="0" 
+class="s10_253"
+>难</text>
+
+<text 
+x="602" 
+y="817" 
+dx="0,0,0,0,0" 
+class="s5_253"
+>(nán)</text>
+
+<text 
+x="640" 
+y="817" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>(difficult); the resulting </text>
+
+<text 
+x="143" 
+y="845" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>compounds become adjectives. In this case, </text>
+
+<text 
+x="457" 
+y="846" 
+dx="0" 
+class="s10_253"
+>好</text>
+
+<text 
+x="485" 
+y="845" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>(hǎo)</text>
+
+<text 
+x="523" 
+y="845" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>usually means “easy” while </text>
+
+<text 
+x="716" 
+y="846" 
+dx="0" 
+class="s10_253"
+>难</text>
+
+<text 
+x="744" 
+y="845" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>(nán)</text>
+
+<text 
+x="143" 
+y="872" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>means “difficult.” </text>
+
+<text 
+x="155" 
+y="932" 
+dx="0,0" 
+class="s2_253"
+>A </text>
+
+<text 
+x="226" 
+y="934" 
+dx="0,0,0" 
+class="s4_253"
+>好受 </text>
+
+<text 
+x="357" 
+y="934" 
+dx="0,0,0" 
+class="s4_253"
+>难受 </text>
+
+<text 
+x="232" 
+y="971" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>hǎoshòu </text>
+
+<text 
+x="357" 
+y="971" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>nánshòu</text>
+
+<text 
+x="232" 
+y="1003" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s1_253"
+>easy to bear </text>
+
+<text 
+x="357" 
+y="1003" 
+dx="0,0,0,-0.2,0,0,-0.2,0,0,0,0,0" 
+class="s1_253"
+>hard to bear</text>
+
+<text 
+x="155" 
+y="1067" 
+dx="0,0" 
+class="s2_253"
+>B </text>
+
+<text 
+x="226" 
+y="1069" 
+dx="0,0,0" 
+class="s4_253"
+>好写 </text>
+
+<text 
+x="357" 
+y="1069" 
+dx="0,0" 
+class="s4_253"
+>难写</text>
+
+<text 
+x="232" 
+y="1106" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>hǎoxiě </text>
+
+<text 
+x="357" 
+y="1106" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>nánxiě</text>
+
+<text 
+x="232" 
+y="1138" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0" 
+class="s1_253"
+>easy to write </text>
+
+<text 
+x="357" 
+y="1138" 
+dx="0,-0.3,-0.3,-0.5,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5" 
+class="s1_253"
+>hard to write</text>
+
+<text 
+x="542" 
+y="932" 
+dx="0,0" 
+class="s2_253"
+>C </text>
+
+<text 
+x="612" 
+y="934" 
+dx="0,0,0" 
+class="s4_253"
+>好走 </text>
+
+<text 
+x="744" 
+y="934" 
+dx="0,0,0" 
+class="s4_253"
+>难走 </text>
+
+<text 
+x="618" 
+y="971" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>hǎozǒu </text>
+
+<text 
+x="744" 
+y="971" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>nánzǒu</text>
+
+<text 
+x="618" 
+y="1003" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>easy to walk on </text>
+
+<text 
+x="744" 
+y="1003" 
+dx="0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s1_253"
+>hard to walk on</text>
+
+<text 
+x="542" 
+y="1067" 
+dx="0,0" 
+class="s2_253"
+>D </text>
+
+<text 
+x="612" 
+y="1069" 
+dx="0,0,0" 
+class="s4_253"
+>好说 </text>
+
+<text 
+x="744" 
+y="1069" 
+dx="0,0,0" 
+class="s4_253"
+>难说 </text>
+
+<text 
+x="618" 
+y="1106" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>hǎoshuō </text>
+
+<text 
+x="744" 
+y="1106" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_253"
+>nánshuō</text>
+
+<text 
+x="618" 
+y="1138" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s1_253"
+>easy to say </text>
+
+<text 
+x="744" 
+y="1138" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s1_253"
+>difficult to say</text>
+
+<path d="M150.8,138.8c0,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g2_253" />
+<path d="M150.8,140.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,-0.1,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_253" />
+<path d="M132.9,720.7l0,53.5l0,0.8l0.7,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.7,0l0,0.7Z" class="g2_253" />
+<path d="M134.9,772.9l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_253" />
+<path d="M150.6,908.7c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g2_253" />
+<path d="M150.6,910.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_253" />
+<path d="M150.6,1043.8c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g2_253" />
+<path d="M150.6,1045.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_253" />
+<path d="M537.1,908.7c0,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g2_253" />
+<path d="M537.1,910.7c-0.5,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.7,-0.2,5.7,-5.6l0,-19.7c-0.1,-0.6,-0.3,-5.6,-5.7,-5.6l-22.4,0Z" class="g3_253" />
+<path d="M537.1,1043.8c0,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g2_253" />
+<path d="M537.1,1045.8c-0.5,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.7,-0.2,5.7,-5.6l0,-19.7c-0.1,-0.5,-0.3,-5.6,-5.7,-5.6l-22.4,0Z" class="g3_253" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g4_253" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s16_253"
+>232 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1129)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s16_253"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 989)"
+dx="0,1" 
+class="s16_253"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 975)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s16_253"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_4a8;
+	src: url("fonts/LibreFranklin-Regular_4a8.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_49-;
+	src: url("fonts/LibreFranklin-Bold_49-.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_49_;
+	src: url("fonts/LibreFranklin-SemiBold_49_.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_4af;
+	src: url("fonts/GentiumBasic-Italic_4af.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_49y;
+	src: url("fonts/LibreFranklin-ExtraBold_49y.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 199 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_199{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_199{
+fill: #3986C6;
+}
+.g3_199{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.9097222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_199{
+fill: #FFFFFF;
+}
+.g5_199{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_199{
+fill: #ACBF3B;
+}
+.g7_199{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_199{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cqy;
+fill: #231F20;
+}
+.s2_199{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_c-5;
+fill: #231F20;
+}
+.s3_199{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_c-3;
+fill: #FFFFFF;
+}
+.s4_199{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_c-5;
+fill: #FFFFFF;
+}
+.s5_199{
+font-size: 29.03px;
+font-family: ProximaNova-Bold_c-5;
+fill: #FFFFFF;
+}
+.s6_199{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_c-5;
+fill: #231F20;
+}
+.s7_199{
+font-size: 21.39px;
+font-family: Wingdings-Regular_cnj;
+fill: #ACBF3B;
+}
+.s8_199{
+font-size: 19.10px;
+font-family: Alegreya-Regular_c-8;
+fill: #231F20;
+}
+.s9_199{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_c-5;
+fill: #FFFFFF;
+}
+.s10_199{
+font-size: 18.33px;
+font-family: Alegreya-Italic_c_1;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_199"
+>Go Far with Chinese</text>
+
+<text 
+x="34" 
+y="1149" 
+dx="0,0,0" 
+class="s2_199"
+>176</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_199" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_199" />
+<path d="M0,1196.3l921.3,0l0,-723L0,473.3l0,723Z" class="g2_199" />
+<path d="M123.8,111.5l710.4,0" class="g3_199" />
+<path d="M834.2,116.1c2.5,0,4.6,-2,4.6,-4.6c0,-2.5,-2.1,-4.6,-4.6,-4.6c-2.6,0,-4.6,2.1,-4.6,4.6c0,2.6,2,4.6,4.6,4.6Z" class="g2_199" />
+<path d="M398.8,139l0,-30c0,-25,-18.6,-25,-18.6,-25L172.9,84l0,30c0,25,18.5,25,18.5,25Z" class="g2_199" />
+<path d="M125.9,148.3l-3,-5.2l-5.8,1.6l10.8,-23.3l8.8,3.7Z" class="g2_199" />
+<path d="M147.7,148.3l3,-5.2l5.8,1.6L145.7,121.4l-8.8,3.7Z" class="g2_199" />
+<path d="M139.2,88.6l0,0c0.6,1.8,2.8,2.3,4.1,0.9c1.6,-1.7,4.5,-0.4,4.3,1.9c-0.1,1.9,1.8,3.2,3.5,2.5c2.2,-0.9,4.3,1.5,3.1,3.5c-0.9,1.7,0.3,3.7,2.2,3.7c2.3,0.1,3.3,3.1,1.4,4.5c-1.5,1.1,-1.2,3.4,0.5,4.2c2.1,1.1,1.8,4.2,-0.5,4.7c-1.8,0.5,-2.6,2.7,-1.3,4.1c1.5,1.8,-0.1,4.5,-2.4,4.1c-1.8,-0.4,-3.4,1.3,-2.8,3.1c0.6,2.3,-1.9,4.1,-3.9,2.8c-1.5,-1.1,-3.6,-0.1,-3.9,1.7c-0.3,2.4,-3.3,3,-4.6,1c-0.9,-1.6,-3.3,-1.6,-4.2,0c-1.3,2,-4.3,1.4,-4.6,-1c-0.3,-1.8,-2.4,-2.8,-3.9,-1.7c-2,1.3,-4.5,-0.5,-3.9,-2.8c0.6,-1.8,-1,-3.5,-2.8,-3.1c-2.3,0.4,-3.9,-2.3,-2.4,-4.1c1.3,-1.4,0.5,-3.6,-1.3,-4.1c-2.3,-0.5,-2.6,-3.6,-0.5,-4.7c1.7,-0.8,2,-3.1,0.5,-4.2c-1.9,-1.4,-0.9,-4.4,1.4,-4.5c1.9,0,3.1,-2,2.2,-3.7c-1.2,-2,0.9,-4.4,3.1,-3.5c1.7,0.7,3.6,-0.6,3.5,-2.5c-0.2,-2.3,2.7,-3.6,4.3,-1.9c1.3,1.4,3.5,0.9,4.1,-0.9c0.8,-2.2,4,-2.2,4.8,0Z" class="g2_199" />
+<path d="M136.8,93.6c8.9,0,16.1,7.2,16.1,16.1c0,8.9,-7.2,16.1,-16.1,16.1c-8.9,0,-16.1,-7.2,-16.1,-16.1c0,-8.9,7.2,-16.1,16.1,-16.1Z" class="g4_199" />
+<path d="M141.1,100l-4.3,3.1L132.5,100l-0.8,5.2l-5.3,0.9l3.1,4.3l-3.1,4.3l5.3,0.8l0.8,5.2l4.3,-3.1l4.3,3.1l0.8,-5.2l5.3,-0.8l-3.1,-4.3l3.1,-4.3l-5.3,-0.9Z" class="g2_199" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_199"
+>Go Far with Chinese</text>
+
+<text 
+x="34" 
+y="1149" 
+dx="0,0,0" 
+class="s4_199"
+>176</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g5_199" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g4_199" />
+<text 
+x="193" 
+y="121" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_199"
+>Can-Do Goals </text>
+
+<text 
+x="177" 
+y="173" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_199"
+>Talk with your teacher if you have questions or if you are not </text>
+
+<text 
+x="179" 
+y="199" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s6_199"
+>certain you can do the following tasks:</text>
+
+<text 
+x="177" 
+y="239" 
+dx="0" 
+class="s7_199"
+></text>
+
+<text 
+x="220" 
+y="237" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_199"
+>State the date and the day of the week of an upcoming activity</text>
+
+<text 
+x="177" 
+y="271" 
+dx="0" 
+class="s7_199"
+></text>
+
+<text 
+x="220" 
+y="269" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_199"
+>Understand numbers larger than ten</text>
+
+<text 
+x="177" 
+y="304" 
+dx="0" 
+class="s7_199"
+></text>
+
+<text 
+x="220" 
+y="302" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,-0.2,0,0" 
+class="s8_199"
+>Discuss when you are free </text>
+
+<text 
+x="177" 
+y="337" 
+dx="0" 
+class="s7_199"
+></text>
+
+<text 
+x="220" 
+y="335" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s8_199"
+>Ask and answer questions about birthdays</text>
+
+<text 
+x="177" 
+y="370" 
+dx="0" 
+class="s7_199"
+></text>
+
+<text 
+x="220" 
+y="368" 
+dx="0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s8_199"
+>Talk about buying a gift based on someone’s interests</text>
+
+<image preserveAspectRatio="none" x="295" y="497" width="567" height="397" xlink:href="199/img/1.png" />
+<path d="M415.4,579.1l0,-30c0,-25,-25.3,-25,-25.3,-25l-283,0l0,30c0,25,25.3,25,25.3,25Z" class="g6_199" />
+<path d="M415.4,579.1l0,-30c0,-25,-25.3,-25,-25.3,-25l-283,0l0,30c0,25,25.3,25,25.3,25l283,0Z" class="g7_199" />
+<text 
+x="127" 
+y="562" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_199"
+>Cultural Knowledge </text>
+
+<text 
+x="131" 
+y="608" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_199"
+>What did you </text>
+
+<text 
+x="132" 
+y="634" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_199"
+>learn about </text>
+
+<text 
+x="132" 
+y="660" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_199"
+>some Chinese </text>
+
+<text 
+x="132" 
+y="686" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s9_199"
+>celebrations?</text>
+
+<text 
+x="295" 
+y="930" 
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.7,0,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.6" 
+class="s10_199"
+>People in Beijing celebrating the Chinese New Year by performing a lion dance.</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Bold_c-5;
+	src: url("fonts/ProximaNova-Bold_c-5.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_c-8;
+	src: url("fonts/Alegreya-Regular_c-8.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Italic_c_1;
+	src: url("fonts/Alegreya-Italic_c_1.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_c-3;
+	src: url("fonts/ProximaNova-Semibold_c-3.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cqy;
+	src: url("fonts/ProximaNova-Semibold_cqy.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings-Regular_cnj;
+	src: url("fonts/Wingdings-Regular_cnj.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

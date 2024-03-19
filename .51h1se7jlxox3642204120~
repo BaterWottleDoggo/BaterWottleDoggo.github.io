@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 127 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_127{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_127{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_127{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_127{
+fill: #F0F1F2;
+}
+.g5_127{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_127{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_127{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_127{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_127{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_127{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_127{
+font-size: 35.14px;
+font-family: ProximaNova-Extrabld_2yv;
+fill: #007598;
+}
+.s2_127{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_2yv;
+fill: #007D9F;
+}
+.s3_127{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_2yz;
+fill: #007D9F;
+}
+.s4_127{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2z3;
+fill: #3F3F40;
+}
+.s5_127{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_2yz;
+fill: #007598;
+}
+.s6_127{
+font-size: 14.51px;
+font-family: ProximaNova-Light_2z3;
+fill: #3F3F40;
+}
+.s7_127{
+font-size: 32.85px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007598;
+}
+.s8_127{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #231F20;
+}
+.s9_127{
+font-size: 15.28px;
+font-family: ProximaNova-Regular_2za;
+fill: #3F3F40;
+}
+.s10_127{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s11_127{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s12_127{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_2yv;
+fill: #3F3F40;
+}
+.s13_127{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s14_127{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s15_127{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s16_127{
+font-size: 17.57px;
+font-family: Marion-Italic_2y-;
+fill: #3F3F40;
+}
+.s17_127{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2z7;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,72.5l195,0" class="g1_127" />
+<path d="M0,74.9l195,0" class="g2_127" />
+<path d="M105.3,146.1l13,0" class="g3_127" />
+<path d="M105.3,843l13,0" class="g3_127" />
+<text 
+x="41" 
+y="62" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s1_127"
+>Grammar</text>
+
+<text 
+x="105" 
+y="142" 
+dx="0,0" 
+class="s2_127"
+>1 </text>
+
+<text 
+x="410" 
+y="147" 
+dx="0,-1,0,0,0,0,0,0,0,0" 
+class="s3_127"
+>Word order</text>
+
+<text 
+x="143" 
+y="209" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_127"
+>The basic word order in a Chinese sentence is as follows.</text>
+
+<path d="M96.3,296.3l179.3,0l0,73.7L96.3,370l0,-73.7Zm179.3,0l284.8,0l0,73.7l-284.8,0l0,-73.7Zm284.8,0l138.7,0l0,73.7l-138.7,0l0,-73.7Zm138.7,0l167.2,0l0,48.2l-167.2,0l0,-48.2Zm0,48.2l167.2,0l0,25.5l-167.2,0l0,-25.5ZM96.3,370l770,0l0,33l-770,0l0,-33Zm0,139.7l179.3,0l0,73.7l-179.3,0l0,-73.7Zm179.3,0l284.8,0l0,73.7l-284.8,0l0,-73.7Zm284.8,0l138.7,0l0,73.7l-138.7,0l0,-73.7Zm138.7,0l167.2,0l0,73.7l-167.2,0l0,-73.7ZM96.3,583.4l770,0l0,33l-770,0l0,-33Z" class="g4_127" />
+<path d="M96.3,296.3l179.3,0" class="g5_127" />
+<path d="M275.6,296.3l284.8,0" class="g5_127" />
+<path d="M560.4,296.3l138.7,0" class="g5_127" />
+<path d="M699.1,296.3l167.2,0" class="g5_127" />
+<path d="M96.3,403l179.3,0" class="g6_127" />
+<path d="M275.6,403l284.8,0" class="g6_127" />
+<path d="M560.4,403l138.7,0" class="g6_127" />
+<path d="M699.1,403l167.2,0" class="g6_127" />
+<path d="M96.3,509.7l179.3,0" class="g6_127" />
+<path d="M275.6,509.7l284.8,0" class="g6_127" />
+<path d="M560.4,509.7l138.7,0" class="g6_127" />
+<path d="M699.1,509.7l167.2,0" class="g6_127" />
+<path d="M96.3,616.4l179.3,0" class="g6_127" />
+<path d="M275.6,616.4l284.8,0" class="g6_127" />
+<path d="M560.4,616.4l138.7,0" class="g6_127" />
+<path d="M699.1,616.4l167.2,0" class="g6_127" />
+<path d="M96.3,723.1l179.3,0" class="g7_127" />
+<path d="M275.6,723.1l284.8,0" class="g7_127" />
+<path d="M560.4,723.1l138.7,0" class="g7_127" />
+<path d="M699.1,723.1l167.2,0" class="g7_127" />
+<text 
+x="110" 
+y="263" 
+dx="0,0,0,0,0,0,0" 
+class="s5_127"
+>Subject</text>
+
+<text 
+x="110" 
+y="280" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_127"
+>(agent of the action)</text>
+
+<text 
+x="281" 
+y="263" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_127"
+>Adverbial</text>
+
+<text 
+x="281" 
+y="280" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0" 
+class="s6_127"
+>(time, place, manner, etc.)</text>
+
+<text 
+x="566" 
+y="263" 
+dx="0,-0.9,0,0" 
+class="s5_127"
+>Verb</text>
+
+<text 
+x="705" 
+y="263" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_127"
+>(Object)</text>
+
+<text 
+x="705" 
+y="280" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_127"
+>(receiver of the action)</text>
+
+<text 
+x="110" 
+y="334" 
+dx="0,0,0" 
+class="s7_127"
+>白医生</text>
+
+<text 
+x="110" 
+y="355" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_127"
+>Bái yīshēng</text>
+
+<text 
+x="281" 
+y="334" 
+dx="0,0,0,0,0,0,0" 
+class="s7_127"
+>星期六、星期天</text>
+
+<text 
+x="285" 
+y="355" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_127"
+>xīngqīliù, xīngqītiān</text>
+
+<text 
+x="566" 
+y="334" 
+dx="0,0" 
+class="s7_127"
+>工作</text>
+
+<text 
+x="570" 
+y="355" 
+dx="0,0,0,0,0,0,0" 
+class="s8_127"
+>gōngzuò</text>
+
+<text 
+x="110" 
+y="388" 
+dx="0,0,-1.3,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_127"
+>Dr. Bai works on Saturdays and Sundays.</text>
+
+<text 
+x="110" 
+y="441" 
+dx="0,0" 
+class="s7_127"
+>王朋</text>
+
+<text 
+x="112" 
+y="461" 
+dx="0,-1.7,0,0,0,0,-1.2,0,0" 
+class="s8_127"
+>Wáng Péng</text>
+
+<text 
+x="281" 
+y="441" 
+dx="0,0,0,0,0" 
+class="s7_127"
+>周末/常常</text>
+
+<text 
+x="281" 
+y="461" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_127"
+>zhōumò/chángcháng</text>
+
+<text 
+x="566" 
+y="441" 
+dx="0" 
+class="s7_127"
+>听</text>
+
+<text 
+x="570" 
+y="461" 
+dx="0,0,0,0" 
+class="s8_127"
+>tīng</text>
+
+<text 
+x="705" 
+y="441" 
+dx="0,0" 
+class="s7_127"
+>音乐</text>
+
+<text 
+x="709" 
+y="461" 
+dx="0,0,0,0,0,0" 
+class="s8_127"
+>yīnyuè</text>
+
+<text 
+x="110" 
+y="494" 
+dx="0,-0.6,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s9_127"
+>Wang Peng often listens to music on weekends.</text>
+
+<text 
+x="110" 
+y="548" 
+dx="0,0" 
+class="s7_127"
+>李友</text>
+
+<text 
+x="114" 
+y="568" 
+dx="0,0,0,0,0,0" 
+class="s8_127"
+>Lǐ Yǒu</text>
+
+<text 
+x="281" 
+y="548" 
+dx="0,0" 
+class="s7_127"
+>明天</text>
+
+<text 
+x="285" 
+y="568" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_127"
+>míngtiān</text>
+
+<text 
+x="566" 
+y="548" 
+dx="0" 
+class="s7_127"
+>吃</text>
+
+<text 
+x="570" 
+y="568" 
+dx="0,0,0" 
+class="s8_127"
+>chī</text>
+
+<text 
+x="705" 
+y="548" 
+dx="0,0,0" 
+class="s7_127"
+>中国菜</text>
+
+<text 
+x="709" 
+y="568" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_127"
+>Zhōngguó cài</text>
+
+<text 
+x="110" 
+y="601" 
+dx="0,0,0,0,-1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7" 
+class="s9_127"
+>Li You will have Chinese food tomorrow.</text>
+
+<text 
+x="110" 
+y="655" 
+dx="0,0,0" 
+class="s7_127"
+>高文中</text>
+
+<text 
+x="114" 
+y="675" 
+dx="0,0,0,0,0,-1.8,0,0,0,0,0,0" 
+class="s8_127"
+>Gāo Wénzhōng</text>
+
+<text 
+x="281" 
+y="655" 
+dx="0,0,0,0,0,0,0" 
+class="s7_127"
+>今天下午五点半</text>
+
+<text 
+x="285" 
+y="675" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_127"
+>jīntiān xiàwǔ wǔ diǎn bàn </text>
+
+<text 
+x="566" 
+y="655" 
+dx="0,0" 
+class="s7_127"
+>去看</text>
+
+<text 
+x="574" 
+y="675" 
+dx="0,0,0,0,0,0" 
+class="s8_127"
+>qù kàn</text>
+
+<text 
+x="705" 
+y="655" 
+dx="0,0,0,0" 
+class="s7_127"
+>外国电影</text>
+
+<text 
+x="709" 
+y="675" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_127"
+>wàiguó diànyǐng</text>
+
+<text 
+x="110" 
+y="708" 
+dx="0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_127"
+>Gao Wenzhong will go to see a foreign movie at 5:30 this afternoon.</text>
+
+<text 
+x="143" 
+y="759" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.7,-0.3,-0.3" 
+class="s4_127"
+>While this is the most common word order in a Chinese sentence, the norm varies depending on context.</text>
+
+<text 
+x="105" 
+y="839" 
+dx="0,0" 
+class="s2_127"
+>2 </text>
+
+<text 
+x="224" 
+y="844" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_127"
+>Affirmative + negative (A-not-A) questions (II)</text>
+
+<text 
+x="143" 
+y="906" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_127"
+>In this type of question, there can be no adverbials before the verb other than time words, as in (A) </text>
+
+<text 
+x="143" 
+y="933" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_127"
+>and (B). If there is an adverbial—such as </text>
+
+<text 
+x="407" 
+y="933" 
+dx="0" 
+class="s10_127"
+>都</text>
+
+<text 
+x="433" 
+y="933" 
+dx="0,0,0,0,0" 
+class="s11_127"
+>(dōu)</text>
+
+<text 
+x="468" 
+y="933" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_127"
+>(both, all) or </text>
+
+<text 
+x="548" 
+y="933" 
+dx="0,0" 
+class="s10_127"
+>常常</text>
+
+<text 
+x="595" 
+y="933" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_127"
+>(chángcháng)</text>
+
+<text 
+x="677" 
+y="933" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_127"
+>(often)—before </text>
+
+<text 
+x="143" 
+y="961" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s4_127"
+>the verb, the </text>
+
+<text 
+x="230" 
+y="961" 
+dx="0" 
+class="s10_127"
+>吗</text>
+
+<text 
+x="255" 
+y="961" 
+dx="0,0,0,0" 
+class="s11_127"
+>(ma)</text>
+
+<text 
+x="287" 
+y="961" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_127"
+>type question must be used instead, as in (C) and (D). If there is more than </text>
+
+<text 
+x="143" 
+y="988" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_127"
+>one verb, the question form applies to the first verb, as seen in (E) and (F).</text>
+
+<text 
+x="154" 
+y="1052" 
+dx="0,0" 
+class="s12_127"
+>A </text>
+
+<text 
+x="220" 
+y="1054" 
+dx="0,0,0" 
+class="s13_127"
+>你明天</text>
+
+<text 
+x="316" 
+y="1054" 
+dx="0,0,0" 
+class="s14_127"
+>去不去</text>
+
+<text 
+x="412" 
+y="1054" 
+dx="0" 
+class="s13_127"
+>？</text>
+
+<text 
+x="224" 
+y="1091" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s11_127"
+>Nǐ míngtiān </text>
+
+<text 
+x="303" 
+y="1091" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s15_127"
+>qù bu qù</text>
+
+<text 
+x="357" 
+y="1091" 
+dx="0" 
+class="s16_127"
+>?</text>
+
+<text 
+x="224" 
+y="1123" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_127"
+>Are you going tomorrow?</text>
+
+<path d="M132.9,111.9l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g8_127" />
+<path d="M134.9,164.1l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g9_127" />
+<path d="M132.9,808.8l0,53.5l0,0.8l0.7,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.7,0l0,0.7Z" class="g8_127" />
+<path d="M134.9,861l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g9_127" />
+<path d="M149.1,1028.9c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g8_127" />
+<path d="M149.1,1030.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g9_127" />
+<path d="M-22.1,1236.7l58,0L35.9,-35l-58,0l0,1271.7Z" class="g10_127" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3,0.3" 
+class="s17_127"
+>106 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1137)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s17_127"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1016)"
+dx="0,0.3" 
+class="s17_127"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1003)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s17_127"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2yv;
+	src: url("fonts/ProximaNova-Extrabld_2yv.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2z7;
+	src: url("fonts/ProximaNova-Semibold_2z7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2z3;
+	src: url("fonts/ProximaNova-Light_2z3.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_2za;
+	src: url("fonts/ProximaNova-Regular_2za.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2yz;
+	src: url("fonts/ProximaNova-Bold_2yz.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2y-;
+	src: url("fonts/Marion-Italic_2y-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 75 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_75"><path d="M313.2,877.6c-10.1,0,-18.3,-8.2,-18.3,-18.3l0,-350.5l535,0c10.1,0,18.3,8.2,18.3,18.3l0,350.5Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_75{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_75{
+fill: #3986C6;
+}
+.g3_75{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.9097222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_75{
+fill: #FFFFFF;
+}
+.g5_75{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_75{
+fill: #ACBF3B;
+}
+.g7_75{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_75{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cqy;
+fill: #231F20;
+}
+.s2_75{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cpr;
+fill: #231F20;
+}
+.s3_75{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cpz;
+fill: #FFFFFF;
+}
+.s4_75{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cpr;
+fill: #FFFFFF;
+}
+.s5_75{
+font-size: 29.03px;
+font-family: ProximaNova-Bold_cpr;
+fill: #FFFFFF;
+}
+.s6_75{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_cpr;
+fill: #231F20;
+}
+.s7_75{
+font-size: 21.39px;
+font-family: Wingdings-Regular_cnj;
+fill: #ACBF3B;
+}
+.s8_75{
+font-size: 19.10px;
+font-family: Alegreya-Regular_cpq;
+fill: #231F20;
+}
+.s9_75{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_cpr;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_75"
+>Go Far with Chinese</text>
+
+<text 
+x="38" 
+y="1149" 
+dx="0,0" 
+class="s2_75"
+>52</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_75" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_75" />
+<path d="M0,1196.3l921.3,0l0,-723L0,473.3l0,723Z" class="g2_75" />
+<path d="M123.8,111.5l710.4,0" class="g3_75" />
+<path d="M834.2,116.1c2.5,0,4.6,-2,4.6,-4.6c0,-2.5,-2.1,-4.6,-4.6,-4.6c-2.6,0,-4.6,2.1,-4.6,4.6c0,2.6,2,4.6,4.6,4.6Z" class="g2_75" />
+<path d="M398.8,139l0,-30c0,-25,-18.6,-25,-18.6,-25L172.9,84l0,30c0,25,18.5,25,18.5,25Z" class="g2_75" />
+<path d="M125.9,148.3l-3,-5.2l-5.8,1.6l10.8,-23.3l8.8,3.7Z" class="g2_75" />
+<path d="M147.7,148.3l3,-5.2l5.8,1.6L145.7,121.4l-8.8,3.7Z" class="g2_75" />
+<path d="M139.2,88.6l0,0c0.6,1.8,2.8,2.3,4.1,0.9c1.6,-1.7,4.5,-0.4,4.3,1.9c-0.1,1.9,1.8,3.2,3.5,2.5c2.2,-0.9,4.3,1.5,3.1,3.5c-0.9,1.7,0.3,3.7,2.2,3.7c2.3,0.1,3.3,3.1,1.4,4.5c-1.5,1.1,-1.2,3.4,0.5,4.2c2.1,1.1,1.8,4.2,-0.5,4.7c-1.8,0.5,-2.6,2.7,-1.3,4.1c1.5,1.8,-0.1,4.5,-2.4,4.1c-1.8,-0.4,-3.4,1.3,-2.8,3.1c0.6,2.3,-1.9,4.1,-3.9,2.8c-1.5,-1.1,-3.6,-0.1,-3.9,1.7c-0.3,2.4,-3.3,3,-4.6,1c-0.9,-1.6,-3.3,-1.6,-4.2,0c-1.3,2,-4.3,1.4,-4.6,-1c-0.3,-1.8,-2.4,-2.8,-3.9,-1.7c-2,1.3,-4.5,-0.5,-3.9,-2.8c0.6,-1.8,-1,-3.5,-2.8,-3.1c-2.3,0.4,-3.9,-2.3,-2.4,-4.1c1.3,-1.4,0.5,-3.6,-1.3,-4.1c-2.3,-0.5,-2.6,-3.6,-0.5,-4.7c1.7,-0.8,2,-3.1,0.5,-4.2c-1.9,-1.4,-0.9,-4.4,1.4,-4.5c1.9,0,3.1,-2,2.2,-3.7c-1.2,-2,0.9,-4.4,3.1,-3.5c1.7,0.7,3.6,-0.6,3.5,-2.5c-0.2,-2.3,2.7,-3.6,4.3,-1.9c1.3,1.4,3.5,0.9,4.1,-0.9c0.8,-2.2,4,-2.2,4.8,0Z" class="g2_75" />
+<path d="M136.8,93.6c8.9,0,16.1,7.2,16.1,16.1c0,8.9,-7.2,16.1,-16.1,16.1c-8.9,0,-16.1,-7.2,-16.1,-16.1c0,-8.9,7.2,-16.1,16.1,-16.1Z" class="g4_75" />
+<path d="M141.1,100l-4.3,3.1L132.5,100l-0.8,5.2l-5.3,0.9l3.1,4.3l-3.1,4.3l5.3,0.8l0.8,5.2l4.3,-3.1l4.3,3.1l0.8,-5.2l5.3,-0.8l-3.1,-4.3l3.1,-4.3l-5.3,-0.9Z" class="g2_75" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_75"
+>Go Far with Chinese</text>
+
+<text 
+x="38" 
+y="1149" 
+dx="0,0" 
+class="s4_75"
+>52</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g5_75" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g4_75" />
+<text 
+x="193" 
+y="121" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_75"
+>Can-Do Goals</text>
+
+<text 
+x="177" 
+y="173" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_75"
+>Talk with your teacher if you have questions or if you are not </text>
+
+<text 
+x="179" 
+y="199" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s6_75"
+>certain you can do the following tasks:</text>
+
+<text 
+x="177" 
+y="239" 
+dx="0" 
+class="s7_75"
+></text>
+
+<text 
+x="220" 
+y="237" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,-0.2,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_75"
+>Understand how Chinese names are different from English names</text>
+
+<text 
+x="177" 
+y="271" 
+dx="0" 
+class="s7_75"
+></text>
+
+<text 
+x="220" 
+y="269" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s8_75"
+>Tell others your name</text>
+
+<text 
+x="177" 
+y="304" 
+dx="0" 
+class="s7_75"
+></text>
+
+<text 
+x="220" 
+y="302" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0" 
+class="s8_75"
+>Ask for someone’s name</text>
+
+<text 
+x="177" 
+y="337" 
+dx="0" 
+class="s7_75"
+></text>
+
+<text 
+x="220" 
+y="335" 
+dx="0,-0.4,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_75"
+>Say that something belongs to someone</text>
+
+<text 
+x="177" 
+y="370" 
+dx="0" 
+class="s7_75"
+></text>
+
+<text 
+x="220" 
+y="368" 
+dx="0,-0.6,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0,-1.1,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s8_75"
+>Respond to “what” and “who” questions</text>
+
+<text 
+x="177" 
+y="403" 
+dx="0" 
+class="s7_75"
+></text>
+
+<text 
+x="220" 
+y="401" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s8_75"
+>Express that you have or do not have something</text>
+
+<image preserveAspectRatio="none" x="295" y="508" width="553" height="370" xlink:href="75/img/1.png" />
+<g clip-path="url(#c0_75)">
+<g fill="#231F20" >
+<use xlink:href="#f0_3" transform="matrix(48.3,0,0,48.3,458.1,738.4)" />
+<use xlink:href="#f0_2" transform="matrix(48.3,0,0,48.3,531.8,738.4)" />
+</g>
+</g>
+<path d="M415.4,579.1l0,-30c0,-25,-25.3,-25,-25.3,-25l-283,0l0,30c0,25,25.3,25,25.3,25Z" class="g6_75" />
+<path d="M415.4,579.1l0,-30c0,-25,-25.3,-25,-25.3,-25l-283,0l0,30c0,25,25.3,25,25.3,25l283,0Z" class="g7_75" />
+<text 
+x="127" 
+y="562" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_75"
+>Cultural Knowledge</text>
+
+<text 
+x="131" 
+y="608" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_75"
+>What did you </text>
+
+<text 
+x="132" 
+y="634" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_75"
+>learn about </text>
+
+<text 
+x="131" 
+y="660" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s9_75"
+>Chinese names?</text>
+
+
+<defs>
+	<path d="M508.8,-129.8c-7.7,27.5,-27.5,68.8,-45.9,94.8c59.6,-1.6,114.6,-3.1,154.3,-3.1c84.1,0,93.2,0,93.2,29l0,226l-638.6,0l0,94.8l638.6,0l0,85.5l64.2,-3c73.3,32.1,146.7,74.8,209.3,117.6l-632.5,0l0,93.2l754.7,0l18.3,6.1l79.5,-55c-4.6,-6.1,-15.3,-10.7,-24.5,-12.2C1086.3,470.6,945.7,383.5,811.3,326.9l0,-15.2l646.2,0l0,-94.8l-646.2,0l0,-227.5c0,-111.5,-53.5,-119.2,-302.5,-119.2ZM117.6,568.3c-15.2,26,-45.8,64.2,-68.7,84.1c189.4,64.1,401.8,192.5,537.8,336.1l-507.3,0l0,96.2l629.5,0l0,206.3l131.4,-9.2c-1.5,-10.7,-9.2,-18.3,-29,-21.4l0,-175.7l640.1,0l0,-96.2l-521,0C1067.9,851,1283.3,727.2,1480.4,666.1c-24.4,-19.8,-55,-59.6,-70.3,-85.5C1193.2,656.9,954.9,814.3,811.3,986.9l0,-340.6l-102.4,0l0,340.6C563.8,809.7,326.9,649.3,117.6,568.3Z" 
+	id="f0_3"
+	transform="scale(0.001,-0.001)" />
+
+	<path d="M1147.4,461.4l0,275l-721.1,0c0,-77.9,-3.1,-174.2,-16.9,-275Zm0,372.8l0,271.9l-721.1,0l0,-271.9ZM110,-132.8c-15.3,22.9,-53.5,61.1,-76.4,76.4C296.4,166.5,322.4,482.8,322.4,736.4l0,470.5l931.9,0l0,-1185.5c0,-79.4,-21.4,-114.5,-77.9,-132.8c-46.5,-15.1,-123.8,-18.8,-242.3,-18.8c-25.8,0,-53.4,0.2,-83.1,0.4c-7.7,29.1,-27.5,78,-44.3,108.5c73.3,-3,143.6,-4.6,198.6,-4.6c132.9,0,142.1,0,142.1,47.3l0,340.7l-756.3,0C351.4,183.3,271.9,3.1,110,-132.8Z" 
+	id="f0_2"
+	transform="scale(0.001,-0.001)" />
+
+
+</defs>
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_cpz;
+	src: url("fonts/ProximaNova-Semibold_cpz.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cqy;
+	src: url("fonts/ProximaNova-Semibold_cqy.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cpr;
+	src: url("fonts/ProximaNova-Bold_cpr.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_cpq;
+	src: url("fonts/Alegreya-Regular_cpq.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings-Regular_cnj;
+	src: url("fonts/Wingdings-Regular_cnj.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

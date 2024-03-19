@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 20 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_20{
+fill: #549B5D;
+}
+.g2_20{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_20{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_20{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.7638889;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 0,2;
+}
+
+.s1_20{
+font-size: 13.75px;
+font-family: MuseoSlab-700_3on;
+fill: #808285;
+}
+.s2_20{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_3ob;
+fill: #FFFFFF;
+}
+.s3_20{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_3ob;
+fill: #128B43;
+}
+.s4_20{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #128B43;
+}
+.s5_20{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3o8;
+fill: #808285;
+}
+.s6_20{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3o8;
+fill: #231F20;
+}
+.s7_20{
+font-size: 22.92px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #128B43;
+}
+.s8_20{
+font-size: 14.51px;
+font-family: LibreFranklin-Italic_3o7;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="872" 
+y="1166" 
+dx="0,0,0" 
+class="s1_20"
+>xix</text>
+
+<path d="M89.4,55L213,55l0,25.5l-123.6,0L89.4,55ZM213,55l168.9,0l0,25.5L213,80.5L213,55Zm168.9,0l168.8,0l0,25.5l-168.8,0l0,-25.5Zm168.8,0l168.9,0l0,25.5l-168.9,0l0,-25.5Zm168.9,0l139.8,0l0,25.5l-139.8,0l0,-25.5Z" class="g1_20" />
+<path d="M213,80.5l0,-25.1" class="g2_20" />
+<path d="M381.9,80.5l0,-25.1" class="g2_20" />
+<path d="M550.7,80.5l0,-25.1" class="g2_20" />
+<path d="M719.6,80.5l0,-25.1" class="g2_20" />
+<path d="M213,559.2L213,80.5" class="g2_20" />
+<path d="M381.9,559.2l0,-478.7" class="g2_20" />
+<path d="M550.7,559.2l0,-478.7" class="g2_20" />
+<path d="M719.6,559.2l0,-478.7" class="g2_20" />
+<path d="M213,924l0,-364.8" class="g2_20" />
+<path d="M381.9,924l0,-364.8" class="g2_20" />
+<path d="M550.7,924l0,-364.8" class="g2_20" />
+<path d="M719.6,924l0,-364.8" class="g2_20" />
+<path d="M89.4,80.5l123.3,0" class="g3_20" />
+<path d="M213.4,80.5l168.1,0" class="g3_20" />
+<path d="M382.3,80.5l168.1,0" class="g3_20" />
+<path d="M551.1,80.5l168.1,0" class="g3_20" />
+<path d="M720,80.5l139.4,0" class="g3_20" />
+<path d="M382.3,559.2l168.1,0" class="g3_20" />
+<path d="M551.1,559.2l168.1,0" class="g3_20" />
+<path d="M720,559.2l139.4,0" class="g3_20" />
+<path d="M381.9,924.6l168.8,0" class="g3_20" />
+<path d="M550.7,924.6l168.9,0" class="g3_20" />
+<path d="M719.6,924.6l139.8,0" class="g3_20" />
+<path d="M89.4,559.2l123.3,0" class="g3_20" />
+<path d="M213.4,559.2l168.1,0" class="g3_20" />
+<path d="M89.4,924.6l123.6,0" class="g3_20" />
+<path d="M213,924.6l168.9,0" class="g3_20" />
+<path d="M213,78.9l0,-22.7" class="g4_20" />
+<path d="M381.9,78.9l0,-22.7" class="g4_20" />
+<path d="M550.7,78.9l0,-22.7" class="g4_20" />
+<path d="M719.6,78.9l0,-22.7" class="g4_20" />
+<path d="M213,557.6L213,81.3" class="g4_20" />
+<path d="M381.9,557.6l0,-476.3" class="g4_20" />
+<path d="M550.7,557.6l0,-476.3" class="g4_20" />
+<path d="M719.6,557.6l0,-476.3" class="g4_20" />
+<path d="M213,922.5l0,-362.6" class="g4_20" />
+<path d="M381.9,922.5l0,-362.6" class="g4_20" />
+<path d="M550.7,922.5l0,-362.6" class="g4_20" />
+<path d="M719.6,922.5l0,-362.6" class="g4_20" />
+<text 
+x="95" 
+y="72" 
+dx="0,0,0,0,0,0" 
+class="s2_20"
+>Lesson</text>
+
+<text 
+x="219" 
+y="72" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s2_20"
+>Learning Objectives</text>
+
+<text 
+x="387" 
+y="72" 
+dx="0,0,-0.1,0,0,0,0" 
+class="s2_20"
+>Grammar</text>
+
+<text 
+x="556" 
+y="72" 
+dx="0,-1.2,0,-0.2,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s2_20"
+>Words &amp; Phrases</text>
+
+<text 
+x="725" 
+y="72" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.3,0,-0.1,0,0" 
+class="s2_20"
+>Cultural Literacy</text>
+
+<text 
+x="95" 
+y="99" 
+dx="0,0" 
+class="s3_20"
+>6 </text>
+
+<text 
+x="95" 
+y="124" 
+dx="0,-0.9,-0.9,-0.9,0" 
+class="s4_20"
+>男朋友女 </text>
+
+<text 
+x="95" 
+y="147" 
+dx="0,-0.9" 
+class="s4_20"
+>朋友</text>
+
+<text 
+x="95" 
+y="170" 
+dx="0,0,0,0,0,0" 
+class="s3_20"
+>Dating</text>
+
+<text 
+x="219" 
+y="100" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="100" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s6_20"
+>Say if you have an </text>
+
+<text 
+x="226" 
+y="118" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>upbeat personality</text>
+
+<text 
+x="219" 
+y="144" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="144" 
+dx="0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_20"
+>State if you share the </text>
+
+<text 
+x="226" 
+y="162" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_20"
+>same interests or </text>
+
+<text 
+x="226" 
+y="180" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s6_20"
+>hobbies as others</text>
+
+<text 
+x="219" 
+y="206" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="206" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Inquire if everything </text>
+
+<text 
+x="226" 
+y="224" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>is OK and find out </text>
+
+<text 
+x="226" 
+y="242" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>what has happened</text>
+
+<text 
+x="219" 
+y="267" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="267" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Describe behaviors </text>
+
+<text 
+x="226" 
+y="286" 
+dx="0,-0.2,0,0,0,0,-0.3,0,0,-0.1,-0.1,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>of a forgetful person</text>
+
+<text 
+x="219" 
+y="311" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="311" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Give a simple </text>
+
+<text 
+x="226" 
+y="329" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_20"
+>description of what </text>
+
+<text 
+x="226" 
+y="348" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>you look for in a friend</text>
+
+<text 
+x="219" 
+y="373" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="373" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0" 
+class="s6_20"
+>Tell what makes you </text>
+
+<text 
+x="226" 
+y="391" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>anxious or angry</text>
+
+<text 
+x="387" 
+y="103" 
+dx="0,0,0" 
+class="s6_20"
+>1. </text>
+
+<text 
+x="403" 
+y="103" 
+dx="0,0,0,0,0" 
+class="s4_20"
+>（在）…上</text>
+
+<text 
+x="387" 
+y="126" 
+dx="0,0,0" 
+class="s6_20"
+>2. </text>
+
+<text 
+x="403" 
+y="126" 
+dx="0,-0.9,0,0,0" 
+class="s6_20"
+>Verb </text>
+
+<text 
+x="438" 
+y="126" 
+dx="0" 
+class="s4_20"
+>来</text>
+
+<text 
+x="464" 
+y="126" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="469" 
+y="126" 
+dx="0" 
+class="s7_20"
+>來</text>
+
+<text 
+x="495" 
+y="126" 
+dx="0,-0.4,0,0,0" 
+class="s6_20"
+>verb </text>
+
+<text 
+x="403" 
+y="148" 
+dx="0" 
+class="s7_20"
+>去</text>
+
+<text 
+x="387" 
+y="172" 
+dx="0,0,0" 
+class="s6_20"
+>3. </text>
+
+<text 
+x="403" 
+y="172" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Comparing</text>
+
+<text 
+x="483" 
+y="172" 
+dx="0" 
+class="s4_20"
+>的</text>
+
+<text 
+x="506" 
+y="172" 
+dx="0,0" 
+class="s6_20"
+>, </text>
+
+<text 
+x="513" 
+y="172" 
+dx="0" 
+class="s4_20"
+>得</text>
+
+<text 
+x="535" 
+y="172" 
+dx="0,0" 
+class="s6_20"
+>, </text>
+
+<text 
+x="403" 
+y="196" 
+dx="0,0,0,0" 
+class="s6_20"
+>and </text>
+
+<text 
+x="431" 
+y="196" 
+dx="0,0" 
+class="s4_20"
+>地 </text>
+
+<text 
+x="460" 
+y="196" 
+dx="0,0,0,0" 
+class="s6_20"
+>(II)</text>
+
+<text 
+x="387" 
+y="219" 
+dx="0,0,0" 
+class="s6_20"
+>4. </text>
+
+<text 
+x="403" 
+y="219" 
+dx="0,0" 
+class="s4_20"
+>原来</text>
+
+<text 
+x="449" 
+y="219" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="454" 
+y="219" 
+dx="0,0" 
+class="s7_20"
+>原來</text>
+
+<text 
+x="503" 
+y="219" 
+dx="0,0,0" 
+class="s6_20"
+>as </text>
+
+<text 
+x="403" 
+y="236" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s6_20"
+>adverb and adjective</text>
+
+<text 
+x="387" 
+y="260" 
+dx="0,0,0" 
+class="s6_20"
+>5. </text>
+
+<text 
+x="403" 
+y="260" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Set phrases</text>
+
+<text 
+x="556" 
+y="103" 
+dx="0,0,0" 
+class="s6_20"
+>A. </text>
+
+<text 
+x="572" 
+y="103" 
+dx="0,0" 
+class="s4_20"
+>到底</text>
+
+<text 
+x="621" 
+y="103" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>(what on </text>
+
+<text 
+x="572" 
+y="119" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>earth, what in the </text>
+
+<text 
+x="572" 
+y="136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>world, in the end)</text>
+
+<text 
+x="556" 
+y="160" 
+dx="0,0,0" 
+class="s6_20"
+>B. </text>
+
+<text 
+x="572" 
+y="160" 
+dx="0,0" 
+class="s4_20"
+>根本</text>
+
+<text 
+x="621" 
+y="160" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>(at all, simply)</text>
+
+<text 
+x="556" 
+y="184" 
+dx="0,0,0" 
+class="s6_20"
+>C. </text>
+
+<text 
+x="572" 
+y="184" 
+dx="0,0,0,0" 
+class="s4_20"
+>一干二净</text>
+
+<text 
+x="663" 
+y="184" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="572" 
+y="207" 
+dx="0,0,0,0" 
+class="s7_20"
+>一乾二淨</text>
+
+<text 
+x="572" 
+y="224" 
+dx="0,0,0,0,0,0,0,-0.1,-0.2,0,0,-1,0" 
+class="s6_20"
+>(completely, </text>
+
+<text 
+x="572" 
+y="241" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,-1,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s6_20"
+>thoroughly, spotless)</text>
+
+<text 
+x="556" 
+y="265" 
+dx="0,-0.9,0" 
+class="s6_20"
+>D. </text>
+
+<text 
+x="572" 
+y="265" 
+dx="0,0,0" 
+class="s4_20"
+>实际上</text>
+
+<text 
+x="640" 
+y="265" 
+dx="0,0" 
+class="s6_20"
+>/ </text>
+
+<text 
+x="572" 
+y="288" 
+dx="0,0,0" 
+class="s7_20"
+>實際上</text>
+
+<text 
+x="572" 
+y="305" 
+dx="0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>(actually, in fact, in </text>
+
+<text 
+x="572" 
+y="322" 
+dx="0,-0.2,0,0,0,0,0,0" 
+class="s6_20"
+>reality)</text>
+
+<text 
+x="556" 
+y="346" 
+dx="0,0,0" 
+class="s6_20"
+>E. </text>
+
+<text 
+x="572" 
+y="346" 
+dx="0,0,0,0" 
+class="s4_20"
+>丢三拉四</text>
+
+<text 
+x="572" 
+y="362" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>(scatterbrained, </text>
+
+<text 
+x="572" 
+y="379" 
+dx="0,-0.3,0,0,-0.1,-0.1,0,0,0,0" 
+class="s6_20"
+>forgetful)</text>
+
+<text 
+x="556" 
+y="403" 
+dx="0,-1.9,0" 
+class="s6_20"
+>F. </text>
+
+<text 
+x="572" 
+y="403" 
+dx="0,0,0,0,0,0,0" 
+class="s4_20"
+>一会儿…, 一</text>
+
+<text 
+x="572" 
+y="426" 
+dx="0,0,0,0,0,0" 
+class="s4_20"
+>会儿…, 一</text>
+
+<text 
+x="572" 
+y="449" 
+dx="0,0,0,0" 
+class="s4_20"
+>会儿又…</text>
+
+<text 
+x="663" 
+y="449" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="668" 
+y="449" 
+dx="0" 
+class="s7_20"
+>一</text>
+
+<text 
+x="572" 
+y="472" 
+dx="0,0,0,0,0,0,0" 
+class="s7_20"
+>會兒…, 一會</text>
+
+<text 
+x="572" 
+y="495" 
+dx="0,0,0,0,0,0,0" 
+class="s7_20"
+>兒…, 一會兒</text>
+
+<text 
+x="572" 
+y="519" 
+dx="0,0" 
+class="s7_20"
+>又…</text>
+
+<text 
+x="621" 
+y="519" 
+dx="0,0,0,0,0" 
+class="s6_20"
+>(one </text>
+
+<text 
+x="572" 
+y="536" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.2,0" 
+class="s6_20"
+>minute . . . , the next </text>
+
+<text 
+x="572" 
+y="553" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>minute . . . )</text>
+
+<text 
+x="725" 
+y="100" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="732" 
+y="100" 
+dx="0,-0.8,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0" 
+class="s6_20"
+>Valentine’s Day </text>
+
+<text 
+x="732" 
+y="118" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_20"
+>and the </text>
+
+<text 
+x="786" 
+y="118" 
+dx="0,0,0,0" 
+class="s8_20"
+>Qixi</text>
+
+<text 
+x="732" 
+y="137" 
+dx="0,-1.1,0,0,0,0,0,0" 
+class="s6_20"
+>Festival</text>
+
+<text 
+x="725" 
+y="162" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="732" 
+y="162" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Idealized traits</text>
+
+<text 
+x="725" 
+y="187" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="732" 
+y="187" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Courtship</text>
+
+<text 
+x="95" 
+y="578" 
+dx="0" 
+class="s3_20"
+>7</text>
+
+<text 
+x="95" 
+y="601" 
+dx="0,0,0" 
+class="s4_20"
+>电脑和</text>
+
+<text 
+x="95" 
+y="624" 
+dx="0,0,0" 
+class="s4_20"
+>网络/</text>
+
+<text 
+x="95" 
+y="650" 
+dx="0,0,0" 
+class="s7_20"
+>電腦和</text>
+
+<text 
+x="95" 
+y="676" 
+dx="0,0" 
+class="s7_20"
+>網絡</text>
+
+<text 
+x="95" 
+y="700" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s3_20"
+>Computers and </text>
+
+<text 
+x="95" 
+y="716" 
+dx="0,0,0,0,0,0,0,-0.3,0,0,0,-0.2" 
+class="s3_20"
+>the Internet</text>
+
+<text 
+x="219" 
+y="579" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="579" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_20"
+>Find out if others are </text>
+
+<text 
+x="226" 
+y="597" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>angry with you and </text>
+
+<text 
+x="226" 
+y="615" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>apologize if so</text>
+
+<text 
+x="219" 
+y="641" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="641" 
+dx="0,-0.7,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Avoid tension in a </text>
+
+<text 
+x="226" 
+y="659" 
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>conversation by </text>
+
+<text 
+x="226" 
+y="677" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>changing the subject</text>
+
+<text 
+x="219" 
+y="703" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="703" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Let people know </text>
+
+<text 
+x="226" 
+y="721" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>about the trouble you </text>
+
+<text 
+x="226" 
+y="739" 
+dx="0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,-0.2,0,0,0,0" 
+class="s6_20"
+>had to go through </text>
+
+<text 
+x="226" 
+y="758" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_20"
+>because of their </text>
+
+<text 
+x="226" 
+y="776" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>thoughtlessness or </text>
+
+<text 
+x="226" 
+y="794" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>carelessness</text>
+
+<text 
+x="219" 
+y="819" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="819" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Name and discuss </text>
+
+<text 
+x="226" 
+y="838" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>the activities you </text>
+
+<text 
+x="226" 
+y="856" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.1,0,0,-0.3,0" 
+class="s6_20"
+>use the Internet for</text>
+
+<text 
+x="219" 
+y="881" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="226" 
+y="881" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s6_20"
+>Discuss the pros </text>
+
+<text 
+x="226" 
+y="900" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_20"
+>and the cons of </text>
+
+<text 
+x="226" 
+y="918" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.1" 
+class="s6_20"
+>using the Internet</text>
+
+<text 
+x="387" 
+y="579" 
+dx="0,0,0" 
+class="s6_20"
+>1. </text>
+
+<text 
+x="403" 
+y="579" 
+dx="0,-0.8,-0.1,-0.2,0,0,0,0,0,0" 
+class="s6_20"
+>Potential </text>
+
+<text 
+x="403" 
+y="596" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>complements (III)</text>
+
+<text 
+x="387" 
+y="619" 
+dx="0,0,0" 
+class="s6_20"
+>2. </text>
+
+<text 
+x="403" 
+y="619" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Connecting </text>
+
+<text 
+x="403" 
+y="636" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>sentences (II)</text>
+
+<text 
+x="387" 
+y="660" 
+dx="0,0,0" 
+class="s6_20"
+>3. </text>
+
+<text 
+x="403" 
+y="660" 
+dx="0,0" 
+class="s4_20"
+>过来</text>
+
+<text 
+x="449" 
+y="660" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="454" 
+y="660" 
+dx="0,0" 
+class="s7_20"
+>過來</text>
+
+<text 
+x="503" 
+y="660" 
+dx="0,0,0,0" 
+class="s6_20"
+>and </text>
+
+<text 
+x="403" 
+y="683" 
+dx="0,0" 
+class="s4_20"
+>过去</text>
+
+<text 
+x="449" 
+y="683" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="454" 
+y="683" 
+dx="0,0" 
+class="s7_20"
+>過去</text>
+
+<text 
+x="403" 
+y="700" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0" 
+class="s6_20"
+>(to come over/ </text>
+
+<text 
+x="403" 
+y="717" 
+dx="0,-0.2,0,0,-0.1,0,0,-0.3,-0.4,0,0" 
+class="s6_20"
+>to go over)</text>
+
+<text 
+x="556" 
+y="581" 
+dx="0,0,0" 
+class="s6_20"
+>A. </text>
+
+<text 
+x="572" 
+y="581" 
+dx="0,0,0,0" 
+class="s4_20"
+>从…到…</text>
+
+<text 
+x="663" 
+y="581" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="572" 
+y="605" 
+dx="0,0,0,0" 
+class="s7_20"
+>從…到…</text>
+
+<text 
+x="572" 
+y="622" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>(from . . . to . . . )</text>
+
+<text 
+x="556" 
+y="645" 
+dx="0,0,0" 
+class="s6_20"
+>B. </text>
+
+<text 
+x="572" 
+y="645" 
+dx="0,0" 
+class="s4_20"
+>结果</text>
+
+<text 
+x="617" 
+y="645" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="622" 
+y="645" 
+dx="0,0" 
+class="s7_20"
+>結果</text>
+
+<text 
+x="572" 
+y="662" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_20"
+>(as a result)</text>
+
+<text 
+x="556" 
+y="686" 
+dx="0,0,0" 
+class="s6_20"
+>C. </text>
+
+<text 
+x="572" 
+y="686" 
+dx="0,0" 
+class="s4_20"
+>害得</text>
+
+<text 
+x="617" 
+y="686" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="622" 
+y="686" 
+dx="0,0" 
+class="s7_20"
+>害得</text>
+
+<text 
+x="572" 
+y="703" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_20"
+>(to cause trouble </text>
+
+<text 
+x="572" 
+y="720" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>so that, to do harm </text>
+
+<text 
+x="572" 
+y="736" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_20"
+>so that)</text>
+
+<text 
+x="556" 
+y="760" 
+dx="0,-0.9,0" 
+class="s6_20"
+>D. </text>
+
+<text 
+x="572" 
+y="760" 
+dx="0,0,0" 
+class="s4_20"
+>看起来</text>
+
+<text 
+x="640" 
+y="760" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="572" 
+y="784" 
+dx="0,0,0" 
+class="s7_20"
+>看起來</text>
+
+<text 
+x="643" 
+y="784" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>(it seems)</text>
+
+<text 
+x="556" 
+y="807" 
+dx="0,0,0" 
+class="s6_20"
+>E. </text>
+
+<text 
+x="572" 
+y="807" 
+dx="0,0,0" 
+class="s4_20"
+>听起来</text>
+
+<text 
+x="640" 
+y="807" 
+dx="0" 
+class="s6_20"
+>/</text>
+
+<text 
+x="572" 
+y="831" 
+dx="0,0,0" 
+class="s7_20"
+>聽起來</text>
+
+<text 
+x="643" 
+y="831" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s6_20"
+>(it sounds)</text>
+
+<text 
+x="725" 
+y="579" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="732" 
+y="579" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Baidu, Alibaba, </text>
+
+<text 
+x="732" 
+y="597" 
+dx="0,0,0,0,0,-1.5,0,0,0,0,0" 
+class="s6_20"
+>and Tencent</text>
+
+<text 
+x="725" 
+y="622" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="732" 
+y="622" 
+dx="0,0,0,-0.2,0,0,0,-0.1,0,0,0,0,0,-0.1" 
+class="s6_20"
+>Internet lingo</text>
+
+<text 
+x="725" 
+y="648" 
+dx="0,0" 
+class="s5_20"
+>• </text>
+
+<text 
+x="732" 
+y="648" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_20"
+>Chinese </text>
+
+<text 
+x="732" 
+y="666" 
+dx="0,0,0,0,0,0,0,-0.2,0,0" 
+class="s6_20"
+>character </text>
+
+<text 
+x="732" 
+y="684" 
+dx="0,0,0,-0.2,0,0,0,0,0,-0.2" 
+class="s6_20"
+>throwbacks</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3ob;
+	src: url("fonts/LibreFranklin-ExtraBold_3ob.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3o8;
+	src: url("fonts/LibreFranklin-Regular_3o8.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_3on;
+	src: url("fonts/MuseoSlab-700_3on.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Italic_3o7;
+	src: url("fonts/LibreFranklin-Italic_3o7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

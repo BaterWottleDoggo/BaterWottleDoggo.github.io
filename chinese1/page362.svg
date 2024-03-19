@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 385 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_385{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_385{
+fill: #3986C6;
+}
+.g3_385{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_385{
+fill: #E2E3E5;
+}
+.g5_385{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_385{
+fill: #ACBF3B;
+}
+
+.s1_385{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cqy;
+fill: #231F20;
+}
+.s2_385{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_dcf;
+fill: #231F20;
+}
+.s3_385{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_dcf;
+fill: #231F20;
+}
+.s4_385{
+font-size: 19.10px;
+font-family: Alegreya-Regular_dci;
+fill: #231F20;
+}
+.s5_385{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s6_385{
+font-size: 19.10px;
+font-family: Alegreya-Bold_dcn;
+fill: #231F20;
+}
+.s7_385{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s8_385{
+font-size: 16.04px;
+font-family: Alegreya-Regular_dci;
+fill: #231F20;
+}
+.s9_385{
+font-size: 16.81px;
+font-family: ProximaNovaCond-Extrabld_dc-;
+fill: #231F20;
+}
+.s10_385{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_dcf;
+fill: #FFFFFF;
+}
+.s11_385{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_dcf;
+fill: #231F20;
+}
+.s12_385{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_dcj;
+fill: #FFFFFF;
+}
+.s13_385{
+font-size: 19.10px;
+font-family: Alegreya-Bold_dcn;
+fill: #3986C6;
+}
+.s14_385{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_dd3;
+fill: #3986C6;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_385"
+>Go Far with Chinese</text>
+
+<text 
+x="32" 
+y="1149" 
+dx="0,0,0" 
+class="s2_385"
+>362</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_385" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_385" />
+<text 
+x="110" 
+y="528" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s3_385"
+>Language Reference</text>
+
+<path d="M311.6,522.4l520.5,0" class="g3_385" />
+<path d="M311.6,525.5c1.7,0,3.1,-1.4,3.1,-3.1c0,-1.7,-1.4,-3,-3.1,-3c-1.7,0,-3,1.3,-3,3c0,1.7,1.3,3.1,3,3.1Z" class="g2_385" />
+<text 
+x="138" 
+y="569" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_385"
+>Verbs that are made up of two words</text>
+
+<text 
+x="137" 
+y="615" 
+dx="0,-0.2,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s4_385"
+>There are some words in Chinese that usually act as a single verb but are made up of two </text>
+
+<text 
+x="138" 
+y="641" 
+dx="0,-0.3,0,-0.2,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_385"
+>words — a single-character verb and its single-character object. Examples of this kind </text>
+
+<text 
+x="139" 
+y="667" 
+dx="0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s4_385"
+>of word that you have learned so far include </text>
+
+<text 
+x="480" 
+y="666" 
+dx="0,0" 
+class="s5_385"
+>睡觉</text>
+
+<text 
+x="525" 
+y="666" 
+dx="0,-0.4" 
+class="s4_385"
+>, </text>
+
+<text 
+x="534" 
+y="666" 
+dx="0,0" 
+class="s5_385"
+>起床</text>
+
+<text 
+x="580" 
+y="666" 
+dx="0,-0.4" 
+class="s4_385"
+>, </text>
+
+<text 
+x="589" 
+y="666" 
+dx="0,0" 
+class="s5_385"
+>上课</text>
+
+<text 
+x="635" 
+y="666" 
+dx="0,-0.4" 
+class="s4_385"
+>, </text>
+
+<text 
+x="644" 
+y="666" 
+dx="0,0" 
+class="s5_385"
+>跳舞</text>
+
+<text 
+x="696" 
+y="667" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s4_385"
+>(tiào wǔ), </text>
+
+<text 
+x="773" 
+y="666" 
+dx="0,0" 
+class="s5_385"
+>唱歌</text>
+
+<text 
+x="138" 
+y="693" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s4_385"
+>(chàng gē), </text>
+
+<text 
+x="227" 
+y="692" 
+dx="0,0,0,0" 
+class="s5_385"
+>聊天儿 </text>
+
+<text 
+x="301" 
+y="693" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s4_385"
+>(liáo tiānr), </text>
+
+<text 
+x="391" 
+y="692" 
+dx="0,0" 
+class="s5_385"
+>见面</text>
+
+<text 
+x="443" 
+y="693" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s4_385"
+>(jiàn miàn), </text>
+
+<text 
+x="536" 
+y="692" 
+dx="0,0" 
+class="s5_385"
+>发音</text>
+
+<text 
+x="582" 
+y="693" 
+dx="0,-0.4,0,0,0,0" 
+class="s4_385"
+>, and </text>
+
+<text 
+x="624" 
+y="692" 
+dx="0,0" 
+class="s5_385"
+>请假</text>
+
+<text 
+x="670" 
+y="693" 
+dx="0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_385"
+>. Often, descriptions </text>
+
+<text 
+x="139" 
+y="719" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,-0.4" 
+class="s4_385"
+>or details are added between the verb and the noun, breaking the word apart. </text>
+
+<text 
+x="138" 
+y="788" 
+dx="0" 
+class="s6_385"
+>1</text>
+
+<text 
+x="153" 
+y="791" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_385"
+>我朋友很喜欢唱英文歌。</text>
+
+<text 
+x="547" 
+y="788" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0" 
+class="s4_385"
+>My friend really likes to sing English </text>
+
+<text 
+x="548" 
+y="824" 
+dx="0,0,0,0,0,-0.4" 
+class="s4_385"
+>songs.</text>
+
+<text 
+x="138" 
+y="875" 
+dx="0" 
+class="s6_385"
+>2</text>
+
+<text 
+x="155" 
+y="878" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_385"
+>她昨天晚上睡了一个好觉。</text>
+
+<text 
+x="547" 
+y="875" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0" 
+class="s4_385"
+>She had a good sleep last night. (She </text>
+
+<text 
+x="548" 
+y="905" 
+dx="0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_385"
+>slept well last night.)</text>
+
+<text 
+x="138" 
+y="951" 
+dx="0" 
+class="s6_385"
+>3</text>
+
+<text 
+x="154" 
+y="954" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_385"
+>你跳过中国舞吗？</text>
+
+<text 
+x="547" 
+y="951" 
+dx="0,-0.4,-0.4,-0.4,-0.1,-0.1,-0.4,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,0" 
+class="s4_385"
+>Have you done a Chinese-style dance </text>
+
+<text 
+x="548" 
+y="981" 
+dx="0,0,0,-0.3,0,-0.2,0" 
+class="s4_385"
+>before?</text>
+
+<text 
+x="137" 
+y="1028" 
+dx="0" 
+class="s6_385"
+>4</text>
+
+<text 
+x="154" 
+y="1031" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s7_385"
+>我们以前见过面吗？ </text>
+
+<text 
+x="547" 
+y="1028" 
+dx="0,-0.4,-0.4,-0.3,0,0,-0.3,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0" 
+class="s4_385"
+>Have we met before?</text>
+
+<text 
+x="345" 
+y="761" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s8_385"
+>chàng </text>
+
+<text 
+x="451" 
+y="761" 
+dx="0,0.2" 
+class="s8_385"
+>gē</text>
+
+<text 
+x="190" 
+y="925" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s8_385"
+>tiào </text>
+
+<text 
+x="323" 
+y="925" 
+dx="0,0.2" 
+class="s8_385"
+>wǔ</text>
+
+<text 
+x="287" 
+y="1003" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s8_385"
+>jiàn </text>
+
+<text 
+x="347" 
+y="1003" 
+dx="0,0.2,0.2,0.2" 
+class="s8_385"
+>miàn</text>
+
+<path d="M110,575.3l20.6,0l0,-20.6l-20.6,0l0,20.6Z" class="g4_385" />
+<text 
+x="115" 
+y="571" 
+dx="0" 
+class="s9_385"
+>2</text>
+
+<path d="M128.3,120.3C118.2,120.3,110,112.1,110,102l0,-20.2l23.1,0c10.2,0,18.4,8.2,18.4,18.3l0,20.2Z" class="g2_385" />
+<path d="M115.8,82.4l361.8,0" class="g5_385" />
+<path d="M129.6,119.8l348,0" class="g5_385" />
+<text 
+x="114" 
+y="108" 
+dx="0,0,0" 
+class="s10_385"
+>2c </text>
+
+<text 
+x="157" 
+y="108" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_385"
+>Puzzle It Out </text>
+
+<path d="M331.2,111.5c-6,0,-10.9,-4.8,-10.9,-10.8l0,-10.8l144.2,0c5.9,0,10.8,4.8,10.8,10.8l0,10.8Z" class="g6_385" />
+<text 
+x="336" 
+y="104" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_385"
+>Pr·Gr´SS C¹´CK</text>
+
+<text 
+x="110" 
+y="162" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.4" 
+class="s4_385"
+>Complete the exercise below to check your understanding of what you learned in Section 2. </text>
+
+<text 
+x="109" 
+y="188" 
+dx="0,0,0,0,-0.3,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,-0.3,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s4_385"
+>If you have questions, consult the Language Reference section.</text>
+
+<text 
+x="109" 
+y="221" 
+dx="0,-0.6,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.4" 
+class="s4_385"
+>Rearrange the Chinese words and phrases in each row to translate the English sentences.</text>
+
+<text 
+x="110" 
+y="260" 
+dx="0" 
+class="s13_385"
+>1</text>
+
+<text 
+x="133" 
+y="263" 
+dx="0,0" 
+class="s7_385"
+>他 </text>
+
+<text 
+x="173" 
+y="263" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="197" 
+y="263" 
+dx="0,0" 
+class="s7_385"
+>你 </text>
+
+<text 
+x="237" 
+y="263" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="261" 
+y="263" 
+dx="0,0" 
+class="s7_385"
+>跟 </text>
+
+<text 
+x="301" 
+y="263" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="325" 
+y="263" 
+dx="0,0,0" 
+class="s7_385"
+>吗？ </text>
+
+<text 
+x="397" 
+y="263" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="421" 
+y="263" 
+dx="0,0" 
+class="s7_385"
+>过 </text>
+
+<text 
+x="461" 
+y="263" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="485" 
+y="263" 
+dx="0,0" 
+class="s7_385"
+>见 </text>
+
+<text 
+x="526" 
+y="263" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="550" 
+y="263" 
+dx="0" 
+class="s7_385"
+>面</text>
+
+<text 
+x="138" 
+y="290" 
+dx="0,-0.4,-0.4,-0.3,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0" 
+class="s4_385"
+>Have you met him before?</text>
+
+<text 
+x="110" 
+y="349" 
+dx="0" 
+class="s13_385"
+>2</text>
+
+<text 
+x="135" 
+y="352" 
+dx="0,0,0,0,0" 
+class="s7_385"
+>老师经常 </text>
+
+<text 
+x="271" 
+y="352" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="295" 
+y="352" 
+dx="0,0" 
+class="s7_385"
+>教 </text>
+
+<text 
+x="336" 
+y="352" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="360" 
+y="352" 
+dx="0,0,0" 
+class="s7_385"
+>中文 </text>
+
+<text 
+x="432" 
+y="352" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="456" 
+y="352" 
+dx="0,0,0" 
+class="s7_385"
+>我们 </text>
+
+<text 
+x="528" 
+y="352" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="552" 
+y="352" 
+dx="0,0" 
+class="s7_385"
+>唱 </text>
+
+<text 
+x="592" 
+y="352" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="616" 
+y="352" 
+dx="0,0" 
+class="s7_385"
+>歌。</text>
+
+<text 
+x="138" 
+y="379" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4" 
+class="s4_385"
+>The teacher often teaches us to sing Chinese songs. </text>
+
+<text 
+x="109" 
+y="438" 
+dx="0" 
+class="s13_385"
+>3</text>
+
+<text 
+x="134" 
+y="441" 
+dx="0,0,0" 
+class="s7_385"
+>喜欢 </text>
+
+<text 
+x="206" 
+y="441" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="230" 
+y="441" 
+dx="0,0" 
+class="s7_385"
+>我 </text>
+
+<text 
+x="270" 
+y="441" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="294" 
+y="441" 
+dx="0,0,0" 
+class="s7_385"
+>中国 </text>
+
+<text 
+x="366" 
+y="441" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="390" 
+y="441" 
+dx="0,0" 
+class="s7_385"
+>跳 </text>
+
+<text 
+x="430" 
+y="441" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="454" 
+y="441" 
+dx="0,0,0" 
+class="s7_385"
+>舞。 </text>
+
+<text 
+x="527" 
+y="441" 
+dx="0" 
+class="s14_385"
+>|</text>
+
+<text 
+x="551" 
+y="441" 
+dx="0" 
+class="s7_385"
+>很</text>
+
+<text 
+x="138" 
+y="468" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.4" 
+class="s4_385"
+>I really like doing Chinese dances.</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaitiSC-Regular_dd3;
+	src: url("fonts/STKaitiSC-Regular_dd3.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_dci;
+	src: url("fonts/Alegreya-Regular_dci.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cqy;
+	src: url("fonts/ProximaNova-Semibold_cqy.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_dcj;
+	src: url("fonts/ProximaNova-Extrabld_dcj.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_dcf;
+	src: url("fonts/ProximaNova-Bold_dcf.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_dcn;
+	src: url("fonts/Alegreya-Bold_dcn.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNovaCond-Extrabld_dc-;
+	src: url("fonts/ProximaNovaCond-Extrabld_dc-.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

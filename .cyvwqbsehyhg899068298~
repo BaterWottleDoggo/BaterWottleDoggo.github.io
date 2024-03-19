@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 434 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_434{
+fill: #DC262E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_434{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_434{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_434{
+fill: #FFFFFF;
+}
+.g5_434{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_434{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_434{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dhv;
+fill: #231F20;
+}
+.s2_434{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di-;
+fill: #FFFFFF;
+}
+.s3_434{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #FFFFFF;
+}
+.s4_434{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_diz;
+fill: #909295;
+}
+.s5_434{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dib;
+fill: #3F3F40;
+}
+.s6_434{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dim;
+fill: #3F3F40;
+}
+.s7_434{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #A8A9AD;
+}
+.s8_434{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g1_434" />
+<text 
+x="876" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_434"
+>411 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 736)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_434"
+>Lesson 20 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 828)"
+dx="0,1.2" 
+class="s2_434"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 845)"
+dx="0,1.2,1.2,1.2,1.2,0.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_434"
+>The World Is Getting Smaller </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1080)"
+dx="0,1.2" 
+class="s2_434"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1097)"
+dx="0,-0.3,0.9,0.9" 
+class="s2_434"
+>Text</text>
+
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g2_434" />
+<text 
+x="876" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_434"
+>411 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 869)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,-0.3,0.9,0.9,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s3_434"
+>Appendix: Lesson Texts in English</text>
+
+<path d="M317.9,78.6l0,1062.7" class="g3_434" />
+<text 
+x="144" 
+y="81" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_434"
+>Lesson 16</text>
+
+<text 
+x="398" 
+y="75" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s5_434"
+>Zhang Tianming and his three friends have been in Beijing for two </text>
+
+<text 
+x="398" 
+y="98" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>or three months now. The weather has also gradually warmed up. </text>
+
+<text 
+x="398" 
+y="121" 
+dx="0,-0.9,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>Every day they are busy either with classes or job-hunting. They </text>
+
+<text 
+x="398" 
+y="144" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.9,0" 
+class="s5_434"
+>haven’t seen one another for half a month now. Today is Saturday, </text>
+
+<text 
+x="398" 
+y="167" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.6,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0" 
+class="s5_434"
+>and everybody wants to relax a little. Tianming suggests they go hiking. </text>
+
+<text 
+x="398" 
+y="190" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.9,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.4,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.2,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,0" 
+class="s5_434"
+>Lisha and Xuemei don’t object, and Ke Lin feels that it is a pretty good </text>
+
+<text 
+x="398" 
+y="213" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.6,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.5,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.5,-0.1,-0.1,-0.3,-0.1,-0.1,-0.2,-0.6,-0.1,-0.1,-0.3,-0.1,-0.6" 
+class="s5_434"
+>idea, too. He says that his German friend Make would like to go, too.</text>
+
+<text 
+x="398" 
+y="233" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0" 
+class="s5_434"
+>But how should they get there? Taking a cab would be too expensive, </text>
+
+<text 
+x="398" 
+y="253" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_434"
+>and boring, too. Public transportation has too many people, and is too </text>
+
+<text 
+x="398" 
+y="272" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,-0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_434"
+>crowded. Ke Lin comes up with an idea—biking! Everyone agrees at </text>
+
+<text 
+x="398" 
+y="292" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,-0.2,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>once. They all feel that biking is not only good exercise but also </text>
+
+<text 
+x="398" 
+y="312" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0" 
+class="s6_434"
+>saves money. On top of that, it is beneﬁcial to protecting </text>
+
+<text 
+x="398" 
+y="332" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_434"
+>the environment.</text>
+
+<text 
+x="398" 
+y="352" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0" 
+class="s5_434"
+>They set out very early in the morning. After riding a long way, they </text>
+
+<text 
+x="398" 
+y="372" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0" 
+class="s5_434"
+>feel a little hot and a little tired, too. So they get off their bikes and </text>
+
+<text 
+x="398" 
+y="392" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>push them along as they start chatting.</text>
+
+<text 
+x="398" 
+y="427" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_434"
+>Zhang Tianming:</text>
+
+<text 
+x="549" 
+y="427" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>The air here is better than in the city, and the </text>
+
+<text 
+x="549" 
+y="447" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.2,0" 
+class="s5_434"
+>smog isn’t as severe!</text>
+
+<text 
+x="398" 
+y="466" 
+dx="0,0,0,0,0,0,0" 
+class="s7_434"
+>Lisha: </text>
+
+<text 
+x="549" 
+y="466" 
+dx="0,0,0.4,-1,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>It’s green everywhere—so nice to look at!</text>
+
+<text 
+x="398" 
+y="486" 
+dx="0,-0.7,0,0,0,0,0,0" 
+class="s7_434"
+>Ke Lin: </text>
+
+<text 
+x="549" 
+y="486" 
+dx="0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_434"
+>Oh my, I’m parched . . . Look, I’ve ﬁnished this </text>
+
+<text 
+x="549" 
+y="506" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>entire bottle of water! Are there any recycling </text>
+
+<text 
+x="549" 
+y="526" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.9,0,-0.4,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,-1.2" 
+class="s5_434"
+>bins here? We’re not supposed to litter.</text>
+
+<text 
+x="398" 
+y="546" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_434"
+>Lin Xuemei:</text>
+
+<text 
+x="549" 
+y="546" 
+dx="0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0" 
+class="s5_434"
+>Right. We should do our part to protect the </text>
+
+<text 
+x="549" 
+y="566" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>environment. Look, there’s a recycling bin </text>
+
+<text 
+x="549" 
+y="586" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_434"
+>under the tree.</text>
+
+<text 
+x="398" 
+y="605" 
+dx="0,0,0,0,0,0" 
+class="s7_434"
+>Lisha:</text>
+
+<text 
+x="549" 
+y="605" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>I haven’t bought any bottled water in a long </text>
+
+<text 
+x="549" 
+y="625" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s5_434"
+>time. Some of my classmates suggested that </text>
+
+<text 
+x="549" 
+y="645" 
+dx="0,-0.2,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>to protect the earth we should bring [our own] </text>
+
+<text 
+x="549" 
+y="665" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.2" 
+class="s5_434"
+>water instead of buying bottled water.</text>
+
+<text 
+x="398" 
+y="685" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_434"
+>Lin Xuemei:</text>
+
+<text 
+x="549" 
+y="685" 
+dx="0,0,0,0,0.4,-1,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>That’s a good suggestion. Oh look, those </text>
+
+<text 
+x="549" 
+y="705" 
+dx="0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_434"
+>houses over there have shiny things on top </text>
+
+<text 
+x="549" 
+y="725" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s5_434"
+>of them. What are those?</text>
+
+<text 
+x="398" 
+y="744" 
+dx="0,-0.7,0,0,0,0,0" 
+class="s7_434"
+>Ke Lin:</text>
+
+<text 
+x="549" 
+y="744" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>Those are solar panels, I think. I’ve seen them </text>
+
+<text 
+x="549" 
+y="764" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.4" 
+class="s5_434"
+>in the U.S., too.</text>
+
+<text 
+x="398" 
+y="784" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_434"
+>Lin Xuemei:</text>
+
+<text 
+x="549" 
+y="784" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>Using solar power to generate electricity—</text>
+
+<text 
+x="549" 
+y="804" 
+dx="0,0,0,0,0.4,-1,0,0,0,-0.2,0,0,0" 
+class="s5_434"
+>that’s great!</text>
+
+<text 
+x="398" 
+y="824" 
+dx="0,0,0,-0.5,0" 
+class="s7_434"
+>Make:</text>
+
+<text 
+x="549" 
+y="824" 
+dx="0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,-0.2,0" 
+class="s5_434"
+>If bikes could also use solar energy to generate </text>
+
+<text 
+x="549" 
+y="844" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>electricity, how cool would that be!</text>
+
+<text 
+x="398" 
+y="864" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_434"
+>Lin Xuemei:</text>
+
+<text 
+x="549" 
+y="864" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>Today many countries in the world are having </text>
+
+<text 
+x="549" 
+y="883" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>an energy crisis. If the whole world could use </text>
+
+<text 
+x="549" 
+y="903" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>solar and wind energy, think of how much that </text>
+
+<text 
+x="549" 
+y="923" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>would save on petroleum and coal! And how . . .</text>
+
+<text 
+x="398" 
+y="943" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,-0.3,0,0,0" 
+class="s7_434"
+>The other four:</text>
+
+<text 
+x="549" 
+y="943" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>It would protect the environment! Haha . . .</text>
+
+<text 
+x="398" 
+y="963" 
+dx="0,0,0,0,0,0" 
+class="s7_434"
+>Lisha:</text>
+
+<text 
+x="549" 
+y="963" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_434"
+>I hear that the Chinese government stipulates </text>
+
+<text 
+x="549" 
+y="983" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_434"
+>that ofﬁces and other public spaces shouldn’t </text>
+
+<text 
+x="549" 
+y="1002" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>set the heaters above 20 degrees Celsius in </text>
+
+<text 
+x="549" 
+y="1022" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>winter or set the air conditioning below 26 </text>
+
+<text 
+x="549" 
+y="1042" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2" 
+class="s5_434"
+>degrees Celsius in summer.</text>
+
+<text 
+x="398" 
+y="1062" 
+dx="0,-0.7,0,0,0,0,0" 
+class="s7_434"
+>Ke Lin:</text>
+
+<text 
+x="549" 
+y="1062" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>I raise both hands to support this stipulation. </text>
+
+<text 
+x="549" 
+y="1082" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.2,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>Do you remember? In the U.S. in winter, in the </text>
+
+<text 
+x="549" 
+y="1102" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>classroom you’d be sweating wearing a shirt </text>
+
+<text 
+x="549" 
+y="1122" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_434"
+>and in summer you’d still feel very cold wearing </text>
+
+<text 
+x="549" 
+y="1141" 
+dx="0,0,0,0,0,0,0,-0.2,0,-1.2" 
+class="s5_434"
+>a sweater.</text>
+
+<path d="M281.6,60.7c0,0,-15.3,0,-15.3,15.3l0,3.1c0,0,0,15.2,15.3,15.2l68.1,0c0,0,15.3,0,15.3,-15.2L365,76c0,0,0,-15.3,-15.3,-15.3Z" class="g4_434" />
+<text 
+x="301" 
+y="84" 
+dx="0,-1.8,-0.6,-0.7" 
+class="s8_434"
+>Text</text>
+
+<path d="M281.6,60c-0.2,0,-16.1,0.1,-16.1,16l0,3.1c0,0.1,0.2,16,16.1,16l68.1,0c0.2,0,16.1,-0.2,16.1,-16l0,-3.1c0,-0.2,-0.2,-16,-16.1,-16l-68.1,0Z" class="g5_434" />
+<path d="M281.6,62c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.5,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.6,-0.2,-14,-14,-14l-68.1,0Z" class="g6_434" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di3;
+	src: url("fonts/LibreFranklin-SemiBold_di3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dim;
+	src: url("fonts/LibreFranklin-Light_dim.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dib;
+	src: url("fonts/LibreFranklin-Light_dib.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dhv;
+	src: url("fonts/LibreFranklin-Medium_dhv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di-;
+	src: url("fonts/LibreFranklin-SemiBold_di-.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_diz;
+	src: url("fonts/LibreFranklin-ExtraBold_diz.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

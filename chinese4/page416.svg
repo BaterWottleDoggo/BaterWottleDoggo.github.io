@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 439 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_439{
+fill: #F0F1F2;
+}
+.g2_439{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_439{
+fill: none;
+stroke: #DADBDD;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_439{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_439{
+fill: #57585A;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_439{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_45y;
+fill: #57585A;
+}
+.s2_439{
+font-size: 13.75px;
+font-family: LibreFranklin-Light_45u;
+fill: #3F3F40;
+}
+.s3_439{
+font-size: 24.44px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #57585A;
+}
+.s4_439{
+font-size: 24.44px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #57585A;
+}
+.s5_439{
+font-size: 14.90px;
+font-family: GentiumBookBasic-Italic_3o-;
+fill: #3F3F40;
+}
+.s6_439{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_45s;
+fill: #3F3F40;
+}
+.s7_439{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_45y;
+fill: #77787B;
+}
+.s8_439{
+font-size: 10.69px;
+font-family: LibreFranklin-SemiBold_45y;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M55,95l178.8,0l0,42.7L55,137.7L55,95Zm178.8,0l196.9,0l0,42.7l-196.9,0l0,-42.7Zm196.9,0l196.9,0l0,42.7l-196.9,0l0,-42.7Zm196.9,0l104.5,0l0,42.7l-104.5,0l0,-42.7Zm104.5,0l70.4,0l0,42.7l-70.4,0l0,-42.7Zm70.4,0l63.8,0l0,42.7l-63.8,0l0,-42.7ZM55,179.9l178.8,0l0,42.2L55,222.1l0,-42.2Zm178.8,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l104.5,0l0,42.2l-104.5,0l0,-42.2Zm104.5,0l70.4,0l0,42.2l-70.4,0l0,-42.2Zm70.4,0l63.8,0l0,42.2l-63.8,0l0,-42.2ZM55,264.2l178.8,0l0,42.2L55,306.4l0,-42.2Zm178.8,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l104.5,0l0,42.2l-104.5,0l0,-42.2Zm104.5,0l70.4,0l0,42.2l-70.4,0l0,-42.2Zm70.4,0l63.8,0l0,42.2l-63.8,0l0,-42.2ZM55,348.5l178.8,0l0,42.2L55,390.7l0,-42.2Zm178.8,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l104.5,0l0,42.2l-104.5,0l0,-42.2Zm104.5,0l70.4,0l0,42.2l-70.4,0l0,-42.2Zm70.4,0l63.8,0l0,42.2l-63.8,0l0,-42.2ZM55,432.9l178.8,0l0,42.1L55,475l0,-42.1Zm178.8,0l196.9,0l0,42.1l-196.9,0l0,-42.1Zm196.9,0l196.9,0l0,42.1l-196.9,0l0,-42.1Zm196.9,0l104.5,0l0,42.1l-104.5,0l0,-42.1Zm104.5,0l70.4,0l0,42.1l-70.4,0l0,-42.1Zm70.4,0l63.8,0l0,42.1l-63.8,0l0,-42.1ZM55,517.2l178.8,0l0,42.2L55,559.4l0,-42.2Zm178.8,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l104.5,0l0,42.2l-104.5,0l0,-42.2Zm104.5,0l70.4,0l0,42.2l-70.4,0l0,-42.2Zm70.4,0l63.8,0l0,42.2l-63.8,0l0,-42.2ZM55,601.5l178.8,0l0,42.2L55,643.7l0,-42.2Zm178.8,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l104.5,0l0,42.2l-104.5,0l0,-42.2Zm104.5,0l70.4,0l0,42.2l-70.4,0l0,-42.2Zm70.4,0l63.8,0l0,42.2l-63.8,0l0,-42.2ZM55,685.8l178.8,0l0,42.2L55,728l0,-42.2Zm178.8,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l104.5,0l0,42.2l-104.5,0l0,-42.2Zm104.5,0l70.4,0l0,42.2l-70.4,0l0,-42.2Zm70.4,0l63.8,0l0,42.2l-63.8,0l0,-42.2ZM55,770.2l178.8,0l0,42.1L55,812.3l0,-42.1Zm178.8,0l196.9,0l0,42.1l-196.9,0l0,-42.1Zm196.9,0l196.9,0l0,42.1l-196.9,0l0,-42.1Zm196.9,0l104.5,0l0,42.1l-104.5,0l0,-42.1Zm104.5,0l70.4,0l0,42.1l-70.4,0l0,-42.1Zm70.4,0l63.8,0l0,42.1l-63.8,0l0,-42.1ZM55,854.5l178.8,0l0,45.4L55,899.9l0,-45.4Zm178.8,0l196.9,0l0,45.4l-196.9,0l0,-45.4Zm196.9,0l196.9,0l0,45.4l-196.9,0l0,-45.4Zm196.9,0l104.5,0l0,45.4l-104.5,0l0,-45.4Zm104.5,0l70.4,0l0,45.4l-70.4,0l0,-45.4Zm70.4,0l63.8,0l0,45.4l-63.8,0l0,-45.4ZM55,942l178.8,0l0,42.2L55,984.2L55,942Zm178.8,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l104.5,0l0,42.2l-104.5,0l0,-42.2Zm104.5,0l70.4,0l0,42.2l-70.4,0l0,-42.2Zm70.4,0l63.8,0l0,42.2l-63.8,0l0,-42.2ZM55,1026.4l178.8,0l0,42.1l-178.8,0l0,-42.1Zm178.8,0l196.9,0l0,42.1l-196.9,0l0,-42.1Zm196.9,0l196.9,0l0,42.1l-196.9,0l0,-42.1Zm196.9,0l104.5,0l0,42.1l-104.5,0l0,-42.1Zm104.5,0l70.4,0l0,42.1l-70.4,0l0,-42.1Zm70.4,0l63.8,0l0,42.1l-63.8,0l0,-42.1Z" class="g1_439" />
+<path d="M55,137.7l178.8,0" class="g2_439" />
+<path d="M233.8,137.7l196.9,0" class="g2_439" />
+<path d="M430.7,137.7l196.9,0" class="g2_439" />
+<path d="M627.6,137.7l104.5,0" class="g2_439" />
+<path d="M732.1,137.7l70.4,0" class="g2_439" />
+<path d="M802.5,137.7l63.8,0" class="g2_439" />
+<path d="M55,179.9l178.8,0" class="g2_439" />
+<path d="M233.8,179.9l196.9,0" class="g2_439" />
+<path d="M430.7,179.9l196.9,0" class="g2_439" />
+<path d="M627.6,179.9l104.5,0" class="g2_439" />
+<path d="M732.1,179.9l70.4,0" class="g2_439" />
+<path d="M802.5,179.9l63.8,0" class="g2_439" />
+<path d="M55,222.1l178.8,0" class="g2_439" />
+<path d="M233.8,222.1l196.9,0" class="g2_439" />
+<path d="M430.7,222.1l196.9,0" class="g2_439" />
+<path d="M627.6,222.1l104.5,0" class="g2_439" />
+<path d="M732.1,222.1l70.4,0" class="g2_439" />
+<path d="M802.5,222.1l63.8,0" class="g2_439" />
+<path d="M55,264.2l178.8,0" class="g2_439" />
+<path d="M233.8,264.2l196.9,0" class="g2_439" />
+<path d="M430.7,264.2l196.9,0" class="g2_439" />
+<path d="M627.6,264.2l104.5,0" class="g2_439" />
+<path d="M732.1,264.2l70.4,0" class="g2_439" />
+<path d="M802.5,264.2l63.8,0" class="g2_439" />
+<path d="M55,306.4l178.8,0" class="g2_439" />
+<path d="M233.8,306.4l196.9,0" class="g2_439" />
+<path d="M430.7,306.4l196.9,0" class="g2_439" />
+<path d="M627.6,306.4l104.5,0" class="g2_439" />
+<path d="M732.1,306.4l70.4,0" class="g2_439" />
+<path d="M802.5,306.4l63.8,0" class="g2_439" />
+<path d="M55,348.5l178.8,0" class="g2_439" />
+<path d="M233.8,348.5l196.9,0" class="g2_439" />
+<path d="M430.7,348.5l196.9,0" class="g2_439" />
+<path d="M627.6,348.5l104.5,0" class="g2_439" />
+<path d="M732.1,348.5l70.4,0" class="g2_439" />
+<path d="M802.5,348.5l63.8,0" class="g2_439" />
+<path d="M55,390.7l178.8,0" class="g2_439" />
+<path d="M233.8,390.7l196.9,0" class="g2_439" />
+<path d="M430.7,390.7l196.9,0" class="g2_439" />
+<path d="M627.6,390.7l104.5,0" class="g2_439" />
+<path d="M732.1,390.7l70.4,0" class="g2_439" />
+<path d="M802.5,390.7l63.8,0" class="g2_439" />
+<path d="M55,432.9l178.8,0" class="g2_439" />
+<path d="M233.8,432.9l196.9,0" class="g2_439" />
+<path d="M430.7,432.9l196.9,0" class="g2_439" />
+<path d="M627.6,432.9l104.5,0" class="g2_439" />
+<path d="M732.1,432.9l70.4,0" class="g2_439" />
+<path d="M802.5,432.9l63.8,0" class="g2_439" />
+<path d="M55,475l178.8,0" class="g2_439" />
+<path d="M233.8,475l196.9,0" class="g2_439" />
+<path d="M430.7,475l196.9,0" class="g2_439" />
+<path d="M627.6,475l104.5,0" class="g2_439" />
+<path d="M732.1,475l70.4,0" class="g2_439" />
+<path d="M802.5,475l63.8,0" class="g2_439" />
+<path d="M55,517.2l178.8,0" class="g2_439" />
+<path d="M233.8,517.2l196.9,0" class="g2_439" />
+<path d="M430.7,517.2l196.9,0" class="g2_439" />
+<path d="M627.6,517.2l104.5,0" class="g2_439" />
+<path d="M732.1,517.2l70.4,0" class="g2_439" />
+<path d="M802.5,517.2l63.8,0" class="g2_439" />
+<path d="M55,559.4l178.8,0" class="g2_439" />
+<path d="M233.8,559.4l196.9,0" class="g2_439" />
+<path d="M430.7,559.4l196.9,0" class="g2_439" />
+<path d="M627.6,559.4l104.5,0" class="g2_439" />
+<path d="M732.1,559.4l70.4,0" class="g2_439" />
+<path d="M802.5,559.4l63.8,0" class="g2_439" />
+<path d="M55,601.5l178.8,0" class="g2_439" />
+<path d="M233.8,601.5l196.9,0" class="g2_439" />
+<path d="M430.7,601.5l196.9,0" class="g2_439" />
+<path d="M627.6,601.5l104.5,0" class="g2_439" />
+<path d="M732.1,601.5l70.4,0" class="g2_439" />
+<path d="M802.5,601.5l63.8,0" class="g2_439" />
+<path d="M55,643.7l178.8,0" class="g2_439" />
+<path d="M233.8,643.7l196.9,0" class="g2_439" />
+<path d="M430.7,643.7l196.9,0" class="g2_439" />
+<path d="M627.6,643.7l104.5,0" class="g2_439" />
+<path d="M732.1,643.7l70.4,0" class="g2_439" />
+<path d="M802.5,643.7l63.8,0" class="g2_439" />
+<path d="M55,685.8l178.8,0" class="g2_439" />
+<path d="M233.8,685.8l196.9,0" class="g2_439" />
+<path d="M430.7,685.8l196.9,0" class="g2_439" />
+<path d="M627.6,685.8l104.5,0" class="g2_439" />
+<path d="M732.1,685.8l70.4,0" class="g2_439" />
+<path d="M802.5,685.8l63.8,0" class="g2_439" />
+<path d="M55,728l178.8,0" class="g2_439" />
+<path d="M233.8,728l196.9,0" class="g2_439" />
+<path d="M430.7,728l196.9,0" class="g2_439" />
+<path d="M627.6,728l104.5,0" class="g2_439" />
+<path d="M732.1,728l70.4,0" class="g2_439" />
+<path d="M802.5,728l63.8,0" class="g2_439" />
+<path d="M55,770.2l178.8,0" class="g2_439" />
+<path d="M233.8,770.2l196.9,0" class="g2_439" />
+<path d="M430.7,770.2l196.9,0" class="g2_439" />
+<path d="M627.6,770.2l104.5,0" class="g2_439" />
+<path d="M732.1,770.2l70.4,0" class="g2_439" />
+<path d="M802.5,770.2l63.8,0" class="g2_439" />
+<path d="M55,812.3l178.8,0" class="g2_439" />
+<path d="M233.8,812.3l196.9,0" class="g2_439" />
+<path d="M430.7,812.3l196.9,0" class="g2_439" />
+<path d="M627.6,812.3l104.5,0" class="g2_439" />
+<path d="M732.1,812.3l70.4,0" class="g2_439" />
+<path d="M802.5,812.3l63.8,0" class="g2_439" />
+<path d="M55,854.5l178.8,0" class="g2_439" />
+<path d="M233.8,854.5l196.9,0" class="g2_439" />
+<path d="M430.7,854.5l196.9,0" class="g2_439" />
+<path d="M627.6,854.5l104.5,0" class="g2_439" />
+<path d="M732.1,854.5l70.4,0" class="g2_439" />
+<path d="M802.5,854.5l63.8,0" class="g2_439" />
+<path d="M55,899.9l178.8,0" class="g2_439" />
+<path d="M233.8,899.9l196.9,0" class="g2_439" />
+<path d="M430.7,899.9l196.9,0" class="g2_439" />
+<path d="M627.6,899.9l104.5,0" class="g2_439" />
+<path d="M732.1,899.9l70.4,0" class="g2_439" />
+<path d="M802.5,899.9l63.8,0" class="g2_439" />
+<path d="M55,942l178.8,0" class="g2_439" />
+<path d="M233.8,942l196.9,0" class="g2_439" />
+<path d="M430.7,942l196.9,0" class="g2_439" />
+<path d="M627.6,942l104.5,0" class="g2_439" />
+<path d="M732.1,942l70.4,0" class="g2_439" />
+<path d="M802.5,942l63.8,0" class="g2_439" />
+<path d="M55,984.2l178.8,0" class="g2_439" />
+<path d="M233.8,984.2l196.9,0" class="g2_439" />
+<path d="M430.7,984.2l196.9,0" class="g2_439" />
+<path d="M627.6,984.2l104.5,0" class="g2_439" />
+<path d="M732.1,984.2l70.4,0" class="g2_439" />
+<path d="M802.5,984.2l63.8,0" class="g2_439" />
+<path d="M55,1026.4l178.8,0" class="g2_439" />
+<path d="M233.8,1026.4l196.9,0" class="g2_439" />
+<path d="M430.7,1026.4l196.9,0" class="g2_439" />
+<path d="M627.6,1026.4l104.5,0" class="g2_439" />
+<path d="M732.1,1026.4l70.4,0" class="g2_439" />
+<path d="M802.5,1026.4l63.8,0" class="g2_439" />
+<path d="M55,1068.5l178.8,0" class="g2_439" />
+<path d="M233.8,1068.5l196.9,0" class="g2_439" />
+<path d="M430.7,1068.5l196.9,0" class="g2_439" />
+<path d="M627.6,1068.5l104.5,0" class="g2_439" />
+<path d="M732.1,1068.5l70.4,0" class="g2_439" />
+<path d="M802.5,1068.5l63.8,0" class="g2_439" />
+<path d="M55,95l178.8,0" class="g3_439" />
+<path d="M233.8,95l196.9,0" class="g3_439" />
+<path d="M430.7,95l196.9,0" class="g3_439" />
+<path d="M627.6,95l104.5,0" class="g3_439" />
+<path d="M732.1,95l70.4,0" class="g3_439" />
+<path d="M802.5,95l63.8,0" class="g3_439" />
+<path d="M55,1111.3l178.8,0" class="g4_439" />
+<path d="M233.8,1111.3l196.9,0" class="g4_439" />
+<path d="M430.7,1111.3l196.9,0" class="g4_439" />
+<path d="M627.6,1111.3l104.5,0" class="g4_439" />
+<path d="M732.1,1111.3l70.4,0" class="g4_439" />
+<path d="M802.5,1111.3l63.8,0" class="g4_439" />
+<text 
+x="61" 
+y="82" 
+dx="0,0,0,0,0,0,0" 
+class="s1_439"
+>English</text>
+
+<text 
+x="239" 
+y="82" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_439"
+>Simplified</text>
+
+<text 
+x="436" 
+y="82" 
+dx="0,-1.2,-0.1,0,0,0,0,0,0,0,0" 
+class="s1_439"
+>Traditional</text>
+
+<text 
+x="633" 
+y="82" 
+dx="0,0,0,0,0,0" 
+class="s1_439"
+>Pinyin</text>
+
+<text 
+x="738" 
+y="75" 
+dx="0,0,0,0,0,0,-0.2,0" 
+class="s1_439"
+>Part of </text>
+
+<text 
+x="738" 
+y="88" 
+dx="0,0,0,0,0,0" 
+class="s1_439"
+>Speech</text>
+
+<text 
+x="808" 
+y="81" 
+dx="0,0,0,0,0,0" 
+class="s1_439"
+>Lesson</text>
+
+<text 
+x="61" 
+y="123" 
+dx="0,0,0,0,0" 
+class="s2_439"
+>sleep</text>
+
+<text 
+x="239" 
+y="125" 
+dx="0,0" 
+class="s3_439"
+>睡觉</text>
+
+<text 
+x="436" 
+y="125" 
+dx="0,0" 
+class="s4_439"
+>睡覺</text>
+
+<text 
+x="633" 
+y="123" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>shuì jiào</text>
+
+<text 
+x="738" 
+y="123" 
+dx="0,-0.4" 
+class="s6_439"
+>vo</text>
+
+<text 
+x="808" 
+y="123" 
+dx="0" 
+class="s7_439"
+>4</text>
+
+<text 
+x="61" 
+y="165" 
+dx="0,0,0,0" 
+class="s2_439"
+>slow</text>
+
+<text 
+x="239" 
+y="167" 
+dx="0" 
+class="s3_439"
+>慢</text>
+
+<text 
+x="436" 
+y="167" 
+dx="0" 
+class="s4_439"
+>慢</text>
+
+<text 
+x="633" 
+y="165" 
+dx="0,0.2,0.2" 
+class="s5_439"
+>màn</text>
+
+<text 
+x="738" 
+y="165" 
+dx="0,0,0" 
+class="s6_439"
+>adj</text>
+
+<text 
+x="808" 
+y="165" 
+dx="0" 
+class="s7_439"
+>7</text>
+
+<text 
+x="61" 
+y="207" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_439"
+>small, little</text>
+
+<text 
+x="239" 
+y="209" 
+dx="0" 
+class="s3_439"
+>小</text>
+
+<text 
+x="436" 
+y="209" 
+dx="0" 
+class="s4_439"
+>小</text>
+
+<text 
+x="633" 
+y="207" 
+dx="0,0.2,0.2,0.2" 
+class="s5_439"
+>xiǎo</text>
+
+<text 
+x="738" 
+y="207" 
+dx="0,0,0" 
+class="s6_439"
+>adj</text>
+
+<text 
+x="808" 
+y="207" 
+dx="0" 
+class="s7_439"
+>4</text>
+
+<text 
+x="61" 
+y="249" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s2_439"
+>smart, bright, clever</text>
+
+<text 
+x="239" 
+y="251" 
+dx="0,0" 
+class="s3_439"
+>聪明</text>
+
+<text 
+x="436" 
+y="251" 
+dx="0,0" 
+class="s4_439"
+>聰明</text>
+
+<text 
+x="633" 
+y="249" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>cōngming</text>
+
+<text 
+x="738" 
+y="250" 
+dx="0,0,0" 
+class="s6_439"
+>adj</text>
+
+<text 
+x="808" 
+y="250" 
+dx="0,0" 
+class="s7_439"
+>14</text>
+
+<text 
+x="61" 
+y="291" 
+dx="0,0,0,0" 
+class="s2_439"
+>snow</text>
+
+<text 
+x="239" 
+y="294" 
+dx="0,0" 
+class="s3_439"
+>下雪</text>
+
+<text 
+x="436" 
+y="294" 
+dx="0,0" 
+class="s4_439"
+>下雪</text>
+
+<text 
+x="633" 
+y="291" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>xià xuě</text>
+
+<text 
+x="738" 
+y="292" 
+dx="0,-0.4" 
+class="s6_439"
+>vo</text>
+
+<text 
+x="808" 
+y="292" 
+dx="0,0" 
+class="s7_439"
+>11</text>
+
+<text 
+x="61" 
+y="334" 
+dx="0,0" 
+class="s2_439"
+>so</text>
+
+<text 
+x="239" 
+y="336" 
+dx="0,0" 
+class="s3_439"
+>所以</text>
+
+<text 
+x="436" 
+y="336" 
+dx="0,0" 
+class="s4_439"
+>所以</text>
+
+<text 
+x="633" 
+y="333" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>suǒyǐ</text>
+
+<text 
+x="738" 
+y="334" 
+dx="0,0,0,0" 
+class="s6_439"
+>conj</text>
+
+<text 
+x="808" 
+y="334" 
+dx="0" 
+class="s7_439"
+>4</text>
+
+<text 
+x="61" 
+y="376" 
+dx="0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0" 
+class="s2_439"
+>so, this (late, etc.)</text>
+
+<text 
+x="239" 
+y="378" 
+dx="0,0" 
+class="s3_439"
+>这么</text>
+
+<text 
+x="436" 
+y="378" 
+dx="0,0" 
+class="s4_439"
+>這麼</text>
+
+<text 
+x="633" 
+y="376" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>zhème</text>
+
+<text 
+x="738" 
+y="376" 
+dx="0,0" 
+class="s6_439"
+>pr</text>
+
+<text 
+x="808" 
+y="376" 
+dx="0" 
+class="s7_439"
+>7</text>
+
+<text 
+x="61" 
+y="418" 
+dx="0,0,0,0,0,0,-1.1,0,0,-0.3,0,0,0,0,0,0" 
+class="s2_439"
+>soccer, football</text>
+
+<text 
+x="239" 
+y="420" 
+dx="0,0" 
+class="s3_439"
+>足球</text>
+
+<text 
+x="436" 
+y="420" 
+dx="0,0" 
+class="s4_439"
+>足球</text>
+
+<text 
+x="633" 
+y="418" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>zúqiú</text>
+
+<text 
+x="738" 
+y="418" 
+dx="0" 
+class="s6_439"
+>n</text>
+
+<text 
+x="808" 
+y="418" 
+dx="0,0" 
+class="s7_439"
+>18</text>
+
+<text 
+x="61" 
+y="460" 
+dx="0,0,-0.2,0" 
+class="s2_439"
+>sofa</text>
+
+<text 
+x="239" 
+y="462" 
+dx="0,0" 
+class="s3_439"
+>沙发</text>
+
+<text 
+x="436" 
+y="462" 
+dx="0,0" 
+class="s4_439"
+>沙發</text>
+
+<text 
+x="633" 
+y="460" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>shāfā</text>
+
+<text 
+x="738" 
+y="460" 
+dx="0" 
+class="s6_439"
+>n</text>
+
+<text 
+x="808" 
+y="460" 
+dx="0,0" 
+class="s7_439"
+>17</text>
+
+<text 
+x="61" 
+y="502" 
+dx="0,0,0,0" 
+class="s2_439"
+>some</text>
+
+<text 
+x="239" 
+y="504" 
+dx="0,0" 
+class="s3_439"
+>有的</text>
+
+<text 
+x="436" 
+y="504" 
+dx="0,0" 
+class="s4_439"
+>有的</text>
+
+<text 
+x="633" 
+y="502" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>yǒude</text>
+
+<text 
+x="738" 
+y="503" 
+dx="0,0" 
+class="s6_439"
+>pr</text>
+
+<text 
+x="808" 
+y="503" 
+dx="0" 
+class="s7_439"
+>4</text>
+
+<text 
+x="61" 
+y="544" 
+dx="0,0,0" 
+class="s2_439"
+>son</text>
+
+<text 
+x="239" 
+y="547" 
+dx="0,0" 
+class="s3_439"
+>儿子</text>
+
+<text 
+x="436" 
+y="547" 
+dx="0,0" 
+class="s4_439"
+>兒子</text>
+
+<text 
+x="633" 
+y="544" 
+dx="0,0.2,0.2,0.2" 
+class="s5_439"
+>érzi</text>
+
+<text 
+x="738" 
+y="545" 
+dx="0" 
+class="s6_439"
+>n</text>
+
+<text 
+x="808" 
+y="545" 
+dx="0" 
+class="s7_439"
+>2</text>
+
+<text 
+x="61" 
+y="587" 
+dx="0,0,0,0,0" 
+class="s2_439"
+>sorry</text>
+
+<text 
+x="239" 
+y="589" 
+dx="0,0,0" 
+class="s3_439"
+>对不起</text>
+
+<text 
+x="436" 
+y="589" 
+dx="0,0,0" 
+class="s4_439"
+>對不起</text>
+
+<text 
+x="633" 
+y="586" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>duìbuqǐ</text>
+
+<text 
+x="738" 
+y="587" 
+dx="0" 
+class="s6_439"
+>v</text>
+
+<text 
+x="808" 
+y="587" 
+dx="0" 
+class="s7_439"
+>5</text>
+
+<text 
+x="61" 
+y="629" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,-0.2" 
+class="s2_439"
+>sound recording; record</text>
+
+<text 
+x="239" 
+y="631" 
+dx="0,0" 
+class="s3_439"
+>录音</text>
+
+<text 
+x="436" 
+y="631" 
+dx="0,0" 
+class="s4_439"
+>錄音</text>
+
+<text 
+x="633" 
+y="629" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>lùyīn</text>
+
+<text 
+x="738" 
+y="629" 
+dx="0,0,0,-0.4" 
+class="s6_439"
+>n/vo</text>
+
+<text 
+x="808" 
+y="629" 
+dx="0" 
+class="s7_439"
+>7</text>
+
+<text 
+x="61" 
+y="671" 
+dx="0,0,0,0" 
+class="s2_439"
+>sour</text>
+
+<text 
+x="239" 
+y="673" 
+dx="0" 
+class="s3_439"
+>酸</text>
+
+<text 
+x="436" 
+y="673" 
+dx="0" 
+class="s4_439"
+>酸</text>
+
+<text 
+x="633" 
+y="671" 
+dx="0,0.2,0.2,0.2" 
+class="s5_439"
+>suān</text>
+
+<text 
+x="738" 
+y="671" 
+dx="0,0,0" 
+class="s6_439"
+>adj</text>
+
+<text 
+x="808" 
+y="671" 
+dx="0,0" 
+class="s7_439"
+>12</text>
+
+<text 
+x="61" 
+y="713" 
+dx="0,0,0,0,0" 
+class="s2_439"
+>south</text>
+
+<text 
+x="239" 
+y="715" 
+dx="0" 
+class="s3_439"
+>南</text>
+
+<text 
+x="436" 
+y="715" 
+dx="0" 
+class="s4_439"
+>南</text>
+
+<text 
+x="633" 
+y="713" 
+dx="0,0.2,0.2" 
+class="s5_439"
+>nán</text>
+
+<text 
+x="738" 
+y="713" 
+dx="0" 
+class="s6_439"
+>n</text>
+
+<text 
+x="808" 
+y="713" 
+dx="0,0" 
+class="s7_439"
+>13</text>
+
+<text 
+x="61" 
+y="755" 
+dx="0,0,0,0,0" 
+class="s2_439"
+>spend</text>
+
+<text 
+x="239" 
+y="757" 
+dx="0" 
+class="s3_439"
+>花</text>
+
+<text 
+x="436" 
+y="757" 
+dx="0" 
+class="s4_439"
+>花</text>
+
+<text 
+x="633" 
+y="755" 
+dx="0,0.2,0.2" 
+class="s5_439"
+>huā</text>
+
+<text 
+x="738" 
+y="756" 
+dx="0" 
+class="s6_439"
+>v</text>
+
+<text 
+x="808" 
+y="756" 
+dx="0,0" 
+class="s7_439"
+>10</text>
+
+<text 
+x="61" 
+y="797" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0" 
+class="s2_439"
+>spend, take (effort)</text>
+
+<text 
+x="239" 
+y="800" 
+dx="0" 
+class="s3_439"
+>费</text>
+
+<text 
+x="436" 
+y="800" 
+dx="0" 
+class="s4_439"
+>費</text>
+
+<text 
+x="633" 
+y="797" 
+dx="0,0.2,0.2" 
+class="s5_439"
+>fèi</text>
+
+<text 
+x="738" 
+y="798" 
+dx="0" 
+class="s6_439"
+>v</text>
+
+<text 
+x="808" 
+y="798" 
+dx="0,0" 
+class="s7_439"
+>16</text>
+
+<text 
+x="61" 
+y="840" 
+dx="0,0,0,0,0,0" 
+class="s2_439"
+>sports</text>
+
+<text 
+x="239" 
+y="842" 
+dx="0,0" 
+class="s3_439"
+>运动</text>
+
+<text 
+x="436" 
+y="842" 
+dx="0,0" 
+class="s4_439"
+>運動</text>
+
+<text 
+x="633" 
+y="839" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>yùndòng</text>
+
+<text 
+x="738" 
+y="840" 
+dx="0" 
+class="s6_439"
+>n</text>
+
+<text 
+x="808" 
+y="840" 
+dx="0,0" 
+class="s7_439"
+>13</text>
+
+<text 
+x="61" 
+y="873" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0,0,0" 
+class="s2_439"
+>sportswear, athletic </text>
+
+<text 
+x="61" 
+y="893" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_439"
+>clothing</text>
+
+<text 
+x="239" 
+y="885" 
+dx="0,0,0" 
+class="s3_439"
+>运动服</text>
+
+<text 
+x="436" 
+y="885" 
+dx="0,0,0" 
+class="s4_439"
+>運動服</text>
+
+<text 
+x="633" 
+y="883" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>yùndòngfú</text>
+
+<text 
+x="738" 
+y="884" 
+dx="0" 
+class="s6_439"
+>n</text>
+
+<text 
+x="808" 
+y="884" 
+dx="0,0" 
+class="s7_439"
+>18</text>
+
+<text 
+x="61" 
+y="927" 
+dx="0,0,0,0,0,0" 
+class="s2_439"
+>spring</text>
+
+<text 
+x="239" 
+y="929" 
+dx="0,0" 
+class="s3_439"
+>春天</text>
+
+<text 
+x="436" 
+y="929" 
+dx="0,0" 
+class="s4_439"
+>春天</text>
+
+<text 
+x="633" 
+y="927" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>chūntiān</text>
+
+<text 
+x="738" 
+y="927" 
+dx="0" 
+class="s6_439"
+>n</text>
+
+<text 
+x="808" 
+y="927" 
+dx="0,0" 
+class="s7_439"
+>11</text>
+
+<text 
+x="61" 
+y="969" 
+dx="0,0,-0.2,0,-0.2,0,0,0,0,0,0" 
+class="s2_439"
+>store, shop</text>
+
+<text 
+x="239" 
+y="971" 
+dx="0,0" 
+class="s3_439"
+>商店</text>
+
+<text 
+x="436" 
+y="971" 
+dx="0,0" 
+class="s4_439"
+>商店</text>
+
+<text 
+x="633" 
+y="969" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>shāngdiàn</text>
+
+<text 
+x="738" 
+y="970" 
+dx="0" 
+class="s6_439"
+>n</text>
+
+<text 
+x="808" 
+y="970" 
+dx="0" 
+class="s7_439"
+>9</text>
+
+<text 
+x="61" 
+y="1011" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_439"
+>straight, continuously</text>
+
+<text 
+x="239" 
+y="1014" 
+dx="0,0" 
+class="s3_439"
+>一直</text>
+
+<text 
+x="436" 
+y="1014" 
+dx="0,0" 
+class="s4_439"
+>一直</text>
+
+<text 
+x="633" 
+y="1011" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s5_439"
+>yìzhí</text>
+
+<text 
+x="738" 
+y="1012" 
+dx="0,0,0" 
+class="s6_439"
+>adv</text>
+
+<text 
+x="808" 
+y="1012" 
+dx="0,0" 
+class="s7_439"
+>13</text>
+
+<text 
+x="61" 
+y="1054" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s2_439"
+>strength, effort</text>
+
+<text 
+x="239" 
+y="1056" 
+dx="0,0" 
+class="s3_439"
+>力气</text>
+
+<text 
+x="436" 
+y="1056" 
+dx="0,0" 
+class="s4_439"
+>力氣</text>
+
+<text 
+x="633" 
+y="1053" 
+dx="0,0.2,0.2,0.2" 
+class="s5_439"
+>lìqi</text>
+
+<text 
+x="738" 
+y="1054" 
+dx="0" 
+class="s6_439"
+>n</text>
+
+<text 
+x="808" 
+y="1054" 
+dx="0,0" 
+class="s7_439"
+>16</text>
+
+<text 
+x="61" 
+y="1096" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_439"
+>(structural particle)</text>
+
+<text 
+x="239" 
+y="1098" 
+dx="0" 
+class="s3_439"
+>得</text>
+
+<text 
+x="436" 
+y="1098" 
+dx="0" 
+class="s4_439"
+>得</text>
+
+<text 
+x="633" 
+y="1096" 
+dx="0,0.2" 
+class="s5_439"
+>de</text>
+
+<text 
+x="738" 
+y="1096" 
+dx="0" 
+class="s6_439"
+>p</text>
+
+<text 
+x="808" 
+y="1096" 
+dx="0" 
+class="s7_439"
+>7</text>
+
+<path d="M-17.5,1219.2l58,0l0,-1242l-58,0l0,1242Z" class="g5_439" />
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1173)"
+dx="0,0.6,0.6,0.6" 
+class="s8_439"
+>416 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1134)"
+dx="0,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6" 
+class="s8_439"
+>Integrated Chinese 3 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1006)"
+dx="0,0.6" 
+class="s8_439"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 994)"
+dx="0,-0.6,0.4,0.3,0.6,0.6,0.6,0.6" 
+class="s8_439"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3o-;
+	src: url("fonts/GentiumBookBasic-Italic_3o-.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_45s;
+	src: url("fonts/LibreFranklin-Regular_45s.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_45y;
+	src: url("fonts/LibreFranklin-SemiBold_45y.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_45u;
+	src: url("fonts/LibreFranklin-Light_45u.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

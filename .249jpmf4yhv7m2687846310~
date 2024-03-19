@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 15 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_15{
+fill: #438CCA;
+}
+.g2_15{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_15{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_15{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.7638889;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 0,2;
+}
+
+.s1_15{
+font-size: 13.75px;
+font-family: MuseoSlab-700_ce3;
+fill: #808285;
+}
+.s2_15{
+font-size: 30.56px;
+font-family: LibreFranklin-ExtraBold_cdg;
+fill: #808285;
+}
+.s3_15{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cc_;
+fill: #231F20;
+}
+.s4_15{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_cdg;
+fill: #FFFFFF;
+}
+.s5_15{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_cdg;
+fill: #438CCA;
+}
+.s6_15{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cc_;
+fill: #808285;
+}
+.s7_15{
+font-size: 14.51px;
+font-family: LibreFranklin-Italic_cc-;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="26" 
+y="1166" 
+dx="0,0,-0.1" 
+class="s1_15"
+>xiv</text>
+
+<text 
+x="61" 
+y="84" 
+dx="0,-2.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,-0.6" 
+class="s2_15"
+>Volume 4 Lesson Structure</text>
+
+<text 
+x="61" 
+y="119" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-1.5,-0.3,-0.2,0,0,0,0,-0.2,0,0,0,-1,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_15"
+>All components of IC (Textbooks, Workbooks, and Teacher’s Resources) are considered core and are designed to </text>
+
+<text 
+x="61" 
+y="141" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,-0.1,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-1.5,-0.3,-0.2,0,0,0,0,0" 
+class="s3_15"
+>be used together to enhance teaching and learning. Recurrent lesson subsections are highlighted in the Textbook </text>
+
+<text 
+x="61" 
+y="162" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.1,-0.2,0" 
+class="s3_15"
+>Elements column. Note that Supplementary Modules do not compose a separate section, but are rather discrete </text>
+
+<text 
+x="61" 
+y="183" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>entities that appear throughout each lesson.</text>
+
+<path d="M61.9,195.2l121,0l0,25.5l-121,0l0,-25.5Zm121,0l164.2,0l0,25.5l-164.2,0l0,-25.5Zm164.2,0l161.7,0l0,25.5l-161.7,0l0,-25.5Zm161.7,0l160.5,0l0,25.5l-160.5,0l0,-25.5Zm160.5,0l162.6,0l0,25.5l-162.6,0l0,-25.5Z" class="g1_15" />
+<path d="M182.9,220.2l0,-24.4" class="g2_15" />
+<path d="M347.1,220.2l0,-24.4" class="g2_15" />
+<path d="M508.8,220.2l0,-24.4" class="g2_15" />
+<path d="M669.3,220.2l0,-24.4" class="g2_15" />
+<path d="M182.9,418.3l0,-197" class="g2_15" />
+<path d="M347.1,418.3l0,-197" class="g2_15" />
+<path d="M508.8,418.3l0,-197" class="g2_15" />
+<path d="M669.3,418.3l0,-197" class="g2_15" />
+<path d="M182.9,1028.9l0,-609.5" class="g2_15" />
+<path d="M347.1,1028.9l0,-609.5" class="g2_15" />
+<path d="M508.8,1028.9l0,-609.5" class="g2_15" />
+<path d="M669.3,1028.9l0,-609.5" class="g2_15" />
+<path d="M61.9,195.2l121,0" class="g3_15" />
+<path d="M669.3,195.2l162.6,0" class="g3_15" />
+<path d="M61.9,220.7l121,0" class="g3_15" />
+<path d="M669.3,220.7l162.6,0" class="g3_15" />
+<path d="M61.9,418.8l121,0" class="g3_15" />
+<path d="M669.3,418.8l162.6,0" class="g3_15" />
+<path d="M61.9,1029.5l121,0" class="g3_15" />
+<path d="M669.3,1029.5l162.6,0" class="g3_15" />
+<path d="M182.9,195.2l164.2,0" class="g3_15" />
+<path d="M347.1,195.2l161.7,0" class="g3_15" />
+<path d="M508.8,195.2l160.5,0" class="g3_15" />
+<path d="M182.9,220.7l164.2,0" class="g3_15" />
+<path d="M347.1,220.7l161.7,0" class="g3_15" />
+<path d="M508.8,220.7l160.5,0" class="g3_15" />
+<path d="M182.9,418.8l164.2,0" class="g3_15" />
+<path d="M347.1,418.8l161.7,0" class="g3_15" />
+<path d="M508.8,418.8l160.5,0" class="g3_15" />
+<path d="M182.9,1029.5l164.2,0" class="g3_15" />
+<path d="M347.1,1029.5l161.7,0" class="g3_15" />
+<path d="M508.8,1029.5l160.5,0" class="g3_15" />
+<path d="M182.9,218.6l0,-22" class="g4_15" />
+<path d="M347.1,218.6l0,-22" class="g4_15" />
+<path d="M508.8,218.6l0,-22" class="g4_15" />
+<path d="M669.3,218.6l0,-22" class="g4_15" />
+<path d="M182.9,416.7l0,-194.6" class="g4_15" />
+<path d="M347.1,416.7l0,-194.6" class="g4_15" />
+<path d="M508.8,416.7l0,-194.6" class="g4_15" />
+<path d="M669.3,416.7l0,-194.6" class="g4_15" />
+<path d="M182.9,1027.4l0,-607.2" class="g4_15" />
+<path d="M347.1,1027.4l0,-607.2" class="g4_15" />
+<path d="M508.8,1027.4l0,-607.2" class="g4_15" />
+<path d="M669.3,1027.4l0,-607.2" class="g4_15" />
+<text 
+x="67" 
+y="214" 
+dx="0,0,0,0,0,0,0" 
+class="s4_15"
+>Section</text>
+
+<text 
+x="188" 
+y="214" 
+dx="0,-1.6,-0.5,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_15"
+>Textbook Elements</text>
+
+<text 
+x="353" 
+y="214" 
+dx="0,0,0,-0.3,0,-0.1,0,0,0,0,-0.4,0,0,0,0,0,-0.3,0,0" 
+class="s4_15"
+>Interactive Content</text>
+
+<text 
+x="514" 
+y="214" 
+dx="0,-1.2,0,0,0,0,0,0,-0.2" 
+class="s4_15"
+>Workbooks</text>
+
+<text 
+x="675" 
+y="214" 
+dx="0,-1.6,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_15"
+>Teacher’s Resources</text>
+
+<text 
+x="67" 
+y="240" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_15"
+>Lesson Opener</text>
+
+<text 
+x="188" 
+y="240" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="195" 
+y="240" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s3_15"
+>Learning Objectives </text>
+
+<text 
+x="195" 
+y="259" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>state what students </text>
+
+<text 
+x="195" 
+y="277" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s3_15"
+>will be able to do by </text>
+
+<text 
+x="195" 
+y="295" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>the end of the lesson</text>
+
+<text 
+x="188" 
+y="321" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="195" 
+y="321" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s3_15"
+>Relate &amp; Get Ready </text>
+
+<text 
+x="195" 
+y="339" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>helps students </text>
+
+<text 
+x="195" 
+y="357" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>reflect on similarities </text>
+
+<text 
+x="195" 
+y="376" 
+dx="0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0" 
+class="s3_15"
+>and differences </text>
+
+<text 
+x="195" 
+y="394" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>between Chinese </text>
+
+<text 
+x="195" 
+y="412" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>culture and their own</text>
+
+<text 
+x="514" 
+y="240" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="521" 
+y="240" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s3_15"
+>Opportunity for </text>
+
+<text 
+x="521" 
+y="259" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_15"
+>students to revisit </text>
+
+<text 
+x="521" 
+y="277" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s3_15"
+>learning objectives </text>
+
+<text 
+x="521" 
+y="295" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>and self-assess</text>
+
+<text 
+x="675" 
+y="240" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="682" 
+y="240" 
+dx="0,0,-0.4,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_15"
+>Overview of </text>
+
+<text 
+x="682" 
+y="259" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>language functions, </text>
+
+<text 
+x="682" 
+y="277" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1.2,0" 
+class="s3_15"
+>vocabulary, grammar, </text>
+
+<text 
+x="682" 
+y="295" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>pronunciation, and </text>
+
+<text 
+x="682" 
+y="314" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>characters taught </text>
+
+<text 
+x="682" 
+y="332" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>in the lesson</text>
+
+<text 
+x="675" 
+y="357" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="682" 
+y="357" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>Sequencing </text>
+
+<text 
+x="682" 
+y="376" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>recommendations </text>
+
+<text 
+x="682" 
+y="394" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>and teaching aids</text>
+
+<text 
+x="67" 
+y="438" 
+dx="0,-1.6,-0.5,-0.6" 
+class="s5_15"
+>Text</text>
+
+<text 
+x="188" 
+y="438" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="195" 
+y="438" 
+dx="0,0,0,0,0,0,0,0,0,-1.5,-0.3,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>Chinese Text in each </text>
+
+<text 
+x="195" 
+y="457" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s3_15"
+>lesson demonstrates </text>
+
+<text 
+x="195" 
+y="475" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>practical vocabulary </text>
+
+<text 
+x="195" 
+y="493" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s3_15"
+>and grammar usage </text>
+
+<text 
+x="188" 
+y="519" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="195" 
+y="519" 
+dx="0,0,0,-0.3,0,-0.2,0,0,-1.5,0,0,0,-0.4,0,0,0,0" 
+class="s3_15"
+>Before You Study </text>
+
+<text 
+x="195" 
+y="537" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>includes lesson-</text>
+
+<text 
+x="195" 
+y="555" 
+dx="0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s3_15"
+>related questions for </text>
+
+<text 
+x="195" 
+y="574" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>teachers to use as </text>
+
+<text 
+x="195" 
+y="592" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>warm-up activities</text>
+
+<text 
+x="188" 
+y="617" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="195" 
+y="617" 
+dx="0,0,0,0,0,0,-1.5,0,0,0,-0.4,0,0,0,0" 
+class="s3_15"
+>When You Study </text>
+
+<text 
+x="195" 
+y="636" 
+dx="0,0,-0.2,-0.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_15"
+>provides reading </text>
+
+<text 
+x="195" 
+y="654" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>comprehension </text>
+
+<text 
+x="195" 
+y="672" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>questions that </text>
+
+<text 
+x="195" 
+y="691" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>students can answer </text>
+
+<text 
+x="195" 
+y="709" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s3_15"
+>after listening to and </text>
+
+<text 
+x="195" 
+y="727" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,-0.3,-0.2" 
+class="s3_15"
+>scanning the Text</text>
+
+<text 
+x="188" 
+y="752" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="195" 
+y="752" 
+dx="0,0,0,-0.2,0,0,0,-1.5,0,0,0,-0.4,0,0,0,0" 
+class="s3_15"
+>After You Study </text>
+
+<text 
+x="195" 
+y="771" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s3_15"
+>includes summative </text>
+
+<text 
+x="195" 
+y="789" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>questions that </text>
+
+<text 
+x="195" 
+y="807" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>encourage students </text>
+
+<text 
+x="195" 
+y="826" 
+dx="0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,-0.1,-0.2,0" 
+class="s3_15"
+>to produce discrete </text>
+
+<text 
+x="195" 
+y="844" 
+dx="0,0,0,0,-0.2,0,0,0,0,0" 
+class="s3_15"
+>sentences </text>
+
+<text 
+x="188" 
+y="869" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="195" 
+y="869" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,-0.1,-0.2,0,0" 
+class="s3_15"
+>Language Notes </text>
+
+<text 
+x="195" 
+y="888" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>shed light on </text>
+
+<text 
+x="195" 
+y="906" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>semantic nuances </text>
+
+<text 
+x="195" 
+y="924" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s3_15"
+>and idiomatic usage</text>
+
+<text 
+x="188" 
+y="949" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="195" 
+y="949" 
+dx="0,0,0,0,0,0" 
+class="s7_15"
+>Pinyin</text>
+
+<text 
+x="240" 
+y="949" 
+dx="0,-0.4,0,0,0,0,0,0" 
+class="s3_15"
+>version </text>
+
+<text 
+x="195" 
+y="968" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s3_15"
+>at the end of the </text>
+
+<text 
+x="195" 
+y="986" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,-0.3,0,0,0,0,0" 
+class="s3_15"
+>lesson provides </text>
+
+<text 
+x="195" 
+y="1004" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>pronunciation </text>
+
+<text 
+x="195" 
+y="1023" 
+dx="0,0,0,0,0,0,0" 
+class="s3_15"
+>support</text>
+
+<text 
+x="353" 
+y="438" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="360" 
+y="438" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>Audio builds </text>
+
+<text 
+x="360" 
+y="457" 
+dx="0,-0.2,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0" 
+class="s3_15"
+>receptive skills</text>
+
+<text 
+x="514" 
+y="438" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="521" 
+y="438" 
+dx="0,0,0,0,-0.2,0,0,0,0,0" 
+class="s3_15"
+>Listening </text>
+
+<text 
+x="521" 
+y="457" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>comprehension </text>
+
+<text 
+x="521" 
+y="475" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>and speaking </text>
+
+<text 
+x="521" 
+y="493" 
+dx="0,-0.3,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>exercises based </text>
+
+<text 
+x="521" 
+y="512" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>on the dialogues </text>
+
+<text 
+x="514" 
+y="537" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="521" 
+y="537" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_15"
+>Reading </text>
+
+<text 
+x="521" 
+y="555" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s3_15"
+>comprehension</text>
+
+<text 
+x="675" 
+y="438" 
+dx="0,0" 
+class="s6_15"
+>• </text>
+
+<text 
+x="682" 
+y="438" 
+dx="0,-0.4,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0" 
+class="s3_15"
+>Strategies for </text>
+
+<text 
+x="682" 
+y="457" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,-0.3,-0.2,0,0" 
+class="s3_15"
+>teaching the Text, </text>
+
+<text 
+x="682" 
+y="475" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_15"
+>plus question </text>
+
+<text 
+x="682" 
+y="493" 
+dx="0,0,-0.2,0,0,0,0" 
+class="s3_15"
+>prompts</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MuseoSlab-700_ce3;
+	src: url("fonts/MuseoSlab-700_ce3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cc_;
+	src: url("fonts/LibreFranklin-Regular_cc_.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Italic_cc-;
+	src: url("fonts/LibreFranklin-Italic_cc-.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cdg;
+	src: url("fonts/LibreFranklin-ExtraBold_cdg.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

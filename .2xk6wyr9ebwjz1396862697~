@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 83 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_83{
+fill: none;
+stroke: #85215E;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_83{
+fill: none;
+stroke: #85215E;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_83{
+fill: none;
+stroke: #9B9B9C;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_83{
+fill: #85215E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_83{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_3t6;
+fill: #85215E;
+}
+.s2_83{
+font-size: 16.81px;
+font-family: LibreFranklin-SemiBold_3tc;
+fill: #85215E;
+}
+.s3_83{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3td;
+fill: #3F3F40;
+}
+.s4_83{
+font-size: 23.68px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #85215E;
+}
+.s5_83{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #85215E;
+}
+.s6_83{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3uf;
+fill: #3F3F40;
+}
+.s7_83{
+font-size: 13.75px;
+font-family: LibreFranklin-Bold_3t0;
+fill: #808285;
+}
+.s8_83{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3t6;
+fill: #85215E;
+}
+.s9_83{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s10_83{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s11_83{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3tc;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M4.6,97.3l319.5,0" class="g1_83" />
+<path d="M4.6,99.8l319.5,0" class="g2_83" />
+<path d="M4.6,163.5l111.8,0" class="g3_83" />
+<text 
+x="59" 
+y="85" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_83"
+>Lesson Wrap-Up</text>
+
+<text 
+x="59" 
+y="148" 
+dx="0,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4" 
+class="s2_83"
+>Project</text>
+
+<text 
+x="148" 
+y="194" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_83"
+>An educational consulting agency in China is creating a guide for Chinese students applying to </text>
+
+<text 
+x="148" 
+y="218" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>American universities. They have hired you and some classmates as consultants to conduct a </text>
+
+<text 
+x="148" 
+y="242" 
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>survey about living conditions at your school. Using the questionnaire below as a starting point, </text>
+
+<text 
+x="148" 
+y="267" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>interview at least four students about their living conditions. Compare research results with a </text>
+
+<text 
+x="148" 
+y="291" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>fellow consultant. As part of your conversation with your partner, be sure to elaborate in the </text>
+
+<text 
+x="148" 
+y="316" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>following ways:</text>
+
+<text 
+x="171" 
+y="348" 
+dx="0,0" 
+class="s3_83"
+>• </text>
+
+<text 
+x="189" 
+y="348" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>the numerical breakdown of answers you received, e.g., </text>
+
+<text 
+x="562" 
+y="349" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_83"
+>三个学生觉得……, 一</text>
+
+<text 
+x="189" 
+y="377" 
+dx="0,0,0,0,0,0,0" 
+class="s4_83"
+>个学生觉得……</text>
+
+<text 
+x="355" 
+y="375" 
+dx="0" 
+class="s3_83"
+>/</text>
+
+<text 
+x="360" 
+y="377" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_83"
+>三個學生覺得……, 一個學生覺得……</text>
+
+<text 
+x="171" 
+y="407" 
+dx="0,0" 
+class="s3_83"
+>• </text>
+
+<text 
+x="189" 
+y="407" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>how much a place costs, e.g., question #5, </text>
+
+<text 
+x="472" 
+y="409" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_83"
+>住宿舍住一年……</text>
+
+<text 
+x="661" 
+y="407" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0" 
+class="s3_83"
+>; the specific age of </text>
+
+<text 
+x="189" 
+y="435" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>the building, e.g., question #6, </text>
+
+<text 
+x="391" 
+y="436" 
+dx="0,0,0,0,0,0,0" 
+class="s4_83"
+>宿舍是……年盖</text>
+
+<text 
+x="556" 
+y="435" 
+dx="0" 
+class="s3_83"
+>/</text>
+
+<text 
+x="561" 
+y="436" 
+dx="0" 
+class="s5_83"
+>蓋</text>
+
+<text 
+x="588" 
+y="435" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_83"
+>(gài)</text>
+
+<text 
+x="622" 
+y="435" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>(to construct) </text>
+
+<text 
+x="716" 
+y="436" 
+dx="0" 
+class="s4_83"
+>的</text>
+
+<text 
+x="740" 
+y="435" 
+dx="0,0,0,0,0,0" 
+class="s3_83"
+>; why </text>
+
+<text 
+x="189" 
+y="462" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>a location is good or not, e.g., question #7, </text>
+
+<text 
+x="471" 
+y="464" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_83"
+>宿舍离马路远不远</text>
+
+<text 
+x="660" 
+y="462" 
+dx="0" 
+class="s3_83"
+>/</text>
+
+<text 
+x="665" 
+y="464" 
+dx="0,0,0,0,0" 
+class="s5_83"
+>宿舍離馬路</text>
+
+<text 
+x="189" 
+y="491" 
+dx="0,0,0,0,0,0" 
+class="s5_83"
+>遠不遠…… </text>
+
+<text 
+x="313" 
+y="490" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>or question #8, </text>
+
+<text 
+x="418" 
+y="491" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_83"
+>宿舍旁边有没有小商店，买得到买不</text>
+
+<text 
+x="189" 
+y="519" 
+dx="0,0,0" 
+class="s4_83"
+>到……</text>
+
+<text 
+x="260" 
+y="517" 
+dx="0" 
+class="s3_83"
+>/</text>
+
+<text 
+x="265" 
+y="519" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_83"
+>宿舍旁邊有沒有小商店，買得到買不到……</text>
+
+<text 
+x="171" 
+y="550" 
+dx="0,0" 
+class="s3_83"
+>• </text>
+
+<text 
+x="189" 
+y="550" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_83"
+>what you found students care most about with regard to their living conditions</text>
+
+<text 
+x="171" 
+y="582" 
+dx="0,0" 
+class="s3_83"
+>• </text>
+
+<text 
+x="189" 
+y="582" 
+dx="0,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s3_83"
+>other relevant questions missing from this survey</text>
+
+<text 
+x="148" 
+y="621" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s7_83"
+>QUESTIONNAIRE</text>
+
+<text 
+x="180" 
+y="655" 
+dx="0,0.2" 
+class="s8_83"
+>1 </text>
+
+<text 
+x="216" 
+y="655" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_83"
+>你愿意住在校内还是住在校外？</text>
+
+<text 
+x="216" 
+y="693" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_83"
+>你願意住在校內還是住在校外？</text>
+
+<text 
+x="180" 
+y="740" 
+dx="0,0.2" 
+class="s8_83"
+>2 </text>
+
+<text 
+x="216" 
+y="740" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_83"
+>住在校内有什么好处，住在校外有什么好处？</text>
+
+<text 
+x="216" 
+y="778" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_83"
+>住在校內有什麼好處，住在校外有什麼好處？</text>
+
+<text 
+x="180" 
+y="826" 
+dx="0,0.2" 
+class="s8_83"
+>3 </text>
+
+<text 
+x="216" 
+y="826" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_83"
+>你愿意一个人住一个房间还是和同屋一起住？</text>
+
+<text 
+x="216" 
+y="864" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_83"
+>你願意一個人住一個房間還是和同屋一起住？</text>
+
+<text 
+x="180" 
+y="911" 
+dx="0,0.2" 
+class="s8_83"
+>4 </text>
+
+<text 
+x="216" 
+y="911" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_83"
+>一个人住有什么好处，和同屋住有什么好处？</text>
+
+<text 
+x="216" 
+y="950" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_83"
+>一個人住有什麼好處，和同屋住有什麼好處？</text>
+
+<text 
+x="180" 
+y="997" 
+dx="0,0.2" 
+class="s8_83"
+>5 </text>
+
+<text 
+x="216" 
+y="997" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_83"
+>你觉得你住的地方贵吗？</text>
+
+<text 
+x="216" 
+y="1035" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_83"
+>你覺得你住的地方貴嗎？</text>
+
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g4_83" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1" 
+class="s11_83"
+>60 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1136)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s11_83"
+>Integrated Chinese 3 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 995)"
+dx="0,1" 
+class="s11_83"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 982)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s11_83"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3tc;
+	src: url("fonts/LibreFranklin-SemiBold_3tc.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3td;
+	src: url("fonts/LibreFranklin-Regular_3td.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3t0;
+	src: url("fonts/LibreFranklin-Bold_3t0.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3uf;
+	src: url("fonts/GentiumBasic-Italic_3uf.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3t6;
+	src: url("fonts/LibreFranklin-ExtraBold_3t6.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

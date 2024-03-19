@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 18 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_18{
+fill: #DC262E;
+}
+.g2_18{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_18{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_18{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.7638889;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 1,2;
+}
+.g5_18{
+fill: none;
+stroke: #808285;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_18{
+font-size: 13.75px;
+font-family: MuseoSlab-700_2s6;
+fill: #808285;
+}
+.s2_18{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_2s2;
+fill: #FFFFFF;
+}
+.s3_18{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_2s2;
+fill: #DC252E;
+}
+.s4_18{
+font-size: 15.28px;
+font-family: ProximaNova-Regular_2r-;
+fill: #808285;
+}
+.s5_18{
+font-size: 15.28px;
+font-family: ProximaNova-Regular_2r-;
+fill: #231F20;
+}
+.s6_18{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #DC262E;
+}
+.s7_18{
+font-size: 16.81px;
+font-family: Marion-Italic_2sk;
+fill: #231F20;
+}
+.s8_18{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="867" 
+y="1166" 
+dx="0,0,0,0" 
+class="s1_18"
+>xvii</text>
+
+<path d="M75.6,55l132.9,0l0,24.3l-132.9,0L75.6,55Zm132.9,0l185.3,0l0,24.3l-185.3,0l0,-24.3Zm185.3,0L715,55l0,24.3l-321.2,0l0,-24.3ZM715,55l130.6,0l0,24.3L715,79.3L715,55Z" class="g1_18" />
+<path d="M208.5,79.3l0,-23.9" class="g2_18" />
+<path d="M393.8,79.3l0,-23.9" class="g2_18" />
+<path d="M715,79.3l0,-23.9" class="g2_18" />
+<path d="M208.5,328l0,-248.7" class="g2_18" />
+<path d="M393.8,328l0,-248.7" class="g2_18" />
+<path d="M715,328L715,79.3" class="g2_18" />
+<path d="M208.5,585.3l0,-257.3" class="g2_18" />
+<path d="M393.8,585.3l0,-257.3" class="g2_18" />
+<path d="M715,585.3L715,328" class="g2_18" />
+<path d="M208.5,815.7l0,-230.4" class="g2_18" />
+<path d="M393.8,815.7l0,-230.4" class="g2_18" />
+<path d="M715,815.7l0,-230.4" class="g2_18" />
+<path d="M75.6,79.3l132.5,0" class="g3_18" />
+<path d="M208.8,79.3l184.6,0" class="g3_18" />
+<path d="M394.2,79.3l320.4,0" class="g3_18" />
+<path d="M715.4,79.3l130.2,0" class="g3_18" />
+<path d="M75.6,328l132.5,0" class="g3_18" />
+<path d="M208.8,328l184.6,0" class="g3_18" />
+<path d="M394.2,328l320.4,0" class="g3_18" />
+<path d="M715.4,328l130.2,0" class="g3_18" />
+<path d="M75.6,585.3l132.5,0" class="g3_18" />
+<path d="M208.8,585.3l184.6,0" class="g3_18" />
+<path d="M394.2,585.3l320.4,0" class="g3_18" />
+<path d="M715.4,585.3l130.2,0" class="g3_18" />
+<path d="M208.5,77.8l0,-21.7" class="g4_18" />
+<path d="M393.8,77.8l0,-21.7" class="g4_18" />
+<path d="M715,77.8l0,-21.7" class="g4_18" />
+<path d="M208.5,326.5l0,-246.4" class="g4_18" />
+<path d="M393.8,326.5l0,-246.4" class="g4_18" />
+<path d="M715,326.5L715,80.1" class="g4_18" />
+<path d="M208.5,583.8l0,-255" class="g4_18" />
+<path d="M393.8,583.8l0,-255" class="g4_18" />
+<path d="M715,583.8l0,-255" class="g4_18" />
+<path d="M208.5,814.2l0,-228.1" class="g4_18" />
+<path d="M393.8,814.2l0,-228.1" class="g4_18" />
+<path d="M715,814.2l0,-228.1" class="g4_18" />
+<path d="M75.6,816.4l132.9,0" class="g5_18" />
+<path d="M208.5,816.4l185.3,0" class="g5_18" />
+<path d="M393.8,816.4l321.2,0" class="g5_18" />
+<path d="M715,816.4l130.6,0" class="g5_18" />
+<text 
+x="81" 
+y="73" 
+dx="0,-0.2,0,0,0,0" 
+class="s2_18"
+>Lesson</text>
+
+<text 
+x="214" 
+y="73" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_18"
+>Learning Objectives </text>
+
+<text 
+x="399" 
+y="73" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_18"
+>Grammar </text>
+
+<text 
+x="721" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_18"
+>Cultural Literacy </text>
+
+<text 
+x="81" 
+y="97" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_18"
+>9 Shopping</text>
+
+<text 
+x="214" 
+y="97" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="97" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3,0,0,0,0,0,-0.1,0" 
+class="s5_18"
+>Describe the color, size, </text>
+
+<text 
+x="223" 
+y="114" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>and price of a purchase</text>
+
+<text 
+x="214" 
+y="137" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="137" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Recognize Chinese </text>
+
+<text 
+x="223" 
+y="154" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_18"
+>currency</text>
+
+<text 
+x="214" 
+y="178" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="178" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Pay in cash or with a </text>
+
+<text 
+x="223" 
+y="195" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>credit card</text>
+
+<text 
+x="214" 
+y="218" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="218" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Determine the proper </text>
+
+<text 
+x="223" 
+y="235" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>change you should </text>
+
+<text 
+x="223" 
+y="252" 
+dx="0,0,0,0,0,0,0" 
+class="s5_18"
+>receive</text>
+
+<text 
+x="214" 
+y="276" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="276" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Ask for merchandise in </text>
+
+<text 
+x="223" 
+y="293" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>a different size or color</text>
+
+<text 
+x="214" 
+y="316" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="316" 
+dx="0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Exchange merchandise</text>
+
+<text 
+x="399" 
+y="101" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>1. The modal verb </text>
+
+<text 
+x="521" 
+y="101" 
+dx="0" 
+class="s6_18"
+>要</text>
+
+<text 
+x="548" 
+y="101" 
+dx="0,0,0,0,0" 
+class="s7_18"
+>(yào)</text>
+
+<text 
+x="580" 
+y="101" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>(want to do) (II)</text>
+
+<text 
+x="399" 
+y="128" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>2. Measure words (II)</text>
+
+<text 
+x="399" 
+y="155" 
+dx="0,0,0,0,0,0,0" 
+class="s5_18"
+>3. The </text>
+
+<text 
+x="445" 
+y="155" 
+dx="0" 
+class="s6_18"
+>的</text>
+
+<text 
+x="472" 
+y="155" 
+dx="0,0,0,0,0" 
+class="s7_18"
+>(de) </text>
+
+<text 
+x="498" 
+y="155" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>structure (II)</text>
+
+<text 
+x="399" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>4. Using </text>
+
+<text 
+x="458" 
+y="182" 
+dx="0" 
+class="s6_18"
+>多</text>
+
+<text 
+x="485" 
+y="182" 
+dx="0,0,0,0,0,0" 
+class="s8_18"
+>(duō) </text>
+
+<text 
+x="519" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>interrogatively</text>
+
+<text 
+x="399" 
+y="208" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>5. Denominations of currency</text>
+
+<text 
+x="399" 
+y="235" 
+dx="0,0,0,-0.6,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s5_18"
+>6. Comparing using </text>
+
+<text 
+x="526" 
+y="235" 
+dx="0,-0.7,-0.7,-0.7,-0.2,-0.2,-0.2,-0.2,-0.2,-0.7,-0.7,-0.7" 
+class="s6_18"
+>跟/和. . .（不）一</text>
+
+<text 
+x="415" 
+y="255" 
+dx="0" 
+class="s6_18"
+>样</text>
+
+<text 
+x="441" 
+y="255" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s8_18"
+>(gēn/hé . . . [bù] yíyàng)</text>
+
+<text 
+x="566" 
+y="255" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s5_18"
+>([not] the same as . . . )</text>
+
+<text 
+x="399" 
+y="282" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>7. The conjunctions </text>
+
+<text 
+x="532" 
+y="282" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_18"
+>虽然. . .，可是/</text>
+
+<text 
+x="413" 
+y="302" 
+dx="0,0,0,0,0,0,0" 
+class="s6_18"
+>但是. . .</text>
+
+<text 
+x="490" 
+y="302" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(suīrán . . . , kěshì/dànshì . . . )</text>
+
+<text 
+x="413" 
+y="321" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>(although . . . yet . . . )</text>
+
+<text 
+x="721" 
+y="97" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="730" 
+y="97" 
+dx="0,-1.3,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Traditional </text>
+
+<text 
+x="730" 
+y="114" 
+dx="0,0,0,0,0,0,0" 
+class="s5_18"
+>clothes</text>
+
+<text 
+x="721" 
+y="137" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="730" 
+y="137" 
+dx="0,0,0,0,0,0" 
+class="s5_18"
+>Prices</text>
+
+<text 
+x="721" 
+y="161" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="730" 
+y="161" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Forms of </text>
+
+<text 
+x="730" 
+y="178" 
+dx="0,0,0,0,0,0,0" 
+class="s5_18"
+>address</text>
+
+<text 
+x="81" 
+y="346" 
+dx="0,0,0,-0.2,-1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_18"
+>10 Transportation</text>
+
+<text 
+x="214" 
+y="346" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="346" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Discuss different means </text>
+
+<text 
+x="223" 
+y="362" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>of transportation</text>
+
+<text 
+x="214" 
+y="386" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="386" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Explain how to transfer </text>
+
+<text 
+x="223" 
+y="403" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>from one subway or bus </text>
+
+<text 
+x="223" 
+y="420" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>line to another</text>
+
+<text 
+x="214" 
+y="443" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="443" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Navigate public transit</text>
+
+<text 
+x="214" 
+y="467" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="467" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Express gratitude after </text>
+
+<text 
+x="223" 
+y="484" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>receiving a favor</text>
+
+<text 
+x="214" 
+y="508" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="508" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-1.9,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Offer New Year wishes</text>
+
+<text 
+x="399" 
+y="346" 
+dx="0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>1. Topic-comment sentences</text>
+
+<text 
+x="399" 
+y="372" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>2. Indicating alternatives: </text>
+
+<text 
+x="569" 
+y="372" 
+dx="0,0" 
+class="s6_18"
+>或者</text>
+
+<text 
+x="619" 
+y="372" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(huòzhě)</text>
+
+<text 
+x="672" 
+y="372" 
+dx="0,0,0,0,0" 
+class="s5_18"
+>(or) </text>
+
+<text 
+x="416" 
+y="392" 
+dx="0,0,0,0" 
+class="s5_18"
+>and </text>
+
+<text 
+x="445" 
+y="392" 
+dx="0,0" 
+class="s6_18"
+>还是</text>
+
+<text 
+x="495" 
+y="392" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_18"
+>(háishi)</text>
+
+<text 
+x="541" 
+y="392" 
+dx="0,0,0,0" 
+class="s5_18"
+>(or)</text>
+
+<text 
+x="399" 
+y="419" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>3. Indicating sequence: </text>
+
+<text 
+x="558" 
+y="419" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_18"
+>先. . .再. . .</text>
+
+<text 
+x="661" 
+y="419" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(xiān . . </text>
+
+<text 
+x="415" 
+y="439" 
+dx="0,0,0,0,0,0,0" 
+class="s8_18"
+>. zài) </text>
+
+<text 
+x="448" 
+y="439" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>(first . . . , then . . . )</text>
+
+<text 
+x="399" 
+y="466" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>4. Pondering alternatives: </text>
+
+<text 
+x="573" 
+y="466" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_18"
+>还是. . . </text>
+
+<text 
+x="415" 
+y="485" 
+dx="0,-0.6,-0.6" 
+class="s6_18"
+>（吧）</text>
+
+<text 
+x="486" 
+y="485" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(háishi . . . [ba]) </text>
+
+<text 
+x="579" 
+y="485" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>(had better)</text>
+
+<text 
+x="399" 
+y="512" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>5. Indicating totality: </text>
+
+<text 
+x="537" 
+y="512" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_18"
+>每. . .都. . .</text>
+
+<text 
+x="640" 
+y="512" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(měi . . . </text>
+
+<text 
+x="416" 
+y="532" 
+dx="0,0,0,0" 
+class="s8_18"
+>dōu)</text>
+
+<text 
+x="446" 
+y="532" 
+dx="0,0,0,0,0,0,0" 
+class="s5_18"
+>(every)</text>
+
+<text 
+x="399" 
+y="559" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>6. Indicating imminence: </text>
+
+<text 
+x="565" 
+y="559" 
+dx="0,0,0,0,0,0,0" 
+class="s6_18"
+>要. . .了</text>
+
+<text 
+x="638" 
+y="559" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(yào . . . le)</text>
+
+<text 
+x="416" 
+y="579" 
+dx="0,0,0,0,0,0" 
+class="s5_18"
+>(soon)</text>
+
+<text 
+x="721" 
+y="346" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="730" 
+y="346" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>High-speed rail</text>
+
+<text 
+x="721" 
+y="369" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="730" 
+y="369" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Taxi drivers</text>
+
+<text 
+x="721" 
+y="393" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="730" 
+y="393" 
+dx="0,0,0,0,0,-1.9,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>New Year traffic</text>
+
+<text 
+x="81" 
+y="603" 
+dx="0,-0.4,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_18"
+>Keeping It Casual </text>
+
+<text 
+x="81" 
+y="620" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_18"
+>(L6–L10)</text>
+
+<text 
+x="214" 
+y="603" 
+dx="0,0" 
+class="s4_18"
+>• </text>
+
+<text 
+x="223" 
+y="603" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>Review functional </text>
+
+<text 
+x="223" 
+y="620" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>expressions</text>
+
+<text 
+x="399" 
+y="607" 
+dx="0,0,0" 
+class="s5_18"
+>1. </text>
+
+<text 
+x="412" 
+y="607" 
+dx="0" 
+class="s6_18"
+>喂</text>
+
+<text 
+x="439" 
+y="607" 
+dx="0,0,0,0,0" 
+class="s7_18"
+>(wéi)</text>
+
+<text 
+x="470" 
+y="607" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>(hello [on the phone])</text>
+
+<text 
+x="399" 
+y="634" 
+dx="0,0,0" 
+class="s5_18"
+>2. </text>
+
+<text 
+x="416" 
+y="634" 
+dx="0,0,0" 
+class="s6_18"
+>没问题</text>
+
+<text 
+x="489" 
+y="634" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_18"
+>(méi wèntí)</text>
+
+<text 
+x="556" 
+y="634" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>(no problem)</text>
+
+<text 
+x="399" 
+y="661" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>3. Expressions of gratitude</text>
+
+<text 
+x="399" 
+y="688" 
+dx="0,0,0" 
+class="s5_18"
+>4. </text>
+
+<text 
+x="415" 
+y="688" 
+dx="0,0,0,0,0" 
+class="s6_18"
+>哪里，哪里</text>
+
+<text 
+x="534" 
+y="688" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(nǎli, nǎli)</text>
+
+<text 
+x="597" 
+y="688" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>(I’m flattered) or </text>
+
+<text 
+x="415" 
+y="711" 
+dx="0,0,0" 
+class="s6_18"
+>是吗？</text>
+
+<text 
+x="484" 
+y="711" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_18"
+>(shì ma)</text>
+
+<text 
+x="534" 
+y="711" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.7,0" 
+class="s5_18"
+>(is that so?)</text>
+
+<text 
+x="399" 
+y="737" 
+dx="0,0,0" 
+class="s5_18"
+>5. </text>
+
+<text 
+x="420" 
+y="737" 
+dx="0,0,0,0" 
+class="s6_18"
+>就是它吧</text>
+
+<text 
+x="515" 
+y="737" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(jiù shì tā ba) </text>
+
+<text 
+x="595" 
+y="737" 
+dx="0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>(let’s go with </text>
+
+<text 
+x="416" 
+y="763" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>that) or </text>
+
+<text 
+x="467" 
+y="763" 
+dx="0,0,0,0,0,0" 
+class="s6_18"
+>就是他/她了</text>
+
+<text 
+x="597" 
+y="763" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_18"
+>(jiù shì tā le)</text>
+
+<text 
+x="671" 
+y="763" 
+dx="0,0,0,0,0,0,0" 
+class="s5_18"
+>(we’ll </text>
+
+<text 
+x="416" 
+y="783" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>go with him/her) </text>
+
+<text 
+x="399" 
+y="810" 
+dx="0,0,0" 
+class="s5_18"
+>6. </text>
+
+<text 
+x="416" 
+y="810" 
+dx="0" 
+class="s6_18"
+>祝</text>
+
+<text 
+x="443" 
+y="810" 
+dx="0,0,0,0,0" 
+class="s7_18"
+>(zhù)</text>
+
+<text 
+x="475" 
+y="810" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_18"
+>(I wish . . . )</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Regular_2r-;
+	src: url("fonts/ProximaNova-Regular_2r-.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2s2;
+	src: url("fonts/ProximaNova-Bold_2s2.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2sk;
+	src: url("fonts/Marion-Italic_2sk.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_2s6;
+	src: url("fonts/MuseoSlab-700_2s6.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

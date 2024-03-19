@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 194 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_194"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_194{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_194{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_194{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_194{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_194{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_194{
+fill: #231F20;
+}
+.g7_194{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_194{
+fill: #FFFFFF;
+}
+.g9_194{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_194{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_cyv;
+fill: #007598;
+}
+.s2_194{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_cyv;
+fill: #007D9F;
+}
+.s3_194{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_cyr;
+fill: #007D9F;
+}
+.s4_194{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #3F3F40;
+}
+.s5_194{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cz7;
+fill: #3F3F40;
+}
+.s6_194{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cyv;
+fill: #3F3F40;
+}
+.s7_194{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s8_194{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #007D9F;
+}
+.s9_194{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s10_194{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #007D9F;
+}
+.s11_194{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s12_194{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s13_194{
+font-size: 29.03px;
+font-family: ZenKai-Medium_cmx;
+fill: #3F3F40;
+}
+.s14_194{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cyp;
+fill: #231F20;
+}
+.s15_194{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_c-4;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,95.8l204.6,0" class="g1_194" />
+<path d="M0,98.3l204.6,0" class="g2_194" />
+<path d="M119.2,181.8l10.7,0" class="g3_194" />
+<text 
+x="55" 
+y="84" 
+dx="0,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_194"
+>Grammar</text>
+
+<text 
+x="119" 
+y="176" 
+dx="0,0" 
+class="s2_194"
+>1 </text>
+
+<text 
+x="301" 
+y="180" 
+dx="0,-1.8,0,0,0,0,0" 
+class="s3_194"
+>Verb 1 </text>
+
+<text 
+x="374" 
+y="180" 
+dx="0" 
+class="s4_194"
+>的</text>
+
+<text 
+x="406" 
+y="180" 
+dx="0,-0.7,0,0,0,0,0,0,0,-0.7,0,0,0,0,0" 
+class="s3_194"
+>verb 1, verb 2 </text>
+
+<text 
+x="556" 
+y="180" 
+dx="0" 
+class="s4_194"
+>的</text>
+
+<text 
+x="589" 
+y="180" 
+dx="0,-0.7,0,0,0,0" 
+class="s3_194"
+>verb 2</text>
+
+<text 
+x="157" 
+y="242" 
+dx="0,-1.2,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-1.5,-0.3,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_194"
+>Take a closer look at this sentence from the Text of this lesson: </text>
+
+<text 
+x="169" 
+y="299" 
+dx="0,0" 
+class="s6_194"
+>A </text>
+
+<text 
+x="239" 
+y="301" 
+dx="0,0,0,0" 
+class="s7_194"
+>他们每天</text>
+
+<text 
+x="343" 
+y="301" 
+dx="0,0,0,0,0" 
+class="s8_194"
+>上课的上课</text>
+
+<text 
+x="473" 
+y="301" 
+dx="0" 
+class="s7_194"
+>，</text>
+
+<text 
+x="499" 
+y="301" 
+dx="0,0,0,0,0,0,0" 
+class="s8_194"
+>找工作的找工作</text>
+
+<text 
+x="681" 
+y="301" 
+dx="0,0,0,0" 
+class="s7_194"
+>，半个月</text>
+
+<text 
+x="239" 
+y="335" 
+dx="0,0,0,0,0" 
+class="s7_194"
+>没见面了。</text>
+
+<text 
+x="239" 
+y="375" 
+dx="0,0,0,0" 
+class="s9_194"
+>他們每天</text>
+
+<text 
+x="343" 
+y="375" 
+dx="0,0,0,0,0" 
+class="s10_194"
+>上課的上課</text>
+
+<text 
+x="473" 
+y="375" 
+dx="0" 
+class="s9_194"
+>，</text>
+
+<text 
+x="499" 
+y="375" 
+dx="0,0,0,0,0,0,0" 
+class="s10_194"
+>找工作的找工作</text>
+
+<text 
+x="681" 
+y="375" 
+dx="0,0,0,0" 
+class="s9_194"
+>，半個月</text>
+
+<text 
+x="239" 
+y="409" 
+dx="0,0,0,0,0" 
+class="s9_194"
+>沒見面了。</text>
+
+<text 
+x="245" 
+y="442" 
+dx="0,-0.9,-0.4,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s5_194"
+>Every day, some of them are taking classes and some of them are looking for jobs. </text>
+
+<text 
+x="245" 
+y="462" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_194"
+>They haven’t seen each other for half a month. </text>
+
+<text 
+x="157" 
+y="507" 
+dx="0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_194"
+>Here, the </text>
+
+<text 
+x="222" 
+y="509" 
+dx="0,0,0" 
+class="s11_194"
+>上课的</text>
+
+<text 
+x="293" 
+y="507" 
+dx="0" 
+class="s5_194"
+>/</text>
+
+<text 
+x="298" 
+y="509" 
+dx="0,0,0" 
+class="s12_194"
+>上課的</text>
+
+<text 
+x="372" 
+y="507" 
+dx="0,0,0" 
+class="s5_194"
+>in </text>
+
+<text 
+x="387" 
+y="509" 
+dx="0,0,0,0,0" 
+class="s11_194"
+>上课的上课</text>
+
+<text 
+x="505" 
+y="507" 
+dx="0" 
+class="s5_194"
+>/</text>
+
+<text 
+x="510" 
+y="509" 
+dx="0,0,0,0,0" 
+class="s12_194"
+>上課的上課</text>
+
+<text 
+x="632" 
+y="507" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0" 
+class="s5_194"
+>acts like a noun. Similarly, </text>
+
+<text 
+x="157" 
+y="535" 
+dx="0,0,0,0" 
+class="s5_194"
+>the </text>
+
+<text 
+x="183" 
+y="536" 
+dx="0,0,0,0" 
+class="s11_194"
+>找工作的</text>
+
+<text 
+x="280" 
+y="535" 
+dx="0,0,0" 
+class="s5_194"
+>in </text>
+
+<text 
+x="295" 
+y="536" 
+dx="0,0,0,0,0,0,0" 
+class="s11_194"
+>找工作的找工作</text>
+
+<text 
+x="464" 
+y="535" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_194"
+>also acts like a noun. This structure is used to </text>
+
+<text 
+x="157" 
+y="562" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_194"
+>imply that everyone is occupied doing his/her own thing; no one is idle.</text>
+
+<text 
+x="169" 
+y="619" 
+dx="0,0" 
+class="s6_194"
+>B </text>
+
+<text 
+x="239" 
+y="621" 
+dx="0" 
+class="s7_194"
+>下</text>
+
+<text 
+x="265" 
+y="624" 
+dx="0" 
+class="s13_194"
+>班</text>
+
+<text 
+x="294" 
+y="621" 
+dx="0,0,0,0" 
+class="s7_194"
+>了，人们</text>
+
+<text 
+x="398" 
+y="621" 
+dx="0,0,0,0,0" 
+class="s8_194"
+>回家的回家</text>
+
+<text 
+x="528" 
+y="621" 
+dx="0" 
+class="s7_194"
+>，</text>
+
+<text 
+x="554" 
+y="621" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s8_194"
+>约朋友吃饭的约朋友</text>
+
+<text 
+x="239" 
+y="655" 
+dx="0,0" 
+class="s8_194"
+>吃饭</text>
+
+<text 
+x="291" 
+y="655" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_194"
+>，办公室很快就没有人了。</text>
+
+<text 
+x="239" 
+y="695" 
+dx="0,0,0,0,0,0" 
+class="s9_194"
+>下班了，人們</text>
+
+<text 
+x="395" 
+y="695" 
+dx="0,0,0,0,0" 
+class="s10_194"
+>回家的回家</text>
+
+<text 
+x="525" 
+y="695" 
+dx="0" 
+class="s9_194"
+>，</text>
+
+<text 
+x="551" 
+y="695" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s10_194"
+>約朋友吃飯的約朋友</text>
+
+<text 
+x="239" 
+y="729" 
+dx="0,0" 
+class="s10_194"
+>吃飯</text>
+
+<text 
+x="291" 
+y="729" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_194"
+>，辦公室很快就沒有人了。</text>
+
+<text 
+x="245" 
+y="762" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_194"
+>After work, some went home, and some made plans to eat out with friends. The office </text>
+
+<text 
+x="245" 
+y="782" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1" 
+class="s5_194"
+>emptied out quickly.</text>
+
+<text 
+x="169" 
+y="841" 
+dx="0,0" 
+class="s6_194"
+>C </text>
+
+<text 
+x="239" 
+y="843" 
+dx="0,0,0,0,0,0,0" 
+class="s7_194"
+>运动场上学生们</text>
+
+<text 
+x="421" 
+y="843" 
+dx="0,0,0,0,0" 
+class="s8_194"
+>踢球的踢球</text>
+
+<text 
+x="551" 
+y="843" 
+dx="0" 
+class="s7_194"
+>，</text>
+
+<text 
+x="577" 
+y="843" 
+dx="0,0,0,0,0" 
+class="s8_194"
+>跑步的跑步</text>
+
+<text 
+x="707" 
+y="843" 
+dx="0,0,0" 
+class="s7_194"
+>，都在</text>
+
+<text 
+x="239" 
+y="877" 
+dx="0,0,0,0,0" 
+class="s7_194"
+>锻炼身体。</text>
+
+<text 
+x="239" 
+y="917" 
+dx="0,0,0,0,0,0,0" 
+class="s9_194"
+>運動場上學生們</text>
+
+<text 
+x="421" 
+y="917" 
+dx="0,0,0,0,0" 
+class="s10_194"
+>踢球的踢球</text>
+
+<text 
+x="551" 
+y="917" 
+dx="0" 
+class="s9_194"
+>，</text>
+
+<text 
+x="577" 
+y="917" 
+dx="0,0,0,0,0" 
+class="s10_194"
+>跑步的跑步</text>
+
+<text 
+x="707" 
+y="917" 
+dx="0,0,0" 
+class="s9_194"
+>，都在</text>
+
+<text 
+x="239" 
+y="951" 
+dx="0,0,0,0,0" 
+class="s9_194"
+>鍛鍊身體。</text>
+
+<text 
+x="245" 
+y="985" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.2,0" 
+class="s5_194"
+>On the athletic field, some students are playing soccer and some are jogging. They’re </text>
+
+<text 
+x="245" 
+y="1004" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_194"
+>all working out.</text>
+
+<path d="M146.4,147.2l0,53.5l0,0.7l0.8,0l676.9,0l0.7,0l0,-0.7l0,-53.5l0,-0.8l-0.7,0l-676.9,0l-0.8,0l0,0.8Z" class="g4_194" />
+<path d="M148.4,199.4l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g5_194" />
+<path d="M165,276.5c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g4_194" />
+<path d="M165,278.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_194" />
+<path d="M165,595.9c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,0,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g4_194" />
+<path d="M165,597.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_194" />
+<path d="M165,818.1c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g4_194" />
+<path d="M165,820.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_194" />
+<g clip-path="url(#c0_194)">
+<path d="M-883.7,494.2c0,0,152.4,11.2,236.7,3.5c256.7,-23.5,466.3,-93.9,650.8,-213C2.9,236.2,3.5,-106.1,3.5,-106.1l-888.3,-2.6Z" class="g6_194" />
+</g>
+<image preserveAspectRatio="none" x="-1" y="-1" width="45" height="517" xlink:href="194/img/1.png" />
+<g clip-path="url(#c0_194)">
+<path d="M-883.7,494.2c0,0,152.4,11.2,236.7,3.5c256.7,-23.5,466.3,-93.9,650.8,-213C2.9,236.2,3.5,-106.1,3.5,-106.1l-888.3,-2.6l1.1,602.9Z" class="g7_194" />
+</g>
+<path d="M0,360.9l8.4,0L8.4,0L0,0L0,360.9Z" class="g8_194" />
+<path d="M876.9,1141.6l57.3,0l0,-1222.1l-57.3,0l0,1222.1Z" class="g9_194" />
+<text 
+x="877" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s14_194"
+>171 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 528)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s15_194"
+>Lesson 16 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 618)"
+dx="0,1.2" 
+class="s15_194"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 635)"
+dx="0,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1,1.1,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s15_194"
+>Environmental Protection and Energy Conservation </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1043)"
+dx="0,1.2" 
+class="s15_194"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1060)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,0" 
+class="s15_194"
+>Grammar </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_cyr;
+	src: url("fonts/LibreFranklin-Bold_cyr.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cz7;
+	src: url("fonts/LibreFranklin-Regular_cz7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZenKai-Medium_cmx;
+	src: url("fonts/ZenKai-Medium_cmx.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cyp;
+	src: url("fonts/LibreFranklin-Medium_cyp.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cyv;
+	src: url("fonts/LibreFranklin-ExtraBold_cyv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_c-4;
+	src: url("fonts/LibreFranklin-SemiBold_c-4.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

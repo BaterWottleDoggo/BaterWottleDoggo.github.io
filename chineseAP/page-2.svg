@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 21 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_21{
+fill: #438CCA;
+}
+.g2_21{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_21{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_21{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.7638889;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 0,2;
+}
+
+.s1_21{
+font-size: 13.75px;
+font-family: MuseoSlab-700_ce3;
+fill: #808285;
+}
+.s2_21{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_cdg;
+fill: #FFFFFF;
+}
+.s3_21{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_cdg;
+fill: #438CCA;
+}
+.s4_21{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #438CCA;
+}
+.s5_21{
+font-size: 22.92px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #438CCA;
+}
+.s6_21{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cc_;
+fill: #808285;
+}
+.s7_21{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cc_;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="26" 
+y="1166" 
+dx="0,0" 
+class="s1_21"
+>xx</text>
+
+<path d="M61.9,55.2l123.7,0l0,31.6l-123.7,0l0,-31.6Zm123.7,0l169.4,0l0,31.6l-169.4,0l0,-31.6Zm169.4,0l173,0l0,31.6l-173,0l0,-31.6Zm173,0l165.8,0l0,31.6L528,86.8l0,-31.6Zm165.8,0l138.1,0l0,31.6l-138.1,0l0,-31.6Z" class="g1_21" />
+<path d="M185.6,340.9l0,-253.5" class="g2_21" />
+<path d="M355,340.9L355,87.4" class="g2_21" />
+<path d="M528,340.9L528,87.4" class="g2_21" />
+<path d="M693.8,340.9l0,-253.5" class="g2_21" />
+<path d="M185.6,633.1l0,-291.1" class="g2_21" />
+<path d="M355,633.1L355,342" class="g2_21" />
+<path d="M528,633.1L528,342" class="g2_21" />
+<path d="M693.8,633.1l0,-291.1" class="g2_21" />
+<path d="M185.6,700.5l0,-66.2" class="g2_21" />
+<path d="M355,700.5l0,-66.2" class="g2_21" />
+<path d="M528,700.5l0,-66.2" class="g2_21" />
+<path d="M693.8,700.5l0,-66.2" class="g2_21" />
+<path d="M185.6,86.2l0,-30.4" class="g2_21" />
+<path d="M355,86.2l0,-30.4" class="g2_21" />
+<path d="M528,86.2l0,-30.4" class="g2_21" />
+<path d="M693.8,86.2l0,-30.4" class="g2_21" />
+<path d="M61.9,341.5l123.7,0" class="g3_21" />
+<path d="M693.8,341.5l138.1,0" class="g3_21" />
+<path d="M61.9,633.7l123.7,0" class="g3_21" />
+<path d="M693.8,633.7l138.1,0" class="g3_21" />
+<path d="M61.9,701.1l123.7,0" class="g3_21" />
+<path d="M693.8,701.1l138.1,0" class="g3_21" />
+<path d="M185.6,339.4l0,-251.3" class="g4_21" />
+<path d="M355,339.4L355,88.1" class="g4_21" />
+<path d="M528,339.4L528,88.1" class="g4_21" />
+<path d="M693.8,339.4l0,-251.3" class="g4_21" />
+<path d="M185.6,631.6l0,-288.8" class="g4_21" />
+<path d="M355,631.6l0,-288.8" class="g4_21" />
+<path d="M528,631.6l0,-288.8" class="g4_21" />
+<path d="M693.8,631.6l0,-288.8" class="g4_21" />
+<path d="M185.6,698.9l0,-63.8" class="g4_21" />
+<path d="M355,698.9l0,-63.8" class="g4_21" />
+<path d="M528,698.9l0,-63.8" class="g4_21" />
+<path d="M693.8,698.9l0,-63.8" class="g4_21" />
+<path d="M185.6,341.5l169.4,0" class="g3_21" />
+<path d="M355,341.5l173,0" class="g3_21" />
+<path d="M528,341.5l165.8,0" class="g3_21" />
+<path d="M185.6,633.7l169.4,0" class="g3_21" />
+<path d="M355,633.7l173,0" class="g3_21" />
+<path d="M528,633.7l165.8,0" class="g3_21" />
+<path d="M185.6,701.1l169.4,0" class="g3_21" />
+<path d="M355,701.1l173,0" class="g3_21" />
+<path d="M528,701.1l165.8,0" class="g3_21" />
+<path d="M61.9,55.2l123.7,0" class="g3_21" />
+<path d="M185.6,55.2l169.4,0" class="g3_21" />
+<path d="M355,55.2l173,0" class="g3_21" />
+<path d="M528,55.2l165.8,0" class="g3_21" />
+<path d="M693.8,55.2l138.1,0" class="g3_21" />
+<path d="M61.9,86.8l123.7,0" class="g3_21" />
+<path d="M185.6,86.8l169.4,0" class="g3_21" />
+<path d="M355,86.8l173,0" class="g3_21" />
+<path d="M528,86.8l165.8,0" class="g3_21" />
+<path d="M693.8,86.8l138.1,0" class="g3_21" />
+<path d="M185.6,84.7l0,-28.2" class="g4_21" />
+<path d="M355,84.7l0,-28.2" class="g4_21" />
+<path d="M528,84.7l0,-28.2" class="g4_21" />
+<path d="M693.8,84.7l0,-28.2" class="g4_21" />
+<text 
+x="72" 
+y="77" 
+dx="0,0,0,0,0,0" 
+class="s2_21"
+>Lesson</text>
+
+<text 
+x="194" 
+y="77" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s2_21"
+>Learning Objectives</text>
+
+<text 
+x="365" 
+y="77" 
+dx="0,0,-0.1,0,0,0,0" 
+class="s2_21"
+>Grammar</text>
+
+<text 
+x="534" 
+y="77" 
+dx="0,-1.2,0,-0.2,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s2_21"
+>Words &amp; Phrases</text>
+
+<text 
+x="704" 
+y="77" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.3,0,-0.1,0,0" 
+class="s2_21"
+>Cultural Literacy</text>
+
+<text 
+x="72" 
+y="109" 
+dx="0,0,0" 
+class="s3_21"
+>19 </text>
+
+<text 
+x="72" 
+y="139" 
+dx="0,0,0" 
+class="s4_21"
+>面试/</text>
+
+<text 
+x="72" 
+y="170" 
+dx="0,0" 
+class="s5_21"
+>面試</text>
+
+<text 
+x="72" 
+y="194" 
+dx="0,0,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s3_21"
+>Job Interview</text>
+
+<text 
+x="194" 
+y="109" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="201" 
+y="109" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>Explain why China </text>
+
+<text 
+x="201" 
+y="128" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_21"
+>has been able to </text>
+
+<text 
+x="201" 
+y="146" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>attract talent </text>
+
+<text 
+x="201" 
+y="164" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>and corporations </text>
+
+<text 
+x="201" 
+y="183" 
+dx="0,0,-0.2,0,0,0,-0.3,-0.4,0,0,0,0,0" 
+class="s7_21"
+>from overseas</text>
+
+<text 
+x="194" 
+y="208" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="201" 
+y="208" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0" 
+class="s7_21"
+>Describe overseas </text>
+
+<text 
+x="201" 
+y="226" 
+dx="0,-0.2,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>returnees and their </text>
+
+<text 
+x="201" 
+y="245" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_21"
+>nickname</text>
+
+<text 
+x="194" 
+y="270" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="201" 
+y="270" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s7_21"
+>Recount a nerve-</text>
+
+<text 
+x="201" 
+y="288" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s7_21"
+>racking interview</text>
+
+<text 
+x="194" 
+y="313" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="201" 
+y="313" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>Handle typical job </text>
+
+<text 
+x="201" 
+y="332" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>interview questions</text>
+
+<text 
+x="365" 
+y="109" 
+dx="0,0,0" 
+class="s7_21"
+>1. </text>
+
+<text 
+x="379" 
+y="109" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_21"
+>The structure </text>
+
+<text 
+x="379" 
+y="133" 
+dx="0" 
+class="s4_21"
+>越</text>
+
+<text 
+x="405" 
+y="133" 
+dx="0,0" 
+class="s7_21"
+>X </text>
+
+<text 
+x="418" 
+y="133" 
+dx="0" 
+class="s4_21"
+>越</text>
+
+<text 
+x="444" 
+y="133" 
+dx="0" 
+class="s7_21"
+>Y</text>
+
+<text 
+x="365" 
+y="161" 
+dx="0,0,0" 
+class="s7_21"
+>2. </text>
+
+<text 
+x="379" 
+y="161" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>The conjunction </text>
+
+<text 
+x="379" 
+y="185" 
+dx="0,0" 
+class="s4_21"
+>既然</text>
+
+<text 
+x="365" 
+y="216" 
+dx="0,0" 
+class="s7_21"
+>3.</text>
+
+<text 
+x="379" 
+y="216" 
+dx="0,-0.9,0,0,0" 
+class="s7_21"
+>Verb </text>
+
+<text 
+x="414" 
+y="216" 
+dx="0" 
+class="s4_21"
+>着</text>
+
+<text 
+x="440" 
+y="216" 
+dx="0,-0.4,0,0,0" 
+class="s7_21"
+>verb </text>
+
+<text 
+x="379" 
+y="239" 
+dx="0,0" 
+class="s4_21"
+>着…</text>
+
+<text 
+x="425" 
+y="239" 
+dx="0,0,-0.9,0,0,0" 
+class="s7_21"
+>/Verb </text>
+
+<text 
+x="465" 
+y="239" 
+dx="0" 
+class="s5_21"
+>著</text>
+
+<text 
+x="379" 
+y="263" 
+dx="0,-0.4,0,0,0" 
+class="s7_21"
+>verb </text>
+
+<text 
+x="412" 
+y="263" 
+dx="0,0" 
+class="s5_21"
+>著…</text>
+
+<text 
+x="534" 
+y="109" 
+dx="0,0,0" 
+class="s7_21"
+>A. </text>
+
+<text 
+x="550" 
+y="109" 
+dx="0,0" 
+class="s4_21"
+>叫做</text>
+
+<text 
+x="599" 
+y="109" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>(to be called, </text>
+
+<text 
+x="550" 
+y="126" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>to be known as)</text>
+
+<text 
+x="534" 
+y="156" 
+dx="0,0,0" 
+class="s7_21"
+>B. </text>
+
+<text 
+x="550" 
+y="156" 
+dx="0,0" 
+class="s4_21"
+>好在</text>
+
+<text 
+x="599" 
+y="156" 
+dx="0,0,-0.3,0,0,0,0,0,0,-0.2,0,0,-1,0" 
+class="s7_21"
+>(fortunately, </text>
+
+<text 
+x="550" 
+y="173" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_21"
+>luckily)</text>
+
+<text 
+x="534" 
+y="204" 
+dx="0,0,0" 
+class="s7_21"
+>C. </text>
+
+<text 
+x="550" 
+y="204" 
+dx="0,0" 
+class="s4_21"
+>善于</text>
+
+<text 
+x="596" 
+y="204" 
+dx="0" 
+class="s7_21"
+>/</text>
+
+<text 
+x="601" 
+y="204" 
+dx="0,0" 
+class="s5_21"
+>善於</text>
+
+<text 
+x="650" 
+y="204" 
+dx="0,0,-0.2,0" 
+class="s7_21"
+>(to </text>
+
+<text 
+x="550" 
+y="220" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s7_21"
+>be good at, to be </text>
+
+<text 
+x="550" 
+y="237" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>adept in)</text>
+
+<text 
+x="534" 
+y="268" 
+dx="0,-0.9,0" 
+class="s7_21"
+>D. </text>
+
+<text 
+x="550" 
+y="268" 
+dx="0,0" 
+class="s4_21"
+>往往</text>
+
+<text 
+x="599" 
+y="268" 
+dx="0,0,0,0,-0.2,0,0,-0.2,0,-0.2,0,0" 
+class="s7_21"
+>(more often </text>
+
+<text 
+x="550" 
+y="291" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s7_21"
+>than not) vs. </text>
+
+<text 
+x="636" 
+y="291" 
+dx="0,0" 
+class="s4_21"
+>常常</text>
+
+<text 
+x="550" 
+y="308" 
+dx="0,0,-0.2,0,-0.2,0,0" 
+class="s7_21"
+>(often)</text>
+
+<text 
+x="704" 
+y="109" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="711" 
+y="109" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>Multinational </text>
+
+<text 
+x="711" 
+y="128" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>companies</text>
+
+<text 
+x="704" 
+y="153" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="711" 
+y="153" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s7_21"
+>Repatriated </text>
+
+<text 
+x="711" 
+y="171" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_21"
+>students</text>
+
+<text 
+x="704" 
+y="197" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="711" 
+y="197" 
+dx="0,0,0,-0.2,0,0,0,0,0,0" 
+class="s7_21"
+>Interviews</text>
+
+<text 
+x="72" 
+y="363" 
+dx="0,0,0" 
+class="s3_21"
+>20 </text>
+
+<text 
+x="72" 
+y="394" 
+dx="0,0,0,0" 
+class="s4_21"
+>世界变小</text>
+
+<text 
+x="72" 
+y="418" 
+dx="0,0" 
+class="s4_21"
+>了/</text>
+
+<text 
+x="72" 
+y="441" 
+dx="0,0,0,0" 
+class="s5_21"
+>世界變小</text>
+
+<text 
+x="72" 
+y="465" 
+dx="0" 
+class="s5_21"
+>了</text>
+
+<text 
+x="72" 
+y="489" 
+dx="0,0,0,0,0,-1.2,0,0,0,0" 
+class="s3_21"
+>The World </text>
+
+<text 
+x="72" 
+y="505" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s3_21"
+>Is Getting </text>
+
+<text 
+x="72" 
+y="522" 
+dx="0,0,0,0,0,0,0" 
+class="s3_21"
+>Smaller</text>
+
+<text 
+x="194" 
+y="364" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="201" 
+y="364" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>Explain the purpose </text>
+
+<text 
+x="201" 
+y="382" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>of a gathering</text>
+
+<text 
+x="194" 
+y="408" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="201" 
+y="408" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>Request and </text>
+
+<text 
+x="201" 
+y="426" 
+dx="0,-0.2,0,-0.3,0,0,0,0,0,0" 
+class="s7_21"
+>offer help</text>
+
+<text 
+x="194" 
+y="451" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="201" 
+y="451" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_21"
+>Discuss adjusting to </text>
+
+<text 
+x="201" 
+y="470" 
+dx="0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>life in a new country</text>
+
+<text 
+x="194" 
+y="495" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="201" 
+y="495" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>Describe how </text>
+
+<text 
+x="201" 
+y="513" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>the world is </text>
+
+<text 
+x="201" 
+y="531" 
+dx="0,-0.1,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>getting smaller</text>
+
+<text 
+x="365" 
+y="364" 
+dx="0,0,0" 
+class="s7_21"
+>1. </text>
+
+<text 
+x="379" 
+y="364" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0" 
+class="s7_21"
+>Summary of word </text>
+
+<text 
+x="379" 
+y="381" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>order in Chinese</text>
+
+<text 
+x="365" 
+y="411" 
+dx="0,0,0" 
+class="s7_21"
+>2. </text>
+
+<text 
+x="379" 
+y="411" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s7_21"
+>Review of the </text>
+
+<text 
+x="475" 
+y="412" 
+dx="0" 
+class="s4_21"
+>把</text>
+
+<text 
+x="379" 
+y="428" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>construction (II)</text>
+
+<text 
+x="534" 
+y="364" 
+dx="0,0,0" 
+class="s7_21"
+>A. </text>
+
+<text 
+x="550" 
+y="364" 
+dx="0,0" 
+class="s4_21"
+>接受</text>
+
+<text 
+x="599" 
+y="364" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>(to accept, </text>
+
+<text 
+x="550" 
+y="380" 
+dx="0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0" 
+class="s7_21"
+>to take on, to </text>
+
+<text 
+x="550" 
+y="397" 
+dx="0,0,0,0,0,0,0,0,-0.4,0" 
+class="s7_21"
+>undertake)</text>
+
+<text 
+x="534" 
+y="428" 
+dx="0,0,0" 
+class="s7_21"
+>B. </text>
+
+<text 
+x="550" 
+y="428" 
+dx="0,0" 
+class="s4_21"
+>我说</text>
+
+<text 
+x="596" 
+y="428" 
+dx="0" 
+class="s7_21"
+>/</text>
+
+<text 
+x="601" 
+y="428" 
+dx="0,0" 
+class="s5_21"
+>我說</text>
+
+<text 
+x="550" 
+y="445" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>(I was wondering </text>
+
+<text 
+x="550" 
+y="461" 
+dx="0,0,0,0" 
+class="s7_21"
+>why)</text>
+
+<text 
+x="534" 
+y="492" 
+dx="0,0,0" 
+class="s7_21"
+>C. </text>
+
+<text 
+x="550" 
+y="492" 
+dx="0,0" 
+class="s4_21"
+>而已</text>
+
+<text 
+x="599" 
+y="492" 
+dx="0,0,0,0,0" 
+class="s7_21"
+>(and </text>
+
+<text 
+x="550" 
+y="509" 
+dx="0,0,0,0,0,0,-0.2,0" 
+class="s7_21"
+>no more)</text>
+
+<text 
+x="534" 
+y="539" 
+dx="0,-0.9,0" 
+class="s7_21"
+>D. </text>
+
+<text 
+x="550" 
+y="539" 
+dx="0,0,0" 
+class="s4_21"
+>在…下</text>
+
+<text 
+x="622" 
+y="539" 
+dx="0,0,0,0,0,0,0" 
+class="s7_21"
+>(under)</text>
+
+<text 
+x="534" 
+y="570" 
+dx="0,0,0" 
+class="s7_21"
+>E. </text>
+
+<text 
+x="550" 
+y="570" 
+dx="0,0,0,0" 
+class="s4_21"
+>你说呢？</text>
+
+<text 
+x="642" 
+y="570" 
+dx="0" 
+class="s7_21"
+>/</text>
+
+<text 
+x="647" 
+y="570" 
+dx="0" 
+class="s5_21"
+>你</text>
+
+<text 
+x="550" 
+y="593" 
+dx="0,0,0" 
+class="s5_21"
+>說呢？</text>
+
+<text 
+x="622" 
+y="593" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>(What do </text>
+
+<text 
+x="550" 
+y="610" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>you say?; What do </text>
+
+<text 
+x="550" 
+y="627" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>you think?)</text>
+
+<text 
+x="704" 
+y="364" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="711" 
+y="364" 
+dx="0,-1.1,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>Foreign students </text>
+
+<text 
+x="711" 
+y="382" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s7_21"
+>and teachers</text>
+
+<text 
+x="704" 
+y="408" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="711" 
+y="408" 
+dx="0,-1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>Welcomes and </text>
+
+<text 
+x="711" 
+y="426" 
+dx="0,-0.1,0,0,0,0,0,0" 
+class="s7_21"
+>goodbyes</text>
+
+<text 
+x="704" 
+y="451" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="711" 
+y="451" 
+dx="0,0,0,0,0,0,-0.2,0,0,0" 
+class="s7_21"
+>Long-term </text>
+
+<text 
+x="711" 
+y="470" 
+dx="0,-0.3,0,0,0,0" 
+class="s7_21"
+>expats</text>
+
+<text 
+x="704" 
+y="495" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="711" 
+y="495" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0" 
+class="s7_21"
+>Yiwu: China’s </text>
+
+<text 
+x="711" 
+y="513" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0" 
+class="s7_21"
+>laboratory of </text>
+
+<text 
+x="711" 
+y="531" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>multiculturalism</text>
+
+<text 
+x="72" 
+y="656" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_21"
+>Bringing It </text>
+
+<text 
+x="72" 
+y="672" 
+dx="0,-1.6,0,-0.4,-0.2,0,0,0,0" 
+class="s3_21"
+>Together </text>
+
+<text 
+x="72" 
+y="689" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_21"
+>(L16–L20)</text>
+
+<text 
+x="194" 
+y="656" 
+dx="0,0" 
+class="s6_21"
+>• </text>
+
+<text 
+x="201" 
+y="656" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s7_21"
+>Review of L16–L20</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_ce3;
+	src: url("fonts/MuseoSlab-700_ce3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cc_;
+	src: url("fonts/LibreFranklin-Regular_cc_.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cdg;
+	src: url("fonts/LibreFranklin-ExtraBold_cdg.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

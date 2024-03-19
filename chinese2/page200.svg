@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 221 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_221"><path d="M706.1,73.9l0,-14.5l90.9,0l0,14.5Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_221{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_221{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_221{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_221{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_221{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_221{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_31d;
+fill: #872B91;
+}
+.s2_221{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_31g;
+fill: #872B91;
+}
+.s3_221{
+font-size: 15.28px;
+font-family: ProximaNova-Light_31n;
+fill: #3F3F40;
+}
+.s4_221{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #872B91;
+}
+.s5_221{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s6_221{
+font-size: 16.81px;
+font-family: ProximaNova-Semibold_31m;
+fill: #808285;
+}
+.s7_221{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s8_221{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_31g;
+fill: #F58320;
+}
+.s9_221{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_31g;
+fill: #00AEEF;
+}
+.s10_221{
+font-size: 15.28px;
+font-family: ProximaNova-Semibold_31m;
+fill: #F58320;
+}
+.s11_221{
+font-size: 15.28px;
+font-family: ProximaNova-Regular_31p;
+fill: #3F3F40;
+}
+.s12_221{
+font-size: 15.28px;
+font-family: ProximaNova-Semibold_31m;
+fill: #00AEEF;
+}
+.s13_221{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_31d;
+fill: #872B91;
+}
+.s14_221{
+font-size: 10.31px;
+font-family: ProximaNova-Regular_31p;
+fill: #872B91;
+}
+.s15_221{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_31m;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,73.2l13,0" class="g1_221" />
+<path d="M105.3,661.8l13,0" class="g1_221" />
+<text 
+x="105" 
+y="69" 
+dx="0,0" 
+class="s1_221"
+>G </text>
+
+<text 
+x="371" 
+y="74" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_221"
+>Change in schedule</text>
+
+<text 
+x="143" 
+y="136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_221"
+>Below is Gao Wenzhong’s usual schedule contrasted with what he actually did yesterday. In pairs, </text>
+
+<text 
+x="143" 
+y="163" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_221"
+>form a question-and-answer by using </text>
+
+<text 
+x="391" 
+y="163" 
+dx="0" 
+class="s4_221"
+>就</text>
+
+<text 
+x="416" 
+y="163" 
+dx="0,0,0,0,0" 
+class="s5_221"
+>(jiù)</text>
+
+<text 
+x="444" 
+y="163" 
+dx="0,0,0" 
+class="s3_221"
+>or </text>
+
+<text 
+x="461" 
+y="163" 
+dx="0" 
+class="s4_221"
+>才</text>
+
+<text 
+x="487" 
+y="163" 
+dx="0,0,0,0,0" 
+class="s5_221"
+>(cái)</text>
+
+<text 
+x="517" 
+y="163" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,-0.1,0,0,0" 
+class="s3_221"
+>where appropriate, e.g.: </text>
+
+<text 
+x="143" 
+y="221" 
+dx="0,0.2" 
+class="s6_221"
+>Q:</text>
+
+<text 
+x="184" 
+y="221" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_221"
+>高文中平常几点开始学习中文？</text>
+
+<text 
+x="186" 
+y="261" 
+dx="0,0,0,0,0,-1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_221"
+>Gāo Wénzhōng píngcháng jǐdiǎn kāishǐ xuéxí Zhōngwén?</text>
+
+<text 
+x="143" 
+y="311" 
+dx="0,0.2" 
+class="s6_221"
+>A:</text>
+
+<text 
+x="184" 
+y="311" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_221"
+>他平常上午九点开始学习中文。 </text>
+
+<text 
+x="184" 
+y="362" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_221"
+>可是他昨天上午八点三刻就开始学习中文了。</text>
+
+<text 
+x="186" 
+y="402" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_221"
+>Tā píngcháng shàngwǔ jiǔ diǎn kāishǐ xuéxí Zhōngwén. </text>
+
+<text 
+x="186" 
+y="429" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_221"
+>Kěshì tā zuótiān shàngwǔ bā diǎn sān kè jiù kāishǐ xuéxí Zhōngwén le.</text>
+
+<text 
+x="131" 
+y="470" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_221"
+>His Usual Schedule </text>
+
+<text 
+x="372" 
+y="470" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.9,0,0,0,0,0,0,0,0" 
+class="s9_221"
+>What Happened Yesterday </text>
+
+<text 
+x="131" 
+y="492" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s10_221"
+>9:00 a.m. </text>
+
+<text 
+x="220" 
+y="492" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_221"
+>study Chinese </text>
+
+<text 
+x="372" 
+y="492" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s12_221"
+>8:30 a.m. </text>
+
+<text 
+x="465" 
+y="492" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_221"
+>studied Chinese</text>
+
+<text 
+x="131" 
+y="513" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_221"
+>10:00 a.m. </text>
+
+<text 
+x="220" 
+y="513" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_221"
+>listen to the audio </text>
+
+<text 
+x="372" 
+y="513" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s12_221"
+>9:30 a.m. </text>
+
+<text 
+x="465" 
+y="513" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_221"
+>listened to the audio</text>
+
+<text 
+x="131" 
+y="535" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_221"
+>10:45 a.m. </text>
+
+<text 
+x="220" 
+y="535" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_221"
+>go to school </text>
+
+<text 
+x="372" 
+y="535" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_221"
+>10:15 a.m. </text>
+
+<text 
+x="465" 
+y="535" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_221"
+>went to school</text>
+
+<text 
+x="131" 
+y="556" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s10_221"
+>12:00 p.m. </text>
+
+<text 
+x="220" 
+y="556" 
+dx="0,0,0,0,0,0,0,0" 
+class="s11_221"
+>go home </text>
+
+<text 
+x="372" 
+y="556" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s12_221"
+>12:30 p.m. </text>
+
+<text 
+x="465" 
+y="556" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_221"
+>returned home</text>
+
+<text 
+x="131" 
+y="577" 
+dx="0,0,0,0,0,0,-0.1,0,0,0" 
+class="s10_221"
+>1:00 p.m. </text>
+
+<text 
+x="220" 
+y="577" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_221"
+>have lunch </text>
+
+<text 
+x="372" 
+y="577" 
+dx="0,0,0,0,0,0,-0.1,0,0,0" 
+class="s12_221"
+>2:00 p.m. </text>
+
+<text 
+x="465" 
+y="577" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s11_221"
+>had lunch</text>
+
+<text 
+x="105" 
+y="658" 
+dx="0,0" 
+class="s1_221"
+>H </text>
+
+<text 
+x="399" 
+y="662" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_221"
+>Learning curve</text>
+
+<text 
+x="143" 
+y="724" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_221"
+>Describe your reasons for not performing as well as expected when learning a foreign language </text>
+
+<text 
+x="143" 
+y="752" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_221"
+>by using </text>
+
+<text 
+x="203" 
+y="752" 
+dx="0" 
+class="s4_221"
+>得</text>
+
+<text 
+x="228" 
+y="752" 
+dx="0,0,0,0" 
+class="s5_221"
+>(de)</text>
+
+<text 
+x="254" 
+y="752" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,-0.1,0,0" 
+class="s3_221"
+>where appropriate, e.g.:</text>
+
+<text 
+x="143" 
+y="797" 
+dx="0,0,0,11.8,0,19.5,0,14.9" 
+class="s7_221"
+>生词 多 学 慢</text>
+
+<text 
+x="143" 
+y="834" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_221"
+>shēngcí </text>
+
+<text 
+x="227" 
+y="834" 
+dx="0,0,0,0" 
+class="s5_221"
+>duō </text>
+
+<text 
+x="287" 
+y="834" 
+dx="0,0,0,0" 
+class="s5_221"
+>xué </text>
+
+<text 
+x="342" 
+y="834" 
+dx="0,0,0" 
+class="s5_221"
+>màn</text>
+
+<text 
+x="143" 
+y="886" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_221"
+>生词太多，我（学生词）学得很慢。</text>
+
+<text 
+x="143" 
+y="922" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_221"
+>Shēngcí tài duō, wǒ (xué shēngcí) xué de hěn màn.</text>
+
+<text 
+x="154" 
+y="988" 
+dx="0,0.2" 
+class="s13_221"
+>1 </text>
+
+<text 
+x="183" 
+y="988" 
+dx="0,0,0" 
+class="s7_221"
+>功课 </text>
+
+<text 
+x="287" 
+y="988" 
+dx="0,0,2.7,0" 
+class="s7_221"
+>多 做 </text>
+
+<text 
+x="447" 
+y="988" 
+dx="0" 
+class="s7_221"
+>慢</text>
+
+<text 
+x="183" 
+y="1025" 
+dx="0,0,0,0,0,0,0" 
+class="s5_221"
+>gōngkè </text>
+
+<text 
+x="287" 
+y="1025" 
+dx="0,0,0,0" 
+class="s5_221"
+>duō </text>
+
+<text 
+x="330" 
+y="1025" 
+dx="0,0,0,0" 
+class="s5_221"
+>zuò </text>
+
+<text 
+x="447" 
+y="1025" 
+dx="0,0,0" 
+class="s5_221"
+>màn</text>
+
+<text 
+x="154" 
+y="1091" 
+dx="0,0.2" 
+class="s13_221"
+>2 </text>
+
+<text 
+x="183" 
+y="1091" 
+dx="0,0,0" 
+class="s7_221"
+>语法 </text>
+
+<text 
+x="287" 
+y="1091" 
+dx="0,0,2.7,0,0" 
+class="s7_221"
+>难 复习 </text>
+
+<text 
+x="447" 
+y="1091" 
+dx="0,0" 
+class="s7_221"
+>不好</text>
+
+<text 
+x="183" 
+y="1127" 
+dx="0,0,0,0,0" 
+class="s5_221"
+>yǔfǎ </text>
+
+<text 
+x="287" 
+y="1127" 
+dx="0,0,0,0" 
+class="s5_221"
+>nán </text>
+
+<text 
+x="330" 
+y="1127" 
+dx="0,0,0,0,0" 
+class="s5_221"
+>fùxí </text>
+
+<text 
+x="447" 
+y="1127" 
+dx="0,0,0,0,0,0" 
+class="s5_221"
+>bù hǎo</text>
+
+<path d="M132.9,39l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g2_221" />
+<path d="M134.9,91.2l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_221" />
+<text 
+x="711" 
+y="70" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s14_221"
+>INTERPERSONAL</text>
+
+<g clip-path="url(#c0_221)">
+<path d="M706.1,73.9l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g4_221" />
+</g>
+<path d="M132.9,627.6l0,53.5l0,0.8l0.7,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.7,0l0,0.7Z" class="g2_221" />
+<path d="M134.9,679.8l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_221" />
+<text 
+x="706" 
+y="659" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,-0.6,-0.6,0.1,0.1,0.1,0.1,0.1" 
+class="s14_221"
+>PRESENTATIONAL</text>
+
+<path d="M704.3,663l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g4_221" />
+<path d="M-31.2,1209.2l67.1,0l0,-1222.1l-67.1,0l0,1222.1Z" class="g5_221" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3,0.3" 
+class="s15_221"
+>200 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1141)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_221"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1020)"
+dx="0,0.3" 
+class="s15_221"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1007)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s15_221"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_31d;
+	src: url("fonts/ProximaNova-Extrabld_31d.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_31p;
+	src: url("fonts/ProximaNova-Regular_31p.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_31m;
+	src: url("fonts/ProximaNova-Semibold_31m.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_31n;
+	src: url("fonts/ProximaNova-Light_31n.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_31g;
+	src: url("fonts/ProximaNova-Bold_31g.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

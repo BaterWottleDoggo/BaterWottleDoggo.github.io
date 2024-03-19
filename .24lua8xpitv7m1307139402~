@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 430 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_430{
+fill: #DC262E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_430{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_430{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_430{
+fill: #FFFFFF;
+}
+.g5_430{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_430{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_430{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dhv;
+fill: #231F20;
+}
+.s2_430{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di-;
+fill: #FFFFFF;
+}
+.s3_430{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #FFFFFF;
+}
+.s4_430{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_diz;
+fill: #909295;
+}
+.s5_430{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dib;
+fill: #3F3F40;
+}
+.s6_430{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #A8A9AD;
+}
+.s7_430{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dim;
+fill: #3F3F40;
+}
+.s8_430{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g1_430" />
+<text 
+x="871" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_430"
+>407 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 736)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_430"
+>Lesson 20 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 828)"
+dx="0,1.2" 
+class="s2_430"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 845)"
+dx="0,1.2,1.2,1.2,1.2,0.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_430"
+>The World Is Getting Smaller </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1080)"
+dx="0,1.2" 
+class="s2_430"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1097)"
+dx="0,-0.3,0.9,0.9" 
+class="s2_430"
+>Text</text>
+
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g2_430" />
+<text 
+x="871" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_430"
+>407 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 869)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,-0.3,0.9,0.9,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s3_430"
+>Appendix: Lesson Texts in English</text>
+
+<path d="M317.9,78.6l0,999.4" class="g3_430" />
+<text 
+x="144" 
+y="81" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_430"
+>Lesson 14</text>
+
+<text 
+x="398" 
+y="72" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>After Lisha arrived in Beijing, she didn’t stay in the international </text>
+
+<text 
+x="398" 
+y="92" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>students’ dorm. To learn more about the lives of Chinese people, she </text>
+
+<text 
+x="398" 
+y="112" 
+dx="0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_430"
+>moved in with a Chinese family. The landlord and his wife are both </text>
+
+<text 
+x="398" 
+y="132" 
+dx="0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>retired. Their daughter Li Wen works at a museum and lives with her </text>
+
+<text 
+x="398" 
+y="152" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>parents. Li Wen would very much like to go to America to study, so she </text>
+
+<text 
+x="398" 
+y="172" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0" 
+class="s5_430"
+>asked Lisha to be her English tutor. This way Lisha won’t have to pay </text>
+
+<text 
+x="398" 
+y="191" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,-1,0,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.9,0" 
+class="s5_430"
+>rent. Because Lisha speaks Chinese with Li Wen’s parents every day, </text>
+
+<text 
+x="398" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,-0.4,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.9" 
+class="s5_430"
+>her Chinese has improved very quickly.</text>
+
+<text 
+x="398" 
+y="231" 
+dx="0,-0.9,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0" 
+class="s5_430"
+>Every morning Lisha goes out for a walk. In the residential area where </text>
+
+<text 
+x="398" 
+y="251" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>she lives, on the street corners and in the parks you can see many </text>
+
+<text 
+x="398" 
+y="271" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>people, especially older people, exercising. Some of them dance in </text>
+
+<text 
+x="398" 
+y="291" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,0,-0.2,0,0,0,0" 
+class="s5_430"
+>public squares, and some practice tai chi. These people who exercise </text>
+
+<text 
+x="398" 
+y="311" 
+dx="0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>every morning have become a special part of the Beijing “landscape.”</text>
+
+<text 
+x="398" 
+y="330" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_430"
+>This morning Lisha is about to go out when Li Wen comes out from </text>
+
+<text 
+x="398" 
+y="350" 
+dx="0,0,0,0,0,-0.2,0,0,0" 
+class="s5_430"
+>her room.</text>
+
+<text 
+x="398" 
+y="385" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_430"
+>Li Wen:</text>
+
+<text 
+x="495" 
+y="385" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>Lisha, today is Saturday. How come you are up so early?</text>
+
+<text 
+x="398" 
+y="405" 
+dx="0,0,0,0,0,0" 
+class="s6_430"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="405" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>I wanted to learn tai chi with Uncle and Auntie, but </text>
+
+<text 
+x="495" 
+y="425" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9" 
+class="s5_430"
+>didn’t expect them to go out so early.</text>
+
+<text 
+x="398" 
+y="445" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_430"
+>Li Wen:</text>
+
+<text 
+x="495" 
+y="445" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_430"
+>I thought you only liked to do yoga. How come you are </text>
+
+<text 
+x="495" 
+y="465" 
+dx="0,0,0,-0.2,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_430"
+>interested in tai chi, too?</text>
+
+<text 
+x="398" 
+y="485" 
+dx="0,0,0,0,0,0" 
+class="s6_430"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="485" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.1,0,0,0,0,-0.3,0,0" 
+class="s5_430"
+>Tai chi and yoga are alike. Not only are they good for </text>
+
+<text 
+x="495" 
+y="505" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>you, the movements are also very beautiful.</text>
+
+<text 
+x="398" 
+y="524" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_430"
+>Li Wen:</text>
+
+<text 
+x="495" 
+y="524" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_430"
+>Lisha, look, under the big trees my mom and dad are </text>
+
+<text 
+x="495" 
+y="544" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s5_430"
+>practicing tai chi with those retirees. Go look for them.</text>
+
+<text 
+x="398" 
+y="564" 
+dx="0,0,0,0,0,0" 
+class="s6_430"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="564" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,-0.4,0,0,0" 
+class="s5_430"
+>OK. I’ll leave in a moment. They practice so well. Every </text>
+
+<text 
+x="495" 
+y="584" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,0,-0.2,0,0,0,0,0,0" 
+class="s5_430"
+>morning I go out for a walk and see people exercising </text>
+
+<text 
+x="495" 
+y="604" 
+dx="0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,-0.4,0,-0.2,0,0,0,0,0,0" 
+class="s5_430"
+>everywhere. Chinese people really take exercising </text>
+
+<text 
+x="495" 
+y="624" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>very seriously!</text>
+
+<text 
+x="398" 
+y="644" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_430"
+>Li Wen:</text>
+
+<text 
+x="495" 
+y="644" 
+dx="0,0,0,0,0.4,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_430"
+>That’s right. Nowadays people pay more and more </text>
+
+<text 
+x="495" 
+y="663" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>attention to health. Lisha, how do Americans usually </text>
+
+<text 
+x="495" 
+y="683" 
+dx="0,-0.2,-0.4,0,-0.2,0,0,0,0" 
+class="s5_430"
+>exercise?</text>
+
+<text 
+x="398" 
+y="703" 
+dx="0,0,0,0,0,0" 
+class="s6_430"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="703" 
+dx="0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>Generally, they jog, swim, play ball, and so on. Some </text>
+
+<text 
+x="495" 
+y="723" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>people also go to the gym. I normally do yoga, and </text>
+
+<text 
+x="495" 
+y="743" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.4" 
+class="s5_430"
+>sometimes jog, too.</text>
+
+<text 
+x="398" 
+y="763" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_430"
+>Li Wen:</text>
+
+<text 
+x="495" 
+y="763" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.9" 
+class="s5_430"
+>No wonder you are so healthy.</text>
+
+<text 
+x="398" 
+y="783" 
+dx="0,0,0,0,0,0" 
+class="s6_430"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="783" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>I think if you want to be healthy, besides getting plenty </text>
+
+<text 
+x="495" 
+y="802" 
+dx="0,-0.2,0,0,-0.2,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>of exercise, you also have to pay attention to your diet.</text>
+
+<text 
+x="398" 
+y="822" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_430"
+>Li Wen:</text>
+
+<text 
+x="495" 
+y="822" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>You don’t have one ounce of fat on you. Do you still </text>
+
+<text 
+x="495" 
+y="842" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>need to pay attention to your diet?</text>
+
+<text 
+x="398" 
+y="862" 
+dx="0,0,0,0,0,0" 
+class="s6_430"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="862" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>Paying attention to your diet is not the same as losing </text>
+
+<text 
+x="495" 
+y="882" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.2,0" 
+class="s5_430"
+>weight. I think as long as you are healthy then you’re </text>
+
+<text 
+x="495" 
+y="902" 
+dx="0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_430"
+>ﬁne. Weight isn’t so important.</text>
+
+<text 
+x="398" 
+y="921" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_430"
+>Li Wen:</text>
+
+<text 
+x="495" 
+y="921" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>I’m busy with work and don’t have time to eat well. </text>
+
+<text 
+x="495" 
+y="941" 
+dx="0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_430"
+>I often just eat whatever I can ﬁnd. How do you pay </text>
+
+<text 
+x="495" 
+y="961" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>attention to your diet?</text>
+
+<text 
+x="398" 
+y="981" 
+dx="0,0,0,0,0,0" 
+class="s6_430"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="981" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.4,0,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>I drink lots of water and eat lots of vegetables and </text>
+
+<text 
+x="495" 
+y="1001" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.4,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s5_430"
+>fruit. Besides, even if you are very busy, you must have </text>
+
+<text 
+x="495" 
+y="1021" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>breakfast, and it must be nutritious. Have a big lunch </text>
+
+<text 
+x="495" 
+y="1041" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s5_430"
+>because you have to study and work in the afternoon. </text>
+
+<text 
+x="495" 
+y="1060" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_430"
+>Have a small dinner. Otherwise you’ll put on more and </text>
+
+<text 
+x="495" 
+y="1080" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,-1,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_430"
+>more weight, because it’s too close to bedtime.</text>
+
+<path d="M281.6,57.7c0,0,-15.3,0,-15.3,15.2l0,3.1c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g4_430" />
+<text 
+x="301" 
+y="81" 
+dx="0,-1.8,-0.6,-0.7" 
+class="s8_430"
+>Text</text>
+
+<path d="M281.6,56.9c-0.2,0,-16.1,0.2,-16.1,16l0,3.1c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.1,0Z" class="g5_430" />
+<path d="M281.6,58.9c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.1,0Z" class="g6_430" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di3;
+	src: url("fonts/LibreFranklin-SemiBold_di3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dim;
+	src: url("fonts/LibreFranklin-Light_dim.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dib;
+	src: url("fonts/LibreFranklin-Light_dib.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dhv;
+	src: url("fonts/LibreFranklin-Medium_dhv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di-;
+	src: url("fonts/LibreFranklin-SemiBold_di-.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_diz;
+	src: url("fonts/LibreFranklin-ExtraBold_diz.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

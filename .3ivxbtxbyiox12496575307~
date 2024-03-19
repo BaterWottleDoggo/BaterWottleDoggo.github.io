@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 79 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_79"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_79{
+fill: #FFFFFF;
+}
+.g2_79{
+fill: none;
+stroke: #482D8F;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_79{
+fill: none;
+stroke: #482D8F;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_79{
+fill: #F0F1F2;
+}
+.g5_79{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_79{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_79{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_79{
+fill: #FED205;
+}
+.g9_79{
+fill: #927300;
+}
+.g10_79{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.9815279;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g11_79{
+fill: #482D8F;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_79{
+font-size: 35.14px;
+font-family: ProximaNova-Extrabld_2vh;
+fill: #482D8F;
+}
+.s2_79{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_2vg;
+fill: #482D8F;
+}
+.s3_79{
+font-size: 15.28px;
+font-family: ProximaNova-Semibold_2vu;
+fill: #77787B;
+}
+.s4_79{
+font-size: 32.85px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #482D8F;
+}
+.s5_79{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #482D8F;
+}
+.s6_79{
+font-size: 15.28px;
+font-family: ProximaNova-Regular_2vw;
+fill: #3F3F40;
+}
+.s7_79{
+font-size: 14.51px;
+font-family: ProximaNova-Light_2vt;
+fill: #3F3F40;
+}
+.s8_79{
+font-size: 14.51px;
+font-family: ProximaNova-MediumIt_2vx;
+fill: #FFFFFF;
+}
+.s9_79{
+font-size: 21.79px;
+font-family: MuseoSlab-900_2vi;
+fill: #231F20;
+}
+.s10_79{
+font-size: 38.71px;
+font-family: MuseoSlab-700_2vy;
+fill: #231F20;
+}
+.s11_79{
+font-size: 10.51px;
+font-family: MuseoSlab-900_2vi;
+fill: #231F20;
+}
+.s12_79{
+font-size: 20.67px;
+font-family: MuseoSlab-900_2vi;
+fill: #231F20;
+}
+.s13_79{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2vu;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M551.6,407.8l369.7,0L921.3,0L551.6,0l0,407.8Z" class="g1_79" />
+<path d="M0,74.7l225.5,0" class="g2_79" />
+<path d="M0,77.2l225.5,0" class="g3_79" />
+<text 
+x="41" 
+y="64" 
+dx="0,-1.8,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s1_79"
+>Vocabulary</text>
+
+<path d="M123.8,129.2l42.9,0l0,45.8l-42.9,0l0,-45.8Zm42.9,0l121,0l0,45.8l-121,0l0,-45.8Zm121,0l97.9,0l0,45.8l-97.9,0l0,-45.8Zm97.9,0l69,0l0,45.8l-69,0l0,-45.8Zm69,0l384.3,0l0,45.8l-384.3,0l0,-45.8ZM123.8,220.9l42.9,0l0,45.8l-42.9,0l0,-45.8Zm42.9,0l121,0l0,45.8l-121,0l0,-45.8Zm121,0l97.9,0l0,45.8l-97.9,0l0,-45.8Zm97.9,0l69,0l0,45.8l-69,0l0,-45.8Zm69,0l384.3,0l0,45.8l-384.3,0l0,-45.8ZM123.8,312.5l42.9,0l0,45.9l-42.9,0l0,-45.9Zm42.9,0l121,0l0,45.9l-121,0l0,-45.9Zm121,0l97.9,0l0,45.9l-97.9,0l0,-45.9Zm97.9,0l69,0l0,45.9l-69,0l0,-45.9Zm69,0l384.3,0l0,45.9l-384.3,0l0,-45.9ZM123.8,404.2l42.9,0l0,45.8l-42.9,0l0,-45.8Zm42.9,0l121,0l0,45.8l-121,0l0,-45.8Zm121,0l97.9,0l0,45.8l-97.9,0l0,-45.8Zm97.9,0l69,0l0,45.8l-69,0l0,-45.8Zm69,0l384.3,0l0,45.8l-384.3,0l0,-45.8ZM123.8,495.9l42.9,0l0,45.8l-42.9,0l0,-45.8Zm42.9,0l121,0l0,45.8l-121,0l0,-45.8Zm121,0l97.9,0l0,45.8l-97.9,0l0,-45.8Zm97.9,0l69,0l0,45.8l-69,0l0,-45.8Zm69,0l384.3,0l0,45.8l-384.3,0l0,-45.8Z" class="g4_79" />
+<path d="M123.8,175l42.9,0" class="g5_79" />
+<path d="M166.7,175l121,0" class="g5_79" />
+<path d="M287.7,175l97.9,0" class="g5_79" />
+<path d="M385.6,175l69,0" class="g5_79" />
+<path d="M454.6,175l384.3,0" class="g5_79" />
+<path d="M123.8,220.9l42.9,0" class="g5_79" />
+<path d="M166.7,220.9l121,0" class="g5_79" />
+<path d="M287.7,220.9l97.9,0" class="g5_79" />
+<path d="M385.6,220.9l69,0" class="g5_79" />
+<path d="M454.6,220.9l384.3,0" class="g5_79" />
+<path d="M123.8,266.7l42.9,0" class="g5_79" />
+<path d="M166.7,266.7l121,0" class="g5_79" />
+<path d="M287.7,266.7l97.9,0" class="g5_79" />
+<path d="M385.6,266.7l69,0" class="g5_79" />
+<path d="M454.6,266.7l384.3,0" class="g5_79" />
+<path d="M123.8,312.5l42.9,0" class="g5_79" />
+<path d="M166.7,312.5l121,0" class="g5_79" />
+<path d="M287.7,312.5l97.9,0" class="g5_79" />
+<path d="M385.6,312.5l69,0" class="g5_79" />
+<path d="M454.6,312.5l384.3,0" class="g5_79" />
+<path d="M123.8,358.4l42.9,0" class="g5_79" />
+<path d="M166.7,358.4l121,0" class="g5_79" />
+<path d="M287.7,358.4l97.9,0" class="g5_79" />
+<path d="M385.6,358.4l69,0" class="g5_79" />
+<path d="M454.6,358.4l384.3,0" class="g5_79" />
+<path d="M123.8,404.2l42.9,0" class="g5_79" />
+<path d="M166.7,404.2l121,0" class="g5_79" />
+<path d="M287.7,404.2l97.9,0" class="g5_79" />
+<path d="M385.6,404.2l69,0" class="g5_79" />
+<path d="M454.6,404.2l384.3,0" class="g5_79" />
+<path d="M123.8,450l42.9,0" class="g5_79" />
+<path d="M166.7,450l121,0" class="g5_79" />
+<path d="M287.7,450l97.9,0" class="g5_79" />
+<path d="M385.6,450l69,0" class="g5_79" />
+<path d="M454.6,450l384.3,0" class="g5_79" />
+<path d="M123.8,129.2l42.9,0" class="g6_79" />
+<path d="M166.7,129.2l121,0" class="g6_79" />
+<path d="M287.7,129.2l97.9,0" class="g6_79" />
+<path d="M385.6,129.2l69,0" class="g6_79" />
+<path d="M454.6,129.2l384.3,0" class="g6_79" />
+<path d="M123.8,495.9l42.9,0" class="g5_79" />
+<path d="M166.7,495.9l121,0" class="g5_79" />
+<path d="M287.7,495.9l97.9,0" class="g5_79" />
+<path d="M385.6,495.9l69,0" class="g5_79" />
+<path d="M454.6,495.9l384.3,0" class="g5_79" />
+<path d="M123.8,541.7l42.9,0" class="g7_79" />
+<path d="M166.7,541.7l121,0" class="g7_79" />
+<path d="M287.7,541.7l97.9,0" class="g7_79" />
+<path d="M385.6,541.7l69,0" class="g7_79" />
+<path d="M454.6,541.7l384.3,0" class="g7_79" />
+<text 
+x="133" 
+y="116" 
+dx="0,0.2,0.1" 
+class="s2_79"
+>No.</text>
+
+<text 
+x="180" 
+y="116" 
+dx="0,-0.5,0.2,0.2" 
+class="s2_79"
+>Word</text>
+
+<text 
+x="297" 
+y="116" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s2_79"
+>Pinyin</text>
+
+<text 
+x="395" 
+y="109" 
+dx="0,-0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s2_79"
+>Part of </text>
+
+<text 
+x="395" 
+y="123" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s2_79"
+>Speech</text>
+
+<text 
+x="464" 
+y="116" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_79"
+>Definition</text>
+
+<text 
+x="133" 
+y="158" 
+dx="0" 
+class="s3_79"
+>1</text>
+
+<text 
+x="180" 
+y="161" 
+dx="0" 
+class="s4_79"
+>家</text>
+
+<text 
+x="300" 
+y="158" 
+dx="0,0.2,0.2" 
+class="s5_79"
+>jiā</text>
+
+<text 
+x="395" 
+y="158" 
+dx="0" 
+class="s6_79"
+>n</text>
+
+<text 
+x="464" 
+y="157" 
+dx="0,0,0,0,0,0,-0.9,0,0,0,0,0" 
+class="s7_79"
+>family, home</text>
+
+<text 
+x="133" 
+y="203" 
+dx="0" 
+class="s3_79"
+>2</text>
+
+<text 
+x="180" 
+y="209" 
+dx="0" 
+class="s4_79"
+>几</text>
+
+<text 
+x="300" 
+y="203" 
+dx="0,0.8" 
+class="s5_79"
+>jǐ</text>
+
+<text 
+x="395" 
+y="203" 
+dx="0,0" 
+class="s6_79"
+>nu</text>
+
+<text 
+x="464" 
+y="203" 
+dx="0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s7_79"
+>how many, some, a few</text>
+
+<text 
+x="133" 
+y="249" 
+dx="0" 
+class="s3_79"
+>3</text>
+
+<text 
+x="180" 
+y="255" 
+dx="0" 
+class="s4_79"
+>口</text>
+
+<text 
+x="300" 
+y="249" 
+dx="0,0.2,0.2" 
+class="s5_79"
+>kǒu</text>
+
+<text 
+x="395" 
+y="249" 
+dx="0" 
+class="s6_79"
+>m</text>
+
+<text 
+x="464" 
+y="249" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_79"
+>(measure word for number of family members)</text>
+
+<text 
+x="133" 
+y="295" 
+dx="0" 
+class="s3_79"
+>4</text>
+
+<text 
+x="180" 
+y="301" 
+dx="0,0" 
+class="s4_79"
+>哥哥</text>
+
+<text 
+x="300" 
+y="295" 
+dx="0,0.2,0.2,0.2" 
+class="s5_79"
+>gēge</text>
+
+<text 
+x="395" 
+y="295" 
+dx="0" 
+class="s6_79"
+>n</text>
+
+<text 
+x="464" 
+y="295" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_79"
+>older brother</text>
+
+<text 
+x="133" 
+y="341" 
+dx="0" 
+class="s3_79"
+>5</text>
+
+<text 
+x="180" 
+y="347" 
+dx="0" 
+class="s4_79"
+>两</text>
+
+<text 
+x="300" 
+y="341" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s5_79"
+>liǎng</text>
+
+<text 
+x="395" 
+y="341" 
+dx="0,0" 
+class="s6_79"
+>nu</text>
+
+<text 
+x="464" 
+y="341" 
+dx="0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_79"
+>two, a couple of [See Grammar 6.]</text>
+
+<text 
+x="133" 
+y="387" 
+dx="0" 
+class="s3_79"
+>6</text>
+
+<text 
+x="180" 
+y="393" 
+dx="0,0" 
+class="s4_79"
+>妹妹</text>
+
+<text 
+x="300" 
+y="387" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s5_79"
+>mèimei</text>
+
+<text 
+x="395" 
+y="387" 
+dx="0" 
+class="s6_79"
+>n</text>
+
+<text 
+x="464" 
+y="387" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_79"
+>younger sister</text>
+
+<text 
+x="133" 
+y="433" 
+dx="0" 
+class="s3_79"
+>7</text>
+
+<text 
+x="180" 
+y="438" 
+dx="0" 
+class="s4_79"
+>和</text>
+
+<text 
+x="300" 
+y="433" 
+dx="0,0.2" 
+class="s5_79"
+>hé</text>
+
+<text 
+x="395" 
+y="433" 
+dx="0,0,0,0" 
+class="s6_79"
+>conj</text>
+
+<text 
+x="464" 
+y="432" 
+dx="0,0,0" 
+class="s7_79"
+>and</text>
+
+<text 
+x="133" 
+y="478" 
+dx="0" 
+class="s3_79"
+>8</text>
+
+<text 
+x="180" 
+y="484" 
+dx="0,0" 
+class="s4_79"
+>大姐</text>
+
+<text 
+x="300" 
+y="478" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s5_79"
+>dàjiě</text>
+
+<text 
+x="395" 
+y="478" 
+dx="0,0" 
+class="s6_79"
+>n </text>
+
+<text 
+x="464" 
+y="478" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_79"
+>eldest/oldest sister </text>
+
+<text 
+x="133" 
+y="524" 
+dx="0" 
+class="s3_79"
+>9</text>
+
+<text 
+x="180" 
+y="530" 
+dx="0,0" 
+class="s4_79"
+>二姐</text>
+
+<text 
+x="300" 
+y="524" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s5_79"
+>èrjiě</text>
+
+<text 
+x="395" 
+y="524" 
+dx="0" 
+class="s6_79"
+>n</text>
+
+<text 
+x="464" 
+y="524" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_79"
+>second oldest sister</text>
+
+<g clip-path="url(#c0_79)">
+<path d="M110.6,3084.6c-712,-49.8,-1251.8,-627.2,-1205.4,-1289.8C-1048.5,1132.3,-433.7,635.5,278.4,685.3c712.1,49.8,1251.8,627.3,1205.5,1289.8C1437.6,2637.7,822.7,3134.4,110.6,3084.6Z" class="g8_79" />
+</g>
+<image preserveAspectRatio="none" x="25" y="682" width="897" height="517" xlink:href="79/img/1.png" />
+<g clip-path="url(#c0_79)">
+<path d="M110.6,3084.6l-0.2,2.3c-356.5,-24.9,-670,-182,-888.6,-415.8c-218.5,-233.9,-342.1,-544.5,-318.9,-876.4c23.2,-332,188.8,-622.4,437.8,-823.6C-410.3,770,-78,658.1,278.5,683c356.7,25,670.2,182,888.7,415.9c218.6,233.8,342.2,544.5,319,876.4c-23.2,332,-188.9,622.4,-437.8,823.5c-249,201.2,-581.3,313.1,-938,288.1l0.2,-2.3l0.2,-2.2c355.4,24.8,686.6,-86.7,934.7,-287.2c248.1,-200.4,413,-489.6,436.1,-820.2c23.1,-330.6,-99.9,-640,-317.7,-873C946.1,869,633.7,712.5,278.2,687.6C-77.2,662.7,-408.3,774.3,-656.4,974.7c-248.1,200.4,-413,489.7,-436.2,820.3c-23.1,330.6,100,640,317.8,872.9c217.7,233,530.2,389.6,885.6,414.5l-0.2,2.2Z" class="g8_79" />
+</g>
+<image preserveAspectRatio="none" x="94" y="684" width="179" height="154" xlink:href="79/img/2.png" />
+<image preserveAspectRatio="none" x="94" y="837" width="180" height="155" xlink:href="79/img/3.png" />
+<image preserveAspectRatio="none" x="95" y="991" width="179" height="155" xlink:href="79/img/4.png" />
+<image preserveAspectRatio="none" x="95" y="1145" width="179" height="52" xlink:href="79/img/5.png" />
+<path d="M196.2,684.3c25.3,0.2,50.8,1.2,76.3,2.9c-18.9,-2.1,-47.4,-2.9,-76.3,-2.9m-91,1.9c-3.8,0.2,-7.1,0.4,-9.6,0.5c3.2,-0.2,6.4,-0.3,9.6,-0.5Z" class="g9_79" />
+<text 
+x="119" 
+y="855" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_79"
+>Chinese custom is </text>
+
+<text 
+x="119" 
+y="872" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_79"
+>to present business </text>
+
+<text 
+x="119" 
+y="889" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_79"
+>cards with both </text>
+
+<text 
+x="119" 
+y="906" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_79"
+>hands, ensuring </text>
+
+<text 
+x="119" 
+y="923" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_79"
+>the writing faces </text>
+
+<text 
+x="119" 
+y="940" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_79"
+>the recipient. What </text>
+
+<text 
+x="119" 
+y="956" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_79"
+>type of professional </text>
+
+<text 
+x="119" 
+y="973" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_79"
+>gave out this card?</text>
+
+<path d="M184,803.1c43.9,0,79.4,-35.5,79.4,-79.3C263.4,680,227.9,644.5,184,644.5c-43.8,0,-79.3,35.5,-79.3,79.3c0,43.8,35.5,79.3,79.3,79.3Z" class="g8_79" />
+<path d="M184,803.1c43.9,0,79.4,-35.5,79.4,-79.3C263.4,680,227.9,644.5,184,644.5c-43.8,0,-79.3,35.5,-79.3,79.3c0,43.8,35.5,79.3,79.3,79.3Z" class="g10_79" />
+<text 
+x="138" 
+y="705" 
+dx="0,0,0" 
+class="s9_79"
+>GET</text>
+
+<text 
+x="114" 
+y="730" 
+dx="0,-0.3,0,-0.2" 
+class="s10_79"
+>Real</text>
+
+<text 
+x="116" 
+y="743" 
+dx="0,0,0,0" 
+class="s11_79"
+>WITH</text>
+
+<text 
+x="151" 
+y="750" 
+dx="0,0,0,0,0,0,0" 
+class="s12_79"
+>CHINESE</text>
+
+<g clip-path="url(#c0_79)">
+<path d="M-18.6,1209.2l54.5,0l0,-1222.1l-54.5,0l0,1222.1Z" class="g11_79" />
+</g>
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3" 
+class="s13_79"
+>58 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1149)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_79"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1027)"
+dx="0,0.3" 
+class="s13_79"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1014)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s13_79"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2vu;
+	src: url("fonts/ProximaNova-Semibold_2vu.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-900_2vi;
+	src: url("fonts/MuseoSlab-900_2vi.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2vg;
+	src: url("fonts/ProximaNova-Bold_2vg.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-MediumIt_2vx;
+	src: url("fonts/ProximaNova-MediumIt_2vx.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_2vy;
+	src: url("fonts/MuseoSlab-700_2vy.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2vt;
+	src: url("fonts/ProximaNova-Light_2vt.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_2vw;
+	src: url("fonts/ProximaNova-Regular_2vw.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2vh;
+	src: url("fonts/ProximaNova-Extrabld_2vh.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

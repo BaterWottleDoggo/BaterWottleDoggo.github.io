@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 36 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_36{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_36{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_36{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_36{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_36{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3q9;
+fill: #3F3F40;
+}
+.s2_36{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_36{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3pt;
+fill: #3F3F40;
+}
+.s4_36{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_3pa;
+fill: #939598;
+}
+.s5_36{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s6_36{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #007D9F;
+}
+.s7_36{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s8_36{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #007D9F;
+}
+.s9_36{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3pt;
+fill: #007D9F;
+}
+.s10_36{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s11_36{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s12_36{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3qb;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,666.7l12.2,0" class="g1_36" />
+<text 
+x="157" 
+y="72" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s1_36"
+>In negative sentences, </text>
+
+<text 
+x="311" 
+y="73" 
+dx="0" 
+class="s2_36"
+>是</text>
+
+<text 
+x="338" 
+y="72" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s1_36"
+>cannot be omitted:</text>
+
+<text 
+x="169" 
+y="128" 
+dx="0,0" 
+class="s3_36"
+>D </text>
+
+<text 
+x="212" 
+y="130" 
+dx="0,0,0" 
+class="s4_36"
+>Q: </text>
+
+<text 
+x="238" 
+y="130" 
+dx="0" 
+class="s5_36"
+>你</text>
+
+<text 
+x="264" 
+y="130" 
+dx="0" 
+class="s6_36"
+>是</text>
+
+<text 
+x="290" 
+y="130" 
+dx="0,0,0,0" 
+class="s5_36"
+>在中国学</text>
+
+<text 
+x="394" 
+y="130" 
+dx="0" 
+class="s6_36"
+>的</text>
+
+<text 
+x="420" 
+y="130" 
+dx="0,0,0,0" 
+class="s5_36"
+>中文吗？</text>
+
+<text 
+x="239" 
+y="171" 
+dx="0" 
+class="s7_36"
+>你</text>
+
+<text 
+x="264" 
+y="171" 
+dx="0" 
+class="s8_36"
+>是</text>
+
+<text 
+x="290" 
+y="171" 
+dx="0,0,0,0" 
+class="s7_36"
+>在中國學</text>
+
+<text 
+x="394" 
+y="171" 
+dx="0" 
+class="s8_36"
+>的</text>
+
+<text 
+x="420" 
+y="171" 
+dx="0,0,0,0" 
+class="s7_36"
+>中文嗎？</text>
+
+<text 
+x="245" 
+y="204" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>Did you study Chinese in China?</text>
+
+<text 
+x="212" 
+y="252" 
+dx="0,0,0" 
+class="s4_36"
+>A: </text>
+
+<text 
+x="241" 
+y="252" 
+dx="0" 
+class="s5_36"
+>我</text>
+
+<text 
+x="267" 
+y="252" 
+dx="0,0" 
+class="s6_36"
+>不是</text>
+
+<text 
+x="319" 
+y="252" 
+dx="0,0,0,0" 
+class="s5_36"
+>在中国学</text>
+
+<text 
+x="423" 
+y="252" 
+dx="0" 
+class="s6_36"
+>的</text>
+
+<text 
+x="449" 
+y="252" 
+dx="0,0,0" 
+class="s5_36"
+>中文，</text>
+
+<text 
+x="527" 
+y="252" 
+dx="0" 
+class="s6_36"
+>是</text>
+
+<text 
+x="553" 
+y="252" 
+dx="0,0,0,0" 
+class="s5_36"
+>在美国学</text>
+
+<text 
+x="656" 
+y="252" 
+dx="0" 
+class="s6_36"
+>的</text>
+
+<text 
+x="682" 
+y="252" 
+dx="0" 
+class="s5_36"
+>。</text>
+
+<text 
+x="239" 
+y="292" 
+dx="0" 
+class="s7_36"
+>我</text>
+
+<text 
+x="265" 
+y="292" 
+dx="0,0" 
+class="s8_36"
+>不是</text>
+
+<text 
+x="317" 
+y="292" 
+dx="0,0,0,0" 
+class="s7_36"
+>在中國學</text>
+
+<text 
+x="421" 
+y="292" 
+dx="0" 
+class="s8_36"
+>的</text>
+
+<text 
+x="447" 
+y="292" 
+dx="0,0,0" 
+class="s7_36"
+>中文，</text>
+
+<text 
+x="525" 
+y="292" 
+dx="0" 
+class="s8_36"
+>是</text>
+
+<text 
+x="551" 
+y="292" 
+dx="0,0,0,0" 
+class="s7_36"
+>在美國學</text>
+
+<text 
+x="655" 
+y="292" 
+dx="0" 
+class="s8_36"
+>的</text>
+
+<text 
+x="681" 
+y="292" 
+dx="0" 
+class="s7_36"
+>。</text>
+
+<text 
+x="245" 
+y="326" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>I didn’t study Chinese in China. I studied it in the U.S.</text>
+
+<text 
+x="169" 
+y="385" 
+dx="0,0" 
+class="s3_36"
+>E </text>
+
+<text 
+x="212" 
+y="387" 
+dx="0,0,0" 
+class="s4_36"
+>Q: </text>
+
+<text 
+x="238" 
+y="387" 
+dx="0,0,0" 
+class="s6_36"
+>（是）</text>
+
+<text 
+x="316" 
+y="387" 
+dx="0,0,0,0,0,0" 
+class="s5_36"
+>谁跟你一起看</text>
+
+<text 
+x="472" 
+y="387" 
+dx="0" 
+class="s6_36"
+>的</text>
+
+<text 
+x="498" 
+y="387" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_36"
+>电影？是小张吗？</text>
+
+<text 
+x="239" 
+y="428" 
+dx="0,0,0" 
+class="s8_36"
+>（是）</text>
+
+<text 
+x="317" 
+y="428" 
+dx="0,0,0,0,0,0" 
+class="s7_36"
+>誰跟你一起看</text>
+
+<text 
+x="473" 
+y="428" 
+dx="0" 
+class="s8_36"
+>的</text>
+
+<text 
+x="499" 
+y="428" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_36"
+>电影？是小張嗎？</text>
+
+<text 
+x="245" 
+y="461" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>Who went to the movie with you? Was it Little Zhang?</text>
+
+<text 
+x="212" 
+y="508" 
+dx="0,0,0" 
+class="s4_36"
+>A: </text>
+
+<text 
+x="241" 
+y="508" 
+dx="0,0" 
+class="s6_36"
+>不是</text>
+
+<text 
+x="293" 
+y="508" 
+dx="0,0,0,0,0,0,0" 
+class="s5_36"
+>小张跟我一起看</text>
+
+<text 
+x="475" 
+y="508" 
+dx="0" 
+class="s6_36"
+>的</text>
+
+<text 
+x="501" 
+y="508" 
+dx="0" 
+class="s5_36"
+>，</text>
+
+<text 
+x="527" 
+y="508" 
+dx="0,0,0" 
+class="s6_36"
+>（是）</text>
+
+<text 
+x="605" 
+y="508" 
+dx="0,0,0,0,0,0,0" 
+class="s5_36"
+>小李跟我一起看</text>
+
+<text 
+x="786" 
+y="508" 
+dx="0" 
+class="s6_36"
+>的</text>
+
+<text 
+x="812" 
+y="508" 
+dx="0" 
+class="s5_36"
+>。</text>
+
+<text 
+x="239" 
+y="549" 
+dx="0,0" 
+class="s8_36"
+>不是</text>
+
+<text 
+x="291" 
+y="549" 
+dx="0,0,0,0,0,0,0" 
+class="s7_36"
+>小張跟我一起看</text>
+
+<text 
+x="473" 
+y="549" 
+dx="0" 
+class="s8_36"
+>的</text>
+
+<text 
+x="499" 
+y="549" 
+dx="0" 
+class="s7_36"
+>，</text>
+
+<text 
+x="525" 
+y="549" 
+dx="0,0,0" 
+class="s8_36"
+>（是）</text>
+
+<text 
+x="603" 
+y="549" 
+dx="0,0,0,0,0,0,0" 
+class="s7_36"
+>小李跟我一起看</text>
+
+<text 
+x="785" 
+y="549" 
+dx="0" 
+class="s8_36"
+>的</text>
+
+<text 
+x="811" 
+y="549" 
+dx="0" 
+class="s7_36"
+>。</text>
+
+<text 
+x="245" 
+y="583" 
+dx="0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>No, Little Zhang didn’t go with me. Little Li did.</text>
+
+<text 
+x="119" 
+y="661" 
+dx="0,0" 
+class="s9_36"
+>3 </text>
+
+<text 
+x="367" 
+y="665" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_36"
+>除了…以外，都…</text>
+
+<text 
+x="157" 
+y="742" 
+dx="0,-0.2" 
+class="s2_36"
+>除了</text>
+
+<text 
+x="207" 
+y="741" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1" 
+class="s1_36"
+>means “not counting.” As we learned in IC1, the structure </text>
+
+<text 
+x="582" 
+y="742" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s2_36"
+>除了…以外，</text>
+
+<text 
+x="157" 
+y="770" 
+dx="0" 
+class="s2_36"
+>还</text>
+
+<text 
+x="180" 
+y="768" 
+dx="0" 
+class="s1_36"
+>/</text>
+
+<text 
+x="185" 
+y="770" 
+dx="0,-0.2" 
+class="s11_36"
+>還…</text>
+
+<text 
+x="235" 
+y="768" 
+dx="0,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0" 
+class="s1_36"
+>introduces something that is in addition to what is already known. [See Grammar 8, </text>
+
+<text 
+x="157" 
+y="796" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s1_36"
+>Lesson 8, IC1.]</text>
+
+<text 
+x="169" 
+y="852" 
+dx="0,0" 
+class="s3_36"
+>A </text>
+
+<text 
+x="239" 
+y="855" 
+dx="0" 
+class="s5_36"
+>他</text>
+
+<text 
+x="265" 
+y="855" 
+dx="0,0" 
+class="s6_36"
+>除了</text>
+
+<text 
+x="317" 
+y="855" 
+dx="0,0,0" 
+class="s5_36"
+>学中文</text>
+
+<text 
+x="395" 
+y="855" 
+dx="0,0" 
+class="s6_36"
+>以外</text>
+
+<text 
+x="447" 
+y="855" 
+dx="0" 
+class="s5_36"
+>，</text>
+
+<text 
+x="473" 
+y="855" 
+dx="0" 
+class="s6_36"
+>还</text>
+
+<text 
+x="499" 
+y="855" 
+dx="0,0,0,0" 
+class="s5_36"
+>学日文。</text>
+
+<text 
+x="239" 
+y="895" 
+dx="0" 
+class="s7_36"
+>他</text>
+
+<text 
+x="265" 
+y="895" 
+dx="0,0" 
+class="s8_36"
+>除了</text>
+
+<text 
+x="317" 
+y="895" 
+dx="0,0,0" 
+class="s7_36"
+>學中文</text>
+
+<text 
+x="395" 
+y="895" 
+dx="0,0" 
+class="s8_36"
+>以外</text>
+
+<text 
+x="447" 
+y="895" 
+dx="0" 
+class="s7_36"
+>，</text>
+
+<text 
+x="473" 
+y="895" 
+dx="0" 
+class="s8_36"
+>還</text>
+
+<text 
+x="499" 
+y="895" 
+dx="0,0,0,0" 
+class="s7_36"
+>學日文。</text>
+
+<text 
+x="245" 
+y="936" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s1_36"
+>or in other words:</text>
+
+<text 
+x="239" 
+y="984" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_36"
+>他学中文，也学日文。</text>
+
+<text 
+x="239" 
+y="1024" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s7_36"
+>他學中文，也學日文。</text>
+
+<text 
+x="245" 
+y="1058" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>In addition to Chinese, he’s also studying Japanese.</text>
+
+<path d="M164.4,105.2c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_36" />
+<path d="M164.4,107.2c-0.6,0,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_36" />
+<path d="M164.4,361.9c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_36" />
+<path d="M164.4,363.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_36" />
+<path d="M146.6,630.3l0,53.4l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.4l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_36" />
+<path d="M148.7,682.5l674.3,0l0,-51l-674.3,0l0,51Z" class="g3_36" />
+<path d="M164.4,829.4c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_36" />
+<path d="M164.4,831.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_36" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g4_36" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 826)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s12_36"
+>Lesson 1 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 890)"
+dx="0,1" 
+class="s12_36"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 904)"
+dx="0,0.7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.8,1,1" 
+class="s12_36"
+>Starting a New Semester </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1069)"
+dx="0,1" 
+class="s12_36"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1082)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s12_36"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1159)"
+dx="0,1,0" 
+class="s12_36"
+>13 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3qb;
+	src: url("fonts/LibreFranklin-SemiBold_3qb.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3pa;
+	src: url("fonts/LibreFranklin-Bold_3pa.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3q9;
+	src: url("fonts/LibreFranklin-Regular_3q9.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3pt;
+	src: url("fonts/LibreFranklin-ExtraBold_3pt.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

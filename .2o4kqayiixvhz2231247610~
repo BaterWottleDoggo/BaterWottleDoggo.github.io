@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 164 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_164{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_164{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_164{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_164{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_164{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3y5;
+fill: #3F3F40;
+}
+.s2_164{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_164{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #007D9F;
+}
+.s4_164{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s5_164{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #007D9F;
+}
+.s6_164{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3yk;
+fill: #3F3F40;
+}
+.s7_164{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3ye;
+fill: #3F3F40;
+}
+.s8_164{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3yo;
+fill: #3F3F40;
+}
+.s9_164{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3y5;
+fill: #007D9F;
+}
+.s10_164{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3y4;
+fill: #007D9F;
+}
+.s11_164{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s12_164{
+font-size: 27.50px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #3F3F40;
+}
+.s13_164{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s14_164{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3yj;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,743.2l12.2,0" class="g1_164" />
+<text 
+x="169" 
+y="71" 
+dx="0,0" 
+class="s1_164"
+>E </text>
+
+<text 
+x="239" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_164"
+>在这个州买吃的东西，除了东西的价钱以外，</text>
+
+<text 
+x="239" 
+y="107" 
+dx="0,0" 
+class="s3_164"
+>另外</text>
+
+<text 
+x="291" 
+y="107" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_164"
+>还得付百分之八的税。</text>
+
+<text 
+x="239" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_164"
+>在這個州買吃的東西，除了東西的價錢以外，</text>
+
+<text 
+x="239" 
+y="181" 
+dx="0,0" 
+class="s5_164"
+>另外</text>
+
+<text 
+x="291" 
+y="181" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s4_164"
+>還得付百分之八的稅。</text>
+
+<text 
+x="245" 
+y="215" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s6_164"
+>When you buy food in this state, you have to pay eight percent in tax on top </text>
+
+<text 
+x="245" 
+y="234" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_164"
+>of the price.</text>
+
+<text 
+x="169" 
+y="293" 
+dx="0,0" 
+class="s1_164"
+>F </text>
+
+<text 
+x="239" 
+y="295" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_164"
+>上个周末我买了一些日用品，</text>
+
+<text 
+x="577" 
+y="295" 
+dx="0,0" 
+class="s3_164"
+>另外</text>
+
+<text 
+x="629" 
+y="295" 
+dx="0,0,0" 
+class="s2_164"
+>还买了</text>
+
+<text 
+x="239" 
+y="329" 
+dx="0,0" 
+class="s2_164"
+>一件</text>
+
+<text 
+x="291" 
+y="332" 
+dx="0" 
+class="s7_164"
+>T</text>
+
+<text 
+x="307" 
+y="329" 
+dx="0,0,0" 
+class="s2_164"
+>恤衫。</text>
+
+<text 
+x="239" 
+y="370" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_164"
+>上個週末我買了一些日用品，</text>
+
+<text 
+x="577" 
+y="370" 
+dx="0,0" 
+class="s5_164"
+>另外</text>
+
+<text 
+x="629" 
+y="370" 
+dx="0,0,0" 
+class="s4_164"
+>還買了</text>
+
+<text 
+x="239" 
+y="403" 
+dx="0,0" 
+class="s4_164"
+>一件</text>
+
+<text 
+x="291" 
+y="406" 
+dx="0" 
+class="s8_164"
+>T</text>
+
+<text 
+x="307" 
+y="403" 
+dx="0,0,0" 
+class="s4_164"
+>恤衫。</text>
+
+<text 
+x="245" 
+y="437" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.7,0,0,0,0,0,0" 
+class="s6_164"
+>Last weekend I bought some household necessities. I also bought a T-shirt.</text>
+
+<text 
+x="169" 
+y="496" 
+dx="0,0" 
+class="s1_164"
+>G </text>
+
+<text 
+x="239" 
+y="498" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_164"
+>请你给我订两张飞机票，</text>
+
+<text 
+x="525" 
+y="498" 
+dx="0,0" 
+class="s3_164"
+>另外</text>
+
+<text 
+x="577" 
+y="498" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_164"
+>，麻烦你再帮我买一个</text>
+
+<text 
+x="239" 
+y="532" 
+dx="0,0,0,0,0,0,0" 
+class="s2_164"
+>大一点儿的包。</text>
+
+<text 
+x="239" 
+y="572" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_164"
+>請你給我訂兩張飛機票，</text>
+
+<text 
+x="525" 
+y="572" 
+dx="0,0" 
+class="s5_164"
+>另外</text>
+
+<text 
+x="577" 
+y="572" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s4_164"
+>，麻煩你再幫我買一個</text>
+
+<text 
+x="239" 
+y="606" 
+dx="0,0,0,0,0,0,0" 
+class="s4_164"
+>大一點兒的包。</text>
+
+<text 
+x="245" 
+y="639" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.1,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_164"
+>Please book two plane tickets for me. And also, may I trouble you to get a slightly </text>
+
+<text 
+x="245" 
+y="659" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s6_164"
+>bigger bag for me?</text>
+
+<text 
+x="119" 
+y="737" 
+dx="0,0" 
+class="s9_164"
+>4 </text>
+
+<text 
+x="343" 
+y="742" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s10_164"
+>Comparing </text>
+
+<text 
+x="470" 
+y="742" 
+dx="0" 
+class="s11_164"
+>再</text>
+
+<text 
+x="502" 
+y="742" 
+dx="0,0,0,0" 
+class="s10_164"
+>and </text>
+
+<text 
+x="547" 
+y="742" 
+dx="0" 
+class="s11_164"
+>还</text>
+
+<text 
+x="575" 
+y="742" 
+dx="0" 
+class="s10_164"
+>/</text>
+
+<text 
+x="583" 
+y="742" 
+dx="0" 
+class="s12_164"
+>還</text>
+
+<text 
+x="157" 
+y="814" 
+dx="0" 
+class="s13_164"
+>再</text>
+
+<text 
+x="184" 
+y="813" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_164"
+>indicates the repetition or continuation of an action. When it is used in the sense of </text>
+
+<text 
+x="157" 
+y="840" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_164"
+>continuation, it usually refers to the future:</text>
+
+<text 
+x="169" 
+y="897" 
+dx="0,0" 
+class="s1_164"
+>A </text>
+
+<text 
+x="239" 
+y="899" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_164"
+>先生，您刚才点的菜我没听清楚，麻烦您</text>
+
+<text 
+x="707" 
+y="899" 
+dx="0" 
+class="s3_164"
+>再</text>
+
+<text 
+x="733" 
+y="899" 
+dx="0,0,0,0" 
+class="s2_164"
+>说一次。</text>
+
+<text 
+x="239" 
+y="939" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_164"
+>先生，您剛才點的菜我沒聽清楚，麻煩您</text>
+
+<text 
+x="707" 
+y="939" 
+dx="0" 
+class="s5_164"
+>再</text>
+
+<text 
+x="733" 
+y="939" 
+dx="0,0,0,0" 
+class="s4_164"
+>說一次。</text>
+
+<text 
+x="245" 
+y="973" 
+dx="0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s6_164"
+>Sir, I didn’t hear clearly what dishes you just ordered. Would you mind repeating </text>
+
+<text 
+x="245" 
+y="993" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_164"
+>yourself one more time?</text>
+
+<text 
+x="169" 
+y="1052" 
+dx="0,0" 
+class="s1_164"
+>B </text>
+
+<text 
+x="239" 
+y="1054" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_164"
+>因为工作，我去年去了一次上海，明年要</text>
+
+<text 
+x="707" 
+y="1054" 
+dx="0" 
+class="s3_164"
+>再</text>
+
+<text 
+x="733" 
+y="1054" 
+dx="0,0,0,0" 
+class="s2_164"
+>去两次。</text>
+
+<text 
+x="239" 
+y="1095" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_164"
+>因為工作，我去年去了一次上海，明年要</text>
+
+<text 
+x="707" 
+y="1095" 
+dx="0" 
+class="s5_164"
+>再</text>
+
+<text 
+x="733" 
+y="1095" 
+dx="0,0,0,0" 
+class="s4_164"
+>去兩次。</text>
+
+<text 
+x="245" 
+y="1128" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.2,0,0,0,0,0,-1.2" 
+class="s6_164"
+>For business, I went to Shanghai once last year, and will go twice again next year.</text>
+
+<path d="M164.4,48c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_164" />
+<path d="M164.4,50.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_164" />
+<path d="M164.4,270.3c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_164" />
+<path d="M164.4,272.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_164" />
+<path d="M164.4,472.8c-0.1,0,-7.7,0,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_164" />
+<path d="M164.4,474.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_164" />
+<path d="M146.6,706.8l0,53.5l0,0.7l0.8,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_164" />
+<path d="M148.7,759L823,759l0,-50.9l-674.3,0l0,50.9Z" class="g3_164" />
+<path d="M164.4,873.8c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_164" />
+<path d="M164.4,875.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_164" />
+<path d="M164.4,1028.9c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_164" />
+<path d="M164.4,1030.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_164" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g4_164" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 864)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s14_164"
+>Lesson 5 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 929)"
+dx="0,1" 
+class="s14_164"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 943)"
+dx="0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s14_164"
+>Choosing Classes </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1062)"
+dx="0,1" 
+class="s14_164"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1076)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s14_164"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1153)"
+dx="0,1,1,0" 
+class="s14_164"
+>141 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3yo;
+	src: url("fonts/STKaiTi-TC-Regular_3yo.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3yk;
+	src: url("fonts/LibreFranklin-Regular_3yk.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3y5;
+	src: url("fonts/LibreFranklin-ExtraBold_3y5.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3y4;
+	src: url("fonts/LibreFranklin-Bold_3y4.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3yj;
+	src: url("fonts/LibreFranklin-SemiBold_3yj.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3ye;
+	src: url("fonts/STKaiti-SC-Regular_3ye.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

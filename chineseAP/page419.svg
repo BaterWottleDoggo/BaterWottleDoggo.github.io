@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 442 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_442{
+fill: #DC262E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_442{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_442{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_442{
+fill: #FFFFFF;
+}
+.g5_442{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_442{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_442{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dhv;
+fill: #231F20;
+}
+.s2_442{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di-;
+fill: #FFFFFF;
+}
+.s3_442{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #FFFFFF;
+}
+.s4_442{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_diz;
+fill: #909295;
+}
+.s5_442{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dib;
+fill: #3F3F40;
+}
+.s6_442{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #A8A9AD;
+}
+.s7_442{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dim;
+fill: #3F3F40;
+}
+.s8_442{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g1_442" />
+<text 
+x="874" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_442"
+>419 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 736)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_442"
+>Lesson 20 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 828)"
+dx="0,1.2" 
+class="s2_442"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 845)"
+dx="0,1.2,1.2,1.2,1.2,0.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_442"
+>The World Is Getting Smaller </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1080)"
+dx="0,1.2" 
+class="s2_442"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1097)"
+dx="0,-0.3,0.9,0.9" 
+class="s2_442"
+>Text</text>
+
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g2_442" />
+<text 
+x="874" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_442"
+>419 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 869)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,-0.3,0.9,0.9,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s3_442"
+>Appendix: Lesson Texts in English</text>
+
+<path d="M317.9,78.6l0,1062.7" class="g3_442" />
+<text 
+x="144" 
+y="81" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_442"
+>Lesson 20</text>
+
+<text 
+x="398" 
+y="72" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,-0.2,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,-0.1,0" 
+class="s5_442"
+>After Xuemei’s interview, the company told her to report for work next </text>
+
+<text 
+x="398" 
+y="92" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0" 
+class="s5_442"
+>week. Xuemei and Ke Lin are both very happy. They decide to invite </text>
+
+<text 
+x="398" 
+y="112" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.1,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_442"
+>their friends for a get-together at Xuemei’s place to celebrate.</text>
+
+<text 
+x="398" 
+y="132" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Zhang Tianming’s good friend Li Zhe has also come to China. He had </text>
+
+<text 
+x="398" 
+y="152" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0" 
+class="s5_442"
+>accepted Tianming’s suggestion to intern at a multinational company. </text>
+
+<text 
+x="398" 
+y="172" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>As a result, the celebration party has also become a welcoming party </text>
+
+<text 
+x="398" 
+y="191" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>for Li Zhe.</text>
+
+<text 
+x="398" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Zhang Tianming and Lisha will soon return to America, so this </text>
+
+<text 
+x="398" 
+y="231" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s5_442"
+>gathering is also a farewell party for them.</text>
+
+<text 
+x="398" 
+y="251" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.9,0,0" 
+class="s5_442"
+>The other guests, besides Tianming, Lisha, and Li Zhe, are Li Wen </text>
+
+<text 
+x="398" 
+y="271" 
+dx="0,0,0,0,0,0,0,-0.4,0" 
+class="s5_442"
+>and Make.</text>
+
+<text 
+x="398" 
+y="291" 
+dx="0,-0.7,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_442"
+>Ke Lin went to the supermarket and bought a lot of beverages, snacks, </text>
+
+<text 
+x="398" 
+y="311" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s5_442"
+>and fruit. Xuemei prepared a hotpot and ordered takeout from a </text>
+
+<text 
+x="398" 
+y="330" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>nearby restaurant.</text>
+
+<text 
+x="398" 
+y="366" 
+dx="0,-0.7,0,0,0,0,0" 
+class="s6_442"
+>Ke Lin:</text>
+
+<text 
+x="540" 
+y="366" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,-0.1,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Today we get together here to welcome Li Zhe </text>
+
+<text 
+x="540" 
+y="385" 
+dx="0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>and say goodbye to Tianming and Lisha, but also </text>
+
+<text 
+x="540" 
+y="405" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_442"
+>to celebrate Xuemei ﬁnding a job.</text>
+
+<text 
+x="398" 
+y="425" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_442"
+>Lin Xuemei:</text>
+
+<text 
+x="540" 
+y="425" 
+dx="0,0,0,0,0.4,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s5_442"
+>That’s right. Don’t be shy. Have a lot of food and </text>
+
+<text 
+x="540" 
+y="445" 
+dx="0,0,0,-0.4,0,0,0,0,0" 
+class="s5_442"
+>have fun.</text>
+
+<text 
+x="398" 
+y="465" 
+dx="0,0,0,-0.5,0" 
+class="s6_442"
+>Make:</text>
+
+<text 
+x="540" 
+y="465" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s7_442"
+>Xuemei, congratulations on ﬁnding a great job. </text>
+
+<text 
+x="540" 
+y="485" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>When do you start working?</text>
+
+<text 
+x="398" 
+y="505" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_442"
+>Lin Xuemei:</text>
+
+<text 
+x="540" 
+y="505" 
+dx="0,0,-0.2,-0.1,0,0,0,0,0,0,0,-0.9,0,0,0,-0.2,-0.1,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Next Monday. Next Friday I’ll be in Europe on a </text>
+
+<text 
+x="540" 
+y="524" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>business trip promoting solar panels and </text>
+
+<text 
+x="540" 
+y="544" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s7_442"
+>energy-efﬁcient batteries.</text>
+
+<text 
+x="398" 
+y="564" 
+dx="0,0,0,-0.5,0" 
+class="s6_442"
+>Make:</text>
+
+<text 
+x="540" 
+y="564" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s7_442"
+>Solar panels and energy-efﬁcient batteries? </text>
+
+<text 
+x="540" 
+y="584" 
+dx="0,0,0,0,0.4,-1,0,0,-0.2,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.9,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>That’s excellent! Lately, green products having </text>
+
+<text 
+x="540" 
+y="604" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>to do with environmental protection and energy </text>
+
+<text 
+x="540" 
+y="624" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s5_442"
+>conservation have been selling like hot-cakes.</text>
+
+<text 
+x="398" 
+y="644" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_442"
+>Zhang Tianming:</text>
+
+<text 
+x="540" 
+y="644" 
+dx="0,0,0,-0.9,0,0,0,0,-0.4,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_442"
+>Hey, Make, Li Wen, come over here. Let me intro-</text>
+
+<text 
+x="540" 
+y="663" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.4,0,0,-0.2,0,0,0" 
+class="s5_442"
+>duce our schoolmate in the United States, </text>
+
+<text 
+x="540" 
+y="683" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Li Zhe, who has just arrived from America.</text>
+
+<text 
+x="398" 
+y="703" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_442"
+>Li Wen </text>
+
+<text 
+x="398" 
+y="723" 
+dx="0,0,0" 
+class="s6_442"
+>and</text>
+
+<text 
+x="427" 
+y="723" 
+dx="0,0,0,-0.5,0" 
+class="s6_442"
+>Make:</text>
+
+<text 
+x="540" 
+y="723" 
+dx="0,-0.9,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Welcome to Beijing.</text>
+
+<text 
+x="398" 
+y="743" 
+dx="0,0,0,0,0,0,0" 
+class="s6_442"
+>Li Zhe:</text>
+
+<text 
+x="540" 
+y="743" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Hello everyone! I [hope I can] count on your help </text>
+
+<text 
+x="540" 
+y="763" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_442"
+>and guidance [since I’m new here].</text>
+
+<text 
+x="398" 
+y="783" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_442"
+>Lin Xuemei:</text>
+
+<text 
+x="540" 
+y="783" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Li Zhe, which company in Beijing will you be </text>
+
+<text 
+x="540" 
+y="802" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>interning at?</text>
+
+<text 
+x="398" 
+y="822" 
+dx="0,0,0,0,0,0,0" 
+class="s6_442"
+>Li Zhe:</text>
+
+<text 
+x="540" 
+y="822" 
+dx="0,0,-0.1,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_442"
+>I’ve told Tianming. It’s the same company where </text>
+
+<text 
+x="540" 
+y="842" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>you’ll be working. He didn’t tell you the news? </text>
+
+<text 
+x="540" 
+y="862" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>The person who interviewed you the other day is </text>
+
+<text 
+x="540" 
+y="882" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-1,0,0,-0.1,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>my older brother’s good friend.</text>
+
+<text 
+x="398" 
+y="902" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_442"
+>Lin Xuemei:</text>
+
+<text 
+x="540" 
+y="902" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Really? Then won’t that make us colleagues? </text>
+
+<text 
+x="540" 
+y="921" 
+dx="0,0,0,0,0.4,-1,0,0,0,-0.2,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>That’s great! We can help each other out.</text>
+
+<text 
+x="398" 
+y="941" 
+dx="0,0,0,0,0,0,0" 
+class="s6_442"
+>Li Zhe:</text>
+
+<text 
+x="540" 
+y="941" 
+dx="0,0,0,0,0.4,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>That’s why I said I’ll be counting on your help.</text>
+
+<text 
+x="398" 
+y="961" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_442"
+>Lin Xuemei:</text>
+
+<text 
+x="540" 
+y="961" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Who knows who’ll be helping whom?</text>
+
+<text 
+x="398" 
+y="981" 
+dx="0,0,0,0,0,0,0" 
+class="s6_442"
+>Li Zhe:</text>
+
+<text 
+x="540" 
+y="981" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Make, how long have you been in China?</text>
+
+<text 
+x="398" 
+y="1001" 
+dx="0,0,0,-0.5,0" 
+class="s6_442"
+>Make:</text>
+
+<text 
+x="540" 
+y="1001" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Six years.</text>
+
+<text 
+x="398" 
+y="1021" 
+dx="0,0,0,0,0,0" 
+class="s6_442"
+>Lisha:</text>
+
+<text 
+x="540" 
+y="1021" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Make, what jobs have you had in China?</text>
+
+<text 
+x="398" 
+y="1041" 
+dx="0,0,0,-0.5,0" 
+class="s6_442"
+>Make:</text>
+
+<text 
+x="540" 
+y="1041" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-1.2,0,0,0,-0.1,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.2,0,0,0,-0.1,-0.4,0" 
+class="s5_442"
+>I am a freelancer. I’ve been an English tutor. I’ve </text>
+
+<text 
+x="540" 
+y="1060" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_442"
+>acted in TV dramas and commercials. </text>
+
+<text 
+x="540" 
+y="1080" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>Sometimes I also do some translating.</text>
+
+<text 
+x="398" 
+y="1100" 
+dx="0,0,0,0,-1.1,0,0" 
+class="s6_442"
+>Li Wen:</text>
+
+<text 
+x="540" 
+y="1100" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_442"
+>No wonder you looked so familiar! I’ve seen your </text>
+
+<text 
+x="540" 
+y="1120" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0" 
+class="s5_442"
+>TV dramas. Your acting is quite good.</text>
+
+<path d="M281.6,57.7c0,0,-15.3,0,-15.3,15.2l0,3.1c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g4_442" />
+<text 
+x="301" 
+y="81" 
+dx="0,-1.8,-0.6,-0.7" 
+class="s8_442"
+>Text</text>
+
+<path d="M281.6,56.9c-0.2,0,-16.1,0.2,-16.1,16l0,3.1c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.1,0Z" class="g5_442" />
+<path d="M281.6,58.9c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.1,0Z" class="g6_442" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di3;
+	src: url("fonts/LibreFranklin-SemiBold_di3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dim;
+	src: url("fonts/LibreFranklin-Light_dim.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dib;
+	src: url("fonts/LibreFranklin-Light_dib.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dhv;
+	src: url("fonts/LibreFranklin-Medium_dhv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di-;
+	src: url("fonts/LibreFranklin-SemiBold_di-.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_diz;
+	src: url("fonts/LibreFranklin-ExtraBold_diz.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

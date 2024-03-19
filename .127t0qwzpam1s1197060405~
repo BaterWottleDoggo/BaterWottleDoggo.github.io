@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 118 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_118"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_118{
+fill: #ADC8DD;
+}
+.g2_118{
+fill: #A8C4D9;
+}
+.g3_118{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.4819444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_118{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 3.0555556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_118{
+fill: #F8D490;
+stroke: #FFFFFF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_118{
+fill: #E5E9EB;
+}
+.g7_118{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_118{
+font-size: 351.39px;
+font-family: LibreFranklin-Bold_3vl;
+fill: #F5C86E;
+}
+.s2_118{
+font-size: 61.11px;
+font-family: Calibri_3z3;
+fill: #FFFFFF;
+}
+.s3_118{
+font-size: 12.99px;
+font-family: LibreFranklin-Medium_3vd;
+fill: #231F20;
+}
+.s4_118{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #DC262E;
+}
+.s5_118{
+font-size: 16.42px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #231F20;
+}
+.s6_118{
+font-size: 61.11px;
+font-family: Calibri_3z3;
+fill: #196B76;
+}
+.s7_118{
+font-size: 11.46px;
+font-family: LibreFranklin-SemiBold_3vz;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,1196.3l921.3,0L921.3,0L0,0L0,1196.3Z" class="g1_118" />
+<path d="M858.2,0l0,56.8l63,0l0,-13.5l-49.6,0l0,-38.8l49.6,0l0,-4.5Z" class="g2_118" />
+<path d="M895.1,30.7l26.2,0l0,-13.5l-26.2,0l0,13.5Z" class="g2_118" />
+<g clip-path="url(#c0_118)">
+<path d="M921.3,68.3l-62.9,0l2.9,8.8c0.3,1,0.7,2,1,2.9l17.1,0l0,1.7l41.9,0l0,-13.4M879.4,86.8l0,28.3c11.1,17.4,25.4,32.6,41.9,44.7l0,-17.1C903.4,127.7,889,108.6,879.4,86.8m41.9,4l-23.8,0l7.1,10.6c0.6,0.7,6.7,9.7,16.7,20.2l0,-30.8Z" class="g2_118" />
+<path d="M921.3,400.6l-41.9,0l0,9.1l-21.2,0l0,56.7l63.1,0l0,-13.5l-49.7,0l0,-38.8l49.7,0Z" class="g2_118" />
+<path d="M921.3,297.6c-16.5,12.1,-30.8,27.3,-41.9,44.7l0,28.3c9.6,-21.8,24,-40.9,41.9,-55.9l0,-17.1m0,38.2c-10,10.5,-16.1,19.5,-16.7,20.2l-7.1,10.6l23.8,0l0,-30.8m0,39.9l-41.9,0l0,13.4l41.9,0l0,-13.4Z" class="g2_118" />
+</g>
+<path d="M921.3,426.7l-26.2,0l0,13.5l26.2,0l0,-13.5Z" class="g2_118" />
+<path d="M921.3,477.8l-21,0l0,13.5l21,0l0,-13.5Zm0,22.6l-21,0l0,4.1l4.3,6.4c0.6,0.8,6.7,9.7,16.7,20.2l0,-30.7m-21,30.4l0,20.2c6.5,6.7,13.5,12.9,21,18.4l0,-17.1c-7.7,-6.5,-14.7,-13.7,-21,-21.5Z" class="g2_118" />
+<path d="M921.3,810.2l-21,0l0,13.5l21,0l0,-13.5Zm0,52.2l-21,0l0,13.5l21,0l0,-13.5Z" class="g2_118" />
+<g clip-path="url(#c0_118)">
+<path d="M921.3,707.1c-7.5,5.6,-14.5,11.7,-21,18.4l0,20.3c6.3,-7.9,13.3,-15.1,21,-21.5l0,-17.2m0,38.3c-10,10.5,-16.1,19.4,-16.7,20.2l-4.3,6.4l0,4.1l21,0l0,-30.7m0,39.8l-21,0l0,13.5l21,0l0,-13.5Z" class="g2_118" />
+</g>
+<path d="M921.3,836.3l-21,0l0,13.5l21,0l0,-13.5Z" class="g2_118" />
+<path d="M921.3,887.4l-21,0l0,13.5l21,0l0,-13.5Zm0,22.6l-21,0l0,4.1l4.3,6.4c0.6,0.8,6.7,9.7,16.7,20.2l0,-30.7m-21,30.3l0,15.3l-4.7,0c7.8,8.7,16.4,16.5,25.7,23.4l0,-17.2c-7.7,-6.4,-14.7,-13.6,-21,-21.5Z" class="g2_118" />
+<g clip-path="url(#c0_118)">
+<path d="M921.3,1116.7c-26.7,19.7,-47.6,47.3,-58.9,79.6l58.9,0l0,-1.5l-44,0c9.5,-23.9,24.8,-44.8,44,-61l0,-17.1m0,38.3c-10,10.5,-16.1,19.4,-16.7,20.2l-7.1,10.5l23.8,0l0,-30.7Z" class="g2_118" />
+</g>
+<path d="M776.5,27.5l-37.1,0l0,13.7l23.5,0l0,23.8l-20.7,0c11.9,2.2,23.4,5.6,34.3,10.2l0,-47.7m-50.8,0l-0.2,0l0,51.2l0.4,0l0,-3.1l-0.2,0l0,-48.1m13.6,50.7l0,0.5l2.9,0c-1,-0.2,-2,-0.4,-2.9,-0.5Z" class="g2_118" />
+<path d="M680.7,27.5l-37.4,0l0,47.9c11,-4.7,22.6,-8.2,34.6,-10.4l-21,0l0,-23.8l23.7,0l0,23.3l0.1,0l0,-37m0.1,50.7c-0.9,0.1,-1.9,0.3,-2.8,0.5l2.8,0l0,-0.5Z" class="g2_118" />
+<path d="M694.3,0L680.7,0l0,27.5l0,37c2,-0.3,4,-0.6,6,-0.9l7.5,-0.9l0,12.9l0.1,0L694.3,0Z" class="g2_118" />
+<path d="M739.4,0L725.7,0l0,27.5l0,48.1l0.2,0l0,-12.9l7.5,0.9c2,0.3,4,0.6,6,0.9l0,-23.3l0,-13.7L739.4,0Z" class="g2_118" />
+<path d="M694.2,62.7l-7.5,0.9c-2,0.3,-4,0.6,-6,0.9c-0.1,0,-0.1,0,-0.1,0c-0.9,0.2,-1.8,0.3,-2.7,0.5c-12,2.2,-23.6,5.7,-34.6,10.4c-3.5,1.4,-6.8,3,-10.1,4.6L672,80c2,-0.5,4,-0.9,6,-1.3c0.9,-0.2,1.9,-0.4,2.8,-0.5l0,0.5l0,1.3l13.4,0l0,-4.4l0,-12.9Z" class="g2_118" />
+<path d="M725.9,62.7l0,12.9l0,3.1l0,1.3l13.4,0l0,-1.3l0,-0.5c0.9,0.1,1.9,0.3,2.9,0.5c2,0.4,4,0.8,5.9,1.3l38.8,0c-3.4,-1.7,-6.8,-3.3,-10.4,-4.8C765.6,70.6,754.1,67.2,742.2,65c-0.9,-0.2,-1.9,-0.3,-2.8,-0.5c-2,-0.3,-4,-0.6,-6,-0.9l-7.5,-0.9Z" class="g2_118" />
+<path d="M716.8,65.5l-13.4,0l0,14.5l13.4,0l0,-14.5Z" class="g2_118" />
+<path d="M776.5,437.1l-37.1,0l0,13.7l23.5,0l0,23.8l-20.7,0c1.2,0.2,2.5,0.4,3.7,0.7l30.6,0l0,-38.2m-50.8,0l-0.2,0l0,38.2l0.2,0l0,-38.2Z" class="g2_118" />
+<path d="M680.7,437.1l-37.4,0l0,38.2l30.9,0c1.2,-0.3,2.5,-0.5,3.7,-0.7l-21,0l0,-23.8l23.7,0l0,23.3l0.1,0l0,-37Z" class="g2_118" />
+<path d="M694.3,409.7l-13.6,0l0,27.4l0,37c2,-0.3,4,-0.6,6,-0.9l7.5,-0.9l0,3l0.1,0l0,-65.6Z" class="g2_118" />
+<path d="M739.4,409.7l-13.7,0l0,27.4l0,38.2l0.2,0l0,-3l7.5,0.9c2,0.3,4,0.6,6,0.9l0,-23.3l0,-13.7l0,-27.4Z" class="g2_118" />
+<path d="M694.2,472.3l-7.5,0.9c-2,0.3,-4,0.6,-6,0.9c-0.1,0,-0.1,0,-0.1,0c-0.9,0.2,-1.8,0.3,-2.7,0.5c-1.2,0.2,-2.5,0.4,-3.7,0.7l20,0l0,-3Z" class="g2_118" />
+<path d="M725.9,472.3l0,3l20,0c-1.2,-0.3,-2.5,-0.5,-3.7,-0.7c-0.9,-0.2,-1.9,-0.4,-2.8,-0.5c-2,-0.3,-4,-0.6,-6,-0.9l-7.5,-0.9Z" class="g2_118" />
+<path d="M716.8,475l-13.4,0l0,0.3l13.4,0l0,-0.3Z" class="g2_118" />
+<path d="M874.4,1017.2l-328.7,0l0,65.8l328.7,0l0,-65.8Zm-315.3,13.5l301.9,0l0,38.8l-301.9,0l0,-38.8Z" class="g2_118" />
+<path d="M694.2,955.6l-13.4,0l0,14.1l-69.4,0c3.5,-4.1,8,-9.1,13.2,-14.1l-18.8,0c-8.2,9.1,-13.2,16.4,-13.7,17.1L585,983.2l109.2,0l0,-27.6m-108.6,0l-16.6,0c-8.5,12.6,-15.3,26.5,-20.2,41.3l-2.9,8.9l157.5,0l0,-13.5l-138.7,0C570,979,577.1,966.7,585.6,955.6Z" class="g2_118" />
+<path d="M851.1,955.6l-16.6,0c8.5,11.1,15.6,23.4,20.9,36.7l-138.6,0l0,13.5l157.4,0l-2.9,-8.9c-4.9,-14.8,-11.7,-28.7,-20.2,-41.3m-36.8,0l-18.8,0c5.2,5,9.7,10,13.2,14.1l-69.4,0l0,-14.1l-13.4,0l0,27.6l109.3,0L828,972.7c-0.5,-0.7,-5.5,-8,-13.7,-17.1Z" class="g2_118" />
+<path d="M837.5,1043.4l-254.9,0l0,13.4l254.9,0l0,-13.4Z" class="g2_118" />
+<path d="M716.8,955.6l-13.4,0l0,36.7l0,13.5l0,11.4l13.4,0l0,-11.4l0,-13.5Z" class="g2_118" />
+<g clip-path="url(#c0_118)">
+<path d="M874.2,1094.5l-157.4,0l0,13.4l138.6,0c-16.5,41.4,-50.1,73.5,-91.2,88.4l31.6,0c35,-20.4,62.4,-53.2,75.5,-93l2.9,-8.8M835.1,1117l-109.2,0l0,79.3l13.4,0l0,-65.8l69.4,0c-9.6,11.4,-26.7,28.9,-46.1,36l4.6,12.7c33.9,-12.5,59.7,-50,60.8,-51.6l7.1,-10.6Z" class="g2_118" />
+<path d="M703.4,1094.5l-157.5,0l2.9,8.8c13.1,39.8,40.5,72.6,75.5,93l31.7,0c-41.1,-14.9,-74.8,-47,-91.3,-88.4l138.7,0l0,-13.4m-9.2,22.5L585,1117l7.1,10.6c1.1,1.6,26.9,39.1,60.8,51.6l4.7,-12.7c-19.5,-7.1,-36.6,-24.6,-46.2,-36l69.4,0l0,65.8l13.4,0l0,-79.3Z" class="g2_118" />
+</g>
+<path d="M716.8,1083l-13.4,0l0,11.5l0,13.4l0,88.3l13.4,0l0,-88.3l0,-13.4Z" class="g2_118" />
+<path d="M561.5,0L232.7,0l0,54.2l302.8,0l0,2.6l26,0L561.5,0M246.2,4.5L548,4.5l0,38.8l-301.8,0l0,-38.8Z" class="g2_118" />
+<path d="M524.6,17.2l-255,0l0,13.4l255,0l0,-13.4Z" class="g2_118" />
+<path d="M561.3,68.3l-25.8,0l0,11.7l21.9,0c0.3,-0.9,0.6,-1.9,1,-2.9l2.9,-8.8Z" class="g2_118" />
+<path d="M561.5,409.7l-26,0l0,4.4l12.5,0l0,38.8l-301.8,0l0,-23.2l-13.5,0l0,36.7l328.8,0Z" class="g2_118" />
+<path d="M524.6,429.7l-255,0l0,10.5l255,0l0,-10.5Z" class="g2_118" />
+<path d="M403.8,466.4l-13.4,0l0,8.9l13.4,0l0,-8.9Z" class="g2_118" />
+<path d="M524,955.6l-18.7,0c-21.6,20.6,-48.9,34.9,-79,40.3l0.1,0l0,13.6c38.1,-6.3,72.4,-25.7,97.6,-53.9m-41.7,0l-24.1,0c-2.8,1.5,-5.7,2.8,-8.6,3.9l4.6,12.6c10.3,-3.7,19.8,-9.8,28.1,-16.5m-56,0l-13.4,0l0,40.3l13.4,0l0,-40.3Z" class="g2_118" />
+<path d="M381.3,955.6l-13.4,0l0,40.3l13.4,0l0,-40.3Zm-45.3,0l-24.1,0c8.3,6.7,17.8,12.8,28.1,16.5l4.6,-12.6c-2.9,-1.1,-5.8,-2.4,-8.6,-3.9m-47.1,0l-18.7,0c25.1,28.2,59.4,47.6,97.5,53.9l0,-13.6l0.2,0c-30.1,-5.4,-57.4,-19.7,-79,-40.3Z" class="g2_118" />
+<path d="M403.8,955.6l-13.4,0l0,53l13.4,0l0,-53Z" class="g2_118" />
+<path d="M463.6,1049.1l-37.2,0l0,13.7l23.5,0l0,23.8l-20.6,0c11.8,2.2,23.3,5.7,34.3,10.3l0,-47.8m-50.8,0l-0.2,0l0,51.2l0.3,0l0,-3.1l-0.1,0l0,-48.1m13.5,50.7l0,0.5l2.9,0c-1,-0.1,-1.9,-0.3,-2.9,-0.5Z" class="g2_118" />
+<path d="M367.7,1049.1l-37.4,0l0,47.9c11,-4.7,22.6,-8.2,34.6,-10.4l-21,0l0,-23.8l23.7,0l0,23.4c0.1,0,0.1,0,0.1,0l0,-37.1m0.2,50.7c-1,0.2,-1.9,0.4,-2.9,0.5l2.9,0l0,-0.5Z" class="g2_118" />
+<path d="M381.3,995.9l0,0l-13.4,0l-0.2,0l0,13.6l0,39.6l0,37.1c2,-0.4,4,-0.7,6,-0.9l7.6,-1l0,12.9l0,-101.3Z" class="g2_118" />
+<path d="M426.4,995.9l-0.1,0l-13.4,0l-0.1,0l0,53.2l0,48.1l0.1,0l0,-12.9l7.6,1c2,0.2,3.9,0.5,5.9,0.8l0,-23.3l0,-13.7l0,-39.6l0,-13.6Z" class="g2_118" />
+<path d="M381.3,1084.3l-7.6,1c-2,0.2,-4,0.5,-6,0.9l-0.1,0c-0.9,0.1,-1.8,0.3,-2.7,0.4c-12,2.2,-23.6,5.7,-34.6,10.4c-43,18.2,-77.5,54.1,-93.4,99.2l153.5,0l0,-1.4l-138.6,0c19.3,-48.5,62.3,-84.3,113.2,-94.5c1,-0.1,1.9,-0.3,2.9,-0.5l0,0.5l0,71.9l-69.5,0c9.6,-11.4,26.7,-28.8,46.2,-36L340,1123.5c-33.9,12.5,-59.8,50.1,-60.8,51.7l-7.2,10.5l109.3,0l0,-88.5l0,-12.9Z" class="g2_118" />
+<path d="M412.9,1084.3l0,12.9l0,3.1l0,85.4l109.3,0L515,1175.2c-1,-1.6,-26.9,-39.2,-60.8,-51.7l-4.6,12.7c19.5,7.2,36.6,24.6,46.2,36l-69.5,0l0,-71.9l0,-0.5c1,0.2,1.9,0.4,2.9,0.5c50.9,10.2,93.9,46,113.2,94.5l-138.6,0l0,1.4l153.5,0c-15.9,-45.3,-50.6,-81.2,-93.7,-99.3c-11,-4.6,-22.5,-8.1,-34.3,-10.3c-1,-0.1,-1.9,-0.3,-2.9,-0.5c-2,-0.3,-3.9,-0.6,-5.9,-0.8l-7.6,-1Z" class="g2_118" />
+<path d="M403.8,1087.1l-13.4,0l0,107.7l0,1.4l13.4,0l0,-1.4Z" class="g2_118" />
+<path d="M151.1,27.5l-37.2,0l0,13.7l23.5,0l0,13l13.7,0l0,-26.7m-50.8,0l-0.2,0l0,26.7l0.2,0l0,-26.7Z" class="g2_118" />
+<path d="M55.2,27.5l-37.4,0l0,47.9C28.8,70.7,40.4,67.2,52.4,65l-21,0l0,-23.8l23.7,0l0,13l0.1,0l0,-26.7M54.3,78.4c-0.6,0.1,-1.2,0.2,-1.8,0.3l1.8,0l0,-0.3Z" class="g2_118" />
+<path d="M68.8,0L55.2,0l0,27.5l0,26.7l13.6,0Z" class="g2_118" />
+<path d="M113.9,0L100.3,0l0,27.5l0,26.7l13.6,0l0,-13l0,-13.7Z" class="g2_118" />
+<path d="M54.3,198.1L0,198.1l0,13.5l54.3,0l0,-13.5Zm0,52.3L0,250.4l0,13.4l54.3,0l0,-13.4Z" class="g2_118" />
+<g clip-path="url(#c0_118)">
+<path d="M54.3,64.7C53.7,64.8,53,64.9,52.4,65c-12,2.2,-23.6,5.7,-34.6,10.4C11.7,78,5.7,80.9,0,84.2L0,99.9C15.9,89.7,33.6,82.5,52.5,78.7c0.6,-0.1,1.2,-0.2,1.8,-0.3l0,-13.7M27.5,101.9c-10,3.7,-19.3,9.6,-27.5,16l0,17.8C9,127.3,20.1,119,32.1,114.6L27.5,101.9m26.8,48.7L0,150.6l0,13.5l54.3,0l0,-13.5Zm0,22.6L0,173.2l0,13.4l54.3,0l0,-13.4Z" class="g2_118" />
+</g>
+<path d="M54.3,224.2L0,224.2l0,13.5l54.3,0l0,-13.5Z" class="g2_118" />
+<path d="M54.3,275.3L0,275.3l0,13.5l54.3,0l0,-13.5Zm0,22.6L0,297.9l0,13.5l54.3,0l0,-13.5ZM0,326.2L0,344c8.2,6.5,17.5,12.4,27.5,16.1l4.6,-12.7C20.1,343,9,334.7,0,326.2m0,35.9l0,15.7c16.6,9.5,35,16.2,54.3,19.5l0,-13.7C34.8,380,16.4,372.5,0,362.1Z" class="g2_118" />
+<path d="M151.1,437.1l-37.2,0l0,13.7l23.5,0l0,23.8l-20.7,0c1.3,0.2,2.5,0.4,3.7,0.7l30.7,0l0,-38.2m-50.8,0l-0.2,0l0,38.2l0.2,0l0,-38.2Z" class="g2_118" />
+<path d="M55.2,437.1l-37.4,0l0,47.8c11,-4.6,22.6,-8.1,34.6,-10.3l-21,0l0,-23.8l23.7,0l0,23.3c0,0,0.1,0,0.1,0l0,-37m0.2,50.6c-1,0.2,-2,0.4,-2.9,0.6l2.9,0l0,-0.6Z" class="g2_118" />
+<path d="M68.8,429.7l-13.6,0l0,7.4l0,37c2,-0.3,4,-0.6,6,-0.9l7.6,-0.9l0,3l0,-45.6Z" class="g2_118" />
+<path d="M113.9,429.7l-13.6,0l0,7.4l0,38.2l0.1,0l0,-3l7.6,0.9c2,0.3,3.9,0.6,5.9,0.9l0,-23.3l0,-13.7l0,-7.4Z" class="g2_118" />
+<path d="M57,607.7l-57,0l0,13.5l57,0l0,-13.5Zm0,52.2l-57,0l0,13.5l57,0l0,-13.5Z" class="g2_118" />
+<g clip-path="url(#c0_118)">
+<path d="M68.8,472.3l-7.6,0.9c-2,0.3,-4,0.6,-6,0.9l-0.1,0c-0.9,0.2,-1.8,0.3,-2.7,0.5c-12,2.2,-23.6,5.7,-34.6,10.3C11.7,487.5,5.7,490.5,0,493.7l0,15.7C15.9,499.3,33.6,492,52.5,488.3c0.9,-0.2,1.9,-0.4,2.9,-0.6l0,0.6l0,71.9L0,560.2l0,13.4l57,0l0,-98.3l11.8,0l0,-3M27.5,511.5C17.5,515.2,8.2,521,0,527.5l0,17.8c9,-8.4,20.1,-16.8,32.1,-21.2L27.5,511.5M57,582.7l-57,0l0,13.5l57,0l0,-13.5Z" class="g2_118" />
+</g>
+<path d="M100.4,472.3l0,3l20,0c-1.2,-0.3,-2.4,-0.5,-3.7,-0.7c-0.9,-0.2,-1.9,-0.4,-2.8,-0.5c-2,-0.3,-3.9,-0.6,-5.9,-0.9l-7.6,-0.9Z" class="g2_118" />
+<path d="M57,633.8l-57,0l0,13.5l57,0l0,-13.5Z" class="g2_118" />
+<path d="M91.3,475l-13.4,0l0,0.3l13.4,0l0,-0.3Z" class="g2_118" />
+<path d="M57,684.9l-57,0l0,13.5l57,0l0,-13.5Zm0,22.6l-57,0l0,13.4l55.4,0l0,72.5l1.6,0l0,-85.9M0,735.8l0,17.8c8.2,6.5,17.5,12.3,27.5,16L32.1,757C20.1,752.6,9,744.2,0,735.8m0,35.9l0,15.7C16.9,797,35.6,803.8,55.2,807l0,-13.6l0.2,0C35.4,789.8,16.7,782.3,0,771.7Z" class="g2_118" />
+<path d="M55.2,846.6l-37.4,0l0,47.9c11,-4.7,22.6,-8.2,34.6,-10.4l-21,0l0,-23.8l23.7,0l0,23.4c0,0,0.1,0,0.1,0l0,-37.1m0.2,50.7c-1,0.2,-2,0.4,-2.9,0.5l2.9,0l0,-0.5Z" class="g2_118" />
+<path d="M57,793.4l-1.6,0l-0.2,0l0,13.6l0,39.6l0,37.1c0.6,-0.1,1.2,-0.2,1.8,-0.3l0,-90Z" class="g2_118" />
+<path d="M249,1017.2l-249,0l0,13.5l235.5,0l0,38.8L0,1069.5L0,1083l249,0Z" class="g2_118" />
+<path d="M57,883.4c-0.6,0.1,-1.2,0.2,-1.8,0.3l-0.1,0c-0.9,0.1,-1.8,0.3,-2.7,0.4c-12,2.2,-23.6,5.7,-34.6,10.4C11.7,897.1,5.7,900,0,903.3L0,919C15.9,908.9,33.6,901.6,52.5,897.8c0.9,-0.1,1.9,-0.3,2.9,-0.5l0,0.5l0,71.9L0,969.7l0,13.5l68.8,0l0,-27.6l-11.8,0l0,-72.2M27.5,921C17.5,924.7,8.2,930.6,0,937.1l0,17.7c9,-8.4,20.1,-16.7,32.1,-21.1L27.5,921m50.4,71.3L0,992.3l0,13.5l77.9,0l0,-13.5Z" class="g2_118" />
+<path d="M225.6,955.6l-16.5,0c8.5,11.1,15.5,23.4,20.8,36.7l-138.6,0l0,13.5l157.5,0l-2.9,-8.9C241,982.1,234.1,968.2,225.6,955.6m-36.8,0l-18.8,0c5.3,5,9.8,10,13.3,14.1l-69.5,0l0,-14.1l-13.4,0l0,27.6l109.3,0l-7.2,-10.5c-0.4,-0.7,-5.4,-8,-13.7,-17.1Z" class="g2_118" />
+<path d="M212.1,1043.4L0,1043.4l0,13.4l212.1,0l0,-13.4Z" class="g2_118" />
+<path d="M91.3,955.6l-13.4,0l0,36.7l0,13.5l0,11.4l13.4,0l0,-11.4l0,-13.5Z" class="g2_118" />
+<g clip-path="url(#c0_118)">
+<path d="M248.8,1094.5l-157.5,0l0,13.4l138.6,0c-16.5,41.4,-50.1,73.5,-91.2,88.4l31.7,0c35,-20.4,62.4,-53.2,75.5,-93l2.9,-8.8M209.7,1117l-109.3,0l0,79.3l13.4,0l0,-65.8l69.5,0c-9.6,11.4,-26.7,28.9,-46.2,36l4.6,12.7c33.9,-12.5,59.7,-50,60.8,-51.6l7.2,-10.6Z" class="g2_118" />
+</g>
+<path d="M77.9,1094.5l-77.9,0l0,13.4l77.9,0l0,-13.4ZM68.8,1117L0,1117l0,13.5l55.4,0l0,65.8l13.4,0l0,-79.3M0,1145.4l0,17.8c8.2,6.4,17.5,12.3,27.5,16l4.6,-12.7C20.1,1162.1,9,1153.8,0,1145.4m0,35.8l0,15.1l30.5,0c-10.7,-3.9,-21,-9,-30.5,-15.1Z" class="g2_118" />
+<path d="M91.3,1083l-13.4,0l0,11.5l0,13.4l0,88.3l13.4,0l0,-88.3l0,-13.4Z" class="g2_118" />
+<image preserveAspectRatio="none" x="56" y="475" width="370" height="374" xlink:href="118/img/1.png" />
+<image preserveAspectRatio="none" x="425" y="475" width="370" height="374" xlink:href="118/img/2.png" />
+<image preserveAspectRatio="none" x="795" y="475" width="106" height="481" xlink:href="118/img/3.png" />
+<image preserveAspectRatio="none" x="56" y="849" width="739" height="107" xlink:href="118/img/4.png" />
+<image preserveAspectRatio="none" x="858" y="477" width="43" height="75" xlink:href="118/img/5.png" />
+<image preserveAspectRatio="none" x="858" y="810" width="43" height="66" xlink:href="118/img/6.png" />
+<image preserveAspectRatio="none" x="858" y="725" width="43" height="74" xlink:href="118/img/7.png" />
+<image preserveAspectRatio="none" x="895" y="836" width="6" height="14" xlink:href="118/img/8.png" />
+<image preserveAspectRatio="none" x="858" y="887" width="43" height="69" xlink:href="118/img/9.png" />
+<image preserveAspectRatio="none" x="725" y="475" width="52" height="13" xlink:href="118/img/10.png" />
+<image preserveAspectRatio="none" x="643" y="475" width="38" height="13" xlink:href="118/img/11.png" />
+<image preserveAspectRatio="none" x="694" y="475" width="1" height="11" xlink:href="118/img/12.png" />
+<image preserveAspectRatio="none" x="725" y="475" width="1" height="11" xlink:href="118/img/13.png" />
+<image preserveAspectRatio="none" x="545" y="607" width="330" height="67" xlink:href="118/img/14.png" />
+<image preserveAspectRatio="none" x="545" y="475" width="159" height="122" xlink:href="118/img/15.png" />
+<image preserveAspectRatio="none" x="716" y="475" width="159" height="122" xlink:href="118/img/16.png" />
+<image preserveAspectRatio="none" x="582" y="633" width="256" height="15" xlink:href="118/img/17.png" />
+<image preserveAspectRatio="none" x="703" y="475" width="14" height="133" xlink:href="118/img/18.png" />
+<image preserveAspectRatio="none" x="716" y="685" width="159" height="122" xlink:href="118/img/19.png" />
+<image preserveAspectRatio="none" x="545" y="685" width="159" height="122" xlink:href="118/img/20.png" />
+<image preserveAspectRatio="none" x="703" y="673" width="14" height="133" xlink:href="118/img/21.png" />
+<image preserveAspectRatio="none" x="725" y="846" width="52" height="52" xlink:href="118/img/22.png" />
+<image preserveAspectRatio="none" x="643" y="846" width="38" height="52" xlink:href="118/img/23.png" />
+<image preserveAspectRatio="none" x="680" y="793" width="15" height="102" xlink:href="118/img/24.png" />
+<image preserveAspectRatio="none" x="725" y="793" width="15" height="102" xlink:href="118/img/25.png" />
+<image preserveAspectRatio="none" x="569" y="882" width="126" height="74" xlink:href="118/img/26.png" />
+<image preserveAspectRatio="none" x="725" y="882" width="127" height="74" xlink:href="118/img/27.png" />
+<image preserveAspectRatio="none" x="703" y="884" width="14" height="72" xlink:href="118/img/28.png" />
+<image preserveAspectRatio="none" x="403" y="477" width="158" height="123" xlink:href="118/img/29.png" />
+<image preserveAspectRatio="none" x="233" y="477" width="158" height="123" xlink:href="118/img/30.png" />
+<image preserveAspectRatio="none" x="390" y="475" width="14" height="124" xlink:href="118/img/31.png" />
+<image preserveAspectRatio="none" x="412" y="639" width="52" height="52" xlink:href="118/img/32.png" />
+<image preserveAspectRatio="none" x="330" y="639" width="38" height="52" xlink:href="118/img/33.png" />
+<image preserveAspectRatio="none" x="367" y="586" width="15" height="102" xlink:href="118/img/34.png" />
+<image preserveAspectRatio="none" x="412" y="586" width="15" height="102" xlink:href="118/img/35.png" />
+<image preserveAspectRatio="none" x="232" y="810" width="330" height="66" xlink:href="118/img/36.png" />
+<image preserveAspectRatio="none" x="233" y="674" width="158" height="125" xlink:href="118/img/37.png" />
+<image preserveAspectRatio="none" x="403" y="674" width="158" height="125" xlink:href="118/img/38.png" />
+<image preserveAspectRatio="none" x="269" y="836" width="256" height="14" xlink:href="118/img/39.png" />
+<image preserveAspectRatio="none" x="390" y="677" width="14" height="133" xlink:href="118/img/40.png" />
+<image preserveAspectRatio="none" x="403" y="887" width="158" height="69" xlink:href="118/img/41.png" />
+<image preserveAspectRatio="none" x="233" y="887" width="158" height="69" xlink:href="118/img/42.png" />
+<image preserveAspectRatio="none" x="390" y="876" width="14" height="80" xlink:href="118/img/43.png" />
+<image preserveAspectRatio="none" x="100" y="475" width="52" height="13" xlink:href="118/img/44.png" />
+<image preserveAspectRatio="none" x="68" y="475" width="1" height="11" xlink:href="118/img/45.png" />
+<image preserveAspectRatio="none" x="100" y="475" width="1" height="11" xlink:href="118/img/46.png" />
+<image preserveAspectRatio="none" x="57" y="607" width="192" height="67" xlink:href="118/img/47.png" />
+<image preserveAspectRatio="none" x="57" y="475" width="21" height="122" xlink:href="118/img/48.png" />
+<image preserveAspectRatio="none" x="91" y="475" width="158" height="122" xlink:href="118/img/49.png" />
+<image preserveAspectRatio="none" x="57" y="633" width="155" height="15" xlink:href="118/img/50.png" />
+<image preserveAspectRatio="none" x="77" y="475" width="15" height="133" xlink:href="118/img/51.png" />
+<image preserveAspectRatio="none" x="91" y="685" width="158" height="122" xlink:href="118/img/52.png" />
+<image preserveAspectRatio="none" x="57" y="685" width="21" height="109" xlink:href="118/img/53.png" />
+<image preserveAspectRatio="none" x="77" y="673" width="15" height="133" xlink:href="118/img/54.png" />
+<image preserveAspectRatio="none" x="100" y="846" width="52" height="52" xlink:href="118/img/55.png" />
+<image preserveAspectRatio="none" x="57" y="793" width="12" height="102" xlink:href="118/img/56.png" />
+<image preserveAspectRatio="none" x="100" y="793" width="14" height="102" xlink:href="118/img/57.png" />
+<image preserveAspectRatio="none" x="57" y="882" width="12" height="74" xlink:href="118/img/58.png" />
+<image preserveAspectRatio="none" x="100" y="882" width="126" height="74" xlink:href="118/img/59.png" />
+<image preserveAspectRatio="none" x="77" y="884" width="15" height="72" xlink:href="118/img/60.png" />
+<image preserveAspectRatio="none" x="35" y="435" width="858" height="551" xlink:href="118/img/61.png" />
+<path d="M83.4,479.7L61.4,900l803.2,42.1l22,-420.3L83.4,479.7Z" class="g3_118" />
+<path d="M101.5,550.8l44.2,0c3.3,0,5,-2,5,-6l0,-39.7c0,-2.4,-0.5,-3.9,-1.4,-4.8c-1,-0.8,-2.7,-1.4,-5.3,-1.9l-6,-0.3c-2.6,-0.5,-3.8,-1.7,-3.8,-3.6c0,-0.7,0.4,-2.4,1.4,-5.2l15.1,-34.8c0.4,-1.4,0.3,-2.8,-0.6,-4.2c-0.8,-1.4,-2,-2.1,-3.6,-2.1l-5.7,0c-5.1,0,-8.9,1.8,-11.2,5.6l-32,49.9c-0.7,1.4,-1,2.7,-1,3.8l0,38.3c0,3.3,1.6,5,4.9,5Zm78.7,0l44.3,0c3.5,0,5.2,-2,5.2,-6l0,-39.7c0,-2.4,-0.5,-3.9,-1.5,-4.8c-1.1,-0.8,-2.9,-1.4,-5.5,-1.9l-5.6,-0.3c-2.8,-0.5,-4.2,-1.8,-4.2,-3.9c0,-0.5,0.4,-2.1,1.4,-4.9l15.1,-34.8c0.4,-1.4,0.3,-2.8,-0.4,-4.2c-0.7,-1.4,-1.8,-2.1,-3.5,-2.1l-6,0c-2.1,0,-4.2,0.4,-6.3,1.4c-2.1,0.9,-3.7,2.3,-4.9,4.2l-31.6,49.9c-1,0.9,-1.4,2.2,-1.4,3.8l0,38.3c0,3.3,1.6,5,4.9,5Z" class="g4_118" />
+<text 
+x="82" 
+y="708" 
+dx="0" 
+class="s1_118"
+>“</text>
+
+<path d="M721.7,977.1l6,0c2.1,0,4.2,-0.4,6.3,-1.4c2.1,-0.9,3.8,-2.3,4.9,-4.2L770.6,922c0.9,-1.4,1.4,-2.8,1.4,-4.2l0,-38c0,-3.5,-1.7,-5.3,-4.9,-5.3l-44.3,0c-3.5,0,-5.3,2,-5.3,6l0,40.1c0,2.1,0.5,3.6,1.6,4.5c1,1,2.9,1.6,5.4,1.8l5.7,0.4c2.8,0.7,4.2,1.9,4.2,3.8c0,0.5,-0.5,2.1,-1.4,4.9l-15.1,34.8c-0.5,1.4,-0.4,2.8,0.3,4.2c0.7,1.4,1.9,2.1,3.5,2.1Zm79.1,0l5.6,0c5.2,0,8.9,-1.8,11.3,-5.6L849.6,922c0.7,-2.1,1.1,-3.5,1.1,-4.2l0,-38c0,-3.5,-1.7,-5.3,-4.9,-5.3l-44.3,0c-3.3,0,-4.9,2,-4.9,6l0,40.1c0,2.1,0.5,3.6,1.6,4.5c1,1,2.7,1.6,5.1,1.8l5.9,0.4c2.6,0.7,3.9,1.9,3.9,3.8c0,0.5,-0.5,2.1,-1.4,4.9l-15.1,34.8c-0.5,1.4,-0.3,2.8,0.5,4.2c0.8,1.4,2.1,2.1,3.7,2.1Z" class="g4_118" />
+<text 
+x="701" 
+y="1135" 
+dx="0" 
+class="s1_118"
+>”</text>
+
+<text 
+x="82" 
+y="974" 
+dx="0,0,-1.2,0,0,1.2,1.3,1.2,0,-0.8,1.2,0.9,1.2,0,0,1.3" 
+class="s2_118"
+>Casual greetings</text>
+
+<text 
+x="82" 
+y="1012" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.3,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.3,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.4,0.4,0.4,0.4,0" 
+class="s3_118"
+>In Chinese culture, people commonly greet each other by asking a casual question about the routine </text>
+
+<text 
+x="82" 
+y="1035" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.3,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.4,0" 
+class="s3_118"
+>activity that the other person is engaged in at the moment. Thus, upon seeing a friend on her way to a </text>
+
+<text 
+x="82" 
+y="1058" 
+dx="0,0.4,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s3_118"
+>grocery store, you could ask </text>
+
+<text 
+x="267" 
+y="1058" 
+dx="0,0,0,0" 
+class="s4_118"
+>买菜呀？</text>
+
+<text 
+x="362" 
+y="1058" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_118"
+>(Mǎi cài ya?)</text>
+
+<text 
+x="446" 
+y="1058" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.4,0" 
+class="s3_118"
+>(Going grocery shopping, eh?). Running into a </text>
+
+<text 
+x="82" 
+y="1081" 
+dx="0,0.1,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s3_118"
+>fellow student who is leaving a classroom, you could ask </text>
+
+<text 
+x="447" 
+y="1081" 
+dx="0,0,0,0" 
+class="s4_118"
+>下课了？</text>
+
+<text 
+x="542" 
+y="1081" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_118"
+>(Xià kè le?)</text>
+
+<text 
+x="615" 
+y="1081" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0" 
+class="s3_118"
+>(Just had your class?). </text>
+
+<text 
+x="82" 
+y="1104" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0,0.4,0.4,0.4,0.4,0.4,0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.3,0.4,0.4,0.1,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.3,0.4,0.4,0.4,0.4,0.2,0.4,0.2,0.4,0.4,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.3,0.4,0.2,0" 
+class="s3_118"
+>As the situation is usually very obvious, the speaker does not expect, and is not interested in, an elaborate </text>
+
+<text 
+x="82" 
+y="1127" 
+dx="0,0.4,0.4,0.4,0.4,0.4,-0.7,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s3_118"
+>answer. Nor are these questions considered intrusive or personal.</text>
+
+<g clip-path="url(#c0_118)">
+<path d="M-481.2,1141.3l481.2,0L0,715.8l-481.2,0l0,425.5Z" class="g5_118" />
+</g>
+<path d="M54.3,429.7l481.2,0l0,-375.5l-481.2,0l0,375.5Z" class="g6_118" />
+<text 
+x="81" 
+y="127" 
+dx="0,1.8,1.8,1.8,1.8,1.3,1.2,1.6,1.8" 
+class="s6_118"
+>Chinatown</text>
+
+<text 
+x="81" 
+y="165" 
+dx="0,0,0" 
+class="s4_118"
+>中国城</text>
+
+<text 
+x="153" 
+y="165" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_118"
+>(Zhōngguóchéng)</text>
+
+<text 
+x="265" 
+y="165" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0" 
+class="s3_118"
+>(Chinatown), also </text>
+
+<text 
+x="81" 
+y="188" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s3_118"
+>known as </text>
+
+<text 
+x="143" 
+y="188" 
+dx="0,0,0" 
+class="s4_118"
+>唐人街</text>
+
+<text 
+x="215" 
+y="188" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_118"
+>(Tángrénjiē)</text>
+
+<text 
+x="296" 
+y="188" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0" 
+class="s3_118"
+>(lit. street for the </text>
+
+<text 
+x="81" 
+y="211" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,-1.1,0.1,0.1,0.1,0.1,0.1,-1.1,0.1,0.1,0.1,0.1,-0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,-1.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0" 
+class="s3_118"
+>people of Tang, Tang referring to the Tang dynasty </text>
+
+<text 
+x="81" 
+y="234" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.3,0.1,0" 
+class="s3_118"
+>in Chinese history), were originally ethnic enclaves </text>
+
+<text 
+x="81" 
+y="257" 
+dx="0,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0.1,0.1,0.1,0,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0" 
+class="s3_118"
+>for Chinese immigrants in large metropolitan areas </text>
+
+<text 
+x="81" 
+y="280" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,-0.2,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.3,0.1,-1,0" 
+class="s3_118"
+>in the United States and other countries. However, </text>
+
+<text 
+x="81" 
+y="303" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0" 
+class="s3_118"
+>with the mingling of immigrants from across </text>
+
+<text 
+x="81" 
+y="326" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0" 
+class="s3_118"
+>Asia, especially East Asia, many Chinatowns are </text>
+
+<text 
+x="81" 
+y="349" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0" 
+class="s3_118"
+>becoming increasingly “pan-Asian” rather than </text>
+
+<text 
+x="81" 
+y="372" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.3,0.1,-1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1,0.1,0.1,0.1,0" 
+class="s3_118"
+>specifically Chinese. However, Chinatowns remain </text>
+
+<text 
+x="81" 
+y="394" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.1,0.1" 
+class="s3_118"
+>a meaningful window on Chinese culture.</text>
+
+<image preserveAspectRatio="none" x="535" y="80" width="345" height="330" xlink:href="118/img/62.png" />
+<image preserveAspectRatio="none" x="862" y="80" width="18" height="36" xlink:href="118/img/63.png" />
+<image preserveAspectRatio="none" x="858" y="400" width="22" height="10" xlink:href="118/img/64.png" />
+<image preserveAspectRatio="none" x="858" y="342" width="22" height="47" xlink:href="118/img/65.png" />
+<image preserveAspectRatio="none" x="545" y="198" width="330" height="66" xlink:href="118/img/66.png" />
+<image preserveAspectRatio="none" x="545" y="80" width="159" height="107" xlink:href="118/img/67.png" />
+<image preserveAspectRatio="none" x="717" y="80" width="158" height="107" xlink:href="118/img/68.png" />
+<image preserveAspectRatio="none" x="582" y="224" width="256" height="14" xlink:href="118/img/69.png" />
+<image preserveAspectRatio="none" x="703" y="80" width="14" height="118" xlink:href="118/img/70.png" />
+<image preserveAspectRatio="none" x="717" y="275" width="158" height="123" xlink:href="118/img/71.png" />
+<image preserveAspectRatio="none" x="545" y="275" width="159" height="123" xlink:href="118/img/72.png" />
+<image preserveAspectRatio="none" x="703" y="263" width="14" height="134" xlink:href="118/img/73.png" />
+<image preserveAspectRatio="none" x="680" y="383" width="15" height="27" xlink:href="118/img/74.png" />
+<image preserveAspectRatio="none" x="725" y="383" width="15" height="27" xlink:href="118/img/75.png" />
+<image preserveAspectRatio="none" x="535" y="80" width="23" height="43" xlink:href="118/img/76.png" />
+<image preserveAspectRatio="none" x="535" y="400" width="27" height="10" xlink:href="118/img/77.png" />
+<image preserveAspectRatio="none" x="535" y="335" width="26" height="54" xlink:href="118/img/78.png" />
+<image preserveAspectRatio="none" x="428" y="80" width="108" height="330" xlink:href="118/img/79.png" />
+<image preserveAspectRatio="none" x="432" y="83" width="435" height="314" xlink:href="118/img/80.png" />
+<path d="M433.5,395.7l432,0l0,-310.9l-432,0l0,310.9Z" class="g7_118" />
+<text 
+x="886" 
+y="1173" 
+dx="0,0.3,0" 
+class="s7_118"
+>97 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_3vl;
+	src: url("fonts/LibreFranklin-Bold_3vl.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3vz;
+	src: url("fonts/LibreFranklin-SemiBold_3vz.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri_3z3;
+	src: url("fonts/Calibri_3z3.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3vd;
+	src: url("fonts/LibreFranklin-Medium_3vd.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

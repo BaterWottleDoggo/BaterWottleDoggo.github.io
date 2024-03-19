@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 208 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_208{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_208{
+fill: #3986C6;
+}
+.g3_208{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.9097222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_208{
+fill: #ACBF3B;
+}
+.g5_208{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_208{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_208{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_208{
+fill: #E2E3E5;
+}
+
+.s1_208{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d1q;
+fill: #231F20;
+}
+.s2_208{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_d1j;
+fill: #231F20;
+}
+.s3_208{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_d1l;
+fill: #FFFFFF;
+}
+.s4_208{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d1q;
+fill: #FFFFFF;
+}
+.s5_208{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d1q;
+fill: #231F20;
+}
+.s6_208{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_d1l;
+fill: #FFFFFF;
+}
+.s7_208{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d1o;
+fill: #231F20;
+}
+.s8_208{
+font-size: 44.31px;
+font-family: ProximaNova-Bold_d1q;
+fill: #3986C6;
+}
+.s9_208{
+font-size: 16.04px;
+font-family: Alegreya-Regular_d1o;
+fill: #231F20;
+}
+.s10_208{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s11_208{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #3986C6;
+}
+.s12_208{
+font-size: 18.33px;
+font-family: ProximaNova-Extrabld_d1l;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="856" 
+y="1149" 
+dx="0,0,0" 
+class="s1_208"
+>185</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_208" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_208" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 769)"
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_208"
+>Chapter 8 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 833)"
+dx="0,0" 
+class="s2_208"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 845)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_208"
+>Shopping for the Perfect Gift </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1017)"
+dx="0,0" 
+class="s2_208"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1028)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_208"
+>Section 2</text>
+
+<path d="M107.1,199.7C97,199.7,88.8,191.5,88.8,181.4l0,-20.2l23.1,0c10.2,0,18.4,8.2,18.4,18.3l0,20.2Z" class="g2_208" />
+<path d="M0,51.3l842.4,0" class="g3_208" />
+<path d="M842.4,55.9c2.5,0,4.6,-2.1,4.6,-4.6c0,-2.5,-2.1,-4.6,-4.6,-4.6c-2.5,0,-4.6,2.1,-4.6,4.6c0,2.5,2.1,4.6,4.6,4.6Z" class="g2_208" />
+<path d="M294.1,31.1c11.1,0,20.2,9.1,20.2,20.2l0,20.2l-112.2,0l0,-40.4Z" class="g4_208" />
+<path d="M110.2,71.5C99,71.5,90,62.4,90,51.3L90,31.1l112.1,0l0,40.4Z" class="g2_208" />
+<path d="M202.9,25.6l0,45.9" class="g5_208" />
+<text 
+x="212" 
+y="56" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_208"
+>S³C´µ¶· 2</text>
+
+<text 
+x="100" 
+y="56" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_208"
+>C¸¹P´³º 8 </text>
+
+<path d="M94.6,161.8l458.4,0" class="g6_208" />
+<path d="M108.4,199.2l444.6,0" class="g6_208" />
+<text 
+x="93" 
+y="188" 
+dx="0,0,0" 
+class="s4_208"
+>2a </text>
+
+<text 
+x="135" 
+y="188" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_208"
+>Language Model </text>
+
+<path d="M356.3,191.2c-6,0,-10.9,-4.8,-10.9,-10.8l0,-10.8l194.5,0c5.9,0,10.8,4.8,10.8,10.8l0,10.8Z" class="g4_208" />
+<text 
+x="360" 
+y="184" 
+dx="0,-0.9,0,0,0,0,0,0,0,0,0,0,-0.5,-0.4,0,0,0,0,0,0,0" 
+class="s6_208"
+>´¹ºG³´ »¹·Gu¹G³ µ·Pu´</text>
+
+<text 
+x="89" 
+y="239" 
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-1.3,-0.4,0,-0.6,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s7_208"
+>Your teacher will lead a discussion about the images below. Try to participate as much as you </text>
+
+<text 
+x="91" 
+y="265" 
+dx="0,-0.2,0,0,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-1.3" 
+class="s7_208"
+>can. If there is anything you don’t understand, let your teacher know.</text>
+
+<text 
+x="90" 
+y="123" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_208"
+>Shopping choices</text>
+
+<image preserveAspectRatio="none" x="87" y="308" width="207" height="163" xlink:href="208/img/1.png" />
+<image preserveAspectRatio="none" x="87" y="470" width="207" height="55" xlink:href="208/img/2.png" />
+<path d="M629.8,462.7l-267.9,0" class="g7_208" />
+<path d="M773.3,362.4l-466.2,0" class="g7_208" />
+<path d="M307.1,367c-2.5,0,-4.6,-2.1,-4.6,-4.6c0,-2.5,2.1,-4.6,4.6,-4.6c2.5,0,4.6,2.1,4.6,4.6c0,2.5,-2.1,4.6,-4.6,4.6Z" class="g2_208" />
+<path d="M372.4,334.7c-7.6,0,-13.8,6.2,-13.8,13.8l0,27.8c0,7.6,6.2,13.8,13.8,13.8l27.8,0c7.6,0,13.7,-6.2,13.7,-13.8l0,-27.8c0,-7.6,-6.1,-13.8,-13.7,-13.8Z" class="g8_208" />
+<path d="M372.4,435c-7.6,0,-13.8,6.2,-13.8,13.8l0,27.8c0,7.6,6.2,13.8,13.8,13.8l56.5,0c7.6,0,13.7,-6.2,13.7,-13.8l0,-27.8c0,-7.6,-6.1,-13.8,-13.7,-13.8Z" class="g8_208" />
+<path d="M448.2,334.7c-7.6,0,-13.7,6.2,-13.7,13.8l0,27.8c0,7.6,6.1,13.8,13.7,13.8l27.8,0c7.6,0,13.8,-6.2,13.8,-13.8l0,-27.8c0,-7.6,-6.2,-13.8,-13.8,-13.8Z" class="g8_208" />
+<path d="M477.2,435c-7.6,0,-13.7,6.2,-13.7,13.8l0,27.8c0,7.6,6.1,13.8,13.7,13.8l56.6,0c7.6,0,13.7,-6.2,13.7,-13.8l0,-27.8c0,-7.6,-6.1,-13.8,-13.7,-13.8Z" class="g8_208" />
+<path d="M523.7,334.7c-7.6,0,-13.7,6.2,-13.7,13.8l0,27.8c0,7.6,6.1,13.8,13.7,13.8l27.9,0c7.5,0,13.7,-6.2,13.7,-13.8l0,-27.8c0,-7.6,-6.2,-13.8,-13.7,-13.8Z" class="g8_208" />
+<path d="M582.2,435c-7.6,0,-13.7,6.2,-13.7,13.8l0,27.8c0,7.6,6.1,13.8,13.7,13.8l37.3,0c7.5,0,13.7,-6.2,13.7,-13.8l0,-27.8C633.2,441.2,627,435,619.5,435Z" class="g8_208" />
+<path d="M674.4,334.7c-7.6,0,-13.8,6.2,-13.8,13.8l0,27.8c0,7.6,6.2,13.8,13.8,13.8l61.1,0c7.6,0,13.7,-6.2,13.7,-13.8l0,-27.8c0,-7.6,-6.1,-13.8,-13.7,-13.8Z" class="g8_208" />
+<path d="M598.8,334.7c-7.6,0,-13.7,6.2,-13.7,13.8l0,27.8c0,7.6,6.1,13.8,13.7,13.8l27.9,0c7.5,0,13.7,-6.2,13.7,-13.8l0,-27.8c0,-7.6,-6.2,-13.8,-13.7,-13.8Z" class="g8_208" />
+<text 
+x="373" 
+y="328" 
+dx="0,0.2,0.2,0.2" 
+class="s9_208"
+>Zhè </text>
+
+<text 
+x="450" 
+y="328" 
+dx="0,0.2,0.2,0.2" 
+class="s9_208"
+>běn </text>
+
+<text 
+x="525" 
+y="328" 
+dx="0,0.2,0.2,0.2" 
+class="s9_208"
+>shū </text>
+
+<text 
+x="598" 
+y="328" 
+dx="0,0.2,0.2,0.2" 
+class="s9_208"
+>hěn </text>
+
+<text 
+x="675" 
+y="328" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_208"
+>jiǎndān,</text>
+
+<text 
+x="381" 
+y="428" 
+dx="0,0.2,0.1,0.2,0.2,0.2" 
+class="s9_208"
+>érqiě </text>
+
+<text 
+x="484" 
+y="428" 
+dx="0,0.2,0.2" 
+class="s9_208"
+>bú </text>
+
+<text 
+x="512" 
+y="428" 
+dx="0,0.2,0.2,0.2" 
+class="s9_208"
+>tài </text>
+
+<text 
+x="585" 
+y="428" 
+dx="0,0.2,0.2,0.2" 
+class="s9_208"
+>guì.</text>
+
+<text 
+x="368" 
+y="371" 
+dx="0,0" 
+class="s10_208"
+>这 </text>
+
+<text 
+x="445" 
+y="371" 
+dx="0,0" 
+class="s10_208"
+>本 </text>
+
+<text 
+x="522" 
+y="371" 
+dx="0,0" 
+class="s10_208"
+>书 </text>
+
+<text 
+x="597" 
+y="371" 
+dx="0,0" 
+class="s10_208"
+>很 </text>
+
+<text 
+x="664" 
+y="371" 
+dx="0,0,0" 
+class="s10_208"
+>简单，</text>
+
+<text 
+x="367" 
+y="472" 
+dx="0,0,0" 
+class="s10_208"
+>而且 </text>
+
+<text 
+x="472" 
+y="472" 
+dx="0,0,0" 
+class="s10_208"
+>不太 </text>
+
+<text 
+x="577" 
+y="472" 
+dx="0,0" 
+class="s10_208"
+>贵。</text>
+
+<text 
+x="359" 
+y="521" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.3,-0.6,-0.4" 
+class="s7_208"
+>This book is very simple and also not too expensive. </text>
+
+<image preserveAspectRatio="none" x="498" y="848" width="214" height="190" xlink:href="208/img/3.png" />
+<text 
+x="754" 
+y="932" 
+dx="0,0.2,0.2" 
+class="s9_208"
+>guì</text>
+
+<text 
+x="749" 
+y="970" 
+dx="0" 
+class="s11_208"
+>贵</text>
+
+<text 
+x="727" 
+y="997" 
+dx="0,-0.4,0,0,0,0,0,0,-0.3" 
+class="s7_208"
+>expensive</text>
+
+<path d="M761.9,906.4c0,0,-9.2,0,-9.2,-9.2l0,-15.1l16,0c0,0,9.2,0,9.2,9.2l0,15.1Z" class="g4_208" />
+<text 
+x="759" 
+y="901" 
+dx="0" 
+class="s12_208"
+>4</text>
+
+<image preserveAspectRatio="none" x="87" y="838" width="214" height="190" xlink:href="208/img/4.png" />
+<text 
+x="341" 
+y="932" 
+dx="0,0.2,0.2,0.2,-0.1,0.2" 
+class="s9_208"
+>piányi</text>
+
+<text 
+x="330" 
+y="970" 
+dx="0,0" 
+class="s11_208"
+>便宜</text>
+
+<text 
+x="339" 
+y="997" 
+dx="0,0,0,0,0,-0.8,-0.4" 
+class="s7_208"
+>cheap, </text>
+
+<text 
+x="315" 
+y="1023" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,-0.3" 
+class="s7_208"
+>inexpensive</text>
+
+<path d="M358.6,906.4c0,0,-9.2,0,-9.2,-9.2l0,-15.1l16,0c0,0,9.2,0,9.2,9.1l0,15.2Z" class="g4_208" />
+<text 
+x="356" 
+y="901" 
+dx="0" 
+class="s12_208"
+>3</text>
+
+<image preserveAspectRatio="none" x="498" y="588" width="214" height="200" xlink:href="208/img/5.png" />
+<text 
+x="752" 
+y="676" 
+dx="0,0.2,0.2" 
+class="s9_208"
+>nán</text>
+
+<text 
+x="748" 
+y="714" 
+dx="0" 
+class="s11_208"
+>难</text>
+
+<text 
+x="733" 
+y="741" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_208"
+>difficult</text>
+
+<path d="M761.5,649.9c0,0,-9.2,0,-9.2,-9.2l0,-15.1l16,0c0,0,9.2,0,9.2,9.1l0,15.2Z" class="g4_208" />
+<text 
+x="759" 
+y="644" 
+dx="0" 
+class="s12_208"
+>2</text>
+
+<image preserveAspectRatio="none" x="87" y="589" width="214" height="198" xlink:href="208/img/6.png" />
+<text 
+x="336" 
+y="675" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_208"
+>jiǎndān</text>
+
+<text 
+x="329" 
+y="713" 
+dx="0,0" 
+class="s11_208"
+>简单</text>
+
+<text 
+x="335" 
+y="740" 
+dx="0,0,0,0,0,0" 
+class="s7_208"
+>simple</text>
+
+<path d="M358.5,648.7c0,0,-9.2,0,-9.2,-9.1l0,-15.1l16.1,0c0,0,9.1,0,9.1,9.1l0,15.1Z" class="g4_208" />
+<text 
+x="357" 
+y="643" 
+dx="0" 
+class="s12_208"
+>1</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_d1j;
+	src: url("fonts/ProximaNova-Semibold_d1j.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_d1l;
+	src: url("fonts/ProximaNova-Extrabld_d1l.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_d1q;
+	src: url("fonts/ProximaNova-Bold_d1q.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d1o;
+	src: url("fonts/Alegreya-Regular_d1o.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

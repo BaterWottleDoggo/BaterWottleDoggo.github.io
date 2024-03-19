@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 421 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_421{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_421{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_421{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_421{
+fill: none;
+stroke: #DC262E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_421{
+fill: #FFFFFF;
+}
+.g6_421{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_421{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_421{
+font-size: 10.69px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #FFFFFF;
+}
+.s2_421{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_4hh;
+fill: #909295;
+}
+.s3_421{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #77787B;
+}
+.s4_421{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #007598;
+}
+.s5_421{
+font-size: 9.80px;
+font-family: ProximaNova-Extrabld_4hk;
+fill: #007598;
+}
+.s6_421{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #DC262E;
+}
+.s7_421{
+font-size: 9.80px;
+font-family: ProximaNova-Extrabld_4hk;
+fill: #DC262E;
+}
+.s8_421{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #3F3F40;
+}
+.s9_421{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_4ho;
+fill: #77787B;
+}
+.s10_421{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g1_421" />
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1173)"
+dx="0,0.6,0.6,0.6" 
+class="s1_421"
+>400 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1132)"
+dx="0,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6" 
+class="s1_421"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1004)"
+dx="0,0.6" 
+class="s1_421"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 992)"
+dx="0,-0.6,0.4,0.3,0.6,0.6,0.6,0.6" 
+class="s1_421"
+>Textbook</text>
+
+<path d="M317.9,70.9l0,898.2" class="g2_421" />
+<path d="M742.5,71.6l4.4,0" class="g3_421" />
+<path d="M811.3,97.6l5.9,0" class="g3_421" />
+<path d="M444.6,123.5l5.9,0" class="g3_421" />
+<path d="M444.6,175.5l6,0" class="g3_421" />
+<path d="M559.2,253.4l5.4,0" class="g4_421" />
+<path d="M421.7,279.4l5.8,0" class="g4_421" />
+<path d="M673.8,413.8l5.3,0" class="g4_421" />
+<path d="M627.9,439.8l5.8,0" class="g4_421" />
+<path d="M762.4,881.3l4.8,0" class="g4_421" />
+<path d="M512.9,907.3l6,0" class="g3_421" />
+<text 
+x="144" 
+y="81" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_421"
+>Lesson 17</text>
+
+<text 
+x="398" 
+y="80" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_421"
+>王朋在學校的宿舍</text>
+
+<text 
+x="582" 
+y="80" 
+dx="0,0,0,0,0,0,0" 
+class="s4_421"
+>住了兩個學期了</text>
+
+<text 
+x="742" 
+y="68" 
+dx="0" 
+class="s5_421"
+>1</text>
+
+<text 
+x="746" 
+y="80" 
+dx="0,0,0,0,0" 
+class="s3_421"
+>。他覺得宿</text>
+
+<text 
+x="398" 
+y="106" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>舍太吵，睡不好覺，房間太小，</text>
+
+<text 
+x="719" 
+y="106" 
+dx="0" 
+class="s4_421"
+>連</text>
+
+<text 
+x="742" 
+y="106" 
+dx="0,0" 
+class="s3_421"
+>電腦</text>
+
+<text 
+x="788" 
+y="106" 
+dx="0" 
+class="s4_421"
+>都</text>
+
+<text 
+x="811" 
+y="94" 
+dx="0" 
+class="s5_421"
+>2</text>
+
+<text 
+x="817" 
+y="106" 
+dx="0,0" 
+class="s4_421"
+>放 </text>
+
+<text 
+x="398" 
+y="132" 
+dx="0,0" 
+class="s4_421"
+>不下</text>
+
+<text 
+x="444" 
+y="120" 
+dx="0" 
+class="s5_421"
+>3</text>
+
+<text 
+x="450" 
+y="132" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>，再說也沒有地方可以做飯，很不方便，</text>
+
+<text 
+x="398" 
+y="158" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>所以準備下個學期搬出去住。他找房子找了一</text>
+
+<text 
+x="398" 
+y="184" 
+dx="0" 
+class="s3_421"
+>個</text>
+
+<text 
+x="421" 
+y="184" 
+dx="0" 
+class="s4_421"
+>多</text>
+
+<text 
+x="444" 
+y="172" 
+dx="0" 
+class="s5_421"
+>4</text>
+
+<text 
+x="450" 
+y="184" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>月了，可是還沒有找到合適的。剛才他在</text>
+
+<text 
+x="398" 
+y="210" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>報紙上看到了一個廣告，說學校附近有一套公</text>
+
+<text 
+x="398" 
+y="236" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>寓出租，離學校很近，走路只要五分鐘，很方</text>
+
+<text 
+x="398" 
+y="262" 
+dx="0,0,0,0,0,0" 
+class="s3_421"
+>便。公寓有一</text>
+
+<text 
+x="536" 
+y="262" 
+dx="0" 
+class="s6_421"
+>個</text>
+
+<text 
+x="559" 
+y="250" 
+dx="0" 
+class="s7_421"
+>a</text>
+
+<text 
+x="564" 
+y="262" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>臥室，一個廚房，一個</text>
+
+<text 
+x="793" 
+y="262" 
+dx="0,0,0" 
+class="s6_421"
+>衛生 </text>
+
+<text 
+x="398" 
+y="288" 
+dx="0" 
+class="s6_421"
+>間</text>
+
+<text 
+x="421" 
+y="276" 
+dx="0" 
+class="s7_421"
+>b</text>
+
+<text 
+x="427" 
+y="288" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>，一個客廳，還帶傢俱。王朋覺得這套公寓</text>
+
+<text 
+x="398" 
+y="313" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_421"
+>可能對他很合適。</text>
+
+<text 
+x="398" 
+y="396" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>（王朋打電話問租房子的事兒……）</text>
+
+<text 
+x="398" 
+y="422" 
+dx="0,0,0" 
+class="s8_421"
+>王朋：</text>
+
+<text 
+x="467" 
+y="422" 
+dx="0,0,0,0,0,0" 
+class="s3_421"
+>喂，請問你們</text>
+
+<text 
+x="604" 
+y="422" 
+dx="0,0,0" 
+class="s6_421"
+>是不是</text>
+
+<text 
+x="673" 
+y="410" 
+dx="0" 
+class="s7_421"
+>a</text>
+
+<text 
+x="679" 
+y="422" 
+dx="0,0,0,0,0,0" 
+class="s3_421"
+>有公寓出租？</text>
+
+<text 
+x="398" 
+y="448" 
+dx="0,0,0" 
+class="s8_421"
+>房東：</text>
+
+<text 
+x="467" 
+y="448" 
+dx="0,0,0" 
+class="s3_421"
+>有啊，</text>
+
+<text 
+x="536" 
+y="448" 
+dx="0,0,0,0" 
+class="s6_421"
+>一房一廳</text>
+
+<text 
+x="627" 
+y="436" 
+dx="0" 
+class="s7_421"
+>b</text>
+
+<text 
+x="633" 
+y="448" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>，非常乾淨，還帶傢</text>
+
+<text 
+x="467" 
+y="474" 
+dx="0,0" 
+class="s3_421"
+>俱。</text>
+
+<text 
+x="398" 
+y="500" 
+dx="0,0,0" 
+class="s8_421"
+>王朋：</text>
+
+<text 
+x="467" 
+y="500" 
+dx="0,0,0,0,0,0" 
+class="s3_421"
+>有什麼傢俱？</text>
+
+<text 
+x="398" 
+y="526" 
+dx="0,0,0" 
+class="s8_421"
+>房東：</text>
+
+<text 
+x="467" 
+y="526" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>客廳裡有一套沙發、一張飯桌跟四把椅</text>
+
+<text 
+x="467" 
+y="552" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>子。卧室裡有一張床、一張書桌和一個</text>
+
+<text 
+x="467" 
+y="578" 
+dx="0,0,0" 
+class="s3_421"
+>書架。</text>
+
+<text 
+x="398" 
+y="604" 
+dx="0,0,0" 
+class="s8_421"
+>王朋：</text>
+
+<text 
+x="467" 
+y="604" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>你們那裡安靜不安靜？</text>
+
+<text 
+x="398" 
+y="630" 
+dx="0,0,0" 
+class="s8_421"
+>房東：</text>
+
+<text 
+x="467" 
+y="630" 
+dx="0,0,0,0,0" 
+class="s3_421"
+>非常安靜。</text>
+
+<text 
+x="398" 
+y="656" 
+dx="0,0,0" 
+class="s8_421"
+>王朋：</text>
+
+<text 
+x="467" 
+y="656" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>每個月房租多少錢？</text>
+
+<text 
+x="398" 
+y="682" 
+dx="0,0,0" 
+class="s8_421"
+>房東：</text>
+
+<text 
+x="467" 
+y="682" 
+dx="0,0,0,0,0,0" 
+class="s3_421"
+>八百五十元。</text>
+
+<text 
+x="398" 
+y="708" 
+dx="0,0,0" 
+class="s8_421"
+>王朋：</text>
+
+<text 
+x="467" 
+y="708" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>八百五十美元？人民幣差不多是……有</text>
+
+<text 
+x="467" 
+y="734" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>一點兒貴，能不能便宜點兒？</text>
+
+<text 
+x="398" 
+y="760" 
+dx="0,0,0" 
+class="s8_421"
+>房東：</text>
+
+<text 
+x="467" 
+y="760" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>那你不用付水電費。 </text>
+
+<text 
+x="398" 
+y="785" 
+dx="0,0,0" 
+class="s8_421"
+>王朋：</text>
+
+<text 
+x="467" 
+y="785" 
+dx="0,0,0,0,0,0,0" 
+class="s3_421"
+>要不要付押金？</text>
+
+<text 
+x="398" 
+y="811" 
+dx="0,0,0" 
+class="s8_421"
+>房東：</text>
+
+<text 
+x="467" 
+y="811" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>要多付一個月的房租當押金，搬出去的</text>
+
+<text 
+x="467" 
+y="837" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>時候還給你。另外，我們公寓不准養寵</text>
+
+<text 
+x="467" 
+y="863" 
+dx="0,0" 
+class="s3_421"
+>物。</text>
+
+<text 
+x="398" 
+y="889" 
+dx="0,0,0" 
+class="s8_421"
+>王朋：</text>
+
+<text 
+x="467" 
+y="889" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s3_421"
+>沒關係，我對養寵物沒</text>
+
+<text 
+x="694" 
+y="889" 
+dx="0,-0.2,-0.2" 
+class="s6_421"
+>有興趣</text>
+
+<text 
+x="762" 
+y="878" 
+dx="0" 
+class="s7_421"
+>c</text>
+
+<text 
+x="767" 
+y="889" 
+dx="0" 
+class="s3_421"
+>，</text>
+
+<text 
+x="789" 
+y="889" 
+dx="0,-0.2" 
+class="s4_421"
+>什麼</text>
+
+<text 
+x="835" 
+y="889" 
+dx="0" 
+class="s3_421"
+>寵</text>
+
+<text 
+x="467" 
+y="915" 
+dx="0" 
+class="s3_421"
+>物</text>
+
+<text 
+x="490" 
+y="915" 
+dx="0" 
+class="s4_421"
+>都</text>
+
+<text 
+x="512" 
+y="904" 
+dx="0" 
+class="s5_421"
+>5</text>
+
+<text 
+x="518" 
+y="915" 
+dx="0,0,0" 
+class="s3_421"
+>不養。</text>
+
+<text 
+x="398" 
+y="941" 
+dx="0,0,0" 
+class="s8_421"
+>房東：</text>
+
+<text 
+x="467" 
+y="941" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_421"
+>那太好了。你今天下午來看看吧。</text>
+
+<text 
+x="398" 
+y="967" 
+dx="0,0,0" 
+class="s8_421"
+>王朋：</text>
+
+<text 
+x="467" 
+y="967" 
+dx="0,0" 
+class="s3_421"
+>好。</text>
+
+<path d="M243.8,137.8l143.7,0l0,-45.2l-143.7,0l0,45.2Z" class="g5_421" />
+<text 
+x="262" 
+y="112" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s9_421"
+>Finding a Better </text>
+
+<text 
+x="296" 
+y="129" 
+dx="0,0,0,0,0" 
+class="s9_421"
+>Place</text>
+
+<path d="M281.6,57.4c0,0,-15.3,0,-15.3,15.3l0,3.1c0,0,0,15.2,15.3,15.2l68.1,0c0,0,15.3,0,15.3,-15.2l0,-3.1c0,0,0,-15.3,-15.3,-15.3Z" class="g5_421" />
+<text 
+x="285" 
+y="80" 
+dx="0,-0.3,-0.3,-0.3,-0.4,-0.3,-0.3,-0.3,-0.7" 
+class="s10_421"
+>Narrative</text>
+
+<path d="M281.6,56.6c-0.2,0,-16.1,0.2,-16.1,16.1l0,3.1c0,0.1,0.2,16,16.1,16l68.1,0c0.2,0,16.1,-0.2,16.1,-16l0,-3.1c0,-0.2,-0.2,-16.1,-16.1,-16.1l-68.1,0Z" class="g6_421" />
+<path d="M281.6,58.7c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.5,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.6,-0.2,-14,-14,-14l-68.1,0Z" class="g7_421" />
+<path d="M243.8,454.1l143.7,0l0,-45.3l-143.7,0l0,45.3Z" class="g5_421" />
+<text 
+x="262" 
+y="428" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_421"
+>Calling about an </text>
+
+<text 
+x="250" 
+y="445" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s9_421"
+>Apartment for Rent</text>
+
+<path d="M281.6,373.7c0,0,-15.3,0,-15.3,15.2l0,3.1c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g5_421" />
+<text 
+x="287" 
+y="397" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s10_421"
+>Dialogue</text>
+
+<path d="M281.6,372.9c-0.2,0,-16.1,0.2,-16.1,16l0,3.1c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.1,0Z" class="g6_421" />
+<path d="M281.6,374.9c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.1,0Z" class="g7_421" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_4gw;
+	src: url("fonts/LibreFranklin-SemiBold_4gw.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_4hh;
+	src: url("fonts/LibreFranklin-ExtraBold_4hh.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiTC-Regular_4h8;
+	src: url("fonts/STKaitiTC-Regular_4h8.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_4ho;
+	src: url("fonts/LibreFranklin-Light_4ho.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_4hk;
+	src: url("fonts/ProximaNova-Extrabld_4hk.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

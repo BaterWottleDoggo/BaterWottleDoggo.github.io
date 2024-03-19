@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 119 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_119{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_119{
+fill: #3986C6;
+}
+.g3_119{
+fill: #E2E3E5;
+}
+.g4_119{
+fill: #DCDDDF;
+}
+.g5_119{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_119{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_119{
+fill: none;
+stroke: #D9ECD4;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_119{
+fill: none;
+stroke: #939598;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_119{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_119{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cqy;
+fill: #231F20;
+}
+.s2_119{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cur;
+fill: #231F20;
+}
+.s3_119{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s4_119{
+font-size: 19.10px;
+font-family: Alegreya-Bold_cuj;
+fill: #231F20;
+}
+.s5_119{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s6_119{
+font-size: 19.10px;
+font-family: Alegreya-Regular_cus;
+fill: #231F20;
+}
+.s7_119{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_cur;
+fill: #231F20;
+}
+.s8_119{
+font-size: 16.81px;
+font-family: ProximaNovaCond-Extrabld_cv2;
+fill: #231F20;
+}
+.s9_119{
+font-size: 16.04px;
+font-family: Alegreya-Regular_cus;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_119"
+>Go Far with Chinese</text>
+
+<text 
+x="38" 
+y="1149" 
+dx="0,0" 
+class="s2_119"
+>96</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_119" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_119" />
+<path d="M192.8,760c-3.8,0,-6.9,3.1,-6.9,6.9l0,23c0,3.8,3.1,6.8,6.9,6.8l48.7,0c3.8,0,6.9,-3,6.9,-6.8l0,-23c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_119" />
+<path d="M195.4,838.1c-3.8,0,-6.9,3.1,-6.9,6.9l0,22.9c0,3.8,3.1,6.9,6.9,6.9l112.1,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-22.9c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_119" />
+<path d="M160.7,916c-3.8,0,-6.9,3.1,-6.9,6.9l0,22.9c0,3.8,3.1,6.9,6.9,6.9l50.9,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-22.9c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_119" />
+<path d="M137.8,260.7l46.5,0l0,34.7l-46.5,0l0,-34.7Zm46.5,0l90.7,0l0,34.7l-90.7,0l0,-34.7Zm90.7,0l55,0l0,34.7l-55,0l0,-34.7Zm55,0l109.7,0l0,34.7l-109.7,0l0,-34.7Zm109.7,0l237.3,0l0,34.7l-237.3,0l0,-34.7Z" class="g4_119" />
+<path d="M137.8,384.1l46.5,0" class="g5_119" />
+<path d="M184.3,384.1l90.5,0" class="g5_119" />
+<path d="M275.2,384.1l54.6,0" class="g5_119" />
+<path d="M330.2,384.1l109.3,0" class="g5_119" />
+<path d="M439.9,384.1l237.1,0" class="g5_119" />
+<path d="M137.8,472.8l46.5,0" class="g5_119" />
+<path d="M184.3,472.8l90.5,0" class="g5_119" />
+<path d="M275.2,472.8l54.6,0" class="g5_119" />
+<path d="M330.2,472.8l109.3,0" class="g5_119" />
+<path d="M439.9,472.8l237.1,0" class="g5_119" />
+<path d="M275,384.1l0,-88.7" class="g6_119" />
+<path d="M330,384.1l0,-88.7" class="g6_119" />
+<path d="M439.7,384.1l0,-88.7" class="g6_119" />
+<path d="M275,472.8l0,-88.7" class="g6_119" />
+<path d="M330,472.8l0,-88.7" class="g6_119" />
+<path d="M439.7,472.8l0,-88.7" class="g6_119" />
+<path d="M275,561.1l0,-88.3" class="g6_119" />
+<path d="M330,561.1l0,-88.3" class="g6_119" />
+<path d="M439.7,561.1l0,-88.3" class="g6_119" />
+<path d="M275,295.4l0,-34.7" class="g7_119" />
+<path d="M330,295.4l0,-34.7" class="g7_119" />
+<path d="M439.7,295.4l0,-34.7" class="g7_119" />
+<path d="M137.8,561.5l46.5,0" class="g8_119" />
+<path d="M184.3,561.5l90.7,0" class="g8_119" />
+<path d="M275,561.5l55,0" class="g8_119" />
+<path d="M330,561.5l109.7,0" class="g8_119" />
+<path d="M439.7,561.5l237.3,0" class="g8_119" />
+<text 
+x="286" 
+y="286" 
+dx="0" 
+class="s3_119"
+>在</text>
+
+<text 
+x="344" 
+y="285" 
+dx="0,0,0,0,0" 
+class="s2_119"
+>Place</text>
+
+<text 
+x="454" 
+y="285" 
+dx="0,0,0,0,0,0,0" 
+class="s2_119"
+>Meaning</text>
+
+<text 
+x="151" 
+y="370" 
+dx="0,0" 
+class="s4_119"
+>1 </text>
+
+<text 
+x="194" 
+y="363" 
+dx="0" 
+class="s5_119"
+>我</text>
+
+<text 
+x="285" 
+y="363" 
+dx="0" 
+class="s5_119"
+>在</text>
+
+<text 
+x="338" 
+y="363" 
+dx="0,0,0" 
+class="s5_119"
+>北京。</text>
+
+<text 
+x="452" 
+y="366" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_119"
+>I am in Beijing.</text>
+
+<text 
+x="151" 
+y="459" 
+dx="0" 
+class="s4_119"
+>2</text>
+
+<text 
+x="194" 
+y="452" 
+dx="0" 
+class="s5_119"
+>他</text>
+
+<text 
+x="285" 
+y="452" 
+dx="0" 
+class="s5_119"
+>在</text>
+
+<text 
+x="340" 
+y="452" 
+dx="0,0,0" 
+class="s5_119"
+>学校。</text>
+
+<text 
+x="452" 
+y="455" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_119"
+>He is at school.</text>
+
+<text 
+x="151" 
+y="547" 
+dx="0,0" 
+class="s4_119"
+>3 </text>
+
+<text 
+x="194" 
+y="540" 
+dx="0,0" 
+class="s5_119"
+>他们</text>
+
+<text 
+x="285" 
+y="540" 
+dx="0" 
+class="s5_119"
+>在</text>
+
+<text 
+x="339" 
+y="540" 
+dx="0,0" 
+class="s5_119"
+>家。</text>
+
+<text 
+x="453" 
+y="544" 
+dx="0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.6" 
+class="s6_119"
+>They are at home.</text>
+
+<path d="M311.6,93.2l519.5,0" class="g9_119" />
+<path d="M311.6,96.3c1.7,0,3.1,-1.4,3.1,-3.1c0,-1.6,-1.4,-3,-3.1,-3c-1.7,0,-3,1.4,-3,3c0,1.7,1.3,3.1,3,3.1Z" class="g2_119" />
+<text 
+x="110" 
+y="98" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s7_119"
+>Language Reference</text>
+
+<text 
+x="138" 
+y="145" 
+dx="0,0,0,0,0,0" 
+class="s2_119"
+>Using </text>
+
+<text 
+x="191" 
+y="145" 
+dx="0" 
+class="s3_119"
+>在</text>
+
+<text 
+x="218" 
+y="145" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_119"
+>to say where you are</text>
+
+<text 
+x="137" 
+y="181" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,-0.4,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.4,0,0,0,0,0,-1,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_119"
+>When talking about one’s location in English, we use the verb “to be” together with either </text>
+
+<text 
+x="133" 
+y="207" 
+dx="0,0,0,-1.5,-0.4,0,0,0,-0.4,0,0,0,-1.1,-0.4,0,-0.9,0,0,0,-0.4,-0.4,0,0,0,0,-0.6,-0.4,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-1,-0.4,0,0,0,-0.4,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.6,-1.1,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,-0.4" 
+class="s6_119"
+>“in” or “at.” For example, “I am in Beijing” or “He is at home.” In Chinese only one word, </text>
+
+<text 
+x="135" 
+y="237" 
+dx="0" 
+class="s3_119"
+>在</text>
+
+<text 
+x="162" 
+y="235" 
+dx="0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s6_119"
+>(zài), is needed. </text>
+
+<path d="M110,149.2l20.6,0l0,-20.7l-20.6,0l0,20.7Z" class="g3_119" />
+<text 
+x="115" 
+y="145" 
+dx="0" 
+class="s8_119"
+>4</text>
+
+<text 
+x="292" 
+y="330" 
+dx="0,0.2,0.2" 
+class="s9_119"
+>zài</text>
+
+<text 
+x="292" 
+y="419" 
+dx="0,0.2,0.2" 
+class="s9_119"
+>zài</text>
+
+<text 
+x="350" 
+y="419" 
+dx="0,0.2,0.2,-0.1,0.2,0.2,0.2" 
+class="s9_119"
+>xuéxiào</text>
+
+<text 
+x="292" 
+y="508" 
+dx="0,0.2,0.2" 
+class="s9_119"
+>zài</text>
+
+<text 
+x="349" 
+y="509" 
+dx="0,0.2,0.2" 
+class="s9_119"
+>jiā</text>
+
+<text 
+x="137" 
+y="619" 
+dx="0,-0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0" 
+class="s2_119"
+>Word order with time expressions</text>
+
+<text 
+x="137" 
+y="655" 
+dx="0,-0.2,0,0,-0.6,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_119"
+>In English, time words often go at the end of a sentence, as in the sentence “I am at school </text>
+
+<text 
+x="137" 
+y="681" 
+dx="0,0,-0.3,-1.3,-1.1,-0.4,0,-0.4,-0.3,-0.3,0,-0.3,0,-1.5,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,-0.2,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_119"
+>now.” However, in Chinese the time word can come either before or after the subject but </text>
+
+<text 
+x="138" 
+y="707" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.6" 
+class="s6_119"
+>cannot be placed at the end of the sentence.</text>
+
+<path d="M109.9,625.7l20.6,0l0,-20.6l-20.6,0l0,20.6Z" class="g3_119" />
+<text 
+x="115" 
+y="622" 
+dx="0" 
+class="s8_119"
+>5</text>
+
+<text 
+x="137" 
+y="784" 
+dx="0" 
+class="s4_119"
+>1</text>
+
+<text 
+x="152" 
+y="786" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_119"
+>我现在在美国。 </text>
+
+<text 
+x="484" 
+y="784" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,0,0,-0.3,-1.3" 
+class="s6_119"
+>I am in America now.</text>
+
+<text 
+x="137" 
+y="861" 
+dx="0" 
+class="s4_119"
+>2</text>
+
+<text 
+x="154" 
+y="864" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_119"
+>她这个星期在北京。 </text>
+
+<text 
+x="484" 
+y="861" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s6_119"
+>She is in Beijing this week.</text>
+
+<text 
+x="137" 
+y="939" 
+dx="0" 
+class="s4_119"
+>3</text>
+
+<text 
+x="153" 
+y="942" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_119"
+>现在他在中国。 </text>
+
+<text 
+x="484" 
+y="939" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-1.3" 
+class="s6_119"
+>He is in China now.</text>
+
+<text 
+x="191" 
+y="756" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_119"
+>xiànzài </text>
+
+<text 
+x="254" 
+y="756" 
+dx="0,0.2,0.2" 
+class="s9_119"
+>zài</text>
+
+<text 
+x="261" 
+y="832" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_119"
+>xīngqī </text>
+
+<text 
+x="322" 
+y="832" 
+dx="0,0.2,0.2" 
+class="s9_119"
+>zài</text>
+
+<text 
+x="159" 
+y="911" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_119"
+>Xiànzài </text>
+
+<text 
+x="256" 
+y="911" 
+dx="0,0.2,0.2" 
+class="s9_119"
+>zài</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cur;
+	src: url("fonts/ProximaNova-Bold_cur.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_cuj;
+	src: url("fonts/Alegreya-Bold_cuj.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_cus;
+	src: url("fonts/Alegreya-Regular_cus.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cqy;
+	src: url("fonts/ProximaNova-Semibold_cqy.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNovaCond-Extrabld_cv2;
+	src: url("fonts/ProximaNovaCond-Extrabld_cv2.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

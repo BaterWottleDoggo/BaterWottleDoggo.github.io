@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 170 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_170"><path d="M166.8,744l0,-471.8l576.9,0l0,471.8Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_170{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_170{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_170{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 0.4522223;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_170{
+fill: #FFFFFF;
+}
+.g5_170{
+fill: #F3F4F4;
+}
+.g6_170{
+fill: #7CA3CC;
+}
+.g7_170{
+fill: #F58320;
+}
+.g8_170{
+fill: none;
+stroke: #7CA3CC;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_170{
+fill: #5CA7DB;
+}
+.g10_170{
+fill: none;
+stroke: #5CA7DB;
+stroke-width: 1.5995834;
+stroke-linecap: round;
+stroke-linejoin: miter;
+}
+.g11_170{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.3597223;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g12_170{
+fill: none;
+stroke: #808285;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g13_170{
+fill: #808285;
+}
+.g14_170{
+fill: none;
+stroke: #808285;
+stroke-width: 1.5995834;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g15_170{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.6836112;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g16_170{
+fill: none;
+stroke: #1275BC;
+stroke-width: 1.6836112;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g17_170{
+fill: #6D6E71;
+}
+.g18_170{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.8272222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g19_170{
+fill: none;
+stroke: #939598;
+stroke-width: 0.22305556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g20_170{
+fill: #DAEFEB;
+}
+.g21_170{
+fill: none;
+stroke: #C6EAFA;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g22_170{
+fill: none;
+stroke: #C6EAFA;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g23_170{
+fill: #CAE7E2;
+}
+.g24_170{
+fill: none;
+stroke: #00A3AF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g25_170{
+fill: #00A3AF;
+}
+.g26_170{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_170{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3y5;
+fill: #3F3F40;
+}
+.s2_170{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_170{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #749E3C;
+}
+.s4_170{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s5_170{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #749E3C;
+}
+.s6_170{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3yk;
+fill: #3F3F40;
+}
+.s7_170{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_3z1;
+fill: #6D6E71;
+}
+.s8_170{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_3z2;
+fill: #FFFFFF;
+}
+.s9_170{
+font-size: 13.75px;
+font-family: ArialMT_3z4;
+fill: #1275BC;
+}
+.s10_170{
+font-size: 18.33px;
+font-family: SourceHanSansTW-Regular_3r5;
+fill: #231F20;
+}
+.s11_170{
+font-size: 19.86px;
+font-family: ArialMT_3z4;
+fill: #231F20;
+}
+.s12_170{
+font-size: 13.75px;
+font-family: Arial-BoldMT_3z5;
+fill: #FFFFFF;
+}
+.s13_170{
+font-size: 9.08px;
+font-family: ArialMT_3z4;
+fill: #FFFFFF;
+}
+.s14_170{
+font-size: 24.44px;
+font-family: SourceHanSansCN-Normal_3q5;
+fill: #231F20;
+}
+.s15_170{
+font-size: 23.85px;
+font-family: ArialMT_3z4;
+fill: #231F20;
+}
+.s16_170{
+font-size: 18.33px;
+font-family: ArialMT_3z4;
+fill: #808285;
+}
+.s17_170{
+font-size: 20.37px;
+font-family: ArialMT_3z4;
+fill: #808285;
+}
+.s18_170{
+font-size: 15.28px;
+font-family: ArialMT_3z4;
+fill: #808285;
+}
+.s19_170{
+font-size: 14.51px;
+font-family: LibreFranklin-Medium_3y8;
+fill: #231F20;
+}
+.s20_170{
+font-size: 36.67px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #F7931D;
+}
+.s21_170{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #231F20;
+}
+.s22_170{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #00AEEF;
+}
+.s23_170{
+font-size: 27.50px;
+font-family: ZenKai-Medium_3qs;
+fill: #231F20;
+}
+.s24_170{
+font-size: 36.67px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #F7931D;
+}
+.s25_170{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #231F20;
+}
+.s26_170{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #00AEEF;
+}
+.s27_170{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3yj;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="169" 
+y="71" 
+dx="0,0" 
+class="s1_170"
+>4 </text>
+
+<text 
+x="239" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_170"
+>买东西应该等商店打折的时候去买，</text>
+
+<text 
+x="655" 
+y="73" 
+dx="0,0" 
+class="s3_170"
+>这样</text>
+
+<text 
+x="707" 
+y="73" 
+dx="0,0,0,0,0" 
+class="s2_170"
+>才能买到便</text>
+
+<text 
+x="239" 
+y="107" 
+dx="0,0,0,0,0" 
+class="s2_170"
+>宜的东西。</text>
+
+<text 
+x="239" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_170"
+>買東西應該等商店打折的時候去買，</text>
+
+<text 
+x="655" 
+y="147" 
+dx="0,0" 
+class="s5_170"
+>這樣</text>
+
+<text 
+x="707" 
+y="147" 
+dx="0,0,0,0,0" 
+class="s4_170"
+>才能買到便</text>
+
+<text 
+x="239" 
+y="181" 
+dx="0,0,0,0,0" 
+class="s4_170"
+>宜的東西。</text>
+
+<text 
+x="245" 
+y="215" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_170"
+>You should shop when the stores are having sales. This way you can find good bargains.</text>
+
+<path d="M164.4,48c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_170" />
+<path d="M164.4,50.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_170" />
+<path d="M701.2,506.6l-323.5,0c-17.7,0,-32.1,-6.9,-32.1,-15.3l0,-64.7c0,-8.4,14.4,-15.3,32.1,-15.3l323.5,0c36,0,32.1,-2.4,32.1,15.3l0,64.7c0,17.5,3.3,15.3,-32.1,15.3Z" class="g3_170" />
+<path d="M546.7,436.5l-365.7,0l0,-46.7l365.7,0l0,46.7Z" class="g4_170" />
+<path d="M546.5,436.5l-365.5,0l0,298.9c0,1.4,1.4,6,5.9,6l354.1,0c2.2,0,5.5,-2.1,5.5,-6Z" class="g5_170" />
+<text 
+x="209" 
+y="338" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_170"
+>Teacher Chang just posted this on Twitter. How would you reply? </text>
+
+<g clip-path="url(#c0_170)">
+<path d="M364,293.3c0,-11.6,-9.4,-21.1,-21.1,-21.1l-141.4,0c-11.7,0,-21.1,9.5,-21.1,21.1l0,14.9l183.6,0Z" class="g6_170" />
+</g>
+<path d="M734.3,365.9l-19.7,20.5l0,-20.5Z" class="g7_170" />
+<text 
+x="209" 
+y="298" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s8_170"
+>Chinese Chat</text>
+
+<path d="M180.7,360.4l0,-48.4l529.8,0c13.4,0,24.3,10.9,24.3,24.3l0,24.1l-554.1,0Z" class="g8_170" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 565, 435)"
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_170"
+>Teacher Chang:</text>
+
+<text 
+x="565" 
+y="460" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_170"
+>下個學期的課你們</text>
+
+<text 
+x="565" 
+y="484" 
+dx="0,0,0,0,0,0.4" 
+class="s10_170"
+>都選好了嗎？</text>
+
+<text 
+x="337" 
+y="417" 
+dx="0,-1.1,0,0,0" 
+class="s11_170"
+>Tweet</text>
+
+<path d="M528.5,732.2l-52,0c-1.5,0,-2.7,-1.2,-2.7,-2.7l0,-15.7c0,-1.5,1.2,-2.7,2.7,-2.7l52,0c1.5,0,2.8,1.2,2.8,2.7l0,15.7c0,1.5,-1.3,2.7,-2.8,2.7Z" class="g9_170" />
+<text 
+x="483" 
+y="724" 
+dx="0,0,0,0,0" 
+class="s12_170"
+>Reply</text>
+
+<path d="M514.9,415.1l0,-9.8c0,-0.8,0.9,-1.6,1.9,-1.6l5.5,0" class="g10_170" />
+<path d="M515.9,424l0,-1.8c0,0,6.4,-17.3,20,-22.3c0,0,1.7,0.7,0,1.6c-1.6,1,-4.5,3.4,-4,3.9c0.5,0.4,2.4,-0.4,3.1,-0.8c0.7,-0.4,0.1,2.6,-5.6,4.5c0,0,-1.9,1.5,-0.3,1.4c0,0,4.1,-1.2,2.6,-0.2c-1.4,1.1,-1.8,2.2,-6.1,2.9c-4.3,0.7,-9.7,10.8,-9.7,10.8Z" class="g9_170" />
+<path d="M523.5,420.3l9.8,0c0.8,0,1.6,-0.8,1.6,-1.9l0,-5.5" class="g10_170" />
+<path d="M546.7,390.3l-365.7,0l0,-17.4l365.7,0l0,17.4Z" class="g9_170" />
+<path d="M192,385.8l-2.1,0l0,-3.9l2.1,0l0,3.9Z" class="g4_170" />
+<path d="M195.6,385.8l-2.1,0l0,-5.5l2.1,0l0,5.5Z" class="g4_170" />
+<path d="M199.2,385.8l-2,0l0,-7.2l2,0l0,7.2Z" class="g4_170" />
+<path d="M202.9,385.8l-2.1,0l0,-8.8l2.1,0l0,8.8Z" class="g4_170" />
+<path d="M206.5,385.8l-2.1,0l0,-10.4l2.1,0l0,10.4Z" class="g4_170" />
+<path d="M214.7,380.4c0.9,-1.2,2.6,-2,4.6,-2c2,0,3.7,0.8,4.6,2l1.7,-0.5c-1,-1.8,-3.5,-3,-6.3,-3c-2.9,0,-5.3,1.2,-6.3,3Z" class="g4_170" />
+<path d="M216.4,383.1c0.6,-0.8,1.6,-1.3,2.9,-1.3c1.2,0,2.3,0.5,2.9,1.3l1,-0.7c-0.6,-1.1,-2.1,-1.9,-3.9,-1.9c-1.8,0,-3.3,0.8,-4,1.9Z" class="g4_170" />
+<path d="M218.1,385.7c0.2,-0.3,0.7,-0.5,1.2,-0.5c0.5,0,0.9,0.2,1.2,0.5l0.4,-0.8c-0.3,-0.4,-0.9,-0.8,-1.6,-0.8c-0.7,0,-1.4,0.4,-1.6,0.8Z" class="g4_170" />
+<text 
+x="344" 
+y="383" 
+dx="0,-0.7,0,0,0,0,-0.5,0" 
+class="s13_170"
+>11:04 AM</text>
+
+<text 
+x="498" 
+y="383" 
+dx="0,0,0" 
+class="s13_170"
+>74%</text>
+
+<path d="M536.8,379l-1.5,0l0,-2.5l-14,0l0,7.3l14,0l0,-2.5l1.5,0l0,-2.3Z" class="g11_170" />
+<path d="M531.6,381.6l-9.2,0l0,-3.1l9.2,0l0,3.1Z" class="g4_170" />
+<path d="M202.6,403l-9.1,9.2l8.6,8.7" class="g10_170" />
+<text 
+x="191" 
+y="565" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_170"
+>下个学期的课你们都选好了吗？</text>
+
+<text 
+x="278" 
+y="481" 
+dx="0,-2.6,0,0,0,0,0,0,0,0,0,0,0" 
+class="s15_170"
+>Teacher Chang</text>
+
+<text 
+x="277" 
+y="504" 
+dx="0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_170"
+>@Teacher_Chang66</text>
+
+<text 
+x="194" 
+y="598" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s17_170"
+>8:07 PM - 14 Nov</text>
+
+<text 
+x="355" 
+y="653" 
+dx="0,0" 
+class="s17_170"
+>12</text>
+
+<text 
+x="485" 
+y="653" 
+dx="0,0" 
+class="s17_170"
+>17</text>
+
+<path d="M251.6,652.9c0,0,1.1,-6.9,-6.1,-6.9l-5.4,0" class="g12_170" />
+<path d="M241.4,655.3l0,-18.5l-9.3,9.2Z" class="g13_170" />
+<path d="M333.5,653.7l-8.3,0c-0.9,0,-1.6,-0.8,-1.6,-1.8l0,-6.7" class="g14_170" />
+<path d="M327.9,646.4L323.6,639l-4.3,7.4Z" class="g13_170" />
+<path d="M329.9,639l8.3,0c0.9,0,1.6,0.8,1.6,1.8l0,6.7" class="g14_170" />
+<path d="M335.5,646.3l4.3,7.4l4.3,-7.4Z" class="g13_170" />
+<path d="M475.3,643.2c0,-3.3,-2.6,-5.9,-5.6,-5.9c-2,0,-3.7,1,-4.7,2.7c-1,-1.7,-2.7,-2.7,-4.7,-2.7c-3.1,0,-5.6,2.6,-5.6,5.9c0,1.4,0.6,6.1,9.9,11.8c9.8,-5,10.7,-10.6,10.7,-11.8Z" class="g13_170" />
+<path d="M196.7,618.7l334.6,0" class="g15_170" />
+<image preserveAspectRatio="none" x="193" y="442" width="74" height="101" xlink:href="170/img/1.png" />
+<text 
+x="438" 
+y="727" 
+dx="0,0,0" 
+class="s18_170"
+>140</text>
+
+<path d="M528.6,703.3l-329.5,0c-1.1,0,-1.9,-0.8,-1.9,-1.8l0,-22.5c0,-1.1,0.8,-1.9,1.9,-1.9l329.5,0c1,0,1.9,0.8,1.9,1.9l0,22.5c0,1,-0.9,1.8,-1.9,1.8Z" class="g4_170" />
+<path d="M203.6,682.5l0,15.6" class="g16_170" />
+<path d="M219.4,718.5l-4.7,0l0,-0.8c0,-1.2,-1,-2.2,-2.2,-2.2l-6,0c-1.2,0,-2.2,1,-2.2,2.2l0,0.8l-3.1,0c0,-0.1,0.1,-0.2,0.1,-0.3l0,-2.3c0,-0.4,-0.4,-0.7,-0.8,-0.7c-0.4,0,-0.7,0.3,-0.7,0.7l0,2.3c0,0.1,0,0.2,0.1,0.3l-1,0c-1.2,0,-2.2,1,-2.2,2.2l0,10.6c0,1.2,1,2.2,2.2,2.2l20.5,0c1.2,0,2.2,-1,2.2,-2.2l0,-10.6c0,-1.2,-1,-2.2,-2.2,-2.2Z" class="g17_170" />
+<path d="M217.1,717c0,0.6,-0.5,1,-1,1c-0.6,0,-1.1,-0.4,-1.1,-1c0,-0.6,0.5,-1,1.1,-1c0.5,0,1,0.4,1,1Z" class="g4_170" />
+<path d="M214.5,725.4c0,2.9,-2.4,5.3,-5.3,5.3c-3,0,-5.4,-2.4,-5.4,-5.3c0,-3,2.4,-5.4,5.4,-5.4c2.9,0,5.3,2.4,5.3,5.4Z" class="g18_170" />
+<path d="M540.6,741.4l-353.7,0c-3.3,0,-5.9,-2.7,-5.9,-6l0,-356.6l0,-5.9l365.7,0l-0.2,5.9l0,356.6c0,3.3,-2.6,6,-5.9,6Z" class="g19_170" />
+<path d="M843.8,916.8l0,-37.6L825.4,860.8l-264.3,0l0,56.1Z" class="g20_170" />
+<path d="M74.9,1027.6l768.9,0" class="g21_170" />
+<path d="M74.9,1112.2l768.9,0" class="g22_170" />
+<path d="M362,1120.6l194.6,0l0,-238.8l-194.6,0l0,238.8Z" class="g23_170" />
+<text 
+x="376" 
+y="925" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.1,0,0,0" 
+class="s19_170"
+>Using the word/phrase </text>
+
+<text 
+x="376" 
+y="943" 
+dx="0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s19_170"
+>in orange as a clue, try to </text>
+
+<text 
+x="376" 
+y="961" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s19_170"
+>figure out the meaning </text>
+
+<text 
+x="376" 
+y="980" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s19_170"
+>of the words/phrases in </text>
+
+<text 
+x="376" 
+y="998" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s19_170"
+>blue; consult a dictionary </text>
+
+<text 
+x="376" 
+y="1016" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0" 
+class="s19_170"
+>if necessary. Consider </text>
+
+<text 
+x="376" 
+y="1035" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0" 
+class="s19_170"
+>how the literal and </text>
+
+<text 
+x="376" 
+y="1053" 
+dx="0,-0.3,-0.3,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s19_170"
+>extended senses are </text>
+
+<text 
+x="376" 
+y="1071" 
+dx="0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s19_170"
+>related in each case.</text>
+
+<path d="M358.1,917.1l0,-56.3l-264.9,0L74.9,879.2l0,38.1Z" class="g20_170" />
+<text 
+x="183" 
+y="899" 
+dx="0,0,0" 
+class="s20_170"
+>自由 </text>
+
+<text 
+x="85" 
+y="951" 
+dx="0,0" 
+class="s21_170"
+>他太</text>
+
+<text 
+x="137" 
+y="951" 
+dx="0,0" 
+class="s22_170"
+>自大</text>
+
+<text 
+x="189" 
+y="951" 
+dx="0,0,0,0,0,0" 
+class="s21_170"
+>了，一直觉得</text>
+
+<text 
+x="85" 
+y="978" 
+dx="0,0,0" 
+class="s21_170"
+>自己是</text>
+
+<text 
+x="163" 
+y="981" 
+dx="0" 
+class="s23_170"
+>班</text>
+
+<text 
+x="190" 
+y="978" 
+dx="0,0,0,0,0" 
+class="s21_170"
+>上最好的学</text>
+
+<text 
+x="85" 
+y="1006" 
+dx="0,0" 
+class="s21_170"
+>生。</text>
+
+<text 
+x="85" 
+y="1064" 
+dx="0,0,0,0,0,0" 
+class="s21_170"
+>她跳舞跳得很</text>
+
+<text 
+x="241" 
+y="1064" 
+dx="0,0" 
+class="s22_170"
+>自然</text>
+
+<text 
+x="293" 
+y="1064" 
+dx="0,0" 
+class="s21_170"
+>，一</text>
+
+<text 
+x="85" 
+y="1091" 
+dx="0,0,0,0,0,0,0" 
+class="s21_170"
+>点儿都不紧张。</text>
+
+<text 
+x="664" 
+y="899" 
+dx="0,0,0" 
+class="s24_170"
+>自由 </text>
+
+<text 
+x="566" 
+y="951" 
+dx="0,0" 
+class="s25_170"
+>他太</text>
+
+<text 
+x="618" 
+y="951" 
+dx="0,0" 
+class="s26_170"
+>自大</text>
+
+<text 
+x="670" 
+y="951" 
+dx="0,0,0,0,0,0" 
+class="s25_170"
+>了，一直覺得</text>
+
+<text 
+x="566" 
+y="978" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s25_170"
+>自己是班上最好的學</text>
+
+<text 
+x="566" 
+y="1006" 
+dx="0,0" 
+class="s25_170"
+>生。</text>
+
+<text 
+x="566" 
+y="1064" 
+dx="0,0,0,0,0,0" 
+class="s25_170"
+>她跳舞跳得很</text>
+
+<text 
+x="722" 
+y="1064" 
+dx="0,0" 
+class="s26_170"
+>自然</text>
+
+<text 
+x="774" 
+y="1064" 
+dx="0,0" 
+class="s25_170"
+>，一</text>
+
+<text 
+x="566" 
+y="1091" 
+dx="0,0,0,0,0,0,0" 
+class="s25_170"
+>點兒都不緊張。</text>
+
+<path d="M393.2,835.2l-89.8,0l-15.9,10.6l0,15" class="g24_170" />
+<path d="M532.5,835.2l99.5,0l16.7,10.6l0,15" class="g24_170" />
+<path d="M493.4,818.9c-1.5,2.9,-2.7,5.4,-5.3,10.9l-19.6,43.1l-0.8,0L456.5,848.3l-11.3,24.6l-0.9,0L424.1,829.5c-1.9,-4.2,-3.6,-7.6,-5.5,-10.6l7.8,0c0.8,2.5,2.2,5.6,3.8,9.2l15.2,34.1l8.4,-19.7L448,829.6c-2.5,-5.5,-3.6,-7.7,-5.5,-10.7l7.2,0c0.8,2.5,1.7,4.5,4.2,10.1l2.9,6.6l3,-6.8c2.1,-5,3.1,-7.5,4,-9.9l6.6,0c-1,1.6,-2.7,5.2,-5.4,10.8l-5.5,12l8.8,20.2L482.4,829c2.6,-5.7,3.5,-8.3,4.2,-10.1Z" class="g25_170" />
+<path d="M494.7,850.4c6.3,0,11.2,5,11.2,11.2c0,6.2,-4.9,11.2,-11.2,11.2c-6.3,0,-11.2,-5,-11.2,-11.2c0,-6.2,4.9,-11.2,11.2,-11.2m0,20.2c4.7,0,8.6,-4,8.6,-9c0,-5,-3.9,-9,-8.6,-9c-4.8,0,-8.6,4,-8.6,9c0,5,3.8,9,8.6,9Z" class="g25_170" />
+<path d="M510.5,867c0,2.1,0,4.5,0.1,5.5l-2.8,0c0.1,-1,0.1,-3.4,0.1,-5.5l0,-10.6c0,-2.1,0,-4.7,-0.1,-5.6l4.5,0c4.8,0,7.5,2.6,7.5,6.3c0,3.4,-2.1,5.2,-4.3,5.9c2.3,2.8,5,7.1,7.5,9.5l-3.5,0c-1.8,-2.3,-4.4,-5.9,-6.3,-9.1c-0.3,0.1,-0.6,0.1,-1,0.1l-1.7,0Zm0,-5.4l2.1,0c2.6,0,4.5,-1.8,4.5,-4.4c0,-2.3,-1.6,-4.4,-4.9,-4.4l-1.7,0Z" class="g25_170" />
+<path d="M523.7,872.5c0.1,-1,0.2,-3.6,0.2,-5.7l0,-10.4c0,-2.1,-0.1,-4.7,-0.2,-5.6l6.1,0c6,0,10.9,4.8,10.9,10.8c0,6,-4.9,10.9,-10.9,10.9Zm2.7,-2.2l3.3,0c4.7,0,8.4,-4,8.4,-8.7c0,-4.8,-3.7,-8.7,-8.5,-8.7l-3.2,0Z" class="g25_170" />
+<path d="M552,866.8c0,3.6,-2.6,6.1,-6.5,6.1c-2.1,0,-3.3,-0.5,-5,-0.8l0,-3.6c0.8,1.4,2.9,2.4,5,2.4c2.4,0,3.8,-1.6,3.8,-3.8c0,-4.7,-8.1,-4.7,-8.1,-11c0,-3.7,2.6,-5.8,6.3,-5.8c1.6,0,2.6,0.5,3.9,0.6l0,3.4c-0.5,-1.3,-2.1,-2,-3.9,-2c-2.2,0,-3.7,1.3,-3.7,3.5c0,4.6,8.2,4.7,8.2,11Z" class="g25_170" />
+<path d="M494.6,839.9l2.1,0c0.3,0,0.5,-0.1,0.5,-0.3l1.8,-5.1c0.1,-0.1,0.2,-0.2,0.4,-0.2l7.7,0c0.1,0,0.2,0,0.2,0c0.1,0.1,0.1,0.1,0.2,0.2l1.7,5c0.1,0.2,0.3,0.4,0.5,0.4l2.7,0c0.2,0,0.3,-0.2,0.3,-0.4c0,-0.1,0,-0.2,0,-0.2l-7.1,-19.7c-0.1,-0.3,-0.4,-0.5,-0.7,-0.5l-2.8,0c-0.2,0,-0.3,0,-0.4,0.1c-0.1,0.1,-0.2,0.2,-0.3,0.4l-7.1,19.7l0,0.2c0,0.2,0.1,0.4,0.3,0.4m5.6,-8.2c-0.2,0,-0.3,-0.1,-0.3,-0.2l0.1,-0.2l3.1,-8.4c0,-0.1,0.1,-0.2,0.2,-0.2c0,0,0.1,0,0.2,0.2l3,8.4c0,0.1,0,0.2,0,0.3c0,0,-0.1,0.1,-0.2,0.1Zm28.7,-12.6l-2.3,0c-0.2,0,-0.3,0,-0.4,0.1c-0.1,0,-0.2,0.1,-0.2,0.3l-4.9,8.5c0,0.1,-0.1,0.2,-0.2,0.2c-0.1,0,-0.2,-0.1,-0.4,-0.3l-4.8,-8.4c-0.1,-0.2,-0.2,-0.3,-0.3,-0.3c-0.1,-0.1,-0.2,-0.1,-0.4,-0.1l-2.7,0c-0.3,0,-0.4,0.1,-0.4,0.3c0,0.1,0,0.1,0.1,0.2l6.7,11.2c0.1,0.2,0.2,0.4,0.2,0.5c0,0.1,0,0.2,0,0.4l0,7.7c0,0.3,0.2,0.5,0.5,0.5l2.3,0c0.2,0,0.4,-0.1,0.5,-0.2c0.1,-0.1,0.1,-0.2,0.1,-0.4l0,-7.6c0,-0.4,0,-0.6,0,-0.7c0.1,-0.2,0.1,-0.3,0.2,-0.4l6.6,-11c0.1,-0.2,0.1,-0.3,0.1,-0.4c-0.1,-0.1,-0.2,-0.1,-0.3,-0.1Z" class="g25_170" />
+<path d="M398.7,839.9l1.5,0c0.2,0,0.3,-0.1,0.3,-0.2l1.3,-3.6c0,-0.1,0.1,-0.1,0.2,-0.1l5.4,0c0.1,0,0.1,0,0.2,0c0,0.1,0,0.1,0,0.2l1.3,3.4c0,0.2,0.1,0.3,0.3,0.3l1.9,0c0.1,0,0.2,-0.1,0.2,-0.3c0,-0.1,0,-0.1,-0.1,-0.1l-4.9,-13.7c0,-0.3,-0.2,-0.4,-0.5,-0.4l-1.9,0c-0.1,0,-0.2,0.1,-0.3,0.1c-0.1,0,-0.1,0.1,-0.1,0.2l-5,13.7l0,0.2c0,0.2,0,0.3,0.2,0.3m3.9,-5.7c-0.1,0,-0.2,-0.1,-0.2,-0.2l0,-0.1l2.2,-5.8c0,-0.1,0.1,-0.2,0.1,-0.2c0.1,0,0.1,0.1,0.2,0.2l2.1,5.8c0,0.1,0,0.1,0,0.2c-0.1,0,-0.1,0.1,-0.2,0.1Z" class="g25_170" />
+<path d="M387.9,855.9l-1.2,0c-0.2,0,-0.3,0,-0.4,0.2l-3.8,13.5c0,0.1,-0.1,0.2,-0.1,0.2c-0.1,0,-0.1,-0.1,-0.1,-0.2l-3.8,-13.5c-0.1,-0.1,-0.1,-0.1,-0.2,-0.2c0,0,-0.1,0,-0.2,0l-1.3,0c-0.3,0,-0.4,0,-0.5,0.2l-3.8,13.4c0,0.2,-0.1,0.3,-0.1,0.3c-0.1,0,-0.1,-0.1,-0.2,-0.3l-3.7,-13.4c0,-0.2,-0.2,-0.2,-0.4,-0.2l-1.5,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,0.1l4.7,16.3c0,0.2,0.2,0.3,0.5,0.3l1.4,0c0.2,0,0.3,0,0.4,-0.1c0.1,0,0.1,-0.1,0.1,-0.2l3.8,-13c0,-0.2,0.1,-0.2,0.1,0l3.7,13c0.1,0.2,0.2,0.3,0.5,0.3l1.4,0c0.2,0,0.3,0,0.4,-0.1c0.1,0,0.1,-0.1,0.1,-0.2l4.8,-16.3c0,-0.2,0,-0.3,0,-0.3c-0.1,-0.1,-0.2,-0.1,-0.3,-0.1m3.9,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,16.4c0,0.1,0,0.2,0,0.3c0.1,0,0.2,0,0.3,0l1.5,0c0.1,0,0.2,0,0.3,-0.1c0.1,0,0.1,-0.1,0.1,-0.3l0,-16.3c0,-0.2,-0.1,-0.3,-0.3,-0.3Zm5.1,1.4c0,0.1,0,0.2,0.1,0.2c0,0,0.1,0,0.2,0l5,0c0.1,0,0.1,0.1,0.2,0.1c0,0,0,0.1,0,0.2l0,14.8c0,0.2,0.1,0.3,0.3,0.3l1.6,0c0.2,0,0.3,-0.1,0.3,-0.3l0,-14.8c0,-0.1,0,-0.2,0.1,-0.2c0,0,0.1,-0.1,0.2,-0.1l4.6,0c0.1,0,0.2,0,0.2,0c0.1,0,0.1,-0.1,0.1,-0.2l0,-1.2c0,-0.2,-0.1,-0.2,-0.3,-0.2l-12.3,0c-0.2,0,-0.3,0,-0.3,0.2Zm26.1,7.6c0.2,0,0.2,0.1,0.2,0.2l0,7.5c0,0.1,0.1,0.2,0.1,0.2c0.1,0.1,0.2,0.1,0.3,0.1l1.5,0c0.2,0,0.3,-0.1,0.3,-0.3l0,-16.4c0,-0.1,0,-0.2,0,-0.3c-0.1,0,-0.1,0,-0.2,0l-1.7,0c-0.2,0,-0.3,0,-0.3,0.2l0,6.8c0,0.2,-0.1,0.3,-0.2,0.3l-7.6,0c0,0,-0.1,0,-0.1,-0.1c-0.1,0,-0.1,-0.1,-0.1,-0.2l0,-6.7c0,-0.2,-0.1,-0.3,-0.3,-0.3l-1.6,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,16.4c0,0.1,0,0.2,0.1,0.3c0,0,0.1,0,0.2,0l1.5,0c0.1,0,0.2,0,0.3,-0.1c0.1,0,0.1,-0.1,0.1,-0.2l0,-7.5c0,0,0,-0.1,0,-0.1c0.1,0,0.1,-0.1,0.2,-0.1Z" class="g25_170" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g26_170" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 813)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s27_170"
+>Lesson 5 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 879)"
+dx="0,1" 
+class="s27_170"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 892)"
+dx="0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s27_170"
+>Choosing Classes </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1011)"
+dx="0,1" 
+class="s27_170"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1025)"
+dx="0,0.1,1,0.8,1,1,1,1,1,1,1,0.9,1,1,1,1" 
+class="s27_170"
+>Words &amp; Phrases </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1151)"
+dx="0,1,1,0" 
+class="s27_170"
+>147 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ZenKai-Medium_3qs;
+	src: url("fonts/ZenKai-Medium_3qs.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3yk;
+	src: url("fonts/LibreFranklin-Regular_3yk.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_3z4;
+	src: url("fonts/ArialMT_3z4.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3yj;
+	src: url("fonts/LibreFranklin-SemiBold_3yj.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Regular_3r5;
+	src: url("fonts/SourceHanSansTW-Regular_3r5.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3y5;
+	src: url("fonts/LibreFranklin-ExtraBold_3y5.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3y8;
+	src: url("fonts/LibreFranklin-Medium_3y8.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Normal_3q5;
+	src: url("fonts/SourceHanSansCN-Normal_3q5.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3z2;
+	src: url("fonts/LibreFranklin-SemiBold_3z2.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3z1;
+	src: url("fonts/LibreFranklin-Medium_3z1.woff") format("woff");
+}
+
+@font-face {
+	font-family: Arial-BoldMT_3z5;
+	src: url("fonts/Arial-BoldMT_3z5.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

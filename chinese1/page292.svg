@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 315 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_315{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_315{
+fill: #3986C6;
+}
+.g3_315{
+fill: #E2E3E5;
+}
+.g4_315{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_315{
+fill: #ACBF3B;
+}
+.g6_315{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_315{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_ci3;
+fill: #231F20;
+}
+.s2_315{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d8s;
+fill: #231F20;
+}
+.s3_315{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d8s;
+fill: #FFFFFF;
+}
+.s4_315{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d8s;
+fill: #231F20;
+}
+.s5_315{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_d8x;
+fill: #FFFFFF;
+}
+.s6_315{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d8v;
+fill: #231F20;
+}
+.s7_315{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d8_;
+fill: #231F20;
+}
+.s8_315{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s9_315{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s10_315{
+font-size: 16.81px;
+font-family: ProximaNovaCond-Extrabld_d97;
+fill: #231F20;
+}
+.s11_315{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_d8s;
+fill: #231F20;
+}
+.s12_315{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d8_;
+fill: #3986C6;
+}
+.s13_315{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_d98;
+fill: #3986C6;
+}
+.s14_315{
+font-size: 16.04px;
+font-family: Alegreya-Regular_d8v;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_315"
+>Go Far with Chinese</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_315" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_315" />
+<text 
+x="32" 
+y="1149" 
+dx="0,0,0" 
+class="s2_315"
+>292</text>
+
+<path d="M415.2,1001c-3.7,0,-6.8,3.1,-6.8,6.9l0,23c0,3.7,3.1,6.8,6.8,6.8l52.5,0c3.8,0,6.8,-3.1,6.8,-6.8l0,-23c0,-3.8,-3,-6.9,-6.8,-6.9Z" class="g3_315" />
+<path d="M160.9,761.3c-3.8,0,-6.9,3.1,-6.9,6.9l0,22.9c0,3.8,3.1,6.9,6.9,6.9l19.7,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-22.9c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_315" />
+<path d="M160.9,840.7c-3.8,0,-6.9,3.1,-6.9,6.9l0,23c0,3.8,3.1,6.9,6.9,6.9l19.7,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-23c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_315" />
+<path d="M160.7,920.2c-3.8,0,-6.9,3.1,-6.9,6.9l0,22.9c0,3.8,3.1,6.9,6.9,6.9l19.7,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-22.9c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_315" />
+<path d="M129.2,121c-10.1,0,-18.3,-8.2,-18.3,-18.3l0,-20.2l23.1,0c10.1,0,18.3,8.2,18.3,18.3l0,20.2Z" class="g2_315" />
+<path d="M116.7,83.1l359,0" class="g4_315" />
+<path d="M130.4,120.6l345.3,0" class="g4_315" />
+<text 
+x="115" 
+y="109" 
+dx="0,0,0" 
+class="s3_315"
+>3c </text>
+
+<text 
+x="157" 
+y="109" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_315"
+>Puzzle It Out </text>
+
+<path d="M332.1,112.9c-6,0,-10.9,-4.8,-10.9,-10.8l0,-10.9l141.9,0c6.1,0,10.9,4.8,10.9,10.9l0,10.8Z" class="g5_315" />
+<text 
+x="337" 
+y="106" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_315"
+>P·´G·²±± Ch²CK</text>
+
+<text 
+x="111" 
+y="163" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.4" 
+class="s6_315"
+>Complete the exercise below to check your understanding of what you learned in Section 3. </text>
+
+<text 
+x="110" 
+y="189" 
+dx="0,0,0,0,-0.3,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,-0.3,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s6_315"
+>If you have questions, consult the Language Reference section.</text>
+
+<text 
+x="110" 
+y="222" 
+dx="0,-0.6,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.4" 
+class="s6_315"
+>Rearrange the Chinese words and phrases in each row to translate the English sentences.</text>
+
+<text 
+x="137" 
+y="787" 
+dx="0" 
+class="s7_315"
+>1</text>
+
+<text 
+x="152" 
+y="790" 
+dx="0" 
+class="s8_315"
+>我</text>
+
+<text 
+x="187" 
+y="790" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_315"
+>发烧的时候不想去学校上课。</text>
+
+<text 
+x="155" 
+y="817" 
+dx="0,-0.2,0,0,0,0,0,0,0,-0.4,-0.3,0,0,0,0,-0.3,0,-0.3,0,-1.5,-0.4,0,0,0,0,0,-1.5,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s6_315"
+>When I have a fever, I don’t want to go to school. </text>
+
+<text 
+x="137" 
+y="866" 
+dx="0" 
+class="s7_315"
+>2</text>
+
+<text 
+x="154" 
+y="869" 
+dx="0" 
+class="s8_315"
+>他</text>
+
+<text 
+x="189" 
+y="869" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_315"
+>做饭的时候喜欢听音乐。 </text>
+
+<text 
+x="155" 
+y="896" 
+dx="0,-0.4,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.4" 
+class="s6_315"
+>He likes listening to music while he is cooking. </text>
+
+<text 
+x="137" 
+y="946" 
+dx="0" 
+class="s7_315"
+>3</text>
+
+<text 
+x="153" 
+y="948" 
+dx="0" 
+class="s8_315"
+>我</text>
+
+<text 
+x="188" 
+y="948" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s8_315"
+>紧张的时候很想喝水。</text>
+
+<text 
+x="155" 
+y="976" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0.3,-0.3,0,0,-0.4,-0.4,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-1.5" 
+class="s6_315"
+>When I’m nervous, I really want to drink water.</text>
+
+<text 
+x="136" 
+y="1025" 
+dx="0" 
+class="s7_315"
+>4</text>
+
+<text 
+x="153" 
+y="1028" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_315"
+>我在中国的时候，爸爸经常给我打电话。</text>
+
+<text 
+x="155" 
+y="1055" 
+dx="0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.4,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-1.3" 
+class="s6_315"
+>When I was in China, my father called me frequently.</text>
+
+<text 
+x="139" 
+y="598" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_315"
+>Describing a specific time or situation with </text>
+
+<text 
+x="495" 
+y="598" 
+dx="0,-2.1,-1.4" 
+class="s9_315"
+>的时候</text>
+
+<text 
+x="138" 
+y="636" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s6_315"
+>A time phrase is created when </text>
+
+<text 
+x="374" 
+y="635" 
+dx="0,0,0" 
+class="s9_315"
+>的时候</text>
+
+<text 
+x="446" 
+y="636" 
+dx="0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_315"
+>follows a specific time or situation. The time </text>
+
+<text 
+x="138" 
+y="660" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-1.5,-0.4,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_315"
+>phrase is often translated as a “when” phrase and usually comes at the beginning of the </text>
+
+<text 
+x="139" 
+y="686" 
+dx="0,0,0,0,0,0,0,-0.3,-0.6,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.2,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_315"
+>sentence. When the subject of the sentence (highlighted below in gray) is stated in the </text>
+
+<text 
+x="139" 
+y="712" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.6,-0.4" 
+class="s6_315"
+>time phrase, it is not repeated later in the sentence. </text>
+
+<path d="M110.5,602.8l20.6,0l0,-20.6l-20.6,0l0,20.6Z" class="g3_315" />
+<text 
+x="116" 
+y="599" 
+dx="0" 
+class="s10_315"
+>5</text>
+
+<text 
+x="111" 
+y="554" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s11_315"
+>Language Reference</text>
+
+<path d="M312.1,548.9l520.5,0" class="g6_315" />
+<path d="M312.1,552c1.7,0,3.1,-1.4,3.1,-3.1c0,-1.7,-1.4,-3,-3.1,-3c-1.7,0,-3.1,1.3,-3.1,3c0,1.7,1.4,3.1,3.1,3.1Z" class="g2_315" />
+<text 
+x="110" 
+y="276" 
+dx="0" 
+class="s12_315"
+>1</text>
+
+<text 
+x="124" 
+y="279" 
+dx="0,0,0" 
+class="s8_315"
+>我头 </text>
+
+<text 
+x="197" 
+y="279" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="221" 
+y="279" 
+dx="0,0,0" 
+class="s8_315"
+>不想 </text>
+
+<text 
+x="293" 
+y="279" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="317" 
+y="279" 
+dx="0,0" 
+class="s8_315"
+>看 </text>
+
+<text 
+x="357" 
+y="279" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="381" 
+y="279" 
+dx="0,0" 
+class="s8_315"
+>疼 </text>
+
+<text 
+x="421" 
+y="279" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="445" 
+y="279" 
+dx="0,0,0,0" 
+class="s8_315"
+>的时候 </text>
+
+<text 
+x="550" 
+y="279" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="574" 
+y="279" 
+dx="0,0,0" 
+class="s8_315"
+>电视。</text>
+
+<text 
+x="127" 
+y="306" 
+dx="0,-0.2,0,0,0,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,-1.5,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-1.9,-0.4" 
+class="s6_315"
+>When I have a headache, I don’t want to watch TV. </text>
+
+<text 
+x="110" 
+y="356" 
+dx="0" 
+class="s12_315"
+>2</text>
+
+<text 
+x="127" 
+y="359" 
+dx="0,0,0,0" 
+class="s8_315"
+>的时候 </text>
+
+<text 
+x="231" 
+y="359" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="255" 
+y="359" 
+dx="0,0" 
+class="s8_315"
+>听 </text>
+
+<text 
+x="295" 
+y="359" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="319" 
+y="359" 
+dx="0,0,0,0,0" 
+class="s8_315"
+>我做作业 </text>
+
+<text 
+x="456" 
+y="359" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="480" 
+y="359" 
+dx="0,0,0" 
+class="s8_315"
+>音乐。</text>
+
+<text 
+x="576" 
+y="359" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="600" 
+y="359" 
+dx="0,0" 
+class="s8_315"
+>喜欢</text>
+
+<text 
+x="127" 
+y="386" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.3,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4" 
+class="s6_315"
+>When I do my homework, I like listening to music. </text>
+
+<text 
+x="109" 
+y="435" 
+dx="0" 
+class="s12_315"
+>3</text>
+
+<text 
+x="125" 
+y="438" 
+dx="0,0,0,0" 
+class="s8_315"
+>中文课 </text>
+
+<text 
+x="230" 
+y="438" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="254" 
+y="438" 
+dx="0,0,0" 
+class="s8_315"
+>你上 </text>
+
+<text 
+x="326" 
+y="438" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="350" 
+y="438" 
+dx="0,0,0,0" 
+class="s8_315"
+>的时候 </text>
+
+<text 
+x="454" 
+y="438" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="478" 
+y="438" 
+dx="0,0" 
+class="s8_315"
+>说 </text>
+
+<text 
+x="519" 
+y="438" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="543" 
+y="438" 
+dx="0,0,0,0" 
+class="s8_315"
+>能不能 </text>
+
+<text 
+x="647" 
+y="438" 
+dx="0" 
+class="s13_315"
+>|</text>
+
+<text 
+x="671" 
+y="438" 
+dx="0,0,0" 
+class="s8_315"
+>英文？</text>
+
+<text 
+x="128" 
+y="465" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-1,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_315"
+>Can you speak English when you’re in Chinese class? </text>
+
+<text 
+x="201" 
+y="760" 
+dx="0,0.1,0.2,0.2,0.2,0.2" 
+class="s14_315"
+>fāshāo</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Extrabld_d8x;
+	src: url("fonts/ProximaNova-Extrabld_d8x.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_d98;
+	src: url("fonts/STKaitiSC-Regular_d98.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_d8_;
+	src: url("fonts/Alegreya-Bold_d8_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNovaCond-Extrabld_d97;
+	src: url("fonts/ProximaNovaCond-Extrabld_d97.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_ci3;
+	src: url("fonts/ProximaNova-Semibold_ci3.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_d8s;
+	src: url("fonts/ProximaNova-Bold_d8s.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d8v;
+	src: url("fonts/Alegreya-Regular_d8v.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

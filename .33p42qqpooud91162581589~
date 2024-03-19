@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 17 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_17{
+fill: #4E3181;
+}
+.g2_17{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_17{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_17{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.7638889;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 1,2;
+}
+
+.s1_17{
+font-size: 13.75px;
+font-family: MuseoSlab-700_3m9;
+fill: #808285;
+}
+.s2_17{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_3ly;
+fill: #FFFFFF;
+}
+.s3_17{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_3ly;
+fill: #4E3181;
+}
+.s4_17{
+font-size: 14.13px;
+font-family: LibreFranklin-Light_3l9;
+fill: #808285;
+}
+.s5_17{
+font-size: 14.13px;
+font-family: LibreFranklin-Light_3l9;
+fill: #231F20;
+}
+.s6_17{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #4E3181;
+}
+.s7_17{
+font-size: 14.90px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #231F20;
+}
+.s8_17{
+font-size: 14.13px;
+font-family: LibreFranklin-LightItalic_3lj;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="26" 
+y="1166" 
+dx="0,0,0" 
+class="s1_17"
+>xvi</text>
+
+<path d="M61.9,55l132.8,0l0,25.5l-132.8,0L61.9,55Zm132.8,0l185.4,0l0,25.5l-185.4,0l0,-25.5ZM380,55l321.3,0l0,25.5L380,80.5L380,55Zm321.3,0l130.6,0l0,25.5l-130.6,0l0,-25.5Z" class="g1_17" />
+<path d="M194.7,80.5l0,-25.1" class="g2_17" />
+<path d="M380,80.5l0,-25.1" class="g2_17" />
+<path d="M701.3,80.5l0,-25.1" class="g2_17" />
+<path d="M194.7,295.1l0,-214.6" class="g2_17" />
+<path d="M380,295.1L380,80.5" class="g2_17" />
+<path d="M701.3,295.1l0,-214.6" class="g2_17" />
+<path d="M194.7,410.1l0,-115" class="g2_17" />
+<path d="M380,410.1l0,-115" class="g2_17" />
+<path d="M701.3,410.1l0,-115" class="g2_17" />
+<path d="M194.7,614.7l0,-204.6" class="g2_17" />
+<path d="M380,614.7l0,-204.6" class="g2_17" />
+<path d="M701.3,614.7l0,-204.6" class="g2_17" />
+<path d="M194.7,853l0,-238.3" class="g2_17" />
+<path d="M380,853l0,-238.3" class="g2_17" />
+<path d="M701.3,853l0,-238.3" class="g2_17" />
+<path d="M194.7,1018.8l0,-165.8" class="g2_17" />
+<path d="M380,1018.8L380,853" class="g2_17" />
+<path d="M701.3,1018.8l0,-165.8" class="g2_17" />
+<path d="M61.9,80.5l132.4,0" class="g3_17" />
+<path d="M195.1,80.5l184.6,0" class="g3_17" />
+<path d="M380.4,80.5l320.5,0" class="g3_17" />
+<path d="M701.6,80.5l130.3,0" class="g3_17" />
+<path d="M380.4,295.1l320.5,0" class="g3_17" />
+<path d="M701.6,295.1l130.3,0" class="g3_17" />
+<path d="M380.4,410.1l320.5,0" class="g3_17" />
+<path d="M701.6,410.1l130.3,0" class="g3_17" />
+<path d="M380.4,614.7l320.5,0" class="g3_17" />
+<path d="M701.6,614.7l130.3,0" class="g3_17" />
+<path d="M380.4,853l320.5,0" class="g3_17" />
+<path d="M701.6,853l130.3,0" class="g3_17" />
+<path d="M380,1019.4l321.3,0" class="g3_17" />
+<path d="M701.3,1019.4l130.6,0" class="g3_17" />
+<path d="M61.9,295.1l132.4,0" class="g3_17" />
+<path d="M195.1,295.1l184.6,0" class="g3_17" />
+<path d="M61.9,410.1l132.4,0" class="g3_17" />
+<path d="M195.1,410.1l184.6,0" class="g3_17" />
+<path d="M61.9,614.7l132.4,0" class="g3_17" />
+<path d="M195.1,614.7l184.6,0" class="g3_17" />
+<path d="M61.9,853l132.4,0" class="g3_17" />
+<path d="M195.1,853l184.6,0" class="g3_17" />
+<path d="M61.9,1019.4l132.8,0" class="g3_17" />
+<path d="M194.7,1019.4l185.4,0" class="g3_17" />
+<path d="M194.7,78.9l0,-22.7" class="g4_17" />
+<path d="M380,78.9l0,-22.7" class="g4_17" />
+<path d="M701.3,78.9l0,-22.7" class="g4_17" />
+<path d="M194.7,293.5l0,-212.2" class="g4_17" />
+<path d="M380,293.5L380,81.3" class="g4_17" />
+<path d="M701.3,293.5l0,-212.2" class="g4_17" />
+<path d="M194.7,408.6l0,-112.8" class="g4_17" />
+<path d="M380,408.6l0,-112.8" class="g4_17" />
+<path d="M701.3,408.6l0,-112.8" class="g4_17" />
+<path d="M194.7,613.2l0,-202.3" class="g4_17" />
+<path d="M380,613.2l0,-202.3" class="g4_17" />
+<path d="M701.3,613.2l0,-202.3" class="g4_17" />
+<path d="M194.7,851.4l0,-235.9" class="g4_17" />
+<path d="M380,851.4l0,-235.9" class="g4_17" />
+<path d="M701.3,851.4l0,-235.9" class="g4_17" />
+<path d="M194.7,1017.3l0,-163.6" class="g4_17" />
+<path d="M380,1017.3l0,-163.6" class="g4_17" />
+<path d="M701.3,1017.3l0,-163.6" class="g4_17" />
+<text 
+x="67" 
+y="74" 
+dx="0,0,0,0,0,0" 
+class="s2_17"
+>Lesson</text>
+
+<text 
+x="200" 
+y="74" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s2_17"
+>Learning Objectives </text>
+
+<text 
+x="386" 
+y="74" 
+dx="0,0,-0.1,0,0,0,0,0" 
+class="s2_17"
+>Grammar </text>
+
+<text 
+x="707" 
+y="74" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.3,0,-0.1,0,0,0" 
+class="s2_17"
+>Cultural Literacy </text>
+
+<text 
+x="67" 
+y="99" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>15 Seeing a </text>
+
+<text 
+x="67" 
+y="116" 
+dx="0,0,0,0,-0.3,0" 
+class="s3_17"
+>Doctor</text>
+
+<text 
+x="200" 
+y="100" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="100" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Describe common cold </text>
+
+<text 
+x="207" 
+y="117" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_17"
+>and allergy symptoms</text>
+
+<text 
+x="200" 
+y="140" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="140" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Understand instructions </text>
+
+<text 
+x="207" 
+y="157" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0" 
+class="s5_17"
+>on when and how often </text>
+
+<text 
+x="207" 
+y="174" 
+dx="0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>to take medications</text>
+
+<text 
+x="200" 
+y="198" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="198" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Talk about why you do </text>
+
+<text 
+x="207" 
+y="214" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>or don’t want to see the </text>
+
+<text 
+x="207" 
+y="231" 
+dx="0,0,0,0,-0.2,0" 
+class="s5_17"
+>doctor</text>
+
+<text 
+x="200" 
+y="255" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="255" 
+dx="0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s5_17"
+>Urge others to see a </text>
+
+<text 
+x="207" 
+y="272" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_17"
+>doctor when they are </text>
+
+<text 
+x="207" 
+y="288" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>not feeling well</text>
+
+<text 
+x="386" 
+y="103" 
+dx="0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.1,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>1. Indicating an extreme degree using </text>
+
+<text 
+x="632" 
+y="103" 
+dx="0" 
+class="s6_17"
+>死</text>
+
+<text 
+x="658" 
+y="103" 
+dx="0,0.2,0.2,1.1" 
+class="s7_17"
+>(sǐ)</text>
+
+<text 
+x="386" 
+y="126" 
+dx="0,0,0" 
+class="s5_17"
+>2. </text>
+
+<text 
+x="400" 
+y="126" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Indicating the beginning of an action </text>
+
+<text 
+x="400" 
+y="149" 
+dx="0,0,0,0,0,0" 
+class="s5_17"
+>using </text>
+
+<text 
+x="438" 
+y="149" 
+dx="0,0" 
+class="s6_17"
+>起来</text>
+
+<text 
+x="487" 
+y="149" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(qi lai)</text>
+
+<text 
+x="386" 
+y="173" 
+dx="0,0,0" 
+class="s5_17"
+>3. </text>
+
+<text 
+x="400" 
+y="173" 
+dx="0" 
+class="s6_17"
+>次</text>
+
+<text 
+x="426" 
+y="173" 
+dx="0,0.2,0.2,0.2" 
+class="s7_17"
+>(cì)</text>
+
+<text 
+x="449" 
+y="173" 
+dx="0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_17"
+>for frequency</text>
+
+<text 
+x="386" 
+y="197" 
+dx="0,0,0,-0.6,0,0,0" 
+class="s5_17"
+>4. The </text>
+
+<text 
+x="428" 
+y="197" 
+dx="0" 
+class="s6_17"
+>把</text>
+
+<text 
+x="454" 
+y="197" 
+dx="0,0.2,0.2,0.2" 
+class="s7_17"
+>(bǎ)</text>
+
+<text 
+x="481" 
+y="197" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>construction (I)</text>
+
+<text 
+x="386" 
+y="220" 
+dx="0,0,0,-0.7,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>5. The preposition </text>
+
+<text 
+x="506" 
+y="220" 
+dx="0" 
+class="s6_17"
+>对</text>
+
+<text 
+x="532" 
+y="220" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(duì)</text>
+
+<text 
+x="563" 
+y="220" 
+dx="0,0,-0.2,-0.4,0,0,-0.3,0,0" 
+class="s5_17"
+>(to, for)</text>
+
+<text 
+x="386" 
+y="244" 
+dx="0,0,0" 
+class="s5_17"
+>6. </text>
+
+<text 
+x="400" 
+y="244" 
+dx="0,0,0,0" 
+class="s6_17"
+>越来越…</text>
+
+<text 
+x="495" 
+y="244" 
+dx="0,1.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(yuè lái yuè . . . )</text>
+
+<text 
+x="400" 
+y="260" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>(more and more . . . )</text>
+
+<text 
+x="386" 
+y="284" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>7. The conjunction </text>
+
+<text 
+x="508" 
+y="284" 
+dx="0,0" 
+class="s6_17"
+>再说</text>
+
+<text 
+x="557" 
+y="284" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(zàishuō)</text>
+
+<text 
+x="614" 
+y="284" 
+dx="0,0,0,0,-0.2,0,-0.3,-0.4,0,0" 
+class="s5_17"
+>(moreover)</text>
+
+<text 
+x="707" 
+y="100" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="100" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Chinese </text>
+
+<text 
+x="714" 
+y="117" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_17"
+>medicine</text>
+
+<text 
+x="707" 
+y="140" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="140" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Seeing the </text>
+
+<text 
+x="714" 
+y="157" 
+dx="0,0,0,0,-0.2,0" 
+class="s5_17"
+>doctor</text>
+
+<text 
+x="707" 
+y="181" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="181" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2" 
+class="s5_17"
+>Medical care</text>
+
+<text 
+x="707" 
+y="204" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="204" 
+dx="0,0,0,0,0,-1.2,0" 
+class="s5_17"
+>Hua Tuo</text>
+
+<text 
+x="67" 
+y="314" 
+dx="0,-0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>Keeping It Casual </text>
+
+<text 
+x="67" 
+y="331" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>(L11–L15)</text>
+
+<text 
+x="200" 
+y="314" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="314" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Review functional </text>
+
+<text 
+x="207" 
+y="331" 
+dx="0,-0.2,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_17"
+>expressions</text>
+
+<text 
+x="386" 
+y="317" 
+dx="0,0,0" 
+class="s5_17"
+>1. </text>
+
+<text 
+x="400" 
+y="317" 
+dx="0" 
+class="s6_17"
+>在</text>
+
+<text 
+x="426" 
+y="317" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(zài)</text>
+
+<text 
+x="455" 
+y="317" 
+dx="0,0,-0.2,0,0,-0.2,0,0,0,0" 
+class="s5_17"
+>(to exist)</text>
+
+<text 
+x="386" 
+y="340" 
+dx="0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_17"
+>2. Complimentary expressions</text>
+
+<text 
+x="386" 
+y="364" 
+dx="0,0,0" 
+class="s5_17"
+>3. </text>
+
+<text 
+x="400" 
+y="364" 
+dx="0,0,0,0" 
+class="s6_17"
+>怎么了?</text>
+
+<text 
+x="480" 
+y="364" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(Zěnme le?)</text>
+
+<text 
+x="552" 
+y="364" 
+dx="0,0,0,0,0,0.4,-0.9,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s5_17"
+>(What’s the matter? </text>
+
+<text 
+x="400" 
+y="380" 
+dx="0,0,0,0,0.4,-0.9,0,0,0,-0.2,0,0,0,0" 
+class="s5_17"
+>What’s wrong?)</text>
+
+<text 
+x="386" 
+y="403" 
+dx="0,0,0" 
+class="s5_17"
+>4. </text>
+
+<text 
+x="400" 
+y="403" 
+dx="0,0" 
+class="s6_17"
+>糟糕</text>
+
+<text 
+x="449" 
+y="403" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(zāogāo)</text>
+
+<text 
+x="502" 
+y="403" 
+dx="0,0,0,0,0.4,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>([it’s] awful/what a mess)</text>
+
+<text 
+x="67" 
+y="429" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>16 Dating</text>
+
+<text 
+x="200" 
+y="429" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="429" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.4,0" 
+class="s5_17"
+>Describe how long you’ve </text>
+
+<text 
+x="207" 
+y="446" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>known someone</text>
+
+<text 
+x="200" 
+y="470" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="470" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Ask someone out on a </text>
+
+<text 
+x="207" 
+y="487" 
+dx="0,0,0,-0.2" 
+class="s5_17"
+>date</text>
+
+<text 
+x="200" 
+y="510" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="510" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_17"
+>Make arrangements to </text>
+
+<text 
+x="207" 
+y="527" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>go out with friends</text>
+
+<text 
+x="200" 
+y="551" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="551" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Accept or gently decline </text>
+
+<text 
+x="207" 
+y="568" 
+dx="0,0,0,0,0,-0.2" 
+class="s5_17"
+>a date</text>
+
+<text 
+x="200" 
+y="591" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="591" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>End a phone </text>
+
+<text 
+x="207" 
+y="608" 
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_17"
+>conversation politely</text>
+
+<text 
+x="386" 
+y="429" 
+dx="0,0,0,2,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>1. Descriptive complements (II)</text>
+
+<text 
+x="386" 
+y="452" 
+dx="0,0,0,0.1,-0.8,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>2. Potential complements (I)</text>
+
+<text 
+x="386" 
+y="476" 
+dx="0,0,0" 
+class="s5_17"
+>3. </text>
+
+<text 
+x="400" 
+y="476" 
+dx="0" 
+class="s6_17"
+>就</text>
+
+<text 
+x="426" 
+y="476" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(jiù)</text>
+
+<text 
+x="454" 
+y="476" 
+dx="0,0,0,0,0,-0.9,0,0,0,0,0,0" 
+class="s5_17"
+>(only, just)</text>
+
+<text 
+x="386" 
+y="499" 
+dx="0,0,0,-0.6,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>4. Directional complements (II)</text>
+
+<text 
+x="707" 
+y="429" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="429" 
+dx="0,0,0,0,0,0,0,-0.1" 
+class="s5_17"
+>Marriage</text>
+
+<text 
+x="707" 
+y="453" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="453" 
+dx="0,0,0,-0.2,0" 
+class="s5_17"
+>Dates</text>
+
+<text 
+x="707" 
+y="477" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="477" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Saving face</text>
+
+<text 
+x="707" 
+y="500" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="500" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Matchmaking </text>
+
+<text 
+x="714" 
+y="517" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_17"
+>corners </text>
+
+<text 
+x="67" 
+y="634" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>17 Renting an </text>
+
+<text 
+x="67" 
+y="650" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>Apartment</text>
+
+<text 
+x="200" 
+y="634" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="634" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s5_17"
+>Describe your current </text>
+
+<text 
+x="207" 
+y="651" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>and ideal dwellings</text>
+
+<text 
+x="200" 
+y="674" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="674" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Name common pieces </text>
+
+<text 
+x="207" 
+y="691" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,-0.2" 
+class="s5_17"
+>of furniture</text>
+
+<text 
+x="200" 
+y="715" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="715" 
+dx="0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>State how long you </text>
+
+<text 
+x="207" 
+y="732" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>have been living at your </text>
+
+<text 
+x="207" 
+y="749" 
+dx="0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s5_17"
+>current residence</text>
+
+<text 
+x="200" 
+y="772" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="772" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Explain why a place is or </text>
+
+<text 
+x="207" 
+y="789" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>isn’t right for someone</text>
+
+<text 
+x="200" 
+y="813" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="813" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,-0.2,0" 
+class="s5_17"
+>Discuss and negotiate </text>
+
+<text 
+x="207" 
+y="830" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>rent, utilities, and security </text>
+
+<text 
+x="207" 
+y="846" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_17"
+>deposits</text>
+
+<text 
+x="386" 
+y="637" 
+dx="0,0,0" 
+class="s5_17"
+>1. </text>
+
+<text 
+x="400" 
+y="637" 
+dx="0,-0.8,0,0,0,0,0" 
+class="s5_17"
+>Verb + </text>
+
+<text 
+x="445" 
+y="637" 
+dx="0" 
+class="s6_17"
+>了</text>
+
+<text 
+x="471" 
+y="637" 
+dx="0,0.2,0.2,0.2" 
+class="s7_17"
+>(le)</text>
+
+<text 
+x="493" 
+y="637" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>+ numeral + </text>
+
+<text 
+x="400" 
+y="654" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>measure word + noun + </text>
+
+<text 
+x="554" 
+y="654" 
+dx="0" 
+class="s6_17"
+>了</text>
+
+<text 
+x="580" 
+y="654" 
+dx="0,0.2,0.2,0.2" 
+class="s7_17"
+>(le)</text>
+
+<text 
+x="386" 
+y="677" 
+dx="0,0,0" 
+class="s5_17"
+>2. </text>
+
+<text 
+x="400" 
+y="677" 
+dx="0,0,0,0,0,0" 
+class="s6_17"
+>连…都/也…</text>
+
+<text 
+x="529" 
+y="677" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(lián . . . dōu/yě . . . )</text>
+
+<text 
+x="386" 
+y="701" 
+dx="0,0,0" 
+class="s5_17"
+>3. </text>
+
+<text 
+x="400" 
+y="701" 
+dx="0,-0.8,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Potential complements (II)</text>
+
+<text 
+x="386" 
+y="724" 
+dx="0,0,0" 
+class="s5_17"
+>4. </text>
+
+<text 
+x="400" 
+y="724" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Indicating an approximate number using </text>
+
+<text 
+x="393" 
+y="748" 
+dx="0" 
+class="s6_17"
+>多</text>
+
+<text 
+x="419" 
+y="748" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(duō)</text>
+
+<text 
+x="386" 
+y="771" 
+dx="0,0,0" 
+class="s5_17"
+>5. </text>
+
+<text 
+x="400" 
+y="771" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Question pronouns using </text>
+
+<text 
+x="566" 
+y="771" 
+dx="0,0,0" 
+class="s6_17"
+>都/也</text>
+
+<text 
+x="626" 
+y="771" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(dōu/yě)</text>
+
+<text 
+x="707" 
+y="634" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="634" 
+dx="0,0,0,0,0" 
+class="s5_17"
+>Dorms</text>
+
+<text 
+x="707" 
+y="658" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="658" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Apartments</text>
+
+<text 
+x="707" 
+y="681" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="681" 
+dx="0,-0.8,0,0" 
+class="s5_17"
+>Pets</text>
+
+<text 
+x="67" 
+y="872" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>18 Sports</text>
+
+<text 
+x="200" 
+y="872" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="872" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Name and discuss some </text>
+
+<text 
+x="207" 
+y="889" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>popular sports</text>
+
+<text 
+x="200" 
+y="913" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="913" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,0,-0.2,0,0,0,0" 
+class="s5_17"
+>Talk about your exercise </text>
+
+<text 
+x="207" 
+y="930" 
+dx="0,0,0,0,0,0" 
+class="s5_17"
+>habits</text>
+
+<text 
+x="200" 
+y="953" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="207" 
+y="953" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Compare soccer and </text>
+
+<text 
+x="207" 
+y="970" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>American football in </text>
+
+<text 
+x="207" 
+y="987" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s5_17"
+>simple terms</text>
+
+<text 
+x="386" 
+y="872" 
+dx="0,0,0" 
+class="s5_17"
+>1. </text>
+
+<text 
+x="400" 
+y="872" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Duration of inactivity</text>
+
+<text 
+x="386" 
+y="896" 
+dx="0,0,0" 
+class="s5_17"
+>2. </text>
+
+<text 
+x="400" 
+y="896" 
+dx="0,0,0" 
+class="s6_17"
+>好/难</text>
+
+<text 
+x="460" 
+y="896" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(hǎo/nán)</text>
+
+<text 
+x="523" 
+y="896" 
+dx="0,0,0,-0.4,0,0" 
+class="s5_17"
+>+ verb</text>
+
+<text 
+x="386" 
+y="920" 
+dx="0,0,0" 
+class="s5_17"
+>3. </text>
+
+<text 
+x="400" 
+y="920" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Indicating continuation using </text>
+
+<text 
+x="591" 
+y="920" 
+dx="0,0" 
+class="s6_17"
+>下去</text>
+
+<text 
+x="640" 
+y="920" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(xia qu)</text>
+
+<text 
+x="386" 
+y="943" 
+dx="0,0,0" 
+class="s5_17"
+>4. </text>
+
+<text 
+x="400" 
+y="943" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Duration of activity (II)</text>
+
+<text 
+x="386" 
+y="966" 
+dx="0,0,0" 
+class="s5_17"
+>5. </text>
+
+<text 
+x="400" 
+y="966" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>The particle </text>
+
+<text 
+x="480" 
+y="966" 
+dx="0" 
+class="s6_17"
+>着</text>
+
+<text 
+x="506" 
+y="966" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(zhe)</text>
+
+<text 
+x="386" 
+y="989" 
+dx="0,0,0" 
+class="s5_17"
+>6. </text>
+
+<text 
+x="400" 
+y="989" 
+dx="0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Passive-voice sentences using </text>
+
+<text 
+x="400" 
+y="1013" 
+dx="0,0,0,0,0" 
+class="s6_17"
+>被/叫/让</text>
+
+<text 
+x="495" 
+y="1013" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_17"
+>(bèi/jiào/ràng)</text>
+
+<text 
+x="707" 
+y="872" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="872" 
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Popular sports</text>
+
+<text 
+x="707" 
+y="896" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="896" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Morning </text>
+
+<text 
+x="714" 
+y="913" 
+dx="0,-0.2,-0.4,0,-0.2,0,0,0,0" 
+class="s5_17"
+>exercises</text>
+
+<text 
+x="707" 
+y="936" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="936" 
+dx="0,0,0,0" 
+class="s8_17"
+>Cuju</text>
+
+<text 
+x="707" 
+y="960" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="714" 
+y="960" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Diet and weight</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MuseoSlab-700_3m9;
+	src: url("fonts/MuseoSlab-700_3m9.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_3l9;
+	src: url("fonts/LibreFranklin-Light_3l9.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3ly;
+	src: url("fonts/LibreFranklin-ExtraBold_3ly.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-LightItalic_3lj;
+	src: url("fonts/LibreFranklin-LightItalic_3lj.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

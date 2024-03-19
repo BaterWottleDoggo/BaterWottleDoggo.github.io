@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 423 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_423{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_423{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_423{
+fill: none;
+stroke: #DC262E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_423{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_423{
+fill: #FFFFFF;
+}
+.g6_423{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_423{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_423{
+font-size: 10.69px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #FFFFFF;
+}
+.s2_423{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #77787B;
+}
+.s3_423{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #DC262E;
+}
+.s4_423{
+font-size: 9.80px;
+font-family: ProximaNova-Extrabld_4hk;
+fill: #DC262E;
+}
+.s5_423{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #007598;
+}
+.s6_423{
+font-size: 9.80px;
+font-family: ProximaNova-Extrabld_4hk;
+fill: #007598;
+}
+.s7_423{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #3F3F40;
+}
+.s8_423{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_4hh;
+fill: #909295;
+}
+.s9_423{
+font-size: 9.80px;
+font-family: LibreFranklin-Bold_4h2;
+fill: #007598;
+}
+.s10_423{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_4ho;
+fill: #77787B;
+}
+.s11_423{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g1_423" />
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1173)"
+dx="0,0.6,0.6,0.6" 
+class="s1_423"
+>402 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1132)"
+dx="0,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6" 
+class="s1_423"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1004)"
+dx="0,0.6" 
+class="s1_423"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 992)"
+dx="0,-0.6,0.4,0.3,0.6,0.6,0.6,0.6" 
+class="s1_423"
+>Textbook</text>
+
+<path d="M317.9,70.9l0,1012.5" class="g2_423" />
+<path d="M811.3,62.8l5.3,0" class="g3_423" />
+<path d="M788.3,88.8l5.8,0" class="g3_423" />
+<path d="M765.4,114.8l6.1,0" class="g4_423" />
+<path d="M747.1,166.7l4.9,0" class="g3_423" />
+<path d="M609.6,192.7l5.8,0" class="g3_423" />
+<path d="M609.6,218.7l5.4,0" class="g3_423" />
+<path d="M563.8,270.6l6,0" class="g4_423" />
+<path d="M678.3,348.5l6.1,0" class="g4_423" />
+<path d="M730.2,348.5l3.4,0" class="g3_423" />
+<path d="M609.6,426.5l5.8,0" class="g3_423" />
+<path d="M585.1,787l5.4,0" class="g3_423" />
+<path d="M791.4,916.9l5,0" class="g4_423" />
+<path d="M585.1,1046.7l5.8,0" class="g3_423" />
+<text 
+x="398" 
+y="71" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>王朋的妹妹王紅剛從北京來，要在美國</text>
+
+<text 
+x="788" 
+y="71" 
+dx="0" 
+class="s3_423"
+>上</text>
+
+<text 
+x="811" 
+y="59" 
+dx="0" 
+class="s4_423"
+>a</text>
+
+<text 
+x="816" 
+y="71" 
+dx="0,0" 
+class="s2_423"
+>大 </text>
+
+<text 
+x="398" 
+y="97" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>學，現在住在高小音家裡學英文。</text>
+
+<text 
+x="742" 
+y="97" 
+dx="0,0" 
+class="s3_423"
+>為了</text>
+
+<text 
+x="788" 
+y="85" 
+dx="0" 
+class="s4_423"
+>b</text>
+
+<text 
+x="794" 
+y="97" 
+dx="0,0,0" 
+class="s2_423"
+>提高英</text>
+
+<text 
+x="398" 
+y="123" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_423"
+>文水平，她每天都</text>
+
+<text 
+x="582" 
+y="123" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_423"
+>看兩個小時的電視</text>
+
+<text 
+x="765" 
+y="111" 
+dx="0" 
+class="s6_423"
+>4</text>
+
+<text 
+x="771" 
+y="123" 
+dx="0" 
+class="s2_423"
+>。</text>
+
+<text 
+x="398" 
+y="149" 
+dx="0,0,0,0,0" 
+class="s7_423"
+>高小音： </text>
+
+<text 
+x="495" 
+y="149" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>快把電視打開，足球比賽開始了。</text>
+
+<text 
+x="398" 
+y="175" 
+dx="0,0,0,0" 
+class="s7_423"
+>王紅： </text>
+
+<text 
+x="495" 
+y="175" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>是嗎？我也喜歡看足球</text>
+
+<text 
+x="724" 
+y="175" 
+dx="0" 
+class="s3_423"
+>賽</text>
+
+<text 
+x="747" 
+y="163" 
+dx="0" 
+class="s4_423"
+>c</text>
+
+<text 
+x="751" 
+y="175" 
+dx="0,0,0,0" 
+class="s2_423"
+>。……這</text>
+
+<text 
+x="494" 
+y="201" 
+dx="0,0,0" 
+class="s2_423"
+>是什麼</text>
+
+<text 
+x="563" 
+y="201" 
+dx="0,0" 
+class="s3_423"
+>足球</text>
+
+<text 
+x="609" 
+y="189" 
+dx="0" 
+class="s4_423"
+>d</text>
+
+<text 
+x="615" 
+y="201" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>啊？怎麼不是圓的？</text>
+
+<text 
+x="398" 
+y="227" 
+dx="0,0,0,0,0" 
+class="s7_423"
+>高小音： </text>
+
+<text 
+x="494" 
+y="227" 
+dx="0,0,0" 
+class="s2_423"
+>這不是</text>
+
+<text 
+x="563" 
+y="227" 
+dx="0,0" 
+class="s3_423"
+>國際</text>
+
+<text 
+x="609" 
+y="215" 
+dx="0" 
+class="s4_423"
+>e</text>
+
+<text 
+x="614" 
+y="227" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>足球，這是美式足球。</text>
+
+<text 
+x="398" 
+y="253" 
+dx="0,0,0,0" 
+class="s7_423"
+>王紅： </text>
+
+<text 
+x="495" 
+y="253" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>足球應該用腳踢，為什麼那個人用 </text>
+
+<text 
+x="495" 
+y="279" 
+dx="0,0" 
+class="s2_423"
+>手抱</text>
+
+<text 
+x="540" 
+y="279" 
+dx="0" 
+class="s5_423"
+>著</text>
+
+<text 
+x="563" 
+y="267" 
+dx="0" 
+class="s6_423"
+>5</text>
+
+<text 
+x="575" 
+y="279" 
+dx="0,0,0" 
+class="s2_423"
+>跑呢？</text>
+
+<text 
+x="398" 
+y="305" 
+dx="0,0,0,0,0" 
+class="s7_423"
+>高小音： </text>
+
+<text 
+x="494" 
+y="305" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>美式足球可以用手。</text>
+
+<text 
+x="398" 
+y="331" 
+dx="0,0,0,0" 
+class="s7_423"
+>王紅： </text>
+
+<text 
+x="494" 
+y="331" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>你看，你看，那麼多人都壓在一起，</text>
+
+<text 
+x="494" 
+y="357" 
+dx="0,0,0,0,0,0,0" 
+class="s2_423"
+>下面的人不是要</text>
+
+<text 
+x="655" 
+y="357" 
+dx="0" 
+class="s5_423"
+>被</text>
+
+<text 
+x="678" 
+y="345" 
+dx="0" 
+class="s6_423"
+>6</text>
+
+<text 
+x="684" 
+y="357" 
+dx="0,0" 
+class="s3_423"
+>壓壞</text>
+
+<text 
+x="730" 
+y="345" 
+dx="0" 
+class="s4_423"
+>f</text>
+
+<text 
+x="733" 
+y="357" 
+dx="0,0,0" 
+class="s2_423"
+>了嗎？</text>
+
+<text 
+x="398" 
+y="383" 
+dx="0,0,0,0,0" 
+class="s7_423"
+>高小音： </text>
+
+<text 
+x="494" 
+y="383" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>別擔心，他們的身體都很棒，而且 </text>
+
+<text 
+x="494" 
+y="409" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>還穿特別的運動服，沒問題。</text>
+
+<text 
+x="398" 
+y="435" 
+dx="0,0,0,0" 
+class="s7_423"
+>王紅： </text>
+
+<text 
+x="494" 
+y="435" 
+dx="0,0,0" 
+class="s2_423"
+>我看了</text>
+
+<text 
+x="563" 
+y="435" 
+dx="0,0" 
+class="s3_423"
+>半天</text>
+
+<text 
+x="609" 
+y="423" 
+dx="0" 
+class="s4_423"
+>g</text>
+
+<text 
+x="615" 
+y="435" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>也看不懂。還是看別的</text>
+
+<text 
+x="495" 
+y="461" 
+dx="0,0" 
+class="s2_423"
+>吧。</text>
+
+<text 
+x="398" 
+y="487" 
+dx="0,0,0,0,0" 
+class="s7_423"
+>高小音： </text>
+
+<text 
+x="495" 
+y="487" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>你在美國住半年就會喜歡了。我男 </text>
+
+<text 
+x="495" 
+y="513" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>朋友看美式足球的時候，常常連飯 </text>
+
+<text 
+x="495" 
+y="538" 
+dx="0,0,0,0,0" 
+class="s2_423"
+>都忘了吃。</text>
+
+<text 
+x="144" 
+y="642" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s8_423"
+>Lesson 19</text>
+
+<text 
+x="398" 
+y="639" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>（暑假快要到了……）</text>
+
+<text 
+x="398" 
+y="665" 
+dx="0,0,0,0" 
+class="s7_423"
+>王朋： </text>
+
+<text 
+x="470" 
+y="665" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>李友，時間過得真快，馬上就要放假</text>
+
+<text 
+x="470" 
+y="691" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>了，我們的同學，有的去暑期班學習，</text>
+
+<text 
+x="470" 
+y="717" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>有的去公司實習，有的回家打工，你有</text>
+
+<text 
+x="470" 
+y="743" 
+dx="0,0,0,0,0" 
+class="s2_423"
+>什麼計劃？</text>
+
+<text 
+x="398" 
+y="769" 
+dx="0,0,0,0" 
+class="s7_423"
+>李友： </text>
+
+<text 
+x="470" 
+y="769" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>我還沒有想好。你呢，王朋？</text>
+
+<text 
+x="398" 
+y="795" 
+dx="0,0,0,0" 
+class="s7_423"
+>王朋： </text>
+
+<text 
+x="470" 
+y="795" 
+dx="0,0,0" 
+class="s2_423"
+>我暑假</text>
+
+<text 
+x="539" 
+y="795" 
+dx="0,0" 
+class="s3_423"
+>打算</text>
+
+<text 
+x="585" 
+y="783" 
+dx="0" 
+class="s4_423"
+>a</text>
+
+<text 
+x="590" 
+y="795" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_423"
+>回北京去看父母。</text>
+
+<text 
+x="398" 
+y="821" 
+dx="0,0,0,0" 
+class="s7_423"
+>李友： </text>
+
+<text 
+x="470" 
+y="821" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>是嗎？我聽說北京這個城市很有意思。</text>
+
+<text 
+x="398" 
+y="847" 
+dx="0,0,0,0" 
+class="s7_423"
+>王朋： </text>
+
+<text 
+x="470" 
+y="847" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>當然。北京是中國的首都，也是中國 </text>
+
+<text 
+x="470" 
+y="873" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>的政治、文化中心，有很多名勝古蹟。</text>
+
+<text 
+x="398" 
+y="899" 
+dx="0,0,0,0" 
+class="s7_423"
+>李友： </text>
+
+<text 
+x="470" 
+y="899" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>對啊，長城很有名。 </text>
+
+<text 
+x="398" 
+y="925" 
+dx="0,0,0,0" 
+class="s7_423"
+>王朋： </text>
+
+<text 
+x="470" 
+y="925" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>還有，北京的好飯館多得</text>
+
+<text 
+x="722" 
+y="925" 
+dx="0,0,0" 
+class="s5_423"
+>不得了</text>
+
+<text 
+x="791" 
+y="913" 
+dx="0" 
+class="s9_423"
+>1</text>
+
+<text 
+x="796" 
+y="925" 
+dx="0" 
+class="s2_423"
+>。</text>
+
+<text 
+x="398" 
+y="951" 
+dx="0,0,0,0" 
+class="s7_423"
+>李友： </text>
+
+<text 
+x="470" 
+y="951" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>真的？我去過香港、台北，還沒去過 </text>
+
+<text 
+x="470" 
+y="977" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>北京，要是能去北京就好了。</text>
+
+<text 
+x="398" 
+y="1003" 
+dx="0,0,0,0" 
+class="s7_423"
+>王朋： </text>
+
+<text 
+x="470" 
+y="1003" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>那你跟我一起回去吧，我當你的導遊。</text>
+
+<text 
+x="398" 
+y="1029" 
+dx="0,0,0,0" 
+class="s7_423"
+>李友： </text>
+
+<text 
+x="470" 
+y="1029" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>真的嗎？那太好了！護照我已經有了，</text>
+
+<text 
+x="470" 
+y="1055" 
+dx="0,0,0,0" 
+class="s2_423"
+>我得趕快</text>
+
+<text 
+x="562" 
+y="1055" 
+dx="0" 
+class="s3_423"
+>辦</text>
+
+<text 
+x="585" 
+y="1043" 
+dx="0" 
+class="s4_423"
+>b</text>
+
+<text 
+x="590" 
+y="1055" 
+dx="0,0,0" 
+class="s2_423"
+>簽證。</text>
+
+<text 
+x="398" 
+y="1081" 
+dx="0,0,0,0" 
+class="s7_423"
+>王朋： </text>
+
+<text 
+x="470" 
+y="1081" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_423"
+>那我馬上給旅行社打電話訂飛機票。</text>
+
+<path d="M243.8,137.9l143.7,0l0,-45.3l-143.7,0l0,45.3Z" class="g5_423" />
+<text 
+x="249" 
+y="112" 
+dx="0,-0.8,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_423"
+>Watching American </text>
+
+<text 
+x="288" 
+y="129" 
+dx="0,-1.1,0,0,0,0,0,0" 
+class="s10_423"
+>Football</text>
+
+<path d="M281.6,57.5c0,0,-15.3,0,-15.3,15.2l0,3.1c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g5_423" />
+<text 
+x="281" 
+y="80" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s11_423"
+>Dialogue 2</text>
+
+<path d="M281.6,56.7c-0.2,0,-16.1,0.2,-16.1,16l0,3.1c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.1,0Z" class="g6_423" />
+<path d="M281.6,58.7c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.1,0Z" class="g7_423" />
+<path d="M243.8,680.4l143.7,0l0,-28.2l-143.7,0l0,28.2Z" class="g5_423" />
+<text 
+x="252" 
+y="671" 
+dx="0,-1.2,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s10_423"
+>Traveling to Beijing </text>
+
+<path d="M281.6,617c0,0,-15.3,0,-15.3,15.3l0,3.1c0,0,0,15.2,15.3,15.2l68.1,0c0,0,15.3,0,15.3,-15.2l0,-3.1c0,0,0,-15.3,-15.3,-15.3Z" class="g5_423" />
+<text 
+x="282" 
+y="640" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s11_423"
+>Dialogue 1</text>
+
+<path d="M281.6,616.2c-0.2,0,-16.1,0.2,-16.1,16.1l0,3.1c0,0.1,0.2,16,16.1,16l68.1,0c0.2,0,16.1,-0.2,16.1,-16l0,-3.1c0,-0.2,-0.2,-16.1,-16.1,-16.1l-68.1,0Z" class="g6_423" />
+<path d="M281.6,618.3c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.5,0.2,14,14,14l68.1,0c0.6,0,14,-0.3,14,-14l0,-3.1c0,-0.6,-0.2,-14,-14,-14l-68.1,0Z" class="g7_423" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_4gw;
+	src: url("fonts/LibreFranklin-SemiBold_4gw.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_4h2;
+	src: url("fonts/LibreFranklin-Bold_4h2.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_4hh;
+	src: url("fonts/LibreFranklin-ExtraBold_4hh.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiTC-Regular_4h8;
+	src: url("fonts/STKaitiTC-Regular_4h8.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_4ho;
+	src: url("fonts/LibreFranklin-Light_4ho.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_4hk;
+	src: url("fonts/ProximaNova-Extrabld_4hk.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

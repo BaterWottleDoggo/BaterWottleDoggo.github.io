@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 55 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_55{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_55{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_55{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_55{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_55{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_2th;
+fill: #007D9F;
+}
+.s2_55{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_2tj;
+fill: #007D9F;
+}
+.s3_55{
+font-size: 27.50px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s4_55{
+font-size: 22.92px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s5_55{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2t-;
+fill: #3F3F40;
+}
+.s6_55{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s7_55{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s8_55{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_2th;
+fill: #3F3F40;
+}
+.s9_55{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2tj;
+fill: #939598;
+}
+.s10_55{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s11_55{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s12_55{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s13_55{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2u1;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,73.7l13,0" class="g1_55" />
+<text 
+x="105" 
+y="70" 
+dx="0,0" 
+class="s1_55"
+>6 </text>
+
+<text 
+x="310" 
+y="74" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_55"
+>Questions ending with </text>
+
+<text 
+x="565" 
+y="74" 
+dx="0" 
+class="s3_55"
+>吗</text>
+
+<text 
+x="599" 
+y="74" 
+dx="0,0,0,0" 
+class="s4_55"
+>(ma)</text>
+
+<text 
+x="143" 
+y="136" 
+dx="0,0,0,0,0" 
+class="s5_55"
+>When </text>
+
+<text 
+x="185" 
+y="136" 
+dx="0" 
+class="s6_55"
+>吗</text>
+
+<text 
+x="211" 
+y="136" 
+dx="0,0,0,0" 
+class="s7_55"
+>(ma)</text>
+
+<text 
+x="242" 
+y="136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_55"
+>is added to the end of a declarative statement, that statement turns into a question. </text>
+
+<text 
+x="143" 
+y="164" 
+dx="0,-1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s5_55"
+>To answer the question in the affirmative, drop </text>
+
+<text 
+x="451" 
+y="164" 
+dx="0" 
+class="s6_55"
+>吗</text>
+
+<text 
+x="476" 
+y="164" 
+dx="0,0,0,0" 
+class="s7_55"
+>(ma)</text>
+
+<text 
+x="507" 
+y="164" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.9,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_55"
+>from the end of the question. To answer the </text>
+
+<text 
+x="143" 
+y="191" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s5_55"
+>question in the negative, drop </text>
+
+<text 
+x="344" 
+y="191" 
+dx="0" 
+class="s6_55"
+>吗</text>
+
+<text 
+x="369" 
+y="191" 
+dx="0,0,0,0" 
+class="s7_55"
+>(ma)</text>
+
+<text 
+x="397" 
+y="191" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_55"
+>, and insert a negative adverb—usually </text>
+
+<text 
+x="654" 
+y="191" 
+dx="0" 
+class="s6_55"
+>不</text>
+
+<text 
+x="680" 
+y="191" 
+dx="0,0,0,0" 
+class="s7_55"
+>(bù)</text>
+
+<text 
+x="703" 
+y="191" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_55"
+>—before the </text>
+
+<text 
+x="143" 
+y="219" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0" 
+class="s5_55"
+>verb. [See Grammar 7.]</text>
+
+<text 
+x="155" 
+y="288" 
+dx="0,0" 
+class="s8_55"
+>A </text>
+
+<text 
+x="198" 
+y="289" 
+dx="0,0,0" 
+class="s9_55"
+>Q: </text>
+
+<text 
+x="224" 
+y="290" 
+dx="0,0,0,0" 
+class="s10_55"
+>你是老师</text>
+
+<text 
+x="352" 
+y="290" 
+dx="0" 
+class="s11_55"
+>吗</text>
+
+<text 
+x="385" 
+y="290" 
+dx="0" 
+class="s10_55"
+>？</text>
+
+<text 
+x="230" 
+y="328" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_55"
+>Nǐ shì lǎoshī </text>
+
+<text 
+x="311" 
+y="328" 
+dx="0,0.2" 
+class="s12_55"
+>ma</text>
+
+<text 
+x="330" 
+y="328" 
+dx="0" 
+class="s7_55"
+>?</text>
+
+<text 
+x="230" 
+y="360" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_55"
+>Are you a teacher?</text>
+
+<text 
+x="198" 
+y="423" 
+dx="0,0,0" 
+class="s9_55"
+>A: </text>
+
+<text 
+x="224" 
+y="425" 
+dx="0,0,0,0,0" 
+class="s10_55"
+>我是老师。</text>
+
+<text 
+x="230" 
+y="462" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_55"
+>Wǒ shì lǎoshī.</text>
+
+<text 
+x="230" 
+y="494" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_55"
+>I am a teacher. (affirmative)</text>
+
+<text 
+x="198" 
+y="557" 
+dx="0,0" 
+class="s9_55"
+>A:</text>
+
+<text 
+x="224" 
+y="559" 
+dx="0,0,0,0,0,0" 
+class="s10_55"
+>我不是老师。</text>
+
+<text 
+x="230" 
+y="596" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_55"
+>Wǒ bú shì lǎoshī.</text>
+
+<text 
+x="230" 
+y="628" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_55"
+>I am not a teacher. (negative)</text>
+
+<text 
+x="155" 
+y="697" 
+dx="0,0" 
+class="s8_55"
+>B </text>
+
+<text 
+x="198" 
+y="698" 
+dx="0,0,0" 
+class="s9_55"
+>Q: </text>
+
+<text 
+x="224" 
+y="700" 
+dx="0,0,0" 
+class="s10_55"
+>你姓王</text>
+
+<text 
+x="320" 
+y="700" 
+dx="0" 
+class="s11_55"
+>吗</text>
+
+<text 
+x="352" 
+y="700" 
+dx="0" 
+class="s10_55"
+>？</text>
+
+<text 
+x="230" 
+y="737" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-1.6,0.2,0.2,0.2" 
+class="s7_55"
+>Nǐ xìng Wáng </text>
+
+<text 
+x="320" 
+y="737" 
+dx="0,0.2" 
+class="s12_55"
+>ma</text>
+
+<text 
+x="339" 
+y="737" 
+dx="0" 
+class="s7_55"
+>?</text>
+
+<text 
+x="230" 
+y="769" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,-0.3" 
+class="s5_55"
+>Is your family name Wang?</text>
+
+<text 
+x="198" 
+y="832" 
+dx="0,0" 
+class="s9_55"
+>A:</text>
+
+<text 
+x="224" 
+y="834" 
+dx="0,0,0,0" 
+class="s10_55"
+>我姓王。</text>
+
+<text 
+x="230" 
+y="871" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-1.6,0.2,0.2,0.2" 
+class="s7_55"
+>Wǒ xìng Wáng.</text>
+
+<text 
+x="230" 
+y="903" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_55"
+>My family name is Wang. (affirmative)</text>
+
+<text 
+x="198" 
+y="966" 
+dx="0,0" 
+class="s9_55"
+>A:</text>
+
+<text 
+x="224" 
+y="968" 
+dx="0,0,0,0,0" 
+class="s10_55"
+>我不姓王。</text>
+
+<text 
+x="230" 
+y="1005" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-1.6,0.2,0.2,0.2" 
+class="s7_55"
+>Wǒ bú xìng Wáng.</text>
+
+<text 
+x="230" 
+y="1037" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_55"
+>My family name is not Wang. (negative)</text>
+
+<path d="M132.9,39.5l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g2_55" />
+<path d="M134.9,91.7l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_55" />
+<path d="M149.1,265.3c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_55" />
+<path d="M149.1,267.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,-0.1,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_55" />
+<path d="M149.1,674.4c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_55" />
+<path d="M149.1,676.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_55" />
+<path d="M-22.1,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g4_55" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3" 
+class="s13_55"
+>34 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1143)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_55"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1021)"
+dx="0,0.3" 
+class="s13_55"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1008)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s13_55"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2th;
+	src: url("fonts/ProximaNova-Extrabld_2th.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2t-;
+	src: url("fonts/ProximaNova-Light_2t-.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2u1;
+	src: url("fonts/ProximaNova-Semibold_2u1.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2tj;
+	src: url("fonts/ProximaNova-Bold_2tj.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 233 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_233{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_233{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_233{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_233{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_233{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_32x;
+fill: #007D9F;
+}
+.s2_233{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_32r;
+fill: #007D9F;
+}
+.s3_233{
+font-size: 27.50px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s4_233{
+font-size: 22.92px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s5_233{
+font-size: 15.28px;
+font-family: ProximaNova-Light_330;
+fill: #3F3F40;
+}
+.s6_233{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_32x;
+fill: #3F3F40;
+}
+.s7_233{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s8_233{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s9_233{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s10_233{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s11_233{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_32r;
+fill: #007598;
+}
+.s12_233{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s13_233{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_32r;
+fill: #939598;
+}
+.s14_233{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_32_;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,73.2l13,0" class="g1_233" />
+<text 
+x="105" 
+y="69" 
+dx="0,0" 
+class="s1_233"
+>3 </text>
+
+<text 
+x="317" 
+y="74" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_233"
+>Describing simultaneity using </text>
+
+<text 
+x="290" 
+y="111" 
+dx="0,0,0,0,0,0,0" 
+class="s3_233"
+>一边… 一边…</text>
+
+<text 
+x="474" 
+y="111" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_233"
+>(yìbiān . . . yìbiān . . . )</text>
+
+<text 
+x="143" 
+y="173" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s5_233"
+>This structure describes two simultaneous actions. Typically, the first action is the principal one, </text>
+
+<text 
+x="143" 
+y="200" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_233"
+>which begins before the second, accompanying action.</text>
+
+<text 
+x="154" 
+y="264" 
+dx="0,0" 
+class="s6_233"
+>A </text>
+
+<text 
+x="220" 
+y="266" 
+dx="0,0" 
+class="s7_233"
+>我们</text>
+
+<text 
+x="284" 
+y="266" 
+dx="0,0" 
+class="s8_233"
+>一边</text>
+
+<text 
+x="348" 
+y="266" 
+dx="0,0,0,0" 
+class="s7_233"
+>吃晚饭，</text>
+
+<text 
+x="476" 
+y="266" 
+dx="0,0" 
+class="s8_233"
+>一边</text>
+
+<text 
+x="540" 
+y="266" 
+dx="0,0,0,0,0,0" 
+class="s7_233"
+>练习说中文。</text>
+
+<text 
+x="224" 
+y="303" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s9_233"
+>Wǒmen </text>
+
+<text 
+x="277" 
+y="303" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_233"
+>yìbiān </text>
+
+<text 
+x="319" 
+y="303" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_233"
+>chī wǎnfàn, </text>
+
+<text 
+x="395" 
+y="303" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_233"
+>yìbiān </text>
+
+<text 
+x="437" 
+y="303" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s9_233"
+>liànxí shuō Zhōngwén. </text>
+
+<text 
+x="224" 
+y="335" 
+dx="0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3" 
+class="s5_233"
+>We practiced speaking Chinese while having dinner.</text>
+
+<text 
+x="154" 
+y="399" 
+dx="0,0" 
+class="s6_233"
+>B </text>
+
+<text 
+x="220" 
+y="401" 
+dx="0,0,0" 
+class="s7_233"
+>他常常</text>
+
+<text 
+x="316" 
+y="401" 
+dx="0,0" 
+class="s8_233"
+>一边</text>
+
+<text 
+x="380" 
+y="401" 
+dx="0,0" 
+class="s7_233"
+>吃饭</text>
+
+<text 
+x="444" 
+y="401" 
+dx="0,0" 
+class="s8_233"
+>一边</text>
+
+<text 
+x="508" 
+y="401" 
+dx="0,0,0,0" 
+class="s7_233"
+>看电视。</text>
+
+<text 
+x="224" 
+y="438" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_233"
+>Tā chángcháng </text>
+
+<text 
+x="322" 
+y="438" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_233"
+>yìbiān </text>
+
+<text 
+x="364" 
+y="438" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_233"
+>chī fàn </text>
+
+<text 
+x="410" 
+y="438" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_233"
+>yìbiān </text>
+
+<text 
+x="452" 
+y="438" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s9_233"
+>kàn diànshì. </text>
+
+<text 
+x="224" 
+y="470" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s5_233"
+>He often eats and watches TV at the same time.</text>
+
+<text 
+x="154" 
+y="534" 
+dx="0,0" 
+class="s6_233"
+>C </text>
+
+<text 
+x="220" 
+y="536" 
+dx="0" 
+class="s7_233"
+>我</text>
+
+<text 
+x="252" 
+y="536" 
+dx="0,0" 
+class="s8_233"
+>一边</text>
+
+<text 
+x="316" 
+y="536" 
+dx="0,0" 
+class="s7_233"
+>洗澡</text>
+
+<text 
+x="380" 
+y="536" 
+dx="0,0" 
+class="s8_233"
+>一边</text>
+
+<text 
+x="444" 
+y="536" 
+dx="0,0,0" 
+class="s7_233"
+>唱歌。</text>
+
+<text 
+x="224" 
+y="573" 
+dx="0,0.2,0.2" 
+class="s9_233"
+>Wǒ </text>
+
+<text 
+x="251" 
+y="573" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_233"
+>yìbiān </text>
+
+<text 
+x="293" 
+y="573" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_233"
+>xǐ zǎo, </text>
+
+<text 
+x="339" 
+y="573" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_233"
+>yìbiān </text>
+
+<text 
+x="381" 
+y="573" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s9_233"
+>chàng gē. </text>
+
+<text 
+x="224" 
+y="606" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_233"
+>I sang while I was showering.</text>
+
+<text 
+x="154" 
+y="669" 
+dx="0,0" 
+class="s6_233"
+>D </text>
+
+<text 
+x="220" 
+y="672" 
+dx="0,0,0,0,0" 
+class="s7_233"
+>我妹妹喜欢</text>
+
+<text 
+x="380" 
+y="672" 
+dx="0,0" 
+class="s8_233"
+>一边</text>
+
+<text 
+x="444" 
+y="672" 
+dx="0,0" 
+class="s7_233"
+>看书</text>
+
+<text 
+x="508" 
+y="672" 
+dx="0,0" 
+class="s8_233"
+>一边</text>
+
+<text 
+x="572" 
+y="672" 
+dx="0,0,0,0" 
+class="s7_233"
+>听音乐。</text>
+
+<text 
+x="224" 
+y="709" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_233"
+>Wǒ mèimei xǐhuan </text>
+
+<text 
+x="345" 
+y="709" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_233"
+>yìbiān </text>
+
+<text 
+x="388" 
+y="709" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_233"
+>kàn shū, </text>
+
+<text 
+x="444" 
+y="709" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_233"
+>yìbiān </text>
+
+<text 
+x="486" 
+y="709" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s9_233"
+>tīng yīnyuè. </text>
+
+<text 
+x="224" 
+y="741" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_233"
+>My younger sister likes to listen to music while she reads.</text>
+
+<text 
+x="143" 
+y="797" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s11_233"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="825" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_233"
+>Form sentences to indicate the simultaneity of the two actions by inserting </text>
+
+<text 
+x="634" 
+y="825" 
+dx="0,0,0,0,0,0" 
+class="s12_233"
+>一边…一边…</text>
+
+<text 
+x="143" 
+y="852" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.4,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.1" 
+class="s5_233"
+>where appropriate. Use exercise 1 as an example.</text>
+
+<text 
+x="145" 
+y="903" 
+dx="0,0" 
+class="s13_233"
+>1 </text>
+
+<text 
+x="187" 
+y="904" 
+dx="0,0,0,0" 
+class="s7_233"
+>高小音 </text>
+
+<text 
+x="365" 
+y="904" 
+dx="0,0,0" 
+class="s7_233"
+>看书 </text>
+
+<text 
+x="478" 
+y="904" 
+dx="0,0,0,0" 
+class="s7_233"
+>听音乐 </text>
+
+<text 
+x="187" 
+y="956" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_233"
+>→ 高小音一边看书，一边听音乐。</text>
+
+<text 
+x="145" 
+y="1007" 
+dx="0,0" 
+class="s13_233"
+>2 </text>
+
+<text 
+x="187" 
+y="1008" 
+dx="0,0,0,0,0,0,8.8,0,0" 
+class="s7_233"
+>王朋和朋友 看球 </text>
+
+<text 
+x="478" 
+y="1008" 
+dx="0,0,0" 
+class="s7_233"
+>聊天儿</text>
+
+<text 
+x="145" 
+y="1059" 
+dx="0,0" 
+class="s13_233"
+>3 </text>
+
+<text 
+x="187" 
+y="1060" 
+dx="0,0,0,0" 
+class="s7_233"
+>白老师 </text>
+
+<text 
+x="365" 
+y="1060" 
+dx="0,0,0,0,8.8,0,0" 
+class="s7_233"
+>看电影 喝可乐</text>
+
+<path d="M132.9,39.1l0,81.8l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-81.8l0,-0.7l-0.8,0l-676.9,0l-0.7,0l0,0.7Z" class="g2_233" />
+<path d="M134.9,119.6l674.4,0l0,-79.2l-674.4,0l0,79.2Z" class="g3_233" />
+<path d="M149.1,241c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_233" />
+<path d="M149.1,243c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_233" />
+<path d="M149.1,376.1c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_233" />
+<path d="M149.1,378.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_233" />
+<path d="M149.1,511.3c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_233" />
+<path d="M149.1,513.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_233" />
+<path d="M149.1,646.4c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_233" />
+<path d="M149.1,648.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_233" />
+<path d="M-22.1,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g4_233" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3,0.3" 
+class="s14_233"
+>212 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1138)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s14_233"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1016)"
+dx="0,0.3" 
+class="s14_233"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1003)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s14_233"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_32x;
+	src: url("fonts/ProximaNova-Extrabld_32x.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_32_;
+	src: url("fonts/ProximaNova-Semibold_32_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_32r;
+	src: url("fonts/ProximaNova-Bold_32r.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_330;
+	src: url("fonts/ProximaNova-Light_330.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

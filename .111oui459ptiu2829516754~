@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 307 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_307{
+fill: none;
+stroke: #9B9B9C;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_307{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.36666667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_307{
+fill: #85215E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_307{
+font-size: 13.75px;
+font-family: LibreFranklin-Bold_dm9;
+fill: #808285;
+}
+.s2_307{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_dmj;
+fill: #3F3F40;
+}
+.s3_307{
+font-size: 23.68px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #85215E;
+}
+.s4_307{
+font-size: 18.33px;
+font-family: MinionPro-Regular_dnd;
+fill: #231F20;
+}
+.s5_307{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #85215E;
+}
+.s6_307{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_cic;
+fill: #3F3F40;
+}
+.s7_307{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_dne;
+fill: #3F3F40;
+}
+.s8_307{
+font-size: 16.81px;
+font-family: LibreFranklin-SemiBold_dmu;
+fill: #85215E;
+}
+.s9_307{
+font-size: 23.68px;
+font-family: STKaiti-SC-Bold_dni;
+fill: #85215E;
+}
+.s10_307{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Bold_dnj;
+fill: #85215E;
+}
+.s11_307{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s12_307{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s13_307{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #3F3F40;
+}
+.s14_307{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #8D3768;
+}
+.s15_307{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_dni;
+fill: #8D3768;
+}
+.s16_307{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s17_307{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_dmr;
+fill: #3F3F40;
+}
+.s18_307{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #3F3F40;
+}
+.s19_307{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #8D3768;
+}
+.s20_307{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_dnj;
+fill: #8D3768;
+}
+.s21_307{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s22_307{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_dms;
+fill: #3F3F40;
+}
+.s23_307{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dmb;
+fill: #231F20;
+}
+.s24_307{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_dnk;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M6.8,369.7l173.1,0" class="g1_307" />
+<path d="M150.4,55.2l270.1,0" class="g2_307" />
+<path d="M420.5,55.2l210.8,0" class="g2_307" />
+<path d="M631.3,55.2l237.2,0" class="g2_307" />
+<path d="M150.4,127.8l270.1,0" class="g2_307" />
+<path d="M420.5,127.8l210.8,0" class="g2_307" />
+<path d="M631.3,127.8l237.2,0" class="g2_307" />
+<path d="M150.4,157.1l270.1,0" class="g2_307" />
+<path d="M420.5,157.1l210.8,0" class="g2_307" />
+<path d="M631.3,157.1l237.2,0" class="g2_307" />
+<path d="M150.4,186.4l270.1,0" class="g2_307" />
+<path d="M420.5,186.4l210.8,0" class="g2_307" />
+<path d="M631.3,186.4l237.2,0" class="g2_307" />
+<path d="M150.4,215.7l270.1,0" class="g2_307" />
+<path d="M420.5,215.7l210.8,0" class="g2_307" />
+<path d="M631.3,215.7l237.2,0" class="g2_307" />
+<path d="M150.4,244.9l270.1,0" class="g2_307" />
+<path d="M420.5,244.9l210.8,0" class="g2_307" />
+<path d="M631.3,244.9l237.2,0" class="g2_307" />
+<path d="M150.4,274.2l270.1,0" class="g2_307" />
+<path d="M420.5,274.2l210.8,0" class="g2_307" />
+<path d="M631.3,274.2l237.2,0" class="g2_307" />
+<path d="M150.4,303.5l270.1,0" class="g2_307" />
+<path d="M420.5,303.5l210.8,0" class="g2_307" />
+<path d="M631.3,303.5l237.2,0" class="g2_307" />
+<text 
+x="152" 
+y="74" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,-0.5,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s1_307"
+>ESSENTIAL WORDS (CONTINUED)</text>
+
+<text 
+x="152" 
+y="121" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_307"
+>Chinese </text>
+
+<text 
+x="422" 
+y="121" 
+dx="0,0,0,0,0,0" 
+class="s2_307"
+>Pinyin</text>
+
+<text 
+x="633" 
+y="121" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_307"
+>English </text>
+
+<text 
+x="152" 
+y="152" 
+dx="0,0" 
+class="s3_307"
+>奖励</text>
+
+<text 
+x="199" 
+y="151" 
+dx="0" 
+class="s4_307"
+>/</text>
+
+<text 
+x="206" 
+y="152" 
+dx="0,0" 
+class="s5_307"
+>獎勵</text>
+
+<text 
+x="422" 
+y="149" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_307"
+>jiǎnglì</text>
+
+<text 
+x="633" 
+y="149" 
+dx="0,0,0,0,-0.2,0" 
+class="s2_307"
+>awards</text>
+
+<text 
+x="152" 
+y="181" 
+dx="0,0" 
+class="s3_307"
+>语言</text>
+
+<text 
+x="199" 
+y="180" 
+dx="0" 
+class="s4_307"
+>/</text>
+
+<text 
+x="206" 
+y="181" 
+dx="0,0" 
+class="s5_307"
+>語言</text>
+
+<text 
+x="422" 
+y="179" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_307"
+>yǔyán</text>
+
+<text 
+x="633" 
+y="178" 
+dx="0,0,0,0,0,0,0,-0.1,0" 
+class="s2_307"
+>languages</text>
+
+<text 
+x="152" 
+y="211" 
+dx="0,0,0,0" 
+class="s3_307"
+>工作经历</text>
+
+<text 
+x="247" 
+y="209" 
+dx="0" 
+class="s4_307"
+>/</text>
+
+<text 
+x="253" 
+y="211" 
+dx="0,0,0,0" 
+class="s5_307"
+>工作經歷</text>
+
+<text 
+x="422" 
+y="208" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_307"
+>gōngzuò jīnglì</text>
+
+<text 
+x="633" 
+y="208" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>work experience</text>
+
+<text 
+x="152" 
+y="240" 
+dx="0,0" 
+class="s3_307"
+>推荐</text>
+
+<text 
+x="199" 
+y="238" 
+dx="0" 
+class="s4_307"
+>/</text>
+
+<text 
+x="206" 
+y="240" 
+dx="0,0" 
+class="s5_307"
+>推薦</text>
+
+<text 
+x="422" 
+y="237" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_307"
+>tuījiàn</text>
+
+<text 
+x="633" 
+y="237" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>recommendations</text>
+
+<text 
+x="152" 
+y="269" 
+dx="0,0" 
+class="s3_307"
+>技能</text>
+
+<text 
+x="422" 
+y="267" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s7_307"
+>jìnéng</text>
+
+<text 
+x="633" 
+y="266" 
+dx="0,0,0,0,0,0" 
+class="s2_307"
+>skills</text>
+
+<text 
+x="152" 
+y="298" 
+dx="0,0,0,0" 
+class="s3_307"
+>获得证书</text>
+
+<text 
+x="247" 
+y="297" 
+dx="0" 
+class="s4_307"
+>/</text>
+
+<text 
+x="253" 
+y="298" 
+dx="0,0,0,0" 
+class="s5_307"
+>獲得證書</text>
+
+<text 
+x="422" 
+y="296" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_307"
+>huòdé zhèngshū</text>
+
+<text 
+x="633" 
+y="295" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.4,0" 
+class="s2_307"
+>certificates received</text>
+
+<text 
+x="61" 
+y="354" 
+dx="0,-1.3,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4" 
+class="s8_307"
+>Keep It Flowing</text>
+
+<text 
+x="151" 
+y="400" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>First, study the following example; pay particular attention to how the highlighted parts help the </text>
+
+<text 
+x="151" 
+y="424" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,-0.2,0,0,0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>sentences flow smoothly from one to the next. Notice how:</text>
+
+<text 
+x="173" 
+y="456" 
+dx="0,0" 
+class="s2_307"
+>• </text>
+
+<text 
+x="191" 
+y="456" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s2_307"
+>an introductory statement (</text>
+
+<text 
+x="376" 
+y="458" 
+dx="0,0,0,0,0,0" 
+class="s3_307"
+>我是从中国 </text>
+
+<text 
+x="500" 
+y="459" 
+dx="0" 
+class="s9_307"
+>X</text>
+
+<text 
+x="523" 
+y="458" 
+dx="0,0,0,0,0" 
+class="s3_307"
+>大学毕业的</text>
+
+<text 
+x="641" 
+y="456" 
+dx="0" 
+class="s2_307"
+>/</text>
+
+<text 
+x="646" 
+y="458" 
+dx="0,0,0,0,0,0" 
+class="s5_307"
+>我是從中國 </text>
+
+<text 
+x="770" 
+y="459" 
+dx="0" 
+class="s10_307"
+>X</text>
+
+<text 
+x="191" 
+y="479" 
+dx="0,0,0,0,0" 
+class="s5_307"
+>大學畢業的</text>
+
+<text 
+x="310" 
+y="478" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s2_307"
+>) launches a narrative</text>
+
+<text 
+x="173" 
+y="503" 
+dx="0,0" 
+class="s2_307"
+>• </text>
+
+<text 
+x="191" 
+y="503" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>following a timeline (</text>
+
+<text 
+x="329" 
+y="504" 
+dx="0,0,0" 
+class="s3_307"
+>三年前</text>
+
+<text 
+x="400" 
+y="503" 
+dx="0,0" 
+class="s2_307"
+>, </text>
+
+<text 
+x="406" 
+y="504" 
+dx="0,0" 
+class="s3_307"
+>今年</text>
+
+<text 
+x="454" 
+y="503" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s2_307"
+>) organizes a narrative</text>
+
+<text 
+x="173" 
+y="528" 
+dx="0,0" 
+class="s2_307"
+>• </text>
+
+<text 
+x="191" 
+y="528" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>certain prepositions (</text>
+
+<text 
+x="333" 
+y="530" 
+dx="0,0" 
+class="s3_307"
+>因为</text>
+
+<text 
+x="381" 
+y="528" 
+dx="0" 
+class="s2_307"
+>/</text>
+
+<text 
+x="386" 
+y="530" 
+dx="0,0" 
+class="s5_307"
+>因為</text>
+
+<text 
+x="433" 
+y="528" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s2_307"
+>) introduce reason</text>
+
+<text 
+x="173" 
+y="553" 
+dx="0,0" 
+class="s2_307"
+>• </text>
+
+<text 
+x="191" 
+y="553" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0" 
+class="s2_307"
+>certain adverbs (</text>
+
+<text 
+x="303" 
+y="555" 
+dx="0" 
+class="s3_307"
+>也</text>
+
+<text 
+x="327" 
+y="553" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>) signify addition </text>
+
+<text 
+x="173" 
+y="579" 
+dx="0,0" 
+class="s2_307"
+>• </text>
+
+<text 
+x="191" 
+y="579" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>certain conjunctions (</text>
+
+<text 
+x="336" 
+y="580" 
+dx="0,0" 
+class="s3_307"
+>如果</text>
+
+<text 
+x="383" 
+y="579" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>) introduce a hypothetical scenario</text>
+
+<text 
+x="173" 
+y="611" 
+dx="0,0" 
+class="s2_307"
+>• </text>
+
+<text 
+x="191" 
+y="611" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>certain prepositions (</text>
+
+<text 
+x="333" 
+y="612" 
+dx="0" 
+class="s3_307"
+>为</text>
+
+<text 
+x="357" 
+y="611" 
+dx="0" 
+class="s2_307"
+>/</text>
+
+<text 
+x="362" 
+y="612" 
+dx="0" 
+class="s5_307"
+>為</text>
+
+<text 
+x="386" 
+y="611" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_307"
+>) introduce purpose (</text>
+
+<text 
+x="524" 
+y="612" 
+dx="0,0,0,0,0" 
+class="s11_307"
+>公司的发展</text>
+
+<text 
+x="643" 
+y="611" 
+dx="0" 
+class="s2_307"
+>/</text>
+
+<text 
+x="648" 
+y="612" 
+dx="0,0,0,0,0" 
+class="s12_307"
+>公司的發展</text>
+
+<text 
+x="766" 
+y="611" 
+dx="0" 
+class="s2_307"
+>)</text>
+
+<text 
+x="371" 
+y="687" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s13_307"
+>林雪梅这样介绍自己</text>
+
+<text 
+x="224" 
+y="733" 
+dx="0,0,0,0,0" 
+class="s14_307"
+>我是从中国</text>
+
+<text 
+x="354" 
+y="736" 
+dx="0" 
+class="s15_307"
+>X</text>
+
+<text 
+x="372" 
+y="733" 
+dx="0,0,0,0,0" 
+class="s14_307"
+>大学毕业的</text>
+
+<text 
+x="502" 
+y="733" 
+dx="0" 
+class="s16_307"
+>。</text>
+
+<text 
+x="528" 
+y="733" 
+dx="0,0,0" 
+class="s14_307"
+>三年前</text>
+
+<text 
+x="606" 
+y="733" 
+dx="0,0,0" 
+class="s16_307"
+>到美国</text>
+
+<text 
+x="684" 
+y="736" 
+dx="0" 
+class="s17_307"
+>X</text>
+
+<text 
+x="702" 
+y="733" 
+dx="0,0,0" 
+class="s16_307"
+>大学学</text>
+
+<text 
+x="176" 
+y="770" 
+dx="0,0,0,0,0,0" 
+class="s16_307"
+>习工商管理，</text>
+
+<text 
+x="332" 
+y="770" 
+dx="0,0" 
+class="s14_307"
+>今年</text>
+
+<text 
+x="384" 
+y="770" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_307"
+>想在中国找一个适合自己的工作。</text>
+
+<text 
+x="224" 
+y="815" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_307"
+>你们公司（贵公司）在世界上很有名，我来这里工</text>
+
+<text 
+x="176" 
+y="852" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_307"
+>作一定能学到很多东西，</text>
+
+<text 
+x="462" 
+y="852" 
+dx="0" 
+class="s14_307"
+>也</text>
+
+<text 
+x="488" 
+y="852" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_307"
+>相信我来这里工作，会对贵</text>
+
+<text 
+x="176" 
+y="889" 
+dx="0,0,0,0,0,0" 
+class="s16_307"
+>公司有贡献。</text>
+
+<text 
+x="332" 
+y="889" 
+dx="0,0" 
+class="s14_307"
+>因为</text>
+
+<text 
+x="384" 
+y="889" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_307"
+>我非常了解贵公司的情况，</text>
+
+<text 
+x="695" 
+y="889" 
+dx="0" 
+class="s14_307"
+>也</text>
+
+<text 
+x="721" 
+y="889" 
+dx="0,0,0" 
+class="s16_307"
+>对公司</text>
+
+<text 
+x="176" 
+y="925" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_307"
+>以后怎样发展有一些想法。</text>
+
+<text 
+x="488" 
+y="925" 
+dx="0,0" 
+class="s14_307"
+>如果</text>
+
+<text 
+x="540" 
+y="925" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s16_307"
+>你们录用了我，我一定</text>
+
+<text 
+x="176" 
+y="962" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s16_307"
+>和公司的其他人一起，</text>
+
+<text 
+x="436" 
+y="962" 
+dx="0" 
+class="s14_307"
+>为</text>
+
+<text 
+x="462" 
+y="962" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_307"
+>公司的发展好好地工作。</text>
+
+<text 
+x="371" 
+y="1037" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s18_307"
+>林雪梅這樣介紹自己</text>
+
+<text 
+x="224" 
+y="1083" 
+dx="0,0,0,0,0" 
+class="s19_307"
+>我是從中國</text>
+
+<text 
+x="354" 
+y="1086" 
+dx="0" 
+class="s20_307"
+>X</text>
+
+<text 
+x="372" 
+y="1083" 
+dx="0,0,0,0,0" 
+class="s19_307"
+>大學畢業的</text>
+
+<text 
+x="502" 
+y="1083" 
+dx="0" 
+class="s21_307"
+>。</text>
+
+<text 
+x="528" 
+y="1083" 
+dx="0,0,0" 
+class="s19_307"
+>三年前</text>
+
+<text 
+x="606" 
+y="1083" 
+dx="0,0,0" 
+class="s21_307"
+>到美國</text>
+
+<text 
+x="684" 
+y="1084" 
+dx="0" 
+class="s22_307"
+>X</text>
+
+<text 
+x="702" 
+y="1083" 
+dx="0,0,0" 
+class="s21_307"
+>大學學</text>
+
+<text 
+x="176" 
+y="1119" 
+dx="0,0,0,0,0,0" 
+class="s21_307"
+>習工商管理，</text>
+
+<text 
+x="332" 
+y="1119" 
+dx="0,0" 
+class="s19_307"
+>今年</text>
+
+<text 
+x="384" 
+y="1119" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s21_307"
+>想在中國找一個適合自己的工作。</text>
+
+<path d="M-12.9,1140.5l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g3_307" />
+<text 
+x="20" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s23_307"
+>284 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s24_307"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s24_307"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s24_307"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s24_307"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s24_307"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s24_307"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s24_307"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s24_307"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s24_307"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_dms;
+	src: url("fonts/STKaiTi-TC-Regular_dms.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_cic;
+	src: url("fonts/GentiumBasic-Italic_cic.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_dmr;
+	src: url("fonts/STKaiti-SC-Regular_dmr.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_dnk;
+	src: url("fonts/LibreFranklin-SemiBold_dnk.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_dne;
+	src: url("fonts/GentiumBasic-Italic_dne.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_dmj;
+	src: url("fonts/LibreFranklin-Regular_dmj.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_dni;
+	src: url("fonts/STKaiti-SC-Bold_dni.woff") format("woff");
+}
+
+@font-face {
+	font-family: MinionPro-Regular_dnd;
+	src: url("fonts/MinionPro-Regular_dnd.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dmb;
+	src: url("fonts/LibreFranklin-Medium_dmb.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_dm9;
+	src: url("fonts/LibreFranklin-Bold_dm9.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_dnj;
+	src: url("fonts/STKaiTi-TC-Bold_dnj.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_dmu;
+	src: url("fonts/LibreFranklin-SemiBold_dmu.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

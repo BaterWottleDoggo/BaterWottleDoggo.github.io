@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 27 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_27"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+<clipPath id="c1_27"><path d="M235.6,894.7l0,-17l17,0l0,17Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_27{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_27{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_27{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_27{
+fill: none;
+stroke: #EDF3F7;
+stroke-width: 33.61111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_27{
+fill: #DC252E;
+}
+.g6_27{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g7_27{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_27{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_27{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_27{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_3nc;
+fill: #007598;
+}
+.s2_27{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3nc;
+fill: #007D9F;
+}
+.s3_27{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3n5;
+fill: #007D9F;
+}
+.s4_27{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #3F3F40;
+}
+.s5_27{
+font-size: 20.63px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s6_27{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_3o0;
+fill: #3F3F40;
+}
+.s7_27{
+font-size: 17.57px;
+font-family: LibreFranklin-Medium_3n8;
+fill: #231F20;
+}
+.s8_27{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #231F20;
+}
+.s9_27{
+font-size: 17.19px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #3F3F40;
+}
+.s10_27{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3nc;
+fill: #3F3F40;
+}
+.s11_27{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s12_27{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #007D9F;
+}
+.s13_27{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s14_27{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s15_27{
+font-size: 15.28px;
+font-family: LibreFranklin-Italic_3o-;
+fill: #3F3F40;
+}
+.s16_27{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3ow;
+fill: #3F3F40;
+}
+.s17_27{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3o1;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_27)">
+<path d="M-12.9,97.3l211.4,0" class="g1_27" />
+<path d="M-12.9,99.8l211.4,0" class="g2_27" />
+</g>
+<path d="M105.3,186.6l13,0" class="g3_27" />
+<path d="M134.4,298.5l679.9,0" class="g4_27" />
+<path d="M134.4,711.8l679.9,0" class="g4_27" />
+<text 
+x="48" 
+y="85" 
+dx="0,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_27"
+>Grammar</text>
+
+<text 
+x="105" 
+y="183" 
+dx="0,0" 
+class="s2_27"
+>1 </text>
+
+<text 
+x="263" 
+y="187" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,-0.7,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_27"
+>Comparative sentences using </text>
+
+<text 
+x="594" 
+y="187" 
+dx="0" 
+class="s4_27"
+>比</text>
+
+<text 
+x="626" 
+y="187" 
+dx="0,0.4,0.4,0.4" 
+class="s5_27"
+>(bǐ)</text>
+
+<text 
+x="660" 
+y="187" 
+dx="0,0,0" 
+class="s3_27"
+>(I)</text>
+
+<text 
+x="143" 
+y="249" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_27"
+>You can use the pattern below to compare two entities.</text>
+
+<text 
+x="371" 
+y="304" 
+dx="0,0.2,0.2,0.2" 
+class="s7_27"
+>X + </text>
+
+<text 
+x="401" 
+y="304" 
+dx="0" 
+class="s8_27"
+>比</text>
+
+<text 
+x="428" 
+y="304" 
+dx="0,0.3,0.3,0.3" 
+class="s9_27"
+>(bǐ)</text>
+
+<text 
+x="456" 
+y="304" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.4" 
+class="s7_27"
+>+ Y + adjective</text>
+
+<text 
+x="155" 
+y="371" 
+dx="0,0" 
+class="s10_27"
+>A </text>
+
+<text 
+x="226" 
+y="373" 
+dx="0,0" 
+class="s11_27"
+>李友</text>
+
+<text 
+x="290" 
+y="373" 
+dx="0" 
+class="s12_27"
+>比</text>
+
+<text 
+x="322" 
+y="373" 
+dx="0,0,0,0,0" 
+class="s11_27"
+>她大姐高。</text>
+
+<text 
+x="563" 
+y="371" 
+dx="0,0" 
+class="s10_27"
+>B </text>
+
+<text 
+x="635" 
+y="373" 
+dx="0,0" 
+class="s11_27"
+>今天</text>
+
+<text 
+x="699" 
+y="373" 
+dx="0" 
+class="s12_27"
+>比</text>
+
+<text 
+x="731" 
+y="373" 
+dx="0,0,0,0" 
+class="s11_27"
+>昨天冷。</text>
+
+<text 
+x="232" 
+y="410" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_27"
+>Lǐ Yǒu </text>
+
+<text 
+x="278" 
+y="410" 
+dx="0,0.3,0.3" 
+class="s14_27"
+>bǐ </text>
+
+<text 
+x="294" 
+y="410" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_27"
+>tā dàjiě gāo. </text>
+
+<text 
+x="640" 
+y="410" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_27"
+>Jīntiān </text>
+
+<text 
+x="688" 
+y="410" 
+dx="0,0.3,0.3" 
+class="s14_27"
+>bǐ </text>
+
+<text 
+x="705" 
+y="410" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_27"
+>zuótiān lěng.</text>
+
+<text 
+x="232" 
+y="442" 
+dx="0,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.3,0" 
+class="s6_27"
+>Li You is taller than her oldest sister. </text>
+
+<text 
+x="640" 
+y="442" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,-1" 
+class="s6_27"
+>Today is colder than yesterday.</text>
+
+<text 
+x="155" 
+y="495" 
+dx="0,0" 
+class="s10_27"
+>C </text>
+
+<text 
+x="226" 
+y="497" 
+dx="0,0,0,0,0,0" 
+class="s11_27"
+>第十课的语法</text>
+
+<text 
+x="418" 
+y="497" 
+dx="0" 
+class="s12_27"
+>比</text>
+
+<text 
+x="450" 
+y="497" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s11_27"
+>第九课的语法容易。</text>
+
+<text 
+x="232" 
+y="534" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_27"
+>Dì shí kè de yǔfǎ </text>
+
+<text 
+x="344" 
+y="534" 
+dx="0,0.3,0.3" 
+class="s14_27"
+>bǐ </text>
+
+<text 
+x="360" 
+y="534" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_27"
+>dì jiǔ kè de yǔfǎ róngyì.</text>
+
+<text 
+x="232" 
+y="566" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_27"
+>The grammar in Lesson Ten is easier than the grammar in Lesson Nine.</text>
+
+<text 
+x="143" 
+y="607" 
+dx="0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_27"
+>There are two ways in which the basic comparative construction can be further modified: the </text>
+
+<text 
+x="143" 
+y="635" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s6_27"
+>first is by adding a qualifying expression after the adjective, as shown in the following pattern. </text>
+
+<text 
+x="143" 
+y="662" 
+dx="0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_27"
+>Note that the modifying expression must be placed </text>
+
+<text 
+x="509" 
+y="662" 
+dx="0,0,0,-0.2,0" 
+class="s15_27"
+>after</text>
+
+<text 
+x="547" 
+y="662" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.1,0,0,0,0,-0.3,0,-0.2,0,0,0,0" 
+class="s6_27"
+>the adjective, not before it.</text>
+
+<text 
+x="184" 
+y="717" 
+dx="0,0.2,0.2,0.2" 
+class="s7_27"
+>X + </text>
+
+<text 
+x="214" 
+y="717" 
+dx="0" 
+class="s8_27"
+>比</text>
+
+<text 
+x="241" 
+y="717" 
+dx="0,0.3,0.3,0.3" 
+class="s9_27"
+>(bǐ)</text>
+
+<text 
+x="269" 
+y="717" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.4,0.2,0.2,0.2" 
+class="s7_27"
+>+ Y + adjective + </text>
+
+<text 
+x="408" 
+y="717" 
+dx="0,0,0" 
+class="s8_27"
+>一点儿</text>
+
+<text 
+x="480" 
+y="717" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s9_27"
+>(yì diǎnr)</text>
+
+<text 
+x="545" 
+y="717" 
+dx="0" 
+class="s7_27"
+>/</text>
+
+<text 
+x="551" 
+y="717" 
+dx="0,0" 
+class="s8_27"
+>得多</text>
+
+<text 
+x="601" 
+y="717" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s9_27"
+>(de duō)</text>
+
+<text 
+x="657" 
+y="717" 
+dx="0" 
+class="s7_27"
+>/</text>
+
+<text 
+x="663" 
+y="717" 
+dx="0,0" 
+class="s8_27"
+>多了</text>
+
+<text 
+x="713" 
+y="717" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.2,0.3" 
+class="s9_27"
+>(duō le)</text>
+
+<text 
+x="155" 
+y="784" 
+dx="0,0" 
+class="s10_27"
+>D </text>
+
+<text 
+x="226" 
+y="786" 
+dx="0,0" 
+class="s11_27"
+>今天</text>
+
+<text 
+x="290" 
+y="786" 
+dx="0" 
+class="s12_27"
+>比</text>
+
+<text 
+x="322" 
+y="786" 
+dx="0,0,0" 
+class="s11_27"
+>昨天冷</text>
+
+<text 
+x="418" 
+y="786" 
+dx="0,0,0" 
+class="s12_27"
+>一点儿</text>
+
+<text 
+x="514" 
+y="786" 
+dx="0" 
+class="s11_27"
+>。</text>
+
+<text 
+x="232" 
+y="823" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_27"
+>Jīntiān </text>
+
+<text 
+x="281" 
+y="823" 
+dx="0,0.3,0.3" 
+class="s14_27"
+>bǐ </text>
+
+<text 
+x="297" 
+y="823" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_27"
+>zuótiān lěng </text>
+
+<text 
+x="382" 
+y="823" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s14_27"
+>yì diǎnr</text>
+
+<text 
+x="434" 
+y="823" 
+dx="0" 
+class="s13_27"
+>.</text>
+
+<text 
+x="232" 
+y="855" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,-1" 
+class="s6_27"
+>Today is a little colder than yesterday.</text>
+
+<text 
+x="226" 
+y="894" 
+dx="0" 
+class="s16_27"
+>[</text>
+
+<g clip-path="url(#c1_27)">
+<path d="M244.1,894.7c4.7,0,8.5,-3.8,8.5,-8.5c0,-4.7,-3.8,-8.5,-8.5,-8.5c-4.7,0,-8.5,3.8,-8.5,8.5c0,4.7,3.8,8.5,8.5,8.5Z" class="g5_27" />
+</g>
+<path d="M240.4,882.5l7.4,7.4" class="g6_27" />
+<path d="M247.8,882.5l-7.4,7.4" class="g6_27" />
+<text 
+x="260" 
+y="894" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_27"
+>今天比昨天一点儿冷。]</text>
+
+<text 
+x="155" 
+y="949" 
+dx="0,0" 
+class="s10_27"
+>E </text>
+
+<text 
+x="226" 
+y="952" 
+dx="0,0,0" 
+class="s11_27"
+>明天会</text>
+
+<text 
+x="322" 
+y="952" 
+dx="0" 
+class="s12_27"
+>比</text>
+
+<text 
+x="354" 
+y="952" 
+dx="0,0,0" 
+class="s11_27"
+>今天冷</text>
+
+<text 
+x="450" 
+y="952" 
+dx="0,0" 
+class="s12_27"
+>得多</text>
+
+<text 
+x="514" 
+y="952" 
+dx="0" 
+class="s11_27"
+>。</text>
+
+<text 
+x="230" 
+y="989" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_27"
+>Míngtiān huì </text>
+
+<text 
+x="320" 
+y="989" 
+dx="0,0.3,0.3" 
+class="s14_27"
+>bǐ </text>
+
+<text 
+x="336" 
+y="989" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_27"
+>jīntiān lěng </text>
+
+<text 
+x="416" 
+y="989" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s14_27"
+>de duō</text>
+
+<text 
+x="460" 
+y="989" 
+dx="0" 
+class="s13_27"
+>.</text>
+
+<text 
+x="230" 
+y="1021" 
+dx="0,-1.6,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1" 
+class="s6_27"
+>Tomorrow will be much colder than today.</text>
+
+<path d="M132.9,152.4l0,53.5l0,0.8l0.7,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.7,0l0,0.7Z" class="g7_27" />
+<path d="M134.9,204.6l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g8_27" />
+<path d="M150.6,347.7c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g7_27" />
+<path d="M150.6,349.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_27" />
+<path d="M558.7,347.7c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g7_27" />
+<path d="M558.7,349.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_27" />
+<path d="M150.6,471.8c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g7_27" />
+<path d="M150.6,473.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_27" />
+<path d="M150.6,761c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,0,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g7_27" />
+<path d="M150.6,763c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_27" />
+<path d="M150.6,926.4c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g7_27" />
+<path d="M150.6,928.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_27" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g9_27" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1" 
+class="s17_27"
+>6 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1145)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s17_27"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1005)"
+dx="0,1" 
+class="s17_27"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 991)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s17_27"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3o1;
+	src: url("fonts/LibreFranklin-SemiBold_3o1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3n5;
+	src: url("fonts/LibreFranklin-Bold_3n5.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3ow;
+	src: url("fonts/STKaiti-SC-Regular_3ow.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3o0;
+	src: url("fonts/LibreFranklin-Regular_3o0.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3n8;
+	src: url("fonts/LibreFranklin-Medium_3n8.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Italic_3o-;
+	src: url("fonts/LibreFranklin-Italic_3o-.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3nc;
+	src: url("fonts/LibreFranklin-ExtraBold_3nc.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

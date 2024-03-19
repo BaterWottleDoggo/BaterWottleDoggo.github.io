@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 240 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_240"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_240{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_240{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_240{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_240{
+fill: #231F20;
+}
+.g5_240{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_240{
+fill: #FFFFFF;
+}
+.g7_240{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_240{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3_n;
+fill: #86B345;
+}
+.s2_240{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s3_240{
+font-size: 27.50px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #3F3F40;
+}
+.s4_240{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3_j;
+fill: #7AAD35;
+}
+.s5_240{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s6_240{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_401;
+fill: #3F3F40;
+}
+.s7_240{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s8_240{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3_n;
+fill: #3F3F40;
+}
+.s9_240{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_3_j;
+fill: #7AAD35;
+}
+.s10_240{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s11_240{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s12_240{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #749E3C;
+}
+.s13_240{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #749E3C;
+}
+.s14_240{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3_w;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,78.3l12.2,0" class="g1_240" />
+<text 
+x="119" 
+y="72" 
+dx="0,0" 
+class="s1_240"
+>E </text>
+
+<text 
+x="328" 
+y="77" 
+dx="0,0,0,0" 
+class="s2_240"
+>听起来/</text>
+
+<text 
+x="424" 
+y="77" 
+dx="0,0,0" 
+class="s3_240"
+>聽起來</text>
+
+<text 
+x="512" 
+y="77" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_240"
+>(it sounds)</text>
+
+<text 
+x="157" 
+y="149" 
+dx="0,0,0" 
+class="s5_240"
+>听起来</text>
+
+<text 
+x="228" 
+y="148" 
+dx="0" 
+class="s6_240"
+>/</text>
+
+<text 
+x="233" 
+y="149" 
+dx="0,0,0" 
+class="s7_240"
+>聽起來</text>
+
+<text 
+x="307" 
+y="148" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.9,0,0,0,0,-0.2,0,0,0,-0.2,-0.1,0,0,0,0,0,0,0,0,0" 
+class="s6_240"
+>means “it sounds like.” What follows is the speaker’s interpretation or </text>
+
+<text 
+x="157" 
+y="175" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_240"
+>conclusion based on what he/she has heard.</text>
+
+<text 
+x="171" 
+y="232" 
+dx="0,0" 
+class="s8_240"
+>1 </text>
+
+<text 
+x="212" 
+y="232" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_240"
+>Person A </text>
+
+<text 
+x="311" 
+y="234" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_240"
+>你怎么还不走？演唱会快开始了。</text>
+
+<text 
+x="313" 
+y="274" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_240"
+>你怎麼還不走？演唱會快開始了。</text>
+
+<text 
+x="314" 
+y="308" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_240"
+>How come you still haven’t gone? The concert is about to start.</text>
+
+<text 
+x="212" 
+y="354" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_240"
+>Person B </text>
+
+<text 
+x="311" 
+y="355" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_240"
+>我文章还没写完，网上的资料特别多，我还……</text>
+
+<text 
+x="313" 
+y="396" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_240"
+>我文章還沒寫完，網上的資料特別多，我還……</text>
+
+<text 
+x="314" 
+y="430" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_240"
+>I still haven’t finished my paper. There is so much information on the </text>
+
+<text 
+x="314" 
+y="449" 
+dx="0,0,0,-0.2,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_240"
+>Internet. I still . . .</text>
+
+<text 
+x="212" 
+y="495" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_240"
+>Person A </text>
+
+<text 
+x="311" 
+y="497" 
+dx="0,0,0" 
+class="s12_240"
+>听起来</text>
+
+<text 
+x="389" 
+y="497" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_240"
+>你不想去了？算了吧！我自己去。</text>
+
+<text 
+x="313" 
+y="537" 
+dx="0,0,0" 
+class="s13_240"
+>聽起來</text>
+
+<text 
+x="391" 
+y="537" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_240"
+>你不想去了？算了吧！我自己去。</text>
+
+<text 
+x="314" 
+y="571" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,-1.1,0,0,-0.1,-0.1,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s6_240"
+>Sounds like you don’t want to go anymore. Forget it. I’ll go by myself.</text>
+
+<text 
+x="169" 
+y="630" 
+dx="0,0" 
+class="s8_240"
+>2 </text>
+
+<text 
+x="212" 
+y="630" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_240"
+>Person A </text>
+
+<text 
+x="311" 
+y="632" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_240"
+>我找了一个公寓，离学校很近，房间很大，</text>
+
+<text 
+x="311" 
+y="666" 
+dx="0,0,0,0,0,0" 
+class="s10_240"
+>房租也不贵。</text>
+
+<text 
+x="313" 
+y="706" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_240"
+>我找了一個公寓，離學校很近，房間很大， </text>
+
+<text 
+x="313" 
+y="740" 
+dx="0,0,0,0,0,0" 
+class="s11_240"
+>房租也不貴。</text>
+
+<text 
+x="314" 
+y="773" 
+dx="0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s6_240"
+>I found an apartment close to campus. The rooms are large and the rent </text>
+
+<text 
+x="314" 
+y="793" 
+dx="0,0,0,0,0,-0.1,0,0,-0.3,0,0,0,0,0,0,-0.4,0" 
+class="s6_240"
+>is not expensive.</text>
+
+<text 
+x="212" 
+y="839" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_240"
+>Person B </text>
+
+<text 
+x="311" 
+y="841" 
+dx="0,0,0" 
+class="s12_240"
+>听起来</text>
+
+<text 
+x="389" 
+y="841" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s10_240"
+>挺不错的，你就租吧。</text>
+
+<text 
+x="313" 
+y="881" 
+dx="0,0,0" 
+class="s13_240"
+>聽起來</text>
+
+<text 
+x="391" 
+y="881" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s11_240"
+>挺不錯的，你就租吧。</text>
+
+<text 
+x="314" 
+y="915" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_240"
+>Sounds great. Why don’t you rent it?</text>
+
+<text 
+x="169" 
+y="973" 
+dx="0,0" 
+class="s8_240"
+>3 </text>
+
+<text 
+x="239" 
+y="976" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_240"
+>今天电视里有一个卖电脑的广告，</text>
+
+<text 
+x="629" 
+y="976" 
+dx="0,0,0" 
+class="s12_240"
+>听起来</text>
+
+<text 
+x="707" 
+y="976" 
+dx="0,0,0,0" 
+class="s10_240"
+>这个电脑</text>
+
+<text 
+x="239" 
+y="1009" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_240"
+>又便宜又好，我真想订购一台。</text>
+
+<text 
+x="239" 
+y="1050" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_240"
+>今天電視裡有一個賣電腦的廣告，</text>
+
+<text 
+x="629" 
+y="1050" 
+dx="0,0,0" 
+class="s13_240"
+>聽起來</text>
+
+<text 
+x="707" 
+y="1050" 
+dx="0,0,0,0,0" 
+class="s11_240"
+>這個電腦 </text>
+
+<text 
+x="239" 
+y="1083" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_240"
+>又便宜又好，我真想訂購一台。</text>
+
+<text 
+x="245" 
+y="1117" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s6_240"
+>There was a commercial for a computer on TV today. The computer sounded very </text>
+
+<text 
+x="245" 
+y="1137" 
+dx="0,0,0,-0.3,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_240"
+>inexpensive and very good. I really wanted to order one.</text>
+
+<path d="M146.6,41.8l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_240" />
+<path d="M148.7,94L823,94l0,-50.9l-674.3,0l0,50.9Z" class="g3_240" />
+<path d="M164.4,208.8c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_240" />
+<path d="M164.4,210.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_240" />
+<path d="M164.4,606.8c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_240" />
+<path d="M164.4,608.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_240" />
+<path d="M164.4,950.6c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_240" />
+<path d="M164.4,952.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_240" />
+<g clip-path="url(#c0_240)">
+<path d="M3.8,740.3c0,0,-156.2,-9.1,-236.6,-3.4c-239.3,16.7,-466.2,93.9,-650.9,213c0.9,48.5,2.3,308,2.3,308L5,1258.6Z" class="g4_240" />
+</g>
+<image preserveAspectRatio="none" x="-1" y="719" width="43" height="479" xlink:href="240/img/1.png" />
+<g clip-path="url(#c0_240)">
+<path d="M3.8,740.3c0,0,-156.2,-9.1,-236.6,-3.4c-239.3,16.7,-466.2,93.9,-650.9,213c0.9,48.5,2.3,308,2.3,308L5,1258.6L3.8,740.3Z" class="g5_240" />
+</g>
+<path d="M0.8,1196.3l37.4,0l0,-532.4l-37.4,0l0,532.4Z" class="g6_240" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g7_240" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 751)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s14_240"
+>Lesson 7 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 816)"
+dx="0,1" 
+class="s14_240"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 830)"
+dx="0,1,1,1,1,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.8,1,1,1,0.9,1" 
+class="s14_240"
+>Computers and the Internet </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1012)"
+dx="0,1" 
+class="s14_240"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1026)"
+dx="0,0.1,1,0.8,1,1,1,1,1,1,1,0.9,1,1,1,1" 
+class="s14_240"
+>Words &amp; Phrases </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1152)"
+dx="0,1,1,0" 
+class="s14_240"
+>217 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_401;
+	src: url("fonts/LibreFranklin-Regular_401.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3_j;
+	src: url("fonts/LibreFranklin-Bold_3_j.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3_n;
+	src: url("fonts/LibreFranklin-ExtraBold_3_n.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3_w;
+	src: url("fonts/LibreFranklin-SemiBold_3_w.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 200 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_200"><path d="M172.3,972.4l0,-412.5l576.6,0l0,412.5Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_200{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_200{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_200{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_200{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 0.6080556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_200{
+fill: #7CA3CC;
+}
+.g6_200{
+fill: #F58320;
+}
+.g7_200{
+fill: none;
+stroke: #7CA3CC;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_200{
+fill: #FFFFFF;
+}
+.g9_200{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.4201389;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_200{
+fill: #12416E;
+}
+.g11_200{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.30861112;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_200{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.4743055;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g13_200{
+fill: #6D6E71;
+}
+.g14_200{
+fill: #E7E8E9;
+}
+.g15_200{
+fill: none;
+stroke: #6D6E71;
+stroke-width: 2.9134724;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g16_200{
+fill: #A5B9DF;
+}
+.g17_200{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_200{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3-1;
+fill: #007D9F;
+}
+.s2_200{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3-8;
+fill: #007D9F;
+}
+.s3_200{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3-f;
+fill: #3F3F40;
+}
+.s4_200{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s5_200{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s6_200{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_3-s;
+fill: #6D6E71;
+}
+.s7_200{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_3-w;
+fill: #FFFFFF;
+}
+.s8_200{
+font-size: 13.75px;
+font-family: SourceHanSansCN-Medium_3p3;
+fill: #1275BC;
+}
+.s9_200{
+font-size: 13.75px;
+font-family: ArialMT_3-r;
+fill: #1275BC;
+}
+.s10_200{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Regular_3tv;
+fill: #231F20;
+}
+.s11_200{
+font-size: 11.90px;
+font-family: ArialMT_3-r;
+fill: #FFFFFF;
+}
+.s12_200{
+font-size: 20.36px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #FFFFFF;
+}
+.s13_200{
+font-size: 16.29px;
+font-family: ArialMT_3-r;
+fill: #FFFFFF;
+}
+.s14_200{
+font-size: 14.25px;
+font-family: ArialMT_3-r;
+fill: #A8A9AD;
+}
+.s15_200{
+font-size: 20.36px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #1275BC;
+}
+.s16_200{
+font-size: 16.29px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #1275BC;
+}
+.s17_200{
+font-size: 16.29px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #231F20;
+}
+.s18_200{
+font-size: 20.36px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #231F20;
+}
+.s19_200{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3-a;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,78.3l12.2,0" class="g1_200" />
+<text 
+x="119" 
+y="72" 
+dx="0,0" 
+class="s1_200"
+>5 </text>
+
+<text 
+x="411" 
+y="77" 
+dx="0,0,-0.3,0,0,0,0,-0.2,0,0,0,0" 
+class="s2_200"
+>Set phrases </text>
+
+<text 
+x="157" 
+y="148" 
+dx="0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.1,0,0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_200"
+>There are many set expressions in Chinese. Their form is often fixed and they are not meant to </text>
+
+<text 
+x="157" 
+y="175" 
+dx="0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,-1,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s3_200"
+>be taken literally. In other words, their overall meaning is not the sum of the individual words. </text>
+
+<text 
+x="157" 
+y="203" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_200"
+>For this reason, it’s best to memorize the whole expression. These set expressions are typically </text>
+
+<text 
+x="157" 
+y="230" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_200"
+>composed of four characters, and many of them are idioms, e.g., </text>
+
+<text 
+x="588" 
+y="232" 
+dx="0,0,0,0" 
+class="s4_200"
+>一干二净</text>
+
+<text 
+x="683" 
+y="230" 
+dx="0" 
+class="s3_200"
+>/</text>
+
+<text 
+x="688" 
+y="232" 
+dx="0,0,0,0" 
+class="s5_200"
+>一乾二淨</text>
+
+<text 
+x="157" 
+y="258" 
+dx="0,0,0,0" 
+class="s3_200"
+>and </text>
+
+<text 
+x="185" 
+y="259" 
+dx="0,0,0,0" 
+class="s4_200"
+>丢三拉四</text>
+
+<text 
+x="283" 
+y="258" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_200"
+>from this lesson.</text>
+
+<text 
+x="157" 
+y="299" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,-0.2,0,0,0,0,-1.1,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s3_200"
+>Set phrases function like words, but often in limited grammatical contexts. For example, </text>
+
+<text 
+x="746" 
+y="300" 
+dx="0" 
+class="s4_200"
+>一</text>
+
+<text 
+x="157" 
+y="328" 
+dx="0,0,0" 
+class="s4_200"
+>干二净</text>
+
+<text 
+x="228" 
+y="326" 
+dx="0" 
+class="s3_200"
+>/</text>
+
+<text 
+x="233" 
+y="328" 
+dx="0,0,0,0" 
+class="s5_200"
+>一乾二淨</text>
+
+<text 
+x="331" 
+y="326" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,-0.2,0,0,0,0" 
+class="s3_200"
+>is adjectival, but it’s most often used as a complement [see Words &amp; </text>
+
+<text 
+x="157" 
+y="354" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_200"
+>Phrases C]. </text>
+
+<text 
+x="236" 
+y="355" 
+dx="0,0,0,0" 
+class="s4_200"
+>丢三拉四</text>
+
+<text 
+x="331" 
+y="354" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_200"
+>, which functions like a verb, can be used as a predicate, but it can’t </text>
+
+<text 
+x="157" 
+y="381" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_200"
+>have an object or complement [see Words &amp; Phrases E].</text>
+
+<path d="M146.6,41.8l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_200" />
+<path d="M148.7,94L823,94l0,-50.9l-674.3,0l0,50.9Z" class="g3_200" />
+<path d="M510.7,870.7l-293,0c-34.5,0,-32.1,3.4,-32.1,-27.7l0,-117.2c0,-30.7,-3,-27.7,32.1,-27.7l293,0c17.7,0,32.1,12.4,32.1,27.7l0,117.2c0,15.3,-14.4,27.7,-32.1,27.7Z" class="g4_200" />
+<text 
+x="190" 
+y="627" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s6_200"
+>Your friend Little Wang just posted this on WeChat. What’s troubling him?</text>
+
+<g clip-path="url(#c0_200)">
+<path d="M368.5,581c0,-11.6,-9.4,-21.1,-21.1,-21.1l-141.4,0c-11.7,0,-21.1,9.5,-21.1,21.1l0,14.9l183.6,0Z" class="g5_200" />
+</g>
+<path d="M185.6,650.5l19.6,20.6l0,-20.6Z" class="g6_200" />
+<text 
+x="214" 
+y="586" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s7_200"
+>Chinese Chat</text>
+
+<path d="M185.2,645l0,-45.3l520.6,0c13.4,0,24.3,10.9,24.3,24.3l0,21l-544.9,0Z" class="g7_200" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 201, 728)"
+dx="0,0" 
+class="s8_200"
+>小王</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 230, 728)"
+dx="0" 
+class="s9_200"
+>:</text>
+
+<text 
+x="201" 
+y="750" 
+dx="0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s10_200"
+>小高，演唱会马上就要开</text>
+
+<text 
+x="201" 
+y="772" 
+dx="0,0,0,0.4,0,0,0,0,0,0.4" 
+class="s10_200"
+>始了，你到底在哪里？</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 201, 802)"
+dx="0,0" 
+class="s8_200"
+>小高</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 230, 802)"
+dx="0" 
+class="s9_200"
+>:</text>
+
+<text 
+x="201" 
+y="824" 
+dx="0,0,0,0,0,0,0,0.4,0.4,0,0.7" 
+class="s10_200"
+>不是约的明天吗？怎么，</text>
+
+<text 
+x="201" 
+y="846" 
+dx="0,0,0,0.4" 
+class="s10_200"
+>是今天？</text>
+
+<image preserveAspectRatio="none" x="408" y="643" width="336" height="330" xlink:href="200/img/1.png" />
+<path d="M731.6,960.1l-309.6,0l0,-306.5l309.6,0l0,306.5Z" class="g8_200" />
+<path d="M731.6,960.1l-309.6,0l0,-306.5l309.6,0Z" class="g9_200" />
+<path d="M730.5,678.4l-305.9,0l0,-21.1l305.9,0l0,21.1Z" class="g10_200" />
+<path d="M730.5,678.4l-305.9,0l0,-21.1l305.9,0Z" class="g11_200" />
+<path d="M436.3,673.1l-2.2,0l0,-4.2l2.2,0l0,4.2Z" class="g8_200" />
+<path d="M440.3,673.1l-2.3,0l0,-6l2.3,0l0,6Z" class="g8_200" />
+<path d="M444.2,673.1l-2.3,0l0,-7.8l2.3,0l0,7.8Z" class="g8_200" />
+<path d="M448.1,673.1l-2.2,0l0,-9.6l2.2,0l0,9.6Z" class="g8_200" />
+<path d="M452.1,673.1l-2.3,0l0,-11.4l2.3,0l0,11.4Z" class="g8_200" />
+<path d="M460.9,667.2c1,-1.3,2.9,-2.1,5,-2.1c2.2,0,4,0.8,5,2.1l1.9,-0.5c-1.1,-1.9,-3.8,-3.3,-6.9,-3.3c-3.1,0,-5.7,1.4,-6.8,3.3Z" class="g8_200" />
+<path d="M462.8,670.1c0.6,-0.8,1.8,-1.3,3.1,-1.3c1.4,0,2.5,0.5,3.2,1.3l1.1,-0.7c-0.7,-1.2,-2.3,-2.1,-4.3,-2.1c-1.9,0,-3.6,0.9,-4.3,2.1Z" class="g8_200" />
+<path d="M464.7,673c0.2,-0.3,0.7,-0.6,1.2,-0.6c0.6,0,1,0.3,1.3,0.6l0.5,-0.9c-0.3,-0.5,-1,-0.8,-1.8,-0.8c-0.8,0,-1.4,0.3,-1.7,0.8Z" class="g8_200" />
+<text 
+x="573" 
+y="672" 
+dx="0,0,0,0,0,-0.7,0" 
+class="s11_200"
+>9:21 AM</text>
+
+<text 
+x="676" 
+y="670" 
+dx="0,0,0" 
+class="s11_200"
+>85%</text>
+
+<path d="M721.8,665.7l-1.6,0l0,-2.7L705,663l0,7.9l15.2,0l0,-2.7l1.6,0l0,-2.5Z" class="g12_200" />
+<path d="M716.2,668.5l-10,0l0,-3.4l10,0l0,3.4Z" class="g8_200" />
+<path d="M730.7,680.2l-306.6,0l0,61.5l306.6,0l0,-61.5Z" class="g13_200" />
+<text 
+transform="matrix(1.36, 0, 0, 1, 419, 720)"
+dx="0" 
+class="s12_200"
+>〈</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 455, 719)"
+dx="0,0,0,0,0,0,0,0" 
+class="s13_200"
+>Discover</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 560, 719)"
+dx="0,0,0,0,0,0,0" 
+class="s13_200"
+>Moments</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 495, 861)"
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_200"
+>6 hours ago</text>
+
+<path d="M514.6,882.4l5.6,5.1l177.3,0c1.6,0,3,1.3,3,3l0,51.5c0,1.7,-1.4,3,-3,3l-199.2,0c-1.7,0,-3,-1.3,-3,-3l0,-51.5c0,-1.7,1.3,-3,3,-3l11.5,0Z" class="g14_200" />
+<image preserveAspectRatio="none" x="419" y="746" width="123" height="161" xlink:href="200/img/2.png" />
+<text 
+x="495" 
+y="776" 
+dx="0,0" 
+class="s15_200"
+>小王</text>
+
+<text 
+x="502" 
+y="913" 
+dx="0,0" 
+class="s16_200"
+>小高</text>
+
+<text 
+x="535" 
+y="913" 
+dx="0,0" 
+class="s17_200"
+>: </text>
+
+<text 
+x="547" 
+y="913" 
+dx="0,0,0,0,0,0,0,0" 
+class="s17_200"
+>不是約的明天嗎？</text>
+
+<text 
+x="502" 
+y="932" 
+dx="0,0,0,0.3,0,0,0" 
+class="s17_200"
+>怎麼，是今天？</text>
+
+<text 
+x="495" 
+y="809" 
+dx="0,0,0,0.4,0,0,0,0,0,0,0" 
+class="s18_200"
+>小高，演唱會馬上就要開</text>
+
+<text 
+x="495" 
+y="834" 
+dx="0,0,0,0.4,0,0,0,0,0,0.4" 
+class="s18_200"
+>始了，你到底在哪裡？</text>
+
+<path d="M716.1,703.4l-7.5,0l0,-1.4c0,-1.9,-1.6,-3.5,-3.6,-3.5l-9.5,0c-2,0,-3.5,1.6,-3.5,3.5l0,1.4l-5,0c0.1,-0.2,0.1,-0.3,0.1,-0.5l0,-3.6c0,-0.7,-0.5,-1.2,-1.1,-1.2c-0.7,0,-1.2,0.5,-1.2,1.2l0,3.6c0,0.2,0.1,0.3,0.1,0.5l-1.5,0c-1.9,0,-3.5,1.6,-3.5,3.5l0,16.9c0,2,1.6,3.5,3.5,3.5l32.7,0c1.9,0,3.5,-1.5,3.5,-3.5l0,-16.9c0,-1.9,-1.6,-3.5,-3.5,-3.5Z" class="g8_200" />
+<path d="M712.4,701c0,0.9,-0.8,1.6,-1.7,1.6c-0.9,0,-1.6,-0.7,-1.6,-1.6c0,-1,0.7,-1.7,1.6,-1.7c0.9,0,1.7,0.7,1.7,1.7Z" class="g8_200" />
+<path d="M708.3,714.3c0,4.7,-3.8,8.6,-8.6,8.6c-4.7,0,-8.5,-3.9,-8.5,-8.6c0,-4.7,3.8,-8.5,8.5,-8.5c4.8,0,8.6,3.8,8.6,8.5Z" class="g15_200" />
+<path d="M701.4,868.1l1.3,-1.5l0,-2.9c0,-0.4,0.3,-0.8,0.8,-0.8l15.3,0c0.4,0,0.8,0.4,0.8,0.8l0,8.5c0,0.5,-0.4,0.8,-0.8,0.8l-15.3,0c-0.5,0,-0.8,-0.3,-0.8,-0.8l0,-2.9Z" class="g16_200" />
+<path d="M707.3,868.1c0,-0.9,0.6,-1.5,1.3,-1.5c0.7,0,1.3,0.6,1.3,1.5c0,0.8,-0.6,1.4,-1.3,1.4c-0.7,0,-1.3,-0.6,-1.3,-1.4Z" class="g8_200" />
+<path d="M712.9,868.1c0,-0.9,0.6,-1.5,1.4,-1.5c0.7,0,1.3,0.6,1.3,1.5c0,0.8,-0.6,1.4,-1.3,1.4c-0.8,0,-1.4,-0.6,-1.4,-1.4Z" class="g8_200" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g17_200" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 931)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s19_200"
+>Lesson 6 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 996)"
+dx="0,1" 
+class="s19_200"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1010)"
+dx="0,1,1,1,1,1,1" 
+class="s19_200"
+>Dating </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1061)"
+dx="0,1" 
+class="s19_200"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1075)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s19_200"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1152)"
+dx="0,1,1,0" 
+class="s19_200"
+>177 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_3p3;
+	src: url("fonts/SourceHanSansCN-Medium_3p3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3-8;
+	src: url("fonts/LibreFranklin-Bold_3-8.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_3-r;
+	src: url("fonts/ArialMT_3-r.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3-a;
+	src: url("fonts/LibreFranklin-SemiBold_3-a.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_3tv;
+	src: url("fonts/SourceHanSansCN-Regular_3tv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3-f;
+	src: url("fonts/LibreFranklin-Regular_3-f.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3-s;
+	src: url("fonts/LibreFranklin-Medium_3-s.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3-1;
+	src: url("fonts/LibreFranklin-ExtraBold_3-1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3-w;
+	src: url("fonts/LibreFranklin-SemiBold_3-w.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_3ps;
+	src: url("fonts/SourceHanSansTW-Medium_3ps.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

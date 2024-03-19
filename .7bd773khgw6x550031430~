@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 248 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_248"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+<clipPath id="c1_248"><path d="M706.1,149.1l0,-14.5l90.9,0l0,14.5Z" /></clipPath>
+<clipPath id="c2_248"><path d="M706.1,610l0,-14.4l90.9,0l0,14.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_248{
+fill: #FED205;
+}
+.g2_248{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_248{
+fill: #FFFFFF;
+}
+.g4_248{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_248{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_248{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_248{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_248{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_248{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_248{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_248{
+font-size: 35.14px;
+font-family: ProximaNova-Extrabld_32x;
+fill: #872B91;
+}
+.s2_248{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_32x;
+fill: #872B91;
+}
+.s3_248{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_32r;
+fill: #872B91;
+}
+.s4_248{
+font-size: 15.28px;
+font-family: ProximaNova-Light_330;
+fill: #3F3F40;
+}
+.s5_248{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #872B91;
+}
+.s6_248{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s7_248{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_32x;
+fill: #872B91;
+}
+.s8_248{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s9_248{
+font-size: 15.28px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s10_248{
+font-size: 15.28px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #A8A9AD;
+}
+.s11_248{
+font-size: 16.81px;
+font-family: ProximaNova-Semibold_32_;
+fill: #808285;
+}
+.s12_248{
+font-size: 10.31px;
+font-family: ProximaNova-Regular_332;
+fill: #872B91;
+}
+.s13_248{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_32_;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_248)">
+<path d="M-810.5,3084.6c-712.2,-49.8,-1251.9,-627.2,-1205.6,-1289.8c46.3,-662.5,661.2,-1159.3,1373.3,-1109.5C69.3,735.1,609,1312.6,562.7,1975.1C516.3,2637.7,-98.4,3134.4,-810.5,3084.6Z" class="g1_248" />
+</g>
+<image preserveAspectRatio="none" x="-16" y="892" width="119" height="313" xlink:href="248/img/1.png" />
+<image preserveAspectRatio="none" x="88" y="940" width="66" height="259" xlink:href="248/img/2.png" />
+<g clip-path="url(#c0_248)">
+<path d="M-810.5,3084.6c-712.2,-49.8,-1251.9,-627.2,-1205.6,-1289.8c46.3,-662.5,661.2,-1159.3,1373.3,-1109.5C69.3,735.1,609,1312.6,562.7,1975.1C516.3,2637.7,-98.4,3134.4,-810.5,3084.6Z" class="g2_248" />
+<path d="M1,1227.1l350.3,0l0,-346.8L1,880.3l0,346.8Z" class="g3_248" />
+</g>
+<path d="M0,74.7l346.6,0" class="g4_248" />
+<path d="M0,77.2l346.6,0" class="g5_248" />
+<path d="M105.3,148.4l13,0" class="g6_248" />
+<path d="M105.3,609.3l13,0" class="g6_248" />
+<text 
+x="41" 
+y="64" 
+dx="0,0.2,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s1_248"
+>Language Practice</text>
+
+<text 
+x="105" 
+y="144" 
+dx="0,0" 
+class="s2_248"
+>H </text>
+
+<text 
+x="413" 
+y="149" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_248"
+>In addition</text>
+
+<text 
+x="143" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_248"
+>In pairs, ask each other these questions using </text>
+
+<text 
+x="448" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_248"
+>除了…以外，还… </text>
+
+<text 
+x="624" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_248"
+>(chúle . . . yǐwài, hái . . . )</text>
+
+<text 
+x="778" 
+y="211" 
+dx="0" 
+class="s4_248"
+>:</text>
+
+<text 
+x="154" 
+y="270" 
+dx="0,0.2" 
+class="s7_248"
+>1 </text>
+
+<text 
+x="183" 
+y="270" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_248"
+>你今天除了上中文课以外，还上什么课？</text>
+
+<text 
+x="183" 
+y="306" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_248"
+>Nǐ jīntiān chúle shàng Zhōngwén kè yǐwài, hái shàng shénme kè?</text>
+
+<text 
+x="154" 
+y="372" 
+dx="0,0.2" 
+class="s7_248"
+>2 </text>
+
+<text 
+x="183" 
+y="372" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_248"
+>你们上中文课除了练习语法以外，还做什么？</text>
+
+<text 
+x="183" 
+y="409" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_248"
+>Wǒmen shàng Zhōngwén kè chúle liànxí yǔfǎ yǐwài, hái zuò shénme?</text>
+
+<text 
+x="154" 
+y="475" 
+dx="0,0.2" 
+class="s7_248"
+>3 </text>
+
+<text 
+x="183" 
+y="475" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_248"
+>你除了会说中文以外，还会说什么话？</text>
+
+<text 
+x="183" 
+y="511" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_248"
+>Nǐ chúle huì shuō Zhōngwén yǐwài, hái huì shuō shénme huà?</text>
+
+<text 
+x="105" 
+y="605" 
+dx="0,0" 
+class="s2_248"
+>I </text>
+
+<text 
+x="381" 
+y="610" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_248"
+>Ends and means</text>
+
+<text 
+x="143" 
+y="672" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_248"
+>In pairs, form a question-and-answer about what tools people use to perform certain actions. </text>
+
+<text 
+x="143" 
+y="699" 
+dx="0,0,0,0" 
+class="s4_248"
+>Use </text>
+
+<text 
+x="173" 
+y="699" 
+dx="0" 
+class="s5_248"
+>用</text>
+
+<text 
+x="199" 
+y="699" 
+dx="0,0,0,0,0,0" 
+class="s6_248"
+>(yòng)</text>
+
+<text 
+x="235" 
+y="699" 
+dx="0,0,0,-0.1,-0.1,0,0" 
+class="s4_248"
+>, e.g.:</text>
+
+<text 
+x="143" 
+y="745" 
+dx="0,0,0" 
+class="s8_248"
+>上网 </text>
+
+<text 
+x="215" 
+y="739" 
+dx="0" 
+class="s9_248"
+>◇</text>
+
+<text 
+x="239" 
+y="745" 
+dx="0,0" 
+class="s8_248"
+>电脑</text>
+
+<text 
+x="143" 
+y="781" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_248"
+>shàng wǎng </text>
+
+<text 
+x="217" 
+y="781" 
+dx="0" 
+class="s10_248"
+>◇</text>
+
+<text 
+x="236" 
+y="781" 
+dx="0,0,0,0,0,0,0" 
+class="s6_248"
+>diànnǎo</text>
+
+<text 
+x="143" 
+y="833" 
+dx="0,0.2" 
+class="s11_248"
+>Q:</text>
+
+<text 
+x="184" 
+y="833" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_248"
+>你用什么上网？ </text>
+
+<text 
+x="537" 
+y="833" 
+dx="0,0.2" 
+class="s11_248"
+>A:</text>
+
+<text 
+x="577" 
+y="833" 
+dx="0,0,0,0,0,0,0" 
+class="s8_248"
+>我用电脑上网。</text>
+
+<text 
+x="186" 
+y="861" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_248"
+>Nǐ yòng shénme shàng wǎng? </text>
+
+<text 
+x="577" 
+y="861" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_248"
+>Wǒ yòng diànnǎo shàng wǎng.</text>
+
+<text 
+x="154" 
+y="921" 
+dx="0,0.2" 
+class="s7_248"
+>1 </text>
+
+<text 
+x="183" 
+y="921" 
+dx="0,0,0,0" 
+class="s8_248"
+>做功课 </text>
+
+<text 
+x="287" 
+y="915" 
+dx="0" 
+class="s9_248"
+>◇</text>
+
+<text 
+x="310" 
+y="921" 
+dx="0" 
+class="s8_248"
+>笔</text>
+
+<text 
+x="183" 
+y="957" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_248"
+>zuò gōngkè </text>
+
+<text 
+x="253" 
+y="957" 
+dx="0" 
+class="s10_248"
+>◇</text>
+
+<text 
+x="272" 
+y="957" 
+dx="0,0" 
+class="s6_248"
+>bǐ</text>
+
+<text 
+x="154" 
+y="1023" 
+dx="0,0.2" 
+class="s7_248"
+>2 </text>
+
+<text 
+x="183" 
+y="1023" 
+dx="0,0,0,0,0" 
+class="s8_248"
+>练习发音 </text>
+
+<text 
+x="319" 
+y="1018" 
+dx="0" 
+class="s10_248"
+>◇</text>
+
+<text 
+x="342" 
+y="1023" 
+dx="0,0" 
+class="s8_248"
+>电脑</text>
+
+<text 
+x="183" 
+y="1059" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_248"
+>liànxí fāyīn </text>
+
+<text 
+x="254" 
+y="1059" 
+dx="0" 
+class="s10_248"
+>◇</text>
+
+<text 
+x="274" 
+y="1059" 
+dx="0,0,0,0,0,0,0" 
+class="s6_248"
+>diànnǎo</text>
+
+<path d="M132.9,114.2l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g7_248" />
+<path d="M134.9,166.4l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g8_248" />
+<text 
+x="711" 
+y="145" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s12_248"
+>INTERPERSONAL</text>
+
+<g clip-path="url(#c1_248)">
+<path d="M706.1,149.1l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g9_248" />
+</g>
+<path d="M132.9,575.1l0,53.5l0,0.8l0.7,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.7,0l0,0.7Z" class="g7_248" />
+<path d="M134.9,627.3l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g8_248" />
+<text 
+x="711" 
+y="606" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s12_248"
+>INTERPERSONAL</text>
+
+<g clip-path="url(#c2_248)">
+<path d="M706.1,610l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g9_248" />
+</g>
+<g clip-path="url(#c0_248)">
+<path d="M885.3,1209.2l67.3,0l0,-1222.1l-67.3,0l0,1222.1Z" class="g10_248" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 894, 878)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_248"
+>Lesson 8 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 937)"
+dx="0,0.3" 
+class="s13_248"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 949)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_248"
+>School Life </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1019)"
+dx="0,0.3" 
+class="s13_248"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1032)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_248"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1153)"
+dx="0,0.3,0.3" 
+class="s13_248"
+>227</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_32x;
+	src: url("fonts/ProximaNova-Extrabld_32x.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_32_;
+	src: url("fonts/ProximaNova-Semibold_32_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_32r;
+	src: url("fonts/ProximaNova-Bold_32r.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_332;
+	src: url("fonts/ProximaNova-Regular_332.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_330;
+	src: url("fonts/ProximaNova-Light_330.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

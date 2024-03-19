@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 410 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_410{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_410{
+fill: #3986C6;
+}
+.g3_410{
+fill: #F0F1F2;
+}
+.g4_410{
+fill: #BDBEC1;
+}
+.g5_410{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_410{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_de4;
+fill: #231F20;
+}
+.s2_410{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_ddv;
+fill: #231F20;
+}
+.s3_410{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_ddv;
+fill: #57585A;
+}
+.s4_410{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s5_410{
+font-size: 19.10px;
+font-family: Alegreya-Regular_ddy;
+fill: #231F20;
+}
+.s6_410{
+font-size: 21.39px;
+font-family: ProximaNova-Semibold_ddu;
+fill: #3F3F40;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 869)"
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_410"
+>Vocabulary Index (Chinese – English)</text>
+
+<text 
+x="856" 
+y="1149" 
+dx="0,0,0" 
+class="s2_410"
+>387</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_410" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_410" />
+<path d="M89.9,167l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,251.6l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,336.2l115.7,0l0,42.4l-115.7,0l0,-42.4Zm115.7,0l140.3,0l0,42.4l-140.3,0l0,-42.4Zm140.3,0l402.6,0l0,42.4l-402.6,0l0,-42.4Zm402.6,0l62.2,0l0,42.4l-62.2,0l0,-42.4ZM89.9,420.9l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,590l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,674.6l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,843.7l115.7,0l0,44.1l-115.7,0l0,-44.1Zm115.7,0l140.3,0l0,44.1l-140.3,0l0,-44.1Zm140.3,0l402.6,0l0,44.1l-402.6,0l0,-44.1Zm402.6,0l62.2,0l0,44.1l-62.2,0l0,-44.1ZM89.9,930.1l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,1019.2l115.7,0l0,42.4l-115.7,0l0,-42.4Zm115.7,0l140.3,0l0,42.4l-140.3,0l0,-42.4Zm140.3,0l402.6,0l0,42.4l-402.6,0l0,-42.4Zm402.6,0l62.2,0l0,42.4l-62.2,0l0,-42.4Z" class="g3_410" />
+<path d="M89.9,505.5l720.8,0l0,42.2l-720.8,0l0,-42.2Zm0,253.8l720.8,0l0,42.1l-720.8,0l0,-42.1Z" class="g4_410" />
+<path d="M89.9,124.7l115.7,0" class="g5_410" />
+<path d="M205.6,124.7l140.3,0" class="g5_410" />
+<path d="M345.9,124.7l402.6,0" class="g5_410" />
+<path d="M748.5,124.7l62.2,0" class="g5_410" />
+<path d="M89.9,1103.9l115.7,0" class="g5_410" />
+<path d="M205.6,1103.9l140.3,0" class="g5_410" />
+<path d="M345.9,1103.9l402.6,0" class="g5_410" />
+<path d="M748.5,1103.9l62.2,0" class="g5_410" />
+<text 
+x="96" 
+y="110" 
+dx="0,0,0,0,0,0,0" 
+class="s3_410"
+>Chinese</text>
+
+<text 
+x="211" 
+y="110" 
+dx="0,0,0,0,0,0" 
+class="s3_410"
+>Pinyin</text>
+
+<text 
+x="351" 
+y="110" 
+dx="0,0,0,0,0,0,0" 
+class="s3_410"
+>English</text>
+
+<text 
+x="754" 
+y="110" 
+dx="0,-0.4,0,0" 
+class="s3_410"
+>Page</text>
+
+<text 
+x="96" 
+y="153" 
+dx="0" 
+class="s4_410"
+>点</text>
+
+<text 
+x="211" 
+y="153" 
+dx="0,0,0,0" 
+class="s5_410"
+>diǎn</text>
+
+<text 
+x="352" 
+y="153" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_410"
+>o’clock (literally, dot or point)</text>
+
+<text 
+x="754" 
+y="153" 
+dx="0,0,0" 
+class="s5_410"
+>257</text>
+
+<text 
+x="96" 
+y="196" 
+dx="0" 
+class="s4_410"
+>店</text>
+
+<text 
+x="211" 
+y="196" 
+dx="0,0,0,0" 
+class="s5_410"
+>diàn</text>
+
+<text 
+x="352" 
+y="196" 
+dx="0,0,0,0,-0.2,-0.6,-0.4,0,0,0,0" 
+class="s5_410"
+>store, shop</text>
+
+<text 
+x="754" 
+y="196" 
+dx="0,0,0" 
+class="s5_410"
+>137</text>
+
+<text 
+x="96" 
+y="238" 
+dx="0,0" 
+class="s4_410"
+>电视</text>
+
+<text 
+x="211" 
+y="238" 
+dx="0,0,0,0,0,0,0" 
+class="s5_410"
+>diànshì</text>
+
+<text 
+x="352" 
+y="238" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_410"
+>television</text>
+
+<text 
+x="754" 
+y="238" 
+dx="0,0" 
+class="s5_410"
+>62</text>
+
+<text 
+x="96" 
+y="280" 
+dx="0,0" 
+class="s4_410"
+>电影</text>
+
+<text 
+x="211" 
+y="280" 
+dx="0,0,0,0,-0.4,0,0,0" 
+class="s5_410"
+>diànyǐng</text>
+
+<text 
+x="352" 
+y="280" 
+dx="0,0,-0.3,0,0,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2" 
+class="s5_410"
+>movie, motion picture</text>
+
+<text 
+x="754" 
+y="280" 
+dx="0,0,0" 
+class="s5_410"
+>158</text>
+
+<text 
+x="96" 
+y="323" 
+dx="0,0" 
+class="s4_410"
+>东西</text>
+
+<text 
+x="211" 
+y="323" 
+dx="0,0,0,0,0,0" 
+class="s5_410"
+>dōngxi</text>
+
+<text 
+x="352" 
+y="323" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_410"
+>thing(s)</text>
+
+<text 
+x="754" 
+y="323" 
+dx="0,0,0" 
+class="s5_410"
+>317</text>
+
+<text 
+x="96" 
+y="365" 
+dx="0" 
+class="s4_410"
+>懂</text>
+
+<text 
+x="211" 
+y="365" 
+dx="0,0,0,0" 
+class="s5_410"
+>dǒng</text>
+
+<text 
+x="352" 
+y="365" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_410"
+>to understand</text>
+
+<text 
+x="754" 
+y="365" 
+dx="0,0,0" 
+class="s5_410"
+>331</text>
+
+<text 
+x="96" 
+y="407" 
+dx="0" 
+class="s4_410"
+>都</text>
+
+<text 
+x="211" 
+y="407" 
+dx="0,0,0" 
+class="s5_410"
+>dōu</text>
+
+<text 
+x="352" 
+y="407" 
+dx="0,0,0,0,-0.4,0,0,0,0,0" 
+class="s5_410"
+>all, both </text>
+
+<text 
+x="754" 
+y="407" 
+dx="0,0" 
+class="s5_410"
+>84</text>
+
+<text 
+x="96" 
+y="450" 
+dx="0" 
+class="s4_410"
+>对</text>
+
+<text 
+x="211" 
+y="450" 
+dx="0,0,0" 
+class="s5_410"
+>duì</text>
+
+<text 
+x="352" 
+y="450" 
+dx="0,0,0,0,0,0,-0.4,0,-0.3,0,0,-0.2,0,0" 
+class="s5_410"
+>right, correct</text>
+
+<text 
+x="754" 
+y="450" 
+dx="0,0" 
+class="s5_410"
+>84</text>
+
+<text 
+x="96" 
+y="492" 
+dx="0" 
+class="s4_410"
+>多</text>
+
+<text 
+x="211" 
+y="492" 
+dx="0,0,0" 
+class="s5_410"
+>duō</text>
+
+<text 
+x="352" 
+y="492" 
+dx="0,0,0,-0.4,-1.3,-0.4,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s5_410"
+>many, much, lots</text>
+
+<text 
+x="754" 
+y="492" 
+dx="0,0,0" 
+class="s5_410"
+>216</text>
+
+<text 
+x="444" 
+y="535" 
+dx="0" 
+class="s6_410"
+>E</text>
+
+<text 
+x="96" 
+y="576" 
+dx="0" 
+class="s4_410"
+>饿</text>
+
+<text 
+x="211" 
+y="576" 
+dx="0" 
+class="s5_410"
+>è</text>
+
+<text 
+x="352" 
+y="576" 
+dx="0,0,0,0,0,0.3" 
+class="s5_410"
+>hungry</text>
+
+<text 
+x="754" 
+y="576" 
+dx="0,0,0" 
+class="s5_410"
+>286</text>
+
+<text 
+x="96" 
+y="619" 
+dx="0,0" 
+class="s4_410"
+>而且</text>
+
+<text 
+x="211" 
+y="619" 
+dx="0,0,-0.2,0,0" 
+class="s5_410"
+>érqiě</text>
+
+<text 
+x="352" 
+y="619" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_410"
+>and also</text>
+
+<text 
+x="754" 
+y="619" 
+dx="0,0,0" 
+class="s5_410"
+>186</text>
+
+<text 
+x="96" 
+y="661" 
+dx="0" 
+class="s4_410"
+>二</text>
+
+<text 
+x="211" 
+y="661" 
+dx="0,0" 
+class="s5_410"
+>èr</text>
+
+<text 
+x="352" 
+y="661" 
+dx="0,0,-0.3" 
+class="s5_410"
+>two</text>
+
+<text 
+x="754" 
+y="661" 
+dx="0,0" 
+class="s5_410"
+>18</text>
+
+<text 
+x="96" 
+y="703" 
+dx="0,0" 
+class="s4_410"
+>二胡</text>
+
+<text 
+x="211" 
+y="703" 
+dx="0,0,0,0" 
+class="s5_410"
+>èrhú</text>
+
+<text 
+x="352" 
+y="703" 
+dx="0,0,0,0" 
+class="s5_410"
+>erhu</text>
+
+<text 
+x="754" 
+y="703" 
+dx="0,0,0" 
+class="s5_410"
+>133</text>
+
+<text 
+x="96" 
+y="746" 
+dx="0,0,0,6" 
+class="s4_410"
+>二十一 </text>
+
+<text 
+x="211" 
+y="746" 
+dx="0,0,0,0,0,0,0" 
+class="s5_410"
+>èrshíyī</text>
+
+<text 
+x="352" 
+y="746" 
+dx="0,0,-0.3,0,0,0,-0.6,0,0,0" 
+class="s5_410"
+>twenty-one</text>
+
+<text 
+x="754" 
+y="746" 
+dx="0,0,0" 
+class="s5_410"
+>163</text>
+
+<text 
+x="444" 
+y="788" 
+dx="0" 
+class="s6_410"
+>F</text>
+
+<text 
+x="96" 
+y="830" 
+dx="0,0" 
+class="s4_410"
+>发烧</text>
+
+<text 
+x="211" 
+y="830" 
+dx="0,-0.2,0,0,0,0,0" 
+class="s5_410"
+>fā shāo</text>
+
+<text 
+x="352" 
+y="830" 
+dx="0,0,0,0,0,-0.4,-0.3,0,0,0,0,-0.3,0,-0.3,0" 
+class="s5_410"
+>to have a fever</text>
+
+<text 
+x="754" 
+y="830" 
+dx="0,0,0" 
+class="s5_410"
+>291</text>
+
+<text 
+x="96" 
+y="873" 
+dx="0,0" 
+class="s4_410"
+>发音</text>
+
+<text 
+x="211" 
+y="873" 
+dx="0,-0.2,-0.4,0,0" 
+class="s5_410"
+>fāyīn</text>
+
+<text 
+x="352" 
+y="873" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.3" 
+class="s5_410"
+>pronunciation; to pronounce</text>
+
+<text 
+x="754" 
+y="873" 
+dx="0,0,0" 
+class="s5_410"
+>341</text>
+
+<text 
+x="96" 
+y="917" 
+dx="0" 
+class="s4_410"
+>饭</text>
+
+<text 
+x="211" 
+y="916" 
+dx="0,-0.2,0" 
+class="s5_410"
+>fàn</text>
+
+<text 
+x="352" 
+y="916" 
+dx="0,0,0,0,0,-0.4,0,-0.3,0,0,-0.4,0,0,0,0,0,-0.3" 
+class="s5_410"
+>meal, cooked rice</text>
+
+<text 
+x="754" 
+y="916" 
+dx="0,0,0" 
+class="s5_410"
+>268</text>
+
+<text 
+x="96" 
+y="959" 
+dx="0,0" 
+class="s4_410"
+>饭馆</text>
+
+<text 
+x="211" 
+y="959" 
+dx="0,-0.2,0,0,0,0,0" 
+class="s5_410"
+>fànguǎn</text>
+
+<text 
+x="352" 
+y="959" 
+dx="0,-0.2,0,0,0,0,0,-0.2,0,0" 
+class="s5_410"
+>restaurant</text>
+
+<text 
+x="754" 
+y="959" 
+dx="0,0,0" 
+class="s5_410"
+>212</text>
+
+<text 
+x="96" 
+y="1003" 
+dx="0,0" 
+class="s4_410"
+>放假</text>
+
+<text 
+x="211" 
+y="1003" 
+dx="0,-0.2,0,0,0,0,0,0" 
+class="s5_410"
+>fàng jià</text>
+
+<text 
+x="352" 
+y="1003" 
+dx="0,0,0,0,0,-0.4,-0.3,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s5_410"
+>to have a vacation (or holiday), to have time off</text>
+
+<text 
+x="754" 
+y="1003" 
+dx="0,0,0" 
+class="s5_410"
+>365</text>
+
+<text 
+x="96" 
+y="1048" 
+dx="0" 
+class="s4_410"
+>分</text>
+
+<text 
+x="211" 
+y="1048" 
+dx="0,-0.3,0" 
+class="s5_410"
+>fēn</text>
+
+<text 
+x="352" 
+y="1048" 
+dx="0,0,0,0,0,0" 
+class="s5_410"
+>minute</text>
+
+<text 
+x="754" 
+y="1048" 
+dx="0,0,0" 
+class="s5_410"
+>257</text>
+
+<text 
+x="96" 
+y="1090" 
+dx="0" 
+class="s4_410"
+>份</text>
+
+<text 
+x="211" 
+y="1090" 
+dx="0,-0.3,0" 
+class="s5_410"
+>fèn</text>
+
+<text 
+x="352" 
+y="1090" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,-0.3,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s5_410"
+>(measure word for plates of food)</text>
+
+<text 
+x="754" 
+y="1090" 
+dx="0,0,0" 
+class="s5_410"
+>212</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Alegreya-Regular_ddy;
+	src: url("fonts/Alegreya-Regular_ddy.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_de4;
+	src: url("fonts/ProximaNova-Semibold_de4.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_ddv;
+	src: url("fonts/ProximaNova-Bold_ddv.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_ddu;
+	src: url("fonts/ProximaNova-Semibold_ddu.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

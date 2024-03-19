@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 134 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_134"><path d="M706.1,73.9l0,-14.5l90.9,0l0,14.5Z" /></clipPath>
+<clipPath id="c1_134"><path d="M144.4,73.8l0,-14.4l90.8,0l0,14.4Z" /></clipPath>
+<clipPath id="c2_134"><path d="M706.1,597.3l0,-14.5l90.9,0l0,14.5Z" /></clipPath>
+<clipPath id="c3_134"><path d="M195.7,1143.3l0,-312.7l519.1,0l0,312.7Z" /></clipPath>
+<clipPath id="c4_134"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_134{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_134{
+fill: none;
+stroke: #3F3F40;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_134{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_134{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_134{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_134{
+fill: #FFFFFF;
+}
+.g7_134{
+fill: #D1D2D4;
+}
+.g8_134{
+fill: #12416E;
+}
+.g9_134{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.30861112;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_134{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.4743055;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g11_134{
+fill: #6D6E71;
+}
+.g12_134{
+fill: #E7E8E9;
+}
+.g13_134{
+fill: none;
+stroke: #6D6E71;
+stroke-width: 2.9134724;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g14_134{
+fill: #A5B9DF;
+}
+.g15_134{
+fill: #A1C0E4;
+}
+.g16_134{
+fill: #F58320;
+}
+.g17_134{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g18_134{
+fill: #872B91;
+}
+.g19_134{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_134{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_2yv;
+fill: #872B91;
+}
+.s2_134{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_2yz;
+fill: #872B91;
+}
+.s3_134{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2z3;
+fill: #3F3F40;
+}
+.s4_134{
+font-size: 16.81px;
+font-family: ProximaNova-Semibold_2z7;
+fill: #808285;
+}
+.s5_134{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s6_134{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s7_134{
+font-size: 17.57px;
+font-family: Marion-Italic_2y-;
+fill: #3F3F40;
+}
+.s8_134{
+font-size: 10.31px;
+font-family: ProximaNova-Regular_2za;
+fill: #872B91;
+}
+.s9_134{
+font-size: 11.90px;
+font-family: ArialMT_2zt;
+fill: #FFFFFF;
+}
+.s10_134{
+font-size: 20.36px;
+font-family: SourceHanSansTW-Medium_2uc;
+fill: #FFFFFF;
+}
+.s11_134{
+font-size: 16.29px;
+font-family: ArialMT_2zt;
+fill: #FFFFFF;
+}
+.s12_134{
+font-size: 14.25px;
+font-family: ArialMT_2zt;
+fill: #A8A9AD;
+}
+.s13_134{
+font-size: 20.36px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #1275BC;
+}
+.s14_134{
+font-size: 16.29px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #1275BC;
+}
+.s15_134{
+font-size: 16.29px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #231F20;
+}
+.s16_134{
+font-size: 20.36px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #231F20;
+}
+.s17_134{
+font-size: 16.47px;
+font-family: ProximaNova-Medium_2zp;
+fill: #6D6E71;
+}
+.s18_134{
+font-size: 21.39px;
+font-family: ProximaNova-Semibold_2zq;
+fill: #FFFFFF;
+}
+.s19_134{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2z7;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,73.2l13,0" class="g1_134" />
+<path d="M345.3,257.9l325.4,0" class="g2_134" />
+<path d="M308.6,288.6l362.1,0" class="g2_134" />
+<path d="M105.3,596.6l13,0" class="g1_134" />
+<text 
+x="105" 
+y="69" 
+dx="0,0" 
+class="s1_134"
+>D </text>
+
+<text 
+x="378" 
+y="74" 
+dx="0,-1,0,0,-0.5,0,0,0,0,0,0,0,0,0,0" 
+class="s2_134"
+>Weekend warrior</text>
+
+<text 
+x="143" 
+y="136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.1,-0.1,0,0" 
+class="s3_134"
+>In pairs, find out what your partner likes to do on weekends, e.g.:</text>
+
+<text 
+x="143" 
+y="181" 
+dx="0,0.2" 
+class="s4_134"
+>Q:</text>
+
+<text 
+x="184" 
+y="181" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_134"
+>你周末喜欢做什么？</text>
+
+<text 
+x="186" 
+y="215" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_134"
+>Nǐ zhōumò xǐhuan zuò shénme?</text>
+
+<text 
+x="143" 
+y="253" 
+dx="0,0.2" 
+class="s4_134"
+>A:</text>
+
+<text 
+x="184" 
+y="253" 
+dx="0,0,0,0,0" 
+class="s5_134"
+>我周末喜欢</text>
+
+<text 
+x="670" 
+y="253" 
+dx="0" 
+class="s5_134"
+>。</text>
+
+<text 
+x="186" 
+y="287" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_134"
+>Wǒ zhōumò xǐhuan </text>
+
+<text 
+x="670" 
+y="287" 
+dx="0" 
+class="s7_134"
+>.</text>
+
+<text 
+x="143" 
+y="328" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_134"
+>Report to the class and be prepared to answer the teacher’s questions.</text>
+
+<text 
+x="143" 
+y="373" 
+dx="0,0,0,0" 
+class="s3_134"
+>Juan</text>
+
+<text 
+x="183" 
+y="373" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_134"
+>周末喜欢做什么？</text>
+
+<text 
+x="143" 
+y="410" 
+dx="0,0,0,0" 
+class="s3_134"
+>Juan</text>
+
+<text 
+x="179" 
+y="410" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_134"
+>zhōumò xǐhuan zuò shénme?</text>
+
+<text 
+x="143" 
+y="462" 
+dx="0,0,0,0,0,0,0" 
+class="s3_134"
+>Kristen</text>
+
+<text 
+x="196" 
+y="462" 
+dx="0,0" 
+class="s5_134"
+>呢？</text>
+
+<text 
+x="269" 
+y="462" 
+dx="0,0,0,0,0,0,0" 
+class="s3_134"
+>Kristen</text>
+
+<text 
+x="322" 
+y="462" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_134"
+>周末喜欢不喜欢看书？……</text>
+
+<text 
+x="143" 
+y="498" 
+dx="0,0,0,0,0,0,0" 
+class="s3_134"
+>Kristen</text>
+
+<text 
+x="193" 
+y="498" 
+dx="0,0,0,0" 
+class="s6_134"
+>ne? </text>
+
+<text 
+x="217" 
+y="498" 
+dx="0,0,0,0,0,0,0" 
+class="s3_134"
+>Kristen</text>
+
+<text 
+x="266" 
+y="498" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_134"
+>xǐhuan bù xǐhuan kàn shū? . . . </text>
+
+<text 
+x="105" 
+y="593" 
+dx="0,0" 
+class="s1_134"
+>E </text>
+
+<text 
+x="405" 
+y="597" 
+dx="0,-1.7,0,0,0,0,0,0,0,0,0,0" 
+class="s2_134"
+>Trending now</text>
+
+<text 
+x="143" 
+y="659" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_134"
+>Survey your classmates about their favorite singers, movie stars, athletes, and dancers using the </text>
+
+<text 
+x="143" 
+y="687" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,0" 
+class="s3_134"
+>questions below. </text>
+
+<text 
+x="143" 
+y="732" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_134"
+>你喜欢听谁的歌？</text>
+
+<text 
+x="537" 
+y="732" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_134"
+>你喜欢看谁打球？</text>
+
+<text 
+x="143" 
+y="770" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_134"
+>你喜欢看谁的电影？</text>
+
+<text 
+x="537" 
+y="770" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_134"
+>你喜欢看谁跳舞？</text>
+
+<path d="M132.9,39l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g3_134" />
+<path d="M134.9,91.2l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g4_134" />
+<text 
+x="708" 
+y="70" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,-0.6,-0.6,0.1,0.1,0.1,0.1,0.1" 
+class="s8_134"
+>PRESENTATIONAL</text>
+
+<g clip-path="url(#c0_134)">
+<path d="M706.1,73.9l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g5_134" />
+</g>
+<text 
+x="149" 
+y="70" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s8_134"
+>INTERPERSONAL</text>
+
+<g clip-path="url(#c1_134)">
+<path d="M144.4,73.8l90.8,0l0,-14.4l-90.8,0l0,14.4Z" class="g5_134" />
+</g>
+<path d="M132.9,562.4l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g3_134" />
+<path d="M134.9,614.6l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g4_134" />
+<text 
+x="711" 
+y="593" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s8_134"
+>INTERPERSONAL</text>
+
+<g clip-path="url(#c2_134)">
+<path d="M706.1,597.3l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g5_134" />
+</g>
+<image preserveAspectRatio="none" x="379" y="830" width="336" height="314" xlink:href="134/img/1.png" />
+<path d="M702.1,1131l-309.6,0l0,-289.7l309.6,0l0,289.7Z" class="g6_134" />
+<path d="M702.1,1131l0,0.2l-309.8,0l0,-290.1l310,0l0,290.1l-0.2,0l0,-0.2l-0.2,0l0,-289.5l-309.1,0l0,289.3l309.3,0l0,0.2l-0.2,0Z" class="g7_134" />
+<path d="M701.1,866.1l-306,0l0,-21.2l306,0l0,21.2Z" class="g8_134" />
+<path d="M701.1,866.1l-306,0l0,-21.2l306,0Z" class="g9_134" />
+<path d="M406.8,860.8l-2.2,0l0,-4.3l2.2,0l0,4.3Z" class="g6_134" />
+<path d="M410.8,860.8l-2.3,0l0,-6l2.3,0l0,6Z" class="g6_134" />
+<path d="M414.7,860.8l-2.2,0l0,-7.8l2.2,0l0,7.8Z" class="g6_134" />
+<path d="M418.6,860.8l-2.2,0l0,-9.6l2.2,0l0,9.6Z" class="g6_134" />
+<path d="M422.6,860.8l-2.3,0l0,-11.4l2.3,0l0,11.4Z" class="g6_134" />
+<path d="M431.4,854.9c1,-1.3,2.9,-2.2,5,-2.2c2.2,0,4.1,0.9,5.1,2.2l1.8,-0.5c-1.1,-1.9,-3.8,-3.3,-6.9,-3.3c-3,0,-5.7,1.4,-6.8,3.3Z" class="g6_134" />
+<path d="M433.3,857.8c0.6,-0.8,1.8,-1.4,3.1,-1.4c1.4,0,2.6,0.6,3.2,1.4l1.1,-0.7C440,855.9,438.4,855,436.4,855c-1.9,0,-3.5,0.9,-4.3,2.1Z" class="g6_134" />
+<path d="M435.2,860.7c0.2,-0.3,0.7,-0.6,1.2,-0.6c0.6,0,1.1,0.3,1.3,0.6l0.5,-0.9c-0.3,-0.5,-1,-0.8,-1.8,-0.8c-0.7,0,-1.4,0.3,-1.7,0.8Z" class="g6_134" />
+<text 
+x="543" 
+y="859" 
+dx="0,0,0,0,0,0,0" 
+class="s9_134"
+>9:41 PM</text>
+
+<text 
+x="646" 
+y="858" 
+dx="0,0,0" 
+class="s9_134"
+>85%</text>
+
+<path d="M692.3,853.4l-1.6,0l0,-2.7l-15.2,0l0,7.9l15.2,0l0,-2.7l1.6,0l0,-2.5Z" class="g10_134" />
+<path d="M686.7,856.2l-10,0l0,-3.4l10,0l0,3.4Z" class="g6_134" />
+<path d="M701.2,867.9l-306.6,0l0,61.5l306.6,0l0,-61.5Z" class="g11_134" />
+<text 
+transform="matrix(1.36, 0, 0, 1, 390, 907)"
+dx="0" 
+class="s10_134"
+>〈</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 426, 907)"
+dx="0,0,0,0,0,0,0,0" 
+class="s11_134"
+>Discover</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 531, 907)"
+dx="0,0,0,0,0,0,0" 
+class="s11_134"
+>Moments</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 466, 1026)"
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s12_134"
+>5 mins ago</text>
+
+<path d="M485.1,1047.2l5.6,5.1l177.3,0c1.6,0,3,1.3,3,3l0,57.6c0,1.7,-1.4,3,-3,3l-199.2,0c-1.7,0,-3,-1.3,-3,-3l0,-57.6c0,-1.7,1.3,-3,3,-3l11.5,0Z" class="g12_134" />
+<image preserveAspectRatio="none" x="407" y="948" width="52" height="51" xlink:href="134/img/2.png" />
+<text 
+x="466" 
+y="964" 
+dx="0,0" 
+class="s13_134"
+>王朋</text>
+
+<text 
+x="472" 
+y="1079" 
+dx="0,0" 
+class="s14_134"
+>李友</text>
+
+<text 
+x="505" 
+y="1079" 
+dx="0,0" 
+class="s15_134"
+>: </text>
+
+<text 
+x="517" 
+y="1079" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s15_134"
+>你喜欢不喜欢唱歌？</text>
+
+<text 
+x="472" 
+y="1099" 
+dx="0,0,0,0,0,-1,-7.1,0,0" 
+class="s15_134"
+>周末去唱歌，好吗？</text>
+
+<text 
+x="466" 
+y="997" 
+dx="0,0,0,0,0,0,0,0.2" 
+class="s16_134"
+>这个周末没事儿。</text>
+
+<path d="M686.6,891.1l-7.5,0l0,-1.4c0,-1.9,-1.6,-3.5,-3.5,-3.5l-9.6,0c-1.9,0,-3.5,1.6,-3.5,3.5l0,1.4l-5,0c0.1,-0.2,0.1,-0.3,0.1,-0.5l0,-3.6c0,-0.7,-0.5,-1.2,-1.1,-1.2c-0.7,0,-1.2,0.5,-1.2,1.2l0,3.6c0,0.2,0.1,0.3,0.1,0.5l-1.5,0c-1.9,0,-3.5,1.6,-3.5,3.5l0,16.9c0,2,1.6,3.5,3.5,3.5l32.7,0c1.9,0,3.5,-1.5,3.5,-3.5l0,-16.9c0,-1.9,-1.6,-3.5,-3.5,-3.5Z" class="g6_134" />
+<path d="M682.9,888.6c0,1,-0.7,1.7,-1.6,1.7c-1,0,-1.7,-0.7,-1.7,-1.7c0,-0.9,0.7,-1.6,1.7,-1.6c0.9,0,1.6,0.7,1.6,1.6Z" class="g6_134" />
+<path d="M678.8,902c0,4.7,-3.8,8.6,-8.5,8.6c-4.8,0,-8.6,-3.9,-8.6,-8.6c0,-4.7,3.8,-8.5,8.6,-8.5c4.7,0,8.5,3.8,8.5,8.5Z" class="g13_134" />
+<path d="M671.9,1032.8l1.3,-1.4l0,-2.9c0,-0.5,0.3,-0.8,0.8,-0.8l15.3,0c0.4,0,0.8,0.3,0.8,0.8l0,8.5c0,0.4,-0.4,0.8,-0.8,0.8l-15.3,0c-0.5,0,-0.8,-0.4,-0.8,-0.8l0,-2.9Z" class="g14_134" />
+<path d="M677.8,1032.8c0,-0.8,0.6,-1.4,1.3,-1.4c0.7,0,1.4,0.6,1.4,1.4c0,0.9,-0.7,1.4,-1.4,1.4c-0.7,0,-1.3,-0.5,-1.3,-1.4Z" class="g6_134" />
+<path d="M683.4,1032.8c0,-0.8,0.6,-1.4,1.4,-1.4c0.7,0,1.3,0.6,1.3,1.4c0,0.9,-0.6,1.4,-1.3,1.4c-0.8,0,-1.4,-0.5,-1.4,-1.4Z" class="g6_134" />
+<text 
+x="206" 
+y="900" 
+dx="0,-0.7,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s17_134"
+>Wang Peng just shared </text>
+
+<text 
+x="206" 
+y="920" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s17_134"
+>a new status on </text>
+
+<text 
+x="206" 
+y="940" 
+dx="0,-0.7,0,0,0,0,0,0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-2.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s17_134"
+>WeChat and Li You left </text>
+
+<text 
+x="206" 
+y="960" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s17_134"
+>a comment. What is Li </text>
+
+<text 
+x="206" 
+y="979" 
+dx="0,-2.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.5,-0.1" 
+class="s17_134"
+>You proposing? </text>
+
+<g clip-path="url(#c3_134)">
+<path d="M384.1,861.2c0,-11.7,-9.4,-21.1,-21.1,-21.1l-146.2,0c-11.6,0,-21.1,9.4,-21.1,21.1l0,14.8l188.4,0Z" class="g15_134" />
+</g>
+<path d="M365,999.7l19.7,20.5l0,-20.5Z" class="g16_134" />
+<text 
+x="228" 
+y="866" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s18_134"
+>Chinese Chat</text>
+
+<path d="M384.7,879.8l0,116.2l-164.2,0c-13.4,0,-24.3,-10.9,-24.3,-24.3l0,-91.9l188.5,0Z" class="g17_134" />
+<path d="M885.3,1196.3l36,0L921.3,0l-36,0l0,1196.3Z" class="g18_134" />
+<g clip-path="url(#c4_134)">
+<path d="M885.3,1227.6l67.3,0l0,-1253.5l-67.3,0l0,1253.5Z" class="g19_134" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 894, 898)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s19_134"
+>Lesson 4 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 956)"
+dx="0,0.3" 
+class="s19_134"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 969)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s19_134"
+>Hobbies </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1024)"
+dx="0,0.3" 
+class="s19_134"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1037)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s19_134"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1157)"
+dx="0,0.3,0.3" 
+class="s19_134"
+>113</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2yv;
+	src: url("fonts/ProximaNova-Extrabld_2yv.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2z7;
+	src: url("fonts/ProximaNova-Semibold_2z7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Medium_2zp;
+	src: url("fonts/ProximaNova-Medium_2zp.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_2uc;
+	src: url("fonts/SourceHanSansTW-Medium_2uc.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_2u_;
+	src: url("fonts/SourceHanSansCN-Regular_2u_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_2za;
+	src: url("fonts/ProximaNova-Regular_2za.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2yz;
+	src: url("fonts/ProximaNova-Bold_2yz.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2y-;
+	src: url("fonts/Marion-Italic_2y-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2zq;
+	src: url("fonts/ProximaNova-Semibold_2zq.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2z3;
+	src: url("fonts/ProximaNova-Light_2z3.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_2zt;
+	src: url("fonts/ArialMT_2zt.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

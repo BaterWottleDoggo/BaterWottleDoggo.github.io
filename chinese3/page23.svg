@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 44 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_44{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_44{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_44{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_44{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3nc;
+fill: #3F3F40;
+}
+.s2_44{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_3n5;
+fill: #939598;
+}
+.s3_44{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s4_44{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s5_44{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_3o0;
+fill: #3F3F40;
+}
+.s6_44{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #007D9F;
+}
+.s7_44{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s8_44{
+font-size: 24.44px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #007598;
+}
+.s9_44{
+font-size: 17.19px;
+font-family: TimesNewRomanPS-ItalicMT_3pd;
+fill: #3F3F40;
+}
+.s10_44{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3o1;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="169" 
+y="75" 
+dx="0,0" 
+class="s1_44"
+>B </text>
+
+<text 
+x="212" 
+y="76" 
+dx="0,0,0" 
+class="s2_44"
+>Q: </text>
+
+<text 
+x="238" 
+y="78" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_44"
+>在高速公路上开车，你紧张吗？</text>
+
+<text 
+x="244" 
+y="115" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>Zài gāosù gōnglù shang kāi chē, nǐ jǐnzhāng ma?</text>
+
+<text 
+x="244" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_44"
+>Do you get nervous driving on the highway?</text>
+
+<text 
+x="212" 
+y="194" 
+dx="0,0,0" 
+class="s2_44"
+>A: </text>
+
+<text 
+x="238" 
+y="196" 
+dx="0,0" 
+class="s3_44"
+>紧张</text>
+
+<text 
+x="302" 
+y="196" 
+dx="0" 
+class="s6_44"
+>是</text>
+
+<text 
+x="334" 
+y="196" 
+dx="0,0,0" 
+class="s3_44"
+>紧张，</text>
+
+<text 
+x="430" 
+y="196" 
+dx="0,0" 
+class="s6_44"
+>可是</text>
+
+<text 
+x="495" 
+y="196" 
+dx="0,0,0,0,0,0" 
+class="s3_44"
+>也很好玩儿。</text>
+
+<text 
+x="244" 
+y="233" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>Jǐnzhāng </text>
+
+<text 
+x="306" 
+y="233" 
+dx="0,0.3,0.3,0.3" 
+class="s7_44"
+>shì </text>
+
+<text 
+x="329" 
+y="233" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>jǐnzhāng, </text>
+
+<text 
+x="395" 
+y="233" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s7_44"
+>kěshì </text>
+
+<text 
+x="433" 
+y="233" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>yě hěn hǎowánr.</text>
+
+<text 
+x="244" 
+y="265" 
+dx="0,0,0,0,0,0,-0.1,-0.1,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,-0.4" 
+class="s5_44"
+>I do get nervous, but I find it a lot of fun, too.</text>
+
+<text 
+x="169" 
+y="334" 
+dx="0,0" 
+class="s1_44"
+>C </text>
+
+<text 
+x="212" 
+y="335" 
+dx="0,0,0" 
+class="s2_44"
+>Q: </text>
+
+<text 
+x="238" 
+y="337" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_44"
+>明天学校开会，你去不去？</text>
+
+<text 
+x="244" 
+y="374" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>Míngtiān xuéxiào kāi huì, nǐ qù bu qù?</text>
+
+<text 
+x="244" 
+y="406" 
+dx="0,0,0,0,-0.2,0,-0.9,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,-1.1,0,0,0,-0.2,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s5_44"
+>There’s a meeting at school tomorrow. Are you going?</text>
+
+<text 
+x="212" 
+y="453" 
+dx="0,0,0" 
+class="s2_44"
+>A: </text>
+
+<text 
+x="238" 
+y="455" 
+dx="0,0" 
+class="s3_44"
+>我去</text>
+
+<text 
+x="302" 
+y="455" 
+dx="0" 
+class="s6_44"
+>是</text>
+
+<text 
+x="334" 
+y="455" 
+dx="0,0" 
+class="s3_44"
+>去，</text>
+
+<text 
+x="398" 
+y="455" 
+dx="0,0" 
+class="s6_44"
+>可是</text>
+
+<text 
+x="462" 
+y="455" 
+dx="0,0,0,0,0,0" 
+class="s3_44"
+>会晚一点儿。</text>
+
+<text 
+x="244" 
+y="492" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>Wǒ qù </text>
+
+<text 
+x="289" 
+y="492" 
+dx="0,0.3,0.3,0.3" 
+class="s7_44"
+>shì </text>
+
+<text 
+x="312" 
+y="492" 
+dx="0,0.3,0.3,0.3" 
+class="s4_44"
+>qù, </text>
+
+<text 
+x="336" 
+y="492" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s7_44"
+>kěshì </text>
+
+<text 
+x="374" 
+y="492" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>huì wǎn yì diǎnr.</text>
+
+<text 
+x="244" 
+y="524" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_44"
+>I am going, but I’ll be a little bit late.</text>
+
+<text 
+x="169" 
+y="593" 
+dx="0,0" 
+class="s1_44"
+>D </text>
+
+<text 
+x="212" 
+y="594" 
+dx="0,0,0" 
+class="s2_44"
+>Q: </text>
+
+<text 
+x="238" 
+y="596" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_44"
+>你喜欢这张照片吗？</text>
+
+<text 
+x="244" 
+y="633" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>Nǐ xǐhuan zhè zhāng zhàopiàn ma?</text>
+
+<text 
+x="244" 
+y="665" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0" 
+class="s5_44"
+>Do you like this photo?</text>
+
+<text 
+x="212" 
+y="712" 
+dx="0,0,0" 
+class="s2_44"
+>A: </text>
+
+<text 
+x="238" 
+y="714" 
+dx="0,0" 
+class="s3_44"
+>喜欢</text>
+
+<text 
+x="302" 
+y="714" 
+dx="0" 
+class="s6_44"
+>是</text>
+
+<text 
+x="334" 
+y="714" 
+dx="0,0,0" 
+class="s3_44"
+>喜欢，</text>
+
+<text 
+x="430" 
+y="714" 
+dx="0,0" 
+class="s6_44"
+>可是</text>
+
+<text 
+x="495" 
+y="714" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_44"
+>这张照片太小了。</text>
+
+<text 
+x="244" 
+y="751" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>Xǐhuan </text>
+
+<text 
+x="297" 
+y="751" 
+dx="0,0.3,0.3,0.3" 
+class="s7_44"
+>shì </text>
+
+<text 
+x="320" 
+y="751" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>xǐhuan, </text>
+
+<text 
+x="374" 
+y="751" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s7_44"
+>kěshì </text>
+
+<text 
+x="412" 
+y="751" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_44"
+>zhè zhāng zhàopiàn tài xiǎo le.</text>
+
+<text 
+x="244" 
+y="783" 
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s5_44"
+>I do, but this picture is too small.</text>
+
+<text 
+x="157" 
+y="824" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.8,-0.3,-0.3,-0.3,-0.3,-0.3,-0.8,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s5_44"
+>This pattern can be used only when the adjective or verb in it has already been mentioned, e.g., </text>
+
+<text 
+x="157" 
+y="853" 
+dx="0" 
+class="s8_44"
+>难</text>
+
+<text 
+x="184" 
+y="851" 
+dx="0,-0.1,-0.1,-0.1,-0.1" 
+class="s4_44"
+>(nán)</text>
+
+<text 
+x="221" 
+y="851" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_44"
+>in (A), </text>
+
+<text 
+x="261" 
+y="853" 
+dx="0,-0.5" 
+class="s8_44"
+>紧张</text>
+
+<text 
+x="312" 
+y="851" 
+dx="0,-0.1" 
+class="s4_44"
+>(j</text>
+
+<text 
+x="321" 
+y="851" 
+dx="0" 
+class="s9_44"
+>ǐ</text>
+
+<text 
+x="326" 
+y="851" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s4_44"
+>nzhāng)</text>
+
+<text 
+x="381" 
+y="851" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_44"
+>in (B), </text>
+
+<text 
+x="420" 
+y="853" 
+dx="0" 
+class="s8_44"
+>去</text>
+
+<text 
+x="447" 
+y="851" 
+dx="0,-0.1,-0.1,-0.1" 
+class="s4_44"
+>(qù)</text>
+
+<text 
+x="476" 
+y="851" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_44"
+>in (C), and </text>
+
+<text 
+x="544" 
+y="853" 
+dx="0,-0.5" 
+class="s8_44"
+>喜欢</text>
+
+<text 
+x="595" 
+y="851" 
+dx="0,-0.1" 
+class="s4_44"
+>(x</text>
+
+<text 
+x="607" 
+y="851" 
+dx="0" 
+class="s9_44"
+>ǐ</text>
+
+<text 
+x="612" 
+y="851" 
+dx="0,-0.1,-0.1,-0.1,-0.1" 
+class="s4_44"
+>huan)</text>
+
+<text 
+x="653" 
+y="851" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.5,-0.3,0" 
+class="s5_44"
+>in (D). In this regard, </text>
+
+<text 
+x="157" 
+y="879" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.6,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3" 
+class="s5_44"
+>it is different from the pattern </text>
+
+<text 
+x="361" 
+y="880" 
+dx="0,-0.5,-0.5,-0.5,-0.5" 
+class="s8_44"
+>虽然…可是</text>
+
+<text 
+x="481" 
+y="879" 
+dx="0" 
+class="s5_44"
+>/</text>
+
+<text 
+x="485" 
+y="880" 
+dx="0,-0.5,-0.5" 
+class="s8_44"
+>但是…</text>
+
+<text 
+x="560" 
+y="879" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s4_44"
+>(suīrán . . . kěshì/dànshì . . . )</text>
+
+<text 
+x="740" 
+y="879" 
+dx="0" 
+class="s5_44"
+>.</text>
+
+<path d="M162.8,52.4c0,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.5,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.5,0Z" class="g1_44" />
+<path d="M162.8,54.5c-0.5,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.5,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.5,0Z" class="g2_44" />
+<path d="M164.4,311.4c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_44" />
+<path d="M164.4,313.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_44" />
+<path d="M164.4,570.4c-0.1,0,-7.7,0,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_44" />
+<path d="M164.4,572.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_44" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g3_44" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 920)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s10_44"
+>Lesson 11 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 991)"
+dx="0,1" 
+class="s10_44"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1005)"
+dx="0,0.1,1,1,1,1,1,1" 
+class="s10_44"
+>Weather </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1067)"
+dx="0,1" 
+class="s10_44"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1081)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s10_44"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1158)"
+dx="0,1,-2.3" 
+class="s10_44"
+>23 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3o1;
+	src: url("fonts/LibreFranklin-SemiBold_3o1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3n5;
+	src: url("fonts/LibreFranklin-Bold_3n5.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3o0;
+	src: url("fonts/LibreFranklin-Regular_3o0.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3nc;
+	src: url("fonts/LibreFranklin-ExtraBold_3nc.woff") format("woff");
+}
+
+@font-face {
+	font-family: TimesNewRomanPS-ItalicMT_3pd;
+	src: url("fonts/TimesNewRomanPS-ItalicMT_3pd.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 429 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_429{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_429{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_429{
+fill: #FFFFFF;
+}
+.g4_429{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_429{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_429{
+font-size: 10.69px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #FFFFFF;
+}
+.s2_429{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_4hh;
+fill: #909295;
+}
+.s3_429{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_4ho;
+fill: #3F3F40;
+}
+.s4_429{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #A8A9AD;
+}
+.s5_429{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_4ho;
+fill: #77787B;
+}
+.s6_429{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g1_429" />
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1173)"
+dx="0,0.6,0.6,0.6" 
+class="s1_429"
+>408 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1132)"
+dx="0,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6" 
+class="s1_429"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1004)"
+dx="0,0.6" 
+class="s1_429"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 992)"
+dx="0,-0.6,0.4,0.3,0.6,0.6,0.6,0.6" 
+class="s1_429"
+>Textbook</text>
+
+<path d="M317.9,77.1l0,890.8" class="g2_429" />
+<text 
+x="144" 
+y="87" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_429"
+>Lesson 13</text>
+
+<text 
+x="401" 
+y="78" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>(Bai Ying’ai has just gotten out of class . . . )</text>
+
+<text 
+x="398" 
+y="98" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Teacher Chang: </text>
+
+<text 
+x="519" 
+y="98" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0" 
+class="s3_429"
+>Are classes over, Little Bai? Where are you off to?</text>
+
+<text 
+x="398" 
+y="118" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Bai Ying’ai: </text>
+
+<text 
+x="519" 
+y="118" 
+dx="0,0,0,0,0,-0.4,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>Hello, Teacher Chang. I want to go to the school </text>
+
+<text 
+x="519" 
+y="138" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0" 
+class="s3_429"
+>computer center, but I don’t know how to get there. </text>
+
+<text 
+x="519" 
+y="158" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0.4,-1,0,0,0,-0.2,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>I heard it’s next to the sports field.</text>
+
+<text 
+x="398" 
+y="177" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Teacher Chang: </text>
+
+<text 
+x="519" 
+y="177" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>The computer center is not as far as the sports field. </text>
+
+<text 
+x="519" 
+y="197" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>Do you know where the school library is?</text>
+
+<text 
+x="398" 
+y="217" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Bai Ying’ai: </text>
+
+<text 
+x="519" 
+y="217" 
+dx="0,0,0,0,-0.4,0,0,0,0.4,-1,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.8,0,0,0,0,-0.8,0,0,0,-1,0,0,0,0,0,0" 
+class="s3_429"
+>I do. It’s not far from Wang Peng’s dorm.</text>
+
+<text 
+x="398" 
+y="237" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Teacher Chang: </text>
+
+<text 
+x="519" 
+y="237" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0.4,-1,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>The computer center is near the library. It’s between </text>
+
+<text 
+x="519" 
+y="257" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.2" 
+class="s3_429"
+>the library and the student activity center.</text>
+
+<text 
+x="398" 
+y="277" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Bai Ying’ai: </text>
+
+<text 
+x="519" 
+y="277" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>Teacher Chang, where are you headed?</text>
+
+<text 
+x="398" 
+y="297" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Teacher Chang: </text>
+
+<text 
+x="519" 
+y="297" 
+dx="0,0,-1,0,0,0,0,-0.4,0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,-0.2,0" 
+class="s3_429"
+>I’d like to get some books at the school bookstore.</text>
+
+<text 
+x="398" 
+y="316" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Bai Ying’ai: </text>
+
+<text 
+x="519" 
+y="316" 
+dx="0,0,0,0,-0.2,0,-1,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,-0.2,0" 
+class="s3_429"
+>Where’s the bookstore?</text>
+
+<text 
+x="398" 
+y="336" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Teacher Chang: </text>
+
+<text 
+x="519" 
+y="336" 
+dx="0,0,0.4,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.2,0,0,-0.9,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>It’s in the student activity center. We can walk </text>
+
+<text 
+x="519" 
+y="356" 
+dx="0,-0.2,0,-0.1,0,0,0,0,-1.2" 
+class="s3_429"
+>together.</text>
+
+<text 
+x="398" 
+y="376" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Bai Ying’ai: </text>
+
+<text 
+x="519" 
+y="376" 
+dx="0,0,0" 
+class="s3_429"
+>OK.</text>
+
+<text 
+x="398" 
+y="451" 
+dx="0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.8,0,0,0,0,-0.8,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>(Gao Wenzhong takes Wang Peng to Chinatown to eat . . . )</text>
+
+<text 
+x="398" 
+y="471" 
+dx="0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Gao Wenzhong: </text>
+
+<text 
+x="519" 
+y="471" 
+dx="0,0,0,0.4,-1,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s3_429"
+>Let’s go to Chinatown to have some Chinese food!</text>
+
+<text 
+x="398" 
+y="491" 
+dx="0,-0.8,0,0,0,0,-0.6,0,0,0,0" 
+class="s4_429"
+>Wang Peng: </text>
+
+<text 
+x="519" 
+y="491" 
+dx="0,0,-0.1,-0.4,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>I’ve never been to Chinatown. I don’t know </text>
+
+<text 
+x="519" 
+y="510" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s3_429"
+>where it is.</text>
+
+<text 
+x="398" 
+y="530" 
+dx="0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Gao Wenzhong: </text>
+
+<text 
+x="519" 
+y="530" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_429"
+>No problem. You drive, and I’ll tell you how to </text>
+
+<text 
+x="519" 
+y="550" 
+dx="0,-0.1,0,0,0,0,0,0,-0.2,0" 
+class="s3_429"
+>get there.</text>
+
+<text 
+x="398" 
+y="570" 
+dx="0,-0.8,0,0,0,0,-0.6,0,0,0,0" 
+class="s4_429"
+>Wang Peng: </text>
+
+<text 
+x="519" 
+y="570" 
+dx="0,-1.5,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>You have Google Maps, right? Let me take a look.</text>
+
+<text 
+x="398" 
+y="590" 
+dx="0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Gao Wenzhong: </text>
+
+<text 
+x="519" 
+y="590" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.1,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>Shoot, my phone’s in the dorm. I forgot to bring it.</text>
+
+<text 
+x="398" 
+y="610" 
+dx="0,-0.8,0,0,0,0,-0.6,0,0,0,0" 
+class="s4_429"
+>Wang Peng: </text>
+
+<text 
+x="519" 
+y="610" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s3_429"
+>Without a map, what do we do if we go the </text>
+
+<text 
+x="519" 
+y="630" 
+dx="0,0,-0.2,0,0,0,0,0,0,0" 
+class="s3_429"
+>wrong way?</text>
+
+<text 
+x="398" 
+y="649" 
+dx="0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Gao Wenzhong: </text>
+
+<text 
+x="519" 
+y="649" 
+dx="0,-0.9,0,-0.4,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s3_429"
+>We’re fine without a map. I’ve been to Chinatown a </text>
+
+<text 
+x="519" 
+y="669" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s3_429"
+>bunch of times, I don’t need a map to get there. Go </text>
+
+<text 
+x="519" 
+y="689" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>south from here. At the third intersection, turn west, </text>
+
+<text 
+x="519" 
+y="709" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_429"
+>and we’ll be there.</text>
+
+<text 
+x="398" 
+y="729" 
+dx="0,-0.8,0,0,0,0,-0.6,0,0,0,0" 
+class="s4_429"
+>Wang Peng: </text>
+
+<text 
+x="519" 
+y="729" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_429"
+>Oh, I don’t have a sense of direction.</text>
+
+<text 
+x="398" 
+y="749" 
+dx="0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Gao Wenzhong: </text>
+
+<text 
+x="519" 
+y="749" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>Then drive straight ahead. At the third traffic light, </text>
+
+<text 
+x="519" 
+y="769" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_429"
+>turn right, and you’ll be there.</text>
+
+<text 
+x="398" 
+y="788" 
+dx="0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>(At the third intersection . . . )</text>
+
+<text 
+x="398" 
+y="808" 
+dx="0,-0.8,0,0,0,0,-0.6,0,0,0,0" 
+class="s4_429"
+>Wang Peng: </text>
+
+<text 
+x="519" 
+y="808" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s3_429"
+>This isn’t right. See, you can only turn left here. </text>
+
+<text 
+x="519" 
+y="828" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>You can’t turn right.</text>
+
+<text 
+x="398" 
+y="848" 
+dx="0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Gao Wenzhong: </text>
+
+<text 
+x="519" 
+y="848" 
+dx="0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.1,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,0,0,0,-0.1,0,0,0,0" 
+class="s3_429"
+>Then it’ll be the next block. Turn right. Keep going </text>
+
+<text 
+x="519" 
+y="868" 
+dx="0,0,0,0,0,0,0,-1.2,0,0,-0.9,0,-0.4,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>further. We’re here! See, there are lots of Chinese </text>
+
+<text 
+x="519" 
+y="888" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s3_429"
+>characters out in front.</text>
+
+<text 
+x="398" 
+y="908" 
+dx="0,-0.8,0,0,0,0,-0.6,0,0,0,0" 
+class="s4_429"
+>Wang Peng: </text>
+
+<text 
+x="519" 
+y="908" 
+dx="0,0,0,0,0.4,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,-1,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,-0.4,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_429"
+>That’s not Chinese, that’s Japanese. We’re in Little </text>
+
+<text 
+x="519" 
+y="927" 
+dx="0,-1.5,0,0,0,-0.4" 
+class="s3_429"
+>Tokyo.</text>
+
+<text 
+x="398" 
+y="947" 
+dx="0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0" 
+class="s4_429"
+>Gao Wenzhong: </text>
+
+<text 
+x="519" 
+y="947" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0.4,-1,0,0,0,0,0" 
+class="s3_429"
+>Really? Then let’s not eat Chinese food, let’s eat </text>
+
+<text 
+x="519" 
+y="967" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s3_429"
+>Japanese food instead!</text>
+
+<path d="M243.8,136.3l143.7,0l0,-45.3L243.8,91l0,45.3Z" class="g3_429" />
+<text 
+x="265" 
+y="110" 
+dx="0,0,0,0,-0.2,0,0,0,-0.2,0,0,-1.5,0,0" 
+class="s5_429"
+>Where Are You </text>
+
+<text 
+x="291" 
+y="127" 
+dx="0,0,0,0,0,-1.5,0" 
+class="s5_429"
+>Off To?</text>
+
+<path d="M281.6,55.9c0,0,-15.3,0,-15.3,15.3l0,3c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3c0,0,0,-15.3,-15.3,-15.3Z" class="g3_429" />
+<text 
+x="282" 
+y="79" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s6_429"
+>Dialogue 1</text>
+
+<path d="M281.6,55.1c-0.2,0,-16.1,0.2,-16.1,16.1l0,3c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3c0,-0.2,-0.2,-16.1,-16.1,-16.1l-68.1,0Z" class="g4_429" />
+<path d="M281.6,57.2c-0.6,0,-14,0.2,-14,14l0,3c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3c0,-0.6,-0.2,-14,-14,-14l-68.1,0Z" class="g5_429" />
+<path d="M243.8,509.1l143.7,0l0,-45.3l-143.7,0l0,45.3Z" class="g3_429" />
+<text 
+x="287" 
+y="483" 
+dx="0,0,0,0,0,0,0,-0.2,0" 
+class="s5_429"
+>Going to </text>
+
+<text 
+x="279" 
+y="500" 
+dx="0,0,0,0,0,0,-0.2,0,0" 
+class="s5_429"
+>Chinatown</text>
+
+<path d="M281.6,428.7c0,0,-15.3,0,-15.3,15.2l0,3.1c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g3_429" />
+<text 
+x="281" 
+y="452" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s6_429"
+>Dialogue 2</text>
+
+<path d="M281.6,427.9c-0.2,0,-16.1,0.2,-16.1,16l0,3.1c0,0.2,0.2,16,16.1,16l68.1,0c0.2,0,16.1,-0.1,16.1,-16l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.1,0Z" class="g4_429" />
+<path d="M281.6,429.9c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.1,0Z" class="g5_429" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_4gw;
+	src: url("fonts/LibreFranklin-SemiBold_4gw.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_4hh;
+	src: url("fonts/LibreFranklin-ExtraBold_4hh.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_4ho;
+	src: url("fonts/LibreFranklin-Light_4ho.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

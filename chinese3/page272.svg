@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 293 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_293{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_293{
+fill: none;
+stroke: #EDF3F7;
+stroke-width: 33.61111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_293{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_293{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_293{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_293{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_4bw;
+fill: #3F3F40;
+}
+.s2_293{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_4cd;
+fill: #3F3F40;
+}
+.s3_293{
+font-size: 19.86px;
+font-family: ArialMT_2xy;
+fill: #007598;
+}
+.s4_293{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s5_293{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #007D9F;
+}
+.s6_293{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s7_293{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s8_293{
+font-size: 28.23px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #3F3F40;
+}
+.s9_293{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_4bt;
+fill: #007598;
+}
+.s10_293{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_4bt;
+fill: #939598;
+}
+.s11_293{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_4bw;
+fill: #007D9F;
+}
+.s12_293{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_4bt;
+fill: #007D9F;
+}
+.s13_293{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #3F3F40;
+}
+.s14_293{
+font-size: 20.63px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s15_293{
+font-size: 24.44px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #007598;
+}
+.s16_293{
+font-size: 17.57px;
+font-family: LibreFranklin-Medium_4bz;
+fill: #231F20;
+}
+.s17_293{
+font-size: 22.92px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #231F20;
+}
+.s18_293{
+font-size: 17.19px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #3F3F40;
+}
+.s19_293{
+font-size: 34.68px;
+font-family: ZenKai-Medium_3_v;
+fill: #3F3F40;
+}
+.s20_293{
+font-size: 30.56px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #007D9F;
+}
+.s21_293{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_4cn;
+fill: #3F3F40;
+}
+.s22_293{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_4c4;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,835.7l13,0" class="g1_293" />
+<path d="M134.4,975.1l679.9,0" class="g2_293" />
+<text 
+x="155" 
+y="67" 
+dx="0,0" 
+class="s1_293"
+>A </text>
+
+<text 
+x="226" 
+y="69" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_293"
+>12,345 (1</text>
+
+<text 
+x="290" 
+y="71" 
+dx="0" 
+class="s3_293"
+>⁞</text>
+
+<text 
+x="295" 
+y="69" 
+dx="0,0,0,0,0" 
+class="s2_293"
+>2345)</text>
+
+<text 
+x="226" 
+y="106" 
+dx="0" 
+class="s4_293"
+>一</text>
+
+<text 
+x="258" 
+y="106" 
+dx="0" 
+class="s5_293"
+>万</text>
+
+<text 
+x="290" 
+y="106" 
+dx="0" 
+class="s4_293"
+>两</text>
+
+<text 
+x="322" 
+y="106" 
+dx="0" 
+class="s5_293"
+>千</text>
+
+<text 
+x="354" 
+y="106" 
+dx="0,0,0,0,0" 
+class="s4_293"
+>三百四十五</text>
+
+<text 
+x="232" 
+y="136" 
+dx="0,0.3,0.3" 
+class="s6_293"
+>yí </text>
+
+<text 
+x="248" 
+y="136" 
+dx="0,0.3,0.3,0.3" 
+class="s7_293"
+>wàn </text>
+
+<text 
+x="279" 
+y="136" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s6_293"
+>liǎng </text>
+
+<text 
+x="317" 
+y="136" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s7_293"
+>qiān </text>
+
+<text 
+x="349" 
+y="136" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_293"
+>sān bǎi sìshíwǔ</text>
+
+<text 
+x="155" 
+y="189" 
+dx="0,0" 
+class="s1_293"
+>B </text>
+
+<text 
+x="226" 
+y="191" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_293"
+>25,000 (2</text>
+
+<text 
+x="296" 
+y="193" 
+dx="0" 
+class="s3_293"
+>⁞</text>
+
+<text 
+x="302" 
+y="191" 
+dx="0,0,0,0,0" 
+class="s2_293"
+>5000)</text>
+
+<text 
+x="226" 
+y="228" 
+dx="0" 
+class="s4_293"
+>两</text>
+
+<text 
+x="258" 
+y="228" 
+dx="0" 
+class="s5_293"
+>万</text>
+
+<text 
+x="290" 
+y="228" 
+dx="0" 
+class="s4_293"
+>五</text>
+
+<text 
+x="322" 
+y="228" 
+dx="0" 
+class="s5_293"
+>千</text>
+
+<text 
+x="232" 
+y="259" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s6_293"
+>liǎng </text>
+
+<text 
+x="269" 
+y="259" 
+dx="0,0.3,0.3,0.3" 
+class="s7_293"
+>wàn </text>
+
+<text 
+x="300" 
+y="259" 
+dx="0,0.3,0.3" 
+class="s6_293"
+>wǔ </text>
+
+<text 
+x="324" 
+y="259" 
+dx="0,0.3,0.3,0.3" 
+class="s7_293"
+>qiān</text>
+
+<text 
+x="155" 
+y="311" 
+dx="0,0" 
+class="s1_293"
+>C </text>
+
+<text 
+x="226" 
+y="314" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_293"
+>340,876 (34</text>
+
+<text 
+x="316" 
+y="315" 
+dx="0" 
+class="s3_293"
+>⁞</text>
+
+<text 
+x="321" 
+y="314" 
+dx="0,0,0,0,0" 
+class="s2_293"
+>0876)</text>
+
+<text 
+x="226" 
+y="350" 
+dx="0,0,0" 
+class="s4_293"
+>三十四</text>
+
+<text 
+x="322" 
+y="350" 
+dx="0" 
+class="s5_293"
+>万</text>
+
+<text 
+transform="matrix(1.14, 0, 0, 1, 354, 350)"
+dx="0" 
+class="s8_293"
+>〇</text>
+
+<text 
+x="386" 
+y="350" 
+dx="0,0,0,0,0" 
+class="s4_293"
+>八百七十六</text>
+
+<text 
+x="232" 
+y="381" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_293"
+>sānshísì </text>
+
+<text 
+x="289" 
+y="381" 
+dx="0,0.3,0.3,0.3" 
+class="s7_293"
+>wàn </text>
+
+<text 
+x="320" 
+y="381" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_293"
+>líng bā bǎi qīshíliù</text>
+
+<text 
+x="155" 
+y="434" 
+dx="0,0" 
+class="s1_293"
+>D </text>
+
+<text 
+x="226" 
+y="436" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_293"
+>1,000,900,000 (10</text>
+
+<text 
+x="362" 
+y="437" 
+dx="0" 
+class="s3_293"
+>⁞</text>
+
+<text 
+x="367" 
+y="436" 
+dx="0,0,0,0" 
+class="s2_293"
+>0090</text>
+
+<text 
+x="409" 
+y="437" 
+dx="0" 
+class="s3_293"
+>⁞</text>
+
+<text 
+x="414" 
+y="436" 
+dx="0,0,0,0,0" 
+class="s2_293"
+>0000)</text>
+
+<text 
+x="226" 
+y="473" 
+dx="0" 
+class="s4_293"
+>十</text>
+
+<text 
+x="258" 
+y="473" 
+dx="0" 
+class="s5_293"
+>亿</text>
+
+<text 
+transform="matrix(1.14, 0, 0, 1, 290, 473)"
+dx="0" 
+class="s8_293"
+>〇</text>
+
+<text 
+x="322" 
+y="473" 
+dx="0,0" 
+class="s4_293"
+>九十</text>
+
+<text 
+x="386" 
+y="473" 
+dx="0" 
+class="s5_293"
+>万</text>
+
+<text 
+x="232" 
+y="503" 
+dx="0,0.3,0.3,0.3" 
+class="s6_293"
+>shí </text>
+
+<text 
+x="255" 
+y="503" 
+dx="0,0.3,0.3" 
+class="s7_293"
+>yì </text>
+
+<text 
+x="271" 
+y="503" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_293"
+>líng jiǔshí </text>
+
+<text 
+x="341" 
+y="503" 
+dx="0,0.3,0.3" 
+class="s7_293"
+>wàn</text>
+
+<text 
+x="143" 
+y="573" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_293"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="601" 
+dx="0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s2_293"
+>Say the following amounts of money in Chinese. Use exercise 1 as an example.</text>
+
+<text 
+x="145" 
+y="627" 
+dx="0,0" 
+class="s10_293"
+>1 </text>
+
+<text 
+x="187" 
+y="628" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_293"
+>$1111.11 </text>
+
+<text 
+x="187" 
+y="673" 
+dx="0,0" 
+class="s4_293"
+>→ </text>
+
+<text 
+x="236" 
+y="673" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_293"
+>一千一百一十一块一毛一分钱</text>
+
+<text 
+x="145" 
+y="699" 
+dx="0,0" 
+class="s10_293"
+>2 </text>
+
+<text 
+x="187" 
+y="700" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_293"
+>$2202.59</text>
+
+<text 
+x="145" 
+y="726" 
+dx="0,0" 
+class="s10_293"
+>3 </text>
+
+<text 
+x="187" 
+y="728" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_293"
+>$34560.05</text>
+
+<text 
+x="105" 
+y="832" 
+dx="0,0" 
+class="s11_293"
+>4 </text>
+
+<text 
+x="260" 
+y="836" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,-0.7,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_293"
+>Comparative sentences using </text>
+
+<text 
+x="591" 
+y="836" 
+dx="0" 
+class="s13_293"
+>比</text>
+
+<text 
+x="623" 
+y="836" 
+dx="0,0.4,0.4,0.4" 
+class="s14_293"
+>(bǐ)</text>
+
+<text 
+x="656" 
+y="836" 
+dx="0,0,0,0,0" 
+class="s12_293"
+>(II) </text>
+
+<text 
+x="143" 
+y="898" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s2_293"
+>In a sentence where </text>
+
+<text 
+x="289" 
+y="900" 
+dx="0" 
+class="s15_293"
+>比</text>
+
+<text 
+x="316" 
+y="898" 
+dx="0,0.3,0.3,0.3" 
+class="s6_293"
+>(bǐ)</text>
+
+<text 
+x="343" 
+y="898" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_293"
+>is used, a numeral + measure word combination can be placed </text>
+
+<text 
+x="143" 
+y="926" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_293"
+>after the adjective to indicate a disparity in numerical terms. [See also Grammar 1, Lesson 11.]</text>
+
+<text 
+x="229" 
+y="981" 
+dx="0,0.2,0.2,0.2" 
+class="s16_293"
+>X + </text>
+
+<text 
+x="259" 
+y="981" 
+dx="0" 
+class="s17_293"
+>比</text>
+
+<text 
+x="286" 
+y="981" 
+dx="0,0.3,0.3,0.3" 
+class="s18_293"
+>(bǐ)</text>
+
+<text 
+x="314" 
+y="981" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.4,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s16_293"
+>+ Y + adjective + numeral + measure word + noun</text>
+
+<text 
+x="155" 
+y="1061" 
+dx="0,0" 
+class="s1_293"
+>A </text>
+
+<text 
+x="226" 
+y="1064" 
+dx="0,0" 
+class="s4_293"
+>我们</text>
+
+<text 
+x="290" 
+y="1067" 
+dx="0" 
+class="s19_293"
+>班</text>
+
+<text 
+x="324" 
+y="1064" 
+dx="0" 
+class="s5_293"
+>比</text>
+
+<text 
+x="357" 
+y="1064" 
+dx="0,0" 
+class="s4_293"
+>你们</text>
+
+<text 
+x="421" 
+y="1067" 
+dx="0" 
+class="s19_293"
+>班</text>
+
+<text 
+x="453" 
+y="1064" 
+dx="0" 
+class="s20_293"
+>多</text>
+
+<text 
+x="484" 
+y="1064" 
+dx="0,0,0,0" 
+class="s5_293"
+>四个学生</text>
+
+<text 
+x="612" 
+y="1064" 
+dx="0" 
+class="s4_293"
+>。</text>
+
+<text 
+x="232" 
+y="1101" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_293"
+>Wǒmen bān </text>
+
+<text 
+x="314" 
+y="1101" 
+dx="0,0.3,0.3" 
+class="s7_293"
+>bǐ </text>
+
+<text 
+x="330" 
+y="1101" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_293"
+>nǐmen bān </text>
+
+<text 
+x="404" 
+y="1101" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s7_293"
+>duō sì ge xuésheng</text>
+
+<text 
+x="528" 
+y="1101" 
+dx="0" 
+class="s21_293"
+>.</text>
+
+<text 
+x="232" 
+y="1133" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_293"
+>Our class is larger than yours by four students.</text>
+
+<path d="M150.6,44.1c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g3_293" />
+<path d="M150.6,46.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6L173,77c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_293" />
+<path d="M150.6,166.3c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g3_293" />
+<path d="M150.6,168.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,-0.1,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_293" />
+<path d="M150.6,288.5c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g3_293" />
+<path d="M150.6,290.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_293" />
+<path d="M150.6,410.8c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g3_293" />
+<path d="M150.6,412.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_293" />
+<path d="M132.9,801.5l0,53.5l0,0.8l0.7,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.7,0l0,0.7Z" class="g3_293" />
+<path d="M134.9,853.7l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g4_293" />
+<path d="M150.6,1038.4c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g3_293" />
+<path d="M150.6,1040.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_293" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g5_293" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s22_293"
+>272 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1129)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s22_293"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 989)"
+dx="0,1" 
+class="s22_293"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 976)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s22_293"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_4bt;
+	src: url("fonts/LibreFranklin-Bold_4bt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_4cd;
+	src: url("fonts/LibreFranklin-Regular_4cd.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_4bw;
+	src: url("fonts/LibreFranklin-ExtraBold_4bw.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_4cn;
+	src: url("fonts/GentiumBasic-Italic_4cn.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_2xy;
+	src: url("fonts/ArialMT_2xy.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_4bz;
+	src: url("fonts/LibreFranklin-Medium_4bz.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_4c4;
+	src: url("fonts/LibreFranklin-SemiBold_4c4.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZenKai-Medium_3_v;
+	src: url("fonts/ZenKai-Medium_3_v.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

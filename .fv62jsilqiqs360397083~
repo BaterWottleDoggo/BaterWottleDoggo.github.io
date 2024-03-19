@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 195 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_195"><path d="M866.3,1196.3l0,-749.8l55,0l0,749.8Z" /></clipPath>
+<clipPath id="c1_195"><path d="M237.2,743.1l0,-17.1l17,0l0,17.1Z" /></clipPath>
+<clipPath id="c2_195"><path d="M237.2,1137.1l0,-17.1l17,0l0,17.1Z" /></clipPath>
+<clipPath id="c3_195"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_195{
+fill: #FED205;
+}
+.g2_195{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_195{
+fill: #FFFFFF;
+}
+.g4_195{
+fill: #DC252E;
+}
+.g5_195{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g6_195{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_195{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_195{
+fill: #007598;
+}
+.g9_195{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_195{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_44v;
+fill: #3F3F40;
+}
+.s2_195{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_44h;
+fill: #939598;
+}
+.s3_195{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #3F3F40;
+}
+.s4_195{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #007D9F;
+}
+.s5_195{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s6_195{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s7_195{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_45b;
+fill: #3F3F40;
+}
+.s8_195{
+font-size: 24.44px;
+font-family: STKaitiSC-Bold_3wm;
+fill: #007598;
+}
+.s9_195{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_45i;
+fill: #3F3F40;
+}
+.s10_195{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_45h;
+fill: #3F3F40;
+}
+.s11_195{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_454;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_195)">
+<path d="M1101.2,2872.7C389,2822.9,-150.6,2245.4,-104.3,1582.8C-58,920.3,556.8,423.5,1268.9,473.3c712.2,49.8,1251.9,627.3,1205.6,1289.9c-46.4,662.5,-661.2,1159.3,-1373.3,1109.5Z" class="g1_195" />
+</g>
+<image preserveAspectRatio="none" x="845" y="490" width="101" height="600" xlink:href="195/img/1.png" />
+<image preserveAspectRatio="none" x="842" y="1087" width="83" height="112" xlink:href="195/img/2.png" />
+<g clip-path="url(#c0_195)">
+<path d="M1101.2,2872.7C389,2822.9,-150.6,2245.4,-104.3,1582.8C-58,920.3,556.8,423.5,1268.9,473.3c712.2,49.8,1251.9,627.3,1205.6,1289.9c-46.4,662.5,-661.2,1159.3,-1373.3,1109.5Z" class="g2_195" />
+</g>
+<path d="M440,1196.3l481.3,0l0,-747.8l-481.3,0l0,747.8Z" class="g3_195" />
+<text 
+x="155" 
+y="76" 
+dx="0,0" 
+class="s1_195"
+>H </text>
+
+<text 
+x="198" 
+y="77" 
+dx="0,0,0" 
+class="s2_195"
+>Q: </text>
+
+<text 
+x="224" 
+y="79" 
+dx="0,0,0,0,0,0,0" 
+class="s3_195"
+>这条中文短信你</text>
+
+<text 
+x="449" 
+y="79" 
+dx="0,0,0" 
+class="s4_195"
+>看得懂</text>
+
+<text 
+x="545" 
+y="79" 
+dx="0,0" 
+class="s3_195"
+>吗？</text>
+
+<text 
+x="230" 
+y="116" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_195"
+>Zhè tiáo Zhōngwén duǎnxìn nǐ </text>
+
+<text 
+x="436" 
+y="116" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_195"
+>kàn de dǒng </text>
+
+<text 
+x="519" 
+y="116" 
+dx="0,0.3,0.3" 
+class="s5_195"
+>ma?</text>
+
+<text 
+x="230" 
+y="148" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,-0.2,0,0,0,0,0,0,0,-0.1,0" 
+class="s7_195"
+>Can you understand this Chinese text message?</text>
+
+<text 
+x="198" 
+y="195" 
+dx="0,0,0" 
+class="s2_195"
+>A: </text>
+
+<text 
+x="224" 
+y="197" 
+dx="0" 
+class="s3_195"
+>我</text>
+
+<text 
+x="256" 
+y="197" 
+dx="0,0,0" 
+class="s4_195"
+>看得懂</text>
+
+<text 
+x="352" 
+y="197" 
+dx="0" 
+class="s3_195"
+>。</text>
+
+<text 
+x="230" 
+y="234" 
+dx="0,0.3,0.3" 
+class="s5_195"
+>Wǒ </text>
+
+<text 
+x="255" 
+y="234" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_195"
+>kàn de dǒng</text>
+
+<text 
+x="335" 
+y="234" 
+dx="0" 
+class="s5_195"
+>.</text>
+
+<text 
+x="230" 
+y="266" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_195"
+>Yes, I can understand it.</text>
+
+<text 
+x="158" 
+y="335" 
+dx="0,0" 
+class="s1_195"
+>I </text>
+
+<text 
+x="198" 
+y="336" 
+dx="0,0,0" 
+class="s2_195"
+>Q: </text>
+
+<text 
+x="224" 
+y="338" 
+dx="0,0,0,0,0,0" 
+class="s3_195"
+>二十个饺子你</text>
+
+<text 
+x="417" 
+y="338" 
+dx="0,0,0,0,0,0" 
+class="s4_195"
+>吃得完吃不完</text>
+
+<text 
+x="609" 
+y="338" 
+dx="0" 
+class="s3_195"
+>？</text>
+
+<text 
+x="230" 
+y="375" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_195"
+>Èrshí ge jiǎozi nǐ </text>
+
+<text 
+x="343" 
+y="375" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_195"
+>chī de wán chī bu wán</text>
+
+<text 
+x="490" 
+y="375" 
+dx="0" 
+class="s5_195"
+>?</text>
+
+<text 
+x="230" 
+y="407" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s7_195"
+>Can you eat twenty dumplings or not?</text>
+
+<text 
+x="198" 
+y="454" 
+dx="0,0,0" 
+class="s2_195"
+>A: </text>
+
+<text 
+x="224" 
+y="456" 
+dx="0" 
+class="s3_195"
+>我</text>
+
+<text 
+x="256" 
+y="456" 
+dx="0,0,0" 
+class="s4_195"
+>吃得完</text>
+
+<text 
+x="352" 
+y="456" 
+dx="0" 
+class="s3_195"
+>。</text>
+
+<text 
+x="230" 
+y="493" 
+dx="0,0.3,0.3" 
+class="s5_195"
+>Wǒ </text>
+
+<text 
+x="255" 
+y="493" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_195"
+>chī de wán</text>
+
+<text 
+x="326" 
+y="493" 
+dx="0" 
+class="s5_195"
+>.</text>
+
+<text 
+x="230" 
+y="525" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,0" 
+class="s7_195"
+>Yes, I can.</text>
+
+<text 
+x="143" 
+y="566" 
+dx="0,-0.8,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_195"
+>Potential complements are an important feature of Chinese. They are often the only way </text>
+
+<text 
+x="143" 
+y="594" 
+dx="0,-0.2,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.5,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s7_195"
+>to convey the idea that the absence of certain conditions prevents a result from being </text>
+
+<text 
+x="143" 
+y="621" 
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,-0.8,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_195"
+>achieved. Potential complements have a unique function that cannot be fulfilled by the </text>
+
+<text 
+x="143" 
+y="649" 
+dx="0" 
+class="s7_195"
+>“</text>
+
+<text 
+x="149" 
+y="650" 
+dx="0,0" 
+class="s8_195"
+>不能</text>
+
+<text 
+x="201" 
+y="649" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_195"
+>(bù néng)</text>
+
+<text 
+x="269" 
+y="649" 
+dx="0,0,0,-0.5,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s7_195"
+>+ verb + resultative/directional complement” construction. Sometimes we </text>
+
+<text 
+x="143" 
+y="676" 
+dx="0,0,0,-0.5,0,0,-0.2,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_195"
+>have to use potential complements in negative sentences. If we used the “</text>
+
+<text 
+x="666" 
+y="678" 
+dx="0,0" 
+class="s8_195"
+>不能</text>
+
+<text 
+x="718" 
+y="676" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_195"
+>(bù néng)</text>
+
+<text 
+x="785" 
+y="676" 
+dx="0,0" 
+class="s7_195"
+>+ </text>
+
+<text 
+x="143" 
+y="704" 
+dx="0,-0.5,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s7_195"
+>verb + resultative/directional complements” construction, the sentence would be incorrect.</text>
+
+<text 
+x="226" 
+y="743" 
+dx="0" 
+class="s9_195"
+>[</text>
+
+<g clip-path="url(#c1_195)">
+<path d="M245.7,743.1c4.7,0,8.5,-3.9,8.5,-8.6c0,-4.7,-3.8,-8.5,-8.5,-8.5c-4.7,0,-8.5,3.8,-8.5,8.5c0,4.7,3.8,8.6,8.5,8.6Z" class="g4_195" />
+</g>
+<path d="M242,730.8l7.4,7.5" class="g5_195" />
+<path d="M249.4,730.8l-7.4,7.5" class="g5_195" />
+<text 
+x="262" 
+y="743" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_195"
+>老师说得太快，我不能听清楚。]</text>
+
+<text 
+x="143" 
+y="786" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s7_195"
+>Sometimes the meaning would change:</text>
+
+<text 
+x="157" 
+y="850" 
+dx="0,0" 
+class="s1_195"
+>J </text>
+
+<text 
+x="226" 
+y="852" 
+dx="0,0,0,0,0" 
+class="s3_195"
+>门太小，我</text>
+
+<text 
+x="386" 
+y="852" 
+dx="0,0,0" 
+class="s4_195"
+>进不去</text>
+
+<text 
+x="482" 
+y="852" 
+dx="0" 
+class="s3_195"
+>。</text>
+
+<text 
+x="232" 
+y="889" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_195"
+>Mén tài xiǎo, wǒ </text>
+
+<text 
+x="343" 
+y="889" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_195"
+>jìn bu qù</text>
+
+<text 
+x="402" 
+y="889" 
+dx="0" 
+class="s5_195"
+>.</text>
+
+<text 
+x="232" 
+y="921" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,-1.1,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s7_195"
+>The door is too narrow. I can’t go in.</text>
+
+<text 
+x="155" 
+y="985" 
+dx="0,0" 
+class="s1_195"
+>K </text>
+
+<text 
+x="226" 
+y="987" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_195"
+>里面正在开会，你</text>
+
+<text 
+x="482" 
+y="987" 
+dx="0,0,0,0" 
+class="s4_195"
+>不能进去</text>
+
+<text 
+x="611" 
+y="987" 
+dx="0" 
+class="s3_195"
+>！</text>
+
+<text 
+x="232" 
+y="1024" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_195"
+>Lǐmiàn zhèngzài kāi huì, nǐ </text>
+
+<text 
+x="414" 
+y="1024" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_195"
+>bù néng jìnqu</text>
+
+<text 
+x="506" 
+y="1024" 
+dx="0" 
+class="s10_195"
+>!</text>
+
+<text 
+x="232" 
+y="1056" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.6,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s7_195"
+>They are having a meeting inside. You can’t go in.</text>
+
+<text 
+x="143" 
+y="1098" 
+dx="0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_195"
+>A potential complement cannot be used in a </text>
+
+<text 
+x="457" 
+y="1099" 
+dx="0" 
+class="s8_195"
+>把</text>
+
+<text 
+x="485" 
+y="1098" 
+dx="0,0.3,0.3,0.3" 
+class="s5_195"
+>(bǎ)</text>
+
+<text 
+x="515" 
+y="1098" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-1.3" 
+class="s7_195"
+>sentence, either.</text>
+
+<text 
+x="226" 
+y="1137" 
+dx="0" 
+class="s9_195"
+>[</text>
+
+<g clip-path="url(#c2_195)">
+<path d="M245.7,1137.1c4.7,0,8.5,-3.8,8.5,-8.5c0,-4.8,-3.8,-8.6,-8.5,-8.6c-4.7,0,-8.5,3.8,-8.5,8.6c0,4.7,3.8,8.5,8.5,8.5Z" class="g4_195" />
+</g>
+<path d="M242,1124.8l7.4,7.5" class="g5_195" />
+<path d="M249.4,1124.8l-7.4,7.5" class="g5_195" />
+<text 
+x="262" 
+y="1137" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_195"
+>我把今天的功课做不完。]</text>
+
+<path d="M150.6,53.6c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g6_195" />
+<path d="M150.6,55.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g7_195" />
+<path d="M150.6,312.5c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g6_195" />
+<path d="M150.6,314.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g7_195" />
+<path d="M150.6,826.9c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g6_195" />
+<path d="M150.6,829c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g7_195" />
+<path d="M150.6,962.1c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,0,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g6_195" />
+<path d="M150.6,964.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g7_195" />
+<path d="M0,1196.3l40.5,0L40.5,0L0,0L0,1196.3Z" class="g8_195" />
+<g clip-path="url(#c3_195)">
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g9_195" />
+</g>
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s11_195"
+>174 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1130)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s11_195"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 990)"
+dx="0,1" 
+class="s11_195"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 977)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s11_195"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_44v;
+	src: url("fonts/LibreFranklin-ExtraBold_44v.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_45b;
+	src: url("fonts/LibreFranklin-Regular_45b.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_45i;
+	src: url("fonts/STKaitiSC-Regular_45i.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_45h;
+	src: url("fonts/GentiumBasic-Italic_45h.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_3wm;
+	src: url("fonts/STKaitiSC-Bold_3wm.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_454;
+	src: url("fonts/LibreFranklin-SemiBold_454.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_44y;
+	src: url("fonts/STKaitiSC-Regular_44y.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_44h;
+	src: url("fonts/LibreFranklin-Bold_44h.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

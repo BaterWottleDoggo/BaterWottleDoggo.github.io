@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 268 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_268{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_268{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_268{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_268{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_268{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_415;
+fill: #7AAD35;
+}
+.s2_268{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_268{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s4_268{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_41f;
+fill: #3F3F40;
+}
+.s5_268{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_414;
+fill: #3F3F40;
+}
+.s6_268{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #749E3C;
+}
+.s7_268{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #749E3C;
+}
+.s8_268{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_414;
+fill: #86B345;
+}
+.s9_268{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s10_268{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_415;
+fill: #7AAD35;
+}
+.s11_268{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_41h;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,575.2l12.2,0" class="g1_268" />
+<text 
+x="212" 
+y="72" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_268"
+>Person B</text>
+
+<text 
+x="311" 
+y="73" 
+dx="0,0,0,0,0,0" 
+class="s2_268"
+>我觉得不行。</text>
+
+<text 
+x="313" 
+y="114" 
+dx="0,0,0,0,0,0" 
+class="s3_268"
+>我覺得不行。</text>
+
+<text 
+x="314" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s4_268"
+>I don’t think so.</text>
+
+<text 
+x="169" 
+y="206" 
+dx="0,0" 
+class="s5_268"
+>3 </text>
+
+<text 
+x="212" 
+y="207" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_268"
+>Person A</text>
+
+<text 
+x="311" 
+y="208" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_268"
+>听说张天明的表哥打球打得很棒。</text>
+
+<text 
+x="313" 
+y="249" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_268"
+>聽說張天明的表哥打球打得很棒。</text>
+
+<text 
+x="314" 
+y="283" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2" 
+class="s4_268"
+>I hear Zhang Tianming’s cousin is a great ballplayer.</text>
+
+<text 
+x="212" 
+y="328" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_268"
+>Person B </text>
+
+<text 
+x="311" 
+y="330" 
+dx="0,0,0,0,0,0,0" 
+class="s2_268"
+>我也这么听说。</text>
+
+<text 
+x="493" 
+y="330" 
+dx="0,0" 
+class="s6_268"
+>说到</text>
+
+<text 
+x="545" 
+y="330" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_268"
+>打球，我们这个周末去</text>
+
+<text 
+x="311" 
+y="363" 
+dx="0,0,0,0,0,0" 
+class="s2_268"
+>打篮球好吗？</text>
+
+<text 
+x="313" 
+y="404" 
+dx="0,0,0,0,0,0,0" 
+class="s3_268"
+>我也這麼聽說。</text>
+
+<text 
+x="495" 
+y="404" 
+dx="0,0" 
+class="s7_268"
+>說到</text>
+
+<text 
+x="546" 
+y="404" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_268"
+>打球，我們這個週末去</text>
+
+<text 
+x="313" 
+y="438" 
+dx="0,0,0,0,0,0" 
+class="s3_268"
+>打籃球好嗎？</text>
+
+<text 
+x="314" 
+y="471" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s4_268"
+>Indeed, he is a great ballplayer. Speaking of playing ball, should we go </text>
+
+<text 
+x="314" 
+y="491" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s4_268"
+>play basketball this weekend?</text>
+
+<text 
+x="119" 
+y="569" 
+dx="0,0" 
+class="s8_268"
+>H </text>
+
+<text 
+x="226" 
+y="574" 
+dx="0,0,0" 
+class="s9_268"
+>不是 </text>
+
+<text 
+x="287" 
+y="574" 
+dx="0" 
+class="s10_268"
+>X</text>
+
+<text 
+x="304" 
+y="574" 
+dx="0,0,0,0,0" 
+class="s9_268"
+>, 就是 </text>
+
+<text 
+x="379" 
+y="574" 
+dx="0" 
+class="s10_268"
+>Y</text>
+
+<text 
+x="403" 
+y="574" 
+dx="0,0,0,0,0,0,0.5,-1.1,0,0,0,-0.3,0,0,0,0,0,0,0.5,-1.1,0,0,-1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_268"
+>(if it’s not X, it’s Y; either X or Y)</text>
+
+<text 
+x="157" 
+y="645" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_268"
+>This pattern is often used to describe two predictable scenarios:</text>
+
+<text 
+x="171" 
+y="701" 
+dx="0,0" 
+class="s5_268"
+>1 </text>
+
+<text 
+x="239" 
+y="703" 
+dx="0" 
+class="s2_268"
+>她</text>
+
+<text 
+x="265" 
+y="703" 
+dx="0,0" 
+class="s6_268"
+>不是</text>
+
+<text 
+x="317" 
+y="703" 
+dx="0,0,0,0" 
+class="s2_268"
+>叫外卖，</text>
+
+<text 
+x="421" 
+y="703" 
+dx="0,0" 
+class="s6_268"
+>就是</text>
+
+<text 
+x="473" 
+y="703" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_268"
+>跟同学去饭馆儿吃饭。</text>
+
+<text 
+x="239" 
+y="744" 
+dx="0" 
+class="s3_268"
+>她</text>
+
+<text 
+x="265" 
+y="744" 
+dx="0,0" 
+class="s7_268"
+>不是</text>
+
+<text 
+x="317" 
+y="744" 
+dx="0,0,0,0" 
+class="s3_268"
+>叫外賣，</text>
+
+<text 
+x="421" 
+y="744" 
+dx="0,0" 
+class="s7_268"
+>就是</text>
+
+<text 
+x="473" 
+y="744" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_268"
+>跟同學去飯館兒吃飯。</text>
+
+<text 
+x="245" 
+y="778" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_268"
+>She either orders takeout or goes out to restaurants with her classmates.</text>
+
+<text 
+x="169" 
+y="836" 
+dx="0,0" 
+class="s5_268"
+>2 </text>
+
+<text 
+x="239" 
+y="839" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_268"
+>现在租房子很不容易，</text>
+
+<text 
+x="499" 
+y="839" 
+dx="0,0" 
+class="s6_268"
+>不是</text>
+
+<text 
+x="551" 
+y="839" 
+dx="0,0,0,0,0" 
+class="s2_268"
+>价钱太贵，</text>
+
+<text 
+x="681" 
+y="839" 
+dx="0,0" 
+class="s6_268"
+>就是</text>
+
+<text 
+x="733" 
+y="839" 
+dx="0,0,0" 
+class="s2_268"
+>房子不</text>
+
+<text 
+x="239" 
+y="872" 
+dx="0,0,0,0,0,0,0" 
+class="s2_268"
+>好，麻烦得很。</text>
+
+<text 
+x="239" 
+y="913" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_268"
+>現在租房子很不容易，</text>
+
+<text 
+x="499" 
+y="913" 
+dx="0,0" 
+class="s7_268"
+>不是</text>
+
+<text 
+x="551" 
+y="913" 
+dx="0,0,0,0,0" 
+class="s3_268"
+>價錢太貴，</text>
+
+<text 
+x="681" 
+y="913" 
+dx="0,0" 
+class="s7_268"
+>就是</text>
+
+<text 
+x="733" 
+y="913" 
+dx="0,0,0" 
+class="s3_268"
+>房子不</text>
+
+<text 
+x="239" 
+y="946" 
+dx="0,0,0,0,0,0,0" 
+class="s3_268"
+>好，麻煩得很。</text>
+
+<text 
+x="245" 
+y="980" 
+dx="0,0,0.4,-0.9,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,-0.3,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s4_268"
+>It’s really difficult to rent an apartment now. Either the rent is too expensive, or the </text>
+
+<text 
+x="245" 
+y="1000" 
+dx="0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s4_268"
+>rooms are bad. It’s a real hassle.</text>
+
+<text 
+x="169" 
+y="1059" 
+dx="0,0" 
+class="s5_268"
+>3 </text>
+
+<text 
+x="239" 
+y="1061" 
+dx="0,0,0,0,0,0,0" 
+class="s2_268"
+>昨天的晚会来的</text>
+
+<text 
+x="421" 
+y="1061" 
+dx="0,0" 
+class="s6_268"
+>不是</text>
+
+<text 
+x="473" 
+y="1061" 
+dx="0,0,0" 
+class="s2_268"
+>同学，</text>
+
+<text 
+x="551" 
+y="1061" 
+dx="0,0" 
+class="s6_268"
+>就是</text>
+
+<text 
+x="603" 
+y="1061" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_268"
+>朋友，他都认识。</text>
+
+<text 
+x="239" 
+y="1101" 
+dx="0,0,0,0,0,0,0" 
+class="s3_268"
+>昨天的晚會來的</text>
+
+<text 
+x="421" 
+y="1101" 
+dx="0,0" 
+class="s7_268"
+>不是</text>
+
+<text 
+x="473" 
+y="1101" 
+dx="0,0,0" 
+class="s3_268"
+>同學，</text>
+
+<text 
+x="551" 
+y="1101" 
+dx="0,0" 
+class="s7_268"
+>就是</text>
+
+<text 
+x="603" 
+y="1101" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_268"
+>朋友，他都認識。</text>
+
+<text 
+x="245" 
+y="1135" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,0.2,-1.1,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s4_268"
+>Those who came to last night’s party were either classmates or friends. He knew them all.</text>
+
+<path d="M164.4,183.2c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_268" />
+<path d="M164.4,185.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_268" />
+<path d="M146.6,538.7l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_268" />
+<path d="M148.7,590.9l674.3,0L823,540l-674.3,0l0,50.9Z" class="g3_268" />
+<path d="M164.4,678.2c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_268" />
+<path d="M164.4,680.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_268" />
+<path d="M164.4,813.5c-0.1,0,-7.7,0,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_268" />
+<path d="M164.4,815.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_268" />
+<path d="M164.4,1035.7c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_268" />
+<path d="M164.4,1037.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_268" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g4_268" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 802)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s11_268"
+>Lesson 8 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 868)"
+dx="0,1" 
+class="s11_268"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 882)"
+dx="0,0.1,1,1,1,1,1,1,1,1,1,1,1,-0.3,1,1,1,1" 
+class="s11_268"
+>Working Part-Time </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1009)"
+dx="0,1" 
+class="s11_268"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1023)"
+dx="0,0.1,1,0.8,1,1,1,1,1,1,1,0.9,1,1,1,1" 
+class="s11_268"
+>Words &amp; Phrases </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1149)"
+dx="0,1,1,0" 
+class="s11_268"
+>245 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_415;
+	src: url("fonts/LibreFranklin-Bold_415.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_41h;
+	src: url("fonts/LibreFranklin-SemiBold_41h.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_414;
+	src: url("fonts/LibreFranklin-ExtraBold_414.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_41f;
+	src: url("fonts/LibreFranklin-Regular_41f.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

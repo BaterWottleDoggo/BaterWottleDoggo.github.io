@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 193 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_193"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+<clipPath id="c1_193"><path d="M706.1,73.9l0,-14.5l90.9,0l0,14.5Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_193{
+fill: #FFFFFF;
+}
+.g2_193{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_193{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_193{
+fill: none;
+stroke: #3F3F40;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_193{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_193{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_193{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_193{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_193{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_30a;
+fill: #872B91;
+}
+.s2_193{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_306;
+fill: #872B91;
+}
+.s3_193{
+font-size: 15.28px;
+font-family: ProximaNova-Light_30o;
+fill: #3F3F40;
+}
+.s4_193{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_30a;
+fill: #8F4198;
+}
+.s5_193{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s6_193{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s7_193{
+font-size: 10.31px;
+font-family: ProximaNova-Regular_30p;
+fill: #872B91;
+}
+.s8_193{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_30m;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_193)">
+<path d="M2279.9,-261.9c81,-492.1,-224.4,-952.1,-682.3,-1027.5C1139.8,-1364.8,703,-1027,622,-534.9C540.9,-42.8,846.4,417.2,1304.2,492.6c457.9,75.3,894.7,-262.5,975.7,-754.5Z" class="g1_193" />
+</g>
+<image preserveAspectRatio="none" x="846" y="0" width="76" height="316" xlink:href="193/img/1.png" />
+<g clip-path="url(#c0_193)">
+<path d="M2279.9,-261.9c81,-492.1,-224.4,-952.1,-682.3,-1027.5C1139.8,-1364.8,703,-1027,622,-534.9C540.9,-42.8,846.4,417.2,1304.2,492.6c457.9,75.3,894.7,-262.5,975.7,-754.5Z" class="g2_193" />
+</g>
+<path d="M551.6,407.8l369.7,0L921.3,0L551.6,0l0,407.8Z" class="g1_193" />
+<path d="M105.3,73.2l13,0" class="g3_193" />
+<path d="M325.4,390.6l88.2,0" class="g4_193" />
+<path d="M307.8,424l55.2,0" class="g4_193" />
+<path d="M325.4,479.2l88.2,0" class="g4_193" />
+<path d="M313.4,512.6l55.3,0" class="g4_193" />
+<path d="M517.9,567.8l88.2,0" class="g4_193" />
+<path d="M493.4,601.2l55.2,0" class="g4_193" />
+<path d="M453.8,656.4l88.2,0" class="g4_193" />
+<path d="M427.3,689.8l55.3,0" class="g4_193" />
+<path d="M325.4,745l88.2,0" class="g4_193" />
+<path d="M300.6,778.4l55.3,0" class="g4_193" />
+<path d="M293.3,833.6l88.3,0" class="g4_193" />
+<path d="M413.6,833.6l88.3,0" class="g4_193" />
+<path d="M282.1,867l55.2,0" class="g4_193" />
+<path d="M366.8,867l55.3,0" class="g4_193" />
+<path d="M485.8,922.2l88.3,0" class="g4_193" />
+<path d="M408.4,955.6l55.2,0" class="g4_193" />
+<text 
+x="105" 
+y="69" 
+dx="0,0" 
+class="s1_193"
+>K </text>
+
+<text 
+x="401" 
+y="74" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_193"
+>Call me back</text>
+
+<text 
+x="143" 
+y="136" 
+dx="0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_193"
+>You are calling your Chinese friend to arrange a date. In pairs, role-play the conversation between </text>
+
+<text 
+x="143" 
+y="163" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s3_193"
+>the caller and the parent who answers the phone.</text>
+
+<text 
+x="143" 
+y="209" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Caller</text>
+
+<text 
+x="261" 
+y="209" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_193"
+>您好！请问李音在吗？</text>
+
+<text 
+x="261" 
+y="245" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>Nín hǎo! Qǐng wèn Lǐ Yīn zài ma?</text>
+
+<text 
+x="143" 
+y="297" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Parent</text>
+
+<text 
+x="261" 
+y="297" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_193"
+>不在。你是哪位？</text>
+
+<text 
+x="261" 
+y="334" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>Bú zài. Nǐ shì nǎ wèi?</text>
+
+<text 
+x="143" 
+y="386" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Caller</text>
+
+<text 
+x="261" 
+y="386" 
+dx="0,0" 
+class="s5_193"
+>我是</text>
+
+<text 
+x="413" 
+y="386" 
+dx="0" 
+class="s5_193"
+>。</text>
+
+<text 
+x="261" 
+y="422" 
+dx="0,0,0,0,0,0,0" 
+class="s6_193"
+>Wǒ shì </text>
+
+<text 
+x="363" 
+y="422" 
+dx="0" 
+class="s6_193"
+>.</text>
+
+<text 
+x="143" 
+y="474" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Parent</text>
+
+<text 
+x="261" 
+y="474" 
+dx="0,0" 
+class="s5_193"
+>你找</text>
+
+<text 
+x="413" 
+y="474" 
+dx="0,0,0,0,0" 
+class="s5_193"
+>有事儿吗？</text>
+
+<text 
+x="261" 
+y="511" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_193"
+>Nǐ zhǎo </text>
+
+<text 
+x="368" 
+y="511" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>yǒu shìr ma?</text>
+
+<text 
+x="143" 
+y="563" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Caller</text>
+
+<text 
+x="261" 
+y="563" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_193"
+>我明天晚上想请她</text>
+
+<text 
+x="606" 
+y="563" 
+dx="0" 
+class="s5_193"
+>。</text>
+
+<text 
+x="261" 
+y="599" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>Wǒ míngtiān wǎnshang xiǎng qǐng tā </text>
+
+<text 
+x="548" 
+y="599" 
+dx="0" 
+class="s6_193"
+>.</text>
+
+<text 
+x="143" 
+y="652" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Parent</text>
+
+<text 
+x="261" 
+y="652" 
+dx="0,0,0,0,0,0" 
+class="s5_193"
+>她明天晚上要</text>
+
+<text 
+x="541" 
+y="652" 
+dx="0,0,0,0,0" 
+class="s5_193"
+>，没空儿。</text>
+
+<text 
+x="261" 
+y="688" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>Tā míngtiān wǎnshang yào </text>
+
+<text 
+x="482" 
+y="688" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>, méi kòngr.</text>
+
+<text 
+x="143" 
+y="740" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Caller</text>
+
+<text 
+x="261" 
+y="740" 
+dx="0,0" 
+class="s5_193"
+>那她</text>
+
+<text 
+x="413" 
+y="740" 
+dx="0,0,0,0,0" 
+class="s5_193"
+>有时间吗？</text>
+
+<text 
+x="261" 
+y="777" 
+dx="0,0,0,0,0,0" 
+class="s6_193"
+>Nà tā </text>
+
+<text 
+x="355" 
+y="777" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>yǒu shíjiān ma?</text>
+
+<text 
+x="143" 
+y="829" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Parent</text>
+
+<text 
+x="261" 
+y="829" 
+dx="0" 
+class="s5_193"
+>她</text>
+
+<text 
+x="381" 
+y="829" 
+dx="0" 
+class="s5_193"
+>要</text>
+
+<text 
+x="501" 
+y="829" 
+dx="0,0,0,0,0" 
+class="s5_193"
+>，没时间。</text>
+
+<text 
+x="261" 
+y="865" 
+dx="0,0,0" 
+class="s6_193"
+>Tā </text>
+
+<text 
+x="341" 
+y="865" 
+dx="0,0,0,0" 
+class="s6_193"
+>yào </text>
+
+<text 
+x="422" 
+y="865" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>, méi shíjiān.</text>
+
+<text 
+x="143" 
+y="917" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Caller</text>
+
+<text 
+x="261" 
+y="917" 
+dx="0,0,0,0,0,0,0" 
+class="s5_193"
+>那请她回来以后</text>
+
+<text 
+x="574" 
+y="917" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_193"
+>，我等她的电话。</text>
+
+<text 
+x="261" 
+y="954" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>Nà qǐng tā huí lai yǐhòu </text>
+
+<text 
+x="463" 
+y="954" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>, wǒ děng tā de diànhuà.</text>
+
+<text 
+x="143" 
+y="1006" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Parent</text>
+
+<text 
+x="261" 
+y="1006" 
+dx="0,0,0,0,0" 
+class="s5_193"
+>好，再见。</text>
+
+<text 
+x="261" 
+y="1042" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>Hǎo, zàijiàn.</text>
+
+<text 
+x="143" 
+y="1102" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s4_193"
+>Caller</text>
+
+<text 
+x="261" 
+y="1102" 
+dx="0,0,0,0,0,0,0" 
+class="s5_193"
+>谢谢您！再见。</text>
+
+<text 
+x="261" 
+y="1138" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_193"
+>Xièxie nín! Zàijiàn.</text>
+
+<path d="M132.9,39l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g5_193" />
+<path d="M134.9,91.2l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g6_193" />
+<text 
+x="711" 
+y="70" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s7_193"
+>INTERPERSONAL</text>
+
+<g clip-path="url(#c1_193)">
+<path d="M706.1,73.9l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g7_193" />
+</g>
+<g clip-path="url(#c0_193)">
+<path d="M-31.2,1209.2l67.1,0l0,-1222.1l-67.1,0l0,1222.1Z" class="g8_193" />
+</g>
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3,0.3" 
+class="s8_193"
+>172 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1145)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s8_193"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1023)"
+dx="0,0.3" 
+class="s8_193"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1011)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s8_193"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Light_30o;
+	src: url("fonts/ProximaNova-Light_30o.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_30p;
+	src: url("fonts/ProximaNova-Regular_30p.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_30m;
+	src: url("fonts/ProximaNova-Semibold_30m.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_30a;
+	src: url("fonts/ProximaNova-Extrabld_30a.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_306;
+	src: url("fonts/ProximaNova-Bold_306.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

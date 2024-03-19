@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 160 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_160"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_160{
+fill: none;
+stroke: #DC252E;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_160{
+fill: none;
+stroke: #DC252E;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_160{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_160{
+fill: none;
+stroke: #DC252E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_160{
+fill: none;
+stroke: #AAA9A9;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_160{
+fill: none;
+stroke: #007598;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_160{
+fill: none;
+stroke: #DC252E;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_160{
+fill: #D1D2D4;
+}
+.g9_160{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 3.0555556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_160{
+fill: #DC262E;
+}
+.g11_160{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_160{
+font-size: 50.42px;
+font-family: MuseoSlab-300_2-c;
+fill: #3F3F40;
+}
+.s2_160{
+font-size: 35.14px;
+font-family: ProximaNova-Extrabld_2-a;
+fill: #DC252E;
+}
+.s3_160{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2-b;
+fill: #3F3F40;
+}
+.s4_160{
+font-size: 33.61px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s5_160{
+font-size: 33.61px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s6_160{
+font-size: 14.25px;
+font-family: ProximaNova-Extrabld_2-a;
+fill: #007598;
+}
+.s7_160{
+font-size: 33.61px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #DC252E;
+}
+.s8_160{
+font-size: 15.14px;
+font-family: ProximaNova-Extrabld_2-a;
+fill: #DC252E;
+}
+.s9_160{
+font-size: 18.33px;
+font-family: ProximaNova-Semibold_2-g;
+fill: #DC252E;
+}
+.s10_160{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s11_160{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #007598;
+}
+.s12_160{
+font-size: 10.69px;
+font-family: ProximaNova-Bold_2-2;
+fill: #007598;
+}
+.s13_160{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #DC252E;
+}
+.s14_160{
+font-size: 11.58px;
+font-family: ProximaNova-Bold_2-2;
+fill: #DC252E;
+}
+.s15_160{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2-2;
+fill: #DC252E;
+}
+.s16_160{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #DC252E;
+}
+.s17_160{
+font-size: 16.42px;
+font-family: Marion-Italic_2si;
+fill: #DC252E;
+}
+.s18_160{
+font-size: 13.37px;
+font-family: ProximaNova-Light_2-b;
+fill: #231F20;
+}
+.s19_160{
+font-size: 19.86px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s20_160{
+font-size: 16.42px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s21_160{
+font-size: 13.37px;
+font-family: ProximaNova-Bold_2-2;
+fill: #231F20;
+}
+.s22_160{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2-g;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,197.5l194.5,0" class="g1_160" />
+<path d="M0,200l194.5,0" class="g2_160" />
+<path d="M295.2,354l8.9,0" class="g3_160" />
+<path d="M295.2,463.5l8.5,0" class="g4_160" />
+<path d="M507.4,464l8.9,0" class="g3_160" />
+<path d="M397,629l9,0" class="g3_160" />
+<path d="M742.7,695.8l151,0" class="g5_160" />
+<path d="M406.6,749.3l6.6,0" class="g6_160" />
+<path d="M524.2,782.4l6.4,0" class="g7_160" />
+<path d="M656.9,782.9l6.6,0" class="g6_160" />
+<path d="M401.7,853.2l6.6,0" class="g6_160" />
+<path d="M745.6,916.4l148.2,0" class="g5_160" />
+<path d="M242.1,941.6l9.2,0" class="g4_160" />
+<text 
+x="260" 
+y="84" 
+dx="0,-1.5,-0.5,-0.5,-0.5,-0.5,-1.9,-0.5,-0.7,-0.5,-0.5,-0.5,-1.1,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s1_160"
+>At a Friend’s Place</text>
+
+<text 
+x="41" 
+y="187" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s2_160"
+>Narrative</text>
+
+<text 
+x="261" 
+y="205" 
+dx="0,-0.6,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_160"
+>Wang Peng and Li You visited Gao Wenzhong and Gao Xiayon.</text>
+
+<text 
+x="261" 
+y="267" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_160"
+>昨天晚上，王朋和李友去高文中</text>
+
+<text 
+x="261" 
+y="322" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_160"
+>家玩儿。在高文中家，他们认识</text>
+
+<text 
+x="261" 
+y="377" 
+dx="0" 
+class="s5_160"
+>了</text>
+
+<text 
+x="295" 
+y="350" 
+dx="0" 
+class="s6_160"
+>5</text>
+
+<text 
+x="312" 
+y="377" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_160"
+>高文中的姐姐。她叫高小音，</text>
+
+<text 
+x="261" 
+y="432" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_160"
+>在学校的图书馆工作。她请王朋</text>
+
+<text 
+x="261" 
+y="487" 
+dx="0" 
+class="s7_160"
+>喝</text>
+
+<text 
+x="295" 
+y="460" 
+dx="0" 
+class="s8_160"
+>a</text>
+
+<text 
+x="303" 
+y="487" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s4_160"
+>茶，王朋喝</text>
+
+<text 
+x="473" 
+y="487" 
+dx="0" 
+class="s5_160"
+>了</text>
+
+<text 
+x="507" 
+y="460" 
+dx="0" 
+class="s6_160"
+>5</text>
+
+<text 
+x="516" 
+y="487" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_160"
+>两杯。李友不喝</text>
+
+<text 
+x="261" 
+y="542" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_160"
+>茶，只喝了一杯水。他们一起聊</text>
+
+<text 
+x="261" 
+y="597" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_160"
+>天儿、看电视。王朋和李友晚上</text>
+
+<text 
+x="261" 
+y="652" 
+dx="0,0.3,0.3" 
+class="s4_160"
+>十二点</text>
+
+<text 
+x="363" 
+y="652" 
+dx="0" 
+class="s5_160"
+>才</text>
+
+<text 
+x="397" 
+y="625" 
+dx="0" 
+class="s6_160"
+>6</text>
+
+<text 
+x="405" 
+y="652" 
+dx="0,0.3,0.3" 
+class="s4_160"
+>回家。</text>
+
+<text 
+x="743" 
+y="680" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s9_160"
+>Pinyin Narrative</text>
+
+<text 
+x="261" 
+y="728" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.7,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0" 
+class="s10_160"
+>Zuótiān wǎnshang, Wáng Péng hé Lǐ Yǒu qù Gāo Wénzhōng jiā wánr. Zài Gāo Wén-</text>
+
+<text 
+x="261" 
+y="762" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_160"
+>zhōng jiā, tāmen rènshi </text>
+
+<text 
+x="397" 
+y="762" 
+dx="0,0" 
+class="s11_160"
+>le</text>
+
+<text 
+x="406" 
+y="747" 
+dx="0" 
+class="s12_160"
+>5</text>
+
+<text 
+x="417" 
+y="762" 
+dx="0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_160"
+>Gāo Wénzhōng de jiějie. Tā jiào Gāo Xiǎoyīn, zài xuéxiào </text>
+
+<text 
+x="261" 
+y="795" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.7,0,0,0,0,-1.2,0,0,0" 
+class="s10_160"
+>de túshūguǎn gōngzuò. Tā qǐng Wáng Péng </text>
+
+<text 
+x="511" 
+y="795" 
+dx="0,0" 
+class="s13_160"
+>hē</text>
+
+<text 
+x="524" 
+y="780" 
+dx="0" 
+class="s14_160"
+>a</text>
+
+<text 
+x="534" 
+y="795" 
+dx="0,0,0,0,0,0,-1.7,0,0,0,0,-1.2,0,0,0,0,0,0" 
+class="s10_160"
+>chá, Wáng Péng hē </text>
+
+<text 
+x="647" 
+y="795" 
+dx="0,0" 
+class="s11_160"
+>le</text>
+
+<text 
+x="656" 
+y="780" 
+dx="0" 
+class="s12_160"
+>5</text>
+
+<text 
+x="663" 
+y="795" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_160"
+>liǎng bēi. Lǐ Yǒu </text>
+
+<text 
+x="261" 
+y="829" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.7,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_160"
+>bù hē chá, zhǐ hē le yì bēi shuǐ. Tāmen yìqǐ liáo tiānr, kàn diànshì. Wáng Péng hé Lǐ Yǒu </text>
+
+<text 
+x="261" 
+y="866" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_160"
+>wǎnshang shí’èr diǎn </text>
+
+<text 
+x="385" 
+y="866" 
+dx="0,0,0" 
+class="s11_160"
+>cái</text>
+
+<text 
+x="401" 
+y="850" 
+dx="0" 
+class="s12_160"
+>6</text>
+
+<text 
+x="412" 
+y="866" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_160"
+>huí jiā.</text>
+
+<text 
+x="746" 
+y="901" 
+dx="0,-0.6,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s9_160"
+>Language Note</text>
+
+<text 
+x="242" 
+y="937" 
+dx="0" 
+class="s15_160"
+>a</text>
+
+<text 
+x="261" 
+y="941" 
+dx="0" 
+class="s16_160"
+>喝</text>
+
+<text 
+x="291" 
+y="941" 
+dx="0,0,0,0,0" 
+class="s17_160"
+>(hē) </text>
+
+<text 
+x="262" 
+y="967" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_160"
+>Unlike its English counterpart, </text>
+
+<text 
+x="436" 
+y="967" 
+dx="0" 
+class="s19_160"
+>喝</text>
+
+<text 
+x="459" 
+y="967" 
+dx="0,0,0,0" 
+class="s20_160"
+>(hē)</text>
+
+<text 
+x="484" 
+y="967" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s18_160"
+>always functions as a transitive verb, </text>
+
+<text 
+x="261" 
+y="993" 
+dx="0,0,-0.1,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s18_160"
+>i.e., unless it's clear from the context, the beverage has to be specified. Therefore,</text>
+
+<text 
+x="261" 
+y="1019" 
+dx="0,0,0,0,0" 
+class="s19_160"
+>他常常喝 </text>
+
+<text 
+x="345" 
+y="1019" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s20_160"
+>(Tā chángcháng hē) </text>
+
+<text 
+x="459" 
+y="1019" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_160"
+>is not a complete sentence unless the beverage </text>
+
+<text 
+x="261" 
+y="1045" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_160"
+>is understood; e.g., when it occurs as an affirmative answer to a question:</text>
+
+<text 
+x="262" 
+y="1085" 
+dx="0,0" 
+class="s21_160"
+>Q:</text>
+
+<text 
+x="283" 
+y="1085" 
+dx="0,0,0,0,0,0,0,0" 
+class="s19_160"
+>他常常喝咖啡吗？</text>
+
+<text 
+x="481" 
+y="1085" 
+dx="0,0" 
+class="s21_160"
+>A:</text>
+
+<text 
+x="500" 
+y="1085" 
+dx="0,0,0,0,0" 
+class="s19_160"
+>他常常喝。</text>
+
+<text 
+x="287" 
+y="1115" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s20_160"
+>Tā chángcháng hē kāfēi ma?</text>
+
+<text 
+x="501" 
+y="1115" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s20_160"
+>Tā chángcháng hē.</text>
+
+<text 
+x="286" 
+y="1143" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s18_160"
+>Does he often drink coffee? </text>
+
+<text 
+x="505" 
+y="1143" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_160"
+>He often does.</text>
+
+<image preserveAspectRatio="none" x="29" y="223" width="138" height="135" xlink:href="160/img/1.png" />
+<image preserveAspectRatio="none" x="166" y="223" width="46" height="225" xlink:href="160/img/2.png" />
+<image preserveAspectRatio="none" x="29" y="358" width="138" height="90" xlink:href="160/img/3.png" />
+<path d="M0.2,34.5l893.6,0l0,-11.4L0.2,23.1l0,11.4Z" class="g8_160" />
+<path d="M0.8,105.3l893,0" class="g9_160" />
+<image preserveAspectRatio="none" x="29" y="452" width="138" height="92" xlink:href="160/img/4.png" />
+<image preserveAspectRatio="none" x="166" y="452" width="47" height="183" xlink:href="160/img/5.png" />
+<image preserveAspectRatio="none" x="29" y="543" width="138" height="92" xlink:href="160/img/6.png" />
+<path d="M885.3,1196.3l36,0L921.3,0l-36,0l0,1196.3Z" class="g10_160" />
+<g clip-path="url(#c0_160)">
+<path d="M885.3,1209.2l55,0l0,-1222.1l-55,0l0,1222.1Z" class="g11_160" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 894, 906)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s22_160"
+>Lesson 5 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 965)"
+dx="0,0.3" 
+class="s22_160"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 977)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s22_160"
+>Visiting Friends </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1072)"
+dx="0,0.3" 
+class="s22_160"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1085)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s22_160"
+>Narrative </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1154)"
+dx="0,0.3,0.3" 
+class="s22_160"
+>139</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-300_2-c;
+	src: url("fonts/MuseoSlab-300_2-c.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2-g;
+	src: url("fonts/ProximaNova-Semibold_2-g.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2-2;
+	src: url("fonts/ProximaNova-Bold_2-2.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2-b;
+	src: url("fonts/ProximaNova-Light_2-b.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2-a;
+	src: url("fonts/ProximaNova-Extrabld_2-a.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

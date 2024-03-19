@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 74 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_74{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_74{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_74{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_74{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_74{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_cmk;
+fill: #86B345;
+}
+.s2_74{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #3F3F40;
+}
+.s3_74{
+font-size: 27.50px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #3F3F40;
+}
+.s4_74{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_cmd;
+fill: #7AAD35;
+}
+.s5_74{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cmk;
+fill: #3F3F40;
+}
+.s6_74{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s7_74{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #749E3C;
+}
+.s8_74{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s9_74{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #749E3C;
+}
+.s10_74{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cmm;
+fill: #3F3F40;
+}
+.s11_74{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cl_;
+fill: #231F20;
+}
+.s12_74{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_cob;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,90.6l12.2,0" class="g1_74" />
+<text 
+x="119" 
+y="84" 
+dx="0,0" 
+class="s1_74"
+>D </text>
+
+<text 
+x="170" 
+y="89" 
+dx="0,0,0,0" 
+class="s2_74"
+>尽可能/</text>
+
+<text 
+x="267" 
+y="89" 
+dx="0,0,0" 
+class="s3_74"
+>儘可能</text>
+
+<text 
+x="356" 
+y="89" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-1.1,0,0,0,0,0,0,0,0" 
+class="s4_74"
+>(as much as possible, to do one’s utmost)</text>
+
+<text 
+x="171" 
+y="175" 
+dx="0,0" 
+class="s5_74"
+>1 </text>
+
+<text 
+x="239" 
+y="178" 
+dx="0,0,0,0,0,0,0" 
+class="s6_74"
+>别着急，我们会</text>
+
+<text 
+x="421" 
+y="178" 
+dx="0,0,0" 
+class="s7_74"
+>尽可能</text>
+
+<text 
+x="499" 
+y="178" 
+dx="0,0,0,0,0,0,0" 
+class="s6_74"
+>帮你找到钥匙。</text>
+
+<text 
+x="239" 
+y="218" 
+dx="0,0,0,0,0,0,0" 
+class="s8_74"
+>別著急，我們會</text>
+
+<text 
+x="421" 
+y="218" 
+dx="0,0,0" 
+class="s9_74"
+>儘可能</text>
+
+<text 
+x="499" 
+y="218" 
+dx="0,0,0,0,0,0,0" 
+class="s8_74"
+>幫你找到鑰匙。</text>
+
+<text 
+x="245" 
+y="252" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s10_74"
+>Don’t stress. We’ll do our best to help you find your keys.</text>
+
+<text 
+x="169" 
+y="310" 
+dx="0,0" 
+class="s5_74"
+>2 </text>
+
+<text 
+x="239" 
+y="313" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_74"
+>有的人认为旅行的时候要</text>
+
+<text 
+x="525" 
+y="313" 
+dx="0,0,0" 
+class="s7_74"
+>尽可能</text>
+
+<text 
+x="603" 
+y="313" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_74"
+>少带东西，可是有的</text>
+
+<text 
+x="239" 
+y="346" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_74"
+>人喜欢带很多东西。</text>
+
+<text 
+x="239" 
+y="387" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_74"
+>有的人認為旅行的時候要</text>
+
+<text 
+x="525" 
+y="387" 
+dx="0,0,0" 
+class="s9_74"
+>儘可能</text>
+
+<text 
+x="603" 
+y="387" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s8_74"
+>少帶東西，可是有的</text>
+
+<text 
+x="239" 
+y="420" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s8_74"
+>人喜歡帶很多東西。</text>
+
+<text 
+x="245" 
+y="454" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_74"
+>Some people think that when you travel you should pack as lightly as possible. </text>
+
+<text 
+x="245" 
+y="474" 
+dx="0,0,0,0,0,-0.4,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.6" 
+class="s10_74"
+>However, some people like to pack a bunch of stuff.</text>
+
+<text 
+x="169" 
+y="533" 
+dx="0,0" 
+class="s5_74"
+>3 </text>
+
+<text 
+x="239" 
+y="535" 
+dx="0,0,0" 
+class="s6_74"
+>你明天</text>
+
+<text 
+x="317" 
+y="535" 
+dx="0,0,0" 
+class="s7_74"
+>尽可能</text>
+
+<text 
+x="395" 
+y="535" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_74"
+>早点来学校，别又迟到。要不然老师会</text>
+
+<text 
+x="239" 
+y="569" 
+dx="0,0,0" 
+class="s6_74"
+>生气。</text>
+
+<text 
+x="239" 
+y="609" 
+dx="0,0,0" 
+class="s8_74"
+>你明天</text>
+
+<text 
+x="317" 
+y="609" 
+dx="0,0,0" 
+class="s9_74"
+>儘可能</text>
+
+<text 
+x="395" 
+y="609" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_74"
+>早點來學校，別又遲到。要不然老師會</text>
+
+<text 
+x="239" 
+y="643" 
+dx="0,0,0" 
+class="s8_74"
+>生氣。</text>
+
+<text 
+x="245" 
+y="676" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s10_74"
+>Come to school tomorrow as early as you can. Don’t be late again, or the teacher </text>
+
+<text 
+x="245" 
+y="696" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-1" 
+class="s10_74"
+>will be angry.</text>
+
+<path d="M146.6,54.1l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_74" />
+<path d="M148.7,106.3l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g3_74" />
+<path d="M164.4,152.4c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_74" />
+<path d="M164.4,154.4c-0.6,0,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_74" />
+<path d="M164.4,287.6c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.6c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.6c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_74" />
+<path d="M164.4,289.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.6c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.6c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_74" />
+<path d="M164.4,509.9c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_74" />
+<path d="M164.4,511.9c-0.6,0,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_74" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g4_74" />
+<text 
+x="884" 
+y="1166" 
+dx="0,1.2,0" 
+class="s11_74"
+>51 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 731)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s12_74"
+>Lesson 12 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 820)"
+dx="0,1.2" 
+class="s12_74"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 837)"
+dx="0,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s12_74"
+>Changes in China </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 981)"
+dx="0,1.2" 
+class="s12_74"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 999)"
+dx="0,0.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s12_74"
+>Words &amp; Phrases</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cmm;
+	src: url("fonts/LibreFranklin-Regular_cmm.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cob;
+	src: url("fonts/LibreFranklin-SemiBold_cob.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_cmd;
+	src: url("fonts/LibreFranklin-Bold_cmd.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cmk;
+	src: url("fonts/LibreFranklin-ExtraBold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cl_;
+	src: url("fonts/LibreFranklin-Medium_cl_.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 283 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_283{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_283{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_283{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_283{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_283{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_283{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_283{
+font-size: 35.14px;
+font-family: ProximaNova-Extrabld_35m;
+fill: #007598;
+}
+.s2_283{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_35m;
+fill: #007D9F;
+}
+.s3_283{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_35e;
+fill: #007D9F;
+}
+.s4_283{
+font-size: 15.28px;
+font-family: ProximaNova-Light_35x;
+fill: #3F3F40;
+}
+.s5_283{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_35m;
+fill: #3F3F40;
+}
+.s6_283{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_35m;
+fill: #007598;
+}
+.s7_283{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s8_283{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s9_283{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s10_283{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s11_283{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_35e;
+fill: #939598;
+}
+.s12_283{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_35r;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,72.5l195,0" class="g1_283" />
+<path d="M0,74.9l195,0" class="g2_283" />
+<path d="M105.3,146.1l13,0" class="g3_283" />
+<text 
+x="41" 
+y="62" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s1_283"
+>Grammar</text>
+
+<text 
+x="105" 
+y="142" 
+dx="0,0" 
+class="s2_283"
+>1 </text>
+
+<text 
+x="328" 
+y="147" 
+dx="0,-2.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_283"
+>Topic-comment sentences</text>
+
+<text 
+x="143" 
+y="209" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_283"
+>In a topic-comment sentence, the previously established noun, noun phrase, or object of the verb </text>
+
+<text 
+x="143" 
+y="236" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_283"
+>becomes the topic, and moves to the beginning of the sentence. The rest of the sentence serves </text>
+
+<text 
+x="143" 
+y="264" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_283"
+>as the comment.</text>
+
+<text 
+x="155" 
+y="333" 
+dx="0,0" 
+class="s5_283"
+>A </text>
+
+<text 
+x="198" 
+y="335" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_283"
+>Student A</text>
+
+<text 
+x="299" 
+y="335" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_283"
+>我昨天买了一枝笔。</text>
+
+<text 
+x="299" 
+y="372" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_283"
+>Wǒ zuótiān mǎi le yì zhī bǐ.</text>
+
+<text 
+x="299" 
+y="405" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9" 
+class="s4_283"
+>I bought a pen yesterday.</text>
+
+<text 
+x="198" 
+y="471" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_283"
+>Student B</text>
+
+<text 
+x="299" 
+y="471" 
+dx="0,0,0" 
+class="s9_283"
+>那枝笔</text>
+
+<text 
+x="395" 
+y="471" 
+dx="0,0,0,0,0" 
+class="s7_283"
+>你用了吗？</text>
+
+<text 
+x="299" 
+y="508" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_283"
+>Nà zhī bǐ </text>
+
+<text 
+x="361" 
+y="508" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_283"
+>nǐ yòng le ma?</text>
+
+<text 
+x="299" 
+y="540" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_283"
+>Have you used it?</text>
+
+<text 
+x="155" 
+y="609" 
+dx="0,0" 
+class="s5_283"
+>B </text>
+
+<text 
+x="198" 
+y="610" 
+dx="0,0,0" 
+class="s11_283"
+>Q: </text>
+
+<text 
+x="224" 
+y="611" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_283"
+>你知道我的衬衫在哪儿吗？</text>
+
+<text 
+x="230" 
+y="649" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_283"
+>Nǐ zhīdao wǒ de chènshān zài nǎr ma?</text>
+
+<text 
+x="230" 
+y="681" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s4_283"
+>Do you know where my shirt is?</text>
+
+<text 
+x="198" 
+y="751" 
+dx="0,0" 
+class="s11_283"
+>A:</text>
+
+<text 
+x="224" 
+y="752" 
+dx="0,0,0,0" 
+class="s9_283"
+>你的衬衫</text>
+
+<text 
+x="352" 
+y="752" 
+dx="0,0,0,0,0,0,0" 
+class="s7_283"
+>我给你妈妈了。</text>
+
+<text 
+x="230" 
+y="789" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_283"
+>Nǐ de chènshān </text>
+
+<text 
+x="330" 
+y="789" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_283"
+>wǒ gěi nǐ māma le.</text>
+
+<text 
+x="230" 
+y="822" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3" 
+class="s4_283"
+>I gave your shirt to your mother.</text>
+
+<text 
+x="155" 
+y="891" 
+dx="0,0" 
+class="s5_283"
+>C </text>
+
+<text 
+x="198" 
+y="892" 
+dx="0,0,0" 
+class="s11_283"
+>Q: </text>
+
+<text 
+x="224" 
+y="893" 
+dx="0,0,0,0,0,0" 
+class="s7_283"
+>你有朋友吗？</text>
+
+<text 
+x="230" 
+y="930" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_283"
+>Nǐ yǒu péngyou ma?</text>
+
+<text 
+x="230" 
+y="962" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s4_283"
+>Do you have any friends?</text>
+
+<text 
+x="198" 
+y="1033" 
+dx="0,0" 
+class="s11_283"
+>A:</text>
+
+<text 
+x="224" 
+y="1034" 
+dx="0,0" 
+class="s9_283"
+>朋友</text>
+
+<text 
+x="288" 
+y="1034" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_283"
+>我有很多，可是都不在这儿。</text>
+
+<text 
+x="230" 
+y="1071" 
+dx="0,-1.1,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_283"
+>Péngyou </text>
+
+<text 
+x="286" 
+y="1071" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_283"
+>wǒ yǒu hěn duō, kěshì dōu bú zài zhèr.</text>
+
+<text 
+x="230" 
+y="1103" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s4_283"
+>I have many friends, but none of them are here.</text>
+
+<path d="M132.9,111.9l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g4_283" />
+<path d="M134.9,164.1l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g5_283" />
+<path d="M149.1,310.3c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_283" />
+<path d="M149.1,312.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_283" />
+<path d="M149.1,586.3c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.7,-7.6,-7.7l-22.4,0Z" class="g4_283" />
+<path d="M149.1,588.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,-0.1,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_283" />
+<path d="M149.1,868.2c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_283" />
+<path d="M149.1,870.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_283" />
+<path d="M-22.1,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g6_283" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3,0.3" 
+class="s12_283"
+>262 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1135)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s12_283"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1013)"
+dx="0,0.3" 
+class="s12_283"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1001)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s12_283"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_35e;
+	src: url("fonts/ProximaNova-Bold_35e.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_35r;
+	src: url("fonts/ProximaNova-Semibold_35r.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_35x;
+	src: url("fonts/ProximaNova-Light_35x.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_35m;
+	src: url("fonts/ProximaNova-Extrabld_35m.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

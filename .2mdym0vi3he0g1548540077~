@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 196 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_196"><path d="M0,1196.3L0,446.5l921.3,0l0,749.8Z" /></clipPath>
+<clipPath id="c1_196"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_196{
+fill: #FED205;
+}
+.g2_196{
+fill: #927300;
+}
+.g3_196{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.9815279;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_196{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_196{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_44h;
+fill: #007598;
+}
+.s2_196{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_45b;
+fill: #3F3F40;
+}
+.s3_196{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_44h;
+fill: #939598;
+}
+.s4_196{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #3F3F40;
+}
+.s5_196{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_44i;
+fill: #FFFFFF;
+}
+.s6_196{
+font-size: 21.79px;
+font-family: MuseoSlab-900_44t;
+fill: #231F20;
+}
+.s7_196{
+font-size: 38.71px;
+font-family: MuseoSlab-700_45n;
+fill: #231F20;
+}
+.s8_196{
+font-size: 10.51px;
+font-family: MuseoSlab-900_44t;
+fill: #231F20;
+}
+.s9_196{
+font-size: 20.67px;
+font-family: MuseoSlab-900_44t;
+fill: #231F20;
+}
+.s10_196{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_454;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_196)">
+<path d="M179.9,2872.7c-712,-49.8,-1251.8,-627.3,-1205.4,-1289.9C-979.2,920.3,-364.4,423.5,347.7,473.3c712.1,49.8,1251.9,627.3,1205.5,1289.9C1506.9,2425.7,892,2922.5,179.9,2872.7Z" class="g1_196" />
+</g>
+<image preserveAspectRatio="none" x="-6" y="462" width="217" height="217" xlink:href="196/img/1.png" />
+<image preserveAspectRatio="none" x="203" y="469" width="218" height="218" xlink:href="196/img/2.png" />
+<image preserveAspectRatio="none" x="413" y="477" width="218" height="217" xlink:href="196/img/3.png" />
+<image preserveAspectRatio="none" x="605" y="484" width="79" height="736" xlink:href="196/img/4.png" />
+<image preserveAspectRatio="none" x="680" y="538" width="159" height="59" xlink:href="196/img/5.png" />
+<image preserveAspectRatio="none" x="658" y="591" width="75" height="631" xlink:href="196/img/6.png" />
+<image preserveAspectRatio="none" x="783" y="594" width="160" height="58" xlink:href="196/img/7.png" />
+<image preserveAspectRatio="none" x="819" y="648" width="122" height="476" xlink:href="196/img/8.png" />
+<image preserveAspectRatio="none" x="-13" y="671" width="217" height="218" xlink:href="196/img/9.png" />
+<image preserveAspectRatio="none" x="196" y="679" width="218" height="217" xlink:href="196/img/10.png" />
+<image preserveAspectRatio="none" x="406" y="686" width="218" height="217" xlink:href="196/img/11.png" />
+<image preserveAspectRatio="none" x="-20" y="881" width="217" height="217" xlink:href="196/img/12.png" />
+<image preserveAspectRatio="none" x="189" y="888" width="218" height="218" xlink:href="196/img/13.png" />
+<image preserveAspectRatio="none" x="399" y="896" width="218" height="217" xlink:href="196/img/14.png" />
+<image preserveAspectRatio="none" x="-24" y="1091" width="476" height="121" xlink:href="196/img/15.png" />
+<image preserveAspectRatio="none" x="448" y="1107" width="161" height="111" xlink:href="196/img/16.png" />
+<image preserveAspectRatio="none" x="815" y="1120" width="109" height="109" xlink:href="196/img/17.png" />
+<g clip-path="url(#c0_196)">
+<path d="M179.9,2872.7l-0.2,2.2c-356.5,-24.9,-670,-182,-888.6,-415.8C-927.4,2225.3,-1051,1914.6,-1027.8,1582.7c23.2,-332,188.8,-622.4,437.8,-823.5C-341,558,-8.7,446.1,347.8,471c356.7,25,670.2,182.1,888.7,415.9c218.6,233.8,342.2,544.5,319,876.4c-23.2,332,-188.8,622.4,-437.8,823.5c-249,201.2,-581.3,313.1,-938,288.1l0.2,-2.2l0.2,-2.3c355.5,24.8,686.6,-86.7,934.7,-287.1c248.1,-200.5,413,-489.7,436.1,-820.3C1574.1,1432.4,1451,1123,1233.2,890C1015.4,657,703,500.5,347.5,475.6C-7.9,450.8,-339,562.3,-587.1,762.7c-248.1,200.5,-413,489.7,-436.1,820.3c-23.2,330.6,99.9,640,317.7,873c217.7,233,530.2,389.5,885.6,414.4l-0.2,2.3Z" class="g1_196" />
+</g>
+<text 
+x="157" 
+y="70" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_196"
+>EXERCISES</text>
+
+<text 
+x="157" 
+y="98" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s2_196"
+>Answer the questions in the negative with a potential complement. Use exercise 1 as </text>
+
+<text 
+x="157" 
+y="125" 
+dx="0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s2_196"
+>an example.</text>
+
+<text 
+x="158" 
+y="168" 
+dx="0,0" 
+class="s3_196"
+>1 </text>
+
+<text 
+x="201" 
+y="170" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_196"
+>你下午三点能回来/回得来吗？ </text>
+
+<text 
+x="201" 
+y="214" 
+dx="0,0" 
+class="s4_196"
+>→ </text>
+
+<text 
+x="249" 
+y="214" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_196"
+>我下午有课，三点回不来。</text>
+
+<text 
+x="158" 
+y="257" 
+dx="0,0" 
+class="s3_196"
+>2 </text>
+
+<text 
+x="201" 
+y="258" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_196"
+>你能看懂/看得懂这本中文书吗？</text>
+
+<text 
+x="158" 
+y="301" 
+dx="0,0" 
+class="s3_196"
+>3 </text>
+
+<text 
+x="201" 
+y="303" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_196"
+>你今天能写完/写得完一百个汉字吗？</text>
+
+<image preserveAspectRatio="none" x="681" y="544" width="161" height="331" xlink:href="196/img/18.png" />
+<image preserveAspectRatio="none" x="819" y="603" width="70" height="600" xlink:href="196/img/19.png" />
+<image preserveAspectRatio="none" x="669" y="870" width="161" height="331" xlink:href="196/img/20.png" />
+<path d="M692.6,544.3l0,0c0.2,0.1,0.5,0.1,0.7,0.2c-0.3,-0.1,-0.5,-0.2,-0.7,-0.2Z" class="g2_196" />
+<text 
+x="716" 
+y="691" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_196"
+>You bought this </text>
+
+<text 
+x="716" 
+y="712" 
+dx="0,0,0,0,-0.5,-0.1,0,0,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s5_196"
+>ticket for someone </text>
+
+<text 
+x="716" 
+y="733" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_196"
+>special. What </text>
+
+<text 
+x="716" 
+y="755" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s5_196"
+>kind of event is it </text>
+
+<text 
+x="716" 
+y="776" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s5_196"
+>for? What other </text>
+
+<text 
+x="716" 
+y="798" 
+dx="0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_196"
+>information can </text>
+
+<text 
+x="716" 
+y="819" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_196"
+>you identify? </text>
+
+<path d="M784,655.7c43.8,0,79.3,-35.5,79.3,-79.3c0,-43.8,-35.5,-79.3,-79.3,-79.3c-43.8,0,-79.3,35.5,-79.3,79.3c0,43.8,35.5,79.3,79.3,79.3Z" class="g1_196" />
+<path d="M784,655.7c43.8,0,79.3,-35.5,79.3,-79.3c0,-43.8,-35.5,-79.3,-79.3,-79.3c-43.8,0,-79.3,35.5,-79.3,79.3c0,43.8,35.5,79.3,79.3,79.3Z" class="g3_196" />
+<text 
+x="738" 
+y="558" 
+dx="0,0,0" 
+class="s6_196"
+>GET</text>
+
+<text 
+x="714" 
+y="583" 
+dx="0,-0.3,0,-0.2" 
+class="s7_196"
+>Real</text>
+
+<text 
+x="716" 
+y="596" 
+dx="0,0,0,0" 
+class="s8_196"
+>WITH</text>
+
+<text 
+x="751" 
+y="603" 
+dx="0,0,0,0,0,0,0" 
+class="s9_196"
+>CHINESE</text>
+
+<g clip-path="url(#c1_196)">
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g4_196" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 890, 924)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s10_196"
+>Lesson 16 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 996)"
+dx="0,1" 
+class="s10_196"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1010)"
+dx="0,1,1,1,1,1,1" 
+class="s10_196"
+>Dating </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1061)"
+dx="0,1" 
+class="s10_196"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1075)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s10_196"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1151)"
+dx="0,1,1,-2.3" 
+class="s10_196"
+>175 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Regular_45b;
+	src: url("fonts/LibreFranklin-Regular_45b.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_45n;
+	src: url("fonts/MuseoSlab-700_45n.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_454;
+	src: url("fonts/LibreFranklin-SemiBold_454.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_44y;
+	src: url("fonts/STKaitiSC-Regular_44y.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_44i;
+	src: url("fonts/LibreFranklin-Medium_44i.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-900_44t;
+	src: url("fonts/MuseoSlab-900_44t.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_44h;
+	src: url("fonts/LibreFranklin-Bold_44h.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

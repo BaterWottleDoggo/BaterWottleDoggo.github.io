@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 198 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_198"><path d="M179.5,944.6l0,-628.3l562.3,0l0,628.3Z" /></clipPath>
+<clipPath id="c1_198"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_198{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.4666667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_198{
+fill: #6D6E71;
+}
+.g3_198{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.275;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_198{
+fill: #FFFFFF;
+}
+.g5_198{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.0052779;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g6_198{
+fill: #F3F4F4;
+}
+.g7_198{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 1.6713889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_198{
+fill: #00AEEF;
+}
+.g9_198{
+fill: none;
+stroke: #808285;
+stroke-width: 0.8616667;
+stroke-linecap: round;
+stroke-linejoin: miter;
+}
+.g10_198{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.7241667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g11_198{
+fill: #D1D2D4;
+}
+.g12_198{
+fill: #E7E8E9;
+}
+.g13_198{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.6493056;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g14_198{
+fill: #A1C0E4;
+}
+.g15_198{
+fill: #F58320;
+}
+.g16_198{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g17_198{
+fill: #007598;
+}
+.g18_198{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_198{
+font-size: 8.93px;
+font-family: ArialMT_45t;
+fill: #FFFFFF;
+}
+.s2_198{
+font-size: 15.99px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #00AEEF;
+}
+.s3_198{
+font-size: 13.68px;
+font-family: ArialMT_45t;
+fill: #00AEEF;
+}
+.s4_198{
+font-size: 13.68px;
+font-family: ArialMT_45t;
+fill: #231F20;
+}
+.s5_198{
+font-size: 9.80px;
+font-family: ArialMT_45t;
+fill: #231F20;
+}
+.s6_198{
+font-size: 23.68px;
+font-family: SourceHanSansCN-Medium_3n4;
+fill: #FFFFFF;
+}
+.s7_198{
+font-size: 23.68px;
+font-family: SourceHanSansTW-Medium_3r2;
+fill: #FFFFFF;
+}
+.s8_198{
+font-size: 13.68px;
+font-family: Arial-BoldMT_45w;
+fill: #FFFFFF;
+}
+.s9_198{
+font-size: 23.68px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #231F20;
+}
+.s10_198{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_45v;
+fill: #FFFFFF;
+}
+.s11_198{
+font-size: 16.47px;
+font-family: LibreFranklin-Medium_45u;
+fill: #6D6E71;
+}
+.s12_198{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #808285;
+}
+.s13_198{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_454;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M741.1,943.9l-354.6,0l0,-625.5l354.6,0Z" class="g1_198" />
+<path d="M739.2,334.4l-351.4,0l0,-14.5l351.4,0l0,14.5Z" class="g2_198" />
+<path d="M739.2,334.4l-351.4,0l0,-14.5l351.4,0Z" class="g3_198" />
+<path d="M395,330.4l-1.7,0l0,-3.1l1.7,0l0,3.1Z" class="g4_198" />
+<path d="M398,330.4l-1.7,0l0,-4.5l1.7,0l0,4.5Z" class="g4_198" />
+<path d="M400.9,330.4l-1.7,0l0,-5.8l1.7,0l0,5.8Z" class="g4_198" />
+<path d="M403.9,330.4l-1.7,0l0,-7.1l1.7,0l0,7.1Z" class="g4_198" />
+<path d="M406.8,330.4l-1.7,0l0,-8.5l1.7,0l0,8.5Z" class="g4_198" />
+<path d="M413.5,326c0.7,-0.9,2.1,-1.6,3.7,-1.6c1.7,0,3,0.7,3.8,1.6l1.4,-0.3c-0.9,-1.5,-2.8,-2.5,-5.2,-2.5c-2.3,0,-4.3,1,-5.1,2.5Z" class="g4_198" />
+<path d="M414.9,328.2c0.4,-0.6,1.3,-1,2.3,-1c1,0,1.9,0.4,2.4,1l0.9,-0.5c-0.6,-0.9,-1.8,-1.6,-3.3,-1.6c-1.4,0,-2.7,0.7,-3.2,1.6Z" class="g4_198" />
+<path d="M416.3,330.4c0.2,-0.3,0.5,-0.4,0.9,-0.4c0.4,0,0.8,0.1,1,0.4l0.3,-0.7c-0.2,-0.4,-0.7,-0.6,-1.3,-0.6c-0.6,0,-1.1,0.2,-1.3,0.6Z" class="g4_198" />
+<text 
+x="551" 
+y="329" 
+dx="0,0,0,0,0,0,0" 
+class="s1_198"
+>9:41 PM</text>
+
+<text 
+transform="matrix(0.82, 0, 0, 1, 697, 328)"
+dx="0,0,0" 
+class="s1_198"
+>85%</text>
+
+<path d="M726.1,324.9l-1,0l0,-2l-9.4,0l0,5.9l9.4,0l0,-2l1,0l0,-1.9Z" class="g5_198" />
+<path d="M722.6,327l-6.2,0l0,-2.5l6.2,0l0,2.5Z" class="g4_198" />
+<image preserveAspectRatio="none" x="388" y="338" width="352" height="52" xlink:href="198/img/1.png" />
+<path d="M739.2,335.3l-351.3,0l0,51.4l351.3,0l0,-51.4Z" class="g6_198" />
+<text 
+transform="matrix(1.36, 0, 0, 1, 382, 362)"
+dx="0" 
+class="s2_198"
+>〈</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 410, 360)"
+dx="0,0,0,0" 
+class="s3_198"
+>Back</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 521, 360)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_198"
+>Joel Smithson </text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 512, 375)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_198"
+>Active Now • Messenger</text>
+
+<path d="M723,355c0,4.5,-3.8,8.1,-8.4,8.1c-4.7,0,-8.5,-3.6,-8.5,-8.1c0,-4.5,3.8,-8.1,8.5,-8.1c4.6,0,8.4,3.6,8.4,8.1Z" class="g7_198" />
+<path d="M713.7,353.7l1.8,0l0,6.7l-1.8,0l0,-6.7Zm0,-2.9l1.8,0l0,1.7l-1.8,0l0,-1.7Z" class="g8_198" />
+<path d="M732.9,475.3l-3.8,4.2l0,38.6c0,1.2,-1,2.2,-2.2,2.2l-256.5,0c-1.3,0,-2.3,-1,-2.3,-2.2l0,-55c0,-1.3,1,-2.3,2.3,-2.3l256.5,0c1.2,0,2.2,1,2.2,2.3l0,8.7Z" class="g8_198" />
+<image preserveAspectRatio="none" x="387" y="902" width="264" height="37" xlink:href="198/img/2.png" />
+<path d="M387.4,941l352.7,0l0,-36.8l-352.7,0l0,36.8Z" class="g6_198" />
+<path d="M401.8,928.6l8.1,-8.2c0,0,1.7,-2.1,-0.7,-4.5c-2.6,-2.5,-5.2,0.4,-5.2,0.4l-9.6,9.3c0,0,-1.1,3.7,3.3,4.1c0.8,0,8.5,-8.6,8.5,-8.6c0,0,0.4,-2.6,-2.1,-2c-0.3,0.3,-5.8,6,-5.8,6" class="g9_198" />
+<path d="M677.1,934.5l-261.7,0c-1,0,-1.8,-0.8,-1.8,-1.8l0,-20.2c0,-1,0.8,-1.8,1.8,-1.8l261.7,0c1,0,1.8,0.8,1.8,1.8l0,20.2c0,1,-0.8,1.8,-1.8,1.8Z" class="g4_198" />
+<path d="M651.9,922.3c0,4.1,-3.3,7.5,-7.4,7.5c-4.1,0,-7.4,-3.4,-7.4,-7.5c0,-4.1,3.3,-7.4,7.4,-7.4c4.1,0,7.4,3.3,7.4,7.4Z" class="g10_198" />
+<path d="M643,920.3c0,0.6,-0.5,1.1,-1.1,1.1c-0.6,0,-1,-0.5,-1,-1.1c0,-0.6,0.4,-1,1,-1c0.6,0,1.1,0.4,1.1,1Z" class="g11_198" />
+<path d="M647.9,920.3c0,0.6,-0.5,1.1,-1.1,1.1c-0.5,0,-1,-0.5,-1,-1.1c0,-0.6,0.5,-1,1,-1c0.6,0,1.1,0.4,1.1,1Z" class="g11_198" />
+<path d="M644.5,925.3c-1.1,0,-4,-0.5,-4.5,-2.1c0.5,2.3,2.3,4.1,4.5,4.1c2.1,0,3.9,-1.8,4.5,-4.1c-0.6,1.6,-3.2,2.1,-4.5,2.1Z" class="g11_198" />
+<path d="M658.4,922l12.9,-6.7l-6.6,13.6l-0.5,-6.6Z" class="g8_198" />
+<path d="M730.1,934.1l-41.6,0c-0.4,0,-0.8,-0.3,-0.8,-0.8l0,-22.3c0,-0.5,0.4,-0.8,0.8,-0.8l41.6,0c0.5,0,0.8,0.3,0.8,0.8l0,22.3c0,0.5,-0.3,0.8,-0.8,0.8Z" class="g8_198" />
+<path d="M704.3,930.5l-1.2,0c-0.4,0,-0.7,-0.3,-0.7,-0.7l0,-10.2c0,-0.4,0.3,-0.7,0.7,-0.7l1.2,0c0.4,0,0.7,0.3,0.7,0.7l0,10.2c0,0.4,-0.3,0.7,-0.7,0.7Z" class="g4_198" />
+<path d="M706.3,929.9l0,-10.5c0,0,2.1,-1.1,2.1,-2.3c0,-1.2,-1.1,-5.8,1,-5c2,0.7,2.2,1.7,2.2,2.9c0,1.2,-0.6,3.7,-0.2,4.1c0.5,0.5,6.3,-0.4,6.6,0c0.3,0.5,0.7,1.6,0.3,2.2c-0.5,0.6,0.7,1.9,-0.5,3.3c-1.1,1.3,0,4.7,-1.1,5.3c-1.2,0.5,-9.8,1,-10.4,0Z" class="g4_198" />
+<text 
+x="480" 
+y="484" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s6_198"
+>我把手机忘在我姐姐家</text>
+
+<text 
+x="480" 
+y="512" 
+dx="0" 
+class="s6_198"
+>了</text>
+
+<text 
+x="504" 
+y="508" 
+dx="0,0,0" 
+class="s7_198"
+>…… </text>
+
+<text 
+x="562" 
+y="512" 
+dx="0,0,0,0,0,0" 
+class="s6_198"
+>找我有事吗？</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 703, 571)"
+dx="0,0,0" 
+class="s8_198"
+>...</text>
+
+<path d="M446.7,429.1l3.8,4.2l0,17.6c0,1.2,1,2.2,2.3,2.2l269,0c1.2,0,2.2,-1,2.2,-2.2l0,-34.1c0,-1.2,-1,-2.2,-2.2,-2.2l-269,0c-1.3,0,-2.3,1,-2.3,2.2l0,8.7Z" class="g12_198" />
+<text 
+x="457" 
+y="442" 
+dx="0,0,0,0,0,0,0,0.5,0,0,0.3" 
+class="s9_198"
+>昨天打你手机，你没接。</text>
+
+<image preserveAspectRatio="none" x="320" y="393" width="299" height="199" xlink:href="198/img/3.png" />
+<path d="M439.2,444.8c0,3.4,-2.8,6.2,-6.2,6.2c-3.4,0,-6.2,-2.8,-6.2,-6.2c0,-3.4,2.8,-6.2,6.2,-6.2c3.4,0,6.2,2.8,6.2,6.2Z" class="g8_198" />
+<path d="M439.2,444.8c0,3.4,-2.8,6.2,-6.2,6.2c-3.4,0,-6.2,-2.8,-6.2,-6.2c0,-3.4,2.8,-6.2,6.2,-6.2c3.4,0,6.2,2.8,6.2,6.2Z" class="g13_198" />
+<path d="M429.1,446.7c0.3,-1.1,0.7,-2.2,1.5,-3.2c0.1,-0.3,0.3,-0.5,0.6,-0.7c0.3,-0.2,0.8,-0.3,1.2,-0.1c0.4,0.2,0.6,0.5,0.7,0.8c0.2,0.3,0.3,0.6,0.4,0.9c0.1,0.6,0.3,1.1,0.5,1.4c0.2,0.2,0.3,0.3,0.4,0.2c0.2,0,0.4,-0.1,0.6,-0.3c0.8,-0.8,1.3,-1.9,1.9,-2.9c-0.3,1.2,-0.7,2.3,-1.5,3.3c-0.2,0.2,-0.4,0.5,-0.8,0.6c-0.4,0.2,-0.9,-0.1,-1.1,-0.4c-0.5,-0.5,-0.6,-1.2,-0.8,-1.7c-0.1,-0.5,-0.4,-1.1,-0.6,-1.3c-0.2,-0.1,-0.7,0.2,-1.1,0.6c-0.7,0.8,-1.3,1.8,-1.9,2.8Z" class="g4_198" />
+<path d="M446.7,543.7l3.8,4.2l0,42.8c0,1.2,1,2.2,2.3,2.2l230.7,0c1.3,0,2.3,-1,2.3,-2.2l0,-59.3c0,-1.2,-1,-2.2,-2.3,-2.2l-230.7,0c-1.3,0,-2.3,1,-2.3,2.2l0,8.7Z" class="g12_198" />
+<text 
+x="457" 
+y="555" 
+dx="0,0,0,0,0,0,0,0.5,0" 
+class="s9_198"
+>你明天有空吗？我想</text>
+
+<text 
+x="457" 
+y="583" 
+dx="0,0,0,0,0,0,0.3" 
+class="s9_198"
+>请你去看电影。</text>
+
+<image preserveAspectRatio="none" x="320" y="508" width="299" height="199" xlink:href="198/img/4.png" />
+<path d="M439.2,559.4c0,3.4,-2.8,6.1,-6.2,6.1c-3.4,0,-6.2,-2.7,-6.2,-6.1c0,-3.4,2.8,-6.2,6.2,-6.2c3.4,0,6.2,2.8,6.2,6.2Z" class="g8_198" />
+<path d="M439.2,559.4c0,3.4,-2.8,6.1,-6.2,6.1c-3.4,0,-6.2,-2.7,-6.2,-6.1c0,-3.4,2.8,-6.2,6.2,-6.2c3.4,0,6.2,2.8,6.2,6.2Z" class="g13_198" />
+<path d="M429.1,561.3c0.3,-1.1,0.7,-2.2,1.5,-3.2c0.1,-0.3,0.3,-0.5,0.6,-0.7c0.3,-0.2,0.8,-0.4,1.2,-0.1c0.4,0.2,0.6,0.5,0.7,0.8c0.2,0.3,0.3,0.6,0.4,0.9c0.1,0.5,0.3,1.1,0.5,1.4c0.2,0.2,0.3,0.3,0.4,0.2c0.2,0,0.4,-0.2,0.6,-0.3c0.8,-0.8,1.3,-1.9,1.9,-2.9c-0.3,1.2,-0.7,2.3,-1.5,3.3c-0.2,0.2,-0.4,0.5,-0.8,0.6c-0.4,0.1,-0.9,-0.1,-1.1,-0.4c-0.5,-0.5,-0.6,-1.2,-0.8,-1.7c-0.1,-0.5,-0.4,-1.1,-0.6,-1.3c-0.2,-0.2,-0.7,0.2,-1.1,0.6c-0.7,0.8,-1.3,1.8,-1.9,2.8Z" class="g4_198" />
+<path d="M446.7,657.5l3.8,4.2l0,38.2c0,1.3,1,2.3,2.3,2.3l281.1,0c1.3,0,2.3,-1,2.3,-2.3l0,-54.7c0,-1.2,-1,-2.2,-2.3,-2.2l-281.1,0c-1.3,0,-2.3,1,-2.3,2.2l0,8.7Z" class="g12_198" />
+<text 
+x="457" 
+y="667" 
+dx="0,0,0,0,0,0.5,0,0,0,0,0,-1.5" 
+class="s9_198"
+>明天不行，那下个星期五，</text>
+
+<text 
+x="457" 
+y="695" 
+dx="0,0,0,0,0.5,0,0,0,0,0,0.3" 
+class="s9_198"
+>怎么样？我开车去接你。</text>
+
+<image preserveAspectRatio="none" x="320" y="622" width="299" height="199" xlink:href="198/img/5.png" />
+<path d="M439.2,673.2c0,3.4,-2.8,6.2,-6.2,6.2c-3.4,0,-6.2,-2.8,-6.2,-6.2c0,-3.4,2.8,-6.2,6.2,-6.2c3.4,0,6.2,2.8,6.2,6.2Z" class="g8_198" />
+<path d="M439.2,673.2c0,3.4,-2.8,6.2,-6.2,6.2c-3.4,0,-6.2,-2.8,-6.2,-6.2c0,-3.4,2.8,-6.2,6.2,-6.2c3.4,0,6.2,2.8,6.2,6.2Z" class="g13_198" />
+<path d="M429.1,675.1c0.3,-1.1,0.7,-2.2,1.5,-3.2c0.1,-0.3,0.3,-0.5,0.6,-0.7c0.3,-0.2,0.8,-0.3,1.2,-0.1c0.4,0.2,0.6,0.5,0.7,0.8c0.2,0.3,0.3,0.6,0.4,0.9c0.1,0.6,0.3,1.1,0.5,1.5c0.2,0.1,0.3,0.2,0.4,0.2c0.2,-0.1,0.4,-0.2,0.6,-0.4c0.8,-0.8,1.3,-1.9,1.9,-2.9c-0.3,1.2,-0.7,2.3,-1.5,3.3c-0.2,0.2,-0.4,0.5,-0.8,0.6c-0.4,0.2,-0.9,-0.1,-1.1,-0.4c-0.5,-0.5,-0.6,-1.2,-0.8,-1.7c-0.1,-0.5,-0.4,-1.1,-0.6,-1.3c-0.2,-0.1,-0.7,0.2,-1.1,0.6c-0.7,0.8,-1.3,1.8,-1.9,2.8Z" class="g4_198" />
+<path d="M446.7,772.8l3.8,4.2l0,71.8c0,1.3,1,2.3,2.3,2.3l281.9,0c1.3,0,2.3,-1,2.3,-2.3l0,-88.2c0,-1.2,-1,-2.3,-2.3,-2.3l-281.9,0c-1.3,0,-2.3,1.1,-2.3,2.3l0,8.7Z" class="g12_198" />
+<text 
+x="457" 
+y="782" 
+dx="0,0,0,0.5,0,0,0,0.5,0,0,0" 
+class="s9_198"
+>是吗？没关系，我可以帮</text>
+
+<text 
+x="457" 
+y="811" 
+dx="0,0,0.5,0,0,0,0,0,0,0,0,-1.5" 
+class="s9_198"
+>你，然后再一起去看电影，</text>
+
+<text 
+x="457" 
+y="839" 
+dx="0,0,0" 
+class="s9_198"
+>好吗？</text>
+
+<image preserveAspectRatio="none" x="320" y="737" width="299" height="199" xlink:href="198/img/6.png" />
+<path d="M439.2,788.5c0,3.4,-2.8,6.2,-6.2,6.2c-3.4,0,-6.2,-2.8,-6.2,-6.2c0,-3.4,2.8,-6.1,6.2,-6.1c3.4,0,6.2,2.7,6.2,6.1Z" class="g8_198" />
+<path d="M439.2,788.5c0,3.4,-2.8,6.2,-6.2,6.2c-3.4,0,-6.2,-2.8,-6.2,-6.2c0,-3.4,2.8,-6.1,6.2,-6.1c3.4,0,6.2,2.7,6.2,6.1Z" class="g13_198" />
+<path d="M429.1,790.5c0.3,-1.2,0.7,-2.3,1.5,-3.3c0.1,-0.2,0.3,-0.5,0.6,-0.7c0.3,-0.2,0.8,-0.3,1.2,-0.1c0.4,0.2,0.6,0.6,0.7,0.9c0.2,0.2,0.3,0.5,0.4,0.8c0.1,0.6,0.3,1.1,0.5,1.5c0.2,0.2,0.3,0.2,0.4,0.2c0.2,-0.1,0.4,-0.2,0.6,-0.4c0.8,-0.8,1.3,-1.8,1.9,-2.8c-0.3,1.1,-0.7,2.2,-1.5,3.2c-0.2,0.3,-0.4,0.5,-0.8,0.7c-0.4,0.1,-0.9,-0.1,-1.1,-0.4c-0.5,-0.6,-0.6,-1.2,-0.8,-1.7c-0.1,-0.6,-0.4,-1.1,-0.6,-1.3c-0.2,-0.2,-0.7,0.1,-1.1,0.5c-0.7,0.8,-1.3,1.9,-1.9,2.9Z" class="g4_198" />
+<path d="M732.9,726.6l-3.8,4.3l0,13.4c0,1.2,-1,2.2,-2.2,2.2l-41.8,0c-1.2,0,-2.2,-1,-2.2,-2.2l0,-29.9c0,-1.2,1,-2.2,2.2,-2.2l41.8,0c1.2,0,2.2,1,2.2,2.2l0,8.7Z" class="g8_198" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 703, 731)"
+dx="0,0,0" 
+class="s8_198"
+>...</text>
+
+<path d="M732.9,611.3l-3.8,4.2l0,13.4c0,1.3,-1,2.3,-2.2,2.3l-41.8,0c-1.2,0,-2.2,-1,-2.2,-2.3l0,-29.8c0,-1.3,1,-2.3,2.2,-2.3l41.8,0c1.2,0,2.2,1,2.2,2.3l0,8.6Z" class="g8_198" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 703, 616)"
+dx="0,0,0" 
+class="s8_198"
+>...</text>
+
+<g clip-path="url(#c0_198)">
+<path d="M377.8,337.4c0,-11.7,-9.5,-21.2,-21.2,-21.2l-156,0c-11.7,0,-21.1,9.5,-21.1,21.2l0,14.8l198.3,0Z" class="g14_198" />
+</g>
+<path d="M357.9,472.8l19.6,20.5l0,-20.5Z" class="g15_198" />
+<text 
+x="218" 
+y="342" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s10_198"
+>Chinese Chat</text>
+
+<path d="M377.5,356l0,112.8l-173.3,0C190.8,468.8,180,458,180,444.5L180,356l197.5,0Z" class="g16_198" />
+<text 
+x="189" 
+y="375" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_198"
+>A friend is messaging </text>
+
+<text 
+x="189" 
+y="395" 
+dx="0,0,0,0,0,0,0,0,-1.4,0,0,0,0,0,0,0" 
+class="s11_198"
+>you on Facebook </text>
+
+<text 
+x="189" 
+y="415" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.5,0" 
+class="s11_198"
+>Messenger to make </text>
+
+<text 
+x="189" 
+y="434" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_198"
+>plans. How would </text>
+
+<text 
+x="189" 
+y="454" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s11_198"
+>you respond?</text>
+
+<path d="M538.2,891.9l-72.8,0c-7.7,0,-14,-6.3,-14,-14c0,-7.7,6.3,-14.1,14,-14.1l72.8,0c7.7,0,14,6.4,14,14.1c0,7.7,-6.3,14,-14,14Z" class="g12_198" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 465, 885)"
+dx="0,0,0,0" 
+class="s12_198"
+>已读不回</text>
+
+<path d="M881.6,1196.3l39.7,0L921.3,0L881.6,0l0,1196.3Z" class="g17_198" />
+<g clip-path="url(#c1_198)">
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g18_198" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 890, 924)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s13_198"
+>Lesson 16 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 997)"
+dx="0,1" 
+class="s13_198"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1010)"
+dx="0,1,1,1,1,1,1" 
+class="s13_198"
+>Dating </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1062)"
+dx="0,1" 
+class="s13_198"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1075)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s13_198"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1152)"
+dx="0,1,1,-2.3" 
+class="s13_198"
+>177 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_3ru;
+	src: url("fonts/SourceHanSansCN-Regular_3ru.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_3r2;
+	src: url("fonts/SourceHanSansTW-Medium_3r2.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Regular_3ri;
+	src: url("fonts/SourceHanSansTW-Regular_3ri.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_3n4;
+	src: url("fonts/SourceHanSansCN-Medium_3n4.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_454;
+	src: url("fonts/LibreFranklin-SemiBold_454.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_45t;
+	src: url("fonts/ArialMT_45t.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_45u;
+	src: url("fonts/LibreFranklin-Medium_45u.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_45v;
+	src: url("fonts/LibreFranklin-SemiBold_45v.woff") format("woff");
+}
+
+@font-face {
+	font-family: Arial-BoldMT_45w;
+	src: url("fonts/Arial-BoldMT_45w.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

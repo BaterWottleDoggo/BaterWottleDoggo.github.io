@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 380 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_380{
+fill: #57585A;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_380{
+fill: #BDBEC1;
+}
+.g3_380{
+fill: #F0F1F2;
+}
+.g4_380{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_380{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_380{
+fill: none;
+stroke: #DADBDD;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_380{
+font-size: 10.69px;
+font-family: LibreFranklin-SemiBold_45y;
+fill: #FFFFFF;
+}
+.s2_380{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_45y;
+fill: #57585A;
+}
+.s3_380{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_45y;
+fill: #3F3F40;
+}
+.s4_380{
+font-size: 13.75px;
+font-family: LibreFranklin-Light_45u;
+fill: #3F3F40;
+}
+.s5_380{
+font-size: 24.44px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #57585A;
+}
+.s6_380{
+font-size: 24.44px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #57585A;
+}
+.s7_380{
+font-size: 14.90px;
+font-family: GentiumBookBasic-Italic_3o-;
+fill: #3F3F40;
+}
+.s8_380{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_45s;
+fill: #3F3F40;
+}
+.s9_380{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_45y;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M879.5,1220.7l64.9,0l0,-1247.3l-64.9,0l0,1247.3Z" class="g1_380" />
+<text 
+transform="matrix(0, 1, -1, 0, 888, 872)"
+dx="0,-0.1,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.4,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,-0.1,0.6,0.6,0.6,0.6,0.6,0.6,0.6" 
+class="s1_380"
+>Vocabulary Index (English-Chinese), Volume 3 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1151)"
+dx="0,0.6,0.6" 
+class="s1_380"
+>357</text>
+
+<path d="M55,101.1l811.3,0l0,42.7L55,143.8l0,-42.7Zm0,169.2l811.3,0l0,42.2L55,312.5l0,-42.2Z" class="g2_380" />
+<path d="M55,186l178.8,0l0,42.2L55,228.2L55,186Zm178.8,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l196.9,0l0,42.2l-196.9,0l0,-42.2Zm196.9,0l104.5,0l0,42.2l-104.5,0l0,-42.2Zm104.5,0l70.4,0l0,42.2l-70.4,0l0,-42.2Zm70.4,0l63.8,0l0,42.2l-63.8,0l0,-42.2Z" class="g3_380" />
+<path d="M55,358.4l178.8,0" class="g4_380" />
+<path d="M233.8,358.4l196.9,0" class="g4_380" />
+<path d="M430.7,358.4l196.9,0" class="g4_380" />
+<path d="M627.6,358.4l104.5,0" class="g4_380" />
+<path d="M732.1,358.4l70.4,0" class="g4_380" />
+<path d="M802.5,358.4l63.8,0" class="g4_380" />
+<path d="M55,186l178.8,0" class="g5_380" />
+<path d="M233.8,186l196.9,0" class="g5_380" />
+<path d="M430.7,186l196.9,0" class="g5_380" />
+<path d="M627.6,186l104.5,0" class="g5_380" />
+<path d="M732.1,186l70.4,0" class="g5_380" />
+<path d="M802.5,186l63.8,0" class="g5_380" />
+<path d="M55,228.2l178.8,0" class="g5_380" />
+<path d="M233.8,228.2l196.9,0" class="g5_380" />
+<path d="M430.7,228.2l196.9,0" class="g5_380" />
+<path d="M627.6,228.2l104.5,0" class="g5_380" />
+<path d="M732.1,228.2l70.4,0" class="g5_380" />
+<path d="M802.5,228.2l63.8,0" class="g5_380" />
+<path d="M55,312.5l178.8,0" class="g5_380" />
+<path d="M233.8,312.5l196.9,0" class="g5_380" />
+<path d="M430.7,312.5l196.9,0" class="g5_380" />
+<path d="M627.6,312.5l104.5,0" class="g5_380" />
+<path d="M732.1,312.5l70.4,0" class="g5_380" />
+<path d="M802.5,312.5l63.8,0" class="g5_380" />
+<path d="M55,101.1l178.8,0" class="g6_380" />
+<path d="M233.8,101.1l196.9,0" class="g6_380" />
+<path d="M430.7,101.1l196.9,0" class="g6_380" />
+<path d="M627.6,101.1l104.5,0" class="g6_380" />
+<path d="M732.1,101.1l70.4,0" class="g6_380" />
+<path d="M802.5,101.1l63.8,0" class="g6_380" />
+<path d="M55,270.3l178.8,0" class="g5_380" />
+<path d="M233.8,270.3l196.9,0" class="g5_380" />
+<path d="M430.7,270.3l196.9,0" class="g5_380" />
+<path d="M627.6,270.3l104.5,0" class="g5_380" />
+<path d="M732.1,270.3l70.4,0" class="g5_380" />
+<path d="M802.5,270.3l63.8,0" class="g5_380" />
+<path d="M55,143.8l178.8,0" class="g5_380" />
+<path d="M233.8,143.8l196.9,0" class="g5_380" />
+<path d="M430.7,143.8l196.9,0" class="g5_380" />
+<path d="M627.6,143.8l104.5,0" class="g5_380" />
+<path d="M732.1,143.8l70.4,0" class="g5_380" />
+<path d="M802.5,143.8l63.8,0" class="g5_380" />
+<text 
+x="61" 
+y="85" 
+dx="0,0,0,0,0,0,0" 
+class="s2_380"
+>English</text>
+
+<text 
+x="239" 
+y="85" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_380"
+>Simplified</text>
+
+<text 
+x="436" 
+y="85" 
+dx="0,-1.2,-0.1,0,0,0,0,0,0,0,0" 
+class="s2_380"
+>Traditional</text>
+
+<text 
+x="633" 
+y="85" 
+dx="0,0,0,0,0,0" 
+class="s2_380"
+>Pinyin</text>
+
+<text 
+x="738" 
+y="75" 
+dx="0,0,0,0,0,0,-0.2,0" 
+class="s2_380"
+>Part of </text>
+
+<text 
+x="738" 
+y="94" 
+dx="0,0,0,0,0,0" 
+class="s2_380"
+>Speech</text>
+
+<text 
+x="808" 
+y="85" 
+dx="0,0,0,0,0,0" 
+class="s2_380"
+>Lesson</text>
+
+<text 
+x="453" 
+y="132" 
+dx="0" 
+class="s3_380"
+>Y</text>
+
+<text 
+x="61" 
+y="171" 
+dx="0,-1.2,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s4_380"
+>Yangtze River</text>
+
+<text 
+x="239" 
+y="173" 
+dx="0,0" 
+class="s5_380"
+>长江</text>
+
+<text 
+x="436" 
+y="173" 
+dx="0,0" 
+class="s6_380"
+>長江</text>
+
+<text 
+x="633" 
+y="171" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s7_380"
+>Chángjiāng </text>
+
+<text 
+x="738" 
+y="171" 
+dx="0,0" 
+class="s8_380"
+>pn</text>
+
+<text 
+x="808" 
+y="171" 
+dx="0,0" 
+class="s9_380"
+>10</text>
+
+<text 
+x="61" 
+y="213" 
+dx="0,-1.4,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s4_380"
+>Yellow River</text>
+
+<text 
+x="239" 
+y="215" 
+dx="0,0" 
+class="s5_380"
+>黄河</text>
+
+<text 
+x="436" 
+y="215" 
+dx="0,0" 
+class="s6_380"
+>黃河</text>
+
+<text 
+x="633" 
+y="213" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s7_380"
+>Huánghé </text>
+
+<text 
+x="738" 
+y="214" 
+dx="0,0" 
+class="s8_380"
+>pn</text>
+
+<text 
+x="808" 
+y="214" 
+dx="0,0" 
+class="s9_380"
+>10</text>
+
+<text 
+x="61" 
+y="255" 
+dx="0,-0.9,0,0,0,0" 
+class="s4_380"
+>Yunnan</text>
+
+<text 
+x="239" 
+y="258" 
+dx="0,0" 
+class="s5_380"
+>云南</text>
+
+<text 
+x="436" 
+y="258" 
+dx="0,0" 
+class="s6_380"
+>雲南</text>
+
+<text 
+x="633" 
+y="255" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s7_380"
+>Yúnnán</text>
+
+<text 
+x="738" 
+y="256" 
+dx="0,0" 
+class="s8_380"
+>pn</text>
+
+<text 
+x="808" 
+y="256" 
+dx="0,0" 
+class="s9_380"
+>10</text>
+
+<text 
+x="454" 
+y="301" 
+dx="0" 
+class="s3_380"
+>Z</text>
+
+<text 
+x="61" 
+y="331" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_380"
+>Zhang Tiaming (a personal </text>
+
+<text 
+x="61" 
+y="351" 
+dx="0,0,0,0,0" 
+class="s4_380"
+>name)</text>
+
+<text 
+x="239" 
+y="343" 
+dx="0,0,0" 
+class="s5_380"
+>张天明</text>
+
+<text 
+x="436" 
+y="343" 
+dx="0,0,0" 
+class="s6_380"
+>張天明</text>
+
+<text 
+x="633" 
+y="331" 
+dx="0,0.2,0.2,0.2,0.2,0" 
+class="s7_380"
+>Zhāng </text>
+
+<text 
+x="633" 
+y="351" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s7_380"
+>Tiānmíng </text>
+
+<text 
+x="738" 
+y="342" 
+dx="0,0" 
+class="s8_380"
+>pn</text>
+
+<text 
+x="808" 
+y="342" 
+dx="0" 
+class="s9_380"
+>1</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3o-;
+	src: url("fonts/GentiumBookBasic-Italic_3o-.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_45s;
+	src: url("fonts/LibreFranklin-Regular_45s.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_45y;
+	src: url("fonts/LibreFranklin-SemiBold_45y.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_45u;
+	src: url("fonts/LibreFranklin-Light_45u.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

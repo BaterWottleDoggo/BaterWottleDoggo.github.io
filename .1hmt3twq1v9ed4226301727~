@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 24 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_24"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_24{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g2_24{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g3_24{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_24{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7654167;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_24{
+fill: #DC262E;
+}
+.g6_24{
+fill: #DC262E;
+stroke: #DCDDDF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_24{
+font-size: 32.85px;
+font-family: LibreFranklin-ExtraBold_cep;
+fill: #FFFFFF;
+}
+.s2_24{
+font-size: 27.50px;
+font-family: SourceHanSansCN-Medium_cfk;
+fill: #FFFFFF;
+}
+.s3_24{
+font-size: 27.50px;
+font-family: SourceHanSansTW-Medium_ceq;
+fill: #FFFFFF;
+}
+.s4_24{
+font-size: 22.92px;
+font-family: LibreFranklin-ExtraBold_cep;
+fill: #FFFFFF;
+}
+.s5_24{
+font-size: 14.51px;
+font-family: LibreFranklin-Bold_ce-;
+fill: #231F20;
+}
+.s6_24{
+font-size: 15.28px;
+font-family: Wingdings2_cft;
+fill: #E5C354;
+}
+.s7_24{
+font-size: 13.37px;
+font-family: LibreFranklin-Medium_cey;
+fill: #231F20;
+}
+.s8_24{
+font-size: 91.67px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #DC262E;
+}
+.s9_24{
+font-size: 91.67px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #DC262E;
+}
+.s10_24{
+font-size: 36.67px;
+font-family: MuseoSlab-900_cer;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image preserveAspectRatio="none" x="20" y="22" width="877" height="912" xlink:href="24/img/1.png" />
+<image x="19" y="932" width="879" height="4" xlink:href="24/shade/1.png" />
+<image preserveAspectRatio="none" x="20" y="810" width="826" height="124" xlink:href="24/img/2.png" />
+<image preserveAspectRatio="none" x="845" y="810" width="52" height="124" xlink:href="24/img/3.png" />
+<g clip-path="url(#c0_24)">
+<path d="M670,134.3l302.8,0" class="g1_24" />
+<path d="M670,136.4l302.8,0" class="g2_24" />
+</g>
+<path d="M134,812.2l0,60.8l0,1.2l1.1,0l645.8,0l1.2,0l0,-1.2l0,-60.8l0,-1.1l-1.2,0l-645.8,0l-1.1,0l0,1.1Z" class="g3_24" />
+<path d="M137,871.1l642,0l0,-57l-642,0l0,57Z" class="g4_24" />
+<path d="M721.9,152.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.5,3.6,3.5l118.6,0c0,0,3.6,0,3.6,-3.5l0,-42.1c0,0,0,-3.5,-3.6,-3.5Z" class="g5_24" />
+<path d="M721.9,152.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.5,3.6,3.5l118.6,0c0,0,3.6,0,3.6,-3.5l0,-42.1c0,0,0,-3.5,-3.6,-3.5l-118.6,0Z" class="g3_24" />
+<path d="M721.9,212.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.6,3.6,3.6l118.6,0c0,0,3.6,0,3.6,-3.6l0,-42.1c0,0,0,-3.5,-3.6,-3.5Z" class="g5_24" />
+<path d="M721.9,212.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.6,3.6,3.6l118.6,0c0,0,3.6,0,3.6,-3.6l0,-42.1c0,0,0,-3.5,-3.6,-3.5l-118.6,0Z" class="g3_24" />
+<text 
+x="702" 
+y="118" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_24"
+>Lesson 11</text>
+
+<text 
+x="723" 
+y="189" 
+dx="0,1.4,1.4,1.4" 
+class="s2_24"
+>第十一课</text>
+
+<text 
+x="723" 
+y="249" 
+dx="0,1.4,1.4,1.4" 
+class="s3_24"
+>第十一課</text>
+
+<path d="M473.2,956.6l310.4,0l0,-46l-310.4,0l0,46Z" class="g6_24" />
+<path d="M133.2,956.6l310.4,0l0,-46l-310.4,0l0,46Z" class="g6_24" />
+<text 
+x="175" 
+y="941" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.5,0.2" 
+class="s4_24"
+>Learning Objectives</text>
+
+<text 
+x="161" 
+y="988" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_24"
+>In this lesson, you will learn to:</text>
+
+<text 
+x="163" 
+y="1014" 
+dx="0" 
+class="s6_24"
+></text>
+
+<text 
+x="182" 
+y="1014" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0" 
+class="s7_24"
+>Name major Chinese holidays, give their </text>
+
+<text 
+x="182" 
+y="1032" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_24"
+>dates, and identify foods with which they </text>
+
+<text 
+x="182" 
+y="1050" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_24"
+>are associated</text>
+
+<text 
+x="163" 
+y="1072" 
+dx="0" 
+class="s6_24"
+></text>
+
+<text 
+x="182" 
+y="1072" 
+dx="0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,0,0,0,0" 
+class="s7_24"
+>Express Chinese New Year wishes</text>
+
+<text 
+x="163" 
+y="1093" 
+dx="0" 
+class="s6_24"
+></text>
+
+<text 
+x="182" 
+y="1093" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s7_24"
+>Describe Chinese New Year customs</text>
+
+<text 
+x="163" 
+y="1114" 
+dx="0" 
+class="s6_24"
+></text>
+
+<text 
+x="182" 
+y="1114" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s7_24"
+>Wish others success or good health</text>
+
+<text 
+x="506" 
+y="941" 
+dx="0,0.2,0.2,0.2,0.2,-0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_24"
+>Relate and Get Ready</text>
+
+<text 
+x="500" 
+y="988" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_24"
+>In your own culture/community:</text>
+
+<text 
+x="502" 
+y="1014" 
+dx="0" 
+class="s6_24"
+></text>
+
+<text 
+x="521" 
+y="1014" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_24"
+>What are the major traditional holidays?</text>
+
+<text 
+x="502" 
+y="1035" 
+dx="0" 
+class="s6_24"
+></text>
+
+<text 
+x="521" 
+y="1035" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_24"
+>How do people celebrate these holidays?</text>
+
+<text 
+x="502" 
+y="1056" 
+dx="0" 
+class="s6_24"
+></text>
+
+<text 
+x="521" 
+y="1056" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_24"
+>What do people customarily eat during </text>
+
+<text 
+x="521" 
+y="1075" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_24"
+>these holidays?</text>
+
+<text 
+x="502" 
+y="1096" 
+dx="0" 
+class="s6_24"
+></text>
+
+<text 
+x="521" 
+y="1096" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s7_24"
+>Which holidays are most associated </text>
+
+<text 
+x="521" 
+y="1114" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_24"
+>with family?</text>
+
+<image preserveAspectRatio="none" x="133" y="562" width="651" height="105" xlink:href="24/img/4.png" />
+<image preserveAspectRatio="none" x="133" y="676" width="651" height="105" xlink:href="24/img/5.png" />
+<text 
+x="229" 
+y="640" 
+dx="0,0,0,0,0" 
+class="s8_24"
+>中国的节日</text>
+
+<text 
+x="229" 
+y="756" 
+dx="0,0,0,0,0" 
+class="s9_24"
+>中國的節日</text>
+
+<text 
+x="271" 
+y="854" 
+dx="0,0,0,0,-0.4,-1,0,0,0,0,0,0,0,-0.3,-1.9,-0.2" 
+class="s10_24"
+>CHINA’S HOLIDAYS</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MuseoSlab-900_cer;
+	src: url("fonts/MuseoSlab-900_cer.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cep;
+	src: url("fonts/LibreFranklin-ExtraBold_cep.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_ceq;
+	src: url("fonts/SourceHanSansTW-Medium_ceq.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_cfk;
+	src: url("fonts/SourceHanSansCN-Medium_cfk.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cey;
+	src: url("fonts/LibreFranklin-Medium_cey.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_ce-;
+	src: url("fonts/LibreFranklin-Bold_ce-.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings2_cft;
+	src: url("fonts/Wingdings2_cft.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

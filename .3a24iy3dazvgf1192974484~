@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 50 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_50"><path d="M706.1,73.9l0,-14.5l90.9,0l0,14.5Z" /></clipPath>
+<clipPath id="c1_50"><path d="M259.1,1041.9l0,-226.6l389.3,0l0,226.6Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_50{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_50{
+fill: none;
+stroke: #3F3F40;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_50{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_50{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_50{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_50{
+fill: #006970;
+}
+.g7_50{
+fill: #17B3BB;
+}
+.g8_50{
+fill: #FFFFFF;
+}
+.g9_50{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.89374995;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g10_50{
+fill: none;
+stroke: #8CC63E;
+stroke-width: 0.9166667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g11_50{
+fill: none;
+stroke: #FFF101;
+stroke-width: 1.6836112;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_50{
+fill: #A1C0E4;
+}
+.g13_50{
+fill: #F58320;
+}
+.g14_50{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.68750006;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g15_50{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_50{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_2th;
+fill: #872B91;
+}
+.s2_50{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_2tj;
+fill: #872B91;
+}
+.s3_50{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2t-;
+fill: #3F3F40;
+}
+.s4_50{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_2th;
+fill: #8F4198;
+}
+.s5_50{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s6_50{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s7_50{
+font-size: 10.31px;
+font-family: ProximaNova-Regular_2u2;
+fill: #872B91;
+}
+.s8_50{
+font-size: 7.22px;
+font-family: ArialMT_2um;
+fill: #FFFFFF;
+}
+.s9_50{
+font-size: 20.20px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #FFF101;
+}
+.s10_50{
+font-size: 20.20px;
+font-family: SourceHanSansTW-Medium_2uc;
+fill: #FFFFFF;
+}
+.s11_50{
+font-size: 14.83px;
+font-family: ProximaNova-Medium_2ud;
+fill: #6D6E71;
+}
+.s12_50{
+font-size: 19.26px;
+font-family: ProximaNova-Semibold_2ue;
+fill: #FFFFFF;
+}
+.s13_50{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2u1;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,73.2l13,0" class="g1_50" />
+<path d="M261.3,315.7l120.3,0" class="g2_50" />
+<path d="M261.3,349.1l120.3,0" class="g2_50" />
+<path d="M333.4,411.2l104.3,0" class="g2_50" />
+<path d="M316.6,444.6l123.3,0" class="g2_50" />
+<path d="M261.3,506.7l120.3,0" class="g2_50" />
+<path d="M261.3,540.1l120.1,0" class="g2_50" />
+<path d="M261.3,602.1l208.5,0" class="g2_50" />
+<path d="M261.3,635.6l208.4,0" class="g2_50" />
+<path d="M333.4,697.6l120.4,0" class="g2_50" />
+<path d="M313.2,731l140.3,0" class="g2_50" />
+<text 
+x="105" 
+y="69" 
+dx="0,0" 
+class="s1_50"
+>B </text>
+
+<text 
+x="366" 
+y="74" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_50"
+>Getting acquainted</text>
+
+<text 
+x="143" 
+y="136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_50"
+>Complete the following exchange between two people who have never met before. Do a role-play </text>
+
+<text 
+x="143" 
+y="163" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_50"
+>based on the prompts.</text>
+
+<text 
+x="143" 
+y="215" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_50"
+>Student A</text>
+
+<text 
+x="261" 
+y="215" 
+dx="0,0,0,0" 
+class="s5_50"
+>你好！ </text>
+
+<text 
+x="261" 
+y="252" 
+dx="0,0,0,0,0,0,0" 
+class="s6_50"
+>Nǐ hǎo!</text>
+
+<text 
+x="143" 
+y="311" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_50"
+>Student B</text>
+
+<text 
+x="381" 
+y="311" 
+dx="0" 
+class="s5_50"
+>。</text>
+
+<text 
+x="381" 
+y="347" 
+dx="0" 
+class="s6_50"
+>.</text>
+
+<text 
+x="143" 
+y="406" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_50"
+>Student A</text>
+
+<text 
+x="261" 
+y="406" 
+dx="0,0,0" 
+class="s5_50"
+>我姓 </text>
+
+<text 
+x="437" 
+y="406" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_50"
+>，请问，你贵姓？</text>
+
+<text 
+x="261" 
+y="443" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_50"
+>Wǒ xìng </text>
+
+<text 
+x="439" 
+y="443" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_50"
+>, qǐng wèn, nǐ guì xìng?</text>
+
+<text 
+x="143" 
+y="502" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_50"
+>Student B</text>
+
+<text 
+x="381" 
+y="502" 
+dx="0" 
+class="s5_50"
+>。</text>
+
+<text 
+x="381" 
+y="538" 
+dx="0" 
+class="s6_50"
+>.</text>
+
+<text 
+x="143" 
+y="597" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_50"
+>Student A</text>
+
+<text 
+x="469" 
+y="597" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_50"
+>，你叫什么名字？</text>
+
+<text 
+x="469" 
+y="634" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_50"
+>, nǐ jiào shénme míngzi?</text>
+
+<text 
+x="143" 
+y="693" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_50"
+>Student B</text>
+
+<text 
+x="261" 
+y="693" 
+dx="0,0,0" 
+class="s5_50"
+>我叫 </text>
+
+<text 
+x="453" 
+y="693" 
+dx="0" 
+class="s5_50"
+>。</text>
+
+<text 
+x="261" 
+y="729" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_50"
+>Wǒ jiào </text>
+
+<text 
+x="453" 
+y="729" 
+dx="0" 
+class="s6_50"
+>.</text>
+
+<path d="M132.9,39l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g3_50" />
+<path d="M134.9,91.2l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g4_50" />
+<text 
+x="711" 
+y="70" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1" 
+class="s7_50"
+>INTERPERSONAL</text>
+
+<g clip-path="url(#c0_50)">
+<path d="M706.1,73.9l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g5_50" />
+</g>
+<path d="M259.1,1036.6l214.5,0l0,-220.3l-214.5,0l0,220.3Z" class="g6_50" />
+<path d="M260.2,829.2l212,0l0,-11.7l-212,0l0,11.7Z" class="g7_50" />
+<path d="M264.6,826l1.4,0l0,-2.6l-1.4,0l0,2.6Z" class="g8_50" />
+<path d="M267,826l1.4,0l0,-3.6l-1.4,0l0,3.6Z" class="g8_50" />
+<path d="M269.4,826l1.3,0l0,-4.7l-1.3,0l0,4.7Z" class="g8_50" />
+<path d="M271.8,826l1.3,0l0,-5.8l-1.3,0l0,5.8Z" class="g8_50" />
+<path d="M274.2,826l1.3,0l0,-6.9l-1.3,0l0,6.9Z" class="g8_50" />
+<path d="M280.9,822.4c0.6,-0.7,1.7,-1.3,3,-1.3c1.3,0,2.5,0.6,3.1,1.3l1.1,-0.2c-0.7,-1.2,-2.3,-2.1,-4.2,-2.1c-1.8,0,-3.5,0.9,-4.1,2.1Z" class="g8_50" />
+<path d="M282,824.2c0.4,-0.5,1.1,-0.8,1.9,-0.8c0.8,0,1.6,0.3,1.9,0.8l0.7,-0.4c-0.4,-0.8,-1.4,-1.3,-2.6,-1.3c-1.1,0,-2.2,0.5,-2.6,1.3Z" class="g8_50" />
+<path d="M283.2,826c0.1,-0.2,0.4,-0.4,0.7,-0.4c0.4,0,0.6,0.2,0.8,0.4l0.3,-0.6c-0.2,-0.3,-0.6,-0.5,-1.1,-0.5c-0.4,0,-0.9,0.2,-1,0.5Z" class="g8_50" />
+<text 
+x="352" 
+y="825" 
+dx="0,0,0,0,0,0,0" 
+class="s8_50"
+>9:41 PM</text>
+
+<text 
+x="443" 
+y="824" 
+dx="0,0,0" 
+class="s8_50"
+>85%</text>
+
+<path d="M471.1,821.5l-0.9,0l0,-1.6l-9.3,0l0,4.8l9.3,0l0,-1.6l0.9,0l0,-1.6Z" class="g9_50" />
+<path d="M467.7,823.2l-6.1,0l0,-2l6.1,0l0,2Z" class="g8_50" />
+<path d="M260.9,882.1l210.7,0" class="g10_50" />
+<path d="M260.9,919.2l210.7,0" class="g10_50" />
+<path d="M260.9,956.2l210.7,0" class="g10_50" />
+<path d="M260.9,993.2l210.7,0" class="g10_50" />
+<path d="M260.9,1030.2l210.7,0" class="g10_50" />
+<text 
+x="292" 
+y="869" 
+dx="0,0,0,0,-0.5,0,-0.2,-0.2" 
+class="s9_50"
+>Contacts</text>
+
+<text 
+x="279" 
+y="909" 
+dx="0,0" 
+class="s10_50"
+>李朋</text>
+
+<text 
+x="279" 
+y="946" 
+dx="0,0" 
+class="s10_50"
+>李友</text>
+
+<text 
+x="279" 
+y="983" 
+dx="0,0,0" 
+class="s10_50"
+>王朋 </text>
+
+<text 
+x="279" 
+y="1020" 
+dx="0,0" 
+class="s10_50"
+>王友</text>
+
+<text 
+x="261" 
+y="868" 
+dx="0" 
+class="s9_50"
+>〈</text>
+
+<path d="M455.3,860.4c0,4.1,-3.3,7.3,-7.3,7.3c-4.1,0,-7.3,-3.2,-7.3,-7.3c0,-4,3.2,-7.3,7.3,-7.3c4,0,7.3,3.3,7.3,7.3Z" class="g11_50" />
+<path d="M453.8,866.6l5.2,5.3" class="g11_50" />
+<text 
+x="488" 
+y="867" 
+dx="0,-2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.7,-0.1,-0.1,-0.1" 
+class="s11_50"
+>You want to add Wang </text>
+
+<text 
+x="488" 
+y="885" 
+dx="0,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0,0,0,0,-1.9,0,0,0,0,0,0,0" 
+class="s11_50"
+>Peng and Li You to a </text>
+
+<text 
+x="488" 
+y="902" 
+dx="0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s11_50"
+>group text message. </text>
+
+<text 
+x="488" 
+y="920" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_50"
+>From this contact list, </text>
+
+<text 
+x="488" 
+y="938" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_50"
+>which names would </text>
+
+<text 
+x="488" 
+y="956" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_50"
+>you select?</text>
+
+<g clip-path="url(#c1_50)">
+<path d="M648.4,834.3c0,-10.5,-8.5,-19,-19,-19l-131.6,0c-10.5,0,-19,8.5,-19,19l0,13.4l169.6,0Z" class="g12_50" />
+</g>
+<path d="M496.4,969l-17.6,18.4l0,-18.4Z" class="g13_50" />
+<text 
+x="508" 
+y="839" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s12_50"
+>Chinese Chat</text>
+
+<path d="M478.8,851.1l0,114.9l147.4,-0.4c12.1,0,21.9,-9.7,21.9,-21.8l0,-93l-169.3,0.3Z" class="g14_50" />
+<path d="M885.3,1209.2l67.3,0l0,-1222.1l-67.3,0l0,1222.1Z" class="g15_50" />
+<text 
+transform="matrix(0, 1, -1, 0, 894, 894)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_50"
+>Lesson 1 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 950)"
+dx="0,0.3" 
+class="s13_50"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 963)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_50"
+>Greetings </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1026)"
+dx="0,0.3" 
+class="s13_50"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1038)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_50"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1159)"
+dx="0,0.3" 
+class="s13_50"
+>29</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2th;
+	src: url("fonts/ProximaNova-Extrabld_2th.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Medium_2ud;
+	src: url("fonts/ProximaNova-Medium_2ud.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_2um;
+	src: url("fonts/ArialMT_2um.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_2uc;
+	src: url("fonts/SourceHanSansTW-Medium_2uc.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Normal_4av;
+	src: url("fonts/SourceHanSansCN-Normal_4av.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2t-;
+	src: url("fonts/ProximaNova-Light_2t-.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2ue;
+	src: url("fonts/ProximaNova-Semibold_2ue.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2u1;
+	src: url("fonts/ProximaNova-Semibold_2u1.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2tj;
+	src: url("fonts/ProximaNova-Bold_2tj.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_2u2;
+	src: url("fonts/ProximaNova-Regular_2u2.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

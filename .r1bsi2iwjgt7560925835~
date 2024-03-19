@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 146 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_146"><path d="M170,1113.2l0,-616.5l576.6,0l0,616.5Z" /></clipPath>
+<clipPath id="c1_146"><path d="M719.9,300.9l0,-14.4l90.9,0l0,14.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_146{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 0.7990278;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_146{
+fill: #7CA3CC;
+}
+.g3_146{
+fill: #F58320;
+}
+.g4_146{
+fill: none;
+stroke: #7CA3CC;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_146{
+fill: #FFFFFF;
+}
+.g6_146{
+fill: none;
+stroke: #F7931D;
+stroke-width: 0.40027776;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_146{
+fill: #FBB040;
+}
+.g8_146{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.96097225;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_146{
+fill: none;
+stroke: #FBB040;
+stroke-width: 1.5781945;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g10_146{
+fill: #F3F4F4;
+}
+.g11_146{
+fill: none;
+stroke: #939598;
+stroke-width: 1.8440279;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_146{
+fill: #939598;
+}
+.g13_146{
+fill: none;
+stroke: #FBB040;
+stroke-width: 1.8440279;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g14_146{
+fill: none;
+stroke: #939598;
+stroke-width: 0.45375004;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g15_146{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.6836112;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g16_146{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g17_146{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g18_146{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g19_146{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g20_146{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_146{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_3xl;
+fill: #6D6E71;
+}
+.s2_146{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_3xj;
+fill: #FFFFFF;
+}
+.s3_146{
+font-size: 13.75px;
+font-family: SourceHanSansCN-Medium_3p3;
+fill: #1275BC;
+}
+.s4_146{
+font-size: 13.75px;
+font-family: ArialMT_3xo;
+fill: #1275BC;
+}
+.s5_146{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Regular_3tv;
+fill: #231F20;
+}
+.s6_146{
+font-size: 15.30px;
+font-family: MyriadPro-Regular_3xm;
+fill: #FFFFFF;
+}
+.s7_146{
+font-size: 20.68px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #FBB040;
+}
+.s8_146{
+font-size: 15.28px;
+font-family: ArialMT_3xo;
+fill: #939598;
+}
+.s9_146{
+font-size: 15.28px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #939598;
+}
+.s10_146{
+font-size: 18.31px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #231F20;
+}
+.s11_146{
+font-size: 18.33px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #939598;
+}
+.s12_146{
+font-size: 18.33px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #FBB040;
+}
+.s13_146{
+font-size: 18.81px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #FBB040;
+}
+.s14_146{
+font-size: 18.31px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #26AAE1;
+}
+.s15_146{
+font-size: 18.31px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #FBB040;
+}
+.s16_146{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3v-;
+fill: #872B91;
+}
+.s17_146{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s18_146{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s19_146{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3wc;
+fill: #3F3F40;
+}
+.s20_146{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3v-;
+fill: #8F4198;
+}
+.s21_146{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3vu;
+fill: #8F4198;
+}
+.s22_146{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_3v_;
+fill: #872B91;
+}
+.s23_146{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3wg;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M508.4,952.5l-293,0c-34.5,0,-32.1,5.8,-32.1,-47.8l0,-202c0,-53,-3,-47.9,32.1,-47.9l293,0c17.7,0,32.1,21.4,32.1,47.9l0,202c0,26.4,-14.4,47.8,-32.1,47.8Z" class="g1_146" />
+<text 
+x="211" 
+y="561" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_146"
+>Little Bai and Little Li are chatting about shopping on Weibo. What is </text>
+
+<text 
+x="211" 
+y="585" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_146"
+>Little Li hinting at, and how does Little Bai reply? </text>
+
+<g clip-path="url(#c0_146)">
+<path d="M366.2,517.8c0,-11.6,-9.4,-21.1,-21.1,-21.1l-141.4,0c-11.6,0,-21.1,9.5,-21.1,21.1l0,14.9l183.6,0Z" class="g2_146" />
+</g>
+<path d="M183.3,607.2l19.6,20.5l0,-20.5Z" class="g3_146" />
+<text 
+x="212" 
+y="523" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s2_146"
+>Chinese Chat</text>
+
+<path d="M182.9,601.7l0,-65.2l529.8,0c13.4,0,24.3,10.9,24.3,24.3l0,40.9l-554.1,0Z" class="g4_146" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 199, 684)"
+dx="0,0" 
+class="s3_146"
+>小李</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 228, 684)"
+dx="0" 
+class="s4_146"
+>:</text>
+
+<text 
+x="199" 
+y="706" 
+dx="0,0,0,0,0,0.4,0,0,0" 
+class="s5_146"
+>手动点赞！不知道有</text>
+
+<text 
+x="199" 
+y="728" 
+dx="0,0,0,0,0,0,0,0,0.4" 
+class="s5_146"
+>没有我喜欢的颜色。</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 199, 759)"
+dx="0,0,0" 
+class="s3_146"
+>@小白</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 241, 759)"
+dx="0,0" 
+class="s4_146"
+>: </text>
+
+<text 
+x="199" 
+y="781" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_146"
+>晒一晒我刚买的衣服，</text>
+
+<text 
+x="199" 
+y="803" 
+dx="0,0,0,0,-1.2,-8,0,0,0.4" 
+class="s5_146"
+>打了七折，好开心！</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 199, 863)"
+dx="0,0" 
+class="s3_146"
+>小白</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 228, 863)"
+dx="0,0" 
+class="s4_146"
+>: </text>
+
+<text 
+x="199" 
+y="885" 
+dx="0,0,0,0,0,0,0,0,0.4" 
+class="s5_146"
+>有你喜欢的蓝色，但</text>
+
+<text 
+x="199" 
+y="907" 
+dx="0,0,0,0,0,0,0,0.4,0.4" 
+class="s5_146"
+>是只有大号的了，你</text>
+
+<text 
+x="199" 
+y="929" 
+dx="0,0,0,0,0,0.4" 
+class="s5_146"
+>穿着不合适。</text>
+
+<image preserveAspectRatio="none" x="391" y="743" width="347" height="371" xlink:href="146/img/1.png" />
+<path d="M735.1,1092.3l-337.1,0L398,614l337.1,0l0,478.3Z" class="g5_146" />
+<path d="M735.1,1092.3l-337.1,0L398,614l337.1,0Z" class="g6_146" />
+<image preserveAspectRatio="none" x="408" y="617" width="174" height="116" xlink:href="146/img/2.png" />
+<path d="M468.1,683.1c0,4.5,-3.6,8.2,-8.1,8.2c-4.5,0,-8.2,-3.7,-8.2,-8.2c0,-4.5,3.7,-8.1,8.2,-8.1c4.5,0,8.1,3.6,8.1,8.1Z" class="g7_146" />
+<path d="M468.1,683.1c0,4.5,-3.6,8.2,-8.1,8.2c-4.5,0,-8.2,-3.7,-8.2,-8.2c0,-4.5,3.7,-8.1,8.2,-8.1c4.5,0,8.1,3.6,8.1,8.1Z" class="g8_146" />
+<text 
+x="455" 
+y="688" 
+dx="0" 
+class="s6_146"
+>V</text>
+
+<text 
+x="487" 
+y="656" 
+dx="0,0" 
+class="s7_146"
+>小李</text>
+
+<text 
+x="487" 
+y="683" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.8,0" 
+class="s8_146"
+>7-6 10:36 AM</text>
+
+<text 
+x="581" 
+y="683" 
+dx="0,0" 
+class="s9_146"
+>來自</text>
+
+<text 
+x="612" 
+y="683" 
+dx="0,0,0,0,0,0" 
+class="s8_146"
+>iPhone</text>
+
+<path d="M703.4,642.2l3.8,7.6l8.4,1.2l-6.1,5.9l1.4,8.4l-7.5,-4l-7.5,4l1.5,-8.4L691.3,651l8.4,-1.2l3.7,-7.6Z" class="g9_146" />
+<text 
+transform="matrix(1.03, 0, 0, 1, 422, 723)"
+dx="0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0" 
+class="s10_146"
+>手動點讚！不知道有沒有我喜歡的</text>
+
+<text 
+transform="matrix(1.03, 0, 0, 1, 422, 745)"
+dx="0,0,0.4" 
+class="s10_146"
+>顏色。</text>
+
+<path d="M709.6,977.2l-293.1,0l0,-217.6l293.1,0l0,217.6Z" class="g10_146" />
+<path d="M444.1,1002.5l0,2.6c0,1.8,-1.5,3.2,-3.3,3.2l-14.6,0c-1.8,0,-3.2,-1.4,-3.2,-3.2l0,-8.8c0,-1.7,1.4,-3.2,3.2,-3.2l8.1,0" class="g11_146" />
+<path d="M433.5,1002.9l9.4,-9.1" class="g11_146" />
+<path d="M443.4,998.9l-1,-0.1l0.3,-4.7l-4.8,0.1l0,-1l5.8,-0.1Z" class="g12_146" />
+<text 
+x="455" 
+y="1007" 
+dx="0,0" 
+class="s11_146"
+>轉發</text>
+
+<path d="M517.5,991.2l0,23.8" class="g11_146" />
+<path d="M634.7,991.2l0,23.8" class="g11_146" />
+<text 
+x="564" 
+y="1007" 
+dx="0,0,0,0" 
+class="s12_146"
+>1 評論</text>
+
+<path d="M561.3,991.6l-21.1,0l0,15.2l7.5,0l3,5.3l3.1,-5.3l7.5,0l0,-15.2Z" class="g13_146" />
+<text 
+x="542" 
+y="1000" 
+dx="0,0,0" 
+class="s13_146"
+>...</text>
+
+<text 
+x="689" 
+y="1007" 
+dx="0" 
+class="s11_146"
+>讚</text>
+
+<path d="M661.3,1012.6l-1.9,0c-0.3,0,-0.6,-0.3,-0.6,-0.7l0,-13c0,-0.4,0.3,-0.7,0.6,-0.7l1.9,0c0.3,0,0.6,0.3,0.6,0.7l0,13c0,0.4,-0.3,0.7,-0.6,0.7Z" class="g11_146" />
+<path d="M663.6,1011.8l0,-12.9c0,0,2.5,-1.5,2.5,-3c0,-1.4,-1.2,-7.1,1.3,-6.2c2.5,0.9,2.7,2.2,2.7,3.7c0,1.4,-0.7,4.5,-0.2,5.1c0.6,0.5,7.8,-0.6,8.2,0c0.3,0.5,0.9,2,0.3,2.7c-0.5,0.8,0.9,2.4,-0.5,4c-1.5,1.7,0,5.9,-1.5,6.6c-1.4,0.7,-12.1,1.3,-12.8,0Z" class="g11_146" />
+<text 
+transform="matrix(1.03, 0, 0, 1, 422, 783)"
+dx="0,0,0" 
+class="s14_146"
+>@小白</text>
+
+<text 
+transform="matrix(1.03, 0, 0, 1, 479, 783)"
+dx="0,0.4,0,0,0,0,0,0,0,0,0" 
+class="s10_146"
+>：曬一曬我剛買的衣服，</text>
+
+<text 
+transform="matrix(1.03, 0, 0, 1, 422, 805)"
+dx="0,0,0,0,0,0.4,0,0,0.4" 
+class="s10_146"
+>打了七折，好開心！</text>
+
+<image preserveAspectRatio="none" x="423" y="821" width="99" height="148" xlink:href="146/img/3.png" />
+<path d="M521.7,969.5l-98.7,0l0,-148.1l98.7,0Z" class="g14_146" />
+<text 
+transform="matrix(1.03, 0, 0, 1, 422, 1050)"
+dx="0,0" 
+class="s15_146"
+>小白</text>
+
+<text 
+transform="matrix(1.03, 0, 0, 1, 460, 1050)"
+dx="0,0.4,0,0,0,0,0,0,0.7,0.4,0,0" 
+class="s10_146"
+>：有你喜歡的藍色，但是只</text>
+
+<text 
+transform="matrix(1.03, 0, 0, 1, 422, 1072)"
+dx="0,0,0,0,0,0,0.4,0,0,0,0,0,0.4" 
+class="s10_146"
+>有大號的了，你穿著不合適。</text>
+
+<path d="M202.9,833l154.9,0" class="g15_146" />
+<path d="M119.2,302.5l12.2,0" class="g16_146" />
+<text 
+x="168" 
+y="73" 
+dx="0,0.2" 
+class="s16_146"
+>3 </text>
+
+<text 
+x="197" 
+y="73" 
+dx="0,0,0,0" 
+class="s17_146"
+>穿衣服 </text>
+
+<text 
+x="508" 
+y="73" 
+dx="0,0,0" 
+class="s17_146"
+>名牌的</text>
+
+<text 
+x="168" 
+y="121" 
+dx="0,0.2" 
+class="s16_146"
+>4 </text>
+
+<text 
+x="197" 
+y="121" 
+dx="0,0,0" 
+class="s17_146"
+>开车/</text>
+
+<text 
+x="262" 
+y="121" 
+dx="0,0" 
+class="s18_146"
+>開車</text>
+
+<text 
+x="508" 
+y="121" 
+dx="0,0,0" 
+class="s17_146"
+>跑车/</text>
+
+<text 
+x="573" 
+y="121" 
+dx="0,0" 
+class="s18_146"
+>跑車</text>
+
+<text 
+x="168" 
+y="168" 
+dx="0,0.2" 
+class="s16_146"
+>5 </text>
+
+<text 
+x="197" 
+y="168" 
+dx="0,0,0" 
+class="s17_146"
+>打球 </text>
+
+<text 
+x="508" 
+y="168" 
+dx="0,0,0" 
+class="s17_146"
+>网球/</text>
+
+<text 
+x="573" 
+y="168" 
+dx="0,0" 
+class="s18_146"
+>網球</text>
+
+<text 
+x="157" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s19_146"
+>Do you know anyone who is extremely particular? Give an example or two.</text>
+
+<text 
+x="119" 
+y="296" 
+dx="0,0" 
+class="s20_146"
+>H </text>
+
+<text 
+x="414" 
+y="301" 
+dx="0,-0.5,0,0,0,-1,0,0,0,0,0,0,0" 
+class="s21_146"
+>Strike a pose</text>
+
+<text 
+x="157" 
+y="358" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s19_146"
+>One of your classmates looks great and has a unique style, and you think he/she should </text>
+
+<text 
+x="157" 
+y="381" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s19_146"
+>become a model. Describe what he/she is wearing and what he/she looks like. Make sure that </text>
+
+<text 
+x="157" 
+y="404" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,-0.2,0,0,0,-0.1,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s19_146"
+>your description follows a certain logic. Describe his/her clothes from top to bottom and then </text>
+
+<text 
+x="157" 
+y="427" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,-0.1,-0.2,0" 
+class="s19_146"
+>his/her appearance—figure, hair, eyes, etc.</text>
+
+<path d="M146.6,266l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g17_146" />
+<path d="M148.7,318.2l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g18_146" />
+<text 
+x="721" 
+y="297" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s22_146"
+>PRESENTATIONAL</text>
+
+<g clip-path="url(#c1_146)">
+<path d="M719.9,300.9l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g19_146" />
+</g>
+<path d="M881.9,1209.2l67.2,0l0,-1222.1l-67.2,0l0,1222.1Z" class="g20_146" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 854)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s23_146"
+>Lesson 4 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 920)"
+dx="0,1" 
+class="s23_146"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 933)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s23_146"
+>Shopping </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1001)"
+dx="0,1" 
+class="s23_146"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1015)"
+dx="0,1,1,1,1,1,1,0.8,1,1,1,0.9,1,1,1,1,1,1" 
+class="s23_146"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1151)"
+dx="0,1,1,0" 
+class="s23_146"
+>123 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Medium_3v_;
+	src: url("fonts/LibreFranklin-Medium_3v_.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3wg;
+	src: url("fonts/LibreFranklin-SemiBold_3wg.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3xj;
+	src: url("fonts/LibreFranklin-SemiBold_3xj.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3wc;
+	src: url("fonts/LibreFranklin-Regular_3wc.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_3xm;
+	src: url("fonts/MyriadPro-Regular_3xm.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_3xo;
+	src: url("fonts/ArialMT_3xo.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_3ps;
+	src: url("fonts/SourceHanSansTW-Medium_3ps.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3v-;
+	src: url("fonts/LibreFranklin-ExtraBold_3v-.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_3p3;
+	src: url("fonts/SourceHanSansCN-Medium_3p3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3vu;
+	src: url("fonts/LibreFranklin-Bold_3vu.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3xl;
+	src: url("fonts/LibreFranklin-Medium_3xl.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_3tv;
+	src: url("fonts/SourceHanSansCN-Regular_3tv.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

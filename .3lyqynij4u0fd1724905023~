@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 194 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_194{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_194{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_194{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_194{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_44v;
+fill: #3F3F40;
+}
+.s2_194{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_44v;
+fill: #007598;
+}
+.s3_194{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #3F3F40;
+}
+.s4_194{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #007D9F;
+}
+.s5_194{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s6_194{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s7_194{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_45b;
+fill: #3F3F40;
+}
+.s8_194{
+font-size: 24.44px;
+font-family: STKaitiSC-Bold_3wm;
+fill: #007598;
+}
+.s9_194{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_454;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="169" 
+y="75" 
+dx="0,0" 
+class="s1_194"
+>C </text>
+
+<text 
+x="212" 
+y="78" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_194"
+>Student A </text>
+
+<text 
+x="305" 
+y="78" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_194"
+>这本书我考试要用，你今天</text>
+
+<text 
+x="690" 
+y="78" 
+dx="0,0,0" 
+class="s4_194"
+>看得完</text>
+
+<text 
+x="786" 
+y="78" 
+dx="0,0" 
+class="s3_194"
+>吗？</text>
+
+<text 
+x="305" 
+y="114" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_194"
+>Zhè běn shū wǒ kǎoshì yào yòng, nǐ jīntiān </text>
+
+<text 
+x="589" 
+y="114" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_194"
+>kàn de wán </text>
+
+<text 
+x="668" 
+y="114" 
+dx="0,0.3,0.3" 
+class="s5_194"
+>ma?</text>
+
+<text 
+x="305" 
+y="146" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s7_194"
+>I need this book for an exam. Can you finish reading this book today?</text>
+
+<text 
+x="212" 
+y="203" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_194"
+>Student B </text>
+
+<text 
+x="305" 
+y="203" 
+dx="0,0,0,0,0,0" 
+class="s3_194"
+>这本书我今天</text>
+
+<text 
+x="498" 
+y="203" 
+dx="0,0,0" 
+class="s4_194"
+>看不完</text>
+
+<text 
+x="594" 
+y="203" 
+dx="0,0,0,0,0,0,0" 
+class="s3_194"
+>，你先用吧， </text>
+
+<text 
+x="305" 
+y="241" 
+dx="0,0,0,0,0,0" 
+class="s3_194"
+>我以后再看。</text>
+
+<text 
+x="305" 
+y="278" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_194"
+>Zhè běn shū wǒ jīntiān </text>
+
+<text 
+x="459" 
+y="278" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_194"
+>kàn bu wán</text>
+
+<text 
+x="536" 
+y="278" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_194"
+>, nǐ xiān yòng ba, wǒ yǐhòu zài kàn.</text>
+
+<text 
+x="305" 
+y="310" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1,0,0,-1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,-1.3" 
+class="s7_194"
+>I can’t finish this book today. You use it first; I’ll read it later.</text>
+
+<text 
+x="169" 
+y="387" 
+dx="0,0" 
+class="s1_194"
+>D </text>
+
+<text 
+x="239" 
+y="390" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_194"
+>那个字怎么写，我</text>
+
+<text 
+x="496" 
+y="390" 
+dx="0,0,0,0" 
+class="s4_194"
+>想不起来</text>
+
+<text 
+x="624" 
+y="390" 
+dx="0,0" 
+class="s3_194"
+>了。</text>
+
+<text 
+x="245" 
+y="427" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_194"
+>Nà ge zì zěnme xiě, wǒ </text>
+
+<text 
+x="396" 
+y="427" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_194"
+>xiǎng bu qǐ lái </text>
+
+<text 
+x="494" 
+y="427" 
+dx="0,0.3,0.3" 
+class="s5_194"
+>le.</text>
+
+<text 
+x="245" 
+y="459" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.3" 
+class="s7_194"
+>I can’t remember how to write that character.</text>
+
+<text 
+x="245" 
+y="486" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s7_194"
+>[See Dialogue 2 for </text>
+
+<text 
+x="383" 
+y="488" 
+dx="0,0,0,0" 
+class="s8_194"
+>想不起来</text>
+
+<text 
+x="484" 
+y="486" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_194"
+>(xiǎng bu qǐ lái)</text>
+
+<text 
+x="589" 
+y="486" 
+dx="0,0" 
+class="s7_194"
+>.]</text>
+
+<text 
+x="169" 
+y="550" 
+dx="0,0" 
+class="s1_194"
+>E </text>
+
+<text 
+x="239" 
+y="552" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_194"
+>健康保险太贵，我</text>
+
+<text 
+x="496" 
+y="552" 
+dx="0,0,0" 
+class="s4_194"
+>买不起</text>
+
+<text 
+x="592" 
+y="552" 
+dx="0" 
+class="s3_194"
+>。</text>
+
+<text 
+x="245" 
+y="589" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_194"
+>Jiànkāng bǎoxiǎn tài guì, wǒ </text>
+
+<text 
+x="437" 
+y="589" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_194"
+>mǎi bu qǐ</text>
+
+<text 
+x="499" 
+y="589" 
+dx="0" 
+class="s5_194"
+>.</text>
+
+<text 
+x="245" 
+y="621" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.3,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0" 
+class="s7_194"
+>Health insurance is too expensive. I can’t afford it.</text>
+
+<text 
+x="157" 
+y="663" 
+dx="0,-0.8,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0" 
+class="s7_194"
+>Potential complements usually appear in negative sentences. They are used in affirmative </text>
+
+<text 
+x="157" 
+y="690" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_194"
+>sentences much less often. In affirmative sentences, we normally use the “</text>
+
+<text 
+x="683" 
+y="692" 
+dx="0" 
+class="s8_194"
+>能</text>
+
+<text 
+x="711" 
+y="690" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s5_194"
+>(néng)</text>
+
+<text 
+x="757" 
+y="690" 
+dx="0,0,0,-0.5,0,0,0,0,0" 
+class="s7_194"
+>+ verb + </text>
+
+<text 
+x="157" 
+y="718" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_194"
+>resultative/directional complement” structure:</text>
+
+<text 
+x="169" 
+y="781" 
+dx="0,0" 
+class="s1_194"
+>F </text>
+
+<text 
+x="239" 
+y="784" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_194"
+>今天的功课不多，我很快就</text>
+
+<text 
+x="624" 
+y="784" 
+dx="0,0,0" 
+class="s4_194"
+>能做完</text>
+
+<text 
+x="721" 
+y="784" 
+dx="0" 
+class="s3_194"
+>。</text>
+
+<text 
+x="245" 
+y="821" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_194"
+>Jīntiān de gōngkè bù duō, wǒ hěn kuài jiù </text>
+
+<text 
+x="522" 
+y="821" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_194"
+>néng zuò wán</text>
+
+<text 
+x="612" 
+y="821" 
+dx="0" 
+class="s5_194"
+>.</text>
+
+<text 
+x="245" 
+y="853" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,-1" 
+class="s7_194"
+>There isn’t much homework today. I can finish it very quickly.</text>
+
+<text 
+x="169" 
+y="916" 
+dx="0,0" 
+class="s1_194"
+>G </text>
+
+<text 
+x="239" 
+y="919" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_194"
+>这个中国电影的中文不难，我</text>
+
+<text 
+x="656" 
+y="919" 
+dx="0,0,0" 
+class="s4_194"
+>能看懂</text>
+
+<text 
+x="753" 
+y="919" 
+dx="0" 
+class="s3_194"
+>。</text>
+
+<text 
+x="245" 
+y="956" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_194"
+>Zhè ge Zhōngguó diànyǐng de Zhōngwén bù nán, wǒ </text>
+
+<text 
+x="592" 
+y="956" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_194"
+>néng kàn dǒng</text>
+
+<text 
+x="689" 
+y="956" 
+dx="0" 
+class="s5_194"
+>.</text>
+
+<text 
+x="245" 
+y="988" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_194"
+>The language in this Chinese movie isn’t difficult. I can understand it. </text>
+
+<text 
+x="157" 
+y="1029" 
+dx="0,-0.8,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_194"
+>Potential complements can be used to ask questions. In these situations, we can answer </text>
+
+<text 
+x="157" 
+y="1057" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_194"
+>affirmatively using potential complements.</text>
+
+<path d="M164.4,52.4c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_194" />
+<path d="M164.4,54.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_194" />
+<path d="M164.4,364.4c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_194" />
+<path d="M164.4,366.4c-0.6,0.1,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_194" />
+<path d="M164.4,527c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_194" />
+<path d="M164.4,529.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_194" />
+<path d="M164.4,758.4c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_194" />
+<path d="M164.4,760.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_194" />
+<path d="M164.4,893.6c-0.1,0,-7.7,0,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_194" />
+<path d="M164.4,895.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_194" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g3_194" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 924)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s9_194"
+>Lesson 16 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 996)"
+dx="0,1" 
+class="s9_194"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1010)"
+dx="0,1,1,1,1,1,1" 
+class="s9_194"
+>Dating </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1061)"
+dx="0,1" 
+class="s9_194"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1075)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s9_194"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1152)"
+dx="0,1,1,-2.3" 
+class="s9_194"
+>173 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_44v;
+	src: url("fonts/LibreFranklin-ExtraBold_44v.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_45b;
+	src: url("fonts/LibreFranklin-Regular_45b.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_3wm;
+	src: url("fonts/STKaitiSC-Bold_3wm.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_454;
+	src: url("fonts/LibreFranklin-SemiBold_454.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_44y;
+	src: url("fonts/STKaitiSC-Regular_44y.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

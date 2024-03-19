@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 378 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_378{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_378{
+fill: #3986C6;
+}
+.g3_378{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_378{
+fill: #ACBF3B;
+}
+.g5_378{
+fill: #DCDDDF;
+}
+.g6_378{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_378{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_378{
+fill: none;
+stroke: #ACBF3B;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_378{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_378{
+fill: #FFFFFF;
+}
+.g11_378{
+fill: none;
+stroke: #ACBF3B;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_378{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_378{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_dcl;
+fill: #231F20;
+}
+.s2_378{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_dcf;
+fill: #231F20;
+}
+.s3_378{
+font-size: 19.10px;
+font-family: Alegreya-Regular_dci;
+fill: #231F20;
+}
+.s4_378{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s5_378{
+font-size: 32.08px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #3986C6;
+}
+.s6_378{
+font-size: 19.10px;
+font-family: Alegreya-Bold_dcn;
+fill: #3986C6;
+}
+.s7_378{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_dcf;
+fill: #FFFFFF;
+}
+.s8_378{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_dcf;
+fill: #231F20;
+}
+.s9_378{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_dcj;
+fill: #FFFFFF;
+}
+.s10_378{
+font-size: 19.10px;
+font-family: Alegreya-Bold_dcn;
+fill: #231F20;
+}
+.s11_378{
+font-size: 32.08px;
+font-family: STKaiti_c-m;
+fill: #3986C6;
+}
+.s12_378{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #3986C6;
+}
+.s13_378{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_dcf;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 812)"
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_378"
+>Chapter 15 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 881)"
+dx="0,0" 
+class="s1_378"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 892)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_378"
+>School and Activities </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1020)"
+dx="0,0" 
+class="s1_378"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1031)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_378"
+>Section 1</text>
+
+<text 
+x="855" 
+y="1149" 
+dx="0,0,0" 
+class="s2_378"
+>355</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_378" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_378" />
+<text 
+x="89" 
+y="152" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.2,0,0,-0.4,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,0" 
+class="s3_378"
+>Listen to the audio and try to understand as much as you can. Then read the passage, using </text>
+
+<text 
+x="90" 
+y="178" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,-0.4,-0.4" 
+class="s3_378"
+>the pinyin text and vocabulary list to figure out unfamiliar words. </text>
+
+<text 
+x="150" 
+y="229" 
+dx="0,0,0,0" 
+class="s4_378"
+>这个月我</text>
+
+<text 
+x="278" 
+y="229" 
+dx="0,0" 
+class="s5_378"
+>加入</text>
+
+<text 
+x="342" 
+y="229" 
+dx="0,0,0" 
+class="s4_378"
+>了中文</text>
+
+<text 
+x="439" 
+y="229" 
+dx="0,0,0" 
+class="s5_378"
+>俱乐部</text>
+
+<text 
+x="535" 
+y="229" 
+dx="0,0,0,0,0" 
+class="s4_378"
+>。我在那儿</text>
+
+<text 
+x="695" 
+y="229" 
+dx="0,0" 
+class="s5_378"
+>认识</text>
+
+<text 
+x="759" 
+y="229" 
+dx="0" 
+class="s4_378"
+>了</text>
+
+<text 
+x="153" 
+y="265" 
+dx="0,0" 
+class="s4_378"
+>一些</text>
+
+<text 
+x="217" 
+y="265" 
+dx="0" 
+class="s5_378"
+>新</text>
+
+<text 
+x="249" 
+y="265" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_378"
+>朋友。他们中文说</text>
+
+<text 
+x="506" 
+y="265" 
+dx="0" 
+class="s5_378"
+>得</text>
+
+<text 
+x="538" 
+y="265" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_378"
+>很好，写汉字也写</text>
+
+<text 
+x="151" 
+y="302" 
+dx="0" 
+class="s5_378"
+>得</text>
+
+<text 
+x="183" 
+y="302" 
+dx="0,0,0" 
+class="s4_378"
+>很好。</text>
+
+<text 
+x="279" 
+y="302" 
+dx="0,0" 
+class="s5_378"
+>最近</text>
+
+<text 
+x="344" 
+y="302" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_378"
+>我经常跟他们一起练习说中文。</text>
+
+<text 
+x="153" 
+y="355" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0" 
+class="s3_378"
+>Zhège yuè wǒ </text>
+
+<text 
+x="262" 
+y="355" 
+dx="0,0,0,0,0" 
+class="s6_378"
+>jiārù</text>
+
+<text 
+x="304" 
+y="355" 
+dx="0,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s3_378"
+>le Zhōngwén </text>
+
+<text 
+x="407" 
+y="355" 
+dx="0,0,0,0,-0.1,0" 
+class="s6_378"
+>jùlèbù</text>
+
+<text 
+x="457" 
+y="355" 
+dx="0,-0.4,0,-1.4,0,0,0,0,0,0,0,0,0" 
+class="s3_378"
+>. Wǒ zài nàr </text>
+
+<text 
+x="553" 
+y="355" 
+dx="0,-0.2,0,0,0,0" 
+class="s6_378"
+>rènshi</text>
+
+<text 
+x="608" 
+y="355" 
+dx="0,0" 
+class="s3_378"
+>le</text>
+
+<text 
+x="153" 
+y="388" 
+dx="0,0,0,0,0,0,0" 
+class="s3_378"
+>yì xiē </text>
+
+<text 
+x="197" 
+y="388" 
+dx="0,0,0" 
+class="s6_378"
+>xīn</text>
+
+<text 
+x="227" 
+y="388" 
+dx="0,0,0,0,0,-0.3,0,0,-0.4,0,-1,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s3_378"
+>péngyou. Tāmen Zhōngwén shuō </text>
+
+<text 
+x="488" 
+y="388" 
+dx="0,0" 
+class="s6_378"
+>de</text>
+
+<text 
+x="511" 
+y="388" 
+dx="0,0,0,0,0,0,0,-0.8,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0" 
+class="s3_378"
+>hěn hǎo, xiě hànzì yě xiě</text>
+
+<text 
+x="154" 
+y="421" 
+dx="0,0" 
+class="s6_378"
+>de</text>
+
+<text 
+x="176" 
+y="421" 
+dx="0,0,0,0,0,0,0,-0.8,-0.4" 
+class="s3_378"
+>hěn hǎo. </text>
+
+<text 
+x="246" 
+y="421" 
+dx="0,-0.2,0,0,0,0" 
+class="s6_378"
+>Zuìjìn</text>
+
+<text 
+x="299" 
+y="421" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s3_378"
+>wǒ jīngcháng gēn tāmen yìqǐ liànxí shuō Zhōngwén.</text>
+
+<path d="M107.6,111.5c-10.1,0,-18.3,-8.2,-18.3,-18.3L89.3,73l23.1,0c10.1,0,18.3,8.2,18.3,18.3l0,20.2Z" class="g2_378" />
+<path d="M98.7,73.5l444.1,0" class="g3_378" />
+<path d="M112.5,110.9l430.3,0" class="g3_378" />
+<text 
+x="97" 
+y="99" 
+dx="0,0,0" 
+class="s7_378"
+>1b </text>
+
+<text 
+x="139" 
+y="99" 
+dx="0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0" 
+class="s8_378"
+>New Words in Context </text>
+
+<path d="M425.5,102.8c-5.9,0,-10.8,-4.9,-10.8,-10.8l0,-10.9l114.3,0c6,0,10.9,4.9,10.9,10.9l0,10.8Z" class="g4_378" />
+<text 
+x="430" 
+y="96" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_378"
+>¶¸µ´rPr´µ¶V´</text>
+
+<path d="M90.2,766.2l54.9,0l0,36.3l-54.9,0l0,-36.3Zm54.9,0l130.4,0l0,36.3l-130.4,0l0,-36.3Zm130.4,0l135.7,0l0,36.3l-135.7,0l0,-36.3Zm135.7,0l394,0l0,36.3l-394,0l0,-36.3Z" class="g5_378" />
+<path d="M90.2,844.8l54.9,0" class="g6_378" />
+<path d="M145.1,844.8l130.4,0" class="g6_378" />
+<path d="M275.5,844.8l135.7,0" class="g6_378" />
+<path d="M411.2,844.8l394,0" class="g6_378" />
+<path d="M90.2,887.2l54.9,0" class="g6_378" />
+<path d="M145.1,887.2l130.4,0" class="g6_378" />
+<path d="M275.5,887.2l135.7,0" class="g6_378" />
+<path d="M411.2,887.2l394,0" class="g6_378" />
+<path d="M90.2,929.5l54.9,0" class="g6_378" />
+<path d="M145.1,929.5l130.4,0" class="g6_378" />
+<path d="M275.5,929.5l135.7,0" class="g6_378" />
+<path d="M411.2,929.5l394,0" class="g6_378" />
+<path d="M90.2,971.8l54.9,0" class="g6_378" />
+<path d="M145.1,971.8l130.4,0" class="g6_378" />
+<path d="M275.5,971.8l135.7,0" class="g6_378" />
+<path d="M411.2,971.8l394,0" class="g6_378" />
+<path d="M90.2,1032.9l54.9,0" class="g6_378" />
+<path d="M145.1,1032.9l130.4,0" class="g6_378" />
+<path d="M275.5,1032.9l135.7,0" class="g6_378" />
+<path d="M411.2,1032.9l394,0" class="g6_378" />
+<path d="M90.2,1075.2l54.9,0" class="g7_378" />
+<path d="M145.1,1075.2l130.4,0" class="g7_378" />
+<path d="M275.5,1075.2l135.7,0" class="g7_378" />
+<path d="M411.2,1075.2l394,0" class="g7_378" />
+<text 
+x="163" 
+y="791" 
+dx="0,-0.7,0,0" 
+class="s2_378"
+>Word</text>
+
+<text 
+x="294" 
+y="791" 
+dx="0,0,0,0,0,0" 
+class="s2_378"
+>Pinyin</text>
+
+<text 
+x="430" 
+y="791" 
+dx="0,0,0,0,0,0,0" 
+class="s2_378"
+>Meaning</text>
+
+<text 
+x="108" 
+y="831" 
+dx="0" 
+class="s10_378"
+>1</text>
+
+<text 
+x="160" 
+y="831" 
+dx="0,0" 
+class="s11_378"
+>加入</text>
+
+<text 
+x="294" 
+y="831" 
+dx="0,0,0,0,0" 
+class="s3_378"
+>jiārù</text>
+
+<text 
+x="429" 
+y="831" 
+dx="0,0,0,0,0,0,0" 
+class="s3_378"
+>to join</text>
+
+<text 
+x="108" 
+y="873" 
+dx="0" 
+class="s10_378"
+>2</text>
+
+<text 
+x="160" 
+y="874" 
+dx="0,0,0" 
+class="s11_378"
+>俱乐部</text>
+
+<text 
+x="294" 
+y="873" 
+dx="0,0,0,0,0,0" 
+class="s3_378"
+>jùlèbù</text>
+
+<text 
+x="430" 
+y="873" 
+dx="0,0,0,0" 
+class="s3_378"
+>club</text>
+
+<text 
+x="108" 
+y="916" 
+dx="0" 
+class="s10_378"
+>3</text>
+
+<text 
+x="160" 
+y="916" 
+dx="0,0" 
+class="s11_378"
+>认识</text>
+
+<text 
+x="293" 
+y="916" 
+dx="0,-0.2,0,0,0,0" 
+class="s3_378"
+>rènshi</text>
+
+<text 
+x="429" 
+y="916" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,-0.3,0,0,0,0,0,0" 
+class="s3_378"
+>to know (a person), to recognize </text>
+
+<text 
+x="107" 
+y="958" 
+dx="0" 
+class="s10_378"
+>4</text>
+
+<text 
+x="161" 
+y="960" 
+dx="0" 
+class="s12_378"
+>新</text>
+
+<text 
+x="293" 
+y="958" 
+dx="0,0,0" 
+class="s3_378"
+>xīn</text>
+
+<text 
+x="429" 
+y="958" 
+dx="0,0,0" 
+class="s3_378"
+>new</text>
+
+<text 
+x="108" 
+y="1010" 
+dx="0" 
+class="s10_378"
+>5</text>
+
+<text 
+x="160" 
+y="1010" 
+dx="0" 
+class="s11_378"
+>得</text>
+
+<text 
+x="294" 
+y="1010" 
+dx="0,0" 
+class="s3_378"
+>de</text>
+
+<text 
+x="429" 
+y="997" 
+dx="0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_378"
+>(word used to link a verb to a description of the </text>
+
+<text 
+x="429" 
+y="1023" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s3_378"
+>manner in which it was done)</text>
+
+<text 
+x="108" 
+y="1062" 
+dx="0" 
+class="s10_378"
+>6</text>
+
+<text 
+x="158" 
+y="1062" 
+dx="0,0" 
+class="s11_378"
+>最近</text>
+
+<text 
+x="294" 
+y="1061" 
+dx="0,0,0,0,0,0" 
+class="s3_378"
+>zuìjìn</text>
+
+<text 
+x="429" 
+y="1060" 
+dx="0,-0.2,0,-0.3,0,0,0,0" 
+class="s3_378"
+>recently</text>
+
+<text 
+x="699" 
+y="529" 
+dx="0" 
+class="s6_378"
+>T</text>
+
+<text 
+x="744" 
+y="529" 
+dx="0" 
+class="s6_378"
+>F</text>
+
+<text 
+x="140" 
+y="564" 
+dx="0" 
+class="s6_378"
+>1</text>
+
+<text 
+x="163" 
+y="564" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_378"
+>Leo joined Chinese Club this month.</text>
+
+<path d="M704.9,567.5c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g8_378" />
+<path d="M749.4,567.5c5.8,0,10.4,-4.7,10.4,-10.5c0,-5.8,-4.6,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g8_378" />
+<text 
+x="140" 
+y="600" 
+dx="0" 
+class="s6_378"
+>2</text>
+
+<text 
+x="163" 
+y="600" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8" 
+class="s3_378"
+>He got to know new friends in the club.</text>
+
+<path d="M704.9,602.9c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.7,-4.7,-10.4,-10.5,-10.4c-5.8,0,-10.5,4.7,-10.5,10.4c0,5.8,4.7,10.5,10.5,10.5Z" class="g8_378" />
+<path d="M749.4,602.9c5.8,0,10.4,-4.7,10.4,-10.5c0,-5.7,-4.6,-10.4,-10.4,-10.4c-5.8,0,-10.5,4.7,-10.5,10.4c0,5.8,4.7,10.5,10.5,10.5Z" class="g8_378" />
+<text 
+x="140" 
+y="636" 
+dx="0" 
+class="s6_378"
+>3</text>
+
+<text 
+x="164" 
+y="635" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0.3,0" 
+class="s3_378"
+>The people in the Chinese club speak Chinese well but are not very </text>
+
+<text 
+x="164" 
+y="661" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,-0.4" 
+class="s3_378"
+>good at writing Chinese characters. </text>
+
+<path d="M704.9,638.4c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g8_378" />
+<path d="M749.4,638.4c5.8,0,10.4,-4.7,10.4,-10.5c0,-5.8,-4.6,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g8_378" />
+<path d="M90.7,566.4l0,-60.5l330.4,0" class="g9_378" />
+<path d="M421.1,508.7c1.5,0,2.7,-1.3,2.7,-2.8c0,-1.5,-1.2,-2.7,-2.7,-2.7c-1.5,0,-2.8,1.2,-2.8,2.7c0,1.5,1.3,2.8,2.8,2.8Z" class="g2_378" />
+<path d="M106.1,519.8l223,0l0,-24.9l-223,0l0,24.9Z" class="g10_378" />
+<text 
+x="115" 
+y="510" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s13_378"
+>Comprehension Check</text>
+
+<path d="M384.9,497.5c5.5,10.8,1.2,23.9,-9.5,29.4c-10.7,5.5,-23.9,1.2,-29.4,-9.5c-5.5,-10.8,-1.2,-23.9,9.5,-29.4c10.8,-5.5,23.9,-1.2,29.4,9.5Z" class="g10_378" />
+<path d="M384.9,497.5c5.5,10.8,1.2,23.9,-9.5,29.4c-10.7,5.5,-23.9,1.2,-29.4,-9.5c-5.5,-10.8,-1.2,-23.9,9.5,-29.4c10.8,-5.5,23.9,-1.2,29.4,9.5Z" class="g3_378" />
+<path d="M392.5,485.7c-1.1,-1,-3,-0.8,-4.1,0.6l-20.5,24.3c-1.1,1.4,-3,1.4,-4.2,0.2L360.8,508c-1.2,-1.2,-3.1,-1.3,-4.2,-0.2c-1.1,1.1,-1,2.9,0.3,4.1l7.2,7.2c1.2,1.2,3.1,1.1,4.2,-0.2l24.4,-29.1c1.1,-1.3,1,-3.1,-0.2,-4.1Z" class="g4_378" />
+<path d="M392.5,485.7c-1.1,-1,-3,-0.8,-4.1,0.6l-20.5,24.3c-1.1,1.4,-3,1.4,-4.2,0.2L360.8,508c-1.2,-1.2,-3.1,-1.3,-4.2,-0.2c-1.1,1.1,-1,2.9,0.3,4.1l7.2,7.2c1.2,1.2,3.1,1.1,4.2,-0.2l24.4,-29.1c1.1,-1.3,1,-3.1,-0.2,-4.1Z" class="g11_378" />
+<path d="M205,749.3l601.9,0" class="g12_378" />
+<path d="M205,752.4c1.7,0,3.1,-1.4,3.1,-3.1c0,-1.6,-1.4,-3,-3.1,-3c-1.7,0,-3.1,1.4,-3.1,3c0,1.7,1.4,3.1,3.1,3.1Z" class="g2_378" />
+<text 
+x="88" 
+y="753" 
+dx="0,-1.2,0,0,0,0,0,0,0,0" 
+class="s13_378"
+>Vocabulary</text>
+
+<image preserveAspectRatio="none" x="89" y="206" width="47" height="55" xlink:href="378/img/1.png" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_dci;
+	src: url("fonts/Alegreya-Regular_dci.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_dcl;
+	src: url("fonts/ProximaNova-Semibold_dcl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti_c-m;
+	src: url("fonts/STKaiti_c-m.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_dcj;
+	src: url("fonts/ProximaNova-Extrabld_dcj.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_dcf;
+	src: url("fonts/ProximaNova-Bold_dcf.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_dcn;
+	src: url("fonts/Alegreya-Bold_dcn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

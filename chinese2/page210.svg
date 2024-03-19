@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 231 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_231{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_231{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_231{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_231{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_231{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_231{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_231{
+font-size: 35.14px;
+font-family: ProximaNova-Extrabld_32x;
+fill: #007598;
+}
+.s2_231{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_32x;
+fill: #007D9F;
+}
+.s3_231{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_32r;
+fill: #007D9F;
+}
+.s4_231{
+font-size: 15.28px;
+font-family: ProximaNova-Light_330;
+fill: #3F3F40;
+}
+.s5_231{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_32x;
+fill: #3F3F40;
+}
+.s6_231{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s7_231{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s8_231{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s9_231{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s10_231{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_32r;
+fill: #007598;
+}
+.s11_231{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_32r;
+fill: #939598;
+}
+.s12_231{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_32_;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,72.5l195,0" class="g1_231" />
+<path d="M0,74.9l195,0" class="g2_231" />
+<path d="M105.3,146.1l13,0" class="g3_231" />
+<text 
+x="41" 
+y="62" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s1_231"
+>Grammar</text>
+
+<text 
+x="105" 
+y="142" 
+dx="0,0" 
+class="s2_231"
+>1 </text>
+
+<text 
+x="268" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0" 
+class="s3_231"
+>The position of time-when expressions</text>
+
+<text 
+x="143" 
+y="209" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_231"
+>Time-when expressions come before the verb. They often appear after the subject, but sometimes </text>
+
+<text 
+x="143" 
+y="236" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_231"
+>precede the subject under certain conditions. In this lesson, we focus on practicing time-when </text>
+
+<text 
+x="143" 
+y="264" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_231"
+>expressions positioned after the subject.</text>
+
+<text 
+x="154" 
+y="327" 
+dx="0,0" 
+class="s5_231"
+>A </text>
+
+<text 
+x="220" 
+y="330" 
+dx="0,0" 
+class="s6_231"
+>我们</text>
+
+<text 
+x="284" 
+y="330" 
+dx="0,0" 
+class="s7_231"
+>十点</text>
+
+<text 
+x="348" 
+y="330" 
+dx="0,0,0" 
+class="s6_231"
+>上课。</text>
+
+<text 
+x="224" 
+y="367" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s8_231"
+>Wǒmen </text>
+
+<text 
+x="277" 
+y="367" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_231"
+>shí diǎn </text>
+
+<text 
+x="330" 
+y="367" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s8_231"
+>shàng kè. </text>
+
+<text 
+x="224" 
+y="399" 
+dx="0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_231"
+>We start class at ten.</text>
+
+<text 
+x="154" 
+y="462" 
+dx="0,0" 
+class="s5_231"
+>B </text>
+
+<text 
+x="220" 
+y="465" 
+dx="0,0" 
+class="s6_231"
+>我们</text>
+
+<text 
+x="284" 
+y="465" 
+dx="0,0" 
+class="s7_231"
+>几点</text>
+
+<text 
+x="348" 
+y="465" 
+dx="0,0" 
+class="s6_231"
+>去？</text>
+
+<text 
+x="224" 
+y="502" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s8_231"
+>Wǒmen </text>
+
+<text 
+x="277" 
+y="502" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_231"
+>jǐ diǎn </text>
+
+<text 
+x="320" 
+y="502" 
+dx="0,0.2,0.2" 
+class="s8_231"
+>qù?</text>
+
+<text 
+x="224" 
+y="534" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3" 
+class="s4_231"
+>What time are we going?</text>
+
+<text 
+x="154" 
+y="598" 
+dx="0,0" 
+class="s5_231"
+>C </text>
+
+<text 
+x="220" 
+y="600" 
+dx="0" 
+class="s6_231"
+>你</text>
+
+<text 
+x="252" 
+y="600" 
+dx="0,0,0,0" 
+class="s7_231"
+>什么时候</text>
+
+<text 
+x="380" 
+y="600" 
+dx="0,0,0" 
+class="s6_231"
+>睡觉？</text>
+
+<text 
+x="224" 
+y="637" 
+dx="0,0.2,0.2" 
+class="s8_231"
+>Nǐ </text>
+
+<text 
+x="245" 
+y="637" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_231"
+>shénme shíhou </text>
+
+<text 
+x="338" 
+y="637" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_231"
+>shuì jiào?</text>
+
+<text 
+x="224" 
+y="669" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_231"
+>When do you go to bed?</text>
+
+<text 
+x="154" 
+y="733" 
+dx="0,0" 
+class="s5_231"
+>D </text>
+
+<text 
+x="220" 
+y="735" 
+dx="0" 
+class="s6_231"
+>他</text>
+
+<text 
+x="252" 
+y="735" 
+dx="0,0,0,0,0,0" 
+class="s7_231"
+>明天上午八点</text>
+
+<text 
+x="444" 
+y="735" 
+dx="0,0" 
+class="s6_231"
+>来。</text>
+
+<text 
+x="224" 
+y="772" 
+dx="0,0.2,0.2" 
+class="s8_231"
+>Tā </text>
+
+<text 
+x="246" 
+y="772" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s9_231"
+>míngtiān shàngwǔ bā diǎn </text>
+
+<text 
+x="412" 
+y="772" 
+dx="0,0.2,0.2,0.2,0" 
+class="s8_231"
+>lái. </text>
+
+<text 
+x="224" 
+y="804" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_231"
+>He will come at eight tomorrow morning.</text>
+
+<text 
+x="143" 
+y="861" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_231"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="888" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.4,-0.6,0,0,0,0,0,0,0,0" 
+class="s4_231"
+>Form two new sentences by inserting time-when expressions where appropriate. Use exercise 1 </text>
+
+<text 
+x="143" 
+y="916" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.1" 
+class="s4_231"
+>as an example.</text>
+
+<text 
+x="145" 
+y="959" 
+dx="0,0" 
+class="s11_231"
+>1 </text>
+
+<text 
+x="187" 
+y="960" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_231"
+>王朋去学校看书。 </text>
+
+<text 
+x="522" 
+y="960" 
+dx="0,0,0,0,0,0" 
+class="s6_231"
+>昨天晚上七点</text>
+
+<text 
+x="187" 
+y="1004" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_231"
+>→ 王朋昨天晚上七点去学校看书了。</text>
+
+<text 
+x="145" 
+y="1047" 
+dx="0,0" 
+class="s11_231"
+>2 </text>
+
+<text 
+x="187" 
+y="1049" 
+dx="0,0,0,0,0,0,0,0,0,0,0,5.7,0,0,0,0" 
+class="s6_231"
+>李友去高文中家玩儿。 上个星期六</text>
+
+<text 
+x="145" 
+y="1092" 
+dx="0,0" 
+class="s11_231"
+>3 </text>
+
+<text 
+x="187" 
+y="1093" 
+dx="0,0,0,0,0,0,0,0,0,0,0,5.7,0,0" 
+class="s6_231"
+>常老师要去中国开会。 下个月</text>
+
+<path d="M132.9,111.9l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g4_231" />
+<path d="M134.9,164.1l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g5_231" />
+<path d="M149.1,304.4c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.7,-7.6,-7.7l-22.4,0Z" class="g4_231" />
+<path d="M149.1,306.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_231" />
+<path d="M149.1,439.6c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_231" />
+<path d="M149.1,441.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_231" />
+<path d="M149.1,574.7c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_231" />
+<path d="M149.1,576.7c-0.6,0.1,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_231" />
+<path d="M149.1,709.8c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.7,-7.6,-7.7l-22.4,0Z" class="g4_231" />
+<path d="M149.1,711.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_231" />
+<path d="M-22.1,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g6_231" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3,0.3" 
+class="s12_231"
+>210 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1137)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s12_231"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1016)"
+dx="0,0.3" 
+class="s12_231"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1003)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s12_231"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_32x;
+	src: url("fonts/ProximaNova-Extrabld_32x.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_32_;
+	src: url("fonts/ProximaNova-Semibold_32_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_32r;
+	src: url("fonts/ProximaNova-Bold_32r.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_330;
+	src: url("fonts/ProximaNova-Light_330.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

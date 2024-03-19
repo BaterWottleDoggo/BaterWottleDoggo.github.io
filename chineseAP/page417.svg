@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 440 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_440{
+fill: #DC262E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_440{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_440{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_440{
+fill: #FFFFFF;
+}
+.g5_440{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_440{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_440{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dhv;
+fill: #231F20;
+}
+.s2_440{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di-;
+fill: #FFFFFF;
+}
+.s3_440{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #FFFFFF;
+}
+.s4_440{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_diz;
+fill: #909295;
+}
+.s5_440{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dim;
+fill: #3F3F40;
+}
+.s6_440{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dib;
+fill: #3F3F40;
+}
+.s7_440{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #A8A9AD;
+}
+.s8_440{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g1_440" />
+<text 
+x="874" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_440"
+>417 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 736)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_440"
+>Lesson 20 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 828)"
+dx="0,1.2" 
+class="s2_440"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 845)"
+dx="0,1.2,1.2,1.2,1.2,0.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_440"
+>The World Is Getting Smaller </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1080)"
+dx="0,1.2" 
+class="s2_440"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1097)"
+dx="0,-0.3,0.9,0.9" 
+class="s2_440"
+>Text</text>
+
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g2_440" />
+<text 
+x="874" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_440"
+>417 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 869)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,-0.3,0.9,0.9,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s3_440"
+>Appendix: Lesson Texts in English</text>
+
+<path d="M317.9,78.6l0,1027.1" class="g3_440" />
+<text 
+x="144" 
+y="81" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_440"
+>Lesson 19</text>
+
+<text 
+x="398" 
+y="72" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_440"
+>Since the beginning of the twenty-ﬁrst century, China’s economy has </text>
+
+<text 
+x="398" 
+y="92" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s5_440"
+>seen signiﬁcant development. Many multinational companies have </text>
+
+<text 
+x="398" 
+y="112" 
+dx="0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_440"
+>entered China. These big corporations have attracted talent from all </text>
+
+<text 
+x="398" 
+y="132" 
+dx="0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>over the world, including some Chinese students who have studied </text>
+
+<text 
+x="398" 
+y="152" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>and graduated abroad. They have since returned from overseas, and </text>
+
+<text 
+x="398" 
+y="172" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>they are called “overseas returnees.” Some people jokingly call them </text>
+
+<text 
+x="398" 
+y="191" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>“sea turtles.” Lin Xuemei has now become one of the new sea turtles.</text>
+
+<text 
+x="398" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_440"
+>Soon after Xuemei returned to China, she went on the Internet to look </text>
+
+<text 
+x="398" 
+y="231" 
+dx="0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>for information about jobs. She interned at several companies, but </text>
+
+<text 
+x="398" 
+y="251" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>she wasn’t quite happy with them. Yesterday a big company that she </text>
+
+<text 
+x="398" 
+y="271" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>likes a lot asked her to go there for an interview for a marketing and </text>
+
+<text 
+x="398" 
+y="291" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,-1.2,0,0,0,0,0" 
+class="s6_440"
+>sales manager position this morning. After the interview was over, she </text>
+
+<text 
+x="398" 
+y="311" 
+dx="0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s6_440"
+>received a call from Lisha just as she got home.</text>
+
+<text 
+x="398" 
+y="346" 
+dx="0,0,0,0,0,0" 
+class="s7_440"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="346" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-1,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_440"
+>Miss Sea Turtle, how was today’s interview?</text>
+
+<text 
+x="398" 
+y="366" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_440"
+>Lin Xuemei:</text>
+
+<text 
+x="495" 
+y="366" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>At the beginning I was a little nervous and was sweating </text>
+
+<text 
+x="495" 
+y="385" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s6_440"
+>quite a bit. My suit jacket almost got wet.</text>
+
+<text 
+x="398" 
+y="405" 
+dx="0,0,0,0,0,0" 
+class="s7_440"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="405" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_440"
+>But that was not your ﬁrst time being interviewed. Why </text>
+
+<text 
+x="495" 
+y="425" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s6_440"
+>were you so nervous?</text>
+
+<text 
+x="398" 
+y="445" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_440"
+>Lin Xuemei:</text>
+
+<text 
+x="495" 
+y="445" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0" 
+class="s6_440"
+>The person who interviewed me is the general manager </text>
+
+<text 
+x="495" 
+y="465" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_440"
+>of the company. He was very serious. His ﬁrst question </text>
+
+<text 
+x="495" 
+y="485" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>was, “Did you come back to China because you couldn’t </text>
+
+<text 
+x="495" 
+y="505" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_440"
+>ﬁnd a job in America?”</text>
+
+<text 
+x="398" 
+y="524" 
+dx="0,0,0,0,0,0" 
+class="s7_440"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="524" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0" 
+class="s6_440"
+>This general manager really does sound scary. No </text>
+
+<text 
+x="495" 
+y="544" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0" 
+class="s6_440"
+>wonder you were nervous.</text>
+
+<text 
+x="398" 
+y="564" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_440"
+>Lin Xuemei:</text>
+
+<text 
+x="495" 
+y="564" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_440"
+>The more nervous I got, the more incoherent my </text>
+
+<text 
+x="495" 
+y="584" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_440"
+>explanation became. An idea ﬂashed across my mind. </text>
+
+<text 
+x="495" 
+y="604" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_440"
+>Without saying anything, I took out two pieces of paper </text>
+
+<text 
+x="495" 
+y="624" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>and laid them in front of him. He took a look and his face </text>
+
+<text 
+x="495" 
+y="644" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.3,-0.4,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9" 
+class="s6_440"
+>immediately went from overcast to partly cloudy.</text>
+
+<text 
+x="398" 
+y="663" 
+dx="0,0,0,0,0,0" 
+class="s7_440"
+>Lisha:</text>
+
+<text 
+x="495" 
+y="663" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>What paper? I should get some just in case.</text>
+
+<text 
+x="398" 
+y="683" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_440"
+>Lin Xuemei:</text>
+
+<text 
+x="495" 
+y="683" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,-0.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>They were offer letters from two companies in </text>
+
+<text 
+x="495" 
+y="703" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.9,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s6_440"
+>California from May. After reading them, the general </text>
+
+<text 
+x="495" 
+y="723" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>manager asked, “Since you found a job in America, why </text>
+
+<text 
+x="495" 
+y="743" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_440"
+>did you still want to come back to China to work?”</text>
+
+<text 
+x="398" 
+y="763" 
+dx="0,0,0,0,0,0" 
+class="s7_440"
+>Lisha:</text>
+
+<text 
+x="494" 
+y="763" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-1.2,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_440"
+>That question isn’t difﬁcult to answer. Your boyfriend is </text>
+
+<text 
+x="494" 
+y="783" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>studying in China!</text>
+
+<text 
+x="398" 
+y="802" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_440"
+>Lin Xuemei:</text>
+
+<text 
+x="494" 
+y="802" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>If I had said that, he very likely would have thought that </text>
+
+<text 
+x="494" 
+y="822" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>it was merely a short-term plan for me to look for a job </text>
+
+<text 
+x="494" 
+y="842" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>in China. Luckily, I was no longer nervous at that point. </text>
+
+<text 
+x="494" 
+y="862" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>I began with China’s economic development and went </text>
+
+<text 
+x="494" 
+y="882" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_440"
+>on to talk about the company’s products and product </text>
+
+<text 
+x="494" 
+y="902" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>sales. Then I explained why I hoped to work at the </text>
+
+<text 
+x="494" 
+y="921" 
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>company. As the general manager listened to me, his </text>
+
+<text 
+x="494" 
+y="941" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s6_440"
+>face brightened.</text>
+
+<text 
+x="398" 
+y="961" 
+dx="0,0,0,0,0,0" 
+class="s7_440"
+>Lisha:</text>
+
+<text 
+x="494" 
+y="961" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0" 
+class="s6_440"
+>The interview was over?</text>
+
+<text 
+x="398" 
+y="981" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_440"
+>Lin Xuemei:</text>
+
+<text 
+x="494" 
+y="981" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s6_440"
+>Not yet! At that point, all of a sudden the general </text>
+
+<text 
+x="494" 
+y="1001" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>manager asked me with a smile, “What do you think </text>
+
+<text 
+x="494" 
+y="1021" 
+dx="0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>your biggest weakness is?”</text>
+
+<text 
+x="398" 
+y="1041" 
+dx="0,0,0,0,0,0" 
+class="s7_440"
+>Lisha:</text>
+
+<text 
+x="494" 
+y="1041" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s6_440"
+>I think that your biggest weakness is that you like </text>
+
+<text 
+x="494" 
+y="1060" 
+dx="0,-0.2,0,0,0,0,0,0,0" 
+class="s6_440"
+>to snack.</text>
+
+<text 
+x="398" 
+y="1080" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_440"
+>Lin Xuemei:</text>
+
+<text 
+x="494" 
+y="1080" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s6_440"
+>Then wouldn’t he have thought that I was like a </text>
+
+<text 
+x="494" 
+y="1100" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_440"
+>little girl?</text>
+
+<path d="M281.6,57.7c0,0,-15.3,0,-15.3,15.2l0,3.1c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g4_440" />
+<text 
+x="301" 
+y="81" 
+dx="0,-1.8,-0.6,-0.7" 
+class="s8_440"
+>Text</text>
+
+<path d="M281.6,56.9c-0.2,0,-16.1,0.2,-16.1,16l0,3.1c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.1,0Z" class="g5_440" />
+<path d="M281.6,58.9c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.1,0Z" class="g6_440" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di3;
+	src: url("fonts/LibreFranklin-SemiBold_di3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dim;
+	src: url("fonts/LibreFranklin-Light_dim.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dib;
+	src: url("fonts/LibreFranklin-Light_dib.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dhv;
+	src: url("fonts/LibreFranklin-Medium_dhv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di-;
+	src: url("fonts/LibreFranklin-SemiBold_di-.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_diz;
+	src: url("fonts/LibreFranklin-ExtraBold_diz.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 34 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_34"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_34{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.0831945;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_34{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 0.36666667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_34{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.36666667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_34{
+fill: #FFFFFF;
+}
+.g5_34{
+fill: #FED205;
+}
+.g6_34{
+fill: #6F5B00;
+}
+.g7_34{
+fill: none;
+stroke: #FDD107;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_34{
+fill: #472D8E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_34{
+font-size: 14.13px;
+font-family: LibreFranklin-Bold_ce-;
+fill: #472D8E;
+}
+.s2_34{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_chd;
+fill: #77787B;
+}
+.s3_34{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #472D8E;
+}
+.s4_34{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #472D8E;
+}
+.s5_34{
+font-size: 14.90px;
+font-family: GentiumBookBasic-Italic_chp;
+fill: #3F3F40;
+}
+.s6_34{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cg9;
+fill: #3F3F40;
+}
+.s7_34{
+font-size: 13.75px;
+font-family: LibreFranklin-Regular_cg9;
+fill: #3F3F40;
+}
+.s8_34{
+font-size: 14.90px;
+font-family: GentiumBookBasic-Italic_chu;
+fill: #3F3F40;
+}
+.s9_34{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cey;
+fill: #FFFFFF;
+}
+.s10_34{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #FFFFFF;
+}
+.s11_34{
+font-size: 16.04px;
+font-family: GentiumBookBasic-Italic_chu;
+fill: #FFFFFF;
+}
+.s12_34{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cey;
+fill: #231F20;
+}
+.s13_34{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_chd;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M113.1,96.3l55,0" class="g1_34" />
+<path d="M168.1,96.3l161.3,0" class="g1_34" />
+<path d="M329.4,96.3l161.3,0" class="g1_34" />
+<path d="M490.7,96.3l133.9,0" class="g1_34" />
+<path d="M624.6,96.3l76,0" class="g1_34" />
+<path d="M700.6,96.3l160.5,0" class="g1_34" />
+<path d="M113.1,499.4l55,0" class="g2_34" />
+<path d="M168.1,499.4l161.3,0" class="g2_34" />
+<path d="M329.4,499.4l161.3,0" class="g2_34" />
+<path d="M490.7,499.4l133.9,0" class="g2_34" />
+<path d="M624.6,499.4l76,0" class="g2_34" />
+<path d="M700.6,499.4l160.5,0" class="g2_34" />
+<path d="M113.1,137.5l55,0" class="g3_34" />
+<path d="M168.1,137.5l161.3,0" class="g3_34" />
+<path d="M329.4,137.5l161.3,0" class="g3_34" />
+<path d="M490.7,137.5l133.9,0" class="g3_34" />
+<path d="M624.6,137.5l76,0" class="g3_34" />
+<path d="M700.6,137.5l160.5,0" class="g3_34" />
+<path d="M113.1,178.8l55,0" class="g3_34" />
+<path d="M168.1,178.8l161.3,0" class="g3_34" />
+<path d="M329.4,178.8l161.3,0" class="g3_34" />
+<path d="M490.7,178.8l133.9,0" class="g3_34" />
+<path d="M624.6,178.8l76,0" class="g3_34" />
+<path d="M700.6,178.8l160.5,0" class="g3_34" />
+<path d="M113.1,220l55,0" class="g3_34" />
+<path d="M168.1,220l161.3,0" class="g3_34" />
+<path d="M329.4,220l161.3,0" class="g3_34" />
+<path d="M490.7,220l133.9,0" class="g3_34" />
+<path d="M624.6,220l76,0" class="g3_34" />
+<path d="M700.6,220l160.5,0" class="g3_34" />
+<path d="M113.1,277.2l55,0" class="g3_34" />
+<path d="M168.1,277.2l161.3,0" class="g3_34" />
+<path d="M329.4,277.2l161.3,0" class="g3_34" />
+<path d="M490.7,277.2l133.9,0" class="g3_34" />
+<path d="M624.6,277.2l76,0" class="g3_34" />
+<path d="M700.6,277.2l160.5,0" class="g3_34" />
+<path d="M113.1,318.4l55,0" class="g3_34" />
+<path d="M168.1,318.4l161.3,0" class="g3_34" />
+<path d="M329.4,318.4l161.3,0" class="g3_34" />
+<path d="M490.7,318.4l133.9,0" class="g3_34" />
+<path d="M624.6,318.4l76,0" class="g3_34" />
+<path d="M700.6,318.4l160.5,0" class="g3_34" />
+<path d="M113.1,375.6l55,0" class="g3_34" />
+<path d="M168.1,375.6l161.3,0" class="g3_34" />
+<path d="M329.4,375.6l161.3,0" class="g3_34" />
+<path d="M490.7,375.6l133.9,0" class="g3_34" />
+<path d="M624.6,375.6l76,0" class="g3_34" />
+<path d="M700.6,375.6l160.5,0" class="g3_34" />
+<path d="M113.1,416.9l55,0" class="g3_34" />
+<path d="M168.1,416.9l161.3,0" class="g3_34" />
+<path d="M329.4,416.9l161.3,0" class="g3_34" />
+<path d="M490.7,416.9l133.9,0" class="g3_34" />
+<path d="M624.6,416.9l76,0" class="g3_34" />
+<path d="M700.6,416.9l160.5,0" class="g3_34" />
+<path d="M113.1,458.1l55,0" class="g3_34" />
+<path d="M168.1,458.1l161.3,0" class="g3_34" />
+<path d="M329.4,458.1l161.3,0" class="g3_34" />
+<path d="M490.7,458.1l133.9,0" class="g3_34" />
+<path d="M624.6,458.1l76,0" class="g3_34" />
+<path d="M700.6,458.1l160.5,0" class="g3_34" />
+<text 
+x="122" 
+y="81" 
+dx="0,0.3,0" 
+class="s1_34"
+>No.</text>
+
+<text 
+x="177" 
+y="81" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s1_34"
+>Simplified</text>
+
+<text 
+x="339" 
+y="81" 
+dx="0,-0.9,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s1_34"
+>Traditional</text>
+
+<text 
+x="500" 
+y="81" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s1_34"
+>Pinyin</text>
+
+<text 
+x="634" 
+y="75" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0,0" 
+class="s1_34"
+>Part of </text>
+
+<text 
+x="634" 
+y="88" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s1_34"
+>Speech</text>
+
+<text 
+x="710" 
+y="81" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s1_34"
+>Definition</text>
+
+<text 
+x="122" 
+y="122" 
+dx="0,-0.7" 
+class="s2_34"
+>24</text>
+
+<text 
+x="182" 
+y="127" 
+dx="0,0" 
+class="s3_34"
+>浪费</text>
+
+<text 
+x="343" 
+y="127" 
+dx="0,0" 
+class="s4_34"
+>浪費</text>
+
+<text 
+x="503" 
+y="122" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_34"
+>làngfèi</text>
+
+<text 
+x="634" 
+y="123" 
+dx="0,0,0,0,0" 
+class="s6_34"
+>v/adj</text>
+
+<text 
+x="710" 
+y="114" 
+dx="0,-0.2,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>to waste, to squander; </text>
+
+<text 
+x="710" 
+y="131" 
+dx="0,0,0,0,-0.2,0,0,0" 
+class="s7_34"
+>wasteful</text>
+
+<text 
+x="122" 
+y="164" 
+dx="0,-0.4" 
+class="s2_34"
+>25</text>
+
+<text 
+x="182" 
+y="168" 
+dx="0" 
+class="s3_34"
+>余</text>
+
+<text 
+x="343" 
+y="168" 
+dx="0" 
+class="s4_34"
+>餘</text>
+
+<text 
+x="503" 
+y="164" 
+dx="0,0.2" 
+class="s5_34"
+>yú</text>
+
+<text 
+x="634" 
+y="164" 
+dx="0,0,0" 
+class="s6_34"
+>n/v</text>
+
+<text 
+x="710" 
+y="155" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0" 
+class="s7_34"
+>surplus; to have </text>
+
+<text 
+x="710" 
+y="172" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>a surplus</text>
+
+<text 
+x="122" 
+y="205" 
+dx="0,-0.6" 
+class="s2_34"
+>26</text>
+
+<text 
+x="182" 
+y="209" 
+dx="0,0" 
+class="s3_34"
+>传统</text>
+
+<text 
+x="343" 
+y="209" 
+dx="0,0" 
+class="s4_34"
+>傳統</text>
+
+<text 
+x="503" 
+y="205" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_34"
+>chuántǒng</text>
+
+<text 
+x="634" 
+y="205" 
+dx="0,0,0,0,0" 
+class="s6_34"
+>n/adj</text>
+
+<text 
+x="710" 
+y="205" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>tradition; traditional</text>
+
+<text 
+x="122" 
+y="254" 
+dx="0,-0.5" 
+class="s2_34"
+>27</text>
+
+<text 
+x="182" 
+y="258" 
+dx="0,0" 
+class="s3_34"
+>农历</text>
+
+<text 
+x="343" 
+y="258" 
+dx="0,0" 
+class="s4_34"
+>農曆</text>
+
+<text 
+x="503" 
+y="254" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s5_34"
+>nónglì</text>
+
+<text 
+x="634" 
+y="254" 
+dx="0" 
+class="s6_34"
+>n</text>
+
+<text 
+x="710" 
+y="238" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>traditional Chinese </text>
+
+<text 
+x="710" 
+y="254" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>lunar calendar (lit. </text>
+
+<text 
+x="710" 
+y="271" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>agricultural calendar)</text>
+
+<text 
+x="122" 
+y="303" 
+dx="0,-0.5" 
+class="s2_34"
+>28</text>
+
+<text 
+x="182" 
+y="307" 
+dx="0" 
+class="s3_34"
+>初</text>
+
+<text 
+x="343" 
+y="307" 
+dx="0" 
+class="s4_34"
+>初</text>
+
+<text 
+x="503" 
+y="303" 
+dx="0,0.2,0.2" 
+class="s8_34"
+>chū</text>
+
+<text 
+x="710" 
+y="303" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2" 
+class="s7_34"
+>first, early part of</text>
+
+<text 
+x="122" 
+y="353" 
+dx="0,-0.5" 
+class="s2_34"
+>29</text>
+
+<text 
+x="182" 
+y="357" 
+dx="0,0" 
+class="s3_34"
+>粽子</text>
+
+<text 
+x="343" 
+y="357" 
+dx="0,0" 
+class="s4_34"
+>粽子</text>
+
+<text 
+x="503" 
+y="353" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s5_34"
+>zòngzi</text>
+
+<text 
+x="634" 
+y="353" 
+dx="0" 
+class="s6_34"
+>n</text>
+
+<text 
+x="710" 
+y="336" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>sticky-rice dumpling </text>
+
+<text 
+x="710" 
+y="353" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>wrapped in bamboo </text>
+
+<text 
+x="710" 
+y="369" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,0" 
+class="s7_34"
+>or reed leaves</text>
+
+<text 
+x="122" 
+y="402" 
+dx="0,-0.6" 
+class="s2_34"
+>30</text>
+
+<text 
+x="182" 
+y="406" 
+dx="0,0" 
+class="s3_34"
+>月饼</text>
+
+<text 
+x="343" 
+y="406" 
+dx="0,0" 
+class="s4_34"
+>月餅</text>
+
+<text 
+x="503" 
+y="402" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_34"
+>yuèbǐng</text>
+
+<text 
+x="634" 
+y="402" 
+dx="0" 
+class="s6_34"
+>n</text>
+
+<text 
+x="710" 
+y="402" 
+dx="0,0,0,0,0,0,0,0,-0.4" 
+class="s7_34"
+>moon cake</text>
+
+<text 
+x="122" 
+y="443" 
+dx="0,-0.5" 
+class="s2_34"
+>31</text>
+
+<text 
+x="182" 
+y="447" 
+dx="0,0" 
+class="s3_34"
+>团圆</text>
+
+<text 
+x="343" 
+y="447" 
+dx="0,0" 
+class="s4_34"
+>團圓</text>
+
+<text 
+x="503" 
+y="443" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_34"
+>tuányuán</text>
+
+<text 
+x="634" 
+y="443" 
+dx="0" 
+class="s6_34"
+>v</text>
+
+<text 
+x="710" 
+y="443" 
+dx="0,-0.2,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>to reunite (as a family)</text>
+
+<text 
+x="122" 
+y="484" 
+dx="0,-0.6" 
+class="s2_34"
+>32</text>
+
+<text 
+x="182" 
+y="488" 
+dx="0,0" 
+class="s3_34"
+>正月</text>
+
+<text 
+x="343" 
+y="488" 
+dx="0,0" 
+class="s4_34"
+>正月</text>
+
+<text 
+x="503" 
+y="484" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_34"
+>zhēngyuè</text>
+
+<text 
+x="634" 
+y="485" 
+dx="0" 
+class="s6_34"
+>n</text>
+
+<text 
+x="710" 
+y="476" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s7_34"
+>first month of the </text>
+
+<text 
+x="710" 
+y="493" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>lunar year</text>
+
+<text 
+x="122" 
+y="550" 
+dx="0,-0.4" 
+class="s2_34"
+>33</text>
+
+<text 
+x="182" 
+y="554" 
+dx="0,0" 
+class="s3_34"
+>元宵</text>
+
+<text 
+x="343" 
+y="554" 
+dx="0,0" 
+class="s4_34"
+>元宵</text>
+
+<text 
+x="503" 
+y="550" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_34"
+>yuánxiāo</text>
+
+<text 
+x="634" 
+y="550" 
+dx="0" 
+class="s6_34"
+>n</text>
+
+<text 
+x="710" 
+y="517" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s7_34"
+>night of the fifteenth </text>
+
+<text 
+x="710" 
+y="533" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>of the first lunar </text>
+
+<text 
+x="710" 
+y="550" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s7_34"
+>month, sweet </text>
+
+<text 
+x="710" 
+y="566" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_34"
+>dumplings made of </text>
+
+<text 
+x="710" 
+y="583" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_34"
+>sticky-rice flour</text>
+
+<g clip-path="url(#c0_34)">
+<path d="M879.9,1209.2c0,0,0.5,-206.1,0.5,-447.4C788.6,700.4,671.4,657.6,557,638.7C353.3,605.2,147.6,653.5,-18.2,760.7c-0.3,275.5,0.8,173.7,0.8,447.5l897.3,1Z" class="g4_34" />
+</g>
+<image preserveAspectRatio="none" x="1" y="630" width="877" height="566" xlink:href="34/img/1.png" />
+<g clip-path="url(#c0_34)">
+<path d="M882.2,1209.2c0,0,0.5,-206.1,0.4,-447.4l0,-1.2l-1,-0.7C789.6,698.3,672.1,655.4,557.4,636.5C353.1,602.8,146.8,651.2,-19.4,758.8l-1.1,0.7l0,1.2c-0.3,275.5,0.8,173.7,0.8,447.5l4.6,0c0,-273.8,-1.1,-172,-0.8,-447.5l-2.3,0l1.3,1.9C148.4,655.7,353.5,607.5,556.6,641c114.2,18.8,231.1,61.6,322.5,122.7l1.3,-1.9l-2.3,0c0,120.6,-0.1,232.5,-0.3,314.2c0,40.8,-0.1,74.2,-0.1,97.2c-0.1,23.1,-0.1,36,-0.1,36l4.6,0Z" class="g5_34" />
+</g>
+<image preserveAspectRatio="none" x="627" y="656" width="151" height="108" xlink:href="34/img/2.png" />
+<image preserveAspectRatio="none" x="778" y="656" width="50" height="378" xlink:href="34/img/3.png" />
+<image preserveAspectRatio="none" x="828" y="710" width="50" height="378" xlink:href="34/img/4.png" />
+<image preserveAspectRatio="none" x="627" y="764" width="151" height="108" xlink:href="34/img/5.png" />
+<image preserveAspectRatio="none" x="627" y="872" width="151" height="108" xlink:href="34/img/6.png" />
+<image preserveAspectRatio="none" x="627" y="980" width="151" height="108" xlink:href="34/img/7.png" />
+<image preserveAspectRatio="none" x="778" y="1034" width="50" height="163" xlink:href="34/img/8.png" />
+<image preserveAspectRatio="none" x="627" y="1088" width="151" height="109" xlink:href="34/img/9.png" />
+<image preserveAspectRatio="none" x="828" y="1088" width="50" height="109" xlink:href="34/img/10.png" />
+<g clip-path="url(#c0_34)">
+<path d="M636.2,657.9c54.5,14.2,108.2,33.5,157.8,57.5C720.9,679.6,658.9,663.2,636.2,657.9M878.1,763.3c0,120,-0.1,231.3,-0.3,312.7c0,40.8,-0.1,74.2,-0.1,97.2c0,9.5,0,17.2,-0.1,23.1l1.4,0l0,-432.4c-0.3,-0.2,-0.6,-0.4,-0.9,-0.6Z" class="g6_34" />
+</g>
+<text 
+x="656" 
+y="773" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_34"
+>"Guessing riddles" (</text>
+
+<text 
+x="782" 
+y="773" 
+dx="0" 
+class="s10_34"
+>猜</text>
+
+<text 
+x="656" 
+y="794" 
+dx="0" 
+class="s10_34"
+>谜</text>
+
+<text 
+x="679" 
+y="794" 
+dx="0" 
+class="s9_34"
+>/</text>
+
+<text 
+x="684" 
+y="794" 
+dx="0,0" 
+class="s10_34"
+>猜謎</text>
+
+<text 
+x="730" 
+y="794" 
+dx="0,0" 
+class="s9_34"
+>) </text>
+
+<text 
+x="737" 
+y="794" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s11_34"
+>(cāi mí)</text>
+
+<text 
+x="789" 
+y="794" 
+dx="0,0,0,0,0" 
+class="s9_34"
+>is a </text>
+
+<text 
+x="656" 
+y="815" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_34"
+>popular pastime during </text>
+
+<text 
+x="656" 
+y="837" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-1.1,0,0,0,0,0,0,0,0" 
+class="s9_34"
+>the Lantern Festival. </text>
+
+<text 
+x="656" 
+y="858" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s9_34"
+>These two “lantern </text>
+
+<text 
+x="656" 
+y="880" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s9_34"
+>riddles” (</text>
+
+<text 
+x="713" 
+y="880" 
+dx="0,0" 
+class="s10_34"
+>灯谜</text>
+
+<text 
+x="759" 
+y="880" 
+dx="0" 
+class="s9_34"
+>/</text>
+
+<text 
+x="764" 
+y="880" 
+dx="0,0" 
+class="s10_34"
+>燈謎</text>
+
+<text 
+x="809" 
+y="880" 
+dx="0,0" 
+class="s9_34"
+>) </text>
+
+<text 
+x="656" 
+y="901" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s11_34"
+>(dēngmí)</text>
+
+<text 
+x="717" 
+y="901" 
+dx="0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s9_34"
+>have to do with </text>
+
+<text 
+x="656" 
+y="922" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s9_34"
+>Chinese characters. Can </text>
+
+<text 
+x="656" 
+y="944" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_34"
+>you figure out the answer </text>
+
+<text 
+x="656" 
+y="965" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_34"
+>to each riddle?</text>
+
+<path d="M789.4,1051.9c0,-35.6,-28.9,-64.4,-64.5,-64.4c-35.6,0,-64.5,28.8,-64.5,64.4c0,35.7,28.9,64.5,64.5,64.5c14.8,0,28.4,-4.9,39.2,-13.3" class="g7_34" />
+<path d="M704.1,1025.8c0,5.4,4,9.4,9.6,9.4c2.6,0,7.7,-0.9,7.7,-3.6l0,-6l-6.9,0l0,3.2l2.9,0l0,1.3c0,1,-2,1.3,-3.2,1.3c-3.5,0,-5.5,-2.5,-5.5,-5.8c0,-3.4,2,-5.3,5.3,-5.3c1.6,0,3,0.5,3,1.4l0,1.3l4,0l0,-2.9c0,-2.3,-4,-3.5,-7.3,-3.5c-5.6,0,-9.6,3.7,-9.6,9.2m19.7,9.1l14.2,0l0,-5.3l-3.8,0l0,1.7l-3.9,0l0,-3.7l5.3,0l0,-3.6l-5.3,0l0,-3.6l3.6,0l0,1.8l3.8,0l0,-5.3l-13.9,0l0,3.2l2,0l0,11.5l-2,0Zm19.8,0l8.6,0l0,-3.3l-2,0l0,-11.2l2.1,0l0,2.5l3.8,0l0,-6l-16.4,0l0,6l3.8,0l0,-2.5l2.2,0l0,11.2l-2.1,0Z" class="g4_34" />
+<path d="M678.1,1064.1l13.4,0l0,-4.4l-3.7,0l0,-7.8l2.9,0c1.8,0,2.4,0.4,3.1,1.6l4.5,8.2c1,1.8,1.8,2.4,4.4,2.4l3.7,0l0,-4.4l-1,0c-1.1,0,-1.7,-0.2,-2.1,-1l-3.7,-6.7c-0.6,-1.1,-1.6,-1.6,-1.6,-1.6l0,-0.1c3.7,-1.3,6,-4.4,6,-8.8c0,-4.5,-2.3,-7.4,-5.8,-8.5c-1.8,-0.6,-3.8,-0.7,-6.1,-0.7l-14,0l0,4.4l3.8,0l0,23l-3.8,0Zm9.7,-16.9l0,-10.2l4.3,0c1.5,0,2.7,0.2,3.6,0.6c1.7,0.7,2.5,2.3,2.5,4.4c0,3.4,-2.1,5.2,-5.1,5.2Zm21.3,5.5c0,6.5,4.7,11.9,12.3,11.9c5.7,0,9.2,-3.2,9.2,-3.2l-2.2,-4c0,0,-2.9,2.4,-6.6,2.4c-3.5,0,-6.5,-2.1,-6.9,-6.3l15.8,0c0,0,0.2,-1.3,0.2,-1.9c0,-6.1,-3.6,-10.9,-10.2,-10.9c-6.8,0,-11.6,4.9,-11.6,12m6,-2.6c0.5,-3,2.6,-5,5.5,-5c2.4,0,4.3,1.9,4.4,5Zm18.7,7.6c0,4.6,3.6,6.9,7.5,6.9c5.3,0,7.2,-4.4,7.2,-4.4l0.1,0c0,0,-0.1,0.5,-0.1,1.2l0,0.3c0,1.3,0.8,2.4,2.9,2.4l5.4,0l0,-4.3l-2.1,0c-0.6,0,-1,-0.3,-1,-1l0,-9.1c0,-5.8,-3.2,-9,-9.4,-9c-5.5,0,-9,2.8,-9,2.8l2.1,4c0,0,3,-2.2,6.4,-2.2c2.4,0,4.3,1,4.3,3.9l0,0.8l-1.5,0c-3.6,0,-12.8,0.7,-12.8,7.7m5.7,-0.5c0,-3.4,5.4,-3.8,7.7,-3.8l0.9,0l0,0.8c0,2.9,-2.2,6.2,-5.3,6.2c-2.1,0,-3.3,-1.5,-3.3,-3.2m21.5,-0.4c0,6.2,3.3,7.5,7,7.5c1.1,0,2,-0.2,2,-0.2l0,-4.5c0,0,-0.4,0,-1.1,0c-1.8,0,-2.3,-1.1,-2.3,-3.1l0,-24.2l-9.2,0l0,4.3l3.6,0Z" class="g4_34" />
+<path d="M678.6,1071.3l0.8,0l1.7,7.2l2.4,0l1.1,-4.5c0.1,-0.4,0.1,-1,0.1,-1l0.1,0c0,0,0,0.6,0.1,1l1.1,4.5l2.4,0l1.7,-7.2l0.8,0l0,-1.5l-3.9,0l0,1.5l1,0l-0.8,3.9c-0.1,0.4,-0.1,0.9,-0.1,0.9c0,0,-0.1,-0.5,-0.2,-0.9l-1.3,-5.4l-1.7,0l-1.3,5.4c-0.1,0.4,-0.2,0.9,-0.2,0.9c0,0,0,-0.5,-0.1,-0.9l-0.8,-3.9l1,0l0,-1.5l-3.9,0Zm13,7.2l4.1,0l0,-1.6l-0.9,0l0,-5.6l0.9,0l0,-1.5l-4.1,0l0,1.5l1,0l0,5.6l-1,0Zm6.9,0l4.1,0l0,-1.6l-1,0l0,-5.4l1.1,0l0,1.2l1.8,0l0,-2.9l-7.9,0l0,2.9l1.8,0l0,-1.2l1.1,0l0,5.4l-1,0Zm6.9,0l4.1,0l0,-1.6l-1,0l0,-1.9l3.1,0l0,1.9l-1,0l0,1.6l4.2,0l0,-1.6l-1,0l0,-5.6l1,0l0,-1.5l-4.2,0l0,1.5l1,0l0,2l-3.1,0l0,-2l1,0l0,-1.5l-4.1,0l0,1.5l0.9,0l0,5.6l-0.9,0Z" class="g4_34" />
+<path d="M719.3,1078.5c0,5,3.8,8.8,9,8.8c2.4,0,7,-0.7,7,-3.3l0,-2.8l-3.8,0l0,1.3c0,1,-2.1,1.2,-2.9,1.2c-2.8,0,-4.9,-1.9,-4.9,-5.5c0,-3.2,1.9,-5,4.7,-5c1.1,0,2.9,0.3,2.9,1.3l0,1.3l3.8,0l0,-2.7c0,-2.8,-4.8,-3.4,-6.9,-3.4c-5,0,-8.9,3.6,-8.9,8.8m18.2,8.5l8.1,0l0,-3.1l-1.9,0l0,-3.7l6.1,0l0,3.7l-1.9,0l0,3.1l8.1,0l0,-3.1l-1.9,0l0,-10.8l1.9,0l0,-3.2l-8.1,0l0,3.2l1.9,0l0,3.8l-6.1,0l0,-3.8l1.9,0l0,-3.2l-8.1,0l0,3.2l1.9,0l0,10.8l-1.9,0Zm20.8,0l8.1,0l0,-3.1l-1.9,0l0,-10.8l1.9,0l0,-3.2l-8.1,0l0,3.2l1.9,0l0,10.8l-1.9,0Zm10.5,0l8.2,0l0,-3.1l-2,0l0,-5.7c0,-0.8,-0.2,-1.9,-0.2,-1.9l0.1,0c0,0,0.3,1,0.7,1.7l5.4,9l4.3,0l0,-13.9l1.9,0l0,-3.2l-8.2,0l0,3.2l2,0l0,5.7c0,0.8,0.2,1.9,0.2,1.9l-0.1,0c0,0,-0.3,-1,-0.7,-1.7l-5.4,-9.1l-6.2,0l0,3.2l1.9,0l0,10.8l-1.9,0Zm20.5,0l13.4,0l0,-5l-3.5,0l0,1.7l-3.7,0l0,-3.6l5,0l0,-3.3l-5,0l0,-3.5l3.4,0l0,1.7l3.6,0l0,-5.1l-13.2,0l0,3.2l1.9,0l0,10.8l-1.9,0Zm15.5,-6l0,2.2c0,2.7,3.1,4.1,6.3,4.1c3.3,0,6.6,-1.4,6.6,-5.3c0,-3.3,-2.6,-4.3,-5.2,-5.2c-1.6,-0.6,-3,-1.1,-3,-2.3c0,-0.8,0.9,-1.1,1.9,-1.1c1,0,2,0.3,2,1l0,1.1l3.8,0l0,-2.6c0,-2.1,-2.9,-3.2,-5.8,-3.2c-3.1,0,-6.2,1.2,-6.2,5c0,3.1,2.2,4.2,4.5,5.1c1.8,0.7,3.7,1.1,3.7,2.4c0,0.9,-1,1.4,-2.3,1.4c-1.3,0,-2.5,-0.5,-2.5,-1.4l0,-1.2Zm15,6l13.5,0l0,-5l-3.6,0l0,1.7l-3.7,0l0,-3.6l5,0l0,-3.3l-5,0l0,-3.5l3.4,0l0,1.7l3.6,0l0,-5.1l-13.2,0l0,3.2l1.9,0l0,10.8l-1.9,0Z" class="g4_34" />
+<g clip-path="url(#c0_34)">
+<path d="M876.2,1210l41.2,0l0,-641.3l-41.2,0l0,641.3Z" class="g4_34" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g8_34" />
+</g>
+<text 
+x="886" 
+y="1166" 
+dx="0,1.2,0" 
+class="s12_34"
+>11 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 785)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s13_34"
+>Lesson 11 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 872)"
+dx="0,1.2" 
+class="s13_34"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 889)"
+dx="0,1.2,1.2,1.2,1.2,1.2,0.5,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s13_34"
+>China’s Holidays </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1028)"
+dx="0,1.2" 
+class="s13_34"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1045)"
+dx="0,0.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s13_34"
+>Vocabulary</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_chd;
+	src: url("fonts/LibreFranklin-SemiBold_chd.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_chu;
+	src: url("fonts/GentiumBookBasic-Italic_chu.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cg9;
+	src: url("fonts/LibreFranklin-Regular_cg9.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_chp;
+	src: url("fonts/GentiumBookBasic-Italic_chp.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cey;
+	src: url("fonts/LibreFranklin-Medium_cey.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_ce-;
+	src: url("fonts/LibreFranklin-Bold_ce-.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

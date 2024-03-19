@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 38 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_38{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_38{
+fill: #3986C6;
+}
+.g3_38{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_38{
+fill: #E2E3E5;
+}
+.g5_38{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_38{
+fill: none;
+stroke: #ACBF3B;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_38{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_38{
+fill: #FFFFFF;
+}
+.g9_38{
+fill: #ACBF3B;
+}
+
+.s1_38{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cnt;
+fill: #231F20;
+}
+.s2_38{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cnz;
+fill: #231F20;
+}
+.s3_38{
+font-size: 16.04px;
+font-family: Alegreya-Regular_cnx;
+fill: #231F20;
+}
+.s4_38{
+font-size: 19.10px;
+font-family: Alegreya-Regular_cnx;
+fill: #231F20;
+}
+.s5_38{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_cnt;
+fill: #231F20;
+}
+.s6_38{
+font-size: 19.10px;
+font-family: Alegreya-Bold_cny;
+fill: #3986C6;
+}
+.s7_38{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_cnt;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="862" 
+y="1149" 
+dx="0,0" 
+class="s1_38"
+>15</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_38" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_38" />
+<image preserveAspectRatio="none" x="153" y="715" width="120" height="90" xlink:href="38/img/1.png" />
+<image preserveAspectRatio="none" x="153" y="805" width="120" height="45" xlink:href="38/img/2.png" />
+<image preserveAspectRatio="none" x="153" y="573" width="121" height="83" xlink:href="38/img/3.png" />
+<image preserveAspectRatio="none" x="153" y="656" width="121" height="42" xlink:href="38/img/4.png" />
+<image preserveAspectRatio="none" x="153" y="350" width="121" height="91" xlink:href="38/img/5.png" />
+<image preserveAspectRatio="none" x="153" y="440" width="121" height="46" xlink:href="38/img/6.png" />
+<image preserveAspectRatio="none" x="153" y="209" width="121" height="84" xlink:href="38/img/7.png" />
+<image preserveAspectRatio="none" x="153" y="293" width="121" height="42" xlink:href="38/img/8.png" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 806)"
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_38"
+>Chapter 1 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 867)"
+dx="0,0" 
+class="s2_38"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 879)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_38"
+>Getting to Know Chinese </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1030)"
+dx="0,0" 
+class="s2_38"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1041)"
+dx="0,-1.4,0,0,0,0,0" 
+class="s2_38"
+>Topic 3</text>
+
+<path d="M639,258.6l-366.7,0" class="g3_38" />
+<path d="M272.3,263.2c-2.5,0,-4.6,-2.1,-4.6,-4.6c0,-2.5,2.1,-4.6,4.6,-4.6c2.6,0,4.6,2.1,4.6,4.6c0,2.5,-2,4.6,-4.6,4.6Z" class="g2_38" />
+<path d="M416.8,404.3l-144.5,0" class="g3_38" />
+<path d="M272.3,408.9c-2.5,0,-4.6,-2.1,-4.6,-4.6c0,-2.6,2.1,-4.6,4.6,-4.6c2.6,0,4.6,2,4.6,4.6c0,2.5,-2,4.6,-4.6,4.6Z" class="g2_38" />
+<path d="M344.6,379.6c-7.6,0,-13.8,6.2,-13.8,13.8l0,27.8c0,7.6,6.2,13.7,13.8,13.7l61.7,0c7.6,0,13.8,-6.1,13.8,-13.7l0,-27.8c0,-7.6,-6.2,-13.8,-13.8,-13.8Z" class="g4_38" />
+<text 
+x="347" 
+y="226" 
+dx="0,-0.4,0.2,0.2" 
+class="s3_38"
+>You </text>
+
+<text 
+x="439" 
+y="226" 
+dx="0,0.2,0.2,-0.1,0.2" 
+class="s3_38"
+>like </text>
+
+<text 
+x="531" 
+y="226" 
+dx="0,0.2,0.2" 
+class="s3_38"
+>it </text>
+
+<text 
+x="609" 
+y="226" 
+dx="0" 
+class="s3_38"
+>?</text>
+
+<text 
+x="359" 
+y="373" 
+dx="0,0.2,0.2,-0.1,0.2" 
+class="s3_38"
+>Like!</text>
+
+<text 
+x="343" 
+y="413" 
+dx="0,0,0,0,0,0,0" 
+class="s4_38"
+>Xǐhuan!</text>
+
+<text 
+x="434" 
+y="320" 
+dx="0,0,0,0,-0.3,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s4_38"
+>Do you like it?</text>
+
+<text 
+x="321" 
+y="458" 
+dx="0,-0.8,0,-0.4,-0.4,0,0,0,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s4_38"
+>Yes, I do like it!</text>
+
+<text 
+x="89" 
+y="163" 
+dx="0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s4_38"
+>If you want to respond to a question in the positive, a simple way to do so is to repeat the verb </text>
+
+<text 
+x="90" 
+y="188" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_38"
+>in the question.</text>
+
+<path d="M107.7,120.9c-10.1,0,-18.3,-8.2,-18.3,-18.3l0,-20.3l23.1,0c10.1,0,18.3,8.3,18.3,18.4l0,20.2Z" class="g2_38" />
+<path d="M95.5,82.9l293.6,0" class="g5_38" />
+<path d="M109.2,120.4l279.9,0" class="g5_38" />
+<text 
+x="136" 
+y="109" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_38"
+>Answering Questions</text>
+
+<text 
+x="88" 
+y="523" 
+dx="0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.2,0,0,0,-0.3,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,-0.3,0,0,-0.4,0,0,-1.1,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_38"
+>If your response is negative, the most common way to answer “no” is to simply add the </text>
+
+<text 
+x="89" 
+y="549" 
+dx="0,0,-0.2,-0.2,0,0,0,-0.3,0,0,-0.3,0,-0.2,0" 
+class="s4_38"
+>negative word </text>
+
+<text 
+x="202" 
+y="549" 
+dx="0,0" 
+class="s6_38"
+>bù</text>
+
+<text 
+x="226" 
+y="549" 
+dx="0,0,0,-0.8,-0.4,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,-0.3,0,0,-0.8" 
+class="s4_38"
+>(no, not) before the verb.</text>
+
+<path d="M483.5,768.9l-210.8,0" class="g3_38" />
+<path d="M272.7,773.5c-2.5,0,-4.6,-2.1,-4.6,-4.6c0,-2.6,2.1,-4.6,4.6,-4.6c2.5,0,4.6,2,4.6,4.6c0,2.5,-2.1,4.6,-4.6,4.6Z" class="g2_38" />
+<path d="M344.6,230.9c-7.6,0,-13.8,6.1,-13.8,13.7l0,27.9c0,7.5,6.2,13.7,13.8,13.7l27.8,0c7.6,0,13.7,-6.2,13.7,-13.7l0,-27.9c0,-7.6,-6.1,-13.7,-13.7,-13.7Z" class="g4_38" />
+<path d="M344.6,744.2c-7.6,0,-13.8,6.2,-13.8,13.8l0,27.8c0,7.6,6.2,13.7,13.8,13.7l27.8,0c7.6,0,13.7,-6.1,13.7,-13.7l0,-27.8c0,-7.6,-6.1,-13.8,-13.7,-13.8Z" class="g4_38" />
+<path d="M420.8,744.2c-7.6,0,-13.7,6.2,-13.7,13.8l0,27.8c0,7.6,6.1,13.7,13.7,13.7l56.5,0c7.6,0,13.7,-6.1,13.7,-13.7L491,758c0,-7.6,-6.1,-13.8,-13.7,-13.8Z" class="g4_38" />
+<text 
+x="348" 
+y="738" 
+dx="0,-0.1,0.2,0.2" 
+class="s3_38"
+>Not </text>
+
+<text 
+x="434" 
+y="738" 
+dx="0,0.2,0.2,-0.1,-0.2" 
+class="s3_38"
+>like.</text>
+
+<text 
+x="347" 
+y="777" 
+dx="0,0,0" 
+class="s4_38"
+>Bù </text>
+
+<text 
+x="420" 
+y="777" 
+dx="0,0,0,0,0,0,0" 
+class="s4_38"
+>xǐhuan.</text>
+
+<text 
+x="348" 
+y="830" 
+dx="0,-0.4,-0.8,-0.4,0,0,0,0,0,-1.5,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s4_38"
+>No, I don’t like it.</text>
+
+<path d="M524.8,230.9c-7.6,0,-13.7,6.1,-13.7,13.7l0,27.9c0,7.5,6.1,13.7,13.7,13.7l27.9,0c7.6,0,13.7,-6.2,13.7,-13.7l0,-27.9c0,-7.6,-6.1,-13.7,-13.7,-13.7Z" class="g4_38" />
+<path d="M420.8,230.9c-7.6,0,-13.7,6.1,-13.7,13.7l0,27.9c0,7.5,6.1,13.7,13.7,13.7l56.5,0c7.6,0,13.7,-6.2,13.7,-13.7l0,-27.9c0,-7.6,-6.1,-13.7,-13.7,-13.7Z" class="g4_38" />
+<path d="M606.1,230.9c-7.6,0,-13.7,6.1,-13.7,13.7l0,27.9c0,7.5,6.1,13.7,13.7,13.7l27.8,0c7.6,0,13.8,-6.2,13.8,-13.7l0,-27.9c0,-7.6,-6.2,-13.7,-13.8,-13.7Z" class="g4_38" />
+<text 
+x="348" 
+y="264" 
+dx="0,-0.2,0" 
+class="s4_38"
+>Nǐ </text>
+
+<text 
+x="423" 
+y="264" 
+dx="0,0,0,0,0,0,0" 
+class="s4_38"
+>xǐhuan </text>
+
+<text 
+x="532" 
+y="264" 
+dx="0,0,0" 
+class="s4_38"
+>tā </text>
+
+<text 
+x="605" 
+y="264" 
+dx="0,0,0" 
+class="s4_38"
+>ma?</text>
+
+<text 
+x="347" 
+y="588" 
+dx="0,-0.4,0.2,0.2" 
+class="s3_38"
+>You </text>
+
+<text 
+x="439" 
+y="588" 
+dx="0,0.2,0.2,-0.1,0.2" 
+class="s3_38"
+>like </text>
+
+<text 
+x="531" 
+y="588" 
+dx="0,0.2,0.2" 
+class="s3_38"
+>it </text>
+
+<text 
+x="609" 
+y="588" 
+dx="0" 
+class="s3_38"
+>?</text>
+
+<text 
+x="434" 
+y="682" 
+dx="0,0,0,0,-0.3,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s4_38"
+>Do you like it?</text>
+
+<path d="M639,620.7l-366.7,0" class="g3_38" />
+<path d="M272.3,625.3c-2.5,0,-4.6,-2.1,-4.6,-4.6c0,-2.6,2.1,-4.6,4.6,-4.6c2.6,0,4.6,2,4.6,4.6c0,2.5,-2,4.6,-4.6,4.6Z" class="g2_38" />
+<path d="M344.6,593c-7.6,0,-13.8,6.1,-13.8,13.7l0,27.8c0,7.6,6.2,13.8,13.8,13.8l27.8,0c7.6,0,13.7,-6.2,13.7,-13.8l0,-27.8C386.1,599.1,380,593,372.4,593Z" class="g4_38" />
+<path d="M524.8,593c-7.6,0,-13.7,6.1,-13.7,13.7l0,27.8c0,7.6,6.1,13.8,13.7,13.8l27.9,0c7.6,0,13.7,-6.2,13.7,-13.8l0,-27.8c0,-7.6,-6.1,-13.7,-13.7,-13.7Z" class="g4_38" />
+<path d="M420.8,593c-7.6,0,-13.7,6.1,-13.7,13.7l0,27.8c0,7.6,6.1,13.8,13.7,13.8l56.5,0c7.6,0,13.7,-6.2,13.7,-13.8l0,-27.8C491,599.1,484.9,593,477.3,593Z" class="g4_38" />
+<path d="M606.1,593c-7.6,0,-13.7,6.1,-13.7,13.7l0,27.8c0,7.6,6.1,13.8,13.7,13.8l27.8,0c7.6,0,13.8,-6.2,13.8,-13.8l0,-27.8c0,-7.6,-6.2,-13.7,-13.8,-13.7Z" class="g4_38" />
+<text 
+x="347" 
+y="626" 
+dx="0,-0.2,0" 
+class="s4_38"
+>Nǐ </text>
+
+<text 
+x="423" 
+y="626" 
+dx="0,0,0,0,0,0,0" 
+class="s4_38"
+>xǐhuan </text>
+
+<text 
+x="531" 
+y="626" 
+dx="0,0,0" 
+class="s4_38"
+>tā </text>
+
+<text 
+x="604" 
+y="626" 
+dx="0,0,0" 
+class="s4_38"
+>ma?</text>
+
+<text 
+x="746" 
+y="928" 
+dx="0" 
+class="s6_38"
+>T</text>
+
+<text 
+x="787" 
+y="928" 
+dx="0" 
+class="s6_38"
+>F</text>
+
+<text 
+x="114" 
+y="966" 
+dx="0" 
+class="s6_38"
+>1</text>
+
+<text 
+x="137" 
+y="966" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_38"
+>The Chinese word ma is added to the end of a sentence to form a question.</text>
+
+<path d="M751.9,969.1c5.8,0,10.5,-4.6,10.5,-10.4c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.4,10.5,10.4Z" class="g6_38" />
+<path d="M792.9,969.1c5.7,0,10.4,-4.6,10.4,-10.4c0,-5.8,-4.7,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.4,10.5,10.4Z" class="g6_38" />
+<text 
+x="114" 
+y="1007" 
+dx="0" 
+class="s6_38"
+>2</text>
+
+<text 
+x="136" 
+y="1007" 
+dx="0,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.8,-0.6,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2,-0.4,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.6" 
+class="s4_38"
+>When turning a statement into a question in Chinese, the word order changes.</text>
+
+<path d="M751.9,1010.4c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g6_38" />
+<path d="M792.9,1010.4c5.7,0,10.4,-4.7,10.4,-10.5c0,-5.8,-4.7,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g6_38" />
+<text 
+x="114" 
+y="1049" 
+dx="0" 
+class="s6_38"
+>3</text>
+
+<text 
+x="136" 
+y="1049" 
+dx="0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.4,-0.4,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,-0.2,0,0,-1.5" 
+class="s4_38"
+>For basic sentences, Chinese word order is the same as English word order.</text>
+
+<path d="M751.9,1051.6c5.8,0,10.5,-4.6,10.5,-10.4c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.4,10.5,10.4Z" class="g6_38" />
+<path d="M792.9,1051.6c5.7,0,10.4,-4.6,10.4,-10.4c0,-5.8,-4.7,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.4,10.5,10.4Z" class="g6_38" />
+<path d="M89.5,955.3l0,-60.5l323.5,0" class="g7_38" />
+<path d="M413,897.5c1.6,0,2.8,-1.2,2.8,-2.7c0,-1.6,-1.2,-2.8,-2.8,-2.8c-1.5,0,-2.7,1.2,-2.7,2.8c0,1.5,1.2,2.7,2.7,2.7Z" class="g2_38" />
+<path d="M104.9,908L319,908l0,-24.2l-214.1,0l0,24.2Z" class="g8_38" />
+<text 
+x="109" 
+y="899" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_38"
+>Comprehension Check</text>
+
+<path d="M383.7,886.4c5.5,10.7,1.2,23.9,-9.5,29.3c-10.8,5.5,-23.9,1.3,-29.4,-9.5c-5.5,-10.7,-1.2,-23.9,9.5,-29.3c10.8,-5.5,23.9,-1.3,29.4,9.5Z" class="g8_38" />
+<path d="M383.7,886.4c5.5,10.7,1.2,23.9,-9.5,29.3c-10.8,5.5,-23.9,1.3,-29.4,-9.5c-5.5,-10.7,-1.2,-23.9,9.5,-29.3c10.8,-5.5,23.9,-1.3,29.4,9.5Z" class="g5_38" />
+<path d="M391.3,874.5c-1.2,-1,-3,-0.7,-4.1,0.6l-20.5,24.4c-1.1,1.3,-3,1.4,-4.2,0.2l-3,-2.9c-1.2,-1.2,-3.1,-1.3,-4.1,-0.2c-1.1,1.1,-1,3,0.2,4.2l7.3,7.1c1.2,1.2,3.1,1.1,4.2,-0.2l24.3,-29c1.1,-1.3,1.1,-3.2,-0.1,-4.2Z" class="g9_38" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Alegreya-Regular_cnx;
+	src: url("fonts/Alegreya-Regular_cnx.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cnz;
+	src: url("fonts/ProximaNova-Semibold_cnz.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_cny;
+	src: url("fonts/Alegreya-Bold_cny.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cnt;
+	src: url("fonts/ProximaNova-Bold_cnt.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

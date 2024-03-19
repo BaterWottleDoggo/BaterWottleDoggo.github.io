@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 311 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_311{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_311{
+fill: #3986C6;
+}
+.g3_311{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_311{
+fill: #E2E3E5;
+}
+.g5_311{
+fill: #ACBF3B;
+}
+.g6_311{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: round;
+stroke-linejoin: miter;
+}
+.g7_311{
+fill: #DCDDDF;
+}
+.g8_311{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_311{
+fill: none;
+stroke: #D9ECD4;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_311{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g11_311{
+fill: none;
+stroke: #939598;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_311{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cqy;
+fill: #231F20;
+}
+.s2_311{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d8s;
+fill: #231F20;
+}
+.s3_311{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_d8s;
+fill: #231F20;
+}
+.s4_311{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s5_311{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d8v;
+fill: #231F20;
+}
+.s6_311{
+font-size: 16.81px;
+font-family: ProximaNovaCond-Extrabld_d97;
+fill: #231F20;
+}
+.s7_311{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d8_;
+fill: #231F20;
+}
+.s8_311{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s9_311{
+font-size: 16.04px;
+font-family: Alegreya-Regular_d8v;
+fill: #231F20;
+}
+.s10_311{
+font-size: 29.03px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s11_311{
+font-size: 27.50px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_311"
+>Go Far with Chinese</text>
+
+<text 
+x="32" 
+y="1149" 
+dx="0,0,0" 
+class="s2_311"
+>288</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_311" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_311" />
+<text 
+x="110" 
+y="97" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s3_311"
+>Language Reference</text>
+
+<path d="M311.6,91.9l520.5,0" class="g3_311" />
+<path d="M311.6,94.9c1.7,0,3.1,-1.3,3.1,-3c0,-1.7,-1.4,-3.1,-3.1,-3.1c-1.7,0,-3,1.4,-3,3.1c0,1.7,1.3,3,3,3Z" class="g2_311" />
+<text 
+x="138" 
+y="134" 
+dx="0,0,0,0,0,0" 
+class="s2_311"
+>Using </text>
+
+<text 
+x="191" 
+y="134" 
+dx="0" 
+class="s4_311"
+>有</text>
+
+<text 
+x="212" 
+y="134" 
+dx="0" 
+class="s2_311"
+>(</text>
+
+<text 
+x="217" 
+y="134" 
+dx="0" 
+class="s4_311"
+>一</text>
+
+<text 
+x="239" 
+y="134" 
+dx="0" 
+class="s2_311"
+>)</text>
+
+<text 
+x="244" 
+y="134" 
+dx="0,-0.9" 
+class="s4_311"
+>点儿</text>
+
+<text 
+x="294" 
+y="134" 
+dx="0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.7" 
+class="s2_311"
+>to express “a bit, kind of”</text>
+
+<text 
+x="137" 
+y="172" 
+dx="0,-0.4,-0.2,-0.2,-0.2,-0.6,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s5_311"
+>The expression </text>
+
+<text 
+x="255" 
+y="171" 
+dx="0" 
+class="s4_311"
+>有</text>
+
+<text 
+x="283" 
+y="169" 
+dx="0" 
+class="s5_311"
+>(</text>
+
+<text 
+x="294" 
+y="171" 
+dx="0" 
+class="s4_311"
+>一</text>
+
+<text 
+x="322" 
+y="169" 
+dx="0" 
+class="s5_311"
+>)</text>
+
+<text 
+x="333" 
+y="171" 
+dx="0,-0.2" 
+class="s4_311"
+>点儿</text>
+
+<text 
+x="382" 
+y="172" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2,-0.2,-0.5,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.6,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s5_311"
+>is used before a descriptive word to say that something is a </text>
+
+<text 
+x="138" 
+y="198" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2,-0.2,-0.5,-0.2,-0.4,-0.2,-0.2,-0.6" 
+class="s5_311"
+>little bit/somewhat [descriptive word]. </text>
+
+<text 
+x="433" 
+y="197" 
+dx="0" 
+class="s4_311"
+>有</text>
+
+<text 
+x="461" 
+y="195" 
+dx="0" 
+class="s5_311"
+>(</text>
+
+<text 
+x="472" 
+y="197" 
+dx="0" 
+class="s4_311"
+>一</text>
+
+<text 
+x="501" 
+y="195" 
+dx="0" 
+class="s5_311"
+>)</text>
+
+<text 
+x="511" 
+y="197" 
+dx="0,-0.2" 
+class="s4_311"
+>点儿</text>
+
+<text 
+x="560" 
+y="198" 
+dx="0,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2,-0.2,-0.2,-0.2" 
+class="s5_311"
+>can also be used before some verbs </text>
+
+<text 
+x="138" 
+y="224" 
+dx="0,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.6,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s5_311"
+>related to thinking and feeling, such as </text>
+
+<text 
+x="435" 
+y="223" 
+dx="0" 
+class="s4_311"
+>想</text>
+
+<text 
+x="456" 
+y="221" 
+dx="0" 
+class="s5_311"
+>,</text>
+
+<text 
+x="465" 
+y="224" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.6,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.6,-1.5,-0.6" 
+class="s5_311"
+>to say that someone kind of feels a certain way. </text>
+
+<path d="M110,138.7l20.6,0l0,-20.6l-20.6,0l0,20.6Z" class="g4_311" />
+<text 
+x="115" 
+y="135" 
+dx="0" 
+class="s6_311"
+>3</text>
+
+<path d="M110,700.9l20.6,0l0,-20.6l-20.6,0l0,20.6Z" class="g4_311" />
+<text 
+x="115" 
+y="697" 
+dx="0" 
+class="s6_311"
+>4</text>
+
+<text 
+x="138" 
+y="266" 
+dx="0" 
+class="s7_311"
+>1</text>
+
+<text 
+x="153" 
+y="269" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_311"
+>十点睡觉有 ( 一 ) 点儿晚。 </text>
+
+<text 
+x="547" 
+y="266" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s5_311"
+>Going to bed at 10 is a bit late.</text>
+
+<text 
+x="155" 
+y="327" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_311"
+>你今天早点儿休息吧？ </text>
+
+<text 
+x="547" 
+y="324" 
+dx="0,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4" 
+class="s5_311"
+>Can you go to bed a bit earlier tonight?</text>
+
+<text 
+x="138" 
+y="393" 
+dx="0" 
+class="s7_311"
+>2</text>
+
+<text 
+x="155" 
+y="396" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_311"
+>我有 ( 一 ) 点儿不想去。</text>
+
+<text 
+x="159" 
+y="424" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.8,-0.4,0,0,0,0,0,0,-1.5,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.8,0" 
+class="s5_311"
+>I kind of don’t want to go. (I don’t really want to go.)</text>
+
+<text 
+x="138" 
+y="477" 
+dx="0" 
+class="s7_311"
+>3</text>
+
+<text 
+x="154" 
+y="480" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_311"
+>昨天我有 ( 一 ) 点儿不舒服，所以我请假了。</text>
+
+<text 
+x="158" 
+y="508" 
+dx="0,-0.8,0,0,0,0,-0.2,0,-0.4,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.3,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.3,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s5_311"
+>Yesterday I felt a bit unwell, so I asked for a day off (from school).</text>
+
+<text 
+x="363" 
+y="296" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s9_311"
+>xiūxi</text>
+
+<text 
+x="474" 
+y="449" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s9_311"
+>shūfu</text>
+
+<path d="M156.9,543.1l5.4,0l-0.7,16l-3.9,0Zm2.7,18.3c1.6,0,2.9,1.3,2.9,2.9c0,1.5,-1.3,2.8,-2.9,2.8c-1.5,0,-2.8,-1.3,-2.8,-2.8c0,-1.6,1.3,-2.9,2.8,-2.9Z" class="g5_311" />
+<path d="M171.8,545l-5.9,-11.4c-3.1,-6,-11.7,-5.8,-14.6,0.3l-13.6,29.8c-3.2,6.9,1.9,14.8,9.5,14.8l678.6,0l0,70.2l-679.7,0l0,-58.6" class="g6_311" />
+<text 
+x="167" 
+y="567" 
+dx="0,-1.3,0,0,0,0,0,-0.5,0" 
+class="s3_311"
+>TAKE NOTE</text>
+
+<text 
+x="168" 
+y="608" 
+dx="0,-0.5,-0.5" 
+class="s4_311"
+>不舒服</text>
+
+<text 
+x="238" 
+y="609" 
+dx="0,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.7,-0.4,-0.4,-0.8,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-1.3,-0.8,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-1,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.8" 
+class="s5_311"
+>(shūfu) is used in many of the same ways “uncomfortable” is used in English, </text>
+
+<text 
+x="171" 
+y="633" 
+dx="0,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.6,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.6,-0.4,-0.4,-0.4,-0.4,-0.7,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-1.9,-0.8" 
+class="s5_311"
+>but it can also be used in a different way: to describe feeling sick or under the weather. </text>
+
+<text 
+x="151" 
+y="696" 
+dx="0,0,0,0,0,0" 
+class="s2_311"
+>Using </text>
+
+<text 
+x="204" 
+y="696" 
+dx="0" 
+class="s4_311"
+>的</text>
+
+<text 
+x="232" 
+y="696" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_311"
+>to link something to a phrase that describes it</text>
+
+<text 
+x="150" 
+y="726" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-1.3,-0.4" 
+class="s5_311"
+>As discussed previously, </text>
+
+<text 
+x="340" 
+y="725" 
+dx="0" 
+class="s4_311"
+>的</text>
+
+<text 
+x="367" 
+y="726" 
+dx="0,-0.2,0,0,0,0,0,0.3,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,-0.2,0,0,0,0,0" 
+class="s5_311"
+>can serve as a link between a descriptive word and </text>
+
+<text 
+x="151" 
+y="752" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s5_311"
+>something being described. </text>
+
+<text 
+x="371" 
+y="751" 
+dx="0" 
+class="s4_311"
+>的</text>
+
+<text 
+x="398" 
+y="752" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_311"
+>can also link a longer descriptive phrase to something </text>
+
+<text 
+x="151" 
+y="776" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,-0.6,0,0,0,0,0,0,-0.4,0,-0.4,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,-0.4,0,0" 
+class="s5_311"
+>being described, similar to “that” in English. Notice that the descriptive phrase always </text>
+
+<text 
+x="151" 
+y="802" 
+dx="0,-0.3,0,0,0,0,0,0,0,-0.3,0,-0.2,0" 
+class="s5_311"
+>comes before </text>
+
+<text 
+x="258" 
+y="802" 
+dx="0" 
+class="s4_311"
+>的</text>
+
+<text 
+x="279" 
+y="802" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s5_311"
+>, and the thing described always comes after </text>
+
+<text 
+x="625" 
+y="802" 
+dx="0" 
+class="s4_311"
+>的</text>
+
+<text 
+x="648" 
+y="804" 
+dx="0" 
+class="s5_311"
+>.</text>
+
+<path d="M109.5,821.9l86.7,0l0,48.8l-86.7,0l0,-48.8Zm86.7,0l141.1,0l0,48.8l-141.1,0l0,-48.8Zm141.1,0l41.3,0l0,48.8l-41.3,0l0,-48.8Zm41.3,0l104.5,0l0,48.8l-104.5,0l0,-48.8Zm104.5,0l155.8,0l0,48.8l-155.8,0l0,-48.8Zm155.8,0l193.4,0l0,48.8l-193.4,0l0,-48.8Z" class="g7_311" />
+<path d="M196.2,870.6l0,-48.7" class="g8_311" />
+<path d="M196.2,960.5l0,-89.9" class="g8_311" />
+<path d="M337.3,960.5l0,-89.9" class="g8_311" />
+<path d="M196.2,1050.6l0,-89.7" class="g8_311" />
+<path d="M337.3,1050.6l0,-89.7" class="g8_311" />
+<path d="M196.2,1114.6l0,-63.6" class="g8_311" />
+<path d="M337.3,1114.6l0,-63.6" class="g8_311" />
+<path d="M337.3,870.6l0,-48.7" class="g9_311" />
+<path d="M196.2,960.7l141.1,0" class="g10_311" />
+<path d="M196.2,1050.8l141.1,0" class="g10_311" />
+<path d="M196.2,1115l141.1,0" class="g11_311" />
+<path d="M109.5,960.7l86.7,0" class="g10_311" />
+<path d="M337.3,960.7l41.1,0" class="g10_311" />
+<path d="M378.8,960.7l104.1,0" class="g10_311" />
+<path d="M483.3,960.7l155.4,0" class="g10_311" />
+<path d="M639.1,960.7l193.2,0" class="g10_311" />
+<path d="M109.5,1050.8l86.7,0" class="g10_311" />
+<path d="M337.3,1050.8l41.1,0" class="g10_311" />
+<path d="M378.8,1050.8l104.1,0" class="g10_311" />
+<path d="M483.3,1050.8l155.4,0" class="g10_311" />
+<path d="M639.1,1050.8l193.2,0" class="g10_311" />
+<path d="M378.6,960.7l0,-90.1" class="g8_311" />
+<path d="M483.1,960.7l0,-90.1" class="g8_311" />
+<path d="M638.9,960.7l0,-90.1" class="g8_311" />
+<path d="M378.6,1050.8l0,-90.1" class="g8_311" />
+<path d="M483.1,1050.8l0,-90.1" class="g8_311" />
+<path d="M638.9,1050.8l0,-90.1" class="g8_311" />
+<path d="M378.6,1114.6l0,-63.8" class="g8_311" />
+<path d="M483.1,1114.6l0,-63.8" class="g8_311" />
+<path d="M638.9,1114.6l0,-63.8" class="g8_311" />
+<path d="M378.6,870.6l0,-48.7" class="g9_311" />
+<path d="M483.1,870.6l0,-48.7" class="g9_311" />
+<path d="M638.9,870.6l0,-48.7" class="g9_311" />
+<path d="M109.5,1115l86.7,0" class="g11_311" />
+<path d="M337.3,1115l41.3,0" class="g11_311" />
+<path d="M378.6,1115l104.5,0" class="g11_311" />
+<path d="M483.1,1115l155.8,0" class="g11_311" />
+<path d="M638.9,1115l193.4,0" class="g11_311" />
+<text 
+x="225" 
+y="842" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_311"
+>descriptive </text>
+
+<text 
+x="242" 
+y="864" 
+dx="0,0,0,0,0,0" 
+class="s2_311"
+>phrase</text>
+
+<text 
+x="350" 
+y="854" 
+dx="0" 
+class="s4_311"
+>的</text>
+
+<text 
+x="392" 
+y="842" 
+dx="0,0,0,0,0,0" 
+class="s2_311"
+>thing </text>
+
+<text 
+x="393" 
+y="864" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_311"
+>described</text>
+
+<text 
+x="703" 
+y="853" 
+dx="0,0,0,0,0,0,0" 
+class="s2_311"
+>Meaning</text>
+
+<text 
+x="112" 
+y="898" 
+dx="0" 
+class="s7_311"
+>1</text>
+
+<text 
+x="127" 
+y="900" 
+dx="0,0" 
+class="s10_311"
+>这是</text>
+
+<text 
+x="196" 
+y="898" 
+dx="0,0,0,0,0,3.6" 
+class="s11_311"
+>我最喜欢看的</text>
+
+<text 
+x="381" 
+y="898" 
+dx="0,0" 
+class="s11_311"
+>书。</text>
+
+<text 
+x="641" 
+y="897" 
+dx="0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,-0.2,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s5_311"
+>This is my favorite book. </text>
+
+<text 
+x="642" 
+y="923" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_311"
+>(This is the book that I </text>
+
+<text 
+x="642" 
+y="949" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s5_311"
+>most like to read.)</text>
+
+<text 
+x="112" 
+y="978" 
+dx="0" 
+class="s7_311"
+>2</text>
+
+<text 
+x="196" 
+y="988" 
+dx="0,0,0,0,0,3.6,0,7.1,0" 
+class="s11_311"
+>我妈妈送我的 衣服</text>
+
+<text 
+x="484" 
+y="988" 
+dx="0,0,0,0" 
+class="s11_311"
+>很好看！</text>
+
+<text 
+x="641" 
+y="987" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s5_311"
+>The clothing that my </text>
+
+<text 
+x="642" 
+y="1013" 
+dx="0,0,0,0,0,-0.2,-0.4,-0.3,0,0,0,0,0,0,0,0,-0.3,0,0.3,0" 
+class="s5_311"
+>mom gave me is very </text>
+
+<text 
+x="642" 
+y="1039" 
+dx="0,0,0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s5_311"
+>nice-looking!</text>
+
+<text 
+x="112" 
+y="1067" 
+dx="0" 
+class="s7_311"
+>3</text>
+
+<text 
+x="195" 
+y="1078" 
+dx="0,0,0,0,0,4.1" 
+class="s11_311"
+>喜欢听音乐的</text>
+
+<text 
+x="381" 
+y="1078" 
+dx="0" 
+class="s11_311"
+>人</text>
+
+<text 
+x="483" 
+y="1078" 
+dx="0,0,0,0,0,0" 
+class="s11_311"
+>经常去那儿。</text>
+
+<text 
+x="641" 
+y="1077" 
+dx="0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0.9" 
+class="s5_311"
+>People who like to listen </text>
+
+<text 
+x="642" 
+y="1103" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.6" 
+class="s5_311"
+>to music often go there.</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNovaCond-Extrabld_d97;
+	src: url("fonts/ProximaNovaCond-Extrabld_d97.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_d8_;
+	src: url("fonts/Alegreya-Bold_d8_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_d8s;
+	src: url("fonts/ProximaNova-Bold_d8s.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cqy;
+	src: url("fonts/ProximaNova-Semibold_cqy.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d8v;
+	src: url("fonts/Alegreya-Regular_d8v.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

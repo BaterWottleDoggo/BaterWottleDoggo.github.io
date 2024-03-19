@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 328 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_328{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_328{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_328{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_328{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_43o;
+fill: #3F3F40;
+}
+.s2_328{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_43q;
+fill: #007598;
+}
+.s3_328{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s4_328{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #007D9F;
+}
+.s5_328{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s6_328{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #007D9F;
+}
+.s7_328{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_43y;
+fill: #3F3F40;
+}
+.s8_328{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s9_328{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s10_328{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_43z;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="171" 
+y="71" 
+dx="0,0" 
+class="s1_328"
+>E </text>
+
+<text 
+x="212" 
+y="72" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_328"
+>Person A</text>
+
+<text 
+x="311" 
+y="73" 
+dx="0,0" 
+class="s3_328"
+>你去</text>
+
+<text 
+x="363" 
+y="73" 
+dx="0" 
+class="s4_328"
+>过</text>
+
+<text 
+x="389" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_328"
+>中国，请告诉我们去哪儿旅游最好。</text>
+
+<text 
+x="313" 
+y="114" 
+dx="0,0" 
+class="s5_328"
+>你去</text>
+
+<text 
+x="365" 
+y="114" 
+dx="0" 
+class="s6_328"
+>過</text>
+
+<text 
+x="391" 
+y="114" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_328"
+>中國，請告訴我們去哪兒旅遊最好。</text>
+
+<text 
+x="314" 
+y="147" 
+dx="0,-1.5,0,0,-0.1,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,-0.4,0" 
+class="s7_328"
+>You’ve been to China. Give us some tips on the best places to go. </text>
+
+<text 
+x="314" 
+y="167" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_328"
+>(Because you’ve been to China, you can give us some tips on where </text>
+
+<text 
+x="314" 
+y="187" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,-0.2,0,0" 
+class="s7_328"
+>some of the best places to go are.)</text>
+
+<text 
+x="212" 
+y="233" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_328"
+>Person B</text>
+
+<text 
+x="311" 
+y="234" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_328"
+>云南的旅游景点多，少数民族的文化也很有</text>
+
+<text 
+x="311" 
+y="268" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_328"
+>意思，是旅游的好地方。</text>
+
+<text 
+x="313" 
+y="308" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_328"
+>雲南的旅遊景點多，少數民族的文化也很有</text>
+
+<text 
+x="313" 
+y="342" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_328"
+>意思，是旅遊的好地方。</text>
+
+<text 
+x="314" 
+y="376" 
+dx="0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>Yunnan has plenty of tourist sights, and the cultures of the minority </text>
+
+<text 
+x="314" 
+y="396" 
+dx="0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s7_328"
+>ethnic groups are also intriguing. It’s a good place to visit.</text>
+
+<text 
+x="169" 
+y="454" 
+dx="0,0" 
+class="s1_328"
+>F </text>
+
+<text 
+x="239" 
+y="457" 
+dx="0,0" 
+class="s3_328"
+>他学</text>
+
+<text 
+x="291" 
+y="457" 
+dx="0" 
+class="s4_328"
+>过</text>
+
+<text 
+x="317" 
+y="457" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_328"
+>好几年中文，都能看中文报纸、杂志了。</text>
+
+<text 
+x="239" 
+y="497" 
+dx="0,0" 
+class="s5_328"
+>他學</text>
+
+<text 
+x="291" 
+y="497" 
+dx="0" 
+class="s6_328"
+>過</text>
+
+<text 
+x="317" 
+y="497" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_328"
+>好幾年中文，都能看中文報紙、雜誌了。</text>
+
+<text 
+x="245" 
+y="531" 
+dx="0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>He’s been studying Chinese for several years. He can even read Chinese </text>
+
+<text 
+x="245" 
+y="551" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>newspapers and magazines. </text>
+
+<text 
+x="245" 
+y="570" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>(Because he’s been studying Chinese for several years, he can understand </text>
+
+<text 
+x="245" 
+y="590" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>Chinese newspapers and magazines.)</text>
+
+<text 
+x="157" 
+y="638" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>In (D), (E), and (F), the clauses containing </text>
+
+<text 
+x="427" 
+y="640" 
+dx="0" 
+class="s8_328"
+>过</text>
+
+<text 
+x="451" 
+y="638" 
+dx="0" 
+class="s7_328"
+>/</text>
+
+<text 
+x="455" 
+y="640" 
+dx="0" 
+class="s9_328"
+>過</text>
+
+<text 
+x="482" 
+y="638" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s7_328"
+>all serve as explanatory background to the </text>
+
+<text 
+x="157" 
+y="666" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-1,0" 
+class="s7_328"
+>clauses that follow. </text>
+
+<text 
+x="288" 
+y="668" 
+dx="0" 
+class="s8_328"
+>过</text>
+
+<text 
+x="312" 
+y="666" 
+dx="0" 
+class="s7_328"
+>/</text>
+
+<text 
+x="317" 
+y="668" 
+dx="0" 
+class="s9_328"
+>過</text>
+
+<text 
+x="343" 
+y="666" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s7_328"
+>indicates the impact or influence of a past action on the present.</text>
+
+<text 
+x="157" 
+y="707" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_328"
+>Second, </text>
+
+<text 
+x="215" 
+y="709" 
+dx="0" 
+class="s8_328"
+>了</text>
+
+<text 
+x="241" 
+y="707" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s7_328"
+>generally requires a specific time phrase, unless the sentence forms part of an </text>
+
+<text 
+x="157" 
+y="735" 
+dx="0,-0.3,-0.2,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>extended narrative in which the temporal background has already been stated or is implicitly </text>
+
+<text 
+x="157" 
+y="762" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>understood as in (C); </text>
+
+<text 
+x="297" 
+y="764" 
+dx="0" 
+class="s8_328"
+>过</text>
+
+<text 
+x="321" 
+y="762" 
+dx="0" 
+class="s7_328"
+>/</text>
+
+<text 
+x="326" 
+y="764" 
+dx="0" 
+class="s9_328"
+>過</text>
+
+<text 
+x="353" 
+y="762" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>does not. When we use </text>
+
+<text 
+x="512" 
+y="764" 
+dx="0" 
+class="s8_328"
+>过</text>
+
+<text 
+x="536" 
+y="762" 
+dx="0" 
+class="s7_328"
+>/</text>
+
+<text 
+x="541" 
+y="764" 
+dx="0" 
+class="s9_328"
+>過</text>
+
+<text 
+x="564" 
+y="762" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>, the time implied is often rather </text>
+
+<text 
+x="157" 
+y="790" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,-0.2,0,0,-0.2,0,0,0,-0.2,0,0,0,0" 
+class="s7_328"
+>vague: “before” or “in the past.” Only when we want to be more precise—usually, to refute or </text>
+
+<text 
+x="157" 
+y="817" 
+dx="0,0,-0.2,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s7_328"
+>prove a point—do we use a time phrase, as in the second part of (G). </text>
+
+<text 
+x="169" 
+y="874" 
+dx="0,0" 
+class="s1_328"
+>G </text>
+
+<text 
+x="212" 
+y="875" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_328"
+>Person A</text>
+
+<text 
+x="311" 
+y="876" 
+dx="0,0,0,0,0,0" 
+class="s3_328"
+>我听说你没去</text>
+
+<text 
+x="467" 
+y="876" 
+dx="0" 
+class="s4_328"
+>过</text>
+
+<text 
+x="493" 
+y="876" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_328"
+>别的国家，是真的吗？ </text>
+
+<text 
+x="313" 
+y="917" 
+dx="0,0,0,0,0,0" 
+class="s5_328"
+>我聽說你沒去</text>
+
+<text 
+x="469" 
+y="917" 
+dx="0" 
+class="s6_328"
+>過</text>
+
+<text 
+x="495" 
+y="917" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_328"
+>別的國家，是真的嗎？</text>
+
+<text 
+x="314" 
+y="950" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>I heard that you’ve never been abroad. Is that true?</text>
+
+<text 
+x="212" 
+y="996" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_328"
+>Person B</text>
+
+<text 
+x="311" 
+y="998" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_328"
+>谁说的？我去年去</text>
+
+<text 
+x="519" 
+y="998" 
+dx="0" 
+class="s4_328"
+>过</text>
+
+<text 
+x="545" 
+y="998" 
+dx="0,0,0" 
+class="s3_328"
+>日本。</text>
+
+<text 
+x="313" 
+y="1038" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_328"
+>誰說的？我去年去</text>
+
+<text 
+x="520" 
+y="1038" 
+dx="0" 
+class="s6_328"
+>過</text>
+
+<text 
+x="546" 
+y="1038" 
+dx="0,0,0" 
+class="s5_328"
+>日本。</text>
+
+<text 
+x="314" 
+y="1072" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2" 
+class="s7_328"
+>Who said that? I went to Japan last year.</text>
+
+<text 
+x="157" 
+y="1115" 
+dx="0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>Note that when </text>
+
+<text 
+x="264" 
+y="1117" 
+dx="0" 
+class="s8_328"
+>过</text>
+
+<text 
+x="288" 
+y="1115" 
+dx="0" 
+class="s7_328"
+>/</text>
+
+<text 
+x="293" 
+y="1117" 
+dx="0" 
+class="s9_328"
+>過</text>
+
+<text 
+x="320" 
+y="1115" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s7_328"
+>is used in the experiential sense, it usually cannot be followed by </text>
+
+<text 
+x="753" 
+y="1117" 
+dx="0" 
+class="s8_328"
+>了</text>
+
+<text 
+x="777" 
+y="1115" 
+dx="0" 
+class="s7_328"
+>.</text>
+
+<path d="M164.4,48c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_328" />
+<path d="M164.4,50.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_328" />
+<path d="M164.4,431.5c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_328" />
+<path d="M164.4,433.5c-0.6,0.1,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_328" />
+<path d="M164.4,850.9c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_328" />
+<path d="M164.4,852.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_328" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g3_328" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 840)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s10_328"
+>Lesson 10 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 912)"
+dx="0,1" 
+class="s10_328"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 926)"
+dx="0,1,1,1,1,0.9,1,1,1,1,1,0.8,1,1,1,1,1,1,1" 
+class="s10_328"
+>Geography of China </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1058)"
+dx="0,1" 
+class="s10_328"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1072)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s10_328"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1148)"
+dx="0,1,1,0" 
+class="s10_328"
+>305 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_43q;
+	src: url("fonts/LibreFranklin-Bold_43q.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_43o;
+	src: url("fonts/LibreFranklin-ExtraBold_43o.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_43z;
+	src: url("fonts/LibreFranklin-SemiBold_43z.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_43y;
+	src: url("fonts/LibreFranklin-Regular_43y.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

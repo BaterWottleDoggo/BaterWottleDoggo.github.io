@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 140 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_140{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_140{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_140{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_140{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_3-r;
+fill: #939598;
+}
+.s2_140{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s3_140{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #007D9F;
+}
+.s4_140{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s5_140{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s6_140{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3_a;
+fill: #3F3F40;
+}
+.s7_140{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_3_3;
+fill: #3F3F40;
+}
+.s8_140{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3-c;
+fill: #3F3F40;
+}
+.s9_140{
+font-size: 24.44px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #007598;
+}
+.s10_140{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3-w;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="212" 
+y="76" 
+dx="0,0,0" 
+class="s1_140"
+>A: </text>
+
+<text 
+x="238" 
+y="78" 
+dx="0" 
+class="s2_140"
+>我</text>
+
+<text 
+x="270" 
+y="78" 
+dx="0,0,0" 
+class="s3_140"
+>（是）</text>
+
+<text 
+x="366" 
+y="78" 
+dx="0,0,0,0,0,0,0" 
+class="s2_140"
+>跟我表姐一起去</text>
+
+<text 
+x="591" 
+y="78" 
+dx="0" 
+class="s3_140"
+>的</text>
+
+<text 
+x="623" 
+y="78" 
+dx="0" 
+class="s2_140"
+>。</text>
+
+<text 
+x="244" 
+y="115" 
+dx="0,0.3,0.3" 
+class="s4_140"
+>Wǒ </text>
+
+<text 
+x="269" 
+y="115" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s5_140"
+>(shì) </text>
+
+<text 
+x="302" 
+y="115" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>gēn wǒ biǎojiě yìqǐ qù </text>
+
+<text 
+x="449" 
+y="115" 
+dx="0,0.3" 
+class="s5_140"
+>de</text>
+
+<text 
+x="465" 
+y="115" 
+dx="0" 
+class="s6_140"
+>.</text>
+
+<text 
+x="244" 
+y="144" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_140"
+>I went with my cousin.</text>
+
+<text 
+x="212" 
+y="191" 
+dx="0,0,0" 
+class="s1_140"
+>Q: </text>
+
+<text 
+x="238" 
+y="193" 
+dx="0,0" 
+class="s2_140"
+>你们</text>
+
+<text 
+x="302" 
+y="193" 
+dx="0,0,0" 
+class="s3_140"
+>（是）</text>
+
+<text 
+x="398" 
+y="193" 
+dx="0,0,0,0,0" 
+class="s2_140"
+>什么时候去</text>
+
+<text 
+x="559" 
+y="193" 
+dx="0" 
+class="s3_140"
+>的</text>
+
+<text 
+x="591" 
+y="193" 
+dx="0" 
+class="s2_140"
+>？</text>
+
+<text 
+x="244" 
+y="230" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>Nǐmen </text>
+
+<text 
+x="291" 
+y="230" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s5_140"
+>(shì) </text>
+
+<text 
+x="325" 
+y="230" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>shénme shíhou qù </text>
+
+<text 
+x="448" 
+y="230" 
+dx="0,0.3" 
+class="s5_140"
+>de</text>
+
+<text 
+x="463" 
+y="230" 
+dx="0" 
+class="s6_140"
+>?</text>
+
+<text 
+x="244" 
+y="259" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s7_140"
+>When did you go?</text>
+
+<text 
+x="212" 
+y="306" 
+dx="0,0,0" 
+class="s1_140"
+>A: </text>
+
+<text 
+x="238" 
+y="308" 
+dx="0,0" 
+class="s2_140"
+>我们</text>
+
+<text 
+x="302" 
+y="308" 
+dx="0,0,0" 
+class="s3_140"
+>（是）</text>
+
+<text 
+x="398" 
+y="308" 
+dx="0,0,0" 
+class="s2_140"
+>寒假去</text>
+
+<text 
+x="495" 
+y="308" 
+dx="0" 
+class="s3_140"
+>的</text>
+
+<text 
+x="527" 
+y="308" 
+dx="0" 
+class="s2_140"
+>。</text>
+
+<text 
+x="244" 
+y="345" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>Wǒmen </text>
+
+<text 
+x="297" 
+y="345" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s5_140"
+>(shì) </text>
+
+<text 
+x="331" 
+y="345" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>hánjià qù </text>
+
+<text 
+x="397" 
+y="345" 
+dx="0,0.3" 
+class="s5_140"
+>de</text>
+
+<text 
+x="413" 
+y="345" 
+dx="0" 
+class="s6_140"
+>.</text>
+
+<text 
+x="244" 
+y="374" 
+dx="0,-1.1,0,0,0,0,0,0,0,-0.4,-0.5,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0" 
+class="s7_140"
+>We went over winter break.</text>
+
+<text 
+x="212" 
+y="421" 
+dx="0,0,0" 
+class="s1_140"
+>Q: </text>
+
+<text 
+x="238" 
+y="422" 
+dx="0,0" 
+class="s2_140"
+>你们</text>
+
+<text 
+x="302" 
+y="422" 
+dx="0,0,0" 
+class="s3_140"
+>（是）</text>
+
+<text 
+x="398" 
+y="422" 
+dx="0,0,0" 
+class="s2_140"
+>怎么去</text>
+
+<text 
+x="495" 
+y="422" 
+dx="0" 
+class="s3_140"
+>的</text>
+
+<text 
+x="527" 
+y="422" 
+dx="0" 
+class="s2_140"
+>？</text>
+
+<text 
+x="244" 
+y="460" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>Nǐmen (shì) zěnme qù de?</text>
+
+<text 
+x="244" 
+y="489" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0,0,0,-0.2,0" 
+class="s7_140"
+>How did you get there?</text>
+
+<text 
+x="212" 
+y="536" 
+dx="0,0,0" 
+class="s1_140"
+>A: </text>
+
+<text 
+x="238" 
+y="537" 
+dx="0,0" 
+class="s2_140"
+>我们</text>
+
+<text 
+x="302" 
+y="537" 
+dx="0,0,0" 
+class="s3_140"
+>（是）</text>
+
+<text 
+x="398" 
+y="537" 
+dx="0,0,0,0" 
+class="s2_140"
+>坐飞机去</text>
+
+<text 
+x="527" 
+y="537" 
+dx="0" 
+class="s3_140"
+>的</text>
+
+<text 
+x="559" 
+y="537" 
+dx="0" 
+class="s2_140"
+>。</text>
+
+<text 
+x="244" 
+y="575" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>Wǒmen </text>
+
+<text 
+x="297" 
+y="575" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s5_140"
+>(shì) </text>
+
+<text 
+x="331" 
+y="575" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>zuò fēijī qù </text>
+
+<text 
+x="407" 
+y="575" 
+dx="0,0.3" 
+class="s5_140"
+>de</text>
+
+<text 
+x="423" 
+y="575" 
+dx="0" 
+class="s6_140"
+>.</text>
+
+<text 
+x="244" 
+y="604" 
+dx="0,-1.1,0,0,0,0,0,-1.1" 
+class="s7_140"
+>We flew.</text>
+
+<text 
+x="169" 
+y="673" 
+dx="0,0" 
+class="s8_140"
+>B </text>
+
+<text 
+x="212" 
+y="674" 
+dx="0,0,0" 
+class="s1_140"
+>Q: </text>
+
+<text 
+x="238" 
+y="675" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_140"
+>你看过这本书吗？</text>
+
+<text 
+x="244" 
+y="712" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>Nǐ kàn guo zhè běn shū ma?</text>
+
+<text 
+x="244" 
+y="741" 
+dx="0,0,0,-0.5,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_140"
+>Have you read this book?</text>
+
+<text 
+x="212" 
+y="789" 
+dx="0,0,0" 
+class="s1_140"
+>A: </text>
+
+<text 
+x="238" 
+y="790" 
+dx="0,0,0" 
+class="s2_140"
+>看过。</text>
+
+<text 
+x="244" 
+y="827" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>Kàn guo.</text>
+
+<text 
+x="244" 
+y="856" 
+dx="0,-1.6,0,0,0,0,0,0,0,0,-0.5,0" 
+class="s7_140"
+>Yes, I have.</text>
+
+<text 
+x="212" 
+y="904" 
+dx="0,0" 
+class="s1_140"
+>Q:</text>
+
+<text 
+x="223" 
+y="904" 
+dx="0,0,0" 
+class="s3_140"
+>（是）</text>
+
+<text 
+x="320" 
+y="905" 
+dx="0,0,0,0,0" 
+class="s2_140"
+>什么时候看</text>
+
+<text 
+x="480" 
+y="905" 
+dx="0" 
+class="s3_140"
+>的</text>
+
+<text 
+x="512" 
+y="905" 
+dx="0" 
+class="s2_140"
+>？</text>
+
+<text 
+x="244" 
+y="942" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s5_140"
+>(Shì) </text>
+
+<text 
+x="279" 
+y="942" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>shénme shíhou kàn </text>
+
+<text 
+x="410" 
+y="942" 
+dx="0,0.3" 
+class="s5_140"
+>de</text>
+
+<text 
+x="425" 
+y="942" 
+dx="0" 
+class="s6_140"
+>?</text>
+
+<text 
+x="244" 
+y="971" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s7_140"
+>When did you read it?</text>
+
+<text 
+x="245" 
+y="999" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_140"
+>[The questioner knows that the action </text>
+
+<text 
+x="518" 
+y="1000" 
+dx="0" 
+class="s9_140"
+>看</text>
+
+<text 
+x="546" 
+y="999" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>(kàn)</text>
+
+<text 
+x="584" 
+y="999" 
+dx="0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s7_140"
+>already took place.]</text>
+
+<text 
+x="212" 
+y="1046" 
+dx="0,0" 
+class="s1_140"
+>A:</text>
+
+<text 
+x="223" 
+y="1046" 
+dx="0,0,0" 
+class="s3_140"
+>（是）</text>
+
+<text 
+x="320" 
+y="1048" 
+dx="0,0,0,0,0" 
+class="s2_140"
+>上个周末看</text>
+
+<text 
+x="480" 
+y="1048" 
+dx="0" 
+class="s3_140"
+>的</text>
+
+<text 
+x="512" 
+y="1048" 
+dx="0" 
+class="s2_140"
+>。</text>
+
+<text 
+x="244" 
+y="1085" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s5_140"
+>(Shì) </text>
+
+<text 
+x="279" 
+y="1085" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_140"
+>shàng ge zhōumò kàn </text>
+
+<text 
+x="425" 
+y="1085" 
+dx="0,0.3" 
+class="s5_140"
+>de</text>
+
+<text 
+x="441" 
+y="1085" 
+dx="0" 
+class="s6_140"
+>.</text>
+
+<text 
+x="244" 
+y="1114" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s7_140"
+>I read it last weekend. (It was last weekend that I read it.)</text>
+
+<path d="M164.4,650.2c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_140" />
+<path d="M164.4,652.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_140" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g3_140" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 875)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s10_140"
+>Lesson 14 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 947)"
+dx="0,1" 
+class="s10_140"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 961)"
+dx="0,1,1,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s10_140"
+>Birthday Party </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1062)"
+dx="0,1" 
+class="s10_140"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1076)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s10_140"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1153)"
+dx="0,1,1,-2.3" 
+class="s10_140"
+>119 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3_3;
+	src: url("fonts/LibreFranklin-Regular_3_3.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3_a;
+	src: url("fonts/GentiumBasic-Italic_3_a.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3-r;
+	src: url("fonts/LibreFranklin-Bold_3-r.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3-w;
+	src: url("fonts/LibreFranklin-SemiBold_3-w.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3-c;
+	src: url("fonts/LibreFranklin-ExtraBold_3-c.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

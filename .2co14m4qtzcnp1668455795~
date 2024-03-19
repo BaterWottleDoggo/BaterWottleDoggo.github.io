@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 130 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_130{
+fill: none;
+stroke: #3F3F40;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_130{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_130{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_130{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_130{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_2yv;
+fill: #3F3F40;
+}
+.s2_130{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_2yv;
+fill: #007598;
+}
+.s3_130{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s4_130{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s5_130{
+font-size: 15.28px;
+font-family: ProximaNova-Light_2z3;
+fill: #3F3F40;
+}
+.s6_130{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s7_130{
+font-size: 17.57px;
+font-family: Marion-Italic_2y-;
+fill: #007D9F;
+}
+.s8_130{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2yz;
+fill: #007598;
+}
+.s9_130{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s10_130{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2yz;
+fill: #939598;
+}
+.s11_130{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2z7;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M274.5,863.3l468,0" class="g1_130" />
+<path d="M274.5,951.9l468,0" class="g1_130" />
+<text 
+x="155" 
+y="75" 
+dx="0,0" 
+class="s1_130"
+>C </text>
+
+<text 
+x="198" 
+y="78" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_130"
+>Student A</text>
+
+<text 
+x="310" 
+y="78" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_130"
+>你喜欢不喜欢吃美国菜？</text>
+
+<text 
+x="313" 
+y="115" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_130"
+>Nǐ xǐhuan bu xǐhuan chī Měiguó cài?</text>
+
+<text 
+x="313" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_130"
+>Do you like to eat American food or not?</text>
+
+<text 
+x="198" 
+y="219" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_130"
+>Student B</text>
+
+<text 
+x="310" 
+y="219" 
+dx="0,0,0,0" 
+class="s3_130"
+>不喜欢。</text>
+
+<text 
+x="313" 
+y="256" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_130"
+>Bù xǐhuan.</text>
+
+<text 
+x="313" 
+y="288" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0,0" 
+class="s5_130"
+>No, I don’t.</text>
+
+<text 
+x="198" 
+y="359" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_130"
+>Student A</text>
+
+<text 
+x="310" 
+y="359" 
+dx="0" 
+class="s6_130"
+>那</text>
+
+<text 
+x="342" 
+y="359" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_130"
+>我们吃中国菜，怎么样？</text>
+
+<text 
+x="313" 
+y="397" 
+dx="0,0.2" 
+class="s7_130"
+>Nà</text>
+
+<text 
+x="337" 
+y="397" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_130"
+>wǒmen chī Zhōngguó cài, zěnmeyàng?</text>
+
+<text 
+x="313" 
+y="429" 
+dx="0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_130"
+>Then let’s eat Chinese food. How about that?</text>
+
+<text 
+x="198" 
+y="500" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_130"
+>Student B</text>
+
+<text 
+x="310" 
+y="500" 
+dx="0,0,0,0,0,0" 
+class="s3_130"
+>我也不喜欢。</text>
+
+<text 
+x="313" 
+y="537" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_130"
+>Wǒ yě bù xǐhuan.</text>
+
+<text 
+x="313" 
+y="570" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-1.3" 
+class="s5_130"
+>I don’t like that either.</text>
+
+<text 
+x="143" 
+y="626" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_130"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="654" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_130"
+>Form questions based on the context, inserting </text>
+
+<text 
+x="456" 
+y="654" 
+dx="0,0,0,0" 
+class="s9_130"
+>那（么）</text>
+
+<text 
+x="546" 
+y="654" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s5_130"
+>where appropriate. </text>
+
+<text 
+x="679" 
+y="654" 
+dx="0,0,0,0,0,-0.4,-0.6,0,0,0,0,0,0,0,0" 
+class="s5_130"
+>Use exercise 1 </text>
+
+<text 
+x="143" 
+y="681" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.1,0" 
+class="s5_130"
+>as an example. </text>
+
+<text 
+x="145" 
+y="724" 
+dx="0,0" 
+class="s10_130"
+>1 </text>
+
+<text 
+x="187" 
+y="726" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_130"
+>Student A</text>
+
+<text 
+x="274" 
+y="726" 
+dx="0,0,0,0,0,0" 
+class="s3_130"
+>我今天不忙。</text>
+
+<text 
+x="187" 
+y="770" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_130"
+>Student B</text>
+
+<text 
+x="274" 
+y="770" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_130"
+>那我们去看电影，怎么样？</text>
+
+<text 
+x="145" 
+y="813" 
+dx="0,0" 
+class="s10_130"
+>2 </text>
+
+<text 
+x="187" 
+y="814" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_130"
+>Student A</text>
+
+<text 
+x="274" 
+y="814" 
+dx="0,0,0,0,0,0,0" 
+class="s3_130"
+>我不喜欢跳舞。</text>
+
+<text 
+x="187" 
+y="859" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_130"
+>Student B</text>
+
+<text 
+x="742" 
+y="859" 
+dx="0" 
+class="s3_130"
+>？</text>
+
+<text 
+x="145" 
+y="901" 
+dx="0,0" 
+class="s10_130"
+>3 </text>
+
+<text 
+x="187" 
+y="903" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_130"
+>Student A</text>
+
+<text 
+x="274" 
+y="903" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_130"
+>王朋星期六很忙。</text>
+
+<text 
+x="187" 
+y="947" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s2_130"
+>Student B</text>
+
+<text 
+x="742" 
+y="947" 
+dx="0" 
+class="s3_130"
+>？</text>
+
+<path d="M149.9,52.4c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_130" />
+<path d="M149.9,54.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_130" />
+<path d="M885.3,1236.7l69.6,0L954.9,-35l-69.6,0l0,1271.7Z" class="g4_130" />
+<text 
+transform="matrix(0, 1, -1, 0, 894, 946)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s11_130"
+>Lesson 4 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1004)"
+dx="0,0.3" 
+class="s11_130"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1017)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s11_130"
+>Hobbies </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1072)"
+dx="0,0.3" 
+class="s11_130"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1084)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s11_130"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1154)"
+dx="0,0.3,0.3" 
+class="s11_130"
+>109</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_2yv;
+	src: url("fonts/ProximaNova-Extrabld_2yv.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2z7;
+	src: url("fonts/ProximaNova-Semibold_2z7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2z3;
+	src: url("fonts/ProximaNova-Light_2z3.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2yz;
+	src: url("fonts/ProximaNova-Bold_2yz.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2y-;
+	src: url("fonts/Marion-Italic_2y-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

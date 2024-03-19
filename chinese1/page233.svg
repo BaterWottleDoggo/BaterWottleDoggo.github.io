@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 256 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_256{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_256{
+fill: #3986C6;
+}
+.g3_256{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_256{
+fill: #ACBF3B;
+}
+.g5_256{
+fill: #DCDDDF;
+}
+.g6_256{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_256{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_256{
+fill: none;
+stroke: #ACBF3B;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_256{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_256{
+fill: #FFFFFF;
+}
+.g11_256{
+fill: none;
+stroke: #ACBF3B;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_256{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_256{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_d64;
+fill: #231F20;
+}
+.s2_256{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s3_256{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d61;
+fill: #231F20;
+}
+.s4_256{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s5_256{
+font-size: 32.08px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #3986C6;
+}
+.s6_256{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d66;
+fill: #3986C6;
+}
+.s7_256{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d5-;
+fill: #FFFFFF;
+}
+.s8_256{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s9_256{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_d62;
+fill: #FFFFFF;
+}
+.s10_256{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d66;
+fill: #231F20;
+}
+.s11_256{
+font-size: 32.08px;
+font-family: STKaiti_c-m;
+fill: #3986C6;
+}
+.s12_256{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 825)"
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_256"
+>Chapter 10 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 894)"
+dx="0,0" 
+class="s1_256"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 906)"
+dx="0,-1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_256"
+>Too Many Classes! </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1020)"
+dx="0,0" 
+class="s1_256"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1031)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_256"
+>Section 1</text>
+
+<text 
+x="855" 
+y="1149" 
+dx="0,0,0" 
+class="s2_256"
+>233</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_256" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_256" />
+<text 
+x="90" 
+y="152" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,-0.3,0,0,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,0,0.3,0,0,0,0" 
+class="s3_256"
+>School is now in session. Listen as Maya and Sanjay discuss their classes, and try to </text>
+
+<text 
+x="90" 
+y="178" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.2,0,0,-0.4,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,0,0" 
+class="s3_256"
+>understand as much as you can. Then read the dialogue, using the pinyin text and </text>
+
+<text 
+x="89" 
+y="204" 
+dx="0,-0.3,0,-0.2,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,-0.4,-0.4" 
+class="s3_256"
+>vocabulary list to figure out unfamiliar words. </text>
+
+<text 
+x="149" 
+y="286" 
+dx="0" 
+class="s4_256"
+>你</text>
+
+<text 
+x="181" 
+y="286" 
+dx="0" 
+class="s5_256"
+>最</text>
+
+<text 
+x="213" 
+y="286" 
+dx="0,0" 
+class="s4_256"
+>喜欢</text>
+
+<text 
+x="277" 
+y="286" 
+dx="0,0,0" 
+class="s5_256"
+>哪门课</text>
+
+<text 
+x="374" 
+y="286" 
+dx="0" 
+class="s4_256"
+>？</text>
+
+<text 
+x="149" 
+y="351" 
+dx="0" 
+class="s4_256"
+>我</text>
+
+<text 
+x="181" 
+y="351" 
+dx="0" 
+class="s5_256"
+>最</text>
+
+<text 
+x="213" 
+y="351" 
+dx="0,0" 
+class="s4_256"
+>喜欢</text>
+
+<text 
+x="278" 
+y="351" 
+dx="0,0,0" 
+class="s5_256"
+>科学课</text>
+
+<text 
+x="374" 
+y="351" 
+dx="0,0,0,0" 
+class="s4_256"
+>。你呢？</text>
+
+<text 
+x="149" 
+y="420" 
+dx="0,0" 
+class="s4_256"
+>我也</text>
+
+<text 
+x="213" 
+y="420" 
+dx="0" 
+class="s5_256"
+>最</text>
+
+<text 
+x="245" 
+y="420" 
+dx="0,0" 
+class="s4_256"
+>喜欢</text>
+
+<text 
+x="310" 
+y="420" 
+dx="0,0,0" 
+class="s5_256"
+>科学课</text>
+
+<text 
+x="406" 
+y="420" 
+dx="0" 
+class="s4_256"
+>。</text>
+
+<text 
+x="149" 
+y="457" 
+dx="0,0,0" 
+class="s4_256"
+>我觉得</text>
+
+<text 
+x="245" 
+y="457" 
+dx="0,0,0,0" 
+class="s5_256"
+>科学课最</text>
+
+<text 
+x="374" 
+y="457" 
+dx="0,0,0,0" 
+class="s4_256"
+>有意思。</text>
+
+<text 
+x="149" 
+y="494" 
+dx="0" 
+class="s4_256"
+>我</text>
+
+<text 
+x="181" 
+y="493" 
+dx="0" 
+class="s5_256"
+>还</text>
+
+<text 
+x="213" 
+y="494" 
+dx="0,0,0" 
+class="s4_256"
+>很喜欢</text>
+
+<text 
+x="310" 
+y="493" 
+dx="0,0,0" 
+class="s5_256"
+>数学课</text>
+
+<text 
+x="406" 
+y="494" 
+dx="0" 
+class="s4_256"
+>。</text>
+
+<text 
+x="530" 
+y="282" 
+dx="0,-0.2,0" 
+class="s3_256"
+>Nǐ </text>
+
+<text 
+x="553" 
+y="282" 
+dx="0,0,0" 
+class="s6_256"
+>zuì</text>
+
+<text 
+x="581" 
+y="282" 
+dx="0,0,0,0,0,0,0" 
+class="s3_256"
+>xǐhuan </text>
+
+<text 
+x="639" 
+y="282" 
+dx="0,0,0,0,0,0,0,0,-0.3" 
+class="s6_256"
+>nǎ mén kè</text>
+
+<text 
+x="720" 
+y="282" 
+dx="0" 
+class="s3_256"
+>?</text>
+
+<text 
+x="530" 
+y="350" 
+dx="0,-1.4,0" 
+class="s3_256"
+>Wǒ </text>
+
+<text 
+x="559" 
+y="350" 
+dx="0,0,0" 
+class="s6_256"
+>zuì</text>
+
+<text 
+x="588" 
+y="350" 
+dx="0,0,0,0,0,0,0" 
+class="s3_256"
+>xǐhuan </text>
+
+<text 
+x="646" 
+y="350" 
+dx="0,-0.3,-0.2,0,0,0,0,-0.3" 
+class="s6_256"
+>kēxué kè</text>
+
+<text 
+x="714" 
+y="350" 
+dx="0,-0.4,0,-0.2,0,0,0,0" 
+class="s3_256"
+>. Nǐ ne?</text>
+
+<text 
+x="530" 
+y="422" 
+dx="0,-1.4,0,0,-0.3,0" 
+class="s3_256"
+>Wǒ yě </text>
+
+<text 
+x="580" 
+y="422" 
+dx="0,0,0,0" 
+class="s6_256"
+>zuì </text>
+
+<text 
+x="608" 
+y="422" 
+dx="0,0,0,0,0,0,0" 
+class="s3_256"
+>xǐhuan </text>
+
+<text 
+x="666" 
+y="422" 
+dx="0,-0.3,-0.2,0,0,0,0,-0.3" 
+class="s6_256"
+>kēxué kè</text>
+
+<text 
+x="735" 
+y="422" 
+dx="0" 
+class="s3_256"
+>.</text>
+
+<text 
+x="530" 
+y="459" 
+dx="0,-1.4,0,0,0,0,0,0,0" 
+class="s3_256"
+>Wǒ juéde </text>
+
+<text 
+x="606" 
+y="459" 
+dx="0,-0.3,-0.2,0,0,0,0,-0.3,0,0,0,0" 
+class="s6_256"
+>kēxué kè zuì</text>
+
+<text 
+x="706" 
+y="459" 
+dx="0,-0.3,0,0,0,0,0,0,-0.4" 
+class="s3_256"
+>yǒuyìsi. </text>
+
+<text 
+x="530" 
+y="495" 
+dx="0,-1.4,0" 
+class="s3_256"
+>Wǒ </text>
+
+<text 
+x="559" 
+y="495" 
+dx="0,0,0" 
+class="s6_256"
+>hái</text>
+
+<text 
+x="588" 
+y="495" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_256"
+>hěn xǐhuan </text>
+
+<text 
+x="679" 
+y="495" 
+dx="0,0,0,0,0,0,0,0.5,-0.3" 
+class="s6_256"
+>shùxué kè</text>
+
+<text 
+x="759" 
+y="495" 
+dx="0,-0.4" 
+class="s3_256"
+>. </text>
+
+<path d="M109.7,111.4c-10.1,0,-18.3,-8.2,-18.3,-18.3L91.4,73l23.1,0c10.2,0,18.4,8.2,18.4,18.3l0,20.1Z" class="g2_256" />
+<path d="M100.9,73.6l509,0" class="g3_256" />
+<path d="M114.6,111.1l495.3,0" class="g3_256" />
+<text 
+x="99" 
+y="100" 
+dx="0,0,0" 
+class="s7_256"
+>1b </text>
+
+<text 
+x="142" 
+y="100" 
+dx="0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_256"
+>New Words in Conversation </text>
+
+<path d="M492.6,102.9c-6,0,-10.8,-4.8,-10.8,-10.8l0,-10.8l114.3,0c6,0,10.8,4.8,10.8,10.8l0,10.8Z" class="g4_256" />
+<text 
+x="497" 
+y="95" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_256"
+>i´T²rPr²TiV²</text>
+
+<image preserveAspectRatio="none" x="88" y="316" width="47" height="54" xlink:href="256/img/1.png" />
+<image preserveAspectRatio="none" x="89" y="243" width="47" height="54" xlink:href="256/img/2.png" />
+<image preserveAspectRatio="none" x="89" y="394" width="47" height="28" xlink:href="256/img/3.png" />
+<image preserveAspectRatio="none" x="89" y="422" width="47" height="28" xlink:href="256/img/4.png" />
+<path d="M90.2,735.7l54.9,0l0,36.3l-54.9,0l0,-36.3Zm54.9,0l130.4,0l0,36.3l-130.4,0l0,-36.3Zm130.4,0l135.7,0l0,36.3l-135.7,0l0,-36.3Zm135.7,0l394,0l0,36.3l-394,0l0,-36.3Z" class="g5_256" />
+<path d="M90.2,816l54.9,0" class="g6_256" />
+<path d="M145.1,816l130.4,0" class="g6_256" />
+<path d="M275.5,816l135.7,0" class="g6_256" />
+<path d="M411.2,816l394,0" class="g6_256" />
+<path d="M90.2,860l54.9,0" class="g6_256" />
+<path d="M145.1,860l130.4,0" class="g6_256" />
+<path d="M275.5,860l135.7,0" class="g6_256" />
+<path d="M411.2,860l394,0" class="g6_256" />
+<path d="M90.2,904l54.9,0" class="g6_256" />
+<path d="M145.1,904l130.4,0" class="g6_256" />
+<path d="M275.5,904l135.7,0" class="g6_256" />
+<path d="M411.2,904l394,0" class="g6_256" />
+<path d="M90.2,948l54.9,0" class="g6_256" />
+<path d="M145.1,948l130.4,0" class="g6_256" />
+<path d="M275.5,948l135.7,0" class="g6_256" />
+<path d="M411.2,948l394,0" class="g6_256" />
+<path d="M90.2,992l54.9,0" class="g6_256" />
+<path d="M145.1,992l130.4,0" class="g6_256" />
+<path d="M275.5,992l135.7,0" class="g6_256" />
+<path d="M411.2,992l394,0" class="g6_256" />
+<path d="M90.2,1036l54.9,0" class="g6_256" />
+<path d="M145.1,1036l130.4,0" class="g6_256" />
+<path d="M275.5,1036l135.7,0" class="g6_256" />
+<path d="M411.2,1036l394,0" class="g6_256" />
+<path d="M90.2,1080l54.9,0" class="g7_256" />
+<path d="M145.1,1080l130.4,0" class="g7_256" />
+<path d="M275.5,1080l135.7,0" class="g7_256" />
+<path d="M411.2,1080l394,0" class="g7_256" />
+<text 
+x="163" 
+y="761" 
+dx="0,-0.7,0,0" 
+class="s2_256"
+>Word</text>
+
+<text 
+x="294" 
+y="761" 
+dx="0,0,0,0,0,0" 
+class="s2_256"
+>Pinyin</text>
+
+<text 
+x="430" 
+y="761" 
+dx="0,0,0,0,0,0,0" 
+class="s2_256"
+>Meaning</text>
+
+<text 
+x="108" 
+y="801" 
+dx="0" 
+class="s10_256"
+>1</text>
+
+<text 
+x="158" 
+y="802" 
+dx="0" 
+class="s11_256"
+>最</text>
+
+<text 
+x="294" 
+y="801" 
+dx="0,0,0" 
+class="s3_256"
+>zuì</text>
+
+<text 
+x="429" 
+y="801" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0" 
+class="s3_256"
+>most, -est </text>
+
+<text 
+x="108" 
+y="845" 
+dx="0" 
+class="s10_256"
+>2</text>
+
+<text 
+x="161" 
+y="846" 
+dx="0" 
+class="s11_256"
+>哪</text>
+
+<text 
+x="294" 
+y="845" 
+dx="0,0" 
+class="s3_256"
+>nǎ</text>
+
+<text 
+x="429" 
+y="845" 
+dx="0,0,0,0,0" 
+class="s3_256"
+>which</text>
+
+<text 
+x="108" 
+y="889" 
+dx="0" 
+class="s10_256"
+>3</text>
+
+<text 
+x="158" 
+y="890" 
+dx="0" 
+class="s11_256"
+>门</text>
+
+<text 
+x="294" 
+y="889" 
+dx="0,0,0" 
+class="s3_256"
+>mén</text>
+
+<text 
+x="429" 
+y="889" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,-0.3,0,-0.2,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s3_256"
+>(measure word for a course)</text>
+
+<text 
+x="107" 
+y="933" 
+dx="0" 
+class="s10_256"
+>4</text>
+
+<text 
+x="160" 
+y="934" 
+dx="0" 
+class="s11_256"
+>课</text>
+
+<text 
+x="294" 
+y="933" 
+dx="0,-0.4" 
+class="s3_256"
+>kè</text>
+
+<text 
+x="430" 
+y="933" 
+dx="0,-0.3,0,0,0,0,-0.6,-0.4,0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,0" 
+class="s3_256"
+>course, class, lesson</text>
+
+<text 
+x="108" 
+y="977" 
+dx="0" 
+class="s10_256"
+>5</text>
+
+<text 
+x="162" 
+y="978" 
+dx="0,0" 
+class="s11_256"
+>科学</text>
+
+<text 
+x="294" 
+y="977" 
+dx="0,-0.4,-0.4,0,0" 
+class="s3_256"
+>kēxué</text>
+
+<text 
+x="430" 
+y="977" 
+dx="0,0,0,0,0,0,-0.3,0" 
+class="s3_256"
+>science </text>
+
+<text 
+x="108" 
+y="1021" 
+dx="0" 
+class="s10_256"
+>6</text>
+
+<text 
+x="160" 
+y="1022" 
+dx="0" 
+class="s11_256"
+>还</text>
+
+<text 
+x="294" 
+y="1021" 
+dx="0,0,0" 
+class="s3_256"
+>hái</text>
+
+<text 
+x="429" 
+y="1021" 
+dx="0,0,0,0,-0.8,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.8,-0.4,0,0,0,0,-0.3,0,0" 
+class="s3_256"
+>also, in addition, too, as well</text>
+
+<text 
+x="108" 
+y="1065" 
+dx="0" 
+class="s10_256"
+>7</text>
+
+<text 
+x="160" 
+y="1066" 
+dx="0,0" 
+class="s11_256"
+>数学</text>
+
+<text 
+x="294" 
+y="1065" 
+dx="0,0,0,0,0,0" 
+class="s3_256"
+>shùxué</text>
+
+<text 
+x="429" 
+y="1065" 
+dx="0,0,0,0" 
+class="s3_256"
+>math</text>
+
+<text 
+x="578" 
+y="593" 
+dx="0" 
+class="s6_256"
+>T</text>
+
+<text 
+x="620" 
+y="593" 
+dx="0" 
+class="s6_256"
+>F</text>
+
+<text 
+x="140" 
+y="629" 
+dx="0" 
+class="s6_256"
+>1</text>
+
+<text 
+x="164" 
+y="629" 
+dx="0,-0.2,-0.4,-0.3,0,0,0,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_256"
+>Maya asks Sanjay which class he likes the most.</text>
+
+<path d="M583.8,631.6c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.7,-4.7,-10.4,-10.5,-10.4c-5.7,0,-10.4,4.7,-10.4,10.4c0,5.8,4.7,10.5,10.4,10.5Z" class="g8_256" />
+<path d="M625.5,631.6c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.7,-4.7,-10.4,-10.5,-10.4c-5.8,0,-10.5,4.7,-10.5,10.4c0,5.8,4.7,10.5,10.5,10.5Z" class="g8_256" />
+<text 
+x="140" 
+y="664" 
+dx="0" 
+class="s6_256"
+>2</text>
+
+<text 
+x="164" 
+y="664" 
+dx="0,-0.4,0,0,0,-0.4,1.1,0,0,0,-0.2,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s3_256"
+>Sanjay’s favorite class is music.</text>
+
+<path d="M583.8,667.1c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.7,0,-10.4,4.7,-10.4,10.5c0,5.8,4.7,10.5,10.4,10.5Z" class="g8_256" />
+<path d="M625.5,667.1c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g8_256" />
+<path d="M90.7,630.6l0,-60.5l330.4,0" class="g9_256" />
+<path d="M421.1,572.8c1.5,0,2.7,-1.2,2.7,-2.7c0,-1.5,-1.2,-2.8,-2.7,-2.8c-1.5,0,-2.8,1.3,-2.8,2.8c0,1.5,1.3,2.7,2.8,2.7Z" class="g2_256" />
+<path d="M106.1,584l223,0l0,-24.9l-223,0l0,24.9Z" class="g10_256" />
+<text 
+x="115" 
+y="574" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_256"
+>Comprehension Check</text>
+
+<path d="M384.9,561.7c5.5,10.7,1.2,23.9,-9.5,29.4c-10.7,5.4,-23.9,1.2,-29.4,-9.6c-5.5,-10.7,-1.2,-23.8,9.5,-29.3c10.8,-5.5,23.9,-1.3,29.4,9.5Z" class="g10_256" />
+<path d="M384.9,561.7c5.5,10.7,1.2,23.9,-9.5,29.4c-10.7,5.4,-23.9,1.2,-29.4,-9.6c-5.5,-10.7,-1.2,-23.8,9.5,-29.3c10.8,-5.5,23.9,-1.3,29.4,9.5Z" class="g3_256" />
+<path d="M392.5,549.8c-1.1,-1,-3,-0.7,-4.1,0.6l-20.5,24.4c-1.1,1.3,-3,1.4,-4.2,0.2l-2.9,-2.9c-1.2,-1.2,-3.1,-1.3,-4.2,-0.2c-1.1,1.1,-1,3,0.3,4.2l7.2,7.1c1.2,1.2,3.1,1.1,4.2,-0.2l24.4,-29c1.1,-1.3,1,-3.2,-0.2,-4.2Z" class="g4_256" />
+<path d="M392.5,549.8c-1.1,-1,-3,-0.7,-4.1,0.6l-20.5,24.4c-1.1,1.3,-3,1.4,-4.2,0.2l-2.9,-2.9c-1.2,-1.2,-3.1,-1.3,-4.2,-0.2c-1.1,1.1,-1,3,0.3,4.2l7.2,7.1c1.2,1.2,3.1,1.1,4.2,-0.2l24.4,-29c1.1,-1.3,1,-3.2,-0.2,-4.2Z" class="g11_256" />
+<path d="M205,718.8l601.9,0" class="g12_256" />
+<path d="M205,721.8c1.7,0,3.1,-1.3,3.1,-3c0,-1.7,-1.4,-3.1,-3.1,-3.1c-1.7,0,-3.1,1.4,-3.1,3.1c0,1.7,1.4,3,3.1,3Z" class="g2_256" />
+<text 
+x="88" 
+y="723" 
+dx="0,-1.2,0,0,0,0,0,0,0,0" 
+class="s12_256"
+>Vocabulary</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_d64;
+	src: url("fonts/ProximaNova-Semibold_d64.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_d5-;
+	src: url("fonts/ProximaNova-Bold_d5-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_d62;
+	src: url("fonts/ProximaNova-Extrabld_d62.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d61;
+	src: url("fonts/Alegreya-Regular_d61.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti_c-m;
+	src: url("fonts/STKaiti_c-m.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_d66;
+	src: url("fonts/Alegreya-Bold_d66.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

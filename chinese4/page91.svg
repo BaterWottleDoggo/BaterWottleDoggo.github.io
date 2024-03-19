@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 114 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_114"><path d="M178.8,924.3l0,-453.4l576.9,0l0,453.4Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_114{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_114{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_114{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_114{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_114{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 0.7608333;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_114{
+fill: #FFFFFF;
+}
+.g7_114{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.31625;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_114{
+fill: #E4E5E7;
+}
+.g9_114{
+fill: #808285;
+}
+.g10_114{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.4758333;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g11_114{
+fill: none;
+stroke: #E7E8E9;
+stroke-width: 1.5781945;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_114{
+fill: #E7E8E9;
+}
+.g13_114{
+fill: #AFD8F3;
+}
+.g14_114{
+fill: #7CA3CC;
+}
+.g15_114{
+fill: #F58320;
+}
+.g16_114{
+fill: none;
+stroke: #7CA3CC;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g17_114{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_114{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3ul;
+fill: #8F4198;
+}
+.s2_114{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3up;
+fill: #8F4198;
+}
+.s3_114{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3uw;
+fill: #3F3F40;
+}
+.s4_114{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s5_114{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s6_114{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_3um;
+fill: #872B91;
+}
+.s7_114{
+font-size: 15.99px;
+font-family: SourceHanSansCN-Normal_3q5;
+fill: #1275BC;
+}
+.s8_114{
+font-size: 14.80px;
+font-family: ArialMT_3vl;
+fill: #1275BC;
+}
+.s9_114{
+font-size: 14.29px;
+font-family: ArialMT_3vl;
+fill: #A8A9AD;
+}
+.s10_114{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Regular_3tv;
+fill: #231F20;
+}
+.s11_114{
+font-size: 14.80px;
+font-family: Arial-BoldMT_3vk;
+fill: #3F3F40;
+}
+.s12_114{
+font-size: 13.75px;
+font-family: ArialMT_3vl;
+fill: #1275BC;
+}
+.s13_114{
+font-size: 18.33px;
+font-family: SourceHanSansTW-Regular_3r5;
+fill: #231F20;
+}
+.s14_114{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_3vh;
+fill: #6D6E71;
+}
+.s15_114{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_3vj;
+fill: #FFFFFF;
+}
+.s16_114{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3u_;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,78.3l12.2,0" class="g1_114" />
+<text 
+x="119" 
+y="72" 
+dx="0,0" 
+class="s1_114"
+>G </text>
+
+<text 
+x="411" 
+y="77" 
+dx="0,0,0,0,-0.5,0,0,0,0,-0.5,0,0" 
+class="s2_114"
+>Comfort food</text>
+
+<text 
+x="157" 
+y="134" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,-0.9,0" 
+class="s3_114"
+>Using the adjectives you have learned in this lesson, list four reasons why you love your mom’s </text>
+
+<text 
+x="157" 
+y="157" 
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,-0.1,0,0,0,-0.1,-0.2,0,0" 
+class="s3_114"
+>or dad’s cooking. Is it because it’s not oily but flavorful, free of charge, etc.?</text>
+
+<text 
+x="157" 
+y="194" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_114"
+>Then present to your class the reasons you love your mom’s or dad’s cooking. Include </text>
+
+<text 
+x="157" 
+y="223" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_114"
+>第一…， 第二…</text>
+
+<text 
+x="329" 
+y="221" 
+dx="0,0" 
+class="s3_114"
+>, </text>
+
+<text 
+x="335" 
+y="223" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_114"
+>除了…以外，还/</text>
+
+<text 
+x="512" 
+y="223" 
+dx="0" 
+class="s5_114"
+>還</text>
+
+<text 
+x="542" 
+y="223" 
+dx="0" 
+class="s4_114"
+>…</text>
+
+<text 
+x="566" 
+y="221" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0" 
+class="s3_114"
+>, or other connectors to </text>
+
+<text 
+x="157" 
+y="244" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_114"
+>explain your reasons.</text>
+
+<path d="M146.6,41.8l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_114" />
+<path d="M148.7,94L823,94l0,-50.9l-674.3,0l0,50.9Z" class="g3_114" />
+<text 
+x="721" 
+y="73" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s6_114"
+>PRESENTATIONAL</text>
+
+<path d="M719.9,76.7l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g4_114" />
+<path d="M713.2,897.1l-323.5,0c-17.8,0,-32.1,-19.4,-32.1,-43.4l0,-183.3c0,-24,14.3,-43.4,32.1,-43.4l323.5,0c35.9,0,32.1,-6.8,32.1,43.4l0,183.3c0,49.7,3.2,43.4,-32.1,43.4Z" class="g5_114" />
+<image preserveAspectRatio="none" x="179" y="582" width="347" height="347" xlink:href="114/img/1.png" />
+<path d="M516.5,916l-325.2,0l0,-327.6l325.2,0l0,327.6Z" class="g6_114" />
+<path d="M516.5,916l-325.2,0l0,-327.6l325.2,0Z" class="g7_114" />
+<image preserveAspectRatio="none" x="191" y="597" width="319" height="32" xlink:href="114/img/2.png" />
+<path d="M514.4,626.5l-321.1,0l0,-29.6l321.1,0l0,29.6Z" class="g8_114" />
+<text 
+transform="matrix(1.36, 0, 0, 1, 188, 617)"
+dx="0" 
+class="s7_114"
+>〈</text>
+
+<text 
+x="451" 
+y="616" 
+dx="0,0,0,0,0,0,0" 
+class="s8_114"
+>Contact</text>
+
+<text 
+x="217" 
+y="616" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_114"
+>Messages</text>
+
+<path d="M220.9,892.7l-3.8,0l0,-0.7c0,-1,-0.8,-1.8,-1.7,-1.8l-4.9,0c-1,0,-1.8,0.8,-1.8,1.8l0,0.7l-2.5,0c0,-0.1,0.1,-0.2,0.1,-0.3l0,-1.8c0,-0.3,-0.3,-0.6,-0.6,-0.6c-0.3,0,-0.6,0.3,-0.6,0.6l0,1.8c0,0.1,0,0.2,0.1,0.3l-0.8,0c-1,0,-1.8,0.8,-1.8,1.8l0,8.5c0,1,0.8,1.8,1.8,1.8l16.5,0c1,0,1.8,-0.8,1.8,-1.8l0,-8.5c0,-1,-0.8,-1.8,-1.8,-1.8Z" class="g9_114" />
+<path d="M216.9,898.3c0,2.4,-1.9,4.4,-4.3,4.4c-2.4,0,-4.3,-2,-4.3,-4.4c0,-2.3,1.9,-4.3,4.3,-4.3c2.4,0,4.3,2,4.3,4.3Z" class="g10_114" />
+<path d="M219.1,894.4c0,0.4,-0.4,0.8,-0.9,0.8c-0.4,0,-0.8,-0.4,-0.8,-0.8c0,-0.5,0.4,-0.9,0.8,-0.9c0.5,0,0.9,0.4,0.9,0.9Z" class="g6_114" />
+<path d="M459.1,908L233,908c-1.5,0,-2.7,-1.2,-2.7,-2.7l0,-16c0,-1.4,1.2,-2.6,2.7,-2.6l226.1,0c1.5,0,2.7,1.2,2.7,2.6l0,16c0,1.5,-1.2,2.7,-2.7,2.7Z" class="g6_114" />
+<path d="M459.1,908L233,908c-1.5,0,-2.7,-1.2,-2.7,-2.7l0,-16c0,-1.4,1.2,-2.6,2.7,-2.6l226.1,0c1.5,0,2.7,1.2,2.7,2.6l0,16c0,1.5,-1.2,2.7,-2.7,2.7Z" class="g11_114" />
+<text 
+x="469" 
+y="902" 
+dx="0,0,0,0" 
+class="s9_114"
+>Send</text>
+
+<path d="M432.5,636.5l-214,0l-2.9,0c-6,0,-11,4.2,-12.4,9.8c-0.2,1,-0.4,2,-0.4,3l0,3.1c0,1.4,0.3,38.3,0.7,39.6c-0.9,3.7,-2.9,7.1,-5.6,10c3.7,-0.7,7.1,-2.1,10.1,-3.9c2.1,1.6,4.7,2.6,7.6,2.6l216.9,0c7,0,12.7,-5.7,12.7,-12.8l0,-38.6c0,-7,-5.7,-12.8,-12.7,-12.8Z" class="g12_114" />
+<text 
+x="215" 
+y="664" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_114"
+>你想不想去学校旁边那家</text>
+
+<text 
+x="215" 
+y="686" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_114"
+>中餐馆儿吃晚饭？</text>
+
+<path d="M433.2,738.4l-214.7,0l-2.9,0c-6,0,-11,4.1,-12.4,9.7c-0.2,1,-0.4,2,-0.4,3.1l0,62c0,1.4,0.3,2.8,0.7,4.1c-0.9,3.7,-2.9,7.1,-5.6,10c3.7,-0.8,7.1,-2.1,10.1,-3.9c2.1,1.6,4.7,2.6,7.6,2.6l217.6,0c7.1,0,12.8,-5.8,12.8,-12.8l0,-62c0,-7.1,-5.7,-12.8,-12.8,-12.8Z" class="g12_114" />
+<text 
+x="215" 
+y="769" 
+dx="0,0,0,0,0,0,0,0,0,0.4,0,0" 
+class="s10_114"
+>我也喜欢吃四川菜。那家餐</text>
+
+<text 
+x="215" 
+y="791" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_114"
+>馆儿的四川菜做得很地道。</text>
+
+<text 
+x="215" 
+y="813" 
+dx="0,0,0,0,0,0" 
+class="s10_114"
+>我们几点去？</text>
+
+<path d="M463.7,831.7l11.1,0l2.9,0c6,0,11.1,4.1,12.4,9.7c0.3,1,0.4,2,0.4,3.1l0,3c0,1.4,-0.2,2.8,-0.7,4.1c0.9,3.7,2.9,7.1,5.6,10c-3.7,-0.7,-7.1,-2.1,-10,-3.9c-2.2,1.6,-4.8,2.6,-7.7,2.6l-14,0c-7.1,0,-12.8,-5.8,-12.8,-12.8l0,-3c0,-7.1,5.7,-12.8,12.8,-12.8Z" class="g13_114" />
+<text 
+x="469" 
+y="849" 
+dx="0,0,0" 
+class="s11_114"
+>...</text>
+
+<path d="M463.7,706l11.1,0l2.9,0c6,0,11.1,4.2,12.4,9.8c0.3,0.9,0.4,2,0.4,3l0,3.1c0,1.4,-0.2,2.8,-0.7,4c0.9,3.8,2.9,7.2,5.6,10.1c-3.7,-0.8,-7.1,-2.1,-10,-3.9c-2.2,1.6,-4.8,2.6,-7.7,2.6l-14,0c-7.1,0,-12.8,-5.8,-12.8,-12.8l0,-3.1c0,-7,5.7,-12.8,12.8,-12.8Z" class="g13_114" />
+<text 
+x="469" 
+y="724" 
+dx="0,0,0" 
+class="s11_114"
+>...</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 539, 651)"
+dx="0,0,0,0,0,0,0" 
+class="s12_114"
+>Friend:</text>
+
+<text 
+x="539" 
+y="673" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s13_114"
+>你想不想去學校旁邊那</text>
+
+<text 
+x="539" 
+y="695" 
+dx="0,0,0,0,0,0,0,0,-2.5" 
+class="s13_114"
+>家中餐館兒吃晚飯？</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 539, 725)"
+dx="0,-1.3,0,0" 
+class="s12_114"
+>You:</text>
+
+<text 
+x="539" 
+y="736" 
+dx="0,0,0" 
+class="s11_114"
+>...</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 539, 766)"
+dx="0,0,0,0,0,0,0,0" 
+class="s12_114"
+>Friend: </text>
+
+<text 
+x="539" 
+y="788" 
+dx="0,0,0,0,0,0,0,0,0,0.4" 
+class="s13_114"
+>我也喜歡吃四川菜。那</text>
+
+<text 
+x="539" 
+y="810" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s13_114"
+>家餐館兒的四川菜做得</text>
+
+<text 
+x="539" 
+y="832" 
+dx="0,0,0,0.4,0.4,0,0,0,0,0" 
+class="s13_114"
+>很地道。我們幾點去？</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 539, 862)"
+dx="0,-1.3,0,0" 
+class="s12_114"
+>You:</text>
+
+<text 
+x="539" 
+y="873" 
+dx="0,0,0" 
+class="s11_114"
+>...</text>
+
+<text 
+x="221" 
+y="535" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_114"
+>A friend is using iMessage to text you about plans tonight. How would </text>
+
+<text 
+x="221" 
+y="560" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s14_114"
+>you reply?</text>
+
+<g clip-path="url(#c0_114)">
+<path d="M376,492.1c0,-11.7,-9.5,-21.2,-21.2,-21.2l-141.4,0c-11.6,0,-21.1,9.5,-21.1,21.2l0,14.8l183.7,0Z" class="g14_114" />
+</g>
+<path d="M746.2,581.4l-19.6,20.5l0,-20.5Z" class="g15_114" />
+<text 
+x="221" 
+y="497" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s15_114"
+>Chinese Chat</text>
+
+<path d="M192.6,575.9l0,-65.2l529.8,0c13.4,0,24.3,10.9,24.3,24.3l0,40.9l-554.1,0Z" class="g16_114" />
+<path d="M881.9,1209.2l67.2,0l0,-1222.1l-67.2,0l0,1222.1Z" class="g17_114" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 822)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s16_114"
+>Lesson 3 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 888)"
+dx="0,1" 
+class="s16_114"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 901)"
+dx="0,0.7,1,1,1,1,1,1,1,1,1,1,0.9,1,1,1" 
+class="s16_114"
+>At a Restaurant </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1009)"
+dx="0,1" 
+class="s16_114"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1023)"
+dx="0,1,1,1,1,1,1,0.8,1,1,1,0.9,1,1,1,1,1,1" 
+class="s16_114"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1159)"
+dx="0,1,0" 
+class="s16_114"
+>91 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Arial-BoldMT_3vk;
+	src: url("fonts/Arial-BoldMT_3vk.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Regular_3r5;
+	src: url("fonts/SourceHanSansTW-Regular_3r5.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3u_;
+	src: url("fonts/LibreFranklin-SemiBold_3u_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_3vl;
+	src: url("fonts/ArialMT_3vl.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3ul;
+	src: url("fonts/LibreFranklin-ExtraBold_3ul.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3uw;
+	src: url("fonts/LibreFranklin-Regular_3uw.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3up;
+	src: url("fonts/LibreFranklin-Bold_3up.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Normal_3q5;
+	src: url("fonts/SourceHanSansCN-Normal_3q5.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3vj;
+	src: url("fonts/LibreFranklin-SemiBold_3vj.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3vh;
+	src: url("fonts/LibreFranklin-Medium_3vh.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_3tv;
+	src: url("fonts/SourceHanSansCN-Regular_3tv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3um;
+	src: url("fonts/LibreFranklin-Medium_3um.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

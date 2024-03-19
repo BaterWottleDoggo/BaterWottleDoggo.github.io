@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 411 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_411{
+fill: #57585A;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_411{
+fill: #BDBEC1;
+}
+.g3_411{
+fill: #F0F1F2;
+}
+.g4_411{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_411{
+fill: none;
+stroke: #DADBDD;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_411{
+font-size: 10.69px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #FFFFFF;
+}
+.s2_411{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #57585A;
+}
+.s3_411{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #3F3F40;
+}
+.s4_411{
+font-size: 13.75px;
+font-family: LibreFranklin-Regular_4h1;
+fill: #3F3F40;
+}
+.s5_411{
+font-size: 24.44px;
+font-family: STKaitiSC-Regular_44y;
+fill: #57585A;
+}
+.s6_411{
+font-size: 24.44px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #57585A;
+}
+.s7_411{
+font-size: 14.90px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #3F3F40;
+}
+.s8_411{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_4h1;
+fill: #3F3F40;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g1_411" />
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1173)"
+dx="0,0.6,0.6,0.6" 
+class="s1_411"
+>390 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1132)"
+dx="0,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6" 
+class="s1_411"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1004)"
+dx="0,0.6" 
+class="s1_411"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 992)"
+dx="0,-0.6,0.4,0.3,0.6,0.6,0.6,0.6" 
+class="s1_411"
+>Textbook</text>
+
+<path d="M55,101.1l811.3,0l0,42.7L55,143.8l0,-42.7Zm0,169.2l811.3,0l0,42.2L55,312.5l0,-42.2ZM55,439l811.3,0l0,42.1L55,481.1L55,439Z" class="g2_411" />
+<path d="M55,143.8l191.5,0l0,42.2L55,186l0,-42.2Zm191.5,0l209.7,0l0,42.2l-209.7,0l0,-42.2Zm209.7,0l209.7,0l0,42.2l-209.7,0l0,-42.2Zm209.7,0l117.2,0l0,42.2l-117.2,0l0,-42.2Zm117.2,0l83.2,0l0,42.2l-83.2,0l0,-42.2ZM55,228.2l191.5,0l0,42.1L55,270.3l0,-42.1Zm191.5,0l209.7,0l0,42.1l-209.7,0l0,-42.1Zm209.7,0l209.7,0l0,42.1l-209.7,0l0,-42.1Zm209.7,0l117.2,0l0,42.1l-117.2,0l0,-42.1Zm117.2,0l83.2,0l0,42.1l-83.2,0l0,-42.1ZM55,312.5l191.5,0l0,42.2L55,354.7l0,-42.2Zm191.5,0l209.7,0l0,42.2l-209.7,0l0,-42.2Zm209.7,0l209.7,0l0,42.2l-209.7,0l0,-42.2Zm209.7,0l117.2,0l0,42.2l-117.2,0l0,-42.2Zm117.2,0l83.2,0l0,42.2l-83.2,0l0,-42.2ZM55,396.8l191.5,0l0,42.2L55,439l0,-42.2Zm191.5,0l209.7,0l0,42.2l-209.7,0l0,-42.2Zm209.7,0l209.7,0l0,42.2l-209.7,0l0,-42.2Zm209.7,0l117.2,0l0,42.2l-117.2,0l0,-42.2Zm117.2,0l83.2,0l0,42.2l-83.2,0l0,-42.2ZM55,481.1l191.5,0l0,45.1L55,526.2l0,-45.1Zm191.5,0l209.7,0l0,45.1l-209.7,0l0,-45.1Zm209.7,0l209.7,0l0,45.1l-209.7,0l0,-45.1Zm209.7,0l117.2,0l0,45.1l-117.2,0l0,-45.1Zm117.2,0l83.2,0l0,45.1l-83.2,0l0,-45.1ZM55,571.6l191.5,0l0,42.2L55,613.8l0,-42.2Zm191.5,0l209.7,0l0,42.2l-209.7,0l0,-42.2Zm209.7,0l209.7,0l0,42.2l-209.7,0l0,-42.2Zm209.7,0l117.2,0l0,42.2l-117.2,0l0,-42.2Zm117.2,0l83.2,0l0,42.2l-83.2,0l0,-42.2Z" class="g3_411" />
+<path d="M55,143.8l191.5,0" class="g4_411" />
+<path d="M246.5,143.8l209.7,0" class="g4_411" />
+<path d="M456.2,143.8l209.7,0" class="g4_411" />
+<path d="M665.9,143.8l117.2,0" class="g4_411" />
+<path d="M783.1,143.8l83.2,0" class="g4_411" />
+<path d="M55,186l191.5,0" class="g4_411" />
+<path d="M246.5,186l209.7,0" class="g4_411" />
+<path d="M456.2,186l209.7,0" class="g4_411" />
+<path d="M665.9,186l117.2,0" class="g4_411" />
+<path d="M783.1,186l83.2,0" class="g4_411" />
+<path d="M55,228.2l191.5,0" class="g4_411" />
+<path d="M246.5,228.2l209.7,0" class="g4_411" />
+<path d="M456.2,228.2l209.7,0" class="g4_411" />
+<path d="M665.9,228.2l117.2,0" class="g4_411" />
+<path d="M783.1,228.2l83.2,0" class="g4_411" />
+<path d="M55,270.3l191.5,0" class="g4_411" />
+<path d="M246.5,270.3l209.7,0" class="g4_411" />
+<path d="M456.2,270.3l209.7,0" class="g4_411" />
+<path d="M665.9,270.3l117.2,0" class="g4_411" />
+<path d="M783.1,270.3l83.2,0" class="g4_411" />
+<path d="M55,312.5l191.5,0" class="g4_411" />
+<path d="M246.5,312.5l209.7,0" class="g4_411" />
+<path d="M456.2,312.5l209.7,0" class="g4_411" />
+<path d="M665.9,312.5l117.2,0" class="g4_411" />
+<path d="M783.1,312.5l83.2,0" class="g4_411" />
+<path d="M55,354.7l191.5,0" class="g4_411" />
+<path d="M246.5,354.7l209.7,0" class="g4_411" />
+<path d="M456.2,354.7l209.7,0" class="g4_411" />
+<path d="M665.9,354.7l117.2,0" class="g4_411" />
+<path d="M783.1,354.7l83.2,0" class="g4_411" />
+<path d="M55,396.8l191.5,0" class="g4_411" />
+<path d="M246.5,396.8l209.7,0" class="g4_411" />
+<path d="M456.2,396.8l209.7,0" class="g4_411" />
+<path d="M665.9,396.8l117.2,0" class="g4_411" />
+<path d="M783.1,396.8l83.2,0" class="g4_411" />
+<path d="M55,481.1l191.5,0" class="g4_411" />
+<path d="M246.5,481.1l209.7,0" class="g4_411" />
+<path d="M456.2,481.1l209.7,0" class="g4_411" />
+<path d="M665.9,481.1l117.2,0" class="g4_411" />
+<path d="M783.1,481.1l83.2,0" class="g4_411" />
+<path d="M55,526.2l191.5,0" class="g4_411" />
+<path d="M246.5,526.2l209.7,0" class="g4_411" />
+<path d="M456.2,526.2l209.7,0" class="g4_411" />
+<path d="M665.9,526.2l117.2,0" class="g4_411" />
+<path d="M783.1,526.2l83.2,0" class="g4_411" />
+<path d="M55,571.6l191.5,0" class="g4_411" />
+<path d="M246.5,571.6l209.7,0" class="g4_411" />
+<path d="M456.2,571.6l209.7,0" class="g4_411" />
+<path d="M665.9,571.6l117.2,0" class="g4_411" />
+<path d="M783.1,571.6l83.2,0" class="g4_411" />
+<path d="M55,613.8l191.5,0" class="g4_411" />
+<path d="M246.5,613.8l209.7,0" class="g4_411" />
+<path d="M456.2,613.8l209.7,0" class="g4_411" />
+<path d="M665.9,613.8l117.2,0" class="g4_411" />
+<path d="M783.1,613.8l83.2,0" class="g4_411" />
+<path d="M55,101.1l191.5,0" class="g5_411" />
+<path d="M246.5,101.1l209.7,0" class="g5_411" />
+<path d="M456.2,101.1l209.7,0" class="g5_411" />
+<path d="M665.9,101.1l117.2,0" class="g5_411" />
+<path d="M783.1,101.1l83.2,0" class="g5_411" />
+<path d="M55,439l191.5,0" class="g4_411" />
+<path d="M246.5,439l209.7,0" class="g4_411" />
+<path d="M456.2,439l209.7,0" class="g4_411" />
+<path d="M665.9,439l117.2,0" class="g4_411" />
+<path d="M783.1,439l83.2,0" class="g4_411" />
+<text 
+x="61" 
+y="85" 
+dx="0,0,0,0,0,0,0" 
+class="s2_411"
+>English</text>
+
+<text 
+x="252" 
+y="85" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_411"
+>Simplified</text>
+
+<text 
+x="462" 
+y="85" 
+dx="0,-1.2,-0.1,0,0,0,0,0,0,0,0" 
+class="s2_411"
+>Traditional</text>
+
+<text 
+x="671" 
+y="85" 
+dx="0,0,0,0,0,0" 
+class="s2_411"
+>Pinyin</text>
+
+<text 
+x="789" 
+y="75" 
+dx="0,0,0,0,0,0,-0.2,0" 
+class="s2_411"
+>Part of </text>
+
+<text 
+x="789" 
+y="94" 
+dx="0,0,0,0,0,0" 
+class="s2_411"
+>Speech</text>
+
+<text 
+x="358" 
+y="132" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_411"
+>Lesson 19: Dialogue 2</text>
+
+<text 
+x="61" 
+y="171" 
+dx="0,0,0,0,-0.4,0,0,-0.9,0,0,0,0,0,0,0,0,0" 
+class="s4_411"
+>driver’s license </text>
+
+<text 
+x="252" 
+y="173" 
+dx="0,0,0,0,0,0" 
+class="s5_411"
+>驾（驶执）照</text>
+
+<text 
+x="462" 
+y="173" 
+dx="0,0,0,0,0,0" 
+class="s6_411"
+>駕（駛執）照</text>
+
+<text 
+x="671" 
+y="171" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_411"
+>jià(shǐ zhí)zhào</text>
+
+<text 
+x="789" 
+y="171" 
+dx="0" 
+class="s8_411"
+>n</text>
+
+<text 
+x="61" 
+y="213" 
+dx="0,0,0,0,0,0" 
+class="s4_411"
+>camera</text>
+
+<text 
+x="252" 
+y="215" 
+dx="0,0,0" 
+class="s5_411"
+>照相机</text>
+
+<text 
+x="462" 
+y="215" 
+dx="0,0,0" 
+class="s6_411"
+>照相機</text>
+
+<text 
+x="671" 
+y="213" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_411"
+>zhàoxiàngjī</text>
+
+<text 
+x="789" 
+y="214" 
+dx="0" 
+class="s8_411"
+>n</text>
+
+<text 
+x="61" 
+y="255" 
+dx="0,0,0,0" 
+class="s4_411"
+>cash</text>
+
+<text 
+x="252" 
+y="258" 
+dx="0,0" 
+class="s5_411"
+>现金</text>
+
+<text 
+x="462" 
+y="258" 
+dx="0,0" 
+class="s6_411"
+>現金</text>
+
+<text 
+x="671" 
+y="255" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_411"
+>xiànjīn</text>
+
+<text 
+x="789" 
+y="256" 
+dx="0" 
+class="s8_411"
+>n</text>
+
+<text 
+x="358" 
+y="301" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_411"
+>Lesson 20: Dialogue 1</text>
+
+<text 
+x="61" 
+y="340" 
+dx="0,-0.4,0,0" 
+class="s4_411"
+>keys</text>
+
+<text 
+x="252" 
+y="342" 
+dx="0,0" 
+class="s5_411"
+>钥匙</text>
+
+<text 
+x="462" 
+y="342" 
+dx="0,0" 
+class="s6_411"
+>鑰匙</text>
+
+<text 
+x="671" 
+y="340" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s7_411"
+>yàoshi</text>
+
+<text 
+x="789" 
+y="340" 
+dx="0" 
+class="s8_411"
+>n</text>
+
+<text 
+x="61" 
+y="382" 
+dx="0,0,0,0,0,0,0" 
+class="s4_411"
+>jewelry</text>
+
+<text 
+x="252" 
+y="384" 
+dx="0,0,0,0" 
+class="s5_411"
+>珠宝首饰</text>
+
+<text 
+x="462" 
+y="384" 
+dx="0,0,0,0" 
+class="s6_411"
+>珠寶首飾</text>
+
+<text 
+x="671" 
+y="382" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_411"
+>zhūbǎo shǒushì</text>
+
+<text 
+x="789" 
+y="382" 
+dx="0" 
+class="s8_411"
+>n</text>
+
+<text 
+x="61" 
+y="424" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_411"
+>tablet computer </text>
+
+<text 
+x="252" 
+y="426" 
+dx="0,0,0,0" 
+class="s5_411"
+>平板电脑</text>
+
+<text 
+x="462" 
+y="426" 
+dx="0,0,0,0" 
+class="s6_411"
+>平板電腦</text>
+
+<text 
+x="671" 
+y="424" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_411"
+>píngbǎn diànnǎo</text>
+
+<text 
+x="789" 
+y="424" 
+dx="0" 
+class="s8_411"
+>n</text>
+
+<text 
+x="356" 
+y="469" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_411"
+>Lesson 20: Dialogue 2</text>
+
+<text 
+x="61" 
+y="510" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_411"
+>charge one’s cell phone</text>
+
+<text 
+x="252" 
+y="512" 
+dx="0,0,0,0,0" 
+class="s5_411"
+>给手机充电</text>
+
+<text 
+x="462" 
+y="512" 
+dx="0,0,0,0,0" 
+class="s6_411"
+>給手機充電</text>
+
+<text 
+x="671" 
+y="500" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s7_411"
+>gěi shǒujī </text>
+
+<text 
+x="671" 
+y="520" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_411"
+>chōng diàn</text>
+
+<text 
+x="61" 
+y="545" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_411"
+>go shopping at duty-free </text>
+
+<text 
+x="61" 
+y="565" 
+dx="0,0,0,0,0" 
+class="s4_411"
+>shops</text>
+
+<text 
+x="252" 
+y="557" 
+dx="0,0,0,0,0" 
+class="s5_411"
+>逛免税商店</text>
+
+<text 
+x="462" 
+y="557" 
+dx="0,0,0,0,0" 
+class="s6_411"
+>逛免稅商店</text>
+
+<text 
+x="671" 
+y="545" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s7_411"
+>guàng miǎnshuì </text>
+
+<text 
+x="671" 
+y="565" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_411"
+>shāngdiàn</text>
+
+<text 
+x="789" 
+y="555" 
+dx="0,-0.4" 
+class="s8_411"
+>vo</text>
+
+<text 
+x="61" 
+y="599" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_411"
+>take and post a selfie</text>
+
+<text 
+x="252" 
+y="601" 
+dx="0,0,0,0" 
+class="s5_411"
+>自拍打卡</text>
+
+<text 
+x="671" 
+y="599" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_411"
+>zì pāi dǎ kǎ</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_4gw;
+	src: url("fonts/LibreFranklin-SemiBold_4gw.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_4h1;
+	src: url("fonts/LibreFranklin-Regular_4h1.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiTC-Regular_4h8;
+	src: url("fonts/STKaitiTC-Regular_4h8.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_44y;
+	src: url("fonts/STKaitiSC-Regular_44y.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

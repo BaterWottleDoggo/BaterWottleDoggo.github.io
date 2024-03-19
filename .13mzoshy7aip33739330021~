@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 157 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_157"><path d="M122.8,966.3l0,-397.1l680.3,0l0,397.1Z" /></clipPath>
+<clipPath id="c1_157"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_157{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_157{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_157{
+fill: #A8A9AD;
+}
+.g4_157{
+fill: #7CA3CC;
+}
+.g5_157{
+fill: #F58320;
+}
+.g6_157{
+fill: none;
+stroke: #7CA3CC;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_157{
+fill: #FFFFFF;
+}
+.g8_157{
+fill: none;
+stroke: #F7931D;
+stroke-width: 0.30097222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_157{
+fill: none;
+stroke: #FBB040;
+stroke-width: 1.5781945;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g10_157{
+fill: #F3F4F4;
+}
+.g11_157{
+fill: none;
+stroke: #939598;
+stroke-width: 1.8440279;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_157{
+fill: #939598;
+}
+.g13_157{
+fill: none;
+stroke: #FBB040;
+stroke-width: 1.8440279;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g14_157{
+fill: #FBB040;
+}
+.g15_157{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.96097225;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g16_157{
+fill: #007598;
+}
+.g17_157{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_157{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cv1;
+fill: #3F3F40;
+}
+.s2_157{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s3_157{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #007D9F;
+}
+.s4_157{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s5_157{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #007D9F;
+}
+.s6_157{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cve;
+fill: #3F3F40;
+}
+.s7_157{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s8_157{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s9_157{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_cic;
+fill: #3F3F40;
+}
+.s10_157{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_cwi;
+fill: #6D6E71;
+}
+.s11_157{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_cwe;
+fill: #FFFFFF;
+}
+.s12_157{
+font-size: 13.75px;
+font-family: SourceHanSansTW-Regular_chz;
+fill: #1275BC;
+}
+.s13_157{
+font-size: 13.75px;
+font-family: ArialMT_cwd;
+fill: #1275BC;
+}
+.s14_157{
+font-size: 18.33px;
+font-family: SourceHanSansTW-Regular_chz;
+fill: #231F20;
+}
+.s15_157{
+font-size: 13.75px;
+font-family: SourceHanSansCN-Medium_cfk;
+fill: #1275BC;
+}
+.s16_157{
+font-size: 20.68px;
+font-family: SourceHanSansTW-Medium_ceq;
+fill: #FBB040;
+}
+.s17_157{
+font-size: 20.68px;
+font-family: SourceHanSansCN-Medium_cfk;
+fill: #FBB040;
+}
+.s18_157{
+font-size: 15.28px;
+font-family: ArialMT_cwd;
+fill: #939598;
+}
+.s19_157{
+font-size: 15.28px;
+font-family: SourceHanSansCN-Regular_cgj;
+fill: #939598;
+}
+.s20_157{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Regular_cgj;
+fill: #231F20;
+}
+.s21_157{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Medium_cfk;
+fill: #939598;
+}
+.s22_157{
+font-size: 18.33px;
+font-family: SourceHanSansTW-Medium_ceq;
+fill: #FBB040;
+}
+.s23_157{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Medium_cfk;
+fill: #FBB040;
+}
+.s24_157{
+font-size: 18.81px;
+font-family: SourceHanSansTW-Medium_ceq;
+fill: #FBB040;
+}
+.s25_157{
+font-size: 18.31px;
+font-family: SourceHanSansTW-Medium_ceq;
+fill: #26AAE1;
+}
+.s26_157{
+font-size: 18.31px;
+font-family: SourceHanSansCN-Regular_cgj;
+fill: #26AAE1;
+}
+.s27_157{
+font-size: 15.30px;
+font-family: MyriadPro-Regular_cwh;
+fill: #FFFFFF;
+}
+.s28_157{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cuw;
+fill: #231F20;
+}
+.s29_157{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_cvz;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="174" 
+y="71" 
+dx="0,0" 
+class="s1_157"
+>C </text>
+
+<text 
+x="244" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_157"
+>他不清楚这件事他错在哪里，老师给他讲了很长</text>
+
+<text 
+x="244" 
+y="107" 
+dx="0,0,0,0,0,0,0" 
+class="s2_157"
+>时间，他才明白</text>
+
+<text 
+x="426" 
+y="107" 
+dx="0,0" 
+class="s3_157"
+>过来</text>
+
+<text 
+x="478" 
+y="107" 
+dx="0" 
+class="s2_157"
+>。</text>
+
+<text 
+x="244" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_157"
+>他不清楚這件事他錯在哪裡，老師給他講了很長</text>
+
+<text 
+x="244" 
+y="181" 
+dx="0,0,0,0,0,0,0" 
+class="s4_157"
+>時間，他才明白</text>
+
+<text 
+x="426" 
+y="181" 
+dx="0,0" 
+class="s5_157"
+>過來</text>
+
+<text 
+x="478" 
+y="181" 
+dx="0" 
+class="s4_157"
+>。</text>
+
+<text 
+x="247" 
+y="215" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s6_157"
+>It was unclear to him where he made the mistake on this. The teacher gave him a very </text>
+
+<text 
+x="247" 
+y="234" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_157"
+>long explanation; only then did it become clear to him.</text>
+
+<text 
+x="161" 
+y="280" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0" 
+class="s6_157"
+>The opposite of </text>
+
+<text 
+x="271" 
+y="282" 
+dx="0,0" 
+class="s7_157"
+>过来</text>
+
+<text 
+x="318" 
+y="280" 
+dx="0" 
+class="s6_157"
+>/</text>
+
+<text 
+x="323" 
+y="282" 
+dx="0,0" 
+class="s8_157"
+>過來</text>
+
+<text 
+x="373" 
+y="280" 
+dx="0,0,0" 
+class="s6_157"
+>is </text>
+
+<text 
+x="387" 
+y="282" 
+dx="0,0" 
+class="s7_157"
+>过去</text>
+
+<text 
+x="435" 
+y="280" 
+dx="0" 
+class="s6_157"
+>/</text>
+
+<text 
+x="440" 
+y="282" 
+dx="0,0" 
+class="s8_157"
+>過去</text>
+
+<text 
+x="487" 
+y="280" 
+dx="0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_157"
+>. Some examples of </text>
+
+<text 
+x="621" 
+y="282" 
+dx="0,0" 
+class="s7_157"
+>过去</text>
+
+<text 
+x="669" 
+y="280" 
+dx="0" 
+class="s6_157"
+>/</text>
+
+<text 
+x="674" 
+y="282" 
+dx="0,0" 
+class="s8_157"
+>過去</text>
+
+<text 
+x="724" 
+y="280" 
+dx="0,0,0,0,0" 
+class="s6_157"
+>as a </text>
+
+<text 
+x="161" 
+y="308" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_157"
+>complement include </text>
+
+<text 
+x="302" 
+y="309" 
+dx="0,0,0,0" 
+class="s7_157"
+>死过去了</text>
+
+<text 
+x="397" 
+y="308" 
+dx="0" 
+class="s6_157"
+>/</text>
+
+<text 
+x="402" 
+y="309" 
+dx="0,0,0,0" 
+class="s8_157"
+>死過去了</text>
+
+<text 
+x="500" 
+y="308" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_157"
+>(passed away), </text>
+
+<text 
+x="601" 
+y="309" 
+dx="0,0,0,0" 
+class="s7_157"
+>睡过去了</text>
+
+<text 
+x="696" 
+y="308" 
+dx="0" 
+class="s6_157"
+>/</text>
+
+<text 
+x="701" 
+y="309" 
+dx="0,0,0,0" 
+class="s8_157"
+>睡過去了</text>
+
+<text 
+x="161" 
+y="335" 
+dx="0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_157"
+>(fell asleep), and </text>
+
+<text 
+x="272" 
+y="337" 
+dx="0,0,0,0" 
+class="s7_157"
+>晕过去了</text>
+
+<text 
+x="367" 
+y="335" 
+dx="0" 
+class="s6_157"
+>/</text>
+
+<text 
+x="372" 
+y="337" 
+dx="0,0,0,0" 
+class="s8_157"
+>暈過去了</text>
+
+<text 
+x="470" 
+y="335" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s9_157"
+>(yūn guo qu le)</text>
+
+<text 
+x="573" 
+y="335" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_157"
+>(lost consciousness).</text>
+
+<path d="M169.1,48.4c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g1_157" />
+<path d="M169.1,50.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_157" />
+<g clip-path="url(#c0_157)">
+<path d="M324.8,900.5l0,-0.4l469,0c2.3,0,4.5,-1,6,-2.5c1.6,-1.6,2.6,-3.7,2.6,-6.1l0,-156.2c0,-2.4,-1,-4.6,-2.6,-6.1c-1.5,-1.6,-3.7,-2.5,-6,-2.5l-469,0c-4.9,0,-9.4,2,-12.7,5.2c-3.2,3.3,-5.2,7.8,-5.2,12.7l0,137.5c0,5,2,9.5,5.2,12.7c3.3,3.3,7.8,5.3,12.7,5.3l0,0.4l0,0.3c-10.2,0,-18.6,-8.4,-18.6,-18.7l0,-137.5c0,-10.2,8.4,-18.6,18.6,-18.6l469,0c5.1,0,9.3,4.1,9.3,9.3l0,156.2c0,5.1,-4.2,9.3,-9.3,9.3l-469,0l0,-0.3Z" class="g3_157" />
+</g>
+<text 
+x="149" 
+y="633" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_157"
+>You are looking up the score of a soccer game and see this post and a follower’s </text>
+
+<text 
+x="149" 
+y="658" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_157"
+>comment on Weibo. What comment would you leave? </text>
+
+<g clip-path="url(#c0_157)">
+<path d="M320.3,590.3c0,-11.7,-9.5,-21.1,-21.1,-21.1l-141.4,0c-11.7,0,-21.1,9.4,-21.1,21.1l0,14.8l183.6,0Z" class="g4_157" />
+</g>
+<path d="M782.6,679.6l19.6,20.6l0,-20.6Z" class="g5_157" />
+<text 
+x="166" 
+y="595" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s11_157"
+>Chinese Chat</text>
+
+<path d="M137,674.1l0,-65.2l640.9,0c13.4,0,24.3,10.9,24.3,24.3l0,40.9l-665.2,0Z" class="g6_157" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 494, 757)"
+dx="0,0,0,0" 
+class="s12_157"
+>我愛足球</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 551, 757)"
+dx="0" 
+class="s13_157"
+>:</text>
+
+<text 
+x="494" 
+y="779" 
+dx="0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0.4,0,0" 
+class="s14_157"
+>好消息！在下半場第44分鐘，中國男</text>
+
+<text 
+x="494" 
+y="801" 
+dx="0,0,0,0,0,0,0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s14_157"
+>足踢進一球，以1比0贏得了與世界冠</text>
+
+<text 
+x="494" 
+y="823" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_157"
+>軍⸺中國乒乓球女隊的比賽！</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 494, 853)"
+dx="0" 
+class="s15_157"
+>@</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 508, 853)"
+dx="0,0" 
+class="s12_157"
+>莎莎</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 536, 853)"
+dx="0,0.3" 
+class="s13_157"
+>: </text>
+
+<text 
+x="494" 
+y="875" 
+dx="0,0,0,0,0,0,0,0" 
+class="s14_157"
+>博主是在開玩笑？</text>
+
+<image preserveAspectRatio="none" x="126" y="683" width="345" height="284" xlink:href="157/img/1.png" />
+<image preserveAspectRatio="none" x="306" y="726" width="164" height="175" xlink:href="157/img/2.png" />
+<path d="M479.2,951.9l-341.8,0l0,-265.5l341.8,0l0,265.5Z" class="g7_157" />
+<path d="M479.2,951.9l-341.8,0l0,-265.5l341.8,0Z" class="g8_157" />
+<text 
+x="226" 
+y="729" 
+dx="0" 
+class="s16_157"
+>我</text>
+
+<text 
+x="247" 
+y="729" 
+dx="0" 
+class="s17_157"
+>爱</text>
+
+<text 
+x="267" 
+y="729" 
+dx="0,0" 
+class="s16_157"
+>足球</text>
+
+<text 
+x="226" 
+y="756" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_157"
+>4-1 10:00 PM</text>
+
+<text 
+x="321" 
+y="756" 
+dx="0,0,0,0" 
+class="s19_157"
+>来自华为</text>
+
+<path d="M442.8,714.6l3.7,7.6l8.4,1.2l-6,6l1.4,8.3l-7.5,-3.9l-7.5,3.9l1.4,-8.3l-6,-6l8.3,-1.2l3.8,-7.6Z" class="g9_157" />
+<text 
+x="151" 
+y="796" 
+dx="0,0,0,0,-0.6,0.4,0,0,0,0,0,0,0,0,0,0.2,-5.1,0,0" 
+class="s20_157"
+>好消息 ！在下半场第44分钟 ，中国男</text>
+
+<text 
+x="151" 
+y="818" 
+dx="0,0,0,0,0,0,-0.6,0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s20_157"
+>足踢进一球 ，以1比0赢得了与世界冠</text>
+
+<text 
+x="151" 
+y="840" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2" 
+class="s20_157"
+>军⸺中国乒乓球女队的比赛 ！</text>
+
+<path d="M448.9,900l-293,0l0,-42.1l293,0l0,42.1Z" class="g10_157" />
+<path d="M183.4,926.8l0,2.6c0,1.8,-1.4,3.2,-3.2,3.2l-14.6,0c-1.8,0,-3.2,-1.4,-3.2,-3.2l0,-8.8c0,-1.7,1.4,-3.2,3.2,-3.2l8.1,0" class="g11_157" />
+<path d="M172.9,927.2l9.4,-9.1" class="g11_157" />
+<path d="M182.7,923.2l-0.9,-0.1l0.2,-4.7l-4.7,0.1l0,-1l5.7,-0.1Z" class="g12_157" />
+<text 
+x="194" 
+y="931" 
+dx="0,0" 
+class="s21_157"
+>转发</text>
+
+<path d="M256.8,915.5l0,23.8" class="g11_157" />
+<path d="M374.1,915.5l0,23.8" class="g11_157" />
+<text 
+x="304" 
+y="931" 
+dx="0,0" 
+class="s22_157"
+>1 </text>
+
+<text 
+x="318" 
+y="931" 
+dx="0,0" 
+class="s23_157"
+>评论</text>
+
+<path d="M300.6,915.8l-21,0l0,15.3l7.4,0l3.1,5.3l3.1,-5.3l7.4,0l0,-15.3Z" class="g13_157" />
+<text 
+x="282" 
+y="924" 
+dx="0,0,0" 
+class="s24_157"
+>...</text>
+
+<text 
+x="429" 
+y="931" 
+dx="0" 
+class="s21_157"
+>赞</text>
+
+<path d="M400.6,936.9l-1.8,0c-0.4,0,-0.7,-0.3,-0.7,-0.7l0,-13c0,-0.4,0.3,-0.7,0.7,-0.7l1.8,0c0.4,0,0.7,0.3,0.7,0.7l0,13c0,0.4,-0.3,0.7,-0.7,0.7Z" class="g11_157" />
+<path d="M403,936.1l0,-13c0,0,2.5,-1.4,2.5,-2.9c0,-1.4,-1.3,-7.1,1.3,-6.2c2.5,0.9,2.7,2.2,2.7,3.7c0,1.4,-0.7,4.5,-0.2,5.1c0.5,0.5,7.8,-0.6,8.1,0c0.4,0.5,0.9,2,0.4,2.7c-0.6,0.7,0.9,2.4,-0.6,4c-1.4,1.7,0,5.9,-1.4,6.6c-1.4,0.7,-12.1,1.3,-12.8,0Z" class="g11_157" />
+<text 
+transform="matrix(1.03, 0, 0, 1, 162, 885)"
+dx="0" 
+class="s25_157"
+>@</text>
+
+<text 
+transform="matrix(1.03, 0, 0, 1, 180, 885)"
+dx="0,0,0,-0.9" 
+class="s26_157"
+>莎莎 ：</text>
+
+<text 
+x="238" 
+y="885" 
+dx="0,0,0,0,0,0,0,0,0.6" 
+class="s20_157"
+>博主是在开玩笑 ？</text>
+
+<image preserveAspectRatio="none" x="65" y="692" width="353" height="235" xlink:href="157/img/3.png" />
+<path d="M207.5,755.6c0,4.5,-3.7,8.1,-8.2,8.1c-4.5,0,-8.1,-3.6,-8.1,-8.1c0,-4.5,3.6,-8.2,8.1,-8.2c4.5,0,8.2,3.7,8.2,8.2Z" class="g14_157" />
+<path d="M207.5,755.6c0,4.5,-3.7,8.1,-8.2,8.1c-4.5,0,-8.1,-3.6,-8.1,-8.1c0,-4.5,3.6,-8.2,8.1,-8.2c4.5,0,8.2,3.7,8.2,8.2Z" class="g15_157" />
+<text 
+x="194" 
+y="761" 
+dx="0" 
+class="s27_157"
+>V</text>
+
+<path d="M0,1140.6l45.1,0L45.1,0L0,0L0,1140.6Z" class="g16_157" />
+<g clip-path="url(#c1_157)">
+<path d="M-12.9,1140.6l58,0l0,-1153.5l-58,0l0,1153.5Z" class="g17_157" />
+</g>
+<text 
+x="20" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s28_157"
+>134 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s29_157"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s29_157"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s29_157"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s29_157"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s29_157"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s29_157"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s29_157"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s29_157"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s29_157"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialMT_cwd;
+	src: url("fonts/ArialMT_cwd.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_cic;
+	src: url("fonts/GentiumBasic-Italic_cic.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cv1;
+	src: url("fonts/LibreFranklin-ExtraBold_cv1.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_ceq;
+	src: url("fonts/SourceHanSansTW-Medium_ceq.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_cfk;
+	src: url("fonts/SourceHanSansCN-Medium_cfk.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cwi;
+	src: url("fonts/LibreFranklin-Medium_cwi.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Regular_chz;
+	src: url("fonts/SourceHanSansTW-Regular_chz.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_cgj;
+	src: url("fonts/SourceHanSansCN-Regular_cgj.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cwe;
+	src: url("fonts/LibreFranklin-SemiBold_cwe.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cve;
+	src: url("fonts/LibreFranklin-Regular_cve.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_cwh;
+	src: url("fonts/MyriadPro-Regular_cwh.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cuw;
+	src: url("fonts/LibreFranklin-Medium_cuw.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cvz;
+	src: url("fonts/LibreFranklin-SemiBold_cvz.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

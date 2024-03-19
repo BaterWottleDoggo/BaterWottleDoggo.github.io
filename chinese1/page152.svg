@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 175 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_175{
+fill: #ACBF3B;
+}
+
+.s1_175{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_czx;
+fill: #231F20;
+}
+.s2_175{
+font-size: 16.81px;
+font-family: Wingdings-Regular_cnj;
+fill: #3986C6;
+}
+.s3_175{
+font-size: 19.10px;
+font-family: Alegreya-Regular_czv;
+fill: #231F20;
+}
+.s4_175{
+font-size: 27.50px;
+font-family: ProximaNova-Bold_czx;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="34" 
+y="1149" 
+dx="0,0,0" 
+class="s1_175"
+>152</text>
+
+<image preserveAspectRatio="none" x="43" y="453" width="822" height="516" xlink:href="175/img/1.png" />
+<path d="M0,116.8l921.3,0L921.3,0L0,0L0,116.8Z" class="g1_175" />
+<text 
+x="133" 
+y="193" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_175"
+>At the end of the unit, you will imagine that your class is planning a party </text>
+
+<text 
+x="134" 
+y="215" 
+dx="0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,-1,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0" 
+class="s1_175"
+>for an exchange student’s birthday. To plan the party, you will:</text>
+
+<text 
+x="132" 
+y="258" 
+dx="0" 
+class="s2_175"
+></text>
+
+<text 
+x="159" 
+y="258" 
+dx="0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_175"
+>Read about what the exchange student likes and when he has free time</text>
+
+<text 
+x="132" 
+y="301" 
+dx="0" 
+class="s2_175"
+></text>
+
+<text 
+x="159" 
+y="301" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-1.3,-0.4,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s3_175"
+>Choose a gift, a date for the party, and some food to order </text>
+
+<text 
+x="132" 
+y="344" 
+dx="0" 
+class="s2_175"
+></text>
+
+<text 
+x="159" 
+y="344" 
+dx="0,-0.2,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_175"
+>Present your birthday party plan to the class</text>
+
+<text 
+x="133" 
+y="76" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0" 
+class="s4_175"
+>UNIT 3 PROJECT</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Bold_czx;
+	src: url("fonts/ProximaNova-Bold_czx.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_czv;
+	src: url("fonts/Alegreya-Regular_czv.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings-Regular_cnj;
+	src: url("fonts/Wingdings-Regular_cnj.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 275 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_275"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_275{
+fill: #3986C6;
+}
+.g2_275{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_275{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.9097222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_275{
+fill: #FFFFFF;
+}
+.g5_275{
+fill: #ACBF3B;
+}
+
+.s1_275{
+font-size: 29.03px;
+font-family: ProximaNova-Bold_d5-;
+fill: #FFFFFF;
+}
+.s2_275{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s3_275{
+font-size: 16.81px;
+font-family: Wingdings-Regular_cnj;
+fill: #ACBF3B;
+}
+.s4_275{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d61;
+fill: #231F20;
+}
+.s5_275{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_d5-;
+fill: #FFFFFF;
+}
+.s6_275{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_d64;
+fill: #FFFFFF;
+}
+.s7_275{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d5-;
+fill: #FFFFFF;
+}
+.s8_275{
+font-size: 18.33px;
+font-family: Alegreya-Italic_d6p;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,1196.3l921.3,0l0,-723L0,473.3l0,723Z" class="g1_275" />
+<g clip-path="url(#c0_275)">
+<path d="M-13.7,1210l948.7,0l0,-736.7l-948.7,0l0,736.7Z" class="g2_275" />
+</g>
+<path d="M103.1,111.5l710.4,0" class="g3_275" />
+<path d="M813.5,116.1c2.6,0,4.6,-2,4.6,-4.6c0,-2.5,-2,-4.6,-4.6,-4.6c-2.5,0,-4.5,2.1,-4.5,4.6c0,2.6,2,4.6,4.5,4.6Z" class="g1_275" />
+<path d="M378.1,139l0,-30c0,-25,-18.5,-25,-18.5,-25L152.3,84l0,30c0,25,18.5,25,18.5,25Z" class="g1_275" />
+<path d="M105.2,148.3l-3,-5.2l-5.8,1.6l10.9,-23.3l8.8,3.7Z" class="g1_275" />
+<path d="M127.1,148.3l3,-5.2l5.8,1.6L125.1,121.4l-8.8,3.7Z" class="g1_275" />
+<path d="M118.5,88.6l0,0c0.7,1.8,2.9,2.3,4.2,0.9c1.6,-1.7,4.5,-0.4,4.3,1.9c-0.1,1.9,1.7,3.2,3.5,2.5c2.1,-0.9,4.2,1.5,3.1,3.5c-0.9,1.7,0.3,3.7,2.1,3.7c2.4,0.1,3.4,3.1,1.5,4.5c-1.5,1.1,-1.2,3.4,0.4,4.2c2.2,1.1,1.8,4.2,-0.4,4.7c-1.9,0.5,-2.6,2.7,-1.4,4.1c1.6,1.8,0,4.5,-2.3,4.1c-1.9,-0.4,-3.4,1.3,-2.9,3.1c0.7,2.3,-1.8,4.1,-3.8,2.8c-1.5,-1.1,-3.6,-0.1,-3.9,1.7c-0.3,2.4,-3.4,3,-4.6,1c-1,-1.6,-3.3,-1.6,-4.3,0c-1.2,2,-4.3,1.4,-4.6,-1c-0.2,-1.8,-2.3,-2.8,-3.9,-1.7c-1.9,1.3,-4.4,-0.5,-3.8,-2.8c0.6,-1.8,-1,-3.5,-2.8,-3.1c-2.3,0.4,-3.9,-2.3,-2.4,-4.1c1.2,-1.4,0.5,-3.6,-1.3,-4.1c-2.3,-0.5,-2.6,-3.6,-0.5,-4.7c1.7,-0.8,1.9,-3.1,0.4,-4.2c-1.8,-1.4,-0.9,-4.4,1.5,-4.5c1.9,0,3,-2,2.1,-3.7c-1.1,-2,1,-4.4,3.2,-3.5c1.7,0.7,3.6,-0.6,3.4,-2.5c-0.1,-2.3,2.7,-3.6,4.3,-1.9c1.3,1.4,3.6,0.9,4.2,-0.9c0.8,-2.2,3.9,-2.2,4.7,0Z" class="g1_275" />
+<path d="M116.2,93.6c8.9,0,16.1,7.2,16.1,16.1c0,8.9,-7.2,16.1,-16.1,16.1c-8.9,0,-16.1,-7.2,-16.1,-16.1c0,-8.9,7.2,-16.1,16.1,-16.1Z" class="g4_275" />
+<path d="M120.5,100l-4.3,3.1L111.9,100l-0.9,5.2l-5.2,0.9l3.1,4.3l-3.1,4.3l5.2,0.8l0.9,5.2l4.3,-3.1l4.3,3.1l0.8,-5.2l5.3,-0.8l-3.2,-4.3l3.2,-4.3l-5.3,-0.9Z" class="g1_275" />
+<text 
+x="173" 
+y="121" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_275"
+>Can-Do Goals</text>
+
+<text 
+x="156" 
+y="173" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_275"
+>Talk with your teacher if you have questions or if you are not </text>
+
+<text 
+x="158" 
+y="199" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_275"
+>certain you can do the following tasks:</text>
+
+<text 
+x="157" 
+y="238" 
+dx="0" 
+class="s3_275"
+></text>
+
+<text 
+x="199" 
+y="238" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0" 
+class="s4_275"
+>Understand the Chinese school system and compare it to your own</text>
+
+<text 
+x="157" 
+y="271" 
+dx="0" 
+class="s3_275"
+></text>
+
+<text 
+x="199" 
+y="271" 
+dx="0,-1,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_275"
+>Talk about your favorite classes</text>
+
+<text 
+x="157" 
+y="304" 
+dx="0" 
+class="s3_275"
+></text>
+
+<text 
+x="199" 
+y="303" 
+dx="0,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s4_275"
+>Compare and contrast different things</text>
+
+<text 
+x="157" 
+y="337" 
+dx="0" 
+class="s3_275"
+></text>
+
+<text 
+x="199" 
+y="336" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_275"
+>Tell someone what you are about to do</text>
+
+<text 
+x="157" 
+y="369" 
+dx="0" 
+class="s3_275"
+></text>
+
+<text 
+x="199" 
+y="369" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_275"
+>Express both strong and weak opinions</text>
+
+<text 
+x="157" 
+y="402" 
+dx="0" 
+class="s3_275"
+></text>
+
+<text 
+x="199" 
+y="402" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s4_275"
+>Describe someone’s feelings</text>
+
+<text 
+x="110" 
+y="608" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_275"
+>What did you </text>
+
+<text 
+x="111" 
+y="634" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_275"
+>learn about </text>
+
+<text 
+x="111" 
+y="660" 
+dx="0,0,0,0,0,-0.3,-0.6,0,0,0,0,0,0,0,0" 
+class="s5_275"
+>China’s school </text>
+
+<text 
+x="111" 
+y="686" 
+dx="0,0,0,0,0,0,-0.9" 
+class="s5_275"
+>system?</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_275"
+>Go Far with Chinese</text>
+
+<text 
+x="32" 
+y="1149" 
+dx="0,0,0" 
+class="s7_275"
+>252</text>
+
+<path d="M50.4,1089.3l0,38.8" class="g2_275" />
+<path d="M50.4,1125.7c-1.3,0,-2.4,1.1,-2.4,2.4c0,1.4,1.1,2.5,2.4,2.5c1.4,0,2.5,-1.1,2.5,-2.5c0,-1.3,-1.1,-2.4,-2.5,-2.4Z" class="g4_275" />
+<text 
+x="275" 
+y="926" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.2,-0.2,-0.3,0,0,0,-0.3" 
+class="s8_275"
+>Students studying in their classroom in Jiangxi Province</text>
+
+<image preserveAspectRatio="none" x="271" y="509" width="582" height="387" xlink:href="275/img/1.png" />
+<path d="M394.8,579.1l0,-30c0,-25,-25.3,-25,-25.3,-25l-283,0l0,30c0,25,25.3,25,25.3,25Z" class="g5_275" />
+<path d="M394.8,579.1l0,-30c0,-25,-25.3,-25,-25.3,-25l-283,0l0,30c0,25,25.3,25,25.3,25l283,0Z" class="g2_275" />
+<text 
+x="107" 
+y="562" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_275"
+>Cultural Knowledge </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Bold_d5-;
+	src: url("fonts/ProximaNova-Bold_d5-.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_d64;
+	src: url("fonts/ProximaNova-Semibold_d64.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d61;
+	src: url("fonts/Alegreya-Regular_d61.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Italic_d6p;
+	src: url("fonts/Alegreya-Italic_d6p.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings-Regular_cnj;
+	src: url("fonts/Wingdings-Regular_cnj.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

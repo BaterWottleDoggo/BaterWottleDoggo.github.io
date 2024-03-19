@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 181 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_181{
+fill: #D4EFFB;
+}
+.g2_181{
+fill: #00AEEF;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_181{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cxm;
+fill: #231F20;
+}
+.s2_181{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_cg0;
+fill: #FFFFFF;
+}
+.s3_181{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #3F3F40;
+}
+.s4_181{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #3F3F40;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M-13.7,1209.2l934.2,0l0,-1222.1l-934.2,0l0,1222.1Z" class="g1_181" />
+<path d="M-12.9,1140.6l58,0l0,-1153.5l-58,0l0,1153.5Z" class="g2_181" />
+<text 
+x="20" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_181"
+>158 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_181"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s2_181"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s2_181"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_181"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s2_181"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s2_181"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_181"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s2_181"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s2_181"
+>Textbook</text>
+
+<text 
+x="157" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_181"
+>王先生对太太很好。</text>
+
+<text 
+x="157" 
+y="114" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_181"
+>王先生對太太很好。</text>
+
+<text 
+x="157" 
+y="169" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_181"
+>他说他太太对他也很好。</text>
+
+<text 
+x="157" 
+y="210" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_181"
+>他說他太太對他也很好。</text>
+
+<text 
+x="157" 
+y="266" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_181"
+>要不是自己看到，很多人不相信王先生对太太那么好。</text>
+
+<text 
+x="157" 
+y="306" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_181"
+>要不是自己看到，很多人不相信王先生對太太那麼好。</text>
+
+<text 
+x="157" 
+y="362" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_181"
+>他认为夫妻就应该互相照顾。</text>
+
+<text 
+x="157" 
+y="402" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_181"
+>他認為夫妻就應該互相照顧。</text>
+
+<text 
+x="157" 
+y="458" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_181"
+>一天三顿都是他做饭，他洗碗，但他从来都不抱怨。</text>
+
+<text 
+x="157" 
+y="499" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_181"
+>一天三頓都是他做飯，他洗碗，但他從來都不抱怨。</text>
+
+<text 
+x="157" 
+y="554" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_181"
+>每天早晨陪太太去公园散步。</text>
+
+<text 
+x="157" 
+y="595" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_181"
+>每天早晨陪太太去公園散步。</text>
+
+<text 
+x="157" 
+y="651" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_181"
+>大家都觉得他爱太太，尊重太太，是个模范丈夫。</text>
+
+<text 
+x="157" 
+y="691" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_181"
+>大家都覺得他愛太太，尊重太太，是個模範丈夫。</text>
+
+<text 
+x="157" 
+y="747" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_181"
+>妻子的健康、快乐就是他最大的幸福。</text>
+
+<text 
+x="157" 
+y="787" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_181"
+>妻子的健康、快樂就是他最大的幸福。</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cxm;
+	src: url("fonts/LibreFranklin-Medium_cxm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cg0;
+	src: url("fonts/LibreFranklin-SemiBold_cg0.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

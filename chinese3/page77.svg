@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 98 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_98"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_98{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_98{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_98{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_98{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_98{
+fill: none;
+stroke: #F58320;
+stroke-width: 3.8041668;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_98{
+fill: #A1C0E4;
+}
+.g7_98{
+fill: #F58320;
+}
+.g8_98{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_98{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.6347224;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_98{
+fill: #57585A;
+}
+.g11_98{
+fill: #FFFFFF;
+}
+.g12_98{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2534723;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g13_98{
+fill: #E7E8E9;
+}
+.g14_98{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.2527778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g15_98{
+fill: none;
+stroke: #939598;
+stroke-width: 1.9998611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g16_98{
+fill: #939598;
+}
+.g17_98{
+fill: none;
+stroke: #939598;
+stroke-width: 1.6041666;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g18_98{
+fill: #872B91;
+}
+.g19_98{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_98{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3vt;
+fill: #872B91;
+}
+.s2_98{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3vl;
+fill: #872B91;
+}
+.s3_98{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_3w2;
+fill: #3F3F40;
+}
+.s4_98{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3vt;
+fill: #872B91;
+}
+.s5_98{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s6_98{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s7_98{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_3vd;
+fill: #872B91;
+}
+.s8_98{
+font-size: 27.50px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #F15929;
+}
+.s9_98{
+font-size: 27.50px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #F15929;
+}
+.s10_98{
+font-size: 16.81px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #818180;
+}
+.s11_98{
+font-size: 16.81px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #818180;
+}
+.s12_98{
+font-size: 19.07px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #939598;
+}
+.s13_98{
+font-size: 19.07px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #939598;
+}
+.s14_98{
+font-size: 19.07px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #231F20;
+}
+.s15_98{
+font-size: 19.07px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #231F20;
+}
+.s16_98{
+font-size: 24.45px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #3F3F40;
+}
+.s17_98{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_3xs;
+fill: #FFFFFF;
+}
+.s18_98{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_3xt;
+fill: #6D6E71;
+}
+.s19_98{
+font-size: 18.18px;
+font-family: ArialMT_3xu;
+fill: #FFFFFF;
+}
+.s20_98{
+font-size: 22.92px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #F15929;
+}
+.s21_98{
+font-size: 22.92px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #3F3F40;
+}
+.s22_98{
+font-size: 22.92px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #1275BC;
+}
+.s23_98{
+font-size: 22.92px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #1275BC;
+}
+.s24_98{
+font-size: 20.00px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #939598;
+}
+.s25_98{
+font-size: 20.00px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #939598;
+}
+.s26_98{
+font-size: 16.04px;
+font-family: SourceHanSansTW-Regular_3ri;
+fill: #939598;
+}
+.s27_98{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3vz;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.1,76.3l12.9,0" class="g1_98" />
+<text 
+x="119" 
+y="72" 
+dx="0,0" 
+class="s1_98"
+>E </text>
+
+<text 
+x="417" 
+y="77" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_98"
+>Inside scoop </text>
+
+<text 
+x="157" 
+y="139" 
+dx="0,-1.6,0,0,-0.3,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.1,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.2,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_98"
+>You’re interning at a local market research company and have been asked to survey students’ </text>
+
+<text 
+x="157" 
+y="166" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_98"
+>consumer behaviors. Collect the results and make a presentation to your class.</text>
+
+<text 
+x="168" 
+y="219" 
+dx="0,0.2" 
+class="s4_98"
+>1 </text>
+
+<text 
+x="197" 
+y="219" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>你喜欢到哪儿去跳舞？</text>
+
+<text 
+x="197" 
+y="255" 
+dx="0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5" 
+class="s6_98"
+>Nǐ xǐhuan dào nǎr qù tiào wǔ?</text>
+
+<text 
+x="168" 
+y="307" 
+dx="0,0.2" 
+class="s4_98"
+>2 </text>
+
+<text 
+x="197" 
+y="307" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>你周末晚上常常到哪儿去吃饭？</text>
+
+<text 
+x="197" 
+y="344" 
+dx="0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5" 
+class="s6_98"
+>Nǐ zhōumò wǎnshang chángcháng dào nǎr qù chī fàn?</text>
+
+<text 
+x="168" 
+y="396" 
+dx="0,0.2" 
+class="s4_98"
+>3 </text>
+
+<text 
+x="197" 
+y="396" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>你喜欢到哪儿去看电影？</text>
+
+<text 
+x="197" 
+y="432" 
+dx="0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5" 
+class="s6_98"
+>Nǐ xǐhuan dào nǎr qù kàn diànyǐng?</text>
+
+<text 
+x="168" 
+y="484" 
+dx="0,0.2" 
+class="s4_98"
+>4 </text>
+
+<text 
+x="197" 
+y="484" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>你常常到哪儿去买衣服？</text>
+
+<text 
+x="197" 
+y="521" 
+dx="0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5" 
+class="s6_98"
+>Nǐ chángcháng dào nǎr qù mǎi yīfu?</text>
+
+<path d="M146.6,42.1l0,53.5l0,0.7l0.8,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_98" />
+<path d="M148.7,94.3l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g3_98" />
+<text 
+x="721" 
+y="73" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s7_98"
+>PRESENTATIONAL</text>
+
+<path d="M719.9,77l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g4_98" />
+<text 
+x="162" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_98"
+>INTERPERSONAL</text>
+
+<path d="M158.1,76.9l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g4_98" />
+<text 
+x="403" 
+y="658" 
+dx="0,0" 
+class="s8_98"
+>PU</text>
+
+<text 
+x="440" 
+y="658" 
+dx="0,0,0" 
+class="s9_98"
+>学生会</text>
+
+<text 
+x="402" 
+y="682" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_98"
+>01-22 16:20 </text>
+
+<text 
+x="495" 
+y="682" 
+dx="0,0,0,0,0,0,0" 
+class="s11_98"
+>来自华为荣耀8</text>
+
+<text 
+x="323" 
+y="795" 
+dx="0,0" 
+class="s12_98"
+>转发</text>
+
+<text 
+x="365" 
+y="795" 
+dx="0,0,0,0" 
+class="s13_98"
+>431 </text>
+
+<text 
+x="451" 
+y="795" 
+dx="0,0" 
+class="s14_98"
+>评论</text>
+
+<text 
+x="494" 
+y="795" 
+dx="0,0,0" 
+class="s15_98"
+>82 </text>
+
+<text 
+x="767" 
+y="795" 
+dx="0" 
+class="s12_98"
+>赞</text>
+
+<text 
+x="791" 
+y="795" 
+dx="0,0,0" 
+class="s13_98"
+>602</text>
+
+<text 
+x="327" 
+y="720" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_98"
+>同学们，现在已经不下雪了，也没有那么冷了。</text>
+
+<text 
+x="327" 
+y="753" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_98"
+>晚上一起来学校新的学生活动中心看电影吧！</text>
+
+<image preserveAspectRatio="none" x="231" y="578" width="202" height="136" xlink:href="98/img/1.png" />
+<path d="M449.4,806.5l72.8,0" class="g5_98" />
+<path d="M291.1,596c0,-11.7,-9.5,-21.1,-21.1,-21.1l-156.2,0c-11.6,0,-21.1,9.4,-21.1,21.1l0,14.8l198.4,0Z" class="g6_98" />
+<path d="M271.5,741.2l19.6,20.5l0,-20.5Z" class="g7_98" />
+<text 
+x="128" 
+y="601" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s17_98"
+>Chinese Chat</text>
+
+<path d="M291.1,614.7l0,121.4l-174.1,0c-13.4,0,-24.3,-10.9,-24.3,-24.3l0,-97.1l198.4,0Z" class="g8_98" />
+<text 
+x="104" 
+y="636" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_98"
+>The student union just </text>
+
+<text 
+x="104" 
+y="658" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_98"
+>published a new post on </text>
+
+<text 
+x="104" 
+y="679" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_98"
+>Weibo. Where do you </text>
+
+<text 
+x="104" 
+y="700" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_98"
+>think people on campus </text>
+
+<text 
+x="104" 
+y="722" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s18_98"
+>will be headed tonight?</text>
+
+<path d="M841.9,1031.8l-542.4,0l0,-456.2l542.4,0Z" class="g9_98" />
+<path d="M838.2,610.6l-534,0l0,-31.1l534,0l0,31.1Z" class="g10_98" />
+<path d="M318.7,601l-3.4,0l0,-6.5l3.4,0l0,6.5Z" class="g11_98" />
+<path d="M324.7,601l-3.4,0l0,-9.2l3.4,0l0,9.2Z" class="g11_98" />
+<path d="M330.7,601l-3.4,0l0,-11.9l3.4,0l0,11.9Z" class="g11_98" />
+<path d="M336.8,601l-3.5,0l0,-14.6l3.5,0l0,14.6Z" class="g11_98" />
+<path d="M342.8,601l-3.5,0l0,-17.3l3.5,0l0,17.3Z" class="g11_98" />
+<path d="M356.3,592c1.5,-1.9,4.4,-3.3,7.7,-3.3c3.2,0,6.1,1.4,7.6,3.3l2.8,-0.7c-1.7,-3,-5.7,-5.1,-10.4,-5.1c-4.8,0,-8.8,2.1,-10.5,5.1Z" class="g11_98" />
+<path d="M359.1,596.4c1,-1.2,2.8,-2,4.8,-2c2.1,0,3.9,0.8,4.9,2l1.7,-1c-1.1,-1.9,-3.6,-3.2,-6.6,-3.2c-2.9,0,-5.4,1.3,-6.5,3.2Z" class="g11_98" />
+<path d="M362,600.9c0.4,-0.5,1.1,-0.9,1.9,-0.9c0.9,0,1.6,0.4,2,0.9l0.7,-1.4c-0.4,-0.7,-1.5,-1.3,-2.7,-1.3c-1.1,0,-2.2,0.6,-2.6,1.3Z" class="g11_98" />
+<text 
+x="537" 
+y="599" 
+dx="0,0,0,0,0,0,0" 
+class="s19_98"
+>9:48 PM</text>
+
+<text 
+x="760" 
+y="597" 
+dx="0,0,0" 
+class="s19_98"
+>85%</text>
+
+<path d="M830.4,589.7l-2.4,0l0,-4.1l-23.3,0l0,12l23.3,0l0,-4l2.4,0l0,-3.9Z" class="g12_98" />
+<path d="M821.8,594l-15.3,0l0,-5.1l15.3,0l0,5.1Z" class="g11_98" />
+<path d="M833.6,982.2l-434,0l0,-47.2l434,0l0,47.2Z" class="g13_98" />
+<path d="M833.6,770.5l-527.7,0l0,-4l527.7,0l0,4Z" class="g13_98" />
+<path d="M833.6,819.4l-527.7,0l0,-10.4l527.7,0l0,10.4Z" class="g13_98" />
+<path d="M803.6,640.3l3.7,7.4l8.2,1.2l-5.9,5.8l1.4,8.2L803.6,659l-7.3,3.9l1.4,-8.2l-6,-5.8l8.3,-1.2l3.6,-7.4Z" class="g14_98" />
+<image preserveAspectRatio="none" x="324" y="830" width="28" height="28" xlink:href="98/img/2.png" />
+<image preserveAspectRatio="none" x="352" y="830" width="29" height="28" xlink:href="98/img/3.png" />
+<image preserveAspectRatio="none" x="324" y="858" width="28" height="29" xlink:href="98/img/4.png" />
+<image preserveAspectRatio="none" x="352" y="858" width="29" height="29" xlink:href="98/img/5.png" />
+<text 
+x="395" 
+y="852" 
+dx="0,0,0" 
+class="s20_98"
+>白英爱</text>
+
+<text 
+x="398" 
+y="880" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_98"
+>01-22 16:28</text>
+
+<text 
+x="398" 
+y="915" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s21_98"
+>太好了，新的学生活动中心在哪儿啊？</text>
+
+<text 
+x="409" 
+y="967" 
+dx="0,0" 
+class="s22_98"
+>PU</text>
+
+<text 
+x="440" 
+y="967" 
+dx="0,0,0" 
+class="s23_98"
+>学生会</text>
+
+<text 
+x="508" 
+y="967" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s21_98"
+>：就在图书馆和电脑中心中间。</text>
+
+<path d="M833.9,1025.6l-526,0l0,-32.8l526,0l0,32.8Z" class="g13_98" />
+<path d="M388.3,1010.2l0,2.7c0,1.9,-1.5,3.5,-3.4,3.5l-15.6,0c-1.9,0,-3.4,-1.6,-3.4,-3.5l0,-9.3c0,-1.9,1.5,-3.4,3.4,-3.4l8.6,0" class="g15_98" />
+<path d="M377.1,1010.6l10,-9.6" class="g15_98" />
+<path d="M387.5,1006.4l-1,0l0.3,-5.1l-5.2,0l0,-1l6.3,-0.1Z" class="g16_98" />
+<text 
+x="400" 
+y="1015" 
+dx="0,0" 
+class="s24_98"
+>转发</text>
+
+<text 
+x="537" 
+y="1015" 
+dx="0,0" 
+class="s24_98"
+>评论</text>
+
+<path d="M480.4,998.1l0,25.3" class="g15_98" />
+<path d="M640.6,998.1l0,25.3" class="g15_98" />
+<path d="M832.9,828.9l-22.4,0l0,16.2l7.9,0l3.3,5.6l3.2,-5.6l8,0l0,-16.2Z" class="g15_98" />
+<text 
+x="813" 
+y="838" 
+dx="0,0,0" 
+class="s25_98"
+>...</text>
+
+<text 
+x="743" 
+y="1015" 
+dx="0" 
+class="s24_98"
+>赞</text>
+
+<path d="M713.3,1020.9l-2,0c-0.4,0,-0.7,-0.3,-0.7,-0.7l0,-13.9c0,-0.4,0.3,-0.7,0.7,-0.7l2,0c0.4,0,0.7,0.3,0.7,0.7l0,13.9c0,0.4,-0.3,0.7,-0.7,0.7Z" class="g15_98" />
+<path d="M715.7,1020.1l0,-13.8c0,0,2.7,-1.6,2.7,-3.1c0,-1.6,-1.3,-7.6,1.4,-6.6c2.7,1,2.9,2.3,2.9,3.9c0,1.5,-0.8,4.8,-0.2,5.4c0.5,0.6,8.2,-0.6,8.6,0c0.4,0.6,1,2.1,0.4,2.9c-0.6,0.8,1,2.5,-0.6,4.3c-1.5,1.7,0,6.2,-1.5,7c-1.6,0.7,-12.9,1.3,-13.7,0Z" class="g15_98" />
+<text 
+x="779" 
+y="844" 
+dx="0,0" 
+class="s26_98"
+>32</text>
+
+<path d="M756.3,846l-1.4,0c-0.4,0,-0.7,-0.3,-0.7,-0.7l0,-10.9c0,-0.4,0.3,-0.7,0.7,-0.7l1.4,0c0.3,0,0.6,0.3,0.6,0.7l0,10.9c0,0.4,-0.3,0.7,-0.6,0.7Z" class="g17_98" />
+<path d="M758.4,845.3l0,-11.1c0,0,2.1,-1.2,2.1,-2.5c0,-1.2,-1.1,-6,1.1,-5.3c2.1,0.8,2.3,1.9,2.3,3.2c0,1.2,-0.6,3.8,-0.2,4.3c0.5,0.5,6.7,-0.5,7,0c0.3,0.5,0.8,1.7,0.3,2.3c-0.5,0.7,0.8,2.1,-0.5,3.5c-1.2,1.4,0,4.9,-1.2,5.6c-1.2,0.6,-10.3,1.1,-10.9,0Z" class="g17_98" />
+<path d="M881.9,1196.3l39.4,0L921.3,0L881.9,0l0,1196.3Z" class="g18_98" />
+<g clip-path="url(#c0_98)">
+<path d="M881.9,1209.2l67.2,0l0,-1222.1l-67.2,0l0,1222.1Z" class="g19_98" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 890, 802)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s27_98"
+>Lesson 13 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 874)"
+dx="0,1" 
+class="s27_98"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 888)"
+dx="0,1,1,1,1,1,1,1,1,1,0.8,1,1,1,1,1,1,1" 
+class="s27_98"
+>Asking Directions </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1009)"
+dx="0,1" 
+class="s27_98"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1022)"
+dx="0,1,1,1,1,1,1,0.8,1,1,1,0.9,1,1,1,1,1,1" 
+class="s27_98"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1158)"
+dx="0,1,-2.3" 
+class="s27_98"
+>77 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_3vl;
+	src: url("fonts/LibreFranklin-Bold_3vl.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_3xu;
+	src: url("fonts/ArialMT_3xu.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_3ru;
+	src: url("fonts/SourceHanSansCN-Regular_3ru.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3vz;
+	src: url("fonts/LibreFranklin-SemiBold_3vz.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Regular_3ri;
+	src: url("fonts/SourceHanSansTW-Regular_3ri.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3w2;
+	src: url("fonts/LibreFranklin-Regular_3w2.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3xt;
+	src: url("fonts/LibreFranklin-Medium_3xt.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3vt;
+	src: url("fonts/LibreFranklin-ExtraBold_3vt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3xs;
+	src: url("fonts/LibreFranklin-SemiBold_3xs.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3vd;
+	src: url("fonts/LibreFranklin-Medium_3vd.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

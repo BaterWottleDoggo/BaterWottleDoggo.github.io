@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 286 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_286{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_286{
+fill: #3986C6;
+}
+.g3_286{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_286{
+fill: #ACBF3B;
+}
+.g5_286{
+fill: none;
+stroke: #ED692E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_286{
+fill: #ED692E;
+}
+.g7_286{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_286{
+fill: #E2E3E5;
+}
+
+.s1_286{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d7g;
+fill: #231F20;
+}
+.s2_286{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_d7m;
+fill: #231F20;
+}
+.s3_286{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d7g;
+fill: #FFFFFF;
+}
+.s4_286{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d7g;
+fill: #231F20;
+}
+.s5_286{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_d7k;
+fill: #FFFFFF;
+}
+.s6_286{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d7j;
+fill: #231F20;
+}
+.s7_286{
+font-size: 22.92px;
+font-family: ProximaNova-Extrabld_d7k;
+fill: #ED692E;
+}
+.s8_286{
+font-size: 12.22px;
+font-family: ProximaNova-Extrabld_d7k;
+fill: #ED692E;
+}
+.s9_286{
+font-size: 12.22px;
+font-family: ProximaNova-Semibold_d7m;
+fill: #565B6E;
+}
+.s10_286{
+font-size: 18.33px;
+font-family: Alegreya-Italic_d87;
+fill: #231F20;
+}
+.s11_286{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d7o;
+fill: #231F20;
+}
+.s12_286{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="855" 
+y="1149" 
+dx="0,0,0" 
+class="s1_286"
+>263</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_286" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_286" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 843)"
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_286"
+>Chapter 11 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 909)"
+dx="0,0" 
+class="s2_286"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 920)"
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s2_286"
+>How’s It Going? </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1017)"
+dx="0,0" 
+class="s2_286"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1029)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_286"
+>Section 2</text>
+
+<path d="M107.1,768.8C97,768.8,88.8,760.6,88.8,750.4l0,-20.1l23.1,0c10.2,0,18.4,8.2,18.4,18.3l0,20.2Z" class="g2_286" />
+<path d="M94.6,730.9l361.8,0" class="g3_286" />
+<path d="M108.4,768.3l348,0" class="g3_286" />
+<text 
+x="93" 
+y="757" 
+dx="0,0,0" 
+class="s3_286"
+>2c </text>
+
+<text 
+x="135" 
+y="757" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_286"
+>Puzzle It Out </text>
+
+<path d="M310,760c-6,0,-10.9,-4.8,-10.9,-10.8l0,-10.8l144.2,0c5.9,0,10.8,4.8,10.8,10.8l0,10.8Z" class="g4_286" />
+<text 
+x="315" 
+y="753" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_286"
+>Pr´Gre²² CHeCK</text>
+
+<text 
+x="89" 
+y="810" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s6_286"
+>Complete the exercise below to check your understanding of what you learned in Section 2. If </text>
+
+<text 
+x="88" 
+y="836" 
+dx="0,-0.3,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,-0.3,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s6_286"
+>you have questions, consult the Language Reference section. </text>
+
+<text 
+x="88" 
+y="882" 
+dx="0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.3,-1.3,-0.4,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0" 
+class="s6_286"
+>Use the words in the list on the left to complete each sentence below. You will use each word </text>
+
+<text 
+x="89" 
+y="908" 
+dx="0,0,0,0,-0.3,-0.6" 
+class="s6_286"
+>twice.</text>
+
+<text 
+x="98" 
+y="186" 
+dx="0,0,0,0,-1.6,0,0,0,0,0,0" 
+class="s7_286"
+>C´MP¶rI²´µ²</text>
+
+<text 
+x="108" 
+y="205" 
+dx="0" 
+class="s8_286"
+>C</text>
+
+<text 
+x="117" 
+y="205" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s9_286"
+>OMMUNITIES</text>
+
+<text 
+x="108" 
+y="219" 
+dx="0" 
+class="s8_286"
+>C</text>
+
+<text 
+x="117" 
+y="219" 
+dx="0,0,0,0,0,0,0,-0.1,-0.8,0,0,0" 
+class="s9_286"
+>OMMUNICATION</text>
+
+<text 
+x="108" 
+y="234" 
+dx="0" 
+class="s8_286"
+>C</text>
+
+<text 
+x="117" 
+y="234" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s9_286"
+>ONNECTIONS</text>
+
+<text 
+x="108" 
+y="248" 
+dx="0" 
+class="s8_286"
+>C</text>
+
+<text 
+x="117" 
+y="248" 
+dx="0,0,-1.2,0,0,0" 
+class="s9_286"
+>ULTURE</text>
+
+<path d="M249.5,90.3l533.5,0c15.2,0,27.5,12.3,27.5,27.5l0,563.7" class="g5_286" />
+<path d="M249.5,94.9c2.5,0,4.6,-2,4.6,-4.6c0,-2.5,-2.1,-4.6,-4.6,-4.6c-2.5,0,-4.6,2.1,-4.6,4.6c0,2.6,2.1,4.6,4.6,4.6Z" class="g6_286" />
+<path d="M174,97.7l-22.9,0L147.4,110c0.6,-0.1,1.1,-0.1,1.6,-0.1c0.5,-0.1,1,-0.1,1.4,-0.1c7.2,0,13.1,2.5,17.7,7.3c4.7,4.9,7,11.1,7,18.7c0,7.8,-2.6,14.3,-7.9,19.3c-5.2,5.1,-11.9,7.6,-19.9,7.6c-9.8,0,-17.6,-4.6,-23.3,-13.8l8.5,-7.2c2.4,4,4.7,6.8,7.1,8.4c2.4,1.6,5.3,2.4,8.7,2.4c4.5,0,8.3,-1.5,11.3,-4.7c3.1,-3.2,4.6,-7.2,4.6,-11.8c0,-4.7,-1.5,-8.6,-4.5,-11.6c-3,-3.2,-6.8,-4.7,-11.3,-4.7c-5.1,0,-9.4,2.2,-13.1,6.6l-3.7,0L143.3,87.2l30.7,0Z" class="g2_286" />
+<path d="M207.2,96.3c6.9,0,13.6,2.8,20.1,8.2l0,-13.3C221.1,87.6,214.6,85.7,208,85.7c-12.3,0,-22.2,4.6,-29.9,13.7c-1.7,1.9,-3.1,4,-4.4,6.1l0,38.4c1.7,2.8,3.7,5.4,6.2,7.9c7.5,7.4,16.6,11.1,27.2,11.1c7.1,0,13.8,-1.8,20.2,-5.5l0,-13.5c-1.8,1.6,-3.5,2.9,-5.2,4c-1.7,1.1,-3.3,1.9,-4.8,2.6c-2.8,1.2,-6.1,1.9,-10.1,1.9c-7.6,0,-14.1,-2.7,-19.3,-8.1C182.6,139,180,132.4,180,124.6c0,-7.9,2.6,-14.6,7.9,-20c5.2,-5.5,11.7,-8.3,19.3,-8.3Z" class="g2_286" />
+<path d="M173.4,87.9l0,77.1" class="g7_286" />
+<path d="M174.2,255.3l-0.7,400.1c0,15.2,12.2,27.5,27.4,27.5l609.4,0" class="g7_286" />
+<path d="M810.3,687.5c2.6,0,4.6,-2.1,4.6,-4.6c0,-2.5,-2,-4.6,-4.6,-4.6c-2.5,0,-4.5,2.1,-4.5,4.6c0,2.5,2,4.6,4.5,4.6Z" class="g2_286" />
+<path d="M231.2,156.9c2.4,2.3,6.3,3.6,10.3,3.6c6.4,0,9.9,-3.2,9.9,-7.4c0,-5.7,-5.2,-6.7,-9.2,-7.5c-2.6,-0.5,-4.4,-1.1,-4.4,-2.5c0,-1.3,1.4,-2.1,3.6,-2.1c2.8,0,5.5,1.2,6.8,2.6l2.5,-4.1c-2.3,-1.8,-5.4,-3.1,-9.3,-3.1c-6.1,0,-9.4,3.3,-9.4,7.2c0,5.5,5.1,6.4,9,7.2c2.6,0.5,4.6,1.1,4.6,2.7c0,1.4,-1.2,2.3,-3.8,2.3c-2.9,0,-6.3,-1.5,-8,-3.1Z" class="g2_286" />
+<text 
+x="302" 
+y="131" 
+dx="0,-0.3,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,0" 
+class="s6_286"
+>There are certain things most Chinese students are required to </text>
+
+<text 
+x="303" 
+y="157" 
+dx="0,0,-0.8,-0.4,0,-0.4,0,0,0,-0.2,0,0,0,-1.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4" 
+class="s6_286"
+>do. Generally, Chinese students must learn a foreign language. </text>
+
+<text 
+x="302" 
+y="183" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,-0.6,-0.3,0,0.3,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0" 
+class="s6_286"
+>(The most common choice is English.) Every morning, most </text>
+
+<text 
+x="303" 
+y="209" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,-0.4,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.3,0" 
+class="s6_286"
+>students do group exercises together. And most schools have </text>
+
+<text 
+x="302" 
+y="235" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s6_286"
+>a flag-raising ceremony on Monday mornings attended by the </text>
+
+<text 
+x="302" 
+y="261" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3" 
+class="s6_286"
+>whole student body.</text>
+
+<text 
+x="301" 
+y="294" 
+dx="0,-0.4,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_286"
+>Are there things that your school requires all students to do?</text>
+
+<text 
+x="339" 
+y="662" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.4,0,0,-1.3,0,0,-0.4,0,0,0,0,0,-0.2,-0.2,-0.3,0,0,0,-0.3" 
+class="s10_286"
+>Students doing exercises in Xingtai City, Hebei Province</text>
+
+<path d="M91.4,1016.9l73.7,0l0,-36.9l-73.7,0l0,36.9Z" class="g8_286" />
+<path d="M91.4,1060.6l73.7,0l0,-36.9l-73.7,0l0,36.9Z" class="g8_286" />
+<path d="M91.4,973.1l73.7,0l0,-36.9l-73.7,0l0,36.9Z" class="g8_286" />
+<path d="M186.7,926.6l0,146.7" class="g7_286" />
+<path d="M186.7,1076.9c2,0,3.6,-1.6,3.6,-3.6c0,-2.1,-1.6,-3.7,-3.6,-3.7c-2.1,0,-3.7,1.6,-3.7,3.7c0,2,1.6,3.6,3.7,3.6Z" class="g2_286" />
+<text 
+x="208" 
+y="956" 
+dx="0" 
+class="s11_286"
+>1</text>
+
+<text 
+x="223" 
+y="959" 
+dx="0" 
+class="s12_286"
+>我</text>
+
+<path d="M263.5,968.6l82.7,0l0,-36.3l-82.7,0l0,36.3Z" class="g8_286" />
+<text 
+x="354" 
+y="959" 
+dx="0,0,0,0,0,0" 
+class="s12_286"
+>个星期五晚上</text>
+
+<path d="M549.9,968.6l82.8,0l0,-36.3l-82.8,0l0,36.3Z" class="g8_286" />
+<text 
+x="640" 
+y="959" 
+dx="0,0,0,0,0" 
+class="s12_286"
+>去看电影。</text>
+
+<text 
+x="208" 
+y="1005" 
+dx="0" 
+class="s11_286"
+>2</text>
+
+<text 
+x="225" 
+y="1008" 
+dx="0,0,0,0,0,-8,0,0,0,0,0" 
+class="s12_286"
+>爸爸说 ：“你明天一定</text>
+
+<path d="M535.6,1017.5l82.8,0l0,-36.3l-82.8,0l0,36.3Z" class="g8_286" />
+<text 
+x="626" 
+y="1008" 
+dx="0,0" 
+class="s12_286"
+>去。</text>
+
+<text 
+x="674" 
+y="1008" 
+dx="0" 
+class="s12_286"
+>”</text>
+
+<text 
+x="208" 
+y="1054" 
+dx="0" 
+class="s11_286"
+>3</text>
+
+<text 
+x="224" 
+y="1057" 
+dx="0" 
+class="s12_286"
+>她</text>
+
+<path d="M264.5,1066.4l82.8,0l0,-36.3l-82.8,0l0,36.3Z" class="g8_286" />
+<text 
+x="355" 
+y="1057" 
+dx="0" 
+class="s12_286"
+>天</text>
+
+<path d="M395.4,1066.4l82.8,0l0,-36.3l-82.8,0l0,36.3Z" class="g8_286" />
+<path d="M486.2,1066.4l82.8,0l0,-36.3l-82.8,0l0,36.3Z" class="g8_286" />
+<text 
+x="577" 
+y="1057" 
+dx="0,0,0,0" 
+class="s12_286"
+>做作业。</text>
+
+<text 
+x="107" 
+y="962" 
+dx="0" 
+class="s12_286"
+>每</text>
+
+<text 
+x="108" 
+y="1007" 
+dx="0" 
+class="s12_286"
+>都</text>
+
+<text 
+x="107" 
+y="1051" 
+dx="0" 
+class="s12_286"
+>得</text>
+
+<image preserveAspectRatio="none" x="305" y="319" width="477" height="318" xlink:href="286/img/1.png" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Alegreya-Bold_d7o;
+	src: url("fonts/Alegreya-Bold_d7o.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Italic_d87;
+	src: url("fonts/Alegreya-Italic_d87.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_d7g;
+	src: url("fonts/ProximaNova-Bold_d7g.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_d7m;
+	src: url("fonts/ProximaNova-Semibold_d7m.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_d7k;
+	src: url("fonts/ProximaNova-Extrabld_d7k.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d7j;
+	src: url("fonts/Alegreya-Regular_d7j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 203 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_203{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_203{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_203{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_203{
+fill: none;
+stroke: #A3AAC6;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_203{
+fill: none;
+stroke: #A3AAC6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_203{
+fill: #EBECF2;
+fill-opacity: 0.5;
+}
+.g7_203{
+fill: #365B8C;
+}
+.g8_203{
+fill: #CCCFDF;
+}
+.g9_203{
+fill: none;
+stroke: #365B8C;
+stroke-width: 1.1443056;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+stroke-opacity: 0.149994;
+}
+.g10_203{
+fill: none;
+stroke: #365B8C;
+stroke-width: 1.1152778;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+stroke-opacity: 0.149994;
+stroke-dasharray: 0,3;
+}
+.g11_203{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_203{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3-1;
+fill: #3F3F40;
+}
+.s2_203{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_203{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #749E3C;
+}
+.s4_203{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s5_203{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #749E3C;
+}
+.s6_203{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3-f;
+fill: #3F3F40;
+}
+.s7_203{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3-1;
+fill: #86B345;
+}
+.s8_203{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s9_203{
+font-size: 27.50px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #3F3F40;
+}
+.s10_203{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3-8;
+fill: #7AAD35;
+}
+.s11_203{
+font-size: 33.08px;
+font-family: ProximaNova-Bold_3-x;
+fill: #B1B6CC;
+}
+.s12_203{
+font-size: 20.63px;
+font-family: Museo-700_3-y;
+fill: #365B8C;
+}
+.s13_203{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_3-a;
+fill: #FFFFFF;
+}
+.s14_203{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_3-a;
+fill: #365B8C;
+}
+.s15_203{
+font-size: 44.31px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #3F3F40;
+}
+.s16_203{
+font-size: 44.31px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s17_203{
+font-size: 12.99px;
+font-family: LibreFranklin-Bold_3-8;
+fill: #FFFFFF;
+}
+.s18_203{
+font-size: 12.99px;
+font-family: LibreFranklin-Bold_3-8;
+fill: #365B8C;
+}
+.s19_203{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3-a;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M123.8,231.4l12.2,0" class="g1_203" />
+<text 
+x="174" 
+y="71" 
+dx="0,0" 
+class="s1_203"
+>3 </text>
+
+<text 
+x="244" 
+y="73" 
+dx="0,0,0,0,0,0,0" 
+class="s2_203"
+>他把房间打扫得</text>
+
+<text 
+x="426" 
+y="73" 
+dx="0,0,0,0" 
+class="s3_203"
+>一干二净</text>
+
+<text 
+x="530" 
+y="73" 
+dx="0" 
+class="s2_203"
+>。</text>
+
+<text 
+x="244" 
+y="114" 
+dx="0,0,0,0,0,0,0" 
+class="s4_203"
+>他把房間打掃得</text>
+
+<text 
+x="426" 
+y="114" 
+dx="0,0,0,0" 
+class="s5_203"
+>一乾二淨</text>
+
+<text 
+x="530" 
+y="114" 
+dx="0,0" 
+class="s4_203"
+>。 </text>
+
+<text 
+x="250" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s6_203"
+>He made the room spotless.</text>
+
+<text 
+x="123" 
+y="225" 
+dx="0,0" 
+class="s7_203"
+>D </text>
+
+<text 
+x="258" 
+y="230" 
+dx="0,0,0,0" 
+class="s8_203"
+>实际上/</text>
+
+<text 
+x="354" 
+y="230" 
+dx="0,0,0" 
+class="s9_203"
+>實際上</text>
+
+<text 
+x="444" 
+y="230" 
+dx="0,0,0,0,0,0,0,0,0,-1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0" 
+class="s10_203"
+>(actually, in fact, in reality)</text>
+
+<text 
+x="176" 
+y="316" 
+dx="0,0" 
+class="s1_203"
+>1 </text>
+
+<text 
+x="244" 
+y="318" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_203"
+>很多人以为我同屋比我大，</text>
+
+<text 
+x="556" 
+y="318" 
+dx="0,0,0" 
+class="s3_203"
+>实际上</text>
+
+<text 
+x="634" 
+y="318" 
+dx="0,0,0,0,0,0,0" 
+class="s2_203"
+>我比她大多了。</text>
+
+<text 
+x="244" 
+y="359" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_203"
+>很多人以為我同屋比我大，</text>
+
+<text 
+x="556" 
+y="359" 
+dx="0,0,0" 
+class="s5_203"
+>實際上</text>
+
+<text 
+x="634" 
+y="359" 
+dx="0,0,0,0,0,0,0" 
+class="s4_203"
+>我比她大多了。</text>
+
+<text 
+x="250" 
+y="393" 
+dx="0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_203"
+>A lot of people think my roommate is older than I am. Actually, I’m much older than </text>
+
+<text 
+x="250" 
+y="412" 
+dx="0,0,0,0,0,0,0" 
+class="s6_203"
+>she is.</text>
+
+<text 
+x="174" 
+y="471" 
+dx="0,0" 
+class="s1_203"
+>2 </text>
+
+<text 
+x="244" 
+y="473" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_203"
+>我以前一直以为整天跟数字打交道没什么意思，后来</text>
+
+<text 
+x="244" 
+y="507" 
+dx="0,0,0,0" 
+class="s2_203"
+>才知道，</text>
+
+<text 
+x="348" 
+y="507" 
+dx="0,0,0" 
+class="s3_203"
+>实际上</text>
+
+<text 
+x="426" 
+y="507" 
+dx="0,0,0,0,0,0" 
+class="s2_203"
+>挺好玩儿的。</text>
+
+<text 
+x="244" 
+y="548" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_203"
+>我以前一直以為整天跟數字打交道沒什麼意思，後来</text>
+
+<text 
+x="244" 
+y="581" 
+dx="0,0,0,0" 
+class="s4_203"
+>才知道，</text>
+
+<text 
+x="348" 
+y="581" 
+dx="0,0,0" 
+class="s5_203"
+>實際上</text>
+
+<text 
+x="426" 
+y="581" 
+dx="0,0,0,0,0,0" 
+class="s4_203"
+>挺好玩兒的。</text>
+
+<text 
+x="250" 
+y="615" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_203"
+>I always had a misconception that it was boring to handle numbers and figures all </text>
+
+<text 
+x="250" 
+y="635" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_203"
+>day long. I got to know later that it was actually quite fun.</text>
+
+<text 
+x="174" 
+y="693" 
+dx="0,0" 
+class="s1_203"
+>3 </text>
+
+<text 
+x="244" 
+y="696" 
+dx="0,0" 
+class="s2_203"
+>小王</text>
+
+<text 
+x="296" 
+y="696" 
+dx="0,0,0" 
+class="s3_203"
+>实际上</text>
+
+<text 
+x="374" 
+y="696" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_203"
+>学分已经够了，但他还想选两门电脑课，</text>
+
+<text 
+x="244" 
+y="729" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_203"
+>明年春天再毕业。</text>
+
+<text 
+x="244" 
+y="770" 
+dx="0,0" 
+class="s4_203"
+>小王</text>
+
+<text 
+x="296" 
+y="770" 
+dx="0,0,0" 
+class="s5_203"
+>實際上</text>
+
+<text 
+x="374" 
+y="770" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_203"
+>學分已經夠了，但他還想選兩門電腦課，</text>
+
+<text 
+x="244" 
+y="803" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_203"
+>明年春天再畢業。</text>
+
+<text 
+x="250" 
+y="837" 
+dx="0,0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_203"
+>Little Wang actually has enough credits already, but he wants to take two more </text>
+
+<text 
+x="250" 
+y="857" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.3,-0.2,0,0,0,0,0,0,0,0" 
+class="s6_203"
+>courses in computer science and graduate next spring.</text>
+
+<path d="M169,48c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7C199,55.6,198.9,48,191.4,48L169,48Z" class="g2_203" />
+<path d="M169,50.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_203" />
+<path d="M151.2,195l0,53.5l0,0.7l0.8,0l676.9,0l0.7,0l0,-0.7l0,-53.5l0,-0.8l-0.7,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_203" />
+<path d="M153.2,247.2l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_203" />
+<path d="M169,293.2c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_203" />
+<path d="M169,295.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_203" />
+<path d="M169,448.3c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.6c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7L199,456c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_203" />
+<path d="M169,450.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.6c0,0.6,0.2,5.7,5.6,5.7l22.4,0c0.5,-0.1,5.6,-0.3,5.6,-5.7L197,456c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_203" />
+<path d="M169,670.6c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_203" />
+<path d="M169,672.6c-0.6,0,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_203" />
+<path d="M92.3,958.7l-51.4,0" class="g4_203" />
+<path d="M276.1,966.5l0,-29.2l-183.8,0l0,41.4l37.6,0" class="g5_203" />
+<text 
+x="233" 
+y="967" 
+dx="0,0,0" 
+class="s11_203"
+>it!</text>
+
+<text 
+x="102" 
+y="962" 
+dx="0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s12_203"
+>Characterize</text>
+
+<path d="M135.7,1117l180.8,0l0,-144.6l-180.8,0l0,144.6Z" class="g6_203" />
+<path d="M598.8,1117l180.8,0l0,-144.6l-180.8,0l0,144.6Z" class="g6_203" />
+<path d="M316.1,1037.2l282.7,0l0,-32.3l-282.7,0l0,32.3Z" class="g7_203" />
+<path d="M316.1,1084.5l282.7,0l0,-47.3l-282.7,0l0,47.3Z" class="g8_203" />
+<text 
+x="359" 
+y="1026" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s13_203"
+>Identify the common radical. </text>
+
+<text 
+x="342" 
+y="1057" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0" 
+class="s14_203"
+>How does the radical relate to the </text>
+
+<text 
+x="338" 
+y="1075" 
+dx="0,-0.4,-0.4,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0" 
+class="s14_203"
+>overall meaning of the characters?</text>
+
+<path d="M626.5,1037.9l52.9,0l0,-52.9l-52.9,0l0,52.9Z" class="g9_203" />
+<path d="M653,988.3l0,47.4" class="g10_203" />
+<path d="M676.1,1011.5l-47.4,0" class="g10_203" />
+<path d="M676.2,988.2l-47.3,47.3" class="g10_203" />
+<path d="M676.2,1034.7L628.9,987.4" class="g10_203" />
+<text 
+x="630" 
+y="1025" 
+dx="0" 
+class="s15_203"
+>想</text>
+
+<path d="M626.5,1109.6l52.9,0l0,-52.8l-52.9,0l0,52.8Z" class="g9_203" />
+<path d="M653,1060.1l0,47.4" class="g10_203" />
+<path d="M676.1,1083.2l-47.4,0" class="g10_203" />
+<path d="M676.2,1060l-47.3,47.3" class="g10_203" />
+<path d="M676.2,1106.5l-47.3,-47.3" class="g10_203" />
+<text 
+x="630" 
+y="1096" 
+dx="0" 
+class="s15_203"
+>意</text>
+
+<path d="M241.4,1039.4l52.9,0l0,-52.8l-52.9,0l0,52.8Z" class="g9_203" />
+<path d="M267.8,989.8l0,47.5" class="g10_203" />
+<path d="M291,1013l-47.4,0" class="g10_203" />
+<path d="M291.1,989.8l-47.3,47.3" class="g10_203" />
+<path d="M291.1,1036.2L243.8,989" class="g10_203" />
+<text 
+x="245" 
+y="1026" 
+dx="0" 
+class="s16_203"
+>态</text>
+
+<path d="M241.4,1108.1l52.9,0l0,-52.9l-52.9,0l0,52.9Z" class="g9_203" />
+<path d="M267.8,1058.5l0,47.5" class="g10_203" />
+<path d="M291,1081.7l-47.4,0" class="g10_203" />
+<path d="M291.1,1058.4l-47.3,47.3" class="g10_203" />
+<path d="M291.1,1104.9l-47.3,-47.3" class="g10_203" />
+<text 
+x="245" 
+y="1095" 
+dx="0" 
+class="s16_203"
+>虑</text>
+
+<path d="M160,1039.4l52.9,0l0,-52.8l-52.9,0l0,52.8Z" class="g9_203" />
+<path d="M186.4,989.8l0,47.5" class="g10_203" />
+<path d="M209.6,1013l-47.4,0" class="g10_203" />
+<path d="M209.7,989.8l-47.3,47.3" class="g10_203" />
+<path d="M209.7,1036.2L162.4,989" class="g10_203" />
+<text 
+x="164" 
+y="1026" 
+dx="0,0" 
+class="s16_203"
+>想 </text>
+
+<path d="M160,1108.1l52.9,0l0,-52.9l-52.9,0l0,52.9Z" class="g9_203" />
+<path d="M186.4,1058.5l0,47.5" class="g10_203" />
+<path d="M209.6,1081.7l-47.4,0" class="g10_203" />
+<path d="M209.7,1058.4l-47.3,47.3" class="g10_203" />
+<path d="M209.7,1104.9l-47.3,-47.3" class="g10_203" />
+<text 
+x="164" 
+y="1095" 
+dx="0" 
+class="s16_203"
+>意</text>
+
+<path d="M707.1,1037.9l52.8,0l0,-52.9l-52.8,0l0,52.9Z" class="g9_203" />
+<path d="M733.5,988.3l0,47.4" class="g10_203" />
+<path d="M756.6,1011.5l-47.4,0" class="g10_203" />
+<path d="M756.7,988.2l-47.3,47.3" class="g10_203" />
+<path d="M756.7,1034.7L709.4,987.4" class="g10_203" />
+<text 
+x="711" 
+y="1025" 
+dx="0" 
+class="s15_203"
+>態</text>
+
+<path d="M707.1,1109.6l52.8,0l0,-52.8l-52.8,0l0,52.8Z" class="g9_203" />
+<path d="M733.5,1060.1l0,47.4" class="g10_203" />
+<path d="M756.6,1083.2l-47.4,0" class="g10_203" />
+<path d="M756.7,1060l-47.3,47.3" class="g10_203" />
+<path d="M756.7,1106.5l-47.3,-47.3" class="g10_203" />
+<text 
+x="711" 
+y="1096" 
+dx="0" 
+class="s15_203"
+>慮</text>
+
+<path d="M157,997.7c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.8,-8.7,-8.8c-4.8,0,-8.7,4,-8.7,8.8c0,4.8,3.9,8.7,8.7,8.7Z" class="g7_203" />
+<text 
+x="153" 
+y="993" 
+dx="0" 
+class="s17_203"
+>1</text>
+
+<path d="M157,1066.7c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.9,-3.9,-8.8,-8.7,-8.8c-4.8,0,-8.7,3.9,-8.7,8.8c0,4.8,3.9,8.7,8.7,8.7Z" class="g7_203" />
+<text 
+x="152" 
+y="1062" 
+dx="0" 
+class="s17_203"
+>3</text>
+
+<path d="M238.4,997.7c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.8,-8.7,-8.8c-4.8,0,-8.7,4,-8.7,8.8c0,4.8,3.9,8.7,8.7,8.7Z" class="g7_203" />
+<text 
+x="234" 
+y="993" 
+dx="0" 
+class="s17_203"
+>2</text>
+
+<path d="M238.4,1066.7c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.9,-3.9,-8.8,-8.7,-8.8c-4.8,0,-8.7,3.9,-8.7,8.8c0,4.8,3.9,8.7,8.7,8.7Z" class="g7_203" />
+<text 
+x="233" 
+y="1062" 
+dx="0" 
+class="s17_203"
+>4</text>
+
+<path d="M622.8,996.6c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.8,-8.7,-8.8c-4.8,0,-8.7,4,-8.7,8.8c0,4.8,3.9,8.7,8.7,8.7Z" class="g8_203" />
+<text 
+x="619" 
+y="992" 
+dx="0" 
+class="s18_203"
+>1</text>
+
+<path d="M622.8,1069.5c4.8,0,8.7,-4,8.7,-8.8c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.8,3.9,8.8,8.7,8.8Z" class="g8_203" />
+<text 
+x="618" 
+y="1065" 
+dx="0" 
+class="s18_203"
+>3</text>
+
+<path d="M704.2,996.6c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.8,-8.7,-8.8c-4.8,0,-8.7,4,-8.7,8.8c0,4.8,3.9,8.7,8.7,8.7Z" class="g8_203" />
+<text 
+x="700" 
+y="992" 
+dx="0" 
+class="s18_203"
+>2</text>
+
+<path d="M704.2,1069.5c4.8,0,8.7,-4,8.7,-8.8c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.8,3.9,8.8,8.7,8.8Z" class="g8_203" />
+<text 
+x="699" 
+y="1065" 
+dx="0" 
+class="s18_203"
+>4</text>
+
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g11_203" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s19_203"
+>180 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1129)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s19_203"
+>Integrated Chinese 3 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 989)"
+dx="0,1" 
+class="s19_203"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 975)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s19_203"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3-8;
+	src: url("fonts/LibreFranklin-Bold_3-8.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3-a;
+	src: url("fonts/LibreFranklin-SemiBold_3-a.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_3-x;
+	src: url("fonts/ProximaNova-Bold_3-x.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3-f;
+	src: url("fonts/LibreFranklin-Regular_3-f.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3-1;
+	src: url("fonts/LibreFranklin-ExtraBold_3-1.woff") format("woff");
+}
+
+@font-face {
+	font-family: Museo-700_3-y;
+	src: url("fonts/Museo-700_3-y.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

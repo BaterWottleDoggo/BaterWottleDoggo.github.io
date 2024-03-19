@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 273 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_273{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_273{
+fill: #3986C6;
+}
+.g3_273{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_273{
+fill: #ACBF3B;
+}
+
+.s1_273{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_d64;
+fill: #231F20;
+}
+.s2_273{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s3_273{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d5-;
+fill: #3986C6;
+}
+.s4_273{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d61;
+fill: #231F20;
+}
+.s5_273{
+font-size: 21.35px;
+font-family: STXinwei_cgn;
+fill: #231F20;
+}
+.s6_273{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d66;
+fill: #3986C6;
+}
+.s7_273{
+font-size: 24.44px;
+font-family: STKaiti-SC-Bold_cqx;
+fill: #FFFFFF;
+}
+.s8_273{
+font-size: 25.79px;
+font-family: STKaiti-SC-Bold_cqx;
+fill: #FFFFFF;
+}
+.s9_273{
+font-size: 24.38px;
+font-family: STKaiti-SC-Bold_cqx;
+fill: #CA5744;
+}
+.s10_273{
+font-size: 28.85px;
+font-family: STKaiti-SC-Bold_cqx;
+fill: #FFFFFF;
+}
+.s11_273{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s12_273{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d5-;
+fill: #FFFFFF;
+}
+.s13_273{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s14_273{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_d62;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_273"
+>Go Far with Chinese</text>
+
+<text 
+x="32" 
+y="1149" 
+dx="0,0,0" 
+class="s2_273"
+>250</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_273" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_273" />
+<text 
+x="110" 
+y="101" 
+dx="0,-0.4,0,0,0,0,0,0,0,0" 
+class="s3_273"
+>Passage 2 </text>
+
+<text 
+x="204" 
+y="101" 
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s4_273"
+>Your friend recently bought this shirt because she </text>
+
+<text 
+x="110" 
+y="127" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s4_273"
+>liked the design. But she doesn’t know Chinese and wants to </text>
+
+<text 
+x="110" 
+y="153" 
+dx="0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s4_273"
+>know what it means! What does the writing say? </text>
+
+<image preserveAspectRatio="none" x="631" y="82" width="150" height="47" xlink:href="273/img/1.png" />
+<image preserveAspectRatio="none" x="781" y="82" width="51" height="141" xlink:href="273/img/2.png" />
+<image preserveAspectRatio="none" x="631" y="129" width="150" height="47" xlink:href="273/img/3.png" />
+<image preserveAspectRatio="none" x="631" y="176" width="150" height="47" xlink:href="273/img/4.png" />
+<image preserveAspectRatio="none" x="726" y="136" width="75" height="82" xlink:href="273/img/5.png" />
+<text 
+x="664" 
+y="165" 
+dx="0,-1.1,-1.1" 
+class="s5_273"
+>我今天</text>
+
+<text 
+x="664" 
+y="188" 
+dx="0,-1.1,-1.1,-1.1" 
+class="s5_273"
+>不太高兴</text>
+
+<text 
+x="110" 
+y="265" 
+dx="0,-0.4,0,0,0,0,0,0,0" 
+class="s3_273"
+>Passage 3</text>
+
+<text 
+x="204" 
+y="265" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-1.5" 
+class="s4_273"
+>Listen to the conversation and answer the questions on a separate piece of paper.</text>
+
+<text 
+x="110" 
+y="298" 
+dx="0" 
+class="s6_273"
+>1</text>
+
+<text 
+x="126" 
+y="298" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s4_273"
+>What does Leo think of science class?</text>
+
+<text 
+x="130" 
+y="331" 
+dx="0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_273"
+>(a) extremely simple</text>
+
+<text 
+x="130" 
+y="357" 
+dx="0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2" 
+class="s4_273"
+>(b) extremely hard</text>
+
+<text 
+x="130" 
+y="383" 
+dx="0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_273"
+>(c) extremely important</text>
+
+<image preserveAspectRatio="none" x="108" y="931" width="159" height="198" xlink:href="273/img/6.png" />
+<text 
+x="124" 
+y="1017" 
+dx="0,0,0,0,0" 
+class="s7_273"
+>中国文学史</text>
+
+<image preserveAspectRatio="none" x="296" y="931" width="159" height="209" xlink:href="273/img/7.png" />
+<text 
+x="347" 
+y="1022" 
+dx="0,0,0" 
+class="s8_273"
+>科学史</text>
+
+<image preserveAspectRatio="none" x="665" y="931" width="194" height="225" xlink:href="273/img/8.png" />
+<text 
+x="688" 
+y="1017" 
+dx="0,0,0,0,0" 
+class="s9_273"
+>美国电视史</text>
+
+<image preserveAspectRatio="none" x="481" y="927" width="159" height="244" xlink:href="273/img/9.png" />
+<text 
+x="488" 
+y="1030" 
+dx="0,-0.3,-0.3,-0.3,-0.3" 
+class="s10_273"
+>中国音乐史</text>
+
+<text 
+x="110" 
+y="424" 
+dx="0,0" 
+class="s6_273"
+>2 </text>
+
+<text 
+x="128" 
+y="424" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s4_273"
+>Which class does Ellen think is more difficult than science class? </text>
+
+<text 
+x="130" 
+y="457" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2" 
+class="s4_273"
+>(a) American literature</text>
+
+<text 
+x="130" 
+y="483" 
+dx="0,0,0,0,0,0,0,0,0,0,0.3" 
+class="s4_273"
+>(b) history</text>
+
+<text 
+x="130" 
+y="509" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_273"
+>(c) math</text>
+
+<text 
+x="109" 
+y="548" 
+dx="0,0" 
+class="s6_273"
+>3 </text>
+
+<text 
+x="127" 
+y="548" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_273"
+>Which subject is most interesting to Leo? </text>
+
+<text 
+x="130" 
+y="581" 
+dx="0,0,0,0,0,0,0,0,0,0,0.3" 
+class="s4_273"
+>(a) history</text>
+
+<text 
+x="130" 
+y="607" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_273"
+>(b) Chinese </text>
+
+<text 
+x="130" 
+y="633" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_273"
+>(c) math </text>
+
+<path d="M129.9,729c-10.2,0,-18.4,-8.2,-18.4,-18.3l0,-20.1l23.2,0c10.1,0,18.3,8.2,18.3,18.3l0,20.1Z" class="g2_273" />
+<text 
+x="110" 
+y="768" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0.3,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0,0,0,-0.4,-0.4,0,-0.2,0,0,-0.3,0,0,0,-0.2,0" 
+class="s4_273"
+>Imagine that your school library plans to expand its collection of history books. Below are </text>
+
+<text 
+x="112" 
+y="794" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.2,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.9,0,0,0,-0.4,-0.4,0,0,0,0,-0.6,-0.4" 
+class="s4_273"
+>some books being considered. (Hint: Chinese uses abbreviations in situations. For example, </text>
+
+<text 
+x="108" 
+y="820" 
+dx="0,0" 
+class="s11_273"
+>历史</text>
+
+<text 
+x="158" 
+y="820" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s4_273"
+>can be abbreviated as </text>
+
+<text 
+x="327" 
+y="820" 
+dx="0" 
+class="s11_273"
+>史</text>
+
+<text 
+x="354" 
+y="820" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.2,0,0,0,-0.2,0,0,0,-0.4,-0.4,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s4_273"
+>in book titles.) In groups, tell your classmates which two </text>
+
+<text 
+x="111" 
+y="846" 
+dx="0,0,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s4_273"
+>books you want to read and why you think they are a better choice compared to the other two </text>
+
+<text 
+x="111" 
+y="872" 
+dx="0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,-0.3,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,-0.4,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_273"
+>books. After discussing your group mates’ preferences and reasons, agree on two books as a </text>
+
+<text 
+x="111" 
+y="898" 
+dx="0,0,-0.2,0,0,-0.8,-0.4,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4" 
+class="s4_273"
+>group. Then explain your choices to the class. </text>
+
+<path d="M120.9,691.2l305.6,0" class="g3_273" />
+<path d="M134.7,728.7l291.8,0" class="g3_273" />
+<text 
+x="121" 
+y="717" 
+dx="0,0" 
+class="s12_273"
+>B </text>
+
+<text 
+x="162" 
+y="717" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s13_273"
+>Speaking </text>
+
+<path d="M296.3,721.9c-6,0,-10.9,-4.8,-10.9,-10.8l0,-10.8l131.1,0c5.9,0,10.8,4.8,10.8,10.8l0,10.8Z" class="g4_273" />
+<path d="M297.6,719.3l119.4,0l0,-15.2l-119.4,0l0,15.2Z" class="g4_273" />
+<text 
+x="301" 
+y="715" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_273"
+>i´T²rP²r±³´µ¶</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_d64;
+	src: url("fonts/ProximaNova-Semibold_d64.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_d5-;
+	src: url("fonts/ProximaNova-Bold_d5-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: STXinwei_cgn;
+	src: url("fonts/STXinwei_cgn.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_d62;
+	src: url("fonts/ProximaNova-Extrabld_d62.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d61;
+	src: url("fonts/Alegreya-Regular_d61.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_d66;
+	src: url("fonts/Alegreya-Bold_d66.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cqx;
+	src: url("fonts/STKaiti-SC-Bold_cqx.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

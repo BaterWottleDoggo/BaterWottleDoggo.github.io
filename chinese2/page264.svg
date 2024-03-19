@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 285 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_285{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_285{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_285{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_285{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_35m;
+fill: #3F3F40;
+}
+.s2_285{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_35e;
+fill: #939598;
+}
+.s3_285{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s4_285{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s5_285{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s6_285{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s7_285{
+font-size: 15.28px;
+font-family: ProximaNova-Light_35x;
+fill: #3F3F40;
+}
+.s8_285{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_35e;
+fill: #007598;
+}
+.s9_285{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s10_285{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_35r;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="155" 
+y="75" 
+dx="0,0" 
+class="s1_285"
+>B </text>
+
+<text 
+x="198" 
+y="76" 
+dx="0,0,0" 
+class="s2_285"
+>Q: </text>
+
+<text 
+x="224" 
+y="78" 
+dx="0,0,0,0,0,0,0" 
+class="s3_285"
+>你周末想看电影</text>
+
+<text 
+x="449" 
+y="78" 
+dx="0,0" 
+class="s4_285"
+>还是</text>
+
+<text 
+x="513" 
+y="78" 
+dx="0,0,0" 
+class="s3_285"
+>跳舞？</text>
+
+<text 
+x="230" 
+y="115" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_285"
+>Nǐ zhōumò xiǎng kàn diànyǐng </text>
+
+<text 
+x="424" 
+y="115" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_285"
+>háishi </text>
+
+<text 
+x="465" 
+y="115" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_285"
+>tiào wǔ?</text>
+
+<text 
+x="230" 
+y="147" 
+dx="0,-0.6,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s7_285"
+>Would you like to see a movie or go dancing this weekend?</text>
+
+<text 
+x="198" 
+y="217" 
+dx="0,0" 
+class="s2_285"
+>A:</text>
+
+<text 
+x="224" 
+y="219" 
+dx="0,0,0" 
+class="s3_285"
+>看电影</text>
+
+<text 
+x="320" 
+y="219" 
+dx="0,0" 
+class="s4_285"
+>或者</text>
+
+<text 
+x="385" 
+y="219" 
+dx="0,0,0,0,0" 
+class="s3_285"
+>跳舞都行。</text>
+
+<text 
+x="230" 
+y="256" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_285"
+>Kàn diànyǐng </text>
+
+<text 
+x="319" 
+y="256" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_285"
+>huòzhě </text>
+
+<text 
+x="366" 
+y="256" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_285"
+>tiào wǔ dōu xíng.</text>
+
+<text 
+x="230" 
+y="288" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s7_285"
+>Either seeing a movie or going dancing would be fine with me.</text>
+
+<text 
+x="155" 
+y="357" 
+dx="0,0" 
+class="s1_285"
+>C </text>
+
+<text 
+x="198" 
+y="358" 
+dx="0,0,0" 
+class="s2_285"
+>Q: </text>
+
+<text 
+x="224" 
+y="359" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_285"
+>你喜欢什么颜色的鞋？黑色的</text>
+
+<text 
+x="641" 
+y="359" 
+dx="0,0" 
+class="s4_285"
+>还是</text>
+
+<text 
+x="705" 
+y="359" 
+dx="0,0,0,0,0" 
+class="s3_285"
+>咖啡色的？</text>
+
+<text 
+x="230" 
+y="397" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_285"
+>Nǐ xǐhuan shénme yánsè de xié? Hēisè de </text>
+
+<text 
+x="489" 
+y="397" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_285"
+>háishi </text>
+
+<text 
+x="529" 
+y="397" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_285"
+>kāfēisè de?</text>
+
+<text 
+x="230" 
+y="429" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5" 
+class="s7_285"
+>What color shoes do you like? Black or brown?</text>
+
+<text 
+x="198" 
+y="499" 
+dx="0,0" 
+class="s2_285"
+>A:</text>
+
+<text 
+x="224" 
+y="500" 
+dx="0,0,0" 
+class="s3_285"
+>黑色的</text>
+
+<text 
+x="320" 
+y="500" 
+dx="0,0" 
+class="s4_285"
+>或者</text>
+
+<text 
+x="385" 
+y="500" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_285"
+>咖啡色的我都不喜欢，</text>
+
+<text 
+x="224" 
+y="539" 
+dx="0,0,0,0,0,0" 
+class="s3_285"
+>我喜欢白的。</text>
+
+<text 
+x="230" 
+y="576" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_285"
+>Hēisè de </text>
+
+<text 
+x="288" 
+y="576" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_285"
+>huòzhě </text>
+
+<text 
+x="335" 
+y="576" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_285"
+>kāfēisè de wǒ dōu bù xǐhuan, wǒ xǐhuan bái de.</text>
+
+<text 
+x="230" 
+y="608" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_285"
+>I don’t like either black or brown; I like white ones.</text>
+
+<text 
+x="154" 
+y="672" 
+dx="0,0" 
+class="s1_285"
+>D </text>
+
+<text 
+x="220" 
+y="674" 
+dx="0,0,0,0,0,0" 
+class="s3_285"
+>明天你去开会</text>
+
+<text 
+x="412" 
+y="674" 
+dx="0,0" 
+class="s4_285"
+>或者</text>
+
+<text 
+x="476" 
+y="674" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_285"
+>小高去开会都可以。</text>
+
+<text 
+x="224" 
+y="711" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_285"
+>Míngtiān nǐ qù kāi huì </text>
+
+<text 
+x="369" 
+y="711" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_285"
+>huòzhě </text>
+
+<text 
+x="416" 
+y="711" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_285"
+>Xiǎo Gāo qù kāi huì dōu kěyǐ.</text>
+
+<text 
+x="224" 
+y="743" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0" 
+class="s7_285"
+>Either you or Little Gao may attend tomorrow’s meeting.</text>
+
+<text 
+x="143" 
+y="800" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_285"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="827" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_285"
+>Connect these words to form a question or a statement by inserting either </text>
+
+<text 
+x="632" 
+y="827" 
+dx="0,0" 
+class="s9_285"
+>或者</text>
+
+<text 
+x="679" 
+y="827" 
+dx="0,0,0" 
+class="s7_285"
+>or </text>
+
+<text 
+x="697" 
+y="827" 
+dx="0,0" 
+class="s9_285"
+>还是</text>
+
+<text 
+x="743" 
+y="827" 
+dx="0,0,0" 
+class="s7_285"
+>as </text>
+
+<text 
+x="143" 
+y="855" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.4,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.1" 
+class="s7_285"
+>appropriate. Use exercise 1 as an example.</text>
+
+<text 
+x="145" 
+y="898" 
+dx="0,0" 
+class="s2_285"
+>1 </text>
+
+<text 
+x="187" 
+y="899" 
+dx="0,0,0,0,0,0" 
+class="s3_285"
+>今天晚上我们</text>
+
+<text 
+x="409" 
+y="899" 
+dx="0,0,0" 
+class="s3_285"
+>去跳舞</text>
+
+<text 
+x="533" 
+y="899" 
+dx="0,0,0" 
+class="s3_285"
+>去打球</text>
+
+<text 
+x="187" 
+y="944" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_285"
+>→ 今天晚上我们去跳舞或者去打球。</text>
+
+<text 
+x="145" 
+y="986" 
+dx="0,0" 
+class="s2_285"
+>2 </text>
+
+<text 
+x="187" 
+y="988" 
+dx="0,0,0,0" 
+class="s3_285"
+>白医生想</text>
+
+<text 
+x="409" 
+y="988" 
+dx="0,0,0" 
+class="s3_285"
+>坐地铁</text>
+
+<text 
+x="533" 
+y="988" 
+dx="0,0,0,0,0,0,8.8,0,0" 
+class="s3_285"
+>坐公共汽车 去机场</text>
+
+<text 
+x="145" 
+y="1031" 
+dx="0,0" 
+class="s2_285"
+>3 </text>
+
+<text 
+x="187" 
+y="1032" 
+dx="0,0,0" 
+class="s3_285"
+>高文中</text>
+
+<text 
+x="409" 
+y="1032" 
+dx="0,0,0" 
+class="s3_285"
+>星期五</text>
+
+<text 
+x="533" 
+y="1032" 
+dx="0,0,0" 
+class="s3_285"
+>星期六</text>
+
+<text 
+x="710" 
+y="1032" 
+dx="0,0" 
+class="s3_285"
+>请客</text>
+
+<path d="M150.2,52.4c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_285" />
+<path d="M150.2,54.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_285" />
+<path d="M149.1,334.3c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.6c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.6c0,-0.1,0,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_285" />
+<path d="M149.1,336.3c-0.6,0.1,-5.6,0.3,-5.6,5.7l0,19.6c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.6c0,-0.6,-0.2,-5.7,-5.6,-5.7l-22.4,0Z" class="g2_285" />
+<path d="M149.1,648.9c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_285" />
+<path d="M149.1,650.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_285" />
+<path d="M-22.1,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g3_285" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3,0.3" 
+class="s10_285"
+>264 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1135)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s10_285"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1014)"
+dx="0,0.3" 
+class="s10_285"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1001)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s10_285"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_35e;
+	src: url("fonts/ProximaNova-Bold_35e.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_35r;
+	src: url("fonts/ProximaNova-Semibold_35r.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_35x;
+	src: url("fonts/ProximaNova-Light_35x.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_35m;
+	src: url("fonts/ProximaNova-Extrabld_35m.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

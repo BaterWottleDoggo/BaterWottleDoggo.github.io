@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 284 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_284"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_284{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g2_284{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g3_284{
+fill: #4055A4;
+}
+.g4_284{
+fill: none;
+stroke: #DCDDDF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_284{
+fill: #4055A4;
+stroke: #DCDDDF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_284{
+fill: #FFFFFF;
+fill-opacity: 0.880005;
+}
+.g7_284{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_284{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7654167;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_284{
+font-size: 32.85px;
+font-family: LibreFranklin-ExtraBold_42g;
+fill: #4055A4;
+}
+.s2_284{
+font-size: 27.50px;
+font-family: SourceHanSansCN-Medium_3p3;
+fill: #FFFFFF;
+}
+.s3_284{
+font-size: 27.50px;
+font-family: SourceHanSansTW-Medium_3ps;
+fill: #FFFFFF;
+}
+.s4_284{
+font-size: 148.19px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #4055A4;
+}
+.s5_284{
+font-size: 36.67px;
+font-family: MuseoSlab-900_42l;
+fill: #FFFFFF;
+}
+.s6_284{
+font-size: 22.92px;
+font-family: LibreFranklin-ExtraBold_42g;
+fill: #FFFFFF;
+}
+.s7_284{
+font-size: 14.51px;
+font-family: LibreFranklin-Bold_42j;
+fill: #231F20;
+}
+.s8_284{
+font-size: 15.28px;
+font-family: Wingdings2_3pi;
+fill: #E5C354;
+}
+.s9_284{
+font-size: 13.37px;
+font-family: LibreFranklin-Medium_42h;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image preserveAspectRatio="none" x="18" y="20" width="881" height="913" xlink:href="284/img/1.png" />
+<image preserveAspectRatio="none" x="17" y="796" width="881" height="141" xlink:href="284/img/2.png" />
+<g clip-path="url(#c0_284)">
+<path d="M670,134.3l302.8,0" class="g1_284" />
+<path d="M670,136.4l302.8,0" class="g2_284" />
+</g>
+<path d="M721.9,152.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.5,3.6,3.5l118.6,0c0,0,3.6,0,3.6,-3.5l0,-42.1c0,0,0,-3.5,-3.6,-3.5Z" class="g3_284" />
+<path d="M721.9,152.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.5,3.6,3.5l118.6,0c0,0,3.6,0,3.6,-3.5l0,-42.1c0,0,0,-3.5,-3.6,-3.5l-118.6,0Z" class="g4_284" />
+<path d="M721.9,212.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.6,3.6,3.6l118.6,0c0,0,3.6,0,3.6,-3.6l0,-42.1c0,0,0,-3.5,-3.6,-3.5Z" class="g3_284" />
+<path d="M721.9,212.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.6,3.6,3.6l118.6,0c0,0,3.6,0,3.6,-3.6l0,-42.1c0,0,0,-3.5,-3.6,-3.5l-118.6,0Z" class="g4_284" />
+<path d="M473.2,956.6l310.4,0l0,-46l-310.4,0l0,46Z" class="g5_284" />
+<path d="M133.2,956.6l310.4,0l0,-46l-310.4,0l0,46Z" class="g5_284" />
+<text 
+x="708" 
+y="117" 
+dx="0,0,0,0,0,0,0,0" 
+class="s1_284"
+>Lesson 9</text>
+
+<text 
+x="740" 
+y="187" 
+dx="0,-1.4,-1.4" 
+class="s2_284"
+>第九课</text>
+
+<text 
+x="740" 
+y="248" 
+dx="0,-1.4,-1.4" 
+class="s3_284"
+>第九課</text>
+
+<path d="M147,601.4c0,0,-13.8,0,-13.8,13.8l0,152.4c0,0,0,13.7,13.8,13.7l622.9,0c0,0,13.7,0,13.7,-13.7l0,-152.4c0,0,0,-13.8,-13.7,-13.8Z" class="g6_284" />
+<text 
+x="310" 
+y="735" 
+dx="0,0" 
+class="s4_284"
+>教育</text>
+
+<text 
+x="339" 
+y="854" 
+dx="0,0,0,0,0,-1.8,0,0,0" 
+class="s5_284"
+>EDUCATION</text>
+
+<path d="M136.1,811l0,60.8l0,1.1l1.2,0l645.8,0l1.2,0l0,-1.1l0,-60.8l0,-1.2l-1.2,0l-645.8,0l-1.2,0l0,1.2Z" class="g7_284" />
+<path d="M139.2,869.9l642,0l0,-57l-642,0l0,57Z" class="g8_284" />
+<text 
+x="175" 
+y="939" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.5,0.2" 
+class="s6_284"
+>Learning Objectives</text>
+
+<text 
+x="161" 
+y="987" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_284"
+>In this lesson, you will learn to:</text>
+
+<text 
+x="163" 
+y="1012" 
+dx="0" 
+class="s8_284"
+>y</text>
+
+<text 
+x="182" 
+y="1012" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.6,-0.1,0" 
+class="s9_284"
+>Comment on whether your parents packed </text>
+
+<text 
+x="182" 
+y="1030" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s9_284"
+>your schedule with activities as a child</text>
+
+<text 
+x="163" 
+y="1052" 
+dx="0" 
+class="s8_284"
+>y</text>
+
+<text 
+x="182" 
+y="1052" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.3,0,-0.2,0,0,0,0,0" 
+class="s9_284"
+>Describe some typical classes offered in </text>
+
+<text 
+x="182" 
+y="1070" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0" 
+class="s9_284"
+>afterschool programs</text>
+
+<text 
+x="163" 
+y="1091" 
+dx="0" 
+class="s8_284"
+>y</text>
+
+<text 
+x="182" 
+y="1091" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s9_284"
+>Indicate agreement or disagreement</text>
+
+<text 
+x="163" 
+y="1113" 
+dx="0" 
+class="s8_284"
+>y</text>
+
+<text 
+x="182" 
+y="1113" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.8,0" 
+class="s9_284"
+>Present your opinions on children’s </text>
+
+<text 
+x="182" 
+y="1131" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_284"
+>education</text>
+
+<text 
+x="163" 
+y="1153" 
+dx="0" 
+class="s8_284"
+>y</text>
+
+<text 
+x="182" 
+y="1153" 
+dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s9_284"
+>Talk about parents’ aspirations for </text>
+
+<text 
+x="182" 
+y="1171" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s9_284"
+>their children</text>
+
+<text 
+x="517" 
+y="939" 
+dx="0,0.2,0.2,0.2,0.2,-0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s6_284"
+>Relate &amp; Get Ready</text>
+
+<text 
+x="500" 
+y="987" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_284"
+>In your own culture/community:</text>
+
+<text 
+x="502" 
+y="1012" 
+dx="0" 
+class="s8_284"
+>y</text>
+
+<text 
+x="521" 
+y="1012" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s9_284"
+>Is it common for parents to enroll their </text>
+
+<text 
+x="521" 
+y="1030" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0" 
+class="s9_284"
+>children in afterschool programs?</text>
+
+<text 
+x="502" 
+y="1052" 
+dx="0" 
+class="s8_284"
+>y</text>
+
+<text 
+x="521" 
+y="1052" 
+dx="0,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.2,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1" 
+class="s9_284"
+>Do many people pursue graduate degrees?</text>
+
+<text 
+x="502" 
+y="1073" 
+dx="0" 
+class="s8_284"
+>y</text>
+
+<text 
+x="521" 
+y="1073" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_284"
+>Do children have a say in family decisions?</text>
+
+<text 
+x="502" 
+y="1094" 
+dx="0" 
+class="s8_284"
+>y</text>
+
+<text 
+x="521" 
+y="1094" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s9_284"
+>Is it common for both parents to be </text>
+
+<text 
+x="521" 
+y="1113" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.8,0" 
+class="s9_284"
+>equally involved in their children’s </text>
+
+<text 
+x="521" 
+y="1131" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_284"
+>upbringing?</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_42g;
+	src: url("fonts/LibreFranklin-ExtraBold_42g.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings2_3pi;
+	src: url("fonts/Wingdings2_3pi.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_3p3;
+	src: url("fonts/SourceHanSansCN-Medium_3p3.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-900_42l;
+	src: url("fonts/MuseoSlab-900_42l.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_42j;
+	src: url("fonts/LibreFranklin-Bold_42j.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_42h;
+	src: url("fonts/LibreFranklin-Medium_42h.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_3ps;
+	src: url("fonts/SourceHanSansTW-Medium_3ps.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

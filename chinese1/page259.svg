@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 282 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_282{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_282{
+fill: #3986C6;
+}
+.g3_282{
+fill: #E2E3E5;
+}
+.g4_282{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_282{
+fill: #DCDDDF;
+}
+.g6_282{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_282{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_282{
+fill: none;
+stroke: #939598;
+stroke-width: 1.9097222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_282{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 1.9097222;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_282{
+fill: none;
+stroke: #939598;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g11_282{
+fill: none;
+stroke: #D9ECD4;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_282{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cg-;
+fill: #231F20;
+}
+.s2_282{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d7g;
+fill: #231F20;
+}
+.s3_282{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d7j;
+fill: #231F20;
+}
+.s4_282{
+font-size: 16.81px;
+font-family: ProximaNovaCond-Extrabld_d7z;
+fill: #231F20;
+}
+.s5_282{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_d7g;
+fill: #231F20;
+}
+.s6_282{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s7_282{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d7o;
+fill: #231F20;
+}
+.s8_282{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s9_282{
+font-size: 16.04px;
+font-family: Alegreya-Regular_d7j;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 845)"
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_282"
+>Chapter 11 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 912)"
+dx="0,0" 
+class="s1_282"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 923)"
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s1_282"
+>How’s It Going? </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1020)"
+dx="0,0" 
+class="s1_282"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1031)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_282"
+>Section 1</text>
+
+<text 
+x="855" 
+y="1149" 
+dx="0,0,0" 
+class="s2_282"
+>259</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_282" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_282" />
+<text 
+x="116" 
+y="137" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_282"
+>The basics of telling time</text>
+
+<text 
+x="116" 
+y="173" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.2,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.3,0,0,0,-0.3,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-1.5,-0.4" 
+class="s3_282"
+>When giving the time, the time of day (if provided) is stated first, followed by the hour, </text>
+
+<text 
+x="118" 
+y="199" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4" 
+class="s3_282"
+>and then the minutes. </text>
+
+<path d="M89.4,141.7l20.6,0l0,-20.6l-20.6,0l0,20.6Z" class="g3_282" />
+<text 
+x="96" 
+y="138" 
+dx="0" 
+class="s4_282"
+>1</text>
+
+<path d="M89.4,941.1l20.6,0l0,-20.6l-20.6,0l0,20.6Z" class="g3_282" />
+<text 
+x="95" 
+y="937" 
+dx="0" 
+class="s4_282"
+>2</text>
+
+<text 
+x="90" 
+y="98" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s5_282"
+>Language Reference</text>
+
+<path d="M291,92.5l520.5,0" class="g4_282" />
+<path d="M291,95.5c1.7,0,3,-1.4,3,-3c0,-1.7,-1.3,-3.1,-3,-3.1c-1.7,0,-3.1,1.4,-3.1,3.1c0,1.6,1.4,3,3.1,3Z" class="g2_282" />
+<path d="M115.3,218.5l121.5,0l0,48.7l-121.5,0l0,-48.7Zm121.5,0l64.2,0l0,48.7l-64.2,0l0,-48.7Zm64.2,0l68.7,0l0,48.7l-68.7,0l0,-48.7Zm68.7,0l122.8,0l0,48.7l-122.8,0l0,-48.7Zm122.8,0l83.5,0l0,48.7l-83.5,0l0,-48.7Zm83.5,0l233.7,0l0,48.7l-233.7,0l0,-48.7Z" class="g5_282" />
+<path d="M301,497.4l0,-56.5" class="g6_282" />
+<path d="M369.7,497.4l0,-56.5" class="g6_282" />
+<path d="M492.5,497.4l0,-56.5" class="g6_282" />
+<path d="M576,497.4l0,-56.5" class="g6_282" />
+<path d="M301,555l0,-57.3" class="g6_282" />
+<path d="M369.7,555l0,-57.3" class="g6_282" />
+<path d="M492.5,555l0,-57.3" class="g6_282" />
+<path d="M576,555l0,-57.3" class="g6_282" />
+<path d="M301,611.8l0,-56.5" class="g6_282" />
+<path d="M369.7,611.8l0,-56.5" class="g6_282" />
+<path d="M492.5,611.8l0,-56.5" class="g6_282" />
+<path d="M576,611.8l0,-56.5" class="g6_282" />
+<path d="M301,699.5l0,-85.8" class="g6_282" />
+<path d="M369.7,699.5l0,-85.8" class="g6_282" />
+<path d="M492.5,699.5l0,-85.8" class="g6_282" />
+<path d="M576,699.5l0,-85.8" class="g6_282" />
+<path d="M236.8,497.6l64.2,0" class="g7_282" />
+<path d="M301,497.6l68.7,0" class="g7_282" />
+<path d="M369.7,497.6l122.8,0" class="g7_282" />
+<path d="M492.5,497.6l83.5,0" class="g7_282" />
+<path d="M576,497.6l233.7,0" class="g7_282" />
+<path d="M236.8,555.1l64.2,0" class="g7_282" />
+<path d="M301,555.1l68.7,0" class="g7_282" />
+<path d="M369.7,555.1l122.8,0" class="g7_282" />
+<path d="M492.5,555.1l83.5,0" class="g7_282" />
+<path d="M576,555.1l233.7,0" class="g7_282" />
+<path d="M236.8,699.7l64.2,0" class="g7_282" />
+<path d="M301,699.7l68.7,0" class="g7_282" />
+<path d="M369.7,699.7l122.8,0" class="g7_282" />
+<path d="M492.5,699.7l83.5,0" class="g7_282" />
+<path d="M576,699.7l233.7,0" class="g7_282" />
+<path d="M301,324.6l0,-57.4" class="g6_282" />
+<path d="M369.7,324.6l0,-57.4" class="g6_282" />
+<path d="M492.5,324.6l0,-57.4" class="g6_282" />
+<path d="M576,324.6l0,-57.4" class="g6_282" />
+<path d="M301,382.2L301,325" class="g6_282" />
+<path d="M369.7,382.2l0,-57.2" class="g6_282" />
+<path d="M492.5,382.2l0,-57.2" class="g6_282" />
+<path d="M576,382.2L576,325" class="g6_282" />
+<path d="M301,439l0,-56.4" class="g6_282" />
+<path d="M369.7,439l0,-56.4" class="g6_282" />
+<path d="M492.5,439l0,-56.4" class="g6_282" />
+<path d="M576,439l0,-56.4" class="g6_282" />
+<path d="M236.8,324.8l64.2,0" class="g7_282" />
+<path d="M301,324.8l68.7,0" class="g7_282" />
+<path d="M369.7,324.8l122.8,0" class="g7_282" />
+<path d="M492.5,324.8l83.5,0" class="g7_282" />
+<path d="M576,324.8l233.7,0" class="g7_282" />
+<path d="M236.8,382.4l64.2,0" class="g7_282" />
+<path d="M301,382.4l68.7,0" class="g7_282" />
+<path d="M369.7,382.4l122.8,0" class="g7_282" />
+<path d="M492.5,382.4l83.5,0" class="g7_282" />
+<path d="M576,382.4l233.7,0" class="g7_282" />
+<path d="M236.8,440l64.2,0" class="g8_282" />
+<path d="M301,440l68.7,0" class="g8_282" />
+<path d="M369.7,440l122.8,0" class="g8_282" />
+<path d="M492.5,440l83.5,0" class="g8_282" />
+<path d="M576,440l233.7,0" class="g8_282" />
+<path d="M236.8,612.7l64.2,0" class="g8_282" />
+<path d="M301,612.7l68.7,0" class="g8_282" />
+<path d="M369.7,612.7l122.8,0" class="g8_282" />
+<path d="M492.5,612.7l83.5,0" class="g8_282" />
+<path d="M576,612.7l233.7,0" class="g8_282" />
+<path d="M236.8,267.2l0,-48.7" class="g9_282" />
+<path d="M236.8,324.6l0,-57.4" class="g8_282" />
+<path d="M236.8,382.2l0,-57.2" class="g8_282" />
+<path d="M236.8,439l0,-56.4" class="g8_282" />
+<path d="M115.3,440l121.5,0" class="g8_282" />
+<path d="M236.8,497.4l0,-56.5" class="g8_282" />
+<path d="M236.8,555l0,-57.3" class="g8_282" />
+<path d="M236.8,611.8l0,-56.5" class="g8_282" />
+<path d="M115.3,612.7l121.5,0" class="g8_282" />
+<path d="M236.8,699.5l0,-85.8" class="g8_282" />
+<path d="M236.8,775.7l0,-75.8" class="g8_282" />
+<path d="M115.3,324.8l121.5,0" class="g7_282" />
+<path d="M115.3,382.4l121.5,0" class="g7_282" />
+<path d="M115.3,497.6l121.5,0" class="g7_282" />
+<path d="M115.3,555.1l121.5,0" class="g7_282" />
+<path d="M115.3,699.7l121.5,0" class="g7_282" />
+<path d="M115.3,776.1l121.5,0" class="g10_282" />
+<path d="M301,775.7l0,-75.8" class="g6_282" />
+<path d="M369.7,775.7l0,-75.8" class="g6_282" />
+<path d="M492.5,775.7l0,-75.8" class="g6_282" />
+<path d="M576,775.7l0,-75.8" class="g6_282" />
+<path d="M301,267.2l0,-48.7" class="g11_282" />
+<path d="M369.7,267.2l0,-48.7" class="g11_282" />
+<path d="M492.5,267.2l0,-48.7" class="g11_282" />
+<path d="M576,267.2l0,-48.7" class="g11_282" />
+<path d="M236.8,776.1l64.2,0" class="g10_282" />
+<path d="M301,776.1l68.7,0" class="g10_282" />
+<path d="M369.7,776.1l122.8,0" class="g10_282" />
+<path d="M492.5,776.1l83.5,0" class="g10_282" />
+<path d="M576,776.1l233.7,0" class="g10_282" />
+<text 
+x="128" 
+y="239" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_282"
+>Time of day </text>
+
+<text 
+x="129" 
+y="261" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_282"
+>(optional)</text>
+
+<text 
+x="251" 
+y="261" 
+dx="0,0,0,0" 
+class="s2_282"
+>Hour</text>
+
+<text 
+x="319" 
+y="261" 
+dx="0" 
+class="s6_282"
+>点</text>
+
+<text 
+x="384" 
+y="261" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_282"
+>Minutes*</text>
+
+<text 
+x="504" 
+y="261" 
+dx="0" 
+class="s6_282"
+>分</text>
+
+<text 
+x="527" 
+y="261" 
+dx="0,0" 
+class="s2_282"
+>**</text>
+
+<text 
+x="590" 
+y="261" 
+dx="0,0,0,0,0,0,0" 
+class="s2_282"
+>Meaning</text>
+
+<text 
+x="129" 
+y="300" 
+dx="0" 
+class="s7_282"
+>1</text>
+
+<text 
+x="245" 
+y="304" 
+dx="0" 
+class="s8_282"
+>八</text>
+
+<text 
+x="309" 
+y="304" 
+dx="0" 
+class="s8_282"
+>点</text>
+
+<text 
+x="376" 
+y="304" 
+dx="0" 
+class="s8_282"
+>五</text>
+
+<text 
+x="502" 
+y="304" 
+dx="0" 
+class="s8_282"
+>分</text>
+
+<text 
+x="589" 
+y="307" 
+dx="0,0,0,0" 
+class="s3_282"
+>8:05</text>
+
+<text 
+x="129" 
+y="355" 
+dx="0" 
+class="s7_282"
+>2</text>
+
+<text 
+x="141" 
+y="361" 
+dx="0,0" 
+class="s8_282"
+>早上</text>
+
+<text 
+x="245" 
+y="361" 
+dx="0" 
+class="s8_282"
+>六</text>
+
+<text 
+x="309" 
+y="361" 
+dx="0" 
+class="s8_282"
+>点</text>
+
+<text 
+x="377" 
+y="361" 
+dx="0" 
+class="s8_282"
+>十</text>
+
+<text 
+x="502" 
+y="361" 
+dx="0" 
+class="s8_282"
+>分</text>
+
+<text 
+x="589" 
+y="361" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_282"
+>6:10 a.m.</text>
+
+<text 
+x="128" 
+y="415" 
+dx="0" 
+class="s7_282"
+>3</text>
+
+<text 
+x="245" 
+y="419" 
+dx="0" 
+class="s8_282"
+>八</text>
+
+<text 
+x="309" 
+y="419" 
+dx="0" 
+class="s8_282"
+>点</text>
+
+<text 
+x="381" 
+y="419" 
+dx="0,0" 
+class="s8_282"
+>〇五</text>
+
+<text 
+x="505" 
+y="419" 
+dx="0,1,1" 
+class="s8_282"
+>(分)</text>
+
+<text 
+x="589" 
+y="422" 
+dx="0,0,0,0" 
+class="s3_282"
+>8:05</text>
+
+<text 
+x="128" 
+y="472" 
+dx="0" 
+class="s7_282"
+>4</text>
+
+<text 
+x="245" 
+y="476" 
+dx="0" 
+class="s8_282"
+>七</text>
+
+<text 
+x="309" 
+y="476" 
+dx="0" 
+class="s8_282"
+>点</text>
+
+<text 
+x="377" 
+y="476" 
+dx="0,0" 
+class="s8_282"
+>十八</text>
+
+<text 
+x="505" 
+y="476" 
+dx="0,1,1" 
+class="s8_282"
+>(分)</text>
+
+<text 
+x="589" 
+y="476" 
+dx="0,0,0,0,0" 
+class="s3_282"
+>7:18 </text>
+
+<text 
+x="129" 
+y="528" 
+dx="0" 
+class="s7_282"
+>5</text>
+
+<text 
+x="140" 
+y="534" 
+dx="0,0" 
+class="s8_282"
+>晚上</text>
+
+<text 
+x="244" 
+y="534" 
+dx="0" 
+class="s8_282"
+>十</text>
+
+<text 
+x="309" 
+y="534" 
+dx="0" 
+class="s8_282"
+>点</text>
+
+<text 
+x="379" 
+y="534" 
+dx="0,0,0" 
+class="s8_282"
+>二十四</text>
+
+<text 
+x="505" 
+y="534" 
+dx="0,1,1" 
+class="s8_282"
+>(分)</text>
+
+<text 
+x="589" 
+y="537" 
+dx="0,0,0,0,0,0,0,-0.8,0,0" 
+class="s3_282"
+>10:24 p.m.</text>
+
+<text 
+x="129" 
+y="598" 
+dx="0" 
+class="s7_282"
+>6</text>
+
+<text 
+x="243" 
+y="591" 
+dx="0" 
+class="s8_282"
+>五</text>
+
+<text 
+x="309" 
+y="591" 
+dx="0" 
+class="s8_282"
+>点</text>
+
+<text 
+x="589" 
+y="595" 
+dx="0,0,0,0" 
+class="s3_282"
+>5:00</text>
+
+<text 
+x="129" 
+y="665" 
+dx="0" 
+class="s7_282"
+>7</text>
+
+<text 
+x="244" 
+y="664" 
+dx="0" 
+class="s8_282"
+>三</text>
+
+<text 
+x="309" 
+y="664" 
+dx="0" 
+class="s8_282"
+>点</text>
+
+<text 
+x="378" 
+y="664" 
+dx="0" 
+class="s8_282"
+>半</text>
+
+<text 
+x="588" 
+y="651" 
+dx="0,0,0,0,0,0,-0.8,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,0,-1.3,-0.4,0,0,0,-0.2,0,0" 
+class="s3_282"
+>3:30 p.m. (literally, three </text>
+
+<text 
+x="590" 
+y="677" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_282"
+>hours and a half)</text>
+
+<text 
+x="129" 
+y="747" 
+dx="0" 
+class="s7_282"
+>8</text>
+
+<text 
+x="244" 
+y="745" 
+dx="0" 
+class="s8_282"
+>几</text>
+
+<text 
+x="309" 
+y="745" 
+dx="0,0" 
+class="s8_282"
+>点？</text>
+
+<text 
+x="589" 
+y="730" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_282"
+>At what time [will</text>
+
+<text 
+x="590" 
+y="756" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_282"
+>something</text>
+
+<text 
+x="679" 
+y="756" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_282"
+>happen]?</text>
+
+<text 
+x="110" 
+y="810" 
+dx="0" 
+class="s2_282"
+>*</text>
+
+<text 
+x="117" 
+y="810" 
+dx="0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.3,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_282"
+>For minutes less than ten, you can add </text>
+
+<text 
+x="417" 
+y="809" 
+dx="0" 
+class="s6_282"
+>〇</text>
+
+<text 
+x="444" 
+y="810" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.2,-0.8,-1.1,-0.4,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_282"
+>(líng), which means “zero,” before the number </text>
+
+<text 
+x="116" 
+y="837" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s3_282"
+>of minutes.</text>
+
+<text 
+x="110" 
+y="873" 
+dx="0,-0.1" 
+class="s2_282"
+>**</text>
+
+<text 
+x="126" 
+y="872" 
+dx="0" 
+class="s6_282"
+>分</text>
+
+<text 
+x="152" 
+y="873" 
+dx="0,-0.1,-0.4,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-1.6,-0.5" 
+class="s3_282"
+>(fēn) can be omitted when the number of minutes is more than one character. </text>
+
+<text 
+x="748" 
+y="872" 
+dx="0" 
+class="s6_282"
+>分</text>
+
+<text 
+x="774" 
+y="873" 
+dx="0,-0.1,-0.4,-0.1,-0.1,0" 
+class="s3_282"
+>(fēn) </text>
+
+<text 
+x="115" 
+y="899" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_282"
+>is never used with </text>
+
+<text 
+x="258" 
+y="898" 
+dx="0" 
+class="s6_282"
+>半</text>
+
+<text 
+x="285" 
+y="899" 
+dx="0,0,0,0,0,0" 
+class="s3_282"
+>(bàn).</text>
+
+<text 
+x="115" 
+y="936" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0" 
+class="s2_282"
+>Expressing that something happened later than expected</text>
+
+<text 
+x="113" 
+y="973" 
+dx="0" 
+class="s6_282"
+>才</text>
+
+<text 
+x="139" 
+y="974" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-1.1,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_282"
+>(cái) means “not until” or “only then.” It is added after a time phrase to express that the </text>
+
+<text 
+x="115" 
+y="1000" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.4" 
+class="s3_282"
+>action that follows happened later than expected or desired. </text>
+
+<text 
+x="583" 
+y="1000" 
+dx="0" 
+class="s6_282"
+>了</text>
+
+<text 
+x="609" 
+y="1000" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_282"
+>is not used with </text>
+
+<text 
+x="736" 
+y="1000" 
+dx="0" 
+class="s6_282"
+>才</text>
+
+<text 
+x="763" 
+y="1000" 
+dx="0,0,-0.2,0,0,0,-0.4" 
+class="s3_282"
+>(cái), </text>
+
+<text 
+x="116" 
+y="1024" 
+dx="0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s3_282"
+>even when talking about completed actions.</text>
+
+<text 
+x="115" 
+y="1064" 
+dx="0" 
+class="s7_282"
+>1</text>
+
+<text 
+x="130" 
+y="1067" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_282"
+>我昨天去给她买礼物了。</text>
+
+<text 
+x="483" 
+y="1064" 
+dx="0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,-0.4,-1.3" 
+class="s3_282"
+>I went and bought a gift for her yesterday.</text>
+
+<text 
+x="115" 
+y="1125" 
+dx="0" 
+class="s7_282"
+>2</text>
+
+<text 
+x="132" 
+y="1128" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_282"
+>我昨天才去给她买礼物。</text>
+
+<text 
+x="485" 
+y="1125" 
+dx="0,-0.4,-0.4,-0.4,-0.4,-0.4,-1.9,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.6,-0.4,-0.7,-1.7" 
+class="s3_282"
+>I didn’t go buy a gift for her until yesterday.</text>
+
+<text 
+x="310" 
+y="238" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s9_282"
+>(diǎn)</text>
+
+<text 
+x="508" 
+y="239" 
+dx="0,0.2,0,0.2,0.2" 
+class="s9_282"
+>(fēn)</text>
+
+<text 
+x="383" 
+y="634" 
+dx="0,0.2,0.2" 
+class="s9_282"
+>bàn</text>
+
+<text 
+x="235" 
+y="1099" 
+dx="0,0.1,0.2" 
+class="s9_282"
+>cái</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_d7o;
+	src: url("fonts/Alegreya-Bold_d7o.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNovaCond-Extrabld_d7z;
+	src: url("fonts/ProximaNovaCond-Extrabld_d7z.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cg-;
+	src: url("fonts/ProximaNova-Semibold_cg-.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_d7g;
+	src: url("fonts/ProximaNova-Bold_d7g.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d7j;
+	src: url("fonts/Alegreya-Regular_d7j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

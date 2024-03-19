@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 64 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_64{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_64{
+fill: #3986C6;
+}
+.g3_64{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_64{
+fill: #ACBF3B;
+}
+.g5_64{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_64{
+fill: #FFFFFF;
+}
+.g7_64{
+fill: none;
+stroke: #ACBF3B;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_64{
+fill: #DCDDDF;
+}
+.g9_64{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_64{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_64{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cry;
+fill: #231F20;
+}
+.s2_64{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_crx;
+fill: #231F20;
+}
+.s3_64{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_cry;
+fill: #FFFFFF;
+}
+.s4_64{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_cry;
+fill: #231F20;
+}
+.s5_64{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_crw;
+fill: #FFFFFF;
+}
+.s6_64{
+font-size: 19.10px;
+font-family: Alegreya-Regular_cs0;
+fill: #231F20;
+}
+.s7_64{
+font-size: 32.08px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #3986C6;
+}
+.s8_64{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s9_64{
+font-size: 24.44px;
+font-family: Alegreya-Regular_cs0;
+fill: #231F20;
+}
+.s10_64{
+font-size: 19.10px;
+font-family: Alegreya-Bold_cr_;
+fill: #3986C6;
+}
+.s11_64{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_cry;
+fill: #231F20;
+}
+.s12_64{
+font-size: 19.10px;
+font-family: Alegreya-Bold_cr_;
+fill: #231F20;
+}
+.s13_64{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #3986C6;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="862" 
+y="1149" 
+dx="0,0" 
+class="s1_64"
+>41</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_64" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_64" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 829)"
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_64"
+>Chapter 2 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 893)"
+dx="0,0" 
+class="s2_64"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 904)"
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.5,0" 
+class="s2_64"
+>What’s in a Name? </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1017)"
+dx="0,0" 
+class="s2_64"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1029)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_64"
+>Section 3</text>
+
+<path d="M108,123.5c-10.1,0,-18.3,-8.2,-18.3,-18.3L89.7,85l23.1,0c10.2,0,18.4,8.2,18.4,18.3l0,20.2Z" class="g2_64" />
+<path d="M96.6,85.7l507.4,0" class="g3_64" />
+<path d="M110.3,123.2l493.7,0" class="g3_64" />
+<text 
+x="95" 
+y="112" 
+dx="0,0,0" 
+class="s3_64"
+>3b </text>
+
+<text 
+x="137" 
+y="112" 
+dx="0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_64"
+>New Words in Conversation </text>
+
+<path d="M488,116.4c-5.9,0,-10.8,-4.8,-10.8,-10.8l0,-10.9l114.3,0c6,0,10.9,4.9,10.9,10.9l0,10.8Z" class="g4_64" />
+<text 
+x="493" 
+y="109" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_64"
+>INTERPRETIVE</text>
+
+<text 
+x="89" 
+y="164" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.2,0,0,-0.4,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,0" 
+class="s6_64"
+>Listen to the audio and try to understand as much as you can. Then read the dialogue, using </text>
+
+<text 
+x="90" 
+y="190" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,-0.4" 
+class="s6_64"
+>the pinyin text and vocabulary list to figure out unfamiliar words.</text>
+
+<text 
+x="150" 
+y="253" 
+dx="0,0" 
+class="s7_64"
+>他们</text>
+
+<text 
+x="214" 
+y="253" 
+dx="0,0,0" 
+class="s8_64"
+>是谁？</text>
+
+<text 
+x="150" 
+y="317" 
+dx="0,0" 
+class="s7_64"
+>他们</text>
+
+<text 
+x="214" 
+y="317" 
+dx="0,0" 
+class="s8_64"
+>是我</text>
+
+<text 
+x="278" 
+y="317" 
+dx="0" 
+class="s7_64"
+>和</text>
+
+<text 
+x="318" 
+y="316" 
+dx="0,0,0" 
+class="s9_64"
+>Leo</text>
+
+<text 
+x="362" 
+y="317" 
+dx="0,0,0,0" 
+class="s8_64"
+>的同学。</text>
+
+<text 
+x="151" 
+y="382" 
+dx="0,0,0" 
+class="s7_64"
+>她们也</text>
+
+<text 
+x="247" 
+y="382" 
+dx="0" 
+class="s8_64"
+>是</text>
+
+<text 
+x="279" 
+y="382" 
+dx="0,0" 
+class="s7_64"
+>你们</text>
+
+<text 
+x="344" 
+y="382" 
+dx="0,0,0" 
+class="s8_64"
+>的同学</text>
+
+<text 
+x="149" 
+y="418" 
+dx="0,0" 
+class="s8_64"
+>吗？</text>
+
+<text 
+x="147" 
+y="477" 
+dx="0,0,0" 
+class="s8_64"
+>不是，</text>
+
+<text 
+x="243" 
+y="477" 
+dx="0,0" 
+class="s7_64"
+>她们</text>
+
+<text 
+x="307" 
+y="477" 
+dx="0" 
+class="s8_64"
+>是</text>
+
+<text 
+x="339" 
+y="477" 
+dx="0,0" 
+class="s7_64"
+>我们</text>
+
+<text 
+x="404" 
+y="477" 
+dx="0" 
+class="s8_64"
+>的</text>
+
+<text 
+x="150" 
+y="514" 
+dx="0,0" 
+class="s7_64"
+>朋友</text>
+
+<text 
+x="214" 
+y="514" 
+dx="0" 
+class="s8_64"
+>。</text>
+
+<text 
+x="506" 
+y="256" 
+dx="0,-0.7,0,0,0" 
+class="s10_64"
+>Tāmen</text>
+
+<text 
+x="564" 
+y="256" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_64"
+>shì shéi?</text>
+
+<text 
+x="506" 
+y="320" 
+dx="0,-0.7,0,0,0" 
+class="s10_64"
+>Tāmen</text>
+
+<text 
+x="564" 
+y="320" 
+dx="0,0,0,0,0,-0.3,0" 
+class="s6_64"
+>shì wǒ </text>
+
+<text 
+x="618" 
+y="320" 
+dx="0,0" 
+class="s10_64"
+>hé</text>
+
+<text 
+x="641" 
+y="320" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s6_64"
+>Leo de tóngxué.</text>
+
+<text 
+x="506" 
+y="384" 
+dx="0,-0.7,0,0,0,0,0,-0.2" 
+class="s10_64"
+>Tāmen yě</text>
+
+<text 
+x="585" 
+y="384" 
+dx="0,0,0,0" 
+class="s6_64"
+>shì </text>
+
+<text 
+x="612" 
+y="384" 
+dx="0,0,0,0,0" 
+class="s10_64"
+>nǐmen</text>
+
+<text 
+x="668" 
+y="384" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_64"
+>de tóngxué </text>
+
+<text 
+x="506" 
+y="421" 
+dx="0,0,0" 
+class="s6_64"
+>ma?</text>
+
+<text 
+x="505" 
+y="480" 
+dx="0,0,0,0,0,0,0,-0.4" 
+class="s6_64"
+>Bú shì, </text>
+
+<text 
+x="563" 
+y="480" 
+dx="0,0,0,0,0" 
+class="s10_64"
+>tāmen</text>
+
+<text 
+x="618" 
+y="480" 
+dx="0,0,0,0" 
+class="s6_64"
+>shì </text>
+
+<text 
+x="645" 
+y="480" 
+dx="0,-0.2,0,0,0" 
+class="s10_64"
+>wǒmen</text>
+
+<text 
+x="707" 
+y="480" 
+dx="0,0,0" 
+class="s6_64"
+>de </text>
+
+<text 
+x="506" 
+y="517" 
+dx="0,0,0,0,0,-0.2,0" 
+class="s10_64"
+>péngyou</text>
+
+<text 
+x="574" 
+y="517" 
+dx="0" 
+class="s6_64"
+>.</text>
+
+<image preserveAspectRatio="none" x="89" y="214" width="49" height="54" xlink:href="64/img/1.png" />
+<image preserveAspectRatio="none" x="89" y="362" width="49" height="54" xlink:href="64/img/2.png" />
+<image preserveAspectRatio="none" x="90" y="283" width="48" height="53" xlink:href="64/img/3.png" />
+<image preserveAspectRatio="none" x="89" y="459" width="52" height="55" xlink:href="64/img/4.png" />
+<path d="M89.9,632.6l0,-60.5l316.8,0" class="g5_64" />
+<path d="M406.7,575.8c2.1,0,3.7,-1.6,3.7,-3.6c0,-2.1,-1.6,-3.7,-3.7,-3.7c-2,0,-3.6,1.6,-3.6,3.7c0,2,1.6,3.6,3.6,3.6Z" class="g2_64" />
+<path d="M384.1,563.8c5.5,10.7,1.2,23.9,-9.5,29.3c-10.8,5.5,-23.9,1.3,-29.4,-9.5c-5.5,-10.7,-1.2,-23.9,9.5,-29.4c10.7,-5.4,23.9,-1.2,29.4,9.6Z" class="g6_64" />
+<path d="M384.1,563.8c5.5,10.7,1.2,23.9,-9.5,29.3c-10.8,5.5,-23.9,1.3,-29.4,-9.5c-5.5,-10.7,-1.2,-23.9,9.5,-29.4c10.7,-5.4,23.9,-1.2,29.4,9.6Z" class="g3_64" />
+<path d="M391.7,551.9c-1.2,-1,-3.1,-0.7,-4.1,0.6l-20.5,24.4c-1.1,1.3,-3,1.4,-4.2,0.2l-3,-2.9c-1.2,-1.2,-3.1,-1.3,-4.1,-0.2c-1.1,1.1,-1,3,0.2,4.2l7.3,7.1c1.2,1.2,3.1,1.1,4.2,-0.2l24.3,-29c1.1,-1.3,1.1,-3.2,-0.1,-4.2Z" class="g4_64" />
+<path d="M113.8,580.1l216.2,0l0,-19l-216.2,0l0,19Z" class="g6_64" />
+<text 
+x="121" 
+y="576" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_64"
+>Comprehension Check</text>
+
+<text 
+x="745" 
+y="613" 
+dx="0" 
+class="s10_64"
+>T</text>
+
+<text 
+x="787" 
+y="613" 
+dx="0" 
+class="s10_64"
+>F</text>
+
+<text 
+x="123" 
+y="648" 
+dx="0" 
+class="s10_64"
+>1</text>
+
+<text 
+x="147" 
+y="648" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,-0.3,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s6_64"
+>The people in the first group are Leo and Maya’s classmates.</text>
+
+<path d="M751.3,651.2c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.7,-4.7,-10.4,-10.5,-10.4c-5.8,0,-10.5,4.7,-10.5,10.4c0,5.8,4.7,10.5,10.5,10.5Z" class="g7_64" />
+<path d="M792.6,651.2c5.7,0,10.4,-4.7,10.4,-10.5c0,-5.7,-4.7,-10.4,-10.4,-10.4c-5.8,0,-10.5,4.7,-10.5,10.4c0,5.8,4.7,10.5,10.5,10.5Z" class="g7_64" />
+<text 
+x="124" 
+y="684" 
+dx="0" 
+class="s10_64"
+>2</text>
+
+<text 
+x="147" 
+y="684" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,-0.3,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s6_64"
+>The people in the second group are also Leo and Maya’s classmates.</text>
+
+<path d="M751.3,686.7c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g7_64" />
+<path d="M792.6,686.7c5.7,0,10.4,-4.7,10.4,-10.5c0,-5.8,-4.7,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g7_64" />
+<text 
+x="123" 
+y="719" 
+dx="0" 
+class="s10_64"
+>3</text>
+
+<text 
+x="147" 
+y="719" 
+dx="0,-0.2,0,0,0,0,0,-0.3,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s6_64"
+>The second group of people includes a mix of boys and girls.</text>
+
+<path d="M751.3,722.1c5.8,0,10.5,-4.7,10.5,-10.4c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.7,4.7,10.4,10.5,10.4Z" class="g7_64" />
+<path d="M792.6,722.1c5.7,0,10.4,-4.7,10.4,-10.4c0,-5.8,-4.7,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.7,4.7,10.4,10.5,10.4Z" class="g7_64" />
+<text 
+x="88" 
+y="776" 
+dx="0,-1.2,0,0,0,0,0,0,0,0" 
+class="s11_64"
+>Vocabulary</text>
+
+<path d="M203.1,770.5l611.1,0" class="g5_64" />
+<path d="M203.1,773.5c1.7,0,3,-1.3,3,-3c0,-1.7,-1.3,-3.1,-3,-3.1c-1.7,0,-3.1,1.4,-3.1,3.1c0,1.7,1.4,3,3.1,3Z" class="g2_64" />
+<path d="M90.1,791.2l55,0l0,36.3l-55,0l0,-36.3Zm55,0l123.7,0l0,36.3l-123.7,0l0,-36.3Zm123.7,0l116.4,0l0,36.3l-116.4,0l0,-36.3Zm116.4,0l412.3,0l0,36.3l-412.3,0l0,-36.3Z" class="g8_64" />
+<path d="M90.1,1090.7l55,0" class="g9_64" />
+<path d="M145.1,1090.7l123.7,0" class="g9_64" />
+<path d="M268.8,1090.7l116.4,0" class="g9_64" />
+<path d="M385.2,1090.7l412.3,0" class="g9_64" />
+<path d="M90.1,1134.7l55,0" class="g10_64" />
+<path d="M145.1,1134.7l123.7,0" class="g10_64" />
+<path d="M268.8,1134.7l116.4,0" class="g10_64" />
+<path d="M385.2,1134.7l412.3,0" class="g10_64" />
+<path d="M90.1,870.7l55,0" class="g9_64" />
+<path d="M145.1,870.7l123.7,0" class="g9_64" />
+<path d="M268.8,870.7l116.4,0" class="g9_64" />
+<path d="M385.2,870.7l412.3,0" class="g9_64" />
+<path d="M90.1,914.7l55,0" class="g9_64" />
+<path d="M145.1,914.7l123.7,0" class="g9_64" />
+<path d="M268.8,914.7l116.4,0" class="g9_64" />
+<path d="M385.2,914.7l412.3,0" class="g9_64" />
+<path d="M90.1,958.7l55,0" class="g9_64" />
+<path d="M145.1,958.7l123.7,0" class="g9_64" />
+<path d="M268.8,958.7l116.4,0" class="g9_64" />
+<path d="M385.2,958.7l412.3,0" class="g9_64" />
+<path d="M90.1,1002.7l55,0" class="g9_64" />
+<path d="M145.1,1002.7l123.7,0" class="g9_64" />
+<path d="M268.8,1002.7l116.4,0" class="g9_64" />
+<path d="M385.2,1002.7l412.3,0" class="g9_64" />
+<path d="M90.1,1046.7l55,0" class="g9_64" />
+<path d="M145.1,1046.7l123.7,0" class="g9_64" />
+<path d="M268.8,1046.7l116.4,0" class="g9_64" />
+<path d="M385.2,1046.7l412.3,0" class="g9_64" />
+<text 
+x="163" 
+y="816" 
+dx="0,-0.7,0,0" 
+class="s1_64"
+>Word</text>
+
+<text 
+x="287" 
+y="816" 
+dx="0,0,0,0,0,0" 
+class="s1_64"
+>Pinyin</text>
+
+<text 
+x="404" 
+y="816" 
+dx="0,0,0,0,0,0,0" 
+class="s1_64"
+>Meaning</text>
+
+<text 
+x="108" 
+y="856" 
+dx="0,0" 
+class="s12_64"
+>13</text>
+
+<text 
+x="159" 
+y="856" 
+dx="0,0" 
+class="s13_64"
+>他们</text>
+
+<text 
+x="287" 
+y="856" 
+dx="0,0,0,0,0" 
+class="s6_64"
+>tāmen</text>
+
+<text 
+x="403" 
+y="856" 
+dx="0,0,0,0,-1.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_64"
+>they, them (if anyone in the group is male)</text>
+
+<text 
+x="108" 
+y="900" 
+dx="0,0" 
+class="s12_64"
+>14</text>
+
+<text 
+x="161" 
+y="900" 
+dx="0" 
+class="s13_64"
+>和</text>
+
+<text 
+x="287" 
+y="900" 
+dx="0,0" 
+class="s6_64"
+>hé</text>
+
+<text 
+x="403" 
+y="900" 
+dx="0,0,0" 
+class="s6_64"
+>and</text>
+
+<text 
+x="108" 
+y="944" 
+dx="0,0" 
+class="s12_64"
+>15</text>
+
+<text 
+x="161" 
+y="944" 
+dx="0,0" 
+class="s13_64"
+>她们</text>
+
+<text 
+x="287" 
+y="944" 
+dx="0,0,0,0,0" 
+class="s6_64"
+>tāmen</text>
+
+<text 
+x="403" 
+y="944" 
+dx="0,0,0,0,-1.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0.3,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s6_64"
+>they, them (if everyone in the group is female)</text>
+
+<text 
+x="108" 
+y="988" 
+dx="0,0" 
+class="s12_64"
+>16</text>
+
+<text 
+x="159" 
+y="988" 
+dx="0" 
+class="s13_64"
+>也</text>
+
+<text 
+x="287" 
+y="988" 
+dx="0,-0.3" 
+class="s6_64"
+>yě</text>
+
+<text 
+x="403" 
+y="988" 
+dx="0,0,0,0,-0.8,-0.4,0,0,0,-0.8,-0.4,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s6_64"
+>also, too, as well as</text>
+
+<text 
+x="108" 
+y="1032" 
+dx="0,0" 
+class="s12_64"
+>17</text>
+
+<text 
+x="159" 
+y="1032" 
+dx="0,0" 
+class="s13_64"
+>你们</text>
+
+<text 
+x="287" 
+y="1032" 
+dx="0,0,0,0,0" 
+class="s6_64"
+>nǐmen</text>
+
+<text 
+x="403" 
+y="1032" 
+dx="0,-0.3,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s6_64"
+>you (plural)</text>
+
+<text 
+x="108" 
+y="1076" 
+dx="0,0" 
+class="s12_64"
+>18</text>
+
+<text 
+x="160" 
+y="1076" 
+dx="0,0" 
+class="s13_64"
+>我们</text>
+
+<text 
+x="287" 
+y="1076" 
+dx="0,-0.3,0,0,0" 
+class="s6_64"
+>wǒmen</text>
+
+<text 
+x="403" 
+y="1076" 
+dx="0,-0.3,-0.6,-0.4,0,0" 
+class="s6_64"
+>we, us</text>
+
+<text 
+x="108" 
+y="1120" 
+dx="0,0" 
+class="s12_64"
+>19</text>
+
+<text 
+x="160" 
+y="1120" 
+dx="0,0" 
+class="s13_64"
+>朋友</text>
+
+<text 
+x="287" 
+y="1120" 
+dx="0,0,0,0,0,-0.3,0" 
+class="s6_64"
+>péngyou</text>
+
+<text 
+x="403" 
+y="1120" 
+dx="0,0,0,0,0,0" 
+class="s6_64"
+>friend</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_crx;
+	src: url("fonts/ProximaNova-Semibold_crx.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_cs0;
+	src: url("fonts/Alegreya-Regular_cs0.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_crw;
+	src: url("fonts/ProximaNova-Extrabld_crw.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_cr_;
+	src: url("fonts/Alegreya-Bold_cr_.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cry;
+	src: url("fonts/ProximaNova-Bold_cry.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

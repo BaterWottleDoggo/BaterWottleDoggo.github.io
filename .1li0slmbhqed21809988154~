@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 297 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_297{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_297{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_297{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_297{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_297{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_297{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_297{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_42g;
+fill: #7AAD35;
+}
+.s2_297{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_42g;
+fill: #86B345;
+}
+.s3_297{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s4_297{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_42j;
+fill: #7AAD35;
+}
+.s5_297{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_42g;
+fill: #3F3F40;
+}
+.s6_297{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s7_297{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #749E3C;
+}
+.s8_297{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s9_297{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #749E3C;
+}
+.s10_297{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_42q;
+fill: #3F3F40;
+}
+.s11_297{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_42r;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M4.6,97.3l329.7,0" class="g1_297" />
+<path d="M4.6,99.8l329.7,0" class="g2_297" />
+<path d="M123.8,183.4l12.2,0" class="g3_297" />
+<text 
+x="59" 
+y="85" 
+dx="0,-2.4,0.3,-0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,0.3,0.3,0.3" 
+class="s1_297"
+>Words &amp; Phrases</text>
+
+<text 
+x="123" 
+y="177" 
+dx="0,0" 
+class="s2_297"
+>A </text>
+
+<text 
+x="330" 
+y="182" 
+dx="0,0,0" 
+class="s3_297"
+>一直 </text>
+
+<text 
+x="392" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_297"
+>(all along, continuously)</text>
+
+<text 
+x="176" 
+y="268" 
+dx="0,0" 
+class="s5_297"
+>1 </text>
+
+<text 
+x="244" 
+y="270" 
+dx="0,0,0,0,0,0,0" 
+class="s6_297"
+>大学四年，小张</text>
+
+<text 
+x="426" 
+y="270" 
+dx="0,0" 
+class="s7_297"
+>一直</text>
+
+<text 
+x="478" 
+y="270" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_297"
+>住在学校宿舍里。</text>
+
+<text 
+x="244" 
+y="311" 
+dx="0,0,0,0,0,0,0" 
+class="s8_297"
+>大學四年，小張</text>
+
+<text 
+x="426" 
+y="311" 
+dx="0,0" 
+class="s9_297"
+>一直</text>
+
+<text 
+x="478" 
+y="311" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_297"
+>住在學校宿舍裡。</text>
+
+<text 
+x="250" 
+y="344" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.1,0" 
+class="s10_297"
+>Little Zhang has been living in the dorms for all four years of college.</text>
+
+<text 
+x="174" 
+y="403" 
+dx="0,0" 
+class="s5_297"
+>2 </text>
+
+<text 
+x="244" 
+y="406" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_297"
+>她搬进新房子后，</text>
+
+<text 
+x="452" 
+y="406" 
+dx="0,0" 
+class="s7_297"
+>一直</text>
+
+<text 
+x="504" 
+y="406" 
+dx="0,0,0,0,0" 
+class="s6_297"
+>没交房租。</text>
+
+<text 
+x="244" 
+y="446" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_297"
+>她搬進新房子後，</text>
+
+<text 
+x="452" 
+y="446" 
+dx="0,0" 
+class="s9_297"
+>一直</text>
+
+<text 
+x="504" 
+y="446" 
+dx="0,0,0,0,0" 
+class="s8_297"
+>沒交房租。</text>
+
+<text 
+x="250" 
+y="480" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s10_297"
+>Since she moved into her new apartment, she hasn’t been paying rent.</text>
+
+<text 
+x="174" 
+y="538" 
+dx="0,0" 
+class="s5_297"
+>3 </text>
+
+<text 
+x="244" 
+y="541" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_297"
+>小林的专业是金融，毕业以后，</text>
+
+<text 
+x="608" 
+y="541" 
+dx="0,0" 
+class="s7_297"
+>一直</text>
+
+<text 
+x="660" 
+y="541" 
+dx="0,0,0,0,0,0" 
+class="s6_297"
+>在银行工作。</text>
+
+<text 
+x="244" 
+y="581" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_297"
+>小林的專業是金融，畢業以後，</text>
+
+<text 
+x="608" 
+y="581" 
+dx="0,0" 
+class="s9_297"
+>一直</text>
+
+<text 
+x="660" 
+y="581" 
+dx="0,0,0,0,0,0" 
+class="s8_297"
+>在銀行工作。</text>
+
+<text 
+x="250" 
+y="615" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_297"
+>Little Lin’s major was finance. Ever since he graduated, he’s been working in banking.</text>
+
+<text 
+x="174" 
+y="674" 
+dx="0,0" 
+class="s5_297"
+>4 </text>
+
+<text 
+x="244" 
+y="676" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_297"
+>小张有两条毯子，只用了一条，另外的一条</text>
+
+<text 
+x="737" 
+y="676" 
+dx="0,0" 
+class="s7_297"
+>一直</text>
+
+<text 
+x="244" 
+y="710" 
+dx="0,0,0,0,0,0" 
+class="s6_297"
+>放在柜子里。</text>
+
+<text 
+x="244" 
+y="750" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_297"
+>小張有兩條毯子，只用了一條，另外的一條</text>
+
+<text 
+x="737" 
+y="750" 
+dx="0,0" 
+class="s9_297"
+>一直</text>
+
+<text 
+x="244" 
+y="784" 
+dx="0,0,0,0,0,0" 
+class="s8_297"
+>放在櫃子裡。</text>
+
+<text 
+x="250" 
+y="817" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_297"
+>Little Zhang has two blankets. She is only using one of them. The other one has </text>
+
+<text 
+x="250" 
+y="837" 
+dx="0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_297"
+>been stored in the cabinet the whole time.</text>
+
+<text 
+x="174" 
+y="896" 
+dx="0,0" 
+class="s5_297"
+>5 </text>
+
+<text 
+x="244" 
+y="898" 
+dx="0,0,0,0" 
+class="s6_297"
+>你从这儿</text>
+
+<text 
+x="348" 
+y="898" 
+dx="0,0" 
+class="s7_297"
+>一直</text>
+
+<text 
+x="400" 
+y="898" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_297"
+>往前走，很快就到地铁站了。</text>
+
+<text 
+x="244" 
+y="939" 
+dx="0,0,0,0" 
+class="s8_297"
+>你從這兒</text>
+
+<text 
+x="348" 
+y="939" 
+dx="0,0" 
+class="s9_297"
+>一直</text>
+
+<text 
+x="400" 
+y="939" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_297"
+>往前走，很快就到地鐵站了。</text>
+
+<text 
+x="250" 
+y="972" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_297"
+>Go straight forward from here, and you’ll soon arrive at the subway station.</text>
+
+<path d="M151.2,146.9l0,53.5l0,0.8l0.8,0l676.9,0l0.7,0l0,-0.8l0,-53.5l0,-0.7l-0.7,0l-676.9,0l-0.8,0l0,0.7Z" class="g4_297" />
+<path d="M153.2,199.1l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g5_297" />
+<path d="M169,245.2c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_297" />
+<path d="M169,247.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_297" />
+<path d="M169,380.4c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7L199,388c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_297" />
+<path d="M169,382.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6L197,388c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_297" />
+<path d="M169,515.6c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_297" />
+<path d="M169,517.6c-0.6,0,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_297" />
+<path d="M169,650.8c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.6c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.6c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g4_297" />
+<path d="M169,652.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.6c0,0.6,0.2,5.7,5.6,5.7l22.4,0c0.5,-0.1,5.6,-0.3,5.6,-5.7l0,-19.6c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_297" />
+<path d="M169,873.1c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g4_297" />
+<path d="M169,875.1c-0.6,0,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_297" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g6_297" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s11_297"
+>274 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1129)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s11_297"
+>Integrated Chinese 3 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 988)"
+dx="0,1" 
+class="s11_297"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 975)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s11_297"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_42g;
+	src: url("fonts/LibreFranklin-ExtraBold_42g.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_42j;
+	src: url("fonts/LibreFranklin-Bold_42j.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_42q;
+	src: url("fonts/LibreFranklin-Regular_42q.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_42r;
+	src: url("fonts/LibreFranklin-SemiBold_42r.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

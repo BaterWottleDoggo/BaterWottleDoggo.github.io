@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 243 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_243"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_243{
+fill: #3986C6;
+}
+.g2_243{
+fill: #ACBF3B;
+}
+.g3_243{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_243{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_243{
+fill: #FFFFFF;
+}
+
+.s1_243{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_d4s;
+fill: #231F20;
+}
+.s2_243{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d4m;
+fill: #231F20;
+}
+.s3_243{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d4m;
+fill: #FFFFFF;
+}
+.s4_243{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d4m;
+fill: #231F20;
+}
+.s5_243{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_d4q;
+fill: #FFFFFF;
+}
+.s6_243{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_d4q;
+fill: #FFFFFF;
+}
+.s7_243{
+font-size: 44.31px;
+font-family: ProximaNova-Bold_d4m;
+fill: #FFFFFF;
+}
+.s8_243{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d4m;
+fill: #3986C6;
+}
+.s9_243{
+font-size: 15.28px;
+font-family: CCMeanwhile_d5i;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_243"
+>Go Far with Chinese</text>
+
+<text 
+x="32" 
+y="1149" 
+dx="0,0,0" 
+class="s2_243"
+>220</text>
+
+<path d="M49.6,1128l1.7,0l0,-38.7l-1.7,0l0,38.7Z" class="g1_243" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g1_243" />
+<image preserveAspectRatio="none" x="0" y="109" width="380" height="327" xlink:href="243/img/1.png" />
+<image preserveAspectRatio="none" x="379" y="109" width="380" height="327" xlink:href="243/img/2.png" />
+<image preserveAspectRatio="none" x="759" y="109" width="163" height="816" xlink:href="243/img/3.png" />
+<image preserveAspectRatio="none" x="0" y="435" width="380" height="327" xlink:href="243/img/4.png" />
+<image preserveAspectRatio="none" x="379" y="435" width="380" height="327" xlink:href="243/img/5.png" />
+<image preserveAspectRatio="none" x="0" y="761" width="380" height="327" xlink:href="243/img/6.png" />
+<image preserveAspectRatio="none" x="379" y="761" width="380" height="327" xlink:href="243/img/7.png" />
+<image preserveAspectRatio="none" x="759" y="924" width="163" height="273" xlink:href="243/img/8.png" />
+<image preserveAspectRatio="none" x="0" y="1088" width="759" height="109" xlink:href="243/img/9.png" />
+<image preserveAspectRatio="none" x="45" y="967" width="10" height="117" xlink:href="243/img/10.png" />
+<image preserveAspectRatio="none" x="45" y="967" width="10" height="117" xlink:href="243/img/11.png" />
+<image preserveAspectRatio="none" x="33" y="1136" width="33" height="14" xlink:href="243/img/12.png" />
+<image preserveAspectRatio="none" x="33" y="1136" width="33" height="14" xlink:href="243/img/13.png" />
+<image preserveAspectRatio="none" x="49" y="1089" width="3" height="37" xlink:href="243/img/14.png" />
+<image preserveAspectRatio="none" x="48" y="1125" width="5" height="6" xlink:href="243/img/15.png" />
+<g clip-path="url(#c0_243)">
+<path d="M-13.7,110l935,0l0,-129.4l-935,0l0,129.4Z" class="g2_243" />
+</g>
+<path d="M109,196C98.8,196,90.6,187.8,90.6,177.6l0,-20.1l23.2,0c10.1,0,18.3,8.2,18.3,18.3l0,20.2Z" class="g1_243" />
+<path d="M101,158.2l439.7,0" class="g3_243" />
+<path d="M114.8,195.6l425.9,0" class="g3_243" />
+<text 
+x="100" 
+y="184" 
+dx="0,0" 
+class="s3_243"
+>A </text>
+
+<text 
+x="142" 
+y="184" 
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_243"
+>Reading and Listening </text>
+
+<path d="M428.1,187.5c-6,0,-10.9,-4.9,-10.9,-10.9l0,-10.9l112.3,0c6.1,0,10.9,4.9,10.9,10.9l0,10.9Z" class="g2_243" />
+<text 
+x="430" 
+y="180" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_243"
+>µ·´³¹P¹³´µV³</text>
+
+<text 
+x="84" 
+y="95" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_243"
+>C¸AP´³¹ 9</text>
+
+<path d="M788.3,125.7l0,-35.6C788.3,71.2,772.9,55.8,754,55.8l-555.4,0l0,35.6c0,18.9,15.4,34.3,34.4,34.3Z" class="g1_243" />
+<path d="M788.3,125.7l0,-35.6C788.3,71.2,772.9,55.8,754,55.8l-555.4,0l0,35.6c0,18.9,15.4,34.3,34.4,34.3l555.3,0Z" class="g4_243" />
+<text 
+x="247" 
+y="103" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-4.3,0,0,0,0,0,0,0" 
+class="s7_243"
+>Put the Pieces Together!</text>
+
+<path d="M101.7,506.5l173.3,0l0,-275l-173.3,0l0,275Z" class="g5_243" />
+<text 
+x="102" 
+y="258" 
+dx="0,-0.4,0,0,0,0,0,0,0" 
+class="s8_243"
+>Passage 1</text>
+
+<text 
+x="102" 
+y="290" 
+dx="0,0.3,0.3,0.1,-0.2,0.3,0,0,0.5,0.5,0" 
+class="s9_243"
+>martin and </text>
+
+<text 
+x="102" 
+y="290" 
+dx="0,0.3,0.3,0.1,-0.2,0.3,0,0,0.5,0.5,0" 
+class="s9_243"
+>martin and </text>
+
+<text 
+x="102" 
+y="315" 
+dx="0,0.2,-0.2,0.4,0,0.1,-0.3,-0.2,0,0,0.3,0.1,0" 
+class="s9_243"
+>isabella are </text>
+
+<text 
+x="102" 
+y="315" 
+dx="0,0.2,-0.2,0.4,0,0.1,-0.3,-0.2,0,0,0.3,0.1,0" 
+class="s9_243"
+>isabella are </text>
+
+<text 
+x="100" 
+y="341" 
+dx="0,-0.1,0,-0.1,0.3,0.3,0,0,-1,0" 
+class="s9_243"
+>trying to </text>
+
+<text 
+x="100" 
+y="341" 
+dx="0,-0.1,0,-0.1,0.3,0.3,0,0,-1,0" 
+class="s9_243"
+>trying to </text>
+
+<text 
+x="102" 
+y="367" 
+dx="0,-0.2,0.2,0.4,0.4,0.1,0,0,0.3,0.1,0" 
+class="s9_243"
+>figure out </text>
+
+<text 
+x="102" 
+y="367" 
+dx="0,-0.2,0.2,0.4,0.4,0.1,0,0,0.3,0.1,0" 
+class="s9_243"
+>figure out </text>
+
+<text 
+x="102" 
+y="392" 
+dx="0,0.5,0.4,-0.8,0,0,-1,0,0,0.2,0.3,-0.3,0,0" 
+class="s9_243"
+>what to order </text>
+
+<text 
+x="102" 
+y="392" 
+dx="0,0.5,0.4,-0.8,0,0,-1,0,0,0.2,0.3,-0.3,0,0" 
+class="s9_243"
+>what to order </text>
+
+<text 
+x="102" 
+y="418" 
+dx="0,-0.2,0.2,0,0,-0.1,0.5,-0.6,-0.3,0" 
+class="s9_243"
+>for theIr </text>
+
+<text 
+x="102" 
+y="418" 
+dx="0,-0.2,0.2,0,0,-0.1,0.5,-0.6,-0.3,0" 
+class="s9_243"
+>for theIr </text>
+
+<text 
+x="102" 
+y="444" 
+dx="0,0.4,0.2,0.3,-0.1,0" 
+class="s9_243"
+>mom's </text>
+
+<text 
+x="102" 
+y="444" 
+dx="0,0.4,0.2,0.3,-0.1,0" 
+class="s9_243"
+>mom's </text>
+
+<text 
+x="102" 
+y="469" 
+dx="0,-0.1,0.2,0.1,-0.1,0.6,-0.6,-0.5,0" 
+class="s9_243"
+>birthday </text>
+
+<text 
+x="102" 
+y="469" 
+dx="0,-0.1,0.2,0.1,-0.1,0.6,-0.6,-0.5,0" 
+class="s9_243"
+>birthday </text>
+
+<text 
+x="102" 
+y="495" 
+dx="0,-0.3,0.3,0.4,0.3,0,0.5" 
+class="s9_243"
+>dinner.</text>
+
+<text 
+x="102" 
+y="495" 
+dx="0,-0.3,0.3,0.4,0.3,0,0.5" 
+class="s9_243"
+>dinner.</text>
+
+<text 
+x="32" 
+y="1155" 
+dx="0,0,0" 
+class="s2_243"
+>220</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_d4s;
+	src: url("fonts/ProximaNova-Semibold_d4s.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_d4m;
+	src: url("fonts/ProximaNova-Bold_d4m.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_d4q;
+	src: url("fonts/ProximaNova-Extrabld_d4q.woff") format("woff");
+}
+
+@font-face {
+	font-family: CCMeanwhile_d5i;
+	src: url("fonts/CCMeanwhile_d5i.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

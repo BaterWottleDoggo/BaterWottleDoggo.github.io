@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 41 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_41{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_41{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_41{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_41{
+fill: #DAEFEB;
+}
+.g5_41{
+fill: none;
+stroke: #C6EAFA;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_41{
+fill: none;
+stroke: #C6EAFA;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_41{
+fill: #CAE7E2;
+}
+.g8_41{
+fill: none;
+stroke: #00A3AF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_41{
+fill: #00A3AF;
+}
+.g10_41{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_41{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3pt;
+fill: #86B345;
+}
+.s2_41{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s3_41{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3pa;
+fill: #7AAD35;
+}
+.s4_41{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3q9;
+fill: #3F3F40;
+}
+.s5_41{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s6_41{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3pt;
+fill: #3F3F40;
+}
+.s7_41{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s8_41{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #749E3C;
+}
+.s9_41{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s10_41{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #749E3C;
+}
+.s11_41{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBoldIta_3r1;
+fill: #67962C;
+}
+.s12_41{
+font-size: 14.51px;
+font-family: LibreFranklin-Medium_3p8;
+fill: #231F20;
+}
+.s13_41{
+font-size: 36.67px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #F7931D;
+}
+.s14_41{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #231F20;
+}
+.s15_41{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #00AEEF;
+}
+.s16_41{
+font-size: 36.67px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #F7931D;
+}
+.s17_41{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #231F20;
+}
+.s18_41{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #00AEEF;
+}
+.s19_41{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3qb;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M123.8,78.3l12.2,0" class="g1_41" />
+<text 
+x="123" 
+y="72" 
+dx="0,0" 
+class="s1_41"
+>B </text>
+
+<text 
+x="383" 
+y="77" 
+dx="0,0" 
+class="s2_41"
+>方便</text>
+
+<text 
+x="443" 
+y="77" 
+dx="0,0,0,0,0,-0.7,0,0,0,0,0,0" 
+class="s3_41"
+>(convenient)</text>
+
+<text 
+x="161" 
+y="148" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s4_41"
+>As an adjective, </text>
+
+<text 
+x="270" 
+y="149" 
+dx="0,0" 
+class="s5_41"
+>方便</text>
+
+<text 
+x="320" 
+y="148" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_41"
+>can appear in a sentence as a predicate, as in (1) and (2).</text>
+
+<text 
+x="176" 
+y="204" 
+dx="0,0" 
+class="s6_41"
+>1 </text>
+
+<text 
+x="244" 
+y="206" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_41"
+>住在城里买东西很</text>
+
+<text 
+x="452" 
+y="206" 
+dx="0,0" 
+class="s8_41"
+>方便</text>
+
+<text 
+x="504" 
+y="206" 
+dx="0" 
+class="s7_41"
+>。</text>
+
+<text 
+x="244" 
+y="247" 
+dx="0,0,0,0,0,0,0,0" 
+class="s9_41"
+>住在城裡買東西很</text>
+
+<text 
+x="452" 
+y="247" 
+dx="0,0" 
+class="s10_41"
+>方便</text>
+
+<text 
+x="504" 
+y="247" 
+dx="0" 
+class="s9_41"
+>。</text>
+
+<text 
+x="250" 
+y="281" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0.1,-0.6,0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s4_41"
+>Living in the city, it's very convenient to shop. </text>
+
+<text 
+x="555" 
+y="281" 
+dx="0,0,0,-0.2,0,0,0,0,0,-0.2,0" 
+class="s11_41"
+>[predicate]</text>
+
+<text 
+x="174" 
+y="339" 
+dx="0,0" 
+class="s6_41"
+>2 </text>
+
+<text 
+x="244" 
+y="342" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_41"
+>我想问您一个问题，您现在</text>
+
+<text 
+x="556" 
+y="342" 
+dx="0,0" 
+class="s8_41"
+>方便</text>
+
+<text 
+x="608" 
+y="342" 
+dx="0,0" 
+class="s7_41"
+>吗？</text>
+
+<text 
+x="244" 
+y="382" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_41"
+>我想問您一個問題，您現在</text>
+
+<text 
+x="556" 
+y="382" 
+dx="0,0" 
+class="s10_41"
+>方便</text>
+
+<text 
+x="608" 
+y="382" 
+dx="0,0" 
+class="s9_41"
+>嗎？</text>
+
+<text 
+x="250" 
+y="416" 
+dx="0,0,-1,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s4_41"
+>I’d like to ask you a question. Is right now convenient for you? </text>
+
+<text 
+x="661" 
+y="416" 
+dx="0,0,0,-0.2,0,0,0,0,0,-0.2,0" 
+class="s11_41"
+>[predicate]</text>
+
+<text 
+x="161" 
+y="464" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_41"
+>It can also appear as an attributive, as in (3).</text>
+
+<text 
+x="174" 
+y="520" 
+dx="0,0" 
+class="s6_41"
+>3 </text>
+
+<text 
+x="244" 
+y="523" 
+dx="0,0" 
+class="s8_41"
+>方便</text>
+
+<text 
+x="296" 
+y="523" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_41"
+>的时候，请给我打个电话。</text>
+
+<text 
+x="244" 
+y="563" 
+dx="0,0" 
+class="s10_41"
+>方便</text>
+
+<text 
+x="296" 
+y="563" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_41"
+>的時候，請給我打個電話。</text>
+
+<text 
+x="250" 
+y="597" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s4_41"
+>Please give me a call whenever is convenient for you. </text>
+
+<text 
+x="608" 
+y="597" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s11_41"
+>[attributive]</text>
+
+<path d="M151.2,41.8l0,53.5l0,0.8l0.8,0l676.9,0l0.7,0l0,-0.8l0,-53.5l0,-0.7l-0.7,0L152,41.1l-0.8,0l0,0.7Z" class="g2_41" />
+<path d="M153.2,94l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_41" />
+<path d="M169,181.3c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6L199,189c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_41" />
+<path d="M169,183.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6L197,189c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_41" />
+<path d="M169,316.5c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_41" />
+<path d="M169,318.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_41" />
+<path d="M169,497.6c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_41" />
+<path d="M169,499.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_41" />
+<path d="M852.5,829.5l0,-37.6L834.2,773.5l-264.4,0l0,56.1Z" class="g4_41" />
+<path d="M83.6,909.9l768.9,0" class="g5_41" />
+<path d="M83.6,1001.9l768.9,0" class="g6_41" />
+<path d="M370.8,1007.8l194.5,0l0,-213.3l-194.5,0l0,213.3Z" class="g7_41" />
+<text 
+x="385" 
+y="838" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.1,0,0,0" 
+class="s12_41"
+>Using the word/phrase </text>
+
+<text 
+x="385" 
+y="856" 
+dx="0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s12_41"
+>in orange as a clue, try to </text>
+
+<text 
+x="385" 
+y="874" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_41"
+>figure out the meaning </text>
+
+<text 
+x="385" 
+y="893" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s12_41"
+>of the words/phrases in </text>
+
+<text 
+x="385" 
+y="911" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_41"
+>blue; consult a dictionary </text>
+
+<text 
+x="385" 
+y="929" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0" 
+class="s12_41"
+>if necessary. Consider </text>
+
+<text 
+x="385" 
+y="947" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0" 
+class="s12_41"
+>how the literal and </text>
+
+<text 
+x="385" 
+y="966" 
+dx="0,-0.3,-0.3,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s12_41"
+>extended senses are </text>
+
+<text 
+x="385" 
+y="984" 
+dx="0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_41"
+>related in each case.</text>
+
+<path d="M366.8,829.8l0,-56.3l-264.9,0L83.6,791.9l0,38.1Z" class="g4_41" />
+<text 
+x="137" 
+y="812" 
+dx="0,0,0,0,0" 
+class="s13_41"
+>叫出租汽车</text>
+
+<text 
+x="94" 
+y="863" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s14_41"
+>昨天晚上她唱歌唱得不</text>
+
+<text 
+x="94" 
+y="891" 
+dx="0,0,0,0,0,0,0" 
+class="s14_41"
+>错，很多人为她</text>
+
+<text 
+x="276" 
+y="891" 
+dx="0,0" 
+class="s15_41"
+>叫好</text>
+
+<text 
+x="328" 
+y="891" 
+dx="0" 
+class="s14_41"
+>。</text>
+
+<text 
+x="94" 
+y="949" 
+dx="0,0,0,0,0,0" 
+class="s14_41"
+>这个电影特别</text>
+
+<text 
+x="250" 
+y="949" 
+dx="0,0" 
+class="s15_41"
+>叫座</text>
+
+<text 
+x="302" 
+y="949" 
+dx="0,0" 
+class="s14_41"
+>，很</text>
+
+<text 
+x="94" 
+y="977" 
+dx="0,0,0,0,0,0" 
+class="s14_41"
+>多人想去看。</text>
+
+<text 
+x="618" 
+y="812" 
+dx="0,0,0,0,0" 
+class="s16_41"
+>叫出租汽車</text>
+
+<text 
+x="575" 
+y="863" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s17_41"
+>昨天晚上她唱歌唱得不</text>
+
+<text 
+x="575" 
+y="891" 
+dx="0,0,0,0,0,0,0" 
+class="s17_41"
+>錯，很多人為她</text>
+
+<text 
+x="757" 
+y="891" 
+dx="0,0" 
+class="s18_41"
+>叫好</text>
+
+<text 
+x="809" 
+y="891" 
+dx="0" 
+class="s17_41"
+>。</text>
+
+<text 
+x="575" 
+y="949" 
+dx="0,0,0,0,0,0" 
+class="s17_41"
+>這個電影特別</text>
+
+<text 
+x="731" 
+y="949" 
+dx="0,0" 
+class="s18_41"
+>叫座</text>
+
+<text 
+x="783" 
+y="949" 
+dx="0,0" 
+class="s17_41"
+>，很</text>
+
+<text 
+x="575" 
+y="977" 
+dx="0,0,0,0,0,0" 
+class="s17_41"
+>多人想去看。</text>
+
+<path d="M401.9,747.9l-89.8,0l-15.8,10.6l0,15" class="g8_41" />
+<path d="M541.2,747.9l99.6,0l16.6,10.6l0,15" class="g8_41" />
+<path d="M502.1,731.6c-1.5,2.9,-2.7,5.4,-5.2,10.9l-19.7,43.2l-0.7,0L465.2,761l-11.3,24.7l-0.9,0L432.9,742.3c-2,-4.3,-3.7,-7.7,-5.5,-10.7l7.7,0c0.8,2.5,2.2,5.6,3.9,9.2l15.2,34.1l8.4,-19.7l-5.9,-12.9c-2.5,-5.5,-3.5,-7.7,-5.5,-10.7l7.2,0c0.9,2.5,1.7,4.6,4.3,10.1l2.9,6.7l2.9,-6.9c2.2,-5,3.2,-7.5,4,-9.9l6.7,0c-1.1,1.6,-2.8,5.2,-5.4,10.8l-5.6,12.1l8.8,20.1l14.1,-32.9c2.7,-5.7,3.6,-8.2,4.2,-10.1Z" class="g9_41" />
+<path d="M503.4,763.1c6.3,0,11.2,5,11.2,11.2c0,6.2,-4.9,11.3,-11.2,11.3c-6.2,0,-11.2,-5.1,-11.2,-11.3c0,-6.2,5,-11.2,11.2,-11.2m0,20.2c4.8,0,8.6,-4,8.6,-9c0,-5,-3.8,-9,-8.6,-9c-4.7,0,-8.5,4,-8.5,9c0,5,3.8,9,8.5,9Z" class="g9_41" />
+<path d="M519.2,779.7c0,2.2,0.1,4.5,0.2,5.5l-2.9,0c0.1,-1,0.2,-3.3,0.2,-5.5l0,-10.5c0,-2.2,-0.1,-4.8,-0.2,-5.7l4.6,0c4.8,0,7.4,2.6,7.4,6.3c0,3.4,-2.1,5.2,-4.3,5.9c2.3,2.8,5,7.1,7.5,9.5l-3.5,0c-1.8,-2.3,-4.4,-5.9,-6.2,-9.1c-0.4,0.1,-0.7,0.1,-1.1,0.1l-1.7,0Zm0,-5.4l2.1,0c2.6,0,4.6,-1.8,4.6,-4.4c0,-2.3,-1.6,-4.4,-4.9,-4.4l-1.8,0Z" class="g9_41" />
+<path d="M532.5,785.2c0.1,-1,0.1,-3.5,0.1,-5.7l0,-10.3c0,-2.2,0,-4.8,-0.1,-5.7l6.1,0c6,0,10.9,4.8,10.9,10.8c0,6,-4.9,10.9,-10.9,10.9Zm2.7,-2.1l3.2,0c4.7,0,8.4,-4,8.4,-8.8c0,-4.7,-3.7,-8.7,-8.4,-8.7l-3.2,0Z" class="g9_41" />
+<path d="M560.8,779.5c0,3.6,-2.7,6.2,-6.6,6.2c-2.1,0,-3.3,-0.6,-4.9,-0.8l0,-3.6c0.8,1.3,2.8,2.3,5,2.3c2.3,0,3.7,-1.6,3.7,-3.8c0,-4.7,-8.1,-4.7,-8.1,-10.9c0,-3.7,2.7,-5.9,6.3,-5.9c1.6,0,2.7,0.5,4,0.6l0,3.5c-0.6,-1.4,-2.2,-2.1,-4,-2.1c-2.1,0,-3.6,1.3,-3.6,3.6c0,4.5,8.2,4.6,8.2,10.9Z" class="g9_41" />
+<path d="M503.3,752.6l2.2,0c0.2,0,0.4,-0.1,0.5,-0.3l1.8,-5.1c0,-0.1,0.1,-0.2,0.3,-0.2l7.8,0c0.1,0,0.1,0,0.2,0.1c0,0,0.1,0.1,0.1,0.2l1.8,4.9c0.1,0.3,0.2,0.4,0.5,0.4l2.6,0c0.2,0,0.3,-0.1,0.3,-0.4c0,-0.1,0,-0.1,0,-0.2l-7.1,-19.7c-0.1,-0.3,-0.3,-0.5,-0.7,-0.5l-2.8,0c-0.2,0,-0.3,0.1,-0.4,0.1c-0.1,0.1,-0.2,0.2,-0.2,0.4L503,752l0,0.2c0,0.3,0.1,0.4,0.3,0.4m5.6,-8.2c-0.1,0,-0.2,-0.1,-0.2,-0.2l0,-0.2l3.1,-8.4c0.1,-0.1,0.1,-0.2,0.2,-0.2c0.1,0,0.1,0.1,0.2,0.2l3,8.4c0.1,0.1,0.1,0.2,0,0.3c0,0.1,-0.1,0.1,-0.2,0.1Zm28.7,-12.6l-2.2,0c-0.2,0,-0.4,0.1,-0.5,0.1c0,0,-0.1,0.2,-0.2,0.3l-4.8,8.5c-0.1,0.2,-0.2,0.2,-0.3,0.2c-0.1,0,-0.2,-0.1,-0.3,-0.3l-4.9,-8.4c-0.1,-0.1,-0.2,-0.2,-0.2,-0.3c-0.1,0,-0.3,-0.1,-0.5,-0.1l-2.6,0c-0.3,0,-0.5,0.1,-0.5,0.3c0,0.1,0.1,0.2,0.1,0.3l6.7,11.2c0.1,0.1,0.2,0.3,0.2,0.4c0.1,0.1,0.1,0.2,0.1,0.4l0,7.7c0,0.3,0.1,0.5,0.5,0.5l2.2,0c0.3,0,0.4,-0.1,0.5,-0.1c0.1,-0.1,0.1,-0.3,0.1,-0.5l0,-7.6c0,-0.3,0.1,-0.6,0.1,-0.7c0,-0.1,0.1,-0.3,0.1,-0.4l6.7,-11c0,-0.2,0.1,-0.3,0,-0.3c-0.1,-0.1,-0.2,-0.2,-0.3,-0.2Z" class="g9_41" />
+<path d="M407.4,752.6l1.5,0c0.2,0,0.3,-0.1,0.4,-0.2l1.2,-3.5c0.1,-0.1,0.1,-0.2,0.3,-0.2l5.3,0c0.1,0,0.2,0,0.2,0.1l0.1,0.1l1.2,3.4c0.1,0.2,0.2,0.3,0.3,0.3l1.9,0c0.1,0,0.2,-0.1,0.2,-0.3c0,0,0,-0.1,0,-0.1l-4.9,-13.7c-0.1,-0.2,-0.3,-0.3,-0.5,-0.3l-2,0c-0.1,0,-0.2,0,-0.3,0c0,0.1,-0.1,0.1,-0.1,0.3l-5,13.7l0,0.1c0,0.2,0.1,0.3,0.2,0.3m3.9,-5.7c-0.1,0,-0.2,-0.1,-0.2,-0.2l0.1,-0.1l2.1,-5.8c0.1,-0.1,0.1,-0.2,0.2,-0.2c0,0,0.1,0.1,0.1,0.2l2.1,5.8c0,0.1,0,0.2,0,0.2c0,0.1,-0.1,0.1,-0.2,0.1Z" class="g9_41" />
+<path d="M396.6,768.6l-1.1,0c-0.3,0,-0.4,0.1,-0.4,0.2l-3.8,13.5c-0.1,0.2,-0.1,0.2,-0.2,0.2c0,0,-0.1,0,-0.1,-0.2l-3.8,-13.4c0,-0.1,-0.1,-0.2,-0.1,-0.3c-0.1,0,-0.2,0,-0.3,0l-1.3,0c-0.2,0,-0.4,0.1,-0.4,0.2l-3.8,13.5c-0.1,0.1,-0.1,0.2,-0.2,0.2c0,0,-0.1,-0.1,-0.1,-0.3l-3.8,-13.3c0,-0.2,-0.1,-0.3,-0.4,-0.3l-1.4,0c-0.3,0,-0.4,0.1,-0.4,0.3c0,0,0,0.1,0,0.1l4.7,16.3c0.1,0.2,0.3,0.4,0.5,0.4l1.5,0c0.1,0,0.2,-0.1,0.3,-0.1c0.1,-0.1,0.2,-0.2,0.2,-0.3l3.7,-13c0.1,-0.2,0.1,-0.2,0.2,0l3.6,13c0.1,0.2,0.3,0.4,0.6,0.4l1.4,0c0.1,0,0.2,-0.1,0.3,-0.1c0.1,-0.1,0.2,-0.2,0.2,-0.3L396.9,769c0.1,-0.1,0,-0.2,0,-0.3c-0.1,-0.1,-0.2,-0.1,-0.3,-0.1m3.9,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,16.4c0,0.2,0,0.2,0.1,0.3c0,0,0.1,0.1,0.3,0.1l1.4,0c0.2,0,0.3,-0.1,0.3,-0.1c0.1,-0.1,0.1,-0.2,0.1,-0.3l0,-16.4c0,-0.2,-0.1,-0.3,-0.3,-0.3Zm5.1,1.4c0,0.1,0,0.2,0.1,0.2c0,0,0.1,0.1,0.2,0.1l5,0c0.1,0,0.2,0,0.2,0c0,0,0,0.1,0,0.2l0,14.9c0,0.2,0.1,0.3,0.3,0.3l1.7,0c0.2,0,0.3,-0.1,0.3,-0.3l0,-14.9c0,-0.1,0,-0.2,0,-0.2c0,0,0.1,0,0.2,0l4.7,0c0.1,0,0.1,-0.1,0.2,-0.1c0,0,0,-0.1,0,-0.2l0,-1.2c0,-0.1,0,-0.2,-0.2,-0.2l-12.4,0c-0.2,0,-0.3,0.1,-0.3,0.2Zm26.2,7.7c0.1,0,0.2,0,0.2,0.2l0,7.4c0,0.1,0,0.2,0.1,0.3c0,0,0.1,0.1,0.3,0.1l1.4,0c0.3,0,0.4,-0.2,0.4,-0.4l0,-16.4c0,-0.1,0,-0.2,-0.1,-0.2c0,-0.1,-0.1,-0.1,-0.2,-0.1l-1.7,0c-0.2,0,-0.2,0.1,-0.2,0.3l0,6.7c0,0.2,-0.1,0.3,-0.3,0.3l-7.5,0c-0.1,0,-0.2,0,-0.2,0c0,-0.1,-0.1,-0.1,-0.1,-0.3l0,-6.7c0,-0.2,-0.1,-0.3,-0.2,-0.3l-1.7,0c-0.2,0,-0.3,0.1,-0.3,0.3l0,16.4c0,0.2,0,0.2,0.1,0.3c0,0,0.1,0.1,0.2,0.1l1.5,0c0.2,0,0.3,-0.1,0.3,-0.1c0.1,-0.1,0.1,-0.2,0.1,-0.3l0,-7.4c0,-0.1,0,-0.1,0.1,-0.2c0,0,0.1,0,0.1,0Z" class="g9_41" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g10_41" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1" 
+class="s19_41"
+>18 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1138)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s19_41"
+>Integrated Chinese 3 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 998)"
+dx="0,1" 
+class="s19_41"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 984)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s19_41"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBoldIta_3r1;
+	src: url("fonts/LibreFranklin-SemiBoldIta_3r1.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3qb;
+	src: url("fonts/LibreFranklin-SemiBold_3qb.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3pa;
+	src: url("fonts/LibreFranklin-Bold_3pa.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3pt;
+	src: url("fonts/LibreFranklin-ExtraBold_3pt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3q9;
+	src: url("fonts/LibreFranklin-Regular_3q9.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3p8;
+	src: url("fonts/LibreFranklin-Medium_3p8.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 206 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_206{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_206{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_206{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_206{
+fill: none;
+stroke: #EDF3F7;
+stroke-width: 91.666664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_206{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_206{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_206{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_206{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_44v;
+fill: #007598;
+}
+.s2_206{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_44v;
+fill: #007D9F;
+}
+.s3_206{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_44h;
+fill: #007D9F;
+}
+.s4_206{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_45b;
+fill: #3F3F40;
+}
+.s5_206{
+font-size: 24.44px;
+font-family: STKaitiSC-Bold_3wm;
+fill: #007598;
+}
+.s6_206{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s7_206{
+font-size: 19.86px;
+font-family: LibreFranklin-Bold_44h;
+fill: #007598;
+}
+.s8_206{
+font-size: 17.57px;
+font-family: LibreFranklin-Medium_44i;
+fill: #231F20;
+}
+.s9_206{
+font-size: 22.92px;
+font-family: STKaitiSC-Regular_44y;
+fill: #231F20;
+}
+.s10_206{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_44v;
+fill: #3F3F40;
+}
+.s11_206{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #3F3F40;
+}
+.s12_206{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #007D9F;
+}
+.s13_206{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s14_206{
+font-size: 17.19px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #3F3F40;
+}
+.s15_206{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_454;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0.8,97.3l211.5,0" class="g1_206" />
+<path d="M0.8,99.8l211.5,0" class="g2_206" />
+<path d="M119.1,181.1l12.9,0" class="g3_206" />
+<path d="M148.2,469.6l679.9,0" class="g4_206" />
+<text 
+x="62" 
+y="85" 
+dx="0,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_206"
+>Grammar</text>
+
+<text 
+x="119" 
+y="177" 
+dx="0,0" 
+class="s2_206"
+>4 </text>
+
+<text 
+x="331" 
+y="182" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_206"
+>Directional complements (II)</text>
+
+<text 
+x="157" 
+y="244" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.5,0,0,0" 
+class="s4_206"
+>Directional complements indicate the direction in which a person or an object moves. </text>
+
+<text 
+x="157" 
+y="271" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>A directional verb such as </text>
+
+<text 
+x="342" 
+y="273" 
+dx="0" 
+class="s5_206"
+>上</text>
+
+<text 
+x="369" 
+y="271" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>(shang)</text>
+
+<text 
+x="423" 
+y="271" 
+dx="0,0,-0.2,0,0,-0.1,0,0,0,0,0,0" 
+class="s4_206"
+>(to go up), </text>
+
+<text 
+x="496" 
+y="273" 
+dx="0" 
+class="s5_206"
+>下</text>
+
+<text 
+x="523" 
+y="271" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>(xia)</text>
+
+<text 
+x="558" 
+y="271" 
+dx="0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>(to go down), </text>
+
+<text 
+x="652" 
+y="273" 
+dx="0" 
+class="s5_206"
+>进</text>
+
+<text 
+x="680" 
+y="271" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>(jin)</text>
+
+<text 
+x="711" 
+y="271" 
+dx="0,0,-0.2,0,0,-0.1,0,0,0,0,0,0" 
+class="s4_206"
+>(to go in), </text>
+
+<text 
+x="157" 
+y="300" 
+dx="0" 
+class="s5_206"
+>出</text>
+
+<text 
+x="185" 
+y="299" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>(chu)</text>
+
+<text 
+x="223" 
+y="299" 
+dx="0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0" 
+class="s4_206"
+>(to go out), </text>
+
+<text 
+x="302" 
+y="300" 
+dx="0" 
+class="s5_206"
+>回</text>
+
+<text 
+x="330" 
+y="299" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>(hui)</text>
+
+<text 
+x="366" 
+y="299" 
+dx="0,0,-0.2,0,0,-0.2,-0.1,0,0,0,0,0,0" 
+class="s4_206"
+>(to return), </text>
+
+<text 
+x="443" 
+y="300" 
+dx="0" 
+class="s5_206"
+>过</text>
+
+<text 
+x="471" 
+y="299" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>(guo)</text>
+
+<text 
+x="509" 
+y="299" 
+dx="0,0,-0.2,0,0,-0.1,0,0,-0.4,-0.5,0,-1.3,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>(to go over, to pass), </text>
+
+<text 
+x="652" 
+y="300" 
+dx="0" 
+class="s5_206"
+>起</text>
+
+<text 
+x="680" 
+y="299" 
+dx="0,0.3,0.3,0.3" 
+class="s6_206"
+>(qi)</text>
+
+<text 
+x="706" 
+y="299" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>(to rise), </text>
+
+<text 
+x="157" 
+y="328" 
+dx="0" 
+class="s5_206"
+>开</text>
+
+<text 
+x="185" 
+y="326" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>(kai)</text>
+
+<text 
+x="219" 
+y="326" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s4_206"
+>(to part from), </text>
+
+<text 
+x="319" 
+y="328" 
+dx="0" 
+class="s5_206"
+>到</text>
+
+<text 
+x="347" 
+y="326" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>(dao)</text>
+
+<text 
+x="385" 
+y="326" 
+dx="0,0,-0.2,0,0,0,0,0,0,-0.5,0,0,0" 
+class="s4_206"
+>(to arrive), </text>
+
+<text 
+x="459" 
+y="328" 
+dx="0" 
+class="s5_206"
+>来</text>
+
+<text 
+x="486" 
+y="326" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>(lai)</text>
+
+<text 
+x="517" 
+y="326" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>(to come), and </text>
+
+<text 
+x="620" 
+y="328" 
+dx="0" 
+class="s5_206"
+>去</text>
+
+<text 
+x="648" 
+y="326" 
+dx="0,0.3,0.3,0.3" 
+class="s6_206"
+>(qu)</text>
+
+<text 
+x="679" 
+y="326" 
+dx="0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>(to go) can be </text>
+
+<text 
+x="157" 
+y="354" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,0,-0.5,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>placed after another verb to become what is known as a “simple directional complement.”</text>
+
+<text 
+x="154" 
+y="405" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_206"
+>Simple directional complements:</text>
+
+<text 
+x="444" 
+y="446" 
+dx="0,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,0" 
+class="s8_206"
+>Pattern A1 </text>
+
+<text 
+x="282" 
+y="474" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s8_206"
+>Subject + verb + place word/noun (phrase) + </text>
+
+<text 
+x="636" 
+y="474" 
+dx="0,0,0" 
+class="s9_206"
+>来/去</text>
+
+<text 
+x="169" 
+y="560" 
+dx="0,0" 
+class="s10_206"
+>A </text>
+
+<text 
+x="239" 
+y="563" 
+dx="0,0,0" 
+class="s11_206"
+>她下楼</text>
+
+<text 
+x="336" 
+y="563" 
+dx="0" 
+class="s12_206"
+>来</text>
+
+<text 
+x="368" 
+y="563" 
+dx="0" 
+class="s11_206"
+>。</text>
+
+<text 
+x="245" 
+y="600" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>Tā xià lóu </text>
+
+<text 
+x="315" 
+y="600" 
+dx="0,0.3,0.3" 
+class="s13_206"
+>lai</text>
+
+<text 
+x="331" 
+y="600" 
+dx="0" 
+class="s6_206"
+>.</text>
+
+<text 
+x="245" 
+y="632" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>She comes downstairs.</text>
+
+<text 
+x="169" 
+y="689" 
+dx="0,0" 
+class="s10_206"
+>B </text>
+
+<text 
+x="239" 
+y="692" 
+dx="0,0,0" 
+class="s11_206"
+>她上楼</text>
+
+<text 
+x="336" 
+y="692" 
+dx="0" 
+class="s12_206"
+>去</text>
+
+<text 
+x="368" 
+y="692" 
+dx="0" 
+class="s11_206"
+>。</text>
+
+<text 
+x="245" 
+y="729" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>Tā shàng lóu </text>
+
+<text 
+x="334" 
+y="729" 
+dx="0,0.3" 
+class="s13_206"
+>qu</text>
+
+<text 
+x="351" 
+y="729" 
+dx="0" 
+class="s6_206"
+>.</text>
+
+<text 
+x="245" 
+y="761" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>She goes upstairs.</text>
+
+<text 
+x="169" 
+y="818" 
+dx="0,0" 
+class="s10_206"
+>C </text>
+
+<text 
+x="239" 
+y="821" 
+dx="0,0,0,0,0,0,0" 
+class="s11_206"
+>请你买一些水果</text>
+
+<text 
+x="464" 
+y="821" 
+dx="0" 
+class="s12_206"
+>来</text>
+
+<text 
+x="496" 
+y="821" 
+dx="0" 
+class="s11_206"
+>。</text>
+
+<text 
+x="245" 
+y="858" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>Qǐng nǐ mǎi yì xiē shuǐguǒ </text>
+
+<text 
+x="421" 
+y="858" 
+dx="0,0.3,0.3" 
+class="s13_206"
+>lai</text>
+
+<text 
+x="438" 
+y="858" 
+dx="0" 
+class="s6_206"
+>.</text>
+
+<text 
+x="245" 
+y="890" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>Please buy some fruit (and bring it) here. (anticipated action)</text>
+
+<text 
+x="169" 
+y="947" 
+dx="0,0" 
+class="s10_206"
+>D </text>
+
+<text 
+x="239" 
+y="950" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_206"
+>你给他送一点儿吃的东西</text>
+
+<text 
+x="592" 
+y="950" 
+dx="0" 
+class="s12_206"
+>去</text>
+
+<text 
+x="624" 
+y="950" 
+dx="0" 
+class="s11_206"
+>。</text>
+
+<text 
+x="245" 
+y="987" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>Nǐ gěi tā sòng yì diǎnr chī de dōngxi </text>
+
+<text 
+x="486" 
+y="987" 
+dx="0,0.3" 
+class="s13_206"
+>qu</text>
+
+<text 
+x="503" 
+y="987" 
+dx="0" 
+class="s6_206"
+>.</text>
+
+<text 
+x="245" 
+y="1019" 
+dx="0,-1.3,0,-0.4,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>Take some food to him. (anticipated action)</text>
+
+<text 
+x="169" 
+y="1076" 
+dx="0,0" 
+class="s10_206"
+>E </text>
+
+<text 
+x="239" 
+y="1079" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_206"
+>妹妹给爸爸拿了一杯咖啡</text>
+
+<text 
+x="592" 
+y="1079" 
+dx="0" 
+class="s12_206"
+>来</text>
+
+<text 
+x="624" 
+y="1079" 
+dx="0" 
+class="s11_206"
+>。</text>
+
+<text 
+x="245" 
+y="1116" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_206"
+>Mèimei gěi bàba ná le yì bēi kāfēi </text>
+
+<text 
+x="468" 
+y="1116" 
+dx="0,0.3,0.3" 
+class="s13_206"
+>lai</text>
+
+<text 
+x="485" 
+y="1116" 
+dx="0" 
+class="s6_206"
+>.</text>
+
+<text 
+x="245" 
+y="1148" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s4_206"
+>My younger sister brought Dad a cup of coffee. (completed action)</text>
+
+<path d="M146.6,146.9l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g5_206" />
+<path d="M148.7,199.1l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g6_206" />
+<text 
+x="638" 
+y="498" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s14_206"
+>(lai/qu)</text>
+
+<path d="M164.4,537.5c-0.1,0,-7.7,0,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g5_206" />
+<path d="M164.4,539.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_206" />
+<path d="M164.4,666.5c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g5_206" />
+<path d="M164.4,668.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_206" />
+<path d="M164.4,795.5c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g5_206" />
+<path d="M164.4,797.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_206" />
+<path d="M164.4,924.5c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g5_206" />
+<path d="M164.4,926.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,-0.1,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_206" />
+<path d="M164.4,1053.5c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g5_206" />
+<path d="M164.4,1055.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_206" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g7_206" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 923)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s15_206"
+>Lesson 16 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 995)"
+dx="0,1" 
+class="s15_206"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1009)"
+dx="0,1,1,1,1,1,1" 
+class="s15_206"
+>Dating </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1060)"
+dx="0,1" 
+class="s15_206"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1074)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s15_206"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1151)"
+dx="0,1,1,-2.3" 
+class="s15_206"
+>185 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_44v;
+	src: url("fonts/LibreFranklin-ExtraBold_44v.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_45b;
+	src: url("fonts/LibreFranklin-Regular_45b.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_3wm;
+	src: url("fonts/STKaitiSC-Bold_3wm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_454;
+	src: url("fonts/LibreFranklin-SemiBold_454.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_44y;
+	src: url("fonts/STKaitiSC-Regular_44y.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_44i;
+	src: url("fonts/LibreFranklin-Medium_44i.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_44h;
+	src: url("fonts/LibreFranklin-Bold_44h.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

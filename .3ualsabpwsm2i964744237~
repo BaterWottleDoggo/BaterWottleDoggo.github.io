@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 223 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_223"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_223{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_223{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_223{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_223{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_223{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_223{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_223{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_47v;
+fill: #007598;
+}
+.s2_223{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_47v;
+fill: #007D9F;
+}
+.s3_223{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_47x;
+fill: #007D9F;
+}
+.s4_223{
+font-size: 27.50px;
+font-family: STKaitiSC-Bold_3wm;
+fill: #3F3F40;
+}
+.s5_223{
+font-size: 20.63px;
+font-family: GentiumBasic-Italic_48i;
+fill: #3F3F40;
+}
+.s6_223{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_48f;
+fill: #3F3F40;
+}
+.s7_223{
+font-size: 24.44px;
+font-family: STKaitiSC-Bold_3wm;
+fill: #007598;
+}
+.s8_223{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s9_223{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_47v;
+fill: #3F3F40;
+}
+.s10_223{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_47x;
+fill: #939598;
+}
+.s11_223{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #3F3F40;
+}
+.s12_223{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #007D9F;
+}
+.s13_223{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s14_223{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_48i;
+fill: #3F3F40;
+}
+.s15_223{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_48i;
+fill: #007D9F;
+}
+.s16_223{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_487;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<g clip-path="url(#c0_223)">
+<path d="M-12.9,97.3l211.4,0" class="g1_223" />
+<path d="M-12.9,99.8l211.4,0" class="g2_223" />
+</g>
+<path d="M105.3,186.6l13,0" class="g3_223" />
+<text 
+x="48" 
+y="85" 
+dx="0,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_223"
+>Grammar</text>
+
+<text 
+x="105" 
+y="183" 
+dx="0,0" 
+class="s2_223"
+>1 </text>
+
+<text 
+x="180" 
+y="187" 
+dx="0,-1.8,0,0,0,0,0" 
+class="s3_223"
+>Verb + </text>
+
+<text 
+x="255" 
+y="187" 
+dx="0" 
+class="s4_223"
+>了</text>
+
+<text 
+x="287" 
+y="187" 
+dx="0,0.4,0.4,0.4" 
+class="s5_223"
+>(le)</text>
+
+<text 
+x="318" 
+y="187" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s3_223"
+>+ numeral + measure word + noun + </text>
+
+<text 
+x="706" 
+y="187" 
+dx="0" 
+class="s4_223"
+>了</text>
+
+<text 
+x="739" 
+y="187" 
+dx="0,0.4,0.4,0.4" 
+class="s5_223"
+>(le)</text>
+
+<text 
+x="143" 
+y="249" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_223"
+>This structure usually implies that the action has been continuing for some time and will </text>
+
+<text 
+x="143" 
+y="277" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1.2,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s6_223"
+>likely last into the future. For example, </text>
+
+<text 
+x="413" 
+y="278" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_223"
+>王朋在学校的宿舍住了两个学期了</text>
+
+<text 
+x="143" 
+y="304" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s8_223"
+>(Wáng Péng zài xuéxiào de sùshè zhù le liǎng ge xuéqī le)</text>
+
+<text 
+x="522" 
+y="304" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_223"
+>means that Wang Peng has been </text>
+
+<text 
+x="143" 
+y="332" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.5,0,0,0,0,0,-0.2,0,0" 
+class="s6_223"
+>living on campus for two semesters up to this moment and will continue to live there. </text>
+
+<text 
+x="155" 
+y="401" 
+dx="0,0" 
+class="s9_223"
+>A </text>
+
+<text 
+x="198" 
+y="402" 
+dx="0,0,0" 
+class="s10_223"
+>Q: </text>
+
+<text 
+x="224" 
+y="403" 
+dx="0,0,0,0,0,0" 
+class="s11_223"
+>你开出租汽车</text>
+
+<text 
+x="417" 
+y="403" 
+dx="0,0,0,0,0" 
+class="s12_223"
+>开了几年了</text>
+
+<text 
+x="577" 
+y="403" 
+dx="0" 
+class="s11_223"
+>？</text>
+
+<text 
+x="230" 
+y="440" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s8_223"
+>Nǐ kāi chūzū qìchē </text>
+
+<text 
+x="356" 
+y="440" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_223"
+>kāi le jǐ nián le</text>
+
+<text 
+x="452" 
+y="440" 
+dx="0" 
+class="s14_223"
+>?</text>
+
+<text 
+x="230" 
+y="473" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s6_223"
+>How many years have you been driving a cab for?</text>
+
+<text 
+x="198" 
+y="520" 
+dx="0,0,0" 
+class="s10_223"
+>A: </text>
+
+<text 
+x="224" 
+y="521" 
+dx="0,0,0,0" 
+class="s12_223"
+>一年半了</text>
+
+<text 
+x="352" 
+y="521" 
+dx="0" 
+class="s11_223"
+>。</text>
+
+<text 
+x="230" 
+y="549" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_223"
+>Yì nián bàn le.</text>
+
+<text 
+x="230" 
+y="581" 
+dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.1" 
+class="s6_223"
+>For a year and a half now.</text>
+
+<text 
+x="155" 
+y="645" 
+dx="0,0" 
+class="s9_223"
+>B </text>
+
+<text 
+x="226" 
+y="647" 
+dx="0,0,0,0,0,0,0" 
+class="s11_223"
+>弟弟写电子邮件</text>
+
+<text 
+x="450" 
+y="647" 
+dx="0,0,0,0,0,0,0" 
+class="s12_223"
+>写了半个钟头了</text>
+
+<text 
+x="675" 
+y="647" 
+dx="0,0,0,0,0" 
+class="s11_223"
+>，不知道 </text>
+
+<text 
+x="226" 
+y="686" 
+dx="0,0,0,0,0,0,0,0" 
+class="s11_223"
+>还要写多长时间。</text>
+
+<text 
+x="232" 
+y="723" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s8_223"
+>Dìdi xiě diànzǐ yóujiàn </text>
+
+<text 
+x="384" 
+y="723" 
+dx="0,0.3,0.3" 
+class="s13_223"
+>xiě</text>
+
+<text 
+x="407" 
+y="723" 
+dx="0,0.3,0.3" 
+class="s15_223"
+>le </text>
+
+<text 
+x="422" 
+y="723" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_223"
+>bàn ge zhōngtóu</text>
+
+<text 
+x="534" 
+y="723" 
+dx="0,0.3" 
+class="s15_223"
+>le</text>
+
+<text 
+x="546" 
+y="723" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s8_223"
+>, bù zhīdào hái yào xiě duō cháng shíjiān.</text>
+
+<text 
+x="232" 
+y="755" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,-0.2,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_223"
+>My younger brother has been writing emails for half an hour. Who knows how much </text>
+
+<text 
+x="232" 
+y="773" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_223"
+>longer he’ll be at it.</text>
+
+<text 
+x="143" 
+y="814" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_223"
+>The following two sentences differ in meaning:</text>
+
+<text 
+x="155" 
+y="878" 
+dx="0,0" 
+class="s9_223"
+>C </text>
+
+<text 
+x="226" 
+y="880" 
+dx="0" 
+class="s11_223"
+>他</text>
+
+<text 
+x="258" 
+y="880" 
+dx="0,0,0,0,0" 
+class="s12_223"
+>病了三天了</text>
+
+<text 
+x="418" 
+y="880" 
+dx="0" 
+class="s11_223"
+>。</text>
+
+<text 
+x="232" 
+y="917" 
+dx="0,0.3,0.3" 
+class="s8_223"
+>Tā </text>
+
+<text 
+x="253" 
+y="917" 
+dx="0,0.3,0.3,0.3" 
+class="s13_223"
+>bìng</text>
+
+<text 
+x="286" 
+y="917" 
+dx="0,0.3,0.3" 
+class="s15_223"
+>le </text>
+
+<text 
+x="301" 
+y="917" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_223"
+>sān tiān</text>
+
+<text 
+x="358" 
+y="917" 
+dx="0,0.3" 
+class="s15_223"
+>le</text>
+
+<text 
+x="369" 
+y="917" 
+dx="0" 
+class="s8_223"
+>.</text>
+
+<text 
+x="232" 
+y="949" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_223"
+>He has been sick for three days.</text>
+
+<text 
+x="232" 
+y="981" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_223"
+>[His illness has continued for three days and he currently remains sick.]</text>
+
+<path d="M132.9,152.4l0,53.5l0,0.8l0.7,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.7,0l0,0.7Z" class="g4_223" />
+<path d="M134.9,204.6l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g5_223" />
+<path d="M150.6,378.3c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g4_223" />
+<path d="M150.6,380.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_223" />
+<path d="M150.6,621.9c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g4_223" />
+<path d="M150.6,623.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_223" />
+<path d="M150.6,855.1c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g4_223" />
+<path d="M150.6,857.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_223" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g6_223" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s16_223"
+>202 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1129)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s16_223"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 988)"
+dx="0,1" 
+class="s16_223"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 975)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s16_223"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_47x;
+	src: url("fonts/LibreFranklin-Bold_47x.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_48i;
+	src: url("fonts/GentiumBasic-Italic_48i.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_3wm;
+	src: url("fonts/STKaitiSC-Bold_3wm.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_44y;
+	src: url("fonts/STKaitiSC-Regular_44y.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_48f;
+	src: url("fonts/LibreFranklin-Regular_48f.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_487;
+	src: url("fonts/LibreFranklin-SemiBold_487.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_47v;
+	src: url("fonts/LibreFranklin-ExtraBold_47v.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

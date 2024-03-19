@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 138 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_138{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_138{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_138{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_138{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_138{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3v-;
+fill: #86B345;
+}
+.s2_138{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s3_138{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3vu;
+fill: #7AAD35;
+}
+.s4_138{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s5_138{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3wc;
+fill: #3F3F40;
+}
+.s6_138{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3v-;
+fill: #3F3F40;
+}
+.s7_138{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s8_138{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #749E3C;
+}
+.s9_138{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s10_138{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #749E3C;
+}
+.s11_138{
+font-size: 27.50px;
+font-family: ZenKai-Medium_3qs;
+fill: #3F3F40;
+}
+.s12_138{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3wg;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,78.3l12.2,0" class="g1_138" />
+<text 
+x="119" 
+y="72" 
+dx="0,0" 
+class="s1_138"
+>E </text>
+
+<text 
+x="349" 
+y="77" 
+dx="0,0,0" 
+class="s2_138"
+>只好 </text>
+
+<text 
+x="411" 
+y="77" 
+dx="0,0,0,0,0,0,0,0,0,-1.7,0,0,0,0,-0.7,0,0,-0.4,0" 
+class="s3_138"
+>(can only, have to)</text>
+
+<text 
+x="157" 
+y="149" 
+dx="0,0" 
+class="s4_138"
+>只好</text>
+
+<text 
+x="207" 
+y="148" 
+dx="0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_138"
+>denotes the nonexistence of other options:</text>
+
+<text 
+x="171" 
+y="204" 
+dx="0,0" 
+class="s6_138"
+>1 </text>
+
+<text 
+x="239" 
+y="206" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_138"
+>那个电影我想今天看，可是今天的票卖完了，</text>
+
+<text 
+x="239" 
+y="240" 
+dx="0,0" 
+class="s8_138"
+>只好</text>
+
+<text 
+x="291" 
+y="240" 
+dx="0,0,0,0,0" 
+class="s7_138"
+>明天看了。</text>
+
+<text 
+x="239" 
+y="281" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_138"
+>那個電影我想今天看，可是今天的票賣完了，</text>
+
+<text 
+x="239" 
+y="314" 
+dx="0,0" 
+class="s10_138"
+>只好</text>
+
+<text 
+x="291" 
+y="314" 
+dx="0,0,0,0,0" 
+class="s9_138"
+>明天看了。</text>
+
+<text 
+x="245" 
+y="348" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_138"
+>I wanted to watch that movie today, but the tickets were sold out. I can only watch </text>
+
+<text 
+x="245" 
+y="368" 
+dx="0,0,0,0,-0.2,0,0,0,0,-0.2,0,-1" 
+class="s5_138"
+>it tomorrow.</text>
+
+<text 
+x="169" 
+y="426" 
+dx="0,0" 
+class="s6_138"
+>2 </text>
+
+<text 
+x="239" 
+y="429" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_138"
+>我们去一个中餐馆儿吃饭，我想吃烤鸭，服务员说不</text>
+
+<text 
+x="239" 
+y="462" 
+dx="0,0,0,0,0" 
+class="s7_138"
+>卖烤鸭，我</text>
+
+<text 
+x="369" 
+y="462" 
+dx="0,0" 
+class="s8_138"
+>只好</text>
+
+<text 
+x="421" 
+y="462" 
+dx="0,0,0,0,0,0" 
+class="s7_138"
+>点别的菜了。</text>
+
+<text 
+x="239" 
+y="503" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_138"
+>我們去一個中餐館兒吃飯，我想吃烤鴨，服務員說不</text>
+
+<text 
+x="239" 
+y="536" 
+dx="0,0,0,0,0" 
+class="s9_138"
+>賣烤鴨，我</text>
+
+<text 
+x="369" 
+y="536" 
+dx="0,0" 
+class="s10_138"
+>只好</text>
+
+<text 
+x="421" 
+y="536" 
+dx="0,0,0,0,0,0" 
+class="s9_138"
+>點別的菜了。</text>
+
+<text 
+x="245" 
+y="570" 
+dx="0,-1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_138"
+>We went to eat at a Chinese restaurant. I wanted to order roast duck, but the </text>
+
+<text 
+x="245" 
+y="590" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0" 
+class="s5_138"
+>waiter said they didn’t sell it. I had to order something else.</text>
+
+<text 
+x="169" 
+y="649" 
+dx="0,0" 
+class="s6_138"
+>3 </text>
+
+<text 
+x="239" 
+y="651" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_138"
+>我的车让妹妹开走了，我</text>
+
+<text 
+x="525" 
+y="651" 
+dx="0,0" 
+class="s8_138"
+>只好</text>
+
+<text 
+x="577" 
+y="651" 
+dx="0,0,0,0,0,0,0" 
+class="s7_138"
+>坐公共汽车去上</text>
+
+<text 
+x="759" 
+y="654" 
+dx="0" 
+class="s11_138"
+>班</text>
+
+<text 
+x="786" 
+y="651" 
+dx="0" 
+class="s7_138"
+>。</text>
+
+<text 
+x="239" 
+y="692" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_138"
+>我的車讓妹妹開走了，我</text>
+
+<text 
+x="525" 
+y="692" 
+dx="0,0" 
+class="s10_138"
+>只好</text>
+
+<text 
+x="577" 
+y="692" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_138"
+>坐公共汽車去上班。</text>
+
+<text 
+x="245" 
+y="725" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_138"
+>My younger sister was driving my car. I had to go to work by bus.</text>
+
+<text 
+x="169" 
+y="784" 
+dx="0,0" 
+class="s6_138"
+>4 </text>
+
+<text 
+x="239" 
+y="786" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_138"
+>我们打算去海边玩，可是一看外边下雨了，</text>
+
+<text 
+x="239" 
+y="820" 
+dx="0,0" 
+class="s8_138"
+>只好</text>
+
+<text 
+x="291" 
+y="820" 
+dx="0,0,0,0" 
+class="s7_138"
+>不去了。</text>
+
+<text 
+x="239" 
+y="860" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_138"
+>我們打算去海邊玩，可是一看外邊下雨了，</text>
+
+<text 
+x="239" 
+y="894" 
+dx="0,0" 
+class="s10_138"
+>只好</text>
+
+<text 
+x="291" 
+y="894" 
+dx="0,0,0,0" 
+class="s9_138"
+>不去了。</text>
+
+<text 
+x="245" 
+y="928" 
+dx="0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_138"
+>We had planned to hang out by the seashore, but when we saw it was raining, </text>
+
+<text 
+x="245" 
+y="947" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.6" 
+class="s5_138"
+>we had to call it off.</text>
+
+<path d="M146.6,41.8l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_138" />
+<path d="M148.7,94L823,94l0,-50.9l-674.3,0l0,50.9Z" class="g3_138" />
+<path d="M164.4,181.3c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_138" />
+<path d="M164.4,183.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_138" />
+<path d="M164.4,403.6c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_138" />
+<path d="M164.4,405.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_138" />
+<path d="M164.4,625.9c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_138" />
+<path d="M164.4,628c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,-0.1,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_138" />
+<path d="M164.4,761.1c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_138" />
+<path d="M164.4,763.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_138" />
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g4_138" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 865)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s12_138"
+>Lesson 4 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 931)"
+dx="0,1" 
+class="s12_138"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 944)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s12_138"
+>Shopping </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1013)"
+dx="0,1" 
+class="s12_138"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1026)"
+dx="0,0.1,1,0.8,1,1,1,1,1,1,1,0.9,1,1,1,1" 
+class="s12_138"
+>Words &amp; Phrases </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1153)"
+dx="0,1,1,0" 
+class="s12_138"
+>115 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3v-;
+	src: url("fonts/LibreFranklin-ExtraBold_3v-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZenKai-Medium_3qs;
+	src: url("fonts/ZenKai-Medium_3qs.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3vu;
+	src: url("fonts/LibreFranklin-Bold_3vu.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3wg;
+	src: url("fonts/LibreFranklin-SemiBold_3wg.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3wc;
+	src: url("fonts/LibreFranklin-Regular_3wc.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

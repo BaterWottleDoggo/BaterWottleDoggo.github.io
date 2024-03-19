@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 174 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_174{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_174{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_174{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_174{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_174{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_174{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3y5;
+fill: #872B91;
+}
+.s2_174{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3yk;
+fill: #3F3F40;
+}
+.s3_174{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3y5;
+fill: #8F4198;
+}
+.s4_174{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3y4;
+fill: #8F4198;
+}
+.s5_174{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_3y4;
+fill: #939598;
+}
+.s6_174{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s7_174{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s8_174{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_3y8;
+fill: #872B91;
+}
+.s9_174{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3yj;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,317.7l12.2,0" class="g1_174" />
+<path d="M119.2,662.9l12.2,0" class="g1_174" />
+<text 
+x="168" 
+y="69" 
+dx="0,0.2" 
+class="s1_174"
+>1 </text>
+
+<text 
+x="197" 
+y="69" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_174"
+>siblings </text>
+
+<text 
+x="513" 
+y="69" 
+dx="0,0,0,-0.2,0,-0.2,0,0" 
+class="s2_174"
+>wardrobe</text>
+
+<text 
+x="168" 
+y="110" 
+dx="0,0.2" 
+class="s1_174"
+>2 </text>
+
+<text 
+x="197" 
+y="110" 
+dx="0,0,0,-0.2,0,0,0,0" 
+class="s2_174"
+>parents </text>
+
+<text 
+x="513" 
+y="110" 
+dx="0,-0.3,0,0" 
+class="s2_174"
+>food</text>
+
+<text 
+x="168" 
+y="151" 
+dx="0,0.2" 
+class="s1_174"
+>3 </text>
+
+<text 
+x="197" 
+y="151" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_174"
+>friends </text>
+
+<text 
+x="513" 
+y="151" 
+dx="0,0,0,0,0,0,0" 
+class="s2_174"
+>classes</text>
+
+<text 
+x="168" 
+y="192" 
+dx="0,0.2" 
+class="s1_174"
+>4 </text>
+
+<text 
+x="197" 
+y="192" 
+dx="0,-0.2,0,0,0,0,0,0,0" 
+class="s2_174"
+>teachers </text>
+
+<text 
+x="513" 
+y="192" 
+dx="0,0,0,0,0" 
+class="s2_174"
+>major</text>
+
+<text 
+x="168" 
+y="234" 
+dx="0,0.2" 
+class="s1_174"
+>5 </text>
+
+<text 
+x="197" 
+y="234" 
+dx="0,0,0,-0.2,0,0,0,0" 
+class="s2_174"
+>parents </text>
+
+<text 
+x="513" 
+y="234" 
+dx="0,0,0,0" 
+class="s2_174"
+>work</text>
+
+<text 
+x="119" 
+y="311" 
+dx="0,0" 
+class="s3_174"
+>F </text>
+
+<text 
+x="396" 
+y="316" 
+dx="0,0,0,-1,0,0,0,0,0,0,0,0,0" 
+class="s4_174"
+>Makes “cents”</text>
+
+<text 
+x="157" 
+y="373" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0" 
+class="s2_174"
+>Brainstorm with your partner and come up with at least three ways to save money to pay for </text>
+
+<text 
+x="157" 
+y="396" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_174"
+>your education, e.g.:</text>
+
+<text 
+x="165" 
+y="450" 
+dx="0,0,0" 
+class="s5_174"
+>Q: </text>
+
+<text 
+x="197" 
+y="450" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_174"
+>怎么样可以把钱省下来付学费？</text>
+
+<text 
+x="197" 
+y="491" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_174"
+>怎麼樣可以把錢省下來付学費？</text>
+
+<text 
+x="165" 
+y="538" 
+dx="0,0,0" 
+class="s5_174"
+>A: </text>
+
+<text 
+x="197" 
+y="538" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_174"
+>住在家里可以把钱省下来付学费。</text>
+
+<text 
+x="197" 
+y="579" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_174"
+>住在家裡可以把錢省下來付學費。</text>
+
+<text 
+x="119" 
+y="657" 
+dx="0,0" 
+class="s3_174"
+>G </text>
+
+<text 
+x="391" 
+y="661" 
+dx="0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_174"
+>Getting schooled</text>
+
+<text 
+x="157" 
+y="719" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_174"
+>Draw lines to connect the Chinese words with their English equivalents.</text>
+
+<text 
+x="197" 
+y="769" 
+dx="0,0,0,0,0" 
+class="s6_174"
+>人文学院/</text>
+
+<text 
+x="314" 
+y="769" 
+dx="0,0,0,0" 
+class="s7_174"
+>人文學院</text>
+
+<text 
+x="197" 
+y="815" 
+dx="0,0,0,0" 
+class="s6_174"
+>医学院/</text>
+
+<text 
+x="288" 
+y="815" 
+dx="0,0,0" 
+class="s7_174"
+>醫學院</text>
+
+<text 
+x="197" 
+y="861" 
+dx="0,0,0,0" 
+class="s6_174"
+>工学院/</text>
+
+<text 
+x="288" 
+y="861" 
+dx="0,0,0" 
+class="s7_174"
+>工學院</text>
+
+<text 
+x="197" 
+y="907" 
+dx="0,0,0,0" 
+class="s6_174"
+>理学院/</text>
+
+<text 
+x="288" 
+y="907" 
+dx="0,0,0" 
+class="s7_174"
+>理學院</text>
+
+<text 
+x="197" 
+y="952" 
+dx="0,0,0,0" 
+class="s6_174"
+>药学院/</text>
+
+<text 
+x="288" 
+y="952" 
+dx="0,0,0" 
+class="s7_174"
+>藥學院</text>
+
+<text 
+x="197" 
+y="998" 
+dx="0,0,0,0" 
+class="s6_174"
+>法学院/</text>
+
+<text 
+x="288" 
+y="998" 
+dx="0,0,0" 
+class="s7_174"
+>法學院</text>
+
+<text 
+x="197" 
+y="1044" 
+dx="0,0,0,0" 
+class="s6_174"
+>商学院/</text>
+
+<text 
+x="288" 
+y="1044" 
+dx="0,0,0" 
+class="s7_174"
+>商學院</text>
+
+<text 
+x="197" 
+y="1090" 
+dx="0,0,0,0,0" 
+class="s6_174"
+>管理学院/</text>
+
+<text 
+x="314" 
+y="1090" 
+dx="0,0,0,0" 
+class="s7_174"
+>管理學院</text>
+
+<text 
+x="513" 
+y="769" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_174"
+>school of engineering</text>
+
+<text 
+x="513" 
+y="815" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.1,0,0,0,0" 
+class="s2_174"
+>school of management</text>
+
+<text 
+x="513" 
+y="861" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_174"
+>business school</text>
+
+<text 
+x="513" 
+y="907" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_174"
+>medical school</text>
+
+<text 
+x="513" 
+y="952" 
+dx="0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_174"
+>college of humanities</text>
+
+<text 
+x="513" 
+y="998" 
+dx="0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s2_174"
+>college of sciences</text>
+
+<text 
+x="513" 
+y="1044" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_174"
+>law school</text>
+
+<text 
+x="513" 
+y="1090" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_174"
+>school of pharmacology</text>
+
+<path d="M146.6,281.2l0,53.5l0,0.7l0.8,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_174" />
+<path d="M148.7,333.4l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g3_174" />
+<text 
+x="724" 
+y="313" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_174"
+>INTERPERSONAL</text>
+
+<path d="M719.9,316.1l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g4_174" />
+<path d="M146.6,626.5l0,53.5l0,0.7l0.8,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_174" />
+<path d="M148.7,678.7l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g3_174" />
+<text 
+x="730" 
+y="658" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_174"
+>INTERPRETIVE</text>
+
+<path d="M719.9,661.4l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g4_174" />
+<path d="M881.9,1209.2l67.2,0l0,-1222.1l-67.2,0l0,1222.1Z" class="g5_174" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 804)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s9_174"
+>Lesson 5 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 870)"
+dx="0,1" 
+class="s9_174"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 884)"
+dx="0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s9_174"
+>Choosing Classes </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1003)"
+dx="0,1" 
+class="s9_174"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1017)"
+dx="0,1,1,1,1,1,1,0.8,1,1,1,0.9,1,1,1,1,1,1" 
+class="s9_174"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1153)"
+dx="0,1,1,0" 
+class="s9_174"
+>151 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Regular_3yk;
+	src: url("fonts/LibreFranklin-Regular_3yk.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3y5;
+	src: url("fonts/LibreFranklin-ExtraBold_3y5.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3y4;
+	src: url("fonts/LibreFranklin-Bold_3y4.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3y8;
+	src: url("fonts/LibreFranklin-Medium_3y8.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3yj;
+	src: url("fonts/LibreFranklin-SemiBold_3yj.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 19 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_19{
+fill: #549B5D;
+}
+.g2_19{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_19{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_19{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.7638889;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 0,2;
+}
+
+.s1_19{
+font-size: 13.75px;
+font-family: MuseoSlab-700_3on;
+fill: #808285;
+}
+.s2_19{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_3ob;
+fill: #FFFFFF;
+}
+.s3_19{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_3ob;
+fill: #128B43;
+}
+.s4_19{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #128B43;
+}
+.s5_19{
+font-size: 22.92px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #128B43;
+}
+.s6_19{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3o8;
+fill: #808285;
+}
+.s7_19{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3o8;
+fill: #231F20;
+}
+.s8_19{
+font-size: 14.90px;
+font-family: GentiumBookBasic-Italic_3o-;
+fill: #231F20;
+}
+.s9_19{
+font-size: 14.51px;
+font-family: LibreFranklin-Italic_3o7;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="26" 
+y="1166" 
+dx="0,0,0,0,0" 
+class="s1_19"
+>xviii</text>
+
+<path d="M61.9,55l123.6,0l0,25.5l-123.6,0L61.9,55Zm123.6,0l168.9,0l0,25.5l-168.9,0l0,-25.5Zm168.9,0l168.8,0l0,25.5l-168.8,0l0,-25.5Zm168.8,0l168.9,0l0,25.5l-168.9,0l0,-25.5Zm168.9,0l139.8,0l0,25.5l-139.8,0l0,-25.5Z" class="g1_19" />
+<path d="M185.5,80.5l0,-25.1" class="g2_19" />
+<path d="M354.4,80.5l0,-25.1" class="g2_19" />
+<path d="M523.2,80.5l0,-25.1" class="g2_19" />
+<path d="M692.1,80.5l0,-25.1" class="g2_19" />
+<path d="M185.5,518.7l0,-438.2" class="g2_19" />
+<path d="M354.4,518.7l0,-438.2" class="g2_19" />
+<path d="M523.2,518.7l0,-438.2" class="g2_19" />
+<path d="M692.1,518.7l0,-438.2" class="g2_19" />
+<path d="M185.5,884.1l0,-365.4" class="g2_19" />
+<path d="M354.4,884.1l0,-365.4" class="g2_19" />
+<path d="M523.2,884.1l0,-365.4" class="g2_19" />
+<path d="M692.1,884.1l0,-365.4" class="g2_19" />
+<path d="M185.5,942.6l0,-58.5" class="g2_19" />
+<path d="M354.4,942.6l0,-58.5" class="g2_19" />
+<path d="M523.2,942.6l0,-58.5" class="g2_19" />
+<path d="M692.1,942.6l0,-58.5" class="g2_19" />
+<path d="M61.9,80.5l123.3,0" class="g3_19" />
+<path d="M185.9,80.5l168.1,0" class="g3_19" />
+<path d="M354.8,80.5l168.1,0" class="g3_19" />
+<path d="M523.6,80.5l168.1,0" class="g3_19" />
+<path d="M692.5,80.5l139.4,0" class="g3_19" />
+<path d="M354.8,518.7l168.1,0" class="g3_19" />
+<path d="M523.6,518.7l168.1,0" class="g3_19" />
+<path d="M692.5,518.7l139.4,0" class="g3_19" />
+<path d="M354.8,884.1l168.1,0" class="g3_19" />
+<path d="M523.6,884.1l168.1,0" class="g3_19" />
+<path d="M692.5,884.1l139.4,0" class="g3_19" />
+<path d="M354.4,943.2l168.8,0" class="g3_19" />
+<path d="M523.2,943.2l168.9,0" class="g3_19" />
+<path d="M692.1,943.2l139.8,0" class="g3_19" />
+<path d="M61.9,518.7l123.3,0" class="g3_19" />
+<path d="M185.9,518.7l168.1,0" class="g3_19" />
+<path d="M61.9,884.1l123.3,0" class="g3_19" />
+<path d="M185.9,884.1l168.1,0" class="g3_19" />
+<path d="M61.9,943.2l123.6,0" class="g3_19" />
+<path d="M185.5,943.2l168.9,0" class="g3_19" />
+<path d="M185.5,78.9l0,-22.7" class="g4_19" />
+<path d="M354.4,78.9l0,-22.7" class="g4_19" />
+<path d="M523.2,78.9l0,-22.7" class="g4_19" />
+<path d="M692.1,78.9l0,-22.7" class="g4_19" />
+<path d="M185.5,517.1l0,-435.8" class="g4_19" />
+<path d="M354.4,517.1l0,-435.8" class="g4_19" />
+<path d="M523.2,517.1l0,-435.8" class="g4_19" />
+<path d="M692.1,517.1l0,-435.8" class="g4_19" />
+<path d="M185.5,882.6l0,-363.2" class="g4_19" />
+<path d="M354.4,882.6l0,-363.2" class="g4_19" />
+<path d="M523.2,882.6l0,-363.2" class="g4_19" />
+<path d="M692.1,882.6l0,-363.2" class="g4_19" />
+<path d="M185.5,941.1l0,-56.2" class="g4_19" />
+<path d="M354.4,941.1l0,-56.2" class="g4_19" />
+<path d="M523.2,941.1l0,-56.2" class="g4_19" />
+<path d="M692.1,941.1l0,-56.2" class="g4_19" />
+<text 
+x="67" 
+y="72" 
+dx="0,0,0,0,0,0" 
+class="s2_19"
+>Lesson</text>
+
+<text 
+x="191" 
+y="72" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s2_19"
+>Learning Objectives</text>
+
+<text 
+x="360" 
+y="72" 
+dx="0,0,-0.1,0,0,0,0" 
+class="s2_19"
+>Grammar</text>
+
+<text 
+x="529" 
+y="72" 
+dx="0,-1.2,0,-0.2,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s2_19"
+>Words &amp; Phrases</text>
+
+<text 
+x="698" 
+y="72" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.3,0,-0.1,0,0" 
+class="s2_19"
+>Cultural Literacy</text>
+
+<text 
+x="67" 
+y="99" 
+dx="0,0" 
+class="s3_19"
+>4 </text>
+
+<text 
+x="67" 
+y="123" 
+dx="0,0,0,0" 
+class="s4_19"
+>买东西/</text>
+
+<text 
+x="67" 
+y="148" 
+dx="0,0,0" 
+class="s5_19"
+>買東西</text>
+
+<text 
+x="67" 
+y="172" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_19"
+>Shopping</text>
+
+<text 
+x="191" 
+y="100" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="198" 
+y="100" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s7_19"
+>Name basic clothing, </text>
+
+<text 
+x="198" 
+y="118" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>bedding, and bath </text>
+
+<text 
+x="198" 
+y="137" 
+dx="0,0,-0.2,0,0" 
+class="s7_19"
+>items</text>
+
+<text 
+x="191" 
+y="162" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="198" 
+y="162" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>Describe your </text>
+
+<text 
+x="198" 
+y="180" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.3,0,-0.2,0,0,0,0,0" 
+class="s7_19"
+>shopping preferences </text>
+
+<text 
+x="198" 
+y="199" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s7_19"
+>and criteria</text>
+
+<text 
+x="191" 
+y="224" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="198" 
+y="224" 
+dx="0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>Express discounts</text>
+
+<text 
+x="191" 
+y="249" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="198" 
+y="249" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s7_19"
+>Disagree with others </text>
+
+<text 
+x="198" 
+y="267" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>tactfully</text>
+
+<text 
+x="360" 
+y="103" 
+dx="0,0,0" 
+class="s7_19"
+>1. </text>
+
+<text 
+x="375" 
+y="103" 
+dx="0,0,0,0,0,0,0" 
+class="s4_19"
+>无论…, 都…</text>
+
+<text 
+x="501" 
+y="103" 
+dx="0" 
+class="s7_19"
+>/</text>
+
+<text 
+x="375" 
+y="126" 
+dx="0,0,0,0,0,0,0" 
+class="s5_19"
+>無論…, 都…</text>
+
+<text 
+x="360" 
+y="150" 
+dx="0,0,0" 
+class="s7_19"
+>2. </text>
+
+<text 
+x="375" 
+y="150" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,0" 
+class="s7_19"
+>Non-predicative </text>
+
+<text 
+x="375" 
+y="167" 
+dx="0,0,0,0,0,0,0,0,-0.4,0" 
+class="s7_19"
+>adjectives</text>
+
+<text 
+x="360" 
+y="190" 
+dx="0,0,0" 
+class="s7_19"
+>3. </text>
+
+<text 
+x="375" 
+y="190" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0" 
+class="s7_19"
+>Adjective/verb + </text>
+
+<text 
+x="489" 
+y="190" 
+dx="0" 
+class="s4_19"
+>是</text>
+
+<text 
+x="375" 
+y="207" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0" 
+class="s7_19"
+>+ adjective/verb, </text>
+
+<text 
+x="375" 
+y="231" 
+dx="0,0" 
+class="s4_19"
+>可是</text>
+
+<text 
+x="424" 
+y="231" 
+dx="0,0,0" 
+class="s7_19"
+>or </text>
+
+<text 
+x="442" 
+y="231" 
+dx="0,0,0" 
+class="s4_19"
+>但是…</text>
+
+<text 
+x="375" 
+y="248" 
+dx="0,-0.2,0,0,0,0,0,-0.2,0" 
+class="s7_19"
+>revisited</text>
+
+<text 
+x="529" 
+y="103" 
+dx="0,0,0" 
+class="s7_19"
+>A. </text>
+
+<text 
+x="544" 
+y="103" 
+dx="0,-0.5,-0.5,-0.5" 
+class="s4_19"
+>…什么的</text>
+
+<text 
+x="634" 
+y="103" 
+dx="0,0" 
+class="s7_19"
+>/ </text>
+
+<text 
+x="544" 
+y="126" 
+dx="0,-0.5,-0.5,-0.5" 
+class="s5_19"
+>…什麼的</text>
+
+<text 
+x="544" 
+y="142" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>( . . . and so on)</text>
+
+<text 
+x="529" 
+y="172" 
+dx="0,0,0" 
+class="s7_19"
+>B. </text>
+
+<text 
+x="544" 
+y="172" 
+dx="0,0" 
+class="s4_19"
+>大小</text>
+
+<text 
+x="590" 
+y="172" 
+dx="0" 
+class="s5_19"
+>,</text>
+
+<text 
+x="598" 
+y="172" 
+dx="0,0" 
+class="s4_19"
+>长短</text>
+
+<text 
+x="644" 
+y="172" 
+dx="0" 
+class="s7_19"
+>/</text>
+
+<text 
+x="649" 
+y="172" 
+dx="0" 
+class="s5_19"
+>長</text>
+
+<text 
+x="544" 
+y="196" 
+dx="0,0" 
+class="s5_19"
+>短,</text>
+
+<text 
+x="575" 
+y="196" 
+dx="0,0" 
+class="s4_19"
+>宽窄</text>
+
+<text 
+x="621" 
+y="196" 
+dx="0" 
+class="s7_19"
+>/</text>
+
+<text 
+x="626" 
+y="196" 
+dx="0,0" 
+class="s5_19"
+>寬窄</text>
+
+<text 
+x="544" 
+y="216" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_19"
+>(kuānzhǎi)</text>
+
+<text 
+x="608" 
+y="216" 
+dx="0" 
+class="s4_19"
+>…</text>
+
+<text 
+x="634" 
+y="216" 
+dx="0,0,0,0,0,0,0" 
+class="s7_19"
+>(size, </text>
+
+<text 
+x="544" 
+y="232" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>length, width . . . )</text>
+
+<text 
+x="529" 
+y="262" 
+dx="0,0,0" 
+class="s7_19"
+>C. </text>
+
+<text 
+x="544" 
+y="262" 
+dx="0,0" 
+class="s4_19"
+>打折</text>
+
+<text 
+x="593" 
+y="262" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>(to discount, </text>
+
+<text 
+x="544" 
+y="279" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>to sell at a discount)</text>
+
+<text 
+x="529" 
+y="309" 
+dx="0,-0.9,0" 
+class="s7_19"
+>D. </text>
+
+<text 
+x="544" 
+y="309" 
+dx="0,0,0,0,0,0" 
+class="s4_19"
+>（要）不然 </text>
+
+<text 
+x="544" 
+y="326" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>(otherwise)</text>
+
+<text 
+x="529" 
+y="355" 
+dx="0,0,0" 
+class="s7_19"
+>E. </text>
+
+<text 
+x="544" 
+y="355" 
+dx="0,0" 
+class="s4_19"
+>只好</text>
+
+<text 
+x="593" 
+y="355" 
+dx="0,0,0,0,0,0,0,0,0,-1,0" 
+class="s7_19"
+>(can only, </text>
+
+<text 
+x="544" 
+y="372" 
+dx="0,0,0,-0.4,0,0,-0.2,0" 
+class="s7_19"
+>have to)</text>
+
+<text 
+x="529" 
+y="402" 
+dx="0,-1.9,0" 
+class="s7_19"
+>F. </text>
+
+<text 
+x="544" 
+y="402" 
+dx="0,0,0,0,0" 
+class="s4_19"
+>非…不可 </text>
+
+<text 
+x="642" 
+y="402" 
+dx="0,0,0,0,-0.4,0" 
+class="s7_19"
+>(have </text>
+
+<text 
+x="544" 
+y="419" 
+dx="0,-0.2,-0.4,0,0,0,0,0,0,0" 
+class="s7_19"
+>to, must) </text>
+
+<text 
+x="529" 
+y="449" 
+dx="0,0,0" 
+class="s7_19"
+>G. </text>
+
+<text 
+x="544" 
+y="449" 
+dx="0,0" 
+class="s4_19"
+>标准</text>
+
+<text 
+x="590" 
+y="449" 
+dx="0" 
+class="s7_19"
+>/</text>
+
+<text 
+x="595" 
+y="449" 
+dx="0,0" 
+class="s5_19"
+>標準</text>
+
+<text 
+x="544" 
+y="465" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_19"
+>(criterion, standard)</text>
+
+<text 
+x="529" 
+y="495" 
+dx="0,0,0" 
+class="s7_19"
+>H. </text>
+
+<text 
+x="544" 
+y="495" 
+dx="0,0" 
+class="s4_19"
+>在乎</text>
+
+<text 
+x="593" 
+y="495" 
+dx="0,0,-0.2,0,0,0,0,0,0,0" 
+class="s7_19"
+>(to mind, </text>
+
+<text 
+x="544" 
+y="512" 
+dx="0,-0.2,0,0,0,0,-0.2,0" 
+class="s7_19"
+>to care)</text>
+
+<text 
+x="698" 
+y="100" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="705" 
+y="100" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>Bargaining</text>
+
+<text 
+x="698" 
+y="125" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="705" 
+y="125" 
+dx="0,0,0,0,0,-0.3,0,0,0,0" 
+class="s7_19"
+>New forms </text>
+
+<text 
+x="705" 
+y="144" 
+dx="0,-0.2,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>of payment</text>
+
+<text 
+x="698" 
+y="169" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="705" 
+y="169" 
+dx="0,0,0,0,0,0" 
+class="s9_19"
+>Dongxi</text>
+
+<text 
+x="67" 
+y="538" 
+dx="0,0" 
+class="s3_19"
+>5 </text>
+
+<text 
+x="67" 
+y="564" 
+dx="0,0,0" 
+class="s4_19"
+>选课/</text>
+
+<text 
+x="125" 
+y="564" 
+dx="0,0" 
+class="s5_19"
+>選課</text>
+
+<text 
+x="67" 
+y="587" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_19"
+>Choosing </text>
+
+<text 
+x="67" 
+y="604" 
+dx="0,0,0,0,0,0,0" 
+class="s3_19"
+>Classes</text>
+
+<text 
+x="191" 
+y="538" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="198" 
+y="538" 
+dx="0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>State your major and </text>
+
+<text 
+x="198" 
+y="557" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>academic department </text>
+
+<text 
+x="198" 
+y="575" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0" 
+class="s7_19"
+>and some required </text>
+
+<text 
+x="198" 
+y="593" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>general courses you </text>
+
+<text 
+x="198" 
+y="612" 
+dx="0,0,0,-0.4,0,0,0,0,-0.4,0" 
+class="s7_19"
+>have taken</text>
+
+<text 
+x="191" 
+y="637" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="198" 
+y="637" 
+dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>Talk about your plans </text>
+
+<text 
+x="198" 
+y="655" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>after graduation</text>
+
+<text 
+x="191" 
+y="680" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="198" 
+y="680" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>Discuss what will </text>
+
+<text 
+x="198" 
+y="699" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_19"
+>enhance your future </text>
+
+<text 
+x="198" 
+y="717" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>job opportunities</text>
+
+<text 
+x="191" 
+y="742" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="198" 
+y="742" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>Explain whether your </text>
+
+<text 
+x="198" 
+y="761" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s7_19"
+>family members have </text>
+
+<text 
+x="198" 
+y="779" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>an influence on your </text>
+
+<text 
+x="198" 
+y="797" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>choice of major and </text>
+
+<text 
+x="198" 
+y="816" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s7_19"
+>career path</text>
+
+<text 
+x="191" 
+y="841" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="198" 
+y="841" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>Share tips on how </text>
+
+<text 
+x="198" 
+y="859" 
+dx="0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s7_19"
+>to save money for </text>
+
+<text 
+x="198" 
+y="877" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>your education</text>
+
+<text 
+x="360" 
+y="541" 
+dx="0,0,0" 
+class="s7_19"
+>1. </text>
+
+<text 
+x="375" 
+y="541" 
+dx="0,0,0,0" 
+class="s4_19"
+>对…来说</text>
+
+<text 
+x="467" 
+y="541" 
+dx="0" 
+class="s7_19"
+>/</text>
+
+<text 
+x="375" 
+y="564" 
+dx="0,0,0,0" 
+class="s5_19"
+>對…來說</text>
+
+<text 
+x="360" 
+y="588" 
+dx="0,0,0" 
+class="s7_19"
+>2. </text>
+
+<text 
+x="375" 
+y="588" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s7_19"
+>Resultative </text>
+
+<text 
+x="375" 
+y="605" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>complements (III)</text>
+
+<text 
+x="360" 
+y="629" 
+dx="0,0,0" 
+class="s7_19"
+>3. </text>
+
+<text 
+x="375" 
+y="629" 
+dx="0,0" 
+class="s4_19"
+>另外</text>
+
+<text 
+x="360" 
+y="652" 
+dx="0,0,0" 
+class="s7_19"
+>4. </text>
+
+<text 
+x="375" 
+y="652" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>Comparing </text>
+
+<text 
+x="453" 
+y="652" 
+dx="0" 
+class="s4_19"
+>再</text>
+
+<text 
+x="375" 
+y="676" 
+dx="0,0,0,0" 
+class="s7_19"
+>and </text>
+
+<text 
+x="404" 
+y="676" 
+dx="0" 
+class="s4_19"
+>还</text>
+
+<text 
+x="426" 
+y="676" 
+dx="0" 
+class="s7_19"
+>/</text>
+
+<text 
+x="431" 
+y="676" 
+dx="0" 
+class="s5_19"
+>還</text>
+
+<text 
+x="360" 
+y="700" 
+dx="0,0,0" 
+class="s7_19"
+>5. </text>
+
+<text 
+x="375" 
+y="700" 
+dx="0,0,0,0,-7.8" 
+class="s4_19"
+>要么…，要</text>
+
+<text 
+x="375" 
+y="723" 
+dx="0,-0.5" 
+class="s4_19"
+>么…</text>
+
+<text 
+x="420" 
+y="723" 
+dx="0" 
+class="s7_19"
+>/</text>
+
+<text 
+x="425" 
+y="723" 
+dx="0,-0.5,-0.5,-0.5" 
+class="s5_19"
+>要麼…，</text>
+
+<text 
+x="375" 
+y="746" 
+dx="0,0,0" 
+class="s5_19"
+>要麼…</text>
+
+<text 
+x="529" 
+y="541" 
+dx="0,0,0" 
+class="s7_19"
+>A. </text>
+
+<text 
+x="544" 
+y="541" 
+dx="0,0" 
+class="s4_19"
+>只是</text>
+
+<text 
+x="593" 
+y="541" 
+dx="0,0,0,0" 
+class="s7_19"
+>and </text>
+
+<text 
+x="621" 
+y="541" 
+dx="0,0" 
+class="s4_19"
+>就是</text>
+
+<text 
+x="544" 
+y="558" 
+dx="0,0,0,0.4,-0.9,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>(it’s just that)</text>
+
+<text 
+x="529" 
+y="581" 
+dx="0,0,0" 
+class="s7_19"
+>B. </text>
+
+<text 
+x="544" 
+y="581" 
+dx="0,0,0" 
+class="s4_19"
+>受不了</text>
+
+<text 
+x="616" 
+y="581" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_19"
+>(unable to </text>
+
+<text 
+x="544" 
+y="598" 
+dx="0,0,0,0,0" 
+class="s7_19"
+>bear)</text>
+
+<text 
+x="529" 
+y="622" 
+dx="0,0,0" 
+class="s7_19"
+>C. </text>
+
+<text 
+x="544" 
+y="622" 
+dx="0,0,0,0,0" 
+class="s4_19"
+>跟…打交道</text>
+
+<text 
+x="662" 
+y="622" 
+dx="0,0,-0.2,0" 
+class="s7_19"
+>(to </text>
+
+<text 
+x="544" 
+y="639" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>deal with . . . )</text>
+
+<text 
+x="529" 
+y="662" 
+dx="0,-0.9,0" 
+class="s7_19"
+>D. </text>
+
+<text 
+x="544" 
+y="662" 
+dx="0,0" 
+class="s4_19"
+>这样</text>
+
+<text 
+x="590" 
+y="662" 
+dx="0" 
+class="s7_19"
+>/</text>
+
+<text 
+x="595" 
+y="662" 
+dx="0,0" 
+class="s5_19"
+>這樣</text>
+
+<text 
+x="644" 
+y="662" 
+dx="0,0,0,0" 
+class="s7_19"
+>(in </text>
+
+<text 
+x="544" 
+y="679" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>this way)</text>
+
+<text 
+x="698" 
+y="538" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="705" 
+y="538" 
+dx="0,-0.8,0,0,0,0,0,-0.2,0" 
+class="s7_19"
+>Value of </text>
+
+<text 
+x="705" 
+y="557" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>education</text>
+
+<text 
+x="698" 
+y="582" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="705" 
+y="582" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s7_19"
+>Graduate school</text>
+
+<text 
+x="698" 
+y="607" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="705" 
+y="607" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_19"
+>Declaring a major</text>
+
+<text 
+x="67" 
+y="903" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_19"
+>Bringing It </text>
+
+<text 
+x="67" 
+y="920" 
+dx="0,-1.6,0,-0.4,-0.2,0,0,0,0" 
+class="s3_19"
+>Together </text>
+
+<text 
+x="67" 
+y="937" 
+dx="0,0,0,0,0,0,0" 
+class="s3_19"
+>(L1–L5)</text>
+
+<text 
+x="191" 
+y="904" 
+dx="0,0" 
+class="s6_19"
+>• </text>
+
+<text 
+x="198" 
+y="904" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s7_19"
+>Review of L1–L5</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3o-;
+	src: url("fonts/GentiumBookBasic-Italic_3o-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3ob;
+	src: url("fonts/LibreFranklin-ExtraBold_3ob.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3o8;
+	src: url("fonts/LibreFranklin-Regular_3o8.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_3on;
+	src: url("fonts/MuseoSlab-700_3on.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Italic_3o7;
+	src: url("fonts/LibreFranklin-Italic_3o7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

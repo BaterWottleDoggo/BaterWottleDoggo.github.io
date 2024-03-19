@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 380 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_380{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_380{
+fill: #3986C6;
+}
+.g3_380{
+fill: #00AEEF;
+}
+.g4_380{
+fill: #E2E3E5;
+}
+.g5_380{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_380{
+fill: #DCDDDF;
+}
+.g7_380{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_380{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_380{
+fill: none;
+stroke: #939598;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_380{
+fill: none;
+stroke: #D9ECD4;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_380{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_ck4;
+fill: #231F20;
+}
+.s2_380{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_dcf;
+fill: #231F20;
+}
+.s3_380{
+font-size: 19.10px;
+font-family: Alegreya-Regular_dci;
+fill: #231F20;
+}
+.s4_380{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s5_380{
+font-size: 16.81px;
+font-family: ProximaNovaCond-Extrabld_dc-;
+fill: #231F20;
+}
+.s6_380{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_dcf;
+fill: #231F20;
+}
+.s7_380{
+font-size: 19.10px;
+font-family: Alegreya-Bold_dcn;
+fill: #231F20;
+}
+.s8_380{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s9_380{
+font-size: 16.04px;
+font-family: Alegreya-Regular_dci;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 812)"
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_380"
+>Chapter 15 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 881)"
+dx="0,0" 
+class="s1_380"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 892)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_380"
+>School and Activities </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1020)"
+dx="0,0" 
+class="s1_380"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1031)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_380"
+>Section 1</text>
+
+<text 
+x="856" 
+y="1149" 
+dx="0,0,0" 
+class="s2_380"
+>357</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_380" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_380" />
+<path d="M155,767.4c-3.8,0,-6.9,3.1,-6.9,6.9l0,23c0,3.8,3.1,6.9,6.9,6.9l48,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-23c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_380" />
+<path d="M219.5,767.4c-3.8,0,-6.8,3.1,-6.8,6.9l0,23c0,3.8,3,6.9,6.8,6.9l17.2,0c3.7,0,6.8,-3.1,6.8,-6.9l0,-23c0,-3.8,-3.1,-6.9,-6.8,-6.9Z" class="g4_380" />
+<path d="M153.5,690.9c-3.8,0,-6.8,3.1,-6.8,6.9l0,23c0,3.8,3,6.8,6.8,6.8l18.4,0c3.8,0,6.9,-3,6.9,-6.8l0,-23c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g4_380" />
+<path d="M251.3,690.9c-3.8,0,-6.9,3.1,-6.9,6.9l0,23c0,3.8,3.1,6.8,6.9,6.8l18.4,0c3.7,0,6.8,-3,6.8,-6.8l0,-23c0,-3.8,-3.1,-6.9,-6.8,-6.9Z" class="g4_380" />
+<path d="M187.9,691.6c-3.8,0,-6.9,3.1,-6.9,6.9l0,23c0,3.8,3.1,6.9,6.9,6.9l46.9,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-23c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_380" />
+<path d="M579.4,743.7c-3.8,0,-6.8,3.1,-6.8,6.9l0,8.8c0,3.8,3,6.8,6.8,6.8l28.4,0c3.8,0,6.9,-3,6.9,-6.8l0,-8.8c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g4_380" />
+<path d="M651.2,743.7c-3.8,0,-6.8,3.1,-6.8,6.9l0,8.8c0,3.8,3,6.8,6.8,6.8l24.9,0c3.8,0,6.9,-3,6.9,-6.8l0,-8.8c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_380" />
+<path d="M180.1,1019.5c-3.8,0,-6.8,3.1,-6.8,6.9l0,23c0,3.8,3,6.9,6.8,6.9l19.7,0c3.8,0,6.9,-3.1,6.9,-6.9l0,-23c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g4_380" />
+<path d="M180.3,918.7c-3.8,0,-6.9,3.1,-6.9,6.9l0,23c0,3.7,3.1,6.8,6.9,6.8l19.1,0c3.8,0,6.9,-3.1,6.9,-6.8l0,-23c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g4_380" />
+<path d="M215.4,918.7c-3.7,0,-6.8,3.1,-6.8,6.9l0,23c0,3.7,3.1,6.8,6.8,6.8l44.5,0c3.8,0,6.9,-3.1,6.9,-6.8l0,-23c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g3_380" />
+<path d="M276.6,918.7c-3.8,0,-6.9,3.1,-6.9,6.9l0,23c0,3.7,3.1,6.8,6.9,6.8l19,0c3.8,0,6.9,-3.1,6.9,-6.8l0,-23c0,-3.8,-3.1,-6.9,-6.9,-6.9Z" class="g4_380" />
+<text 
+x="118" 
+y="135" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_380"
+>Describing the way you do something </text>
+
+<text 
+x="117" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,-0.4" 
+class="s3_380"
+>As used in this chapter, </text>
+
+<text 
+x="300" 
+y="179" 
+dx="0" 
+class="s4_380"
+>得</text>
+
+<text 
+x="326" 
+y="182" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0" 
+class="s3_380"
+>(de) comes after a verb and connects the verb to a word or </text>
+
+<text 
+x="117" 
+y="208" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s3_380"
+>phrase that describes how the action is done.</text>
+
+<path d="M89.4,141.7l20.6,0l0,-20.6l-20.6,0l0,20.6Z" class="g4_380" />
+<text 
+x="96" 
+y="138" 
+dx="0" 
+class="s5_380"
+>1</text>
+
+<text 
+x="90" 
+y="98" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s6_380"
+>Language Reference</text>
+
+<path d="M291,92.5l520.5,0" class="g5_380" />
+<path d="M291,95.5c1.7,0,3,-1.4,3,-3c0,-1.7,-1.3,-3.1,-3,-3.1c-1.7,0,-3.1,1.4,-3.1,3.1c0,1.6,1.4,3,3.1,3Z" class="g2_380" />
+<path d="M115.5,233.3l128.5,0l0,34.7l-128.5,0l0,-34.7Zm128.5,0l80.7,0l0,34.7L244,268l0,-34.7Zm80.7,0l53.2,0l0,34.7l-53.2,0l0,-34.7Zm53.2,0l124.6,0l0,34.7l-124.6,0l0,-34.7Zm124.6,0l180.6,0l0,34.7l-180.6,0l0,-34.7Z" class="g6_380" />
+<path d="M324.7,325.4l0,-57.4" class="g7_380" />
+<path d="M377.9,325.4l0,-57.4" class="g7_380" />
+<path d="M502.5,325.4l0,-57.4" class="g7_380" />
+<path d="M324.7,383l0,-57.2" class="g7_380" />
+<path d="M377.9,383l0,-57.2" class="g7_380" />
+<path d="M502.5,383l0,-57.2" class="g7_380" />
+<path d="M244,325.6l80.7,0" class="g8_380" />
+<path d="M324.7,325.6l53.2,0" class="g8_380" />
+<path d="M377.9,325.6l124.6,0" class="g8_380" />
+<path d="M502.5,325.6l180.6,0" class="g8_380" />
+<path d="M244,383.2l80.7,0" class="g8_380" />
+<path d="M324.7,383.2l53.2,0" class="g8_380" />
+<path d="M377.9,383.2l124.6,0" class="g8_380" />
+<path d="M502.5,383.2l180.6,0" class="g8_380" />
+<path d="M324.7,440.6l0,-57.2" class="g7_380" />
+<path d="M377.9,440.6l0,-57.2" class="g7_380" />
+<path d="M502.5,440.6l0,-57.2" class="g7_380" />
+<path d="M244,440.8l80.7,0" class="g8_380" />
+<path d="M324.7,440.8l53.2,0" class="g8_380" />
+<path d="M377.9,440.8l124.6,0" class="g8_380" />
+<path d="M502.5,440.8l180.6,0" class="g8_380" />
+<path d="M324.7,498l0,-57" class="g7_380" />
+<path d="M377.9,498l0,-57" class="g7_380" />
+<path d="M502.5,498l0,-57" class="g7_380" />
+<path d="M244,498.4l80.7,0" class="g9_380" />
+<path d="M324.7,498.4l53.2,0" class="g9_380" />
+<path d="M377.9,498.4l124.6,0" class="g9_380" />
+<path d="M502.5,498.4l180.6,0" class="g9_380" />
+<path d="M244,268l0,-34.7" class="g7_380" />
+<path d="M244,325.4L244,268" class="g8_380" />
+<path d="M115.5,325.6l128.5,0" class="g8_380" />
+<path d="M244,383l0,-57.2" class="g8_380" />
+<path d="M115.5,383.2l128.5,0" class="g8_380" />
+<path d="M244,440.6l0,-57.2" class="g8_380" />
+<path d="M115.5,440.8l128.5,0" class="g8_380" />
+<path d="M244,498l0,-57" class="g8_380" />
+<path d="M115.5,498.4l128.5,0" class="g9_380" />
+<path d="M324.7,268l0,-34.7" class="g10_380" />
+<path d="M377.9,268l0,-34.7" class="g10_380" />
+<path d="M502.5,268l0,-34.7" class="g10_380" />
+<text 
+x="257" 
+y="261" 
+dx="0,0,0,0" 
+class="s2_380"
+>verb</text>
+
+<text 
+x="337" 
+y="261" 
+dx="0" 
+class="s4_380"
+>得</text>
+
+<text 
+x="392" 
+y="261" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_380"
+>way/degree</text>
+
+<text 
+x="129" 
+y="297" 
+dx="0" 
+class="s7_380"
+>1</text>
+
+<text 
+x="139" 
+y="303" 
+dx="0" 
+class="s8_380"
+>你</text>
+
+<text 
+x="255" 
+y="304" 
+dx="0,0,0,7.9,0,12,0,0,0" 
+class="s8_380"
+>休息 得 怎么样？</text>
+
+<text 
+x="515" 
+y="304" 
+dx="0,-0.4,-0.3,0,0,0,0,0,0,-0.3,0,0,0,-0.2,0,0,0" 
+class="s3_380"
+>How did you rest?</text>
+
+<text 
+x="129" 
+y="356" 
+dx="0" 
+class="s7_380"
+>2</text>
+
+<text 
+x="141" 
+y="362" 
+dx="0" 
+class="s8_380"
+>我</text>
+
+<text 
+x="255" 
+y="362" 
+dx="0,0,0,7.9" 
+class="s8_380"
+>休息 得</text>
+
+<text 
+x="389" 
+y="362" 
+dx="0,0,0" 
+class="s8_380"
+>很好。</text>
+
+<text 
+x="515" 
+y="362" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0.3,0,0,-0.3,0,0,0" 
+class="s3_380"
+>I rested very well.</text>
+
+<text 
+x="129" 
+y="418" 
+dx="0" 
+class="s7_380"
+>3</text>
+
+<text 
+x="140" 
+y="423" 
+dx="0,0,0" 
+class="s8_380"
+>他今天</text>
+
+<text 
+x="252" 
+y="420" 
+dx="0" 
+class="s8_380"
+>来</text>
+
+<text 
+x="335" 
+y="420" 
+dx="0" 
+class="s8_380"
+>得</text>
+
+<text 
+x="389" 
+y="420" 
+dx="0,0,0" 
+class="s8_380"
+>很早。</text>
+
+<text 
+x="515" 
+y="419" 
+dx="0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-1.3" 
+class="s3_380"
+>He came early today.</text>
+
+<text 
+x="128" 
+y="474" 
+dx="0" 
+class="s7_380"
+>4</text>
+
+<text 
+x="140" 
+y="481" 
+dx="0" 
+class="s8_380"
+>你</text>
+
+<text 
+x="255" 
+y="477" 
+dx="0" 
+class="s8_380"
+>做</text>
+
+<text 
+x="335" 
+y="477" 
+dx="0" 
+class="s8_380"
+>得</text>
+
+<text 
+x="388" 
+y="477" 
+dx="0,0" 
+class="s8_380"
+>对！</text>
+
+<text 
+x="515" 
+y="477" 
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.2,0,0,0,0,0" 
+class="s3_380"
+>You did it correctly!</text>
+
+<text 
+x="114" 
+y="573" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_380"
+>If the sentence contains an object, the sentence is arranged in this way: the verb and its </text>
+
+<text 
+x="116" 
+y="600" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.3,-0.3,0,0,0,-0.3,0,0,0,0,0" 
+class="s3_380"
+>object are stated first, then the verb is repeated followed by the </text>
+
+<text 
+x="603" 
+y="600" 
+dx="0" 
+class="s4_380"
+>得</text>
+
+<text 
+x="630" 
+y="600" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,-0.6,-0.4,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s3_380"
+>(de) phrase. The first </text>
+
+<text 
+x="115" 
+y="625" 
+dx="0,-0.3,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.6,-0.4,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0" 
+class="s3_380"
+>verb may be left out without changing the meaning of the sentence. (In the following </text>
+
+<text 
+x="116" 
+y="651" 
+dx="0,-0.4,-0.4,0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,-0.4,0,0,0,-0.4,0,0" 
+class="s3_380"
+>examples, the object is shown in a blue box and the verb is shown in a gray box.)</text>
+
+<text 
+x="113" 
+y="720" 
+dx="0,0,0,0,0" 
+class="s8_380"
+>她吹笛子吹</text>
+
+<text 
+x="276" 
+y="720" 
+dx="0,0,0,0" 
+class="s8_380"
+>得很好。</text>
+
+<text 
+x="113" 
+y="796" 
+dx="0,0,0,0" 
+class="s8_380"
+>她笛子吹</text>
+
+<text 
+x="244" 
+y="796" 
+dx="0,0,0,0" 
+class="s8_380"
+>得很好。</text>
+
+<text 
+x="115" 
+y="853" 
+dx="0,-0.4,0,0,0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-1.5,-0.4,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s3_380"
+>Sometimes, if the thing being discussed is already clear, the speaker may leave out the </text>
+
+<text 
+x="116" 
+y="879" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.6,-0.4" 
+class="s3_380"
+>object, as shown in person B’s answer to person A here. </text>
+
+<text 
+x="115" 
+y="944" 
+dx="0,0" 
+class="s7_380"
+>A:</text>
+
+<text 
+x="139" 
+y="947" 
+dx="0,0,0,0,0" 
+class="s8_380"
+>她吹笛子吹</text>
+
+<text 
+x="302" 
+y="947" 
+dx="0,0,0,0,0" 
+class="s8_380"
+>得怎么样？</text>
+
+<text 
+x="137" 
+y="978" 
+dx="0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_380"
+>How is she at playing the flute?</text>
+
+<text 
+x="115" 
+y="1043" 
+dx="0,0" 
+class="s7_380"
+>B:</text>
+
+<text 
+x="140" 
+y="1046" 
+dx="0,0" 
+class="s8_380"
+>她吹</text>
+
+<text 
+x="206" 
+y="1046" 
+dx="0,0,0,0" 
+class="s8_380"
+>得很好。</text>
+
+<text 
+x="138" 
+y="1077" 
+dx="0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.3,0,0.3,0,0,-0.3,0,0,0,-0.4" 
+class="s3_380"
+>She plays it very well. </text>
+
+<text 
+x="285" 
+y="690" 
+dx="0,0.2" 
+class="s9_380"
+>de</text>
+
+<text 
+x="253" 
+y="768" 
+dx="0,0.2" 
+class="s9_380"
+>de</text>
+
+<text 
+x="311" 
+y="918" 
+dx="0,0.2" 
+class="s9_380"
+>de</text>
+
+<text 
+x="214" 
+y="1016" 
+dx="0,0.2" 
+class="s9_380"
+>de</text>
+
+<text 
+x="541" 
+y="759" 
+dx="0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0.3,0,0,-0.3,0,0,0" 
+class="s3_380"
+>She plays the flute very well.</text>
+
+<path d="M473,711.3l-73.6,0" class="g5_380" />
+<path d="M472.1,789.2l-104.8,0" class="g5_380" />
+<path d="M527.7,739.3L472.5,711.2" class="g5_380" />
+<path d="M536.1,743.6L523.7,742l3.9,-7.6Z" class="g2_380" />
+<path d="M526.9,761l-55.2,28.1" class="g5_380" />
+<path d="M535.3,756.7l-12.4,1.6l3.9,7.6Z" class="g2_380" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_dci;
+	src: url("fonts/Alegreya-Regular_dci.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_ck4;
+	src: url("fonts/ProximaNova-Semibold_ck4.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_dcf;
+	src: url("fonts/ProximaNova-Bold_dcf.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNovaCond-Extrabld_dc-;
+	src: url("fonts/ProximaNovaCond-Extrabld_dc-.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_dcn;
+	src: url("fonts/Alegreya-Bold_dcn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

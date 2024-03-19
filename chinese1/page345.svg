@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 368 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_368{
+fill: #ACBF3B;
+}
+
+.s1_368{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_da-;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image preserveAspectRatio="none" x="27" y="17" width="365" height="384" xlink:href="368/img/1.png" />
+<image preserveAspectRatio="none" x="391" y="17" width="364" height="384" xlink:href="368/img/2.png" />
+<image preserveAspectRatio="none" x="755" y="17" width="156" height="876" xlink:href="368/img/3.png" />
+<image preserveAspectRatio="none" x="27" y="400" width="365" height="384" xlink:href="368/img/4.png" />
+<image preserveAspectRatio="none" x="391" y="400" width="364" height="384" xlink:href="368/img/5.png" />
+<image preserveAspectRatio="none" x="27" y="783" width="365" height="383" xlink:href="368/img/6.png" />
+<image preserveAspectRatio="none" x="391" y="783" width="364" height="383" xlink:href="368/img/7.png" />
+<image preserveAspectRatio="none" x="755" y="892" width="156" height="274" xlink:href="368/img/8.png" />
+<text 
+x="855" 
+y="1149" 
+dx="0,0,0" 
+class="s1_368"
+>345</text>
+
+<path d="M0,110l1.5,0L1.5,0L0,0L0,110Z" class="g1_368" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Bold_da-;
+	src: url("fonts/ProximaNova-Bold_da-.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

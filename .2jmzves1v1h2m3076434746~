@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 133 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_133{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_133{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_133{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_133{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_133{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3v-;
+fill: #3F3F40;
+}
+.s2_133{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_133{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #007D9F;
+}
+.s4_133{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s5_133{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #007D9F;
+}
+.s6_133{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3wc;
+fill: #3F3F40;
+}
+.s7_133{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s8_133{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s9_133{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3v-;
+fill: #007D9F;
+}
+.s10_133{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3vu;
+fill: #007D9F;
+}
+.s11_133{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3wg;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M123.8,378.1l12.2,0" class="g1_133" />
+<text 
+x="174" 
+y="71" 
+dx="0,0" 
+class="s1_133"
+>D </text>
+
+<text 
+x="244" 
+y="73" 
+dx="0" 
+class="s2_133"
+>他</text>
+
+<text 
+x="270" 
+y="73" 
+dx="0,0" 
+class="s3_133"
+>无论</text>
+
+<text 
+x="322" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_133"
+>在家里还是在学校，</text>
+
+<text 
+x="556" 
+y="73" 
+dx="0" 
+class="s3_133"
+>都</text>
+
+<text 
+x="582" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_133"
+>在学习，很少看见他</text>
+
+<text 
+x="244" 
+y="107" 
+dx="0,0,0" 
+class="s2_133"
+>玩儿。</text>
+
+<text 
+x="244" 
+y="150" 
+dx="0" 
+class="s4_133"
+>他</text>
+
+<text 
+x="270" 
+y="150" 
+dx="0,0" 
+class="s5_133"
+>無論</text>
+
+<text 
+x="322" 
+y="150" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_133"
+>在家裡還是在學校，</text>
+
+<text 
+x="556" 
+y="150" 
+dx="0" 
+class="s5_133"
+>都</text>
+
+<text 
+x="582" 
+y="150" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_133"
+>在學習，很少看見他</text>
+
+<text 
+x="244" 
+y="183" 
+dx="0,0,0" 
+class="s4_133"
+>玩兒。</text>
+
+<text 
+x="250" 
+y="212" 
+dx="0,0,0,-0.1,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0" 
+class="s6_133"
+>Whether he’s at home or at school, he’s always studying. You rarely see him have fun.</text>
+
+<text 
+x="250" 
+y="249" 
+dx="0" 
+class="s6_133"
+>[</text>
+
+<text 
+x="254" 
+y="250" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_133"
+>在家里还是在学校</text>
+
+<text 
+x="444" 
+y="249" 
+dx="0" 
+class="s6_133"
+>/</text>
+
+<text 
+x="449" 
+y="250" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_133"
+>在家裡還是在學校</text>
+
+<text 
+x="641" 
+y="249" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0" 
+class="s6_133"
+>is an alternative </text>
+
+<text 
+x="250" 
+y="276" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,-0.1,-0.1,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>construction. Together with </text>
+
+<text 
+x="439" 
+y="278" 
+dx="0,0" 
+class="s7_133"
+>无论</text>
+
+<text 
+x="487" 
+y="276" 
+dx="0" 
+class="s6_133"
+>/</text>
+
+<text 
+x="492" 
+y="278" 
+dx="0,0" 
+class="s8_133"
+>無論</text>
+
+<text 
+x="539" 
+y="276" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>, it means “whether at home or </text>
+
+<text 
+x="250" 
+y="296" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>at school.”]</text>
+
+<text 
+x="123" 
+y="372" 
+dx="0,0" 
+class="s9_133"
+>2 </text>
+
+<text 
+x="334" 
+y="376" 
+dx="0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.7,0,0,0,0,0,0,0,0,0,-0.7,0" 
+class="s10_133"
+>Non-predicative adjectives</text>
+
+<text 
+x="161" 
+y="448" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>Some adjectives are primarily used as attributives, that is, before nouns or noun phrases. </text>
+
+<text 
+x="161" 
+y="475" 
+dx="0,0,0,0,0,-0.4,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>Unlike other adjectives, they cannot be qualified by words such as </text>
+
+<text 
+x="604" 
+y="477" 
+dx="0" 
+class="s7_133"
+>很</text>
+
+<text 
+x="631" 
+y="475" 
+dx="0,0,0" 
+class="s6_133"
+>or </text>
+
+<text 
+x="649" 
+y="477" 
+dx="0,0" 
+class="s7_133"
+>非常</text>
+
+<text 
+x="696" 
+y="475" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>. Their function </text>
+
+<text 
+x="161" 
+y="503" 
+dx="0,0,0,0,-0.2,0,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>is to categorize or distinguish the inherent traits or characteristics of people or things. Non-</text>
+
+<text 
+x="161" 
+y="530" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>predicative adjectives that we have studied include </text>
+
+<text 
+x="507" 
+y="532" 
+dx="0" 
+class="s7_133"
+>男</text>
+
+<text 
+x="531" 
+y="530" 
+dx="0,0" 
+class="s6_133"
+>, </text>
+
+<text 
+x="537" 
+y="532" 
+dx="0" 
+class="s7_133"
+>女</text>
+
+<text 
+x="561" 
+y="530" 
+dx="0,0" 
+class="s6_133"
+>, </text>
+
+<text 
+x="567" 
+y="532" 
+dx="0,0" 
+class="s7_133"
+>国际</text>
+
+<text 
+x="614" 
+y="530" 
+dx="0" 
+class="s6_133"
+>/</text>
+
+<text 
+x="619" 
+y="532" 
+dx="0,0" 
+class="s8_133"
+>國際</text>
+
+<text 
+x="667" 
+y="530" 
+dx="0,0" 
+class="s6_133"
+>, </text>
+
+<text 
+x="673" 
+y="532" 
+dx="0,0" 
+class="s7_133"
+>有机</text>
+
+<text 
+x="720" 
+y="530" 
+dx="0" 
+class="s6_133"
+>/</text>
+
+<text 
+x="725" 
+y="532" 
+dx="0,0" 
+class="s8_133"
+>有機</text>
+
+<text 
+x="773" 
+y="530" 
+dx="0,0" 
+class="s6_133"
+>, </text>
+
+<text 
+x="161" 
+y="558" 
+dx="0,0,0,0" 
+class="s6_133"
+>and </text>
+
+<text 
+x="190" 
+y="559" 
+dx="0,0" 
+class="s7_133"
+>纯棉</text>
+
+<text 
+x="237" 
+y="558" 
+dx="0" 
+class="s6_133"
+>/</text>
+
+<text 
+x="242" 
+y="559" 
+dx="0,0" 
+class="s8_133"
+>純棉</text>
+
+<text 
+x="289" 
+y="558" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_133"
+>, as in </text>
+
+<text 
+x="329" 
+y="559" 
+dx="0,0,0" 
+class="s7_133"
+>男朋友</text>
+
+<text 
+x="403" 
+y="558" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>(boyfriend), </text>
+
+<text 
+x="483" 
+y="559" 
+dx="0,0,0" 
+class="s7_133"
+>女朋友</text>
+
+<text 
+x="557" 
+y="558" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>(girlfriend), </text>
+
+<text 
+x="633" 
+y="559" 
+dx="0,0,0,0" 
+class="s7_133"
+>国际足球</text>
+
+<text 
+x="728" 
+y="558" 
+dx="0" 
+class="s6_133"
+>/</text>
+
+<text 
+x="733" 
+y="559" 
+dx="0,0" 
+class="s8_133"
+>國際</text>
+
+<text 
+x="161" 
+y="587" 
+dx="0,0" 
+class="s8_133"
+>足球</text>
+
+<text 
+x="212" 
+y="585" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.1,0,0,0,0,0,0,0" 
+class="s6_133"
+>(international football), </text>
+
+<text 
+x="367" 
+y="587" 
+dx="0,0,0,0" 
+class="s7_133"
+>有机水果</text>
+
+<text 
+x="461" 
+y="585" 
+dx="0" 
+class="s6_133"
+>/</text>
+
+<text 
+x="466" 
+y="587" 
+dx="0,0,0,0" 
+class="s8_133"
+>有機水果</text>
+
+<text 
+x="564" 
+y="585" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>(organic fruit), </text>
+
+<text 
+x="661" 
+y="587" 
+dx="0,0,0,0" 
+class="s7_133"
+>有机咖啡</text>
+
+<text 
+x="756" 
+y="585" 
+dx="0" 
+class="s6_133"
+>/</text>
+
+<text 
+x="761" 
+y="587" 
+dx="0" 
+class="s8_133"
+>有</text>
+
+<text 
+x="161" 
+y="614" 
+dx="0,0,0" 
+class="s8_133"
+>機咖啡</text>
+
+<text 
+x="236" 
+y="613" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.3,0,0,0,0" 
+class="s6_133"
+>(organic coffee), </text>
+
+<text 
+x="348" 
+y="614" 
+dx="0,0,0,0" 
+class="s7_133"
+>纯棉衬衫</text>
+
+<text 
+x="443" 
+y="613" 
+dx="0" 
+class="s6_133"
+>/</text>
+
+<text 
+x="448" 
+y="614" 
+dx="0,0,0,0" 
+class="s8_133"
+>純棉襯衫</text>
+
+<text 
+x="545" 
+y="613" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.1,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>(one-hundred-percent cotton shirt), </text>
+
+<text 
+x="161" 
+y="640" 
+dx="0,0,0,0" 
+class="s6_133"
+>and </text>
+
+<text 
+x="190" 
+y="642" 
+dx="0,0,0,0,0" 
+class="s7_133"
+>纯棉运动服</text>
+
+<text 
+x="308" 
+y="640" 
+dx="0" 
+class="s6_133"
+>/</text>
+
+<text 
+x="313" 
+y="642" 
+dx="0,0,0,0,0" 
+class="s8_133"
+>純棉運動服</text>
+
+<text 
+x="435" 
+y="640" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.1,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_133"
+>(one-hundred-percent cotton tracksuit).</text>
+
+<text 
+x="161" 
+y="681" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.6,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s6_133"
+>When these adjectives are used as predicates, they must be embedded in a </text>
+
+<text 
+x="659" 
+y="683" 
+dx="0,-0.2,-0.2" 
+class="s7_133"
+>是…的</text>
+
+<text 
+x="733" 
+y="681" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s6_133"
+>construction:</text>
+
+<text 
+x="174" 
+y="722" 
+dx="0,0" 
+class="s1_133"
+>A </text>
+
+<text 
+x="244" 
+y="724" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_133"
+>李友的中国朋友是个</text>
+
+<text 
+x="478" 
+y="724" 
+dx="0,0" 
+class="s3_133"
+>男的</text>
+
+<text 
+x="530" 
+y="724" 
+dx="0" 
+class="s2_133"
+>。</text>
+
+<text 
+x="244" 
+y="767" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_133"
+>李友的中國朋友是個</text>
+
+<text 
+x="478" 
+y="767" 
+dx="0,0" 
+class="s5_133"
+>男的</text>
+
+<text 
+x="530" 
+y="767" 
+dx="0" 
+class="s4_133"
+>。</text>
+
+<text 
+x="250" 
+y="796" 
+dx="0,0,0,0,-1.5,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>Li You’s Chinese friend is male. </text>
+
+<text 
+x="250" 
+y="825" 
+dx="0,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>[categorizing or distinguishing the gender of her friend]</text>
+
+<text 
+x="174" 
+y="865" 
+dx="0,0" 
+class="s1_133"
+>B </text>
+
+<text 
+x="244" 
+y="868" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_133"
+>小李买的水果都是</text>
+
+<text 
+x="452" 
+y="868" 
+dx="0,0,0" 
+class="s3_133"
+>有机的</text>
+
+<text 
+x="530" 
+y="868" 
+dx="0" 
+class="s2_133"
+>。</text>
+
+<text 
+x="244" 
+y="910" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_133"
+>小李買的水果都是</text>
+
+<text 
+x="452" 
+y="910" 
+dx="0,0,0" 
+class="s5_133"
+>有機的</text>
+
+<text 
+x="530" 
+y="910" 
+dx="0" 
+class="s4_133"
+>。</text>
+
+<text 
+x="250" 
+y="939" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>The fruit Little Li buys is all organic. </text>
+
+<text 
+x="250" 
+y="968" 
+dx="0,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>[categorizing or distinguishing the method by which the fruit was farmed]</text>
+
+<text 
+x="174" 
+y="1009" 
+dx="0,0" 
+class="s1_133"
+>C </text>
+
+<text 
+x="244" 
+y="1011" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_133"
+>我穿的这件衬衫是</text>
+
+<text 
+x="452" 
+y="1011" 
+dx="0,0,0" 
+class="s3_133"
+>纯棉的</text>
+
+<text 
+x="530" 
+y="1011" 
+dx="0" 
+class="s2_133"
+>。</text>
+
+<text 
+x="244" 
+y="1054" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_133"
+>我穿的這件襯衫是</text>
+
+<text 
+x="452" 
+y="1054" 
+dx="0,0,0" 
+class="s5_133"
+>純棉的</text>
+
+<text 
+x="530" 
+y="1054" 
+dx="0" 
+class="s4_133"
+>。</text>
+
+<text 
+x="250" 
+y="1083" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.1,0,-0.2,0,0,0" 
+class="s6_133"
+>This shirt I’m wearing is one-hundred-percent cotton. </text>
+
+<text 
+x="250" 
+y="1112" 
+dx="0,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_133"
+>[categorizing or distinguishing the composition of the fabric]</text>
+
+<path d="M169,48c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7C199,55.6,198.9,48,191.4,48L169,48Z" class="g2_133" />
+<path d="M169,50.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_133" />
+<path d="M151.2,341.6l0,53.5l0,0.8l0.8,0l676.9,0l0.7,0l0,-0.8l0,-53.5l0,-0.7l-0.7,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_133" />
+<path d="M153.2,393.8l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_133" />
+<path d="M169,698.9c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_133" />
+<path d="M169,700.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_133" />
+<path d="M169,842.5c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_133" />
+<path d="M169,844.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_133" />
+<path d="M169,986.1c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_133" />
+<path d="M169,988.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_133" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g4_133" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s11_133"
+>110 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1131)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s11_133"
+>Integrated Chinese 3 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 991)"
+dx="0,1" 
+class="s11_133"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 977)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s11_133"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3v-;
+	src: url("fonts/LibreFranklin-ExtraBold_3v-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3vu;
+	src: url("fonts/LibreFranklin-Bold_3vu.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3wg;
+	src: url("fonts/LibreFranklin-SemiBold_3wg.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3wc;
+	src: url("fonts/LibreFranklin-Regular_3wc.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

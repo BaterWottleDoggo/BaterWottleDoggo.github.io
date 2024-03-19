@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 292 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_292"><path d="M706.1,73.9l0,-14.5l90.9,0l0,14.5Z" /></clipPath>
+<clipPath id="c1_292"><path d="M131.8,892.3l0,-588.3l673.9,0l0,588.3Z" /></clipPath>
+<clipPath id="c2_292"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_292{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_292{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_292{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_292{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_292{
+fill: #E7E8E9;
+}
+.g6_292{
+fill: #6D6E71;
+}
+.g7_292{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.36513892;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_292{
+fill: #FFFFFF;
+}
+.g9_292{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.4391667;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g10_292{
+fill: #3F3F40;
+}
+.g11_292{
+fill: #D1D2D4;
+}
+.g12_292{
+fill: #F3F4F4;
+}
+.g13_292{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.0999999;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g14_292{
+fill: #A8A9AD;
+}
+.g15_292{
+fill: none;
+stroke: #1275BC;
+stroke-width: 1.986111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g16_292{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.0251389;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g17_292{
+fill: #8CC63E;
+}
+.g18_292{
+fill: #A1C0E4;
+}
+.g19_292{
+fill: #F58320;
+}
+.g20_292{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g21_292{
+fill: #872B91;
+}
+.g22_292{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_292{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_35m;
+fill: #872B91;
+}
+.s2_292{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_35e;
+fill: #872B91;
+}
+.s3_292{
+font-size: 15.28px;
+font-family: ProximaNova-Light_35x;
+fill: #3F3F40;
+}
+.s4_292{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #872B91;
+}
+.s5_292{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s6_292{
+font-size: 10.31px;
+font-family: ProximaNova-Regular_35w;
+fill: #872B91;
+}
+.s7_292{
+font-size: 11.61px;
+font-family: ArialMT_365;
+fill: #FFFFFF;
+}
+.s8_292{
+font-size: 20.79px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #FFFFFF;
+}
+.s9_292{
+font-size: 17.78px;
+font-family: ArialMT_365;
+fill: #FFFFFF;
+}
+.s10_292{
+font-size: 26.12px;
+font-family: SourceHanSansCN-Medium_2tw;
+fill: #FFFFFF;
+}
+.s11_292{
+font-size: 19.86px;
+font-family: SourceHanSansCN-Normal_4av;
+fill: #231F20;
+}
+.s12_292{
+font-size: 17.78px;
+font-family: Arial-BoldMT_364;
+fill: #FFFFFF;
+}
+.s13_292{
+font-size: 21.39px;
+font-family: ProximaNova-Semibold_367;
+fill: #FFFFFF;
+}
+.s14_292{
+font-size: 16.47px;
+font-family: ProximaNova-Medium_368;
+fill: #6D6E71;
+}
+.s15_292{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_35r;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,73.2l13,0" class="g1_292" />
+<text 
+x="105" 
+y="69" 
+dx="0,0" 
+class="s1_292"
+>F </text>
+
+<text 
+x="373" 
+y="74" 
+dx="0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_292"
+>Exchange student</text>
+
+<text 
+x="143" 
+y="136" 
+dx="0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_292"
+>You will be studying Chinese at Peking University next summer. How will you get to Tian’anmen </text>
+
+<text 
+x="143" 
+y="163" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3,0" 
+class="s3_292"
+>Square from campus? After researching transportation options, share your plan with your partner. </text>
+
+<text 
+x="143" 
+y="191" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_292"
+>Use expressions such as </text>
+
+<text 
+x="310" 
+y="191" 
+dx="0,0" 
+class="s4_292"
+>先 </text>
+
+<text 
+x="337" 
+y="191" 
+dx="0,0,0,0,0,0" 
+class="s5_292"
+>(xiān)</text>
+
+<text 
+x="376" 
+y="191" 
+dx="0" 
+class="s4_292"
+>…</text>
+
+<text 
+x="397" 
+y="191" 
+dx="0,0" 
+class="s3_292"
+>, </text>
+
+<text 
+x="405" 
+y="191" 
+dx="0" 
+class="s4_292"
+>再</text>
+
+<text 
+x="430" 
+y="191" 
+dx="0,0,0,0,0" 
+class="s5_292"
+>(zài)</text>
+
+<text 
+x="460" 
+y="191" 
+dx="0" 
+class="s4_292"
+>…</text>
+
+<text 
+x="482" 
+y="191" 
+dx="0,0,0,0,0,0" 
+class="s3_292"
+>, and </text>
+
+<text 
+x="518" 
+y="191" 
+dx="0,0" 
+class="s4_292"
+>然后</text>
+
+<text 
+x="565" 
+y="191" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_292"
+>(ránhòu)</text>
+
+<text 
+x="616" 
+y="191" 
+dx="0" 
+class="s4_292"
+>…</text>
+
+<text 
+x="637" 
+y="191" 
+dx="0" 
+class="s3_292"
+>.</text>
+
+<path d="M132.9,39l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g2_292" />
+<path d="M134.9,91.2l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_292" />
+<text 
+x="708" 
+y="70" 
+dx="0,0.1,0.1,0.1,0.1,0.1,0.1,-0.6,-0.6,0.1,0.1,0.1,0.1,0.1" 
+class="s6_292"
+>PRESENTATIONAL</text>
+
+<g clip-path="url(#c0_292)">
+<path d="M706.1,73.9l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g4_292" />
+</g>
+<path d="M328.3,887.3l477.4,0l0,-580.3l-477.4,0l0,580.3Z" class="g5_292" />
+<path d="M329.1,326l476.1,0l0,-18.9l-476.1,0l0,18.9Z" class="g6_292" />
+<path d="M805.2,326l-476.1,0l0,-18.9l476.1,0Z" class="g7_292" />
+<path d="M338.4,320.8l-2.2,0l0,-4.1l2.2,0l0,4.1Z" class="g8_292" />
+<path d="M342.3,320.8l-2.2,0l0,-5.9l2.2,0l0,5.9Z" class="g8_292" />
+<path d="M346.1,320.8l-2.2,0l0,-7.6l2.2,0l0,7.6Z" class="g8_292" />
+<path d="M349.9,320.8l-2.1,0l0,-9.3l2.1,0l0,9.3Z" class="g8_292" />
+<path d="M353.8,320.8l-2.2,0l0,-11.1l2.2,0l0,11.1Z" class="g8_292" />
+<path d="M362.4,315.1c1,-1.3,2.8,-2.1,4.9,-2.1c2.1,0,3.9,0.8,4.9,2.1l1.8,-0.5c-1.1,-1.9,-3.7,-3.3,-6.7,-3.3c-3,0,-5.6,1.4,-6.7,3.3Z" class="g8_292" />
+<path d="M364.2,317.9c0.7,-0.8,1.8,-1.3,3.1,-1.3c1.3,0,2.5,0.5,3.1,1.3l1.1,-0.7c-0.7,-1.2,-2.3,-2,-4.2,-2c-1.9,0,-3.5,0.8,-4.2,2Z" class="g8_292" />
+<path d="M366.1,320.7c0.2,-0.3,0.7,-0.5,1.2,-0.5c0.5,0,1,0.2,1.3,0.5l0.4,-0.9c-0.3,-0.4,-0.9,-0.8,-1.7,-0.8c-0.8,0,-1.4,0.4,-1.7,0.8Z" class="g8_292" />
+<text 
+x="551" 
+y="320" 
+dx="0,0,0,0,0,0,0" 
+class="s7_292"
+>9:41 PM</text>
+
+<text 
+x="741" 
+y="318" 
+dx="0,0,0" 
+class="s7_292"
+>85%</text>
+
+<path d="M785.6,313.5l-1.5,0l0,-2.5l-14.9,0l0,7.6l14.9,0l0,-2.5l1.5,0l0,-2.6Z" class="g9_292" />
+<path d="M780.1,316.3l-9.8,0l0,-3.3l9.8,0l0,3.3Z" class="g8_292" />
+<path d="M329.6,403.3l475.6,0l0,-76.2l-475.6,0l0,76.2Z" class="g10_292" />
+<text 
+transform="matrix(1.36, 0, 0, 1, 322, 376)"
+dx="0" 
+class="s8_292"
+>〈</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 358, 376)"
+dx="0,-0.3,0,0,0,0" 
+class="s9_292"
+>WeChat</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 546, 380)"
+dx="0,-0.4,0,0" 
+class="s10_292"
+>Lola</text>
+
+<path d="M412.1,477.5l5,5.4l0,13.2c0,1.6,1.3,2.9,2.9,2.9l338,0c1.6,0,2.9,-1.3,2.9,-2.9l0,-34.5c0,-1.7,-1.3,-3,-2.9,-3l-338,0c-1.6,0,-2.9,1.3,-2.9,3l0,11.2Z" class="g8_292" />
+<path d="M750.3,380.3c0,0,-0.5,-3.5,2.4,-4.6c3.9,-1.5,6.9,-2.6,6.9,-4.1c0,-1.5,-3.6,-4.8,-2.7,-9.9c0.9,-5.1,3.9,-4.9,5.4,-5c1.5,-0.1,4.2,1.5,4.5,5.9c0.3,5.1,-2.4,8.1,-2.4,8.1c0,0,-1.1,1.2,0.4,1.8c1.5,0.6,6.8,3.3,8.3,4.5c1.5,1.2,0.6,3.3,0.6,3.3Z" class="g8_292" />
+<path d="M769.8,371.5c1.4,-0.6,2.4,-1.2,2.4,-1.9c0,-1,-2.5,-3.3,-1.9,-6.7c0.6,-3.5,2.7,-3.4,3.7,-3.4c1,-0.1,2.9,1,3.1,4c0.2,3.5,-1.7,5.5,-1.7,5.5c0,0,-0.7,0.9,0.3,1.3c1.1,0.4,4.7,2.2,5.7,3c1,0.8,0.4,2.3,0.4,2.3l-6,0c0,0,-0.5,-2.2,-6,-4.1Z" class="g8_292" />
+<path d="M599.6,440.5l-52,0c-2.3,0,-4.2,-1.9,-4.2,-4.2l0,-11.6c0,-2.2,1.9,-4.1,4.2,-4.1l52,0c2.2,0,4.1,1.9,4.1,4.1l0,11.6c0,2.3,-1.9,4.2,-4.1,4.2Z" class="g11_292" />
+<text 
+x="551" 
+y="435" 
+dx="0,0,0,0,0,0,0" 
+class="s7_292"
+>8:23 PM</text>
+
+<image preserveAspectRatio="none" x="319" y="399" width="368" height="245" xlink:href="292/img/1.png" />
+<text 
+x="425" 
+y="484" 
+dx="0,0,0,0,0,0.2" 
+class="s11_292"
+>我在地铁站。</text>
+
+<text 
+x="543" 
+y="484" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_292"
+>去你家坐红线还是蓝线?</text>
+
+<path d="M412.1,780l5,5.5l0,13.1c0,1.6,1.3,2.9,2.9,2.9l277.4,0c1.6,0,3,-1.3,3,-2.9l0,-34.5c0,-1.6,-1.4,-2.9,-3,-2.9l-277.4,0c-1.6,0,-2.9,1.3,-2.9,2.9l0,11.3Z" class="g8_292" />
+<image preserveAspectRatio="none" x="319" y="701" width="368" height="245" xlink:href="292/img/2.png" />
+<text 
+x="425" 
+y="787" 
+dx="0,-1.3" 
+class="s11_292"
+>好，</text>
+
+<text 
+x="464" 
+y="787" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0.2" 
+class="s11_292"
+>我出了地铁站给你打电话。</text>
+
+<path d="M412.1,627.5l5,5.4l0,12.5c0,1.6,1.3,2.9,2.9,2.9l353.9,0c1.6,0,3,-1.3,3,-2.9l0,-33.8c0,-1.7,-1.4,-3,-3,-3l-353.9,0c-1.6,0,-2.9,1.3,-2.9,3l0,11.2Z" class="g8_292" />
+<image preserveAspectRatio="none" x="319" y="549" width="368" height="245" xlink:href="292/img/3.png" />
+<text 
+x="425" 
+y="634" 
+dx="0,0,0,0,0.2" 
+class="s11_292"
+>我没开车。</text>
+
+<text 
+x="523" 
+y="634" 
+dx="0,0,0,0,0,-1.3" 
+class="s11_292"
+>路上车太多，</text>
+
+<text 
+x="641" 
+y="634" 
+dx="0,0,0,0,0,0,0.2" 
+class="s11_292"
+>坐地铁快一点。</text>
+
+<image preserveAspectRatio="none" x="328" y="887" width="478" height="3" xlink:href="292/img/4.png" />
+<image preserveAspectRatio="none" x="328" y="841" width="478" height="47" xlink:href="292/img/5.png" />
+<path d="M328.5,892.3l477.2,0l0,-47.8l-477.2,0l0,47.8Z" class="g12_292" />
+<path d="M723.1,883.8l-351.6,0c-1,0,-1.8,-0.8,-1.8,-1.8l0,-27.3c0,-1,0.8,-1.8,1.8,-1.8l351.6,0c1,0,1.8,0.8,1.8,1.8l0,27.3c0,1,-0.8,1.8,-1.8,1.8Z" class="g8_292" />
+<path d="M761.4,868.4c0,7.2,-5.8,13,-12.9,13c-7.1,0,-12.8,-5.8,-12.8,-13c0,-7.2,5.7,-13,12.8,-13c7.1,0,12.9,5.8,12.9,13Z" class="g13_292" />
+<path d="M745.9,864.9c0,1,-0.8,1.8,-1.8,1.8c-1,0,-1.8,-0.8,-1.8,-1.8c0,-1,0.8,-1.8,1.8,-1.8c1,0,1.8,0.8,1.8,1.8Z" class="g14_292" />
+<path d="M754.5,864.9c0,1,-0.8,1.8,-1.8,1.8c-1,0,-1.8,-0.8,-1.8,-1.8c0,-1,0.8,-1.8,1.8,-1.8c1,0,1.8,0.8,1.8,1.8Z" class="g14_292" />
+<path d="M740.7,869.9c1,4.1,4.1,7.2,7.8,7.2c3.8,0,6.9,-3.1,7.9,-7.2c-1,2.9,-14.7,2.9,-15.7,0Z" class="g14_292" />
+<path d="M375.5,859.2l0,18.4" class="g15_292" />
+<path d="M359.9,868.4c0,6.7,-5.4,12.2,-12.2,12.2c-6.8,0,-12.2,-5.5,-12.2,-12.2c0,-6.8,5.4,-12.3,12.2,-12.3c6.8,0,12.2,5.5,12.2,12.3Z" class="g13_292" />
+<path d="M343,868.4c0,0.5,-0.4,0.9,-0.9,0.9c-0.5,0,-1,-0.4,-1,-0.9c0,-0.6,0.5,-1,1,-1c0.5,0,0.9,0.4,0.9,1Z" class="g14_292" />
+<path d="M348.4,876.9c2.9,-2.2,4.7,-5.7,4.4,-9.5c-0.2,-3.1,-1.6,-5.7,-3.7,-7.6" class="g16_292" />
+<path d="M346.7,862.6c1.4,1.2,2.4,3,2.5,5c0.2,2.6,-1.1,5,-3.1,6.5" class="g16_292" />
+<path d="M346.1,874.1c2,-1.5,3.3,-3.9,3.1,-6.5" class="g16_292" />
+<path d="M344.3,865.3c0.7,0.6,1.2,1.5,1.2,2.5c0.1,1.4,-0.5,2.7,-1.6,3.4" class="g16_292" />
+<path d="M343.9,871.2c1.1,-0.7,1.7,-2,1.7,-3.4c-0.1,-1,-0.6,-1.9,-1.3,-2.5" class="g16_292" />
+<path d="M793.3,868.7c0,7.2,-5.8,13,-12.9,13c-7.1,0,-12.8,-5.8,-12.8,-13c0,-7.2,5.7,-13,12.8,-13c7.1,0,12.9,5.8,12.9,13Z" class="g13_292" />
+<path d="M779.7,877.7l0,-8.3l-8.2,0l0,-1.4l8.2,0l0,-8.3l1.5,0l0,8.3l8.2,0l0,1.4l-8.2,0l0,8.3Z" class="g14_292" />
+<image preserveAspectRatio="none" x="710" y="523" width="96" height="65" xlink:href="292/img/6.png" />
+<path d="M724.7,545.2l-5,5.4l0,17.5c0,1.6,-1.3,2.9,-2.9,2.9l-54.3,0c-1.6,0,-2.9,-1.3,-2.9,-2.9l0,-38.9c0,-1.6,1.3,-2.9,2.9,-2.9l54.3,0c1.6,0,2.9,1.3,2.9,2.9l0,11.3Z" class="g17_292" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 686, 551)"
+dx="0,0,0" 
+class="s12_292"
+>...</text>
+
+<image preserveAspectRatio="none" x="710" y="675" width="96" height="64" xlink:href="292/img/7.png" />
+<path d="M724.7,697.1l-5,5.5l0,17.4c0,1.6,-1.3,2.9,-2.9,2.9l-54.3,0c-1.6,0,-2.9,-1.3,-2.9,-2.9l0,-38.8c0,-1.6,1.3,-2.9,2.9,-2.9l54.3,0c1.6,0,2.9,1.3,2.9,2.9l0,11.3Z" class="g17_292" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 686, 703)"
+dx="0,0,0" 
+class="s12_292"
+>...</text>
+
+<g clip-path="url(#c1_292)">
+<path d="M321,325.1C321,313.4,311.5,304,299.9,304l-147,0c-11.7,0,-21.1,9.4,-21.1,21.1l0,14.8l189.2,0Z" class="g18_292" />
+</g>
+<path d="M301.1,443.7l19.6,20.5l0,-20.5Z" class="g19_292" />
+<text 
+x="164" 
+y="330" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s13_292"
+>Chinese Chat</text>
+
+<path d="M320.7,343.8l0,95.5l-164.1,0c-13.4,0,-24.3,-10.9,-24.3,-24.3l0,-71.2l188.4,0Z" class="g20_292" />
+<text 
+x="143" 
+y="362" 
+dx="0,-2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_292"
+>Your friend is sending </text>
+
+<text 
+x="143" 
+y="382" 
+dx="0,0,0,0,0,-0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_292"
+>you WeChat messages </text>
+
+<text 
+x="143" 
+y="402" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0" 
+class="s14_292"
+>from the subway. How </text>
+
+<text 
+x="143" 
+y="422" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s14_292"
+>would you reply?</text>
+
+<path d="M885.3,1196.3l36,0L921.3,0l-36,0l0,1196.3Z" class="g21_292" />
+<g clip-path="url(#c2_292)">
+<path d="M885.3,1209.2l67.3,0l0,-1222.1l-67.3,0l0,1222.1Z" class="g22_292" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 894, 857)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_292"
+>Lesson 10 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 920)"
+dx="0,0.3" 
+class="s15_292"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 933)"
+dx="0,-0.5,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_292"
+>Transportation </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1022)"
+dx="0,0.3" 
+class="s15_292"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1035)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s15_292"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1155)"
+dx="0,0.3,0.3" 
+class="s15_292"
+>271</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Arial-BoldMT_364;
+	src: url("fonts/Arial-BoldMT_364.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_365;
+	src: url("fonts/ArialMT_365.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_35e;
+	src: url("fonts/ProximaNova-Bold_35e.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_35r;
+	src: url("fonts/ProximaNova-Semibold_35r.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Medium_368;
+	src: url("fonts/ProximaNova-Medium_368.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_367;
+	src: url("fonts/ProximaNova-Semibold_367.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Normal_4av;
+	src: url("fonts/SourceHanSansCN-Normal_4av.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_2tw;
+	src: url("fonts/SourceHanSansCN-Medium_2tw.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_35x;
+	src: url("fonts/ProximaNova-Light_35x.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_35w;
+	src: url("fonts/ProximaNova-Regular_35w.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_35m;
+	src: url("fonts/ProximaNova-Extrabld_35m.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

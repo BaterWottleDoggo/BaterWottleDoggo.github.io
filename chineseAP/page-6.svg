@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 17 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_17{
+fill: #438CCA;
+}
+.g2_17{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_17{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_17{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.7638889;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 0,2;
+}
+
+.s1_17{
+font-size: 13.75px;
+font-family: MuseoSlab-700_ce3;
+fill: #808285;
+}
+.s2_17{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_cdg;
+fill: #FFFFFF;
+}
+.s3_17{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_cdg;
+fill: #438CCA;
+}
+.s4_17{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cc_;
+fill: #808285;
+}
+.s5_17{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cc_;
+fill: #231F20;
+}
+.s6_17{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cc_;
+fill: #232423;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="26" 
+y="1166" 
+dx="0,0,0" 
+class="s1_17"
+>xvi</text>
+
+<path d="M61.9,55.2l121,0l0,25.5l-121,0l0,-25.5Zm121,0l164.2,0l0,25.5l-164.2,0l0,-25.5Zm164.2,0l161.7,0l0,25.5l-161.7,0l0,-25.5Zm161.7,0l160.5,0l0,25.5l-160.5,0l0,-25.5Zm160.5,0l162.6,0l0,25.5l-162.6,0l0,-25.5Z" class="g1_17" />
+<path d="M182.9,80.1l0,-24.3" class="g2_17" />
+<path d="M347.1,80.1l0,-24.3" class="g2_17" />
+<path d="M508.8,80.1l0,-24.3" class="g2_17" />
+<path d="M669.3,80.1l0,-24.3" class="g2_17" />
+<path d="M182.9,358.5l0,-277.2" class="g2_17" />
+<path d="M347.1,358.5l0,-277.2" class="g2_17" />
+<path d="M508.8,358.5l0,-277.2" class="g2_17" />
+<path d="M669.3,358.5l0,-277.2" class="g2_17" />
+<path d="M182.9,852.2l0,-492.6" class="g2_17" />
+<path d="M347.1,852.2l0,-492.6" class="g2_17" />
+<path d="M508.8,852.2l0,-492.6" class="g2_17" />
+<path d="M669.3,852.2l0,-492.6" class="g2_17" />
+<path d="M61.9,55.2l121,0" class="g3_17" />
+<path d="M669.3,55.2l162.6,0" class="g3_17" />
+<path d="M61.9,80.7l121,0" class="g3_17" />
+<path d="M669.3,80.7l162.6,0" class="g3_17" />
+<path d="M182.9,55.2l164.2,0" class="g3_17" />
+<path d="M347.1,55.2l161.7,0" class="g3_17" />
+<path d="M508.8,55.2l160.5,0" class="g3_17" />
+<path d="M182.9,80.7l164.2,0" class="g3_17" />
+<path d="M347.1,80.7l161.7,0" class="g3_17" />
+<path d="M508.8,80.7l160.5,0" class="g3_17" />
+<path d="M182.9,78.6l0,-22.1" class="g4_17" />
+<path d="M347.1,78.6l0,-22.1" class="g4_17" />
+<path d="M508.8,78.6l0,-22.1" class="g4_17" />
+<path d="M669.3,78.6l0,-22.1" class="g4_17" />
+<path d="M182.9,356.9L182.9,82" class="g4_17" />
+<path d="M347.1,356.9L347.1,82" class="g4_17" />
+<path d="M508.8,356.9L508.8,82" class="g4_17" />
+<path d="M669.3,356.9L669.3,82" class="g4_17" />
+<path d="M61.9,359l121,0" class="g3_17" />
+<path d="M182.9,359l164.2,0" class="g3_17" />
+<path d="M347.1,359l161.7,0" class="g3_17" />
+<path d="M508.8,359l160.5,0" class="g3_17" />
+<path d="M669.3,359l162.6,0" class="g3_17" />
+<path d="M61.9,852.8l121,0" class="g3_17" />
+<path d="M182.9,852.8l164.2,0" class="g3_17" />
+<path d="M347.1,852.8l161.7,0" class="g3_17" />
+<path d="M508.8,852.8l160.5,0" class="g3_17" />
+<path d="M669.3,852.8l162.6,0" class="g3_17" />
+<path d="M182.9,850.7l0,-490.3" class="g4_17" />
+<path d="M347.1,850.7l0,-490.3" class="g4_17" />
+<path d="M508.8,850.7l0,-490.3" class="g4_17" />
+<path d="M669.3,850.7l0,-490.3" class="g4_17" />
+<text 
+x="67" 
+y="74" 
+dx="0,0,0,0,0,0,0" 
+class="s2_17"
+>Section</text>
+
+<text 
+x="188" 
+y="74" 
+dx="0,-1.6,-0.5,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_17"
+>Textbook Elements</text>
+
+<text 
+x="353" 
+y="74" 
+dx="0,0,0,-0.3,0,-0.1,0,0,0,0,-0.4,0,0,0,0,0,-0.3,0,0" 
+class="s2_17"
+>Interactive Content</text>
+
+<text 
+x="514" 
+y="74" 
+dx="0,-1.2,0,0,0,0,0,0,-0.2" 
+class="s2_17"
+>Workbooks</text>
+
+<text 
+x="675" 
+y="74" 
+dx="0,-1.6,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s2_17"
+>Teacher’s Resources</text>
+
+<text 
+x="67" 
+y="100" 
+dx="0,0,0,0,0,0,0" 
+class="s3_17"
+>Lesson </text>
+
+<text 
+x="67" 
+y="116" 
+dx="0,0,-0.1,0,0,0,0" 
+class="s3_17"
+>Wrap-Up</text>
+
+<text 
+x="188" 
+y="100" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="195" 
+y="100" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s5_17"
+>Projects encourage </text>
+
+<text 
+x="195" 
+y="119" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>review and recycling </text>
+
+<text 
+x="195" 
+y="137" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_17"
+>of lesson materials </text>
+
+<text 
+x="195" 
+y="155" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0" 
+class="s5_17"
+>through different </text>
+
+<text 
+x="195" 
+y="174" 
+dx="0,-0.2,-0.3,-0.2,0,0,0,0,0,0" 
+class="s5_17"
+>text types</text>
+
+<text 
+x="188" 
+y="199" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="195" 
+y="199" 
+dx="0,-0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Keep It Flowing </text>
+
+<text 
+x="195" 
+y="217" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>develops students’ </text>
+
+<text 
+x="195" 
+y="236" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_17"
+>ability to produce </text>
+
+<text 
+x="195" 
+y="254" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>smooth discourse</text>
+
+<text 
+x="188" 
+y="279" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="195" 
+y="279" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Can-Do Checklist </text>
+
+<text 
+x="195" 
+y="297" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>allows students </text>
+
+<text 
+x="195" 
+y="316" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>to assess their </text>
+
+<text 
+x="195" 
+y="334" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_17"
+>fulfillment of the </text>
+
+<text 
+x="195" 
+y="352" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s5_17"
+>learning objectives</text>
+
+<text 
+x="353" 
+y="100" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="360" 
+y="100" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_17"
+>Additional projects </text>
+
+<text 
+x="360" 
+y="119" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>encourage students </text>
+
+<text 
+x="360" 
+y="137" 
+dx="0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_17"
+>to produce written </text>
+
+<text 
+x="360" 
+y="155" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>discourse</text>
+
+<text 
+x="514" 
+y="100" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="521" 
+y="100" 
+dx="0,-1.2,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Translation </text>
+
+<text 
+x="521" 
+y="119" 
+dx="0,-0.3,-0.4,0,-0.2,0,0,0,0,0,0,0,-0.2,-0.3,0,0,0,0" 
+class="s5_17"
+>exercises provide </text>
+
+<text 
+x="521" 
+y="137" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_17"
+>opportunities to </text>
+
+<text 
+x="521" 
+y="155" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>examine students’ </text>
+
+<text 
+x="521" 
+y="174" 
+dx="0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0" 
+class="s5_17"
+>overall control of </text>
+
+<text 
+x="521" 
+y="192" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>language forms and </text>
+
+<text 
+x="521" 
+y="210" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>language functions </text>
+
+<text 
+x="521" 
+y="229" 
+dx="0,0,0,0,0,0,0,-0.2,-0.3,-0.2,0" 
+class="s5_17"
+>in context </text>
+
+<text 
+x="675" 
+y="100" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="682" 
+y="100" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s5_17"
+>Teaching tips for </text>
+
+<text 
+x="682" 
+y="119" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>implementing self-</text>
+
+<text 
+x="682" 
+y="137" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>diagnostic activities, </text>
+
+<text 
+x="682" 
+y="155" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.3,0,0" 
+class="s5_17"
+>answer keys for </text>
+
+<text 
+x="682" 
+y="174" 
+dx="0,-0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Keep It Flowing, and </text>
+
+<text 
+x="682" 
+y="192" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>additional sample </text>
+
+<text 
+x="682" 
+y="210" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s5_17"
+>quizzes and tests</text>
+
+<text 
+x="67" 
+y="378" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>Supplementary </text>
+
+<text 
+x="67" 
+y="395" 
+dx="0,0,0,0,0,0,0" 
+class="s3_17"
+>Modules</text>
+
+<text 
+x="188" 
+y="379" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="195" 
+y="379" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0" 
+class="s5_17"
+>How About You? </text>
+
+<text 
+x="195" 
+y="397" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>encourages students </text>
+
+<text 
+x="195" 
+y="415" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>to personalize their </text>
+
+<text 
+x="195" 
+y="434" 
+dx="0,-0.4,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>vocabulary</text>
+
+<text 
+x="188" 
+y="459" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="195" 
+y="459" 
+dx="0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Get Real with </text>
+
+<text 
+x="195" 
+y="477" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_17"
+>Chinese teaches </text>
+
+<text 
+x="195" 
+y="496" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_17"
+>students to predict </text>
+
+<text 
+x="195" 
+y="514" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_17"
+>meaning from </text>
+
+<text 
+x="195" 
+y="532" 
+dx="0,0,0,0,-0.2,-0.3,-0.2" 
+class="s5_17"
+>context</text>
+
+<text 
+x="188" 
+y="557" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="195" 
+y="557" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_17"
+>Characterize </text>
+
+<text 
+x="195" 
+y="576" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_17"
+>It! explores the </text>
+
+<text 
+x="195" 
+y="594" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>structure of Chinese </text>
+
+<text 
+x="195" 
+y="612" 
+dx="0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_17"
+>characters</text>
+
+<text 
+x="188" 
+y="638" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="195" 
+y="638" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Chinese Chat </text>
+
+<text 
+x="195" 
+y="656" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_17"
+>demonstrates how </text>
+
+<text 
+x="195" 
+y="674" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>language is used in </text>
+
+<text 
+x="195" 
+y="693" 
+dx="0,-0.2,-0.3,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>text messaging and </text>
+
+<text 
+x="195" 
+y="711" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>social media </text>
+
+<text 
+x="188" 
+y="736" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="195" 
+y="736" 
+dx="0,0,0,-0.8,0,0,0,0,0,0,0,0,-1,0,-0.2,0,0" 
+class="s5_17"
+>A Way with Words </text>
+
+<text 
+x="195" 
+y="754" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>raises students’ </text>
+
+<text 
+x="195" 
+y="773" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_17"
+>awareness of the </text>
+
+<text 
+x="195" 
+y="791" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>latent semantic </text>
+
+<text 
+x="195" 
+y="809" 
+dx="0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>interconnections </text>
+
+<text 
+x="195" 
+y="828" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0" 
+class="s5_17"
+>among different </text>
+
+<text 
+x="195" 
+y="846" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_17"
+>vocabulary items</text>
+
+<text 
+x="353" 
+y="379" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="360" 
+y="379" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_17"
+>Video, highlighted in </text>
+
+<text 
+x="360" 
+y="397" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0" 
+class="s5_17"
+>the View &amp; Explore </text>
+
+<text 
+x="360" 
+y="415" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,0,0,0,0,0" 
+class="s5_17"
+>segment, provides </text>
+
+<text 
+x="360" 
+y="434" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_17"
+>insight into non-</text>
+
+<text 
+x="360" 
+y="452" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>verbal cues and </text>
+
+<text 
+x="360" 
+y="470" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>communication </text>
+
+<text 
+x="468" 
+y="470" 
+dx="0,0,0,0,0" 
+class="s6_17"
+>plus </text>
+
+<text 
+x="360" 
+y="489" 
+dx="0,0,0,0,-0.2,-0.3,-0.2,0,0,0,0,-0.2,0,0,0,0" 
+class="s6_17"
+>context through </text>
+
+<text 
+x="360" 
+y="507" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s6_17"
+>authentic settings </text>
+
+<text 
+x="353" 
+y="532" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="360" 
+y="532" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Additional </text>
+
+<text 
+x="360" 
+y="550" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Characterize It! </text>
+
+<text 
+x="360" 
+y="569" 
+dx="0,-0.3,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s5_17"
+>exercises increase </text>
+
+<text 
+x="360" 
+y="587" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>understanding </text>
+
+<text 
+x="360" 
+y="605" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_17"
+>of characters</text>
+
+<text 
+x="514" 
+y="379" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="521" 
+y="379" 
+dx="0,0,0,0,-0.2,0,0,0,0,-0.3,-0.4,0,-0.2,0,0,0,0,0" 
+class="s5_17"
+>Pattern exercises </text>
+
+<text 
+x="521" 
+y="397" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>build radical </text>
+
+<text 
+x="521" 
+y="415" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_17"
+>and character </text>
+
+<text 
+x="521" 
+y="434" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>recognition</text>
+
+<text 
+x="675" 
+y="379" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="682" 
+y="379" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Teaching tips and </text>
+
+<text 
+x="682" 
+y="397" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>strategies for fully </text>
+
+<text 
+x="682" 
+y="415" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>exploiting and </text>
+
+<text 
+x="682" 
+y="434" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>implementing these </text>
+
+<text 
+x="682" 
+y="452" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>new elements</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MuseoSlab-700_ce3;
+	src: url("fonts/MuseoSlab-700_ce3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cc_;
+	src: url("fonts/LibreFranklin-Regular_cc_.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cdg;
+	src: url("fonts/LibreFranklin-ExtraBold_cdg.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

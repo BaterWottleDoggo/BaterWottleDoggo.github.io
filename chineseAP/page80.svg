@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 103 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_103"><path d="M161.3,90.5l0,-14.5l90.8,0l0,14.5Z" /></clipPath>
+<clipPath id="c1_103"><path d="M725,90.5L725,76l90.9,0l0,14.5Z" /></clipPath>
+<clipPath id="c2_103"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_103{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_103{
+fill: none;
+stroke: #3F3F40;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_103{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_103{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_103{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_103{
+fill: #231F20;
+}
+.g7_103{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_103{
+fill: #FFFFFF;
+}
+.g9_103{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_103{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_cpo;
+fill: #872B91;
+}
+.s2_103{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_cpn;
+fill: #7C499C;
+}
+.s3_103{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cpx;
+fill: #3F3F40;
+}
+.s4_103{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s5_103{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s6_103{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cpo;
+fill: #872B91;
+}
+.s7_103{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s8_103{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s9_103{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_cpt;
+fill: #872B91;
+}
+.s10_103{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cpt;
+fill: #231F20;
+}
+.s11_103{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_cg0;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M123,90.6l13.7,0" class="g1_103" />
+<path d="M200.9,266.2l242.9,0" class="g2_103" />
+<path d="M553.8,266.2l239.9,0" class="g2_103" />
+<path d="M200.9,307.5l239.9,0" class="g2_103" />
+<path d="M553.8,307.5l239.9,0" class="g2_103" />
+<path d="M200.9,348.7l239.9,0" class="g2_103" />
+<path d="M553.8,348.7l239.9,0" class="g2_103" />
+<path d="M200.9,524.4l239.9,0" class="g2_103" />
+<path d="M555.3,524.4l238.4,0" class="g2_103" />
+<path d="M200.9,565.7l239.9,0" class="g2_103" />
+<path d="M555.3,565.7l238.4,0" class="g2_103" />
+<path d="M200.9,606.9l239.9,0" class="g2_103" />
+<path d="M555.3,606.9l238.4,0" class="g2_103" />
+<path d="M200.9,648.2l239.9,0" class="g2_103" />
+<path d="M555.3,648.2l238.4,0" class="g2_103" />
+<path d="M553.8,875.8l239.9,0" class="g2_103" />
+<path d="M200.9,917.1l242.9,0" class="g2_103" />
+<path d="M553.8,917.1l239.9,0" class="g2_103" />
+<path d="M200.9,958.3l239.9,0" class="g2_103" />
+<path d="M553.8,958.3l239.9,0" class="g2_103" />
+<path d="M200.9,999.6l239.9,0" class="g2_103" />
+<path d="M553.8,999.6l239.9,0" class="g2_103" />
+<text 
+x="122" 
+y="84" 
+dx="0,0" 
+class="s1_103"
+>C </text>
+
+<text 
+x="397" 
+y="89" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.7,0,0,0" 
+class="s2_103"
+>Thrifty traveler</text>
+
+<text 
+x="161" 
+y="151" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s3_103"
+>Imagine that you are planning a trip on a modest budget. In pairs, discuss the things you are and </text>
+
+<text 
+x="161" 
+y="178" 
+dx="0,0,-0.2,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_103"
+>are not willing to spend money on.</text>
+
+<text 
+x="263" 
+y="223" 
+dx="0,0,0" 
+class="s4_103"
+>愿意/</text>
+
+<text 
+x="328" 
+y="223" 
+dx="0,0" 
+class="s5_103"
+>願意</text>
+
+<text 
+x="592" 
+y="223" 
+dx="0,0,0,0" 
+class="s4_103"
+>不愿意/</text>
+
+<text 
+x="682" 
+y="223" 
+dx="0,0,0" 
+class="s5_103"
+>不願意</text>
+
+<text 
+x="171" 
+y="265" 
+dx="0,0.2" 
+class="s6_103"
+>1 </text>
+
+<text 
+x="524" 
+y="265" 
+dx="0,0.2" 
+class="s6_103"
+>1 </text>
+
+<text 
+x="171" 
+y="306" 
+dx="0,0.2" 
+class="s6_103"
+>2 </text>
+
+<text 
+x="524" 
+y="306" 
+dx="0,0.2" 
+class="s6_103"
+>2 </text>
+
+<text 
+x="171" 
+y="347" 
+dx="0,0.2" 
+class="s6_103"
+>3 </text>
+
+<text 
+x="524" 
+y="347" 
+dx="0,0.2" 
+class="s6_103"
+>3 </text>
+
+<text 
+x="161" 
+y="382" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_103"
+>Consider the possibility of traveling on your own instead of joining a tour group. Talk about the </text>
+
+<text 
+x="161" 
+y="409" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s3_103"
+>pros and the cons of a </text>
+
+<text 
+x="312" 
+y="411" 
+dx="0,0,0" 
+class="s7_103"
+>自助游</text>
+
+<text 
+x="383" 
+y="409" 
+dx="0" 
+class="s3_103"
+>/</text>
+
+<text 
+x="388" 
+y="411" 
+dx="0,0,0" 
+class="s8_103"
+>自助遊</text>
+
+<text 
+x="462" 
+y="409" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0" 
+class="s3_103"
+>with your partner. After looking at both sides, </text>
+
+<text 
+x="161" 
+y="437" 
+dx="0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s3_103"
+>explain to your partner whether you would like to join a tour group or travel by yourself.</text>
+
+<text 
+x="265" 
+y="482" 
+dx="0,0,0" 
+class="s4_103"
+>好处/</text>
+
+<text 
+x="330" 
+y="482" 
+dx="0,0" 
+class="s5_103"
+>好處</text>
+
+<text 
+x="614" 
+y="482" 
+dx="0,0,0" 
+class="s4_103"
+>坏处/</text>
+
+<text 
+x="679" 
+y="482" 
+dx="0,0" 
+class="s5_103"
+>壞處</text>
+
+<text 
+x="171" 
+y="523" 
+dx="0,0.2" 
+class="s6_103"
+>1 </text>
+
+<text 
+x="524" 
+y="523" 
+dx="0,0.2" 
+class="s6_103"
+>1 </text>
+
+<text 
+x="171" 
+y="564" 
+dx="0,0.2" 
+class="s6_103"
+>2 </text>
+
+<text 
+x="524" 
+y="564" 
+dx="0,0.2" 
+class="s6_103"
+>2 </text>
+
+<text 
+x="171" 
+y="605" 
+dx="0,0.2" 
+class="s6_103"
+>3 </text>
+
+<text 
+x="524" 
+y="605" 
+dx="0,0.2" 
+class="s6_103"
+>3 </text>
+
+<text 
+x="171" 
+y="647" 
+dx="0,0.2" 
+class="s6_103"
+>4 </text>
+
+<text 
+x="524" 
+y="647" 
+dx="0,0.2" 
+class="s6_103"
+>4 </text>
+
+<text 
+x="161" 
+y="695" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0" 
+class="s3_103"
+>In pairs, discuss the train as an option for a long-distance trip in China. Would you opt for </text>
+
+<text 
+x="161" 
+y="722" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.4,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-1.2,0" 
+class="s3_103"
+>the train? How do you feel about the price, speed, comfort level, food, hard vs. soft sleeper, </text>
+
+<text 
+x="161" 
+y="750" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.1,-0.2,0,0" 
+class="s3_103"
+>opportunities to communicate with other travelers, etc.?</text>
+
+<text 
+x="161" 
+y="782" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_103"
+>List some pros and the cons of traveling by train.</text>
+
+<text 
+x="265" 
+y="827" 
+dx="0,0,0" 
+class="s4_103"
+>好处/</text>
+
+<text 
+x="330" 
+y="827" 
+dx="0,0" 
+class="s5_103"
+>好處</text>
+
+<text 
+x="619" 
+y="827" 
+dx="0,0,0" 
+class="s4_103"
+>坏处/</text>
+
+<text 
+x="684" 
+y="827" 
+dx="0,0" 
+class="s5_103"
+>壞處</text>
+
+<text 
+x="171" 
+y="874" 
+dx="0,0.2" 
+class="s6_103"
+>1 </text>
+
+<text 
+x="200" 
+y="874" 
+dx="0,0,0" 
+class="s4_103"
+>省钱/</text>
+
+<text 
+x="265" 
+y="874" 
+dx="0,0" 
+class="s5_103"
+>省錢</text>
+
+<text 
+x="524" 
+y="874" 
+dx="0,0.2" 
+class="s6_103"
+>1 </text>
+
+<text 
+x="171" 
+y="915" 
+dx="0,0.2" 
+class="s6_103"
+>2 </text>
+
+<text 
+x="524" 
+y="915" 
+dx="0,0.2" 
+class="s6_103"
+>2 </text>
+
+<text 
+x="171" 
+y="957" 
+dx="0,0.2" 
+class="s6_103"
+>3 </text>
+
+<text 
+x="524" 
+y="957" 
+dx="0,0.2" 
+class="s6_103"
+>3 </text>
+
+<text 
+x="171" 
+y="998" 
+dx="0,0.2" 
+class="s6_103"
+>4 </text>
+
+<text 
+x="524" 
+y="998" 
+dx="0,0.2" 
+class="s6_103"
+>4 </text>
+
+<path d="M149.3,56.3l0,53.4l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.4l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g3_103" />
+<path d="M151.4,108.5l674.3,0l0,-51l-674.3,0l0,51Z" class="g4_103" />
+<text 
+x="165" 
+y="87" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_103"
+>INTERPERSONAL</text>
+
+<g clip-path="url(#c0_103)">
+<path d="M161.3,90.5l90.8,0l0,-14.5l-90.8,0l0,14.5Z" class="g5_103" />
+</g>
+<text 
+x="727" 
+y="87" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s9_103"
+>PRESENTATIONAL</text>
+
+<g clip-path="url(#c1_103)">
+<path d="M725,90.5l90.9,0l0,-14.5L725,76l0,14.5Z" class="g5_103" />
+</g>
+<g clip-path="url(#c2_103)">
+<path d="M919,633.5c0,0,159.4,-12.9,243.7,-5.1c256.7,23.5,465.9,59.2,649.9,186.2c-1.3,52.2,-4.5,389.6,-4.5,389.6L918.2,1211Z" class="g6_103" />
+</g>
+<image preserveAspectRatio="none" x="914" y="624" width="19" height="574" xlink:href="103/img/1.png" />
+<g clip-path="url(#c2_103)">
+<path d="M919,633.5c0,0,159.4,-12.9,243.7,-5.1c256.7,23.5,465.9,59.2,649.9,186.2c-1.3,52.2,-4.5,389.6,-4.5,389.6L918.2,1211L919,633.5Z" class="g7_103" />
+</g>
+<path d="M879,1196.3l42.3,0l0,-592.2l-42.3,0l0,592.2Z" class="g8_103" />
+<path d="M-12.9,1140.6l58,0l0,-1153.5l-58,0l0,1153.5Z" class="g9_103" />
+<text 
+x="20" 
+y="1166" 
+dx="0,1.2,0" 
+class="s10_103"
+>80 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s11_103"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s11_103"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s11_103"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s11_103"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s11_103"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s11_103"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s11_103"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s11_103"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s11_103"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_cpn;
+	src: url("fonts/LibreFranklin-Bold_cpn.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cpo;
+	src: url("fonts/LibreFranklin-ExtraBold_cpo.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cpt;
+	src: url("fonts/LibreFranklin-Medium_cpt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cpx;
+	src: url("fonts/LibreFranklin-Regular_cpx.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cg0;
+	src: url("fonts/LibreFranklin-SemiBold_cg0.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

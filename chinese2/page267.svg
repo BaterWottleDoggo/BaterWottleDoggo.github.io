@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 288 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_288"><path d="M229.8,1119.3l0,-97.8l99.2,0l0,97.8Z" /></clipPath>
+<clipPath id="c1_288"><path d="M334.3,1119.3l0,-97.8l99.2,0l0,97.8Z" /></clipPath>
+<clipPath id="c2_288"><path d="M438,1119.6l0,-97.7l28.1,0l0,97.7Z" /></clipPath>
+<clipPath id="c3_288"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_288{
+fill: #F3F4F4;
+}
+.g2_288{
+fill: #FFFFFF;
+}
+.g3_288{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.6386111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_288{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.3926389;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_288{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.1718056;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_288{
+fill: #57585A;
+}
+.g7_288{
+fill: #A8A9AD;
+}
+.g8_288{
+fill: #BCBDC0;
+}
+.g9_288{
+fill: #9B8679;
+}
+.g10_288{
+fill: #231F20;
+}
+.g11_288{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.0465277;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_288{
+fill: #F58320;
+}
+.g13_288{
+fill: #A1C0E4;
+}
+.g14_288{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g15_288{
+fill: #007598;
+}
+.g16_288{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_288{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_35m;
+fill: #007598;
+}
+.s2_288{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s3_288{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s4_288{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s5_288{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s6_288{
+font-size: 15.28px;
+font-family: ProximaNova-Light_35x;
+fill: #3F3F40;
+}
+.s7_288{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_35e;
+fill: #007598;
+}
+.s8_288{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s9_288{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_35e;
+fill: #939598;
+}
+.s10_288{
+font-size: 17.58px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #57585A;
+}
+.s11_288{
+font-size: 16.47px;
+font-family: ProximaNova-Medium_360;
+fill: #6D6E71;
+}
+.s12_288{
+font-size: 16.47px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #6D6E71;
+}
+.s13_288{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #231F20;
+}
+.s14_288{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #A8A9AD;
+}
+.s15_288{
+font-size: 25.47px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #57585A;
+}
+.s16_288{
+font-size: 17.99px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #57585A;
+}
+.s17_288{
+font-size: 21.39px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #1275BC;
+}
+.s18_288{
+font-size: 15.28px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #231F20;
+}
+.s19_288{
+font-size: 18.33px;
+font-family: SourceHanSansCN-Regular_2u_;
+fill: #FFFFFF;
+}
+.s20_288{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_35r;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="220" 
+y="78" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_288"
+>Student A </text>
+
+<text 
+x="303" 
+y="78" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_288"
+>那别去听音乐会了。你</text>
+
+<text 
+x="624" 
+y="78" 
+dx="0,0" 
+class="s3_288"
+>还是</text>
+
+<text 
+x="688" 
+y="78" 
+dx="0,0,0,0,0" 
+class="s2_288"
+>在家复习功</text>
+
+<text 
+x="303" 
+y="116" 
+dx="0" 
+class="s2_288"
+>课</text>
+
+<text 
+x="335" 
+y="116" 
+dx="0" 
+class="s3_288"
+>吧</text>
+
+<text 
+x="367" 
+y="116" 
+dx="0" 
+class="s2_288"
+>。</text>
+
+<text 
+x="293" 
+y="153" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_288"
+>Nà bié qù tīng yīnyuèhuì le. Nǐ </text>
+
+<text 
+x="488" 
+y="153" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_288"
+>háishi </text>
+
+<text 
+x="528" 
+y="153" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_288"
+>zài jiā fùxí gōngkè </text>
+
+<text 
+x="643" 
+y="153" 
+dx="0,0.2" 
+class="s5_288"
+>ba</text>
+
+<text 
+x="658" 
+y="153" 
+dx="0" 
+class="s4_288"
+>.</text>
+
+<text 
+x="293" 
+y="185" 
+dx="0,-0.4,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7" 
+class="s6_288"
+>Let’s not go to the concert then. You’d better stay home and review.</text>
+
+<text 
+x="143" 
+y="250" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s7_288"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="285" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_288"
+>In pairs, use these words to discuss alternatives by inserting </text>
+
+<text 
+x="540" 
+y="285" 
+dx="0,0,0,0" 
+class="s8_288"
+>还是…吧</text>
+
+<text 
+x="630" 
+y="285" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s6_288"
+>where appropriate. Use </text>
+
+<text 
+x="143" 
+y="312" 
+dx="0,-0.4,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.1" 
+class="s6_288"
+>exercise 1 as an example.</text>
+
+<text 
+x="145" 
+y="363" 
+dx="0,0" 
+class="s9_288"
+>1 </text>
+
+<text 
+x="187" 
+y="364" 
+dx="0,0" 
+class="s2_288"
+>打球</text>
+
+<text 
+x="375" 
+y="364" 
+dx="0,0,0,0" 
+class="s2_288"
+>有点儿累</text>
+
+<text 
+x="560" 
+y="364" 
+dx="0,0" 
+class="s2_288"
+>明天</text>
+
+<text 
+x="187" 
+y="416" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_288"
+>Student A</text>
+
+<text 
+x="274" 
+y="416" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_288"
+>我想打球，可是有点儿累。</text>
+
+<text 
+x="187" 
+y="468" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_288"
+>Student B</text>
+
+<text 
+x="274" 
+y="468" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_288"
+>你有点儿累，还是明天打吧。</text>
+
+<text 
+x="145" 
+y="519" 
+dx="0,0" 
+class="s9_288"
+>2 </text>
+
+<text 
+x="187" 
+y="520" 
+dx="0,0,0,0,0" 
+class="s2_288"
+>打车去学校</text>
+
+<text 
+x="375" 
+y="520" 
+dx="0,0,0,0" 
+class="s2_288"
+>打车太贵</text>
+
+<text 
+x="560" 
+y="520" 
+dx="0,0,0,0,0" 
+class="s2_288"
+>坐公共汽车</text>
+
+<text 
+x="145" 
+y="570" 
+dx="0,0" 
+class="s9_288"
+>3 </text>
+
+<text 
+x="187" 
+y="572" 
+dx="0,0" 
+class="s2_288"
+>看球</text>
+
+<text 
+x="375" 
+y="572" 
+dx="0,0,0,0,0" 
+class="s2_288"
+>明天考中文</text>
+
+<text 
+x="560" 
+y="572" 
+dx="0,0,0,0,0,0" 
+class="s2_288"
+>复习生词语法</text>
+
+<path d="M114.4,684.8l351.4,0l0,-65.3l-351.4,0l0,65.3Z" class="g1_288" />
+<path d="M475.4,1157.7l329.8,0l0,-292.6l-329.8,0l0,292.6Z" class="g1_288" />
+<path d="M804.8,1029.6l-329.1,0l0,-109.1l329.1,0l0,109.1Z" class="g2_288" />
+<path d="M804.8,1029.6l-329.1,0l0,-109.1l329.1,0Z" class="g3_288" />
+<path d="M804.8,1090l-329.1,0l0,-41.2l329.1,0l0,41.2Z" class="g2_288" />
+<path d="M804.8,1090l-329.1,0l0,-41.2l329.1,0Z" class="g4_288" />
+<path d="M804.8,1143l-329.1,0l0,-41.3l329.1,0l0,41.3Z" class="g2_288" />
+<path d="M804.8,1143l-329.1,0l0,-41.3l329.1,0Z" class="g4_288" />
+<image preserveAspectRatio="none" x="89" y="1019" width="163" height="109" xlink:href="288/img/1.png" />
+<image preserveAspectRatio="none" x="457" y="934" width="139" height="92" xlink:href="288/img/2.png" />
+<image preserveAspectRatio="none" x="403" y="1020" width="163" height="108" xlink:href="288/img/3.png" />
+<image preserveAspectRatio="none" x="438" y="1021" width="27" height="99" xlink:href="288/img/4.png" />
+<text 
+transform="matrix(1.36, 0, 0, 1, 113, 644)"
+dx="0" 
+class="s10_288"
+>〈</text>
+
+<path d="M299.2,638.5c0,3.8,-3,6.8,-6.8,6.8c-3.8,0,-6.9,-3,-6.9,-6.8c0,-3.8,3.1,-6.9,6.9,-6.9c3.8,0,6.8,3.1,6.8,6.9Z" class="g5_288" />
+<path d="M299.2,638.5c0,3.8,-3,6.8,-6.8,6.8c0.1,0.2,0.1,-13.6,0,-13.7c3.8,0,6.8,3.1,6.8,6.9Z" class="g6_288" />
+<path d="M287.4,628.1l1.9,3.9" class="g5_288" />
+<path d="M294.6,645l2,3.9" class="g5_288" />
+<path d="M281.5,634.8l4.1,1.3" class="g5_288" />
+<path d="M299.2,641.4l4.1,1.4" class="g5_288" />
+<path d="M302.8,633.5l-3.9,1.9" class="g5_288" />
+<path d="M285.9,640.7l-3.9,2" class="g5_288" />
+<path d="M296.1,627.6l-1.4,4.1" class="g5_288" />
+<path d="M289.4,645.3l-1.3,4.1" class="g5_288" />
+<image preserveAspectRatio="none" x="-23" y="655" width="593" height="396" xlink:href="288/img/5.png" />
+<text 
+x="485" 
+y="779" 
+dx="0,-2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_288"
+>You’re about to post this picture of your </text>
+
+<text 
+x="485" 
+y="799" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_288"
+>trip on Instagram. What caption would you </text>
+
+<text 
+x="485" 
+y="819" 
+dx="0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_288"
+>write? Use the hashtag #</text>
+
+<text 
+x="665" 
+y="819" 
+dx="0,0" 
+class="s12_288"
+>寒假</text>
+
+<text 
+x="698" 
+y="819" 
+dx="0" 
+class="s11_288"
+>.</text>
+
+<path d="M112.6,618.8l0,539.6l353.2,0l0,-0.8l0,0.8l0.8,0l0,-539.6Zm1.4,1.4l351.1,0l0,536.7l-351.1,0l0,-536.7Z" class="g6_288" />
+<text 
+x="186" 
+y="1146" 
+dx="0,0" 
+class="s13_288"
+>筛选</text>
+
+<text 
+x="335" 
+y="1146" 
+dx="0,0" 
+class="s14_288"
+>编辑</text>
+
+<text 
+transform="matrix(1.36, 0, 0, 1, 472, 903)"
+dx="0" 
+class="s15_288"
+>〈</text>
+
+<text 
+transform="matrix(0, -1.36, 1, 0, 690, 913)"
+dx="0" 
+class="s16_288"
+>〈</text>
+
+<text 
+x="597" 
+y="902" 
+dx="0,0,0" 
+class="s17_288"
+>新帖子</text>
+
+<text 
+x="580" 
+y="950" 
+dx="0,0,0,0" 
+class="s14_288"
+>撰写说明</text>
+
+<text 
+x="654" 
+y="950" 
+dx="0,0,0,0,0,0" 
+class="s14_288"
+>......</text>
+
+<path d="M512.6,1060l-5.6,0l-2.6,-3.4c-0.2,-0.3,-0.6,-0.3,-0.8,0L501,1060l-5.6,0c-1.9,0,-3.4,1.5,-3.4,3.4l0,15.7c0,1.9,1.5,3.3,3.4,3.3l17.2,0c1.8,0,3.3,-1.4,3.3,-3.3l0,-15.7c0,-1.9,-1.5,-3.4,-3.3,-3.4Z" class="g7_288" />
+<path d="M496.8,1077.9c0,0,-0.3,-2.1,1.4,-2.8c2.4,-0.9,4.2,-1.6,4.2,-2.5c0,-0.9,-2.2,-2.9,-1.6,-6c0.5,-3.1,2.4,-3,3.3,-3.1c0.9,0,2.5,1,2.7,3.6c0.2,3.1,-1.4,4.9,-1.4,4.9c0,0,-0.7,0.8,0.2,1.2c0.9,0.3,4.1,2,5.1,2.7c0.9,0.7,0.3,2,0.3,2Z" class="g2_288" />
+<text 
+x="526" 
+y="1076" 
+dx="0,0,0,0" 
+class="s18_288"
+>标注用户</text>
+
+<text 
+x="526" 
+y="1129" 
+dx="0,0,0,0" 
+class="s18_288"
+>新增地点</text>
+
+<path d="M514.1,1116.1c0,-5.4,-4.4,-9.8,-9.9,-9.8c-5.4,0,-9.8,4.4,-9.8,9.8c0,9.8,10.4,18.3,10.4,18.3c0,0,9.3,-8.4,9.3,-18.3Z" class="g7_288" />
+<path d="M508,1115.8c0,2.1,-1.7,3.8,-3.8,3.8c-2,0,-3.7,-1.7,-3.7,-3.8c0,-2,1.7,-3.7,3.7,-3.7c2.1,0,3.8,1.7,3.8,3.7Z" class="g2_288" />
+<g clip-path="url(#c0_288)">
+<path d="M329,1021.5l-99.2,0l0,0.2l98.4,0l0,97.5l-98.4,0l0,0.1l99.2,0Z" class="g8_288" />
+</g>
+<image preserveAspectRatio="none" x="230" y="1022" width="49" height="49" xlink:href="288/img/6.png" />
+<image preserveAspectRatio="none" x="279" y="1022" width="49" height="49" xlink:href="288/img/7.png" />
+<image preserveAspectRatio="none" x="230" y="1070" width="49" height="49" xlink:href="288/img/8.png" />
+<image preserveAspectRatio="none" x="279" y="1070" width="49" height="49" xlink:href="288/img/9.png" />
+<g clip-path="url(#c1_288)">
+<path d="M433.5,1021.5l-99.2,0l0,0.2l98.4,0l0,97.5l-98.4,0l0,0.1l99.2,0Z" class="g9_288" />
+</g>
+<image preserveAspectRatio="none" x="334" y="1022" width="50" height="49" xlink:href="288/img/10.png" />
+<image preserveAspectRatio="none" x="383" y="1022" width="50" height="49" xlink:href="288/img/11.png" />
+<image preserveAspectRatio="none" x="334" y="1070" width="50" height="49" xlink:href="288/img/12.png" />
+<image preserveAspectRatio="none" x="383" y="1070" width="50" height="49" xlink:href="288/img/13.png" />
+<g clip-path="url(#c2_288)">
+<path d="M438.5,1021.9l-0.5,0l0,97.7l0.5,0Z" class="g10_288" />
+</g>
+<image preserveAspectRatio="none" x="438" y="1022" width="27" height="49" xlink:href="288/img/14.png" />
+<image preserveAspectRatio="none" x="438" y="1071" width="27" height="49" xlink:href="288/img/15.png" />
+<g clip-path="url(#c2_288)">
+<path d="M466.1,1021.9l-1,0l0,97.7l1,0l0,-97.7Z" class="g6_288" />
+</g>
+<text 
+x="258" 
+y="1073" 
+dx="0,0,0" 
+class="s19_288"
+>新滤镜</text>
+
+<text 
+x="358" 
+y="1073" 
+dx="0,0,0" 
+class="s19_288"
+>新滤镜</text>
+
+<path d="M804.4,1158l-329,0l0,-292.9l329,0Z" class="g11_288" />
+<path d="M785.8,837.7l19.6,20.5l0,-20.5Z" class="g12_288" />
+<path d="M662.7,738.2c0,-11.7,-9.4,-21.1,-21.1,-21.1l-146.2,0c-11.6,0,-21.1,9.4,-21.1,21.1l0,14.8l188.4,0Z" class="g13_288" />
+<path d="M508,736.4c0,-4.4,3.3,-7.4,7.4,-7.4c3,0,4.8,1.5,5.8,3.2l-2.1,1.1c-0.7,-1.2,-2,-2.1,-3.7,-2.1c-2.7,0,-4.8,2.2,-4.8,5.2c0,3,2.1,5.1,4.8,5.1c1.7,0,3,-0.9,3.7,-2.1l2.1,1.1c-1,1.7,-2.8,3.2,-5.8,3.2c-4.1,0,-7.4,-3,-7.4,-7.3Z" class="g2_288" />
+<path d="M529.7,737c0,-1.6,-0.9,-2.1,-2.1,-2.1c-1.2,0,-2.1,0.7,-2.7,1.4l0,7.2l-2.2,0l0,-14.3l2.2,0l0,5.4c0.7,-0.9,2.1,-1.7,3.7,-1.7c2.2,0,3.3,1.1,3.3,3.3l0,7.3l-2.2,0Z" class="g2_288" />
+<path d="M534.3,733.1l2.3,0l0,10.4l-2.3,0l0,-10.4ZM534,730.2c0,-0.8,0.7,-1.4,1.4,-1.4c0.8,0,1.4,0.6,1.4,1.4c0,0.7,-0.6,1.4,-1.4,1.4c-0.7,0,-1.4,-0.7,-1.4,-1.4Z" class="g2_288" />
+<path d="M545.9,737c0,-1.6,-0.8,-2.1,-2.1,-2.1c-1.1,0,-2.1,0.7,-2.6,1.4l0,7.2l-2.3,0l0,-10.4l2.3,0l0,1.5c0.7,-0.9,2,-1.7,3.6,-1.7c2.2,0,3.4,1.2,3.4,3.3l0,7.3l-2.3,0Z" class="g2_288" />
+<path d="M552.2,737.5l5.9,0c-0.1,-1.3,-0.9,-2.8,-3,-2.8c-1.9,0,-2.8,1.5,-2.9,2.8m2.9,-4.6c3.1,0,5.1,2.4,5.1,5.6l0,0.6l-7.9,0c0.1,1.5,1.3,2.8,3.3,2.8c1,0,2.2,-0.4,2.9,-1.1l1,1.4c-1,1,-2.5,1.5,-4.2,1.5c-3.1,0,-5.4,-2.1,-5.4,-5.4c0,-3,2.2,-5.4,5.2,-5.4Z" class="g2_288" />
+<path d="M562.1,740.5c0.7,0.8,2.1,1.5,3.5,1.5c1.3,0,2,-0.5,2,-1.3c0,-0.9,-1.1,-1.2,-2.3,-1.5c-1.8,-0.4,-3.9,-0.9,-3.9,-3.2c0,-1.7,1.4,-3.1,4,-3.1c1.8,0,3.1,0.6,4.1,1.4l-1,1.6c-0.6,-0.7,-1.8,-1.2,-3,-1.2c-1.2,0,-2,0.4,-2,1.1c0,0.8,1.1,1.1,2.3,1.4c1.8,0.4,4,0.9,4,3.3c0,1.8,-1.5,3.2,-4.3,3.2c-1.8,0,-3.4,-0.5,-4.5,-1.6Z" class="g2_288" />
+<path d="M573.2,737.5l5.8,0c0,-1.3,-0.8,-2.8,-2.9,-2.8c-1.9,0,-2.8,1.5,-2.9,2.8m2.9,-4.6c3.1,0,5.1,2.4,5.1,5.6l0,0.6l-8,0c0.2,1.5,1.4,2.8,3.3,2.8c1,0,2.2,-0.4,3,-1.1l1,1.4c-1,1,-2.6,1.5,-4.2,1.5c-3.1,0,-5.4,-2.1,-5.4,-5.4c0,-3,2.2,-5.4,5.2,-5.4Z" class="g2_288" />
+<path d="M587.3,736.4c0,-4.4,3.3,-7.4,7.4,-7.4c3,0,4.8,1.5,5.9,3.2l-2.2,1.1c-0.7,-1.2,-2,-2.1,-3.7,-2.1c-2.7,0,-4.8,2.2,-4.8,5.2c0,3,2.1,5.1,4.8,5.1c1.7,0,3,-0.9,3.7,-2.1l2.2,1.1c-1.1,1.7,-2.9,3.2,-5.9,3.2c-4.1,0,-7.4,-3,-7.4,-7.3Z" class="g2_288" />
+<path d="M609,737c0,-1.6,-0.9,-2.1,-2.1,-2.1c-1.2,0,-2.1,0.7,-2.7,1.4l0,7.2l-2.2,0l0,-14.3l2.2,0l0,5.4c0.7,-0.9,2.1,-1.7,3.7,-1.7c2.2,0,3.3,1.1,3.3,3.3l0,7.3l-2.2,0Z" class="g2_288" />
+<path d="M619.9,739.6c-0.5,-0.7,-1.4,-1.1,-2.4,-1.1c-1.3,0,-2.2,0.7,-2.2,1.9c0,1.1,0.9,1.8,2.2,1.8c1,0,1.9,-0.4,2.4,-1.1Zm0,2.8c-0.7,0.8,-1.9,1.3,-3.3,1.3c-1.7,0,-3.6,-1.1,-3.6,-3.4c0,-2.4,1.9,-3.3,3.6,-3.3c1.4,0,2.6,0.4,3.3,1.3l0,-1.6c0,-1.2,-1,-1.9,-2.4,-1.9c-1.1,0,-2.1,0.4,-3,1.3l-1,-1.5c1.2,-1.2,2.7,-1.7,4.4,-1.7c2.3,0,4.3,1,4.3,3.7l0,6.9l-2.3,0Z" class="g2_288" />
+<path d="M625,741.1l0,-6l-1.7,0l0,-2l1.7,0l0,-2.8l2.2,0l0,2.8l2.1,0l0,2l-2.1,0l0,5.4c0,0.7,0.4,1.2,1,1.2c0.5,0,0.9,-0.1,1,-0.3l0.6,1.7c-0.4,0.4,-1.1,0.6,-2.2,0.6c-1.7,0,-2.6,-0.9,-2.6,-2.6Z" class="g2_288" />
+<path d="M805.5,758.3l0,75l-306.9,0c-13.4,0,-24.3,-10.9,-24.3,-24.3l0,-50.7l331.2,0Z" class="g14_288" />
+<path d="M885.3,1196.3l36,0L921.3,0l-36,0l0,1196.3Z" class="g15_288" />
+<g clip-path="url(#c3_288)">
+<path d="M885.3,1209.2l69.6,0l0,-1222.1l-69.6,0l0,1222.1Z" class="g16_288" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 894, 905)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s20_288"
+>Lesson 10 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 969)"
+dx="0,0.3" 
+class="s20_288"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 981)"
+dx="0,-0.5,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s20_288"
+>Transportation </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1070)"
+dx="0,0.3" 
+class="s20_288"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1083)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s20_288"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1153)"
+dx="0,0.3,0.3" 
+class="s20_288"
+>267</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Bold_35e;
+	src: url("fonts/ProximaNova-Bold_35e.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_35r;
+	src: url("fonts/ProximaNova-Semibold_35r.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_2u_;
+	src: url("fonts/SourceHanSansCN-Regular_2u_.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_35x;
+	src: url("fonts/ProximaNova-Light_35x.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Medium_360;
+	src: url("fonts/ProximaNova-Medium_360.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_35m;
+	src: url("fonts/ProximaNova-Extrabld_35m.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

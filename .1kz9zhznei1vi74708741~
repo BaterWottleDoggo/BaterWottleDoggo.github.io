@@ -1,0 +1,1707 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 16 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_16{
+fill: #4E3181;
+}
+.g2_16{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_16{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_16{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.7638889;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 1,2;
+}
+
+.s1_16{
+font-size: 13.75px;
+font-family: MuseoSlab-700_3m9;
+fill: #808285;
+}
+.s2_16{
+font-size: 30.56px;
+font-family: LibreFranklin-ExtraBold_3ly;
+fill: #808285;
+}
+.s3_16{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_3ly;
+fill: #FFFFFF;
+}
+.s4_16{
+font-size: 13.75px;
+font-family: LibreFranklin-ExtraBold_3ly;
+fill: #4E3181;
+}
+.s5_16{
+font-size: 14.13px;
+font-family: LibreFranklin-Light_3l9;
+fill: #808285;
+}
+.s6_16{
+font-size: 14.13px;
+font-family: LibreFranklin-Light_3l9;
+fill: #231F20;
+}
+.s7_16{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #4E3181;
+}
+.s8_16{
+font-size: 14.90px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #231F20;
+}
+.s9_16{
+font-size: 14.90px;
+font-family: LibreFranklin-Light_3l9;
+fill: #808285;
+}
+.s10_16{
+font-size: 14.90px;
+font-family: LibreFranklin-Light_3l9;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="876" 
+y="1166" 
+dx="0,0" 
+class="s1_16"
+>xv</text>
+
+<text 
+x="89" 
+y="84" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_16"
+>Scope and Sequence</text>
+
+<path d="M89.4,104.4l132.8,0l0,25.5l-132.8,0l0,-25.5Zm132.8,0l185.4,0l0,25.5l-185.4,0l0,-25.5Zm185.4,0l321.2,0l0,25.5l-321.2,0l0,-25.5Zm321.2,0l130.6,0l0,25.5l-130.6,0l0,-25.5Z" class="g1_16" />
+<path d="M222.2,129.9l0,-25.1" class="g2_16" />
+<path d="M407.6,129.9l0,-25.1" class="g2_16" />
+<path d="M728.8,129.9l0,-25.1" class="g2_16" />
+<path d="M222.2,332.8l0,-202.9" class="g2_16" />
+<path d="M407.6,332.8l0,-202.9" class="g2_16" />
+<path d="M728.8,332.8l0,-202.9" class="g2_16" />
+<path d="M222.2,577.9l0,-245.1" class="g2_16" />
+<path d="M407.6,577.9l0,-245.1" class="g2_16" />
+<path d="M728.8,577.9l0,-245.1" class="g2_16" />
+<path d="M222.2,806.9l0,-229" class="g2_16" />
+<path d="M407.6,806.9l0,-229" class="g2_16" />
+<path d="M728.8,806.9l0,-229" class="g2_16" />
+<path d="M222.2,1011l0,-204.1" class="g2_16" />
+<path d="M407.6,1011l0,-204.1" class="g2_16" />
+<path d="M728.8,1011l0,-204.1" class="g2_16" />
+<path d="M89.4,129.9l132.4,0" class="g3_16" />
+<path d="M222.6,129.9l184.6,0" class="g3_16" />
+<path d="M407.9,129.9l320.5,0" class="g3_16" />
+<path d="M729.1,129.9l130.3,0" class="g3_16" />
+<path d="M407.9,332.8l320.5,0" class="g3_16" />
+<path d="M729.1,332.8l130.3,0" class="g3_16" />
+<path d="M407.9,577.9l320.5,0" class="g3_16" />
+<path d="M729.1,577.9l130.3,0" class="g3_16" />
+<path d="M407.9,806.9l320.5,0" class="g3_16" />
+<path d="M729.1,806.9l130.3,0" class="g3_16" />
+<path d="M407.6,1011.6l321.2,0" class="g3_16" />
+<path d="M728.8,1011.6l130.6,0" class="g3_16" />
+<path d="M89.4,332.8l132.4,0" class="g3_16" />
+<path d="M222.6,332.8l184.6,0" class="g3_16" />
+<path d="M89.4,577.9l132.4,0" class="g3_16" />
+<path d="M222.6,577.9l184.6,0" class="g3_16" />
+<path d="M89.4,806.9l132.4,0" class="g3_16" />
+<path d="M222.6,806.9l184.6,0" class="g3_16" />
+<path d="M89.4,1011.6l132.8,0" class="g3_16" />
+<path d="M222.2,1011.6l185.4,0" class="g3_16" />
+<path d="M222.2,128.3l0,-22.8" class="g4_16" />
+<path d="M407.6,128.3l0,-22.8" class="g4_16" />
+<path d="M728.8,128.3l0,-22.8" class="g4_16" />
+<path d="M222.2,331.2l0,-200.6" class="g4_16" />
+<path d="M407.6,331.2l0,-200.6" class="g4_16" />
+<path d="M728.8,331.2l0,-200.6" class="g4_16" />
+<path d="M222.2,576.3l0,-242.8" class="g4_16" />
+<path d="M407.6,576.3l0,-242.8" class="g4_16" />
+<path d="M728.8,576.3l0,-242.8" class="g4_16" />
+<path d="M222.2,805.4l0,-226.8" class="g4_16" />
+<path d="M407.6,805.4l0,-226.8" class="g4_16" />
+<path d="M728.8,805.4l0,-226.8" class="g4_16" />
+<path d="M222.2,1009.5l0,-201.8" class="g4_16" />
+<path d="M407.6,1009.5l0,-201.8" class="g4_16" />
+<path d="M728.8,1009.5l0,-201.8" class="g4_16" />
+<text 
+x="95" 
+y="123" 
+dx="0,0,0,0,0,0" 
+class="s3_16"
+>Lesson</text>
+
+<text 
+x="228" 
+y="123" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s3_16"
+>Learning Objectives </text>
+
+<text 
+x="413" 
+y="123" 
+dx="0,0,-0.1,0,0,0,0,0" 
+class="s3_16"
+>Grammar </text>
+
+<text 
+x="734" 
+y="123" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.3,0,-0.1,0,0,0" 
+class="s3_16"
+>Cultural Literacy </text>
+
+<text 
+x="95" 
+y="149" 
+dx="0,0,0,0,-1.2,0,0,0,0,0,0" 
+class="s4_16"
+>11 Weather </text>
+
+<text 
+x="228" 
+y="149" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="149" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Talk about the weather in </text>
+
+<text 
+x="235" 
+y="166" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s6_16"
+>basic terms</text>
+
+<text 
+x="228" 
+y="190" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="190" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Compare weather in two </text>
+
+<text 
+x="235" 
+y="206" 
+dx="0,0,0,0,0,0,0" 
+class="s6_16"
+>places </text>
+
+<text 
+x="228" 
+y="230" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="230" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Talk about what you can </text>
+
+<text 
+x="235" 
+y="247" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>do in nice or bad weather</text>
+
+<text 
+x="228" 
+y="271" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="271" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Present a simple weather </text>
+
+<text 
+x="235" 
+y="287" 
+dx="0,-0.3,0,-0.2,0,0,0,0" 
+class="s6_16"
+>forecast</text>
+
+<text 
+x="413" 
+y="152" 
+dx="0,0,0" 
+class="s6_16"
+>1. </text>
+
+<text 
+x="427" 
+y="152" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Comparative sentences using </text>
+
+<text 
+x="624" 
+y="152" 
+dx="0" 
+class="s7_16"
+>比</text>
+
+<text 
+x="650" 
+y="152" 
+dx="0,0.2,0.2,0.2" 
+class="s8_16"
+>(bǐ)</text>
+
+<text 
+x="674" 
+y="152" 
+dx="0,0,0" 
+class="s6_16"
+>(I)</text>
+
+<text 
+x="413" 
+y="176" 
+dx="0,0,0" 
+class="s6_16"
+>2. </text>
+
+<text 
+x="427" 
+y="176" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>The particle </text>
+
+<text 
+x="508" 
+y="176" 
+dx="0" 
+class="s7_16"
+>了</text>
+
+<text 
+x="534" 
+y="176" 
+dx="0,0.2,0.2,0.2" 
+class="s8_16"
+>(le)</text>
+
+<text 
+x="557" 
+y="176" 
+dx="0,0,0,0,0,0,0" 
+class="s6_16"
+>(III): </text>
+
+<text 
+x="582" 
+y="176" 
+dx="0" 
+class="s7_16"
+>了</text>
+
+<text 
+x="608" 
+y="176" 
+dx="0,0,0,0,0" 
+class="s6_16"
+>as a </text>
+
+<text 
+x="427" 
+y="192" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>sentence-final particle</text>
+
+<text 
+x="413" 
+y="215" 
+dx="0,0,0" 
+class="s6_16"
+>3. </text>
+
+<text 
+x="427" 
+y="215" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s6_16"
+>The modal verb </text>
+
+<text 
+x="532" 
+y="215" 
+dx="0" 
+class="s7_16"
+>会</text>
+
+<text 
+x="558" 
+y="215" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(huì)</text>
+
+<text 
+x="590" 
+y="215" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>(will) (II)</text>
+
+<text 
+x="413" 
+y="239" 
+dx="0,0,0" 
+class="s6_16"
+>4. </text>
+
+<text 
+x="427" 
+y="239" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s6_16"
+>Adjective + </text>
+
+<text 
+x="503" 
+y="239" 
+dx="0,0,0,0,0" 
+class="s7_16"
+>（一）点儿</text>
+
+<text 
+x="621" 
+y="239" 
+dx="0,0.2,1.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>([yì] diǎnr)</text>
+
+<text 
+x="427" 
+y="255" 
+dx="0,0,0,0,0,0,0" 
+class="s6_16"
+>(a bit)</text>
+
+<text 
+x="413" 
+y="279" 
+dx="0,0,0" 
+class="s6_16"
+>5. </text>
+
+<text 
+x="427" 
+y="279" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s6_16"
+>The adverb </text>
+
+<text 
+x="504" 
+y="279" 
+dx="0" 
+class="s7_16"
+>又</text>
+
+<text 
+x="530" 
+y="279" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(yòu)</text>
+
+<text 
+x="564" 
+y="279" 
+dx="0,0,0,0,0,0,0" 
+class="s6_16"
+>(again)</text>
+
+<text 
+x="413" 
+y="302" 
+dx="0,0,0" 
+class="s6_16"
+>6. </text>
+
+<text 
+x="427" 
+y="302" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0" 
+class="s6_16"
+>Adjective/verb + </text>
+
+<text 
+x="537" 
+y="302" 
+dx="0" 
+class="s7_16"
+>是</text>
+
+<text 
+x="563" 
+y="302" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(shì)</text>
+
+<text 
+x="593" 
+y="302" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0" 
+class="s6_16"
+>+ adjective/verb + </text>
+
+<text 
+x="427" 
+y="326" 
+dx="0,0,0,0,0,0" 
+class="s7_16"
+>可是/但是…</text>
+
+<text 
+x="557" 
+y="326" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(kěshì/dànshì . . . )</text>
+
+<text 
+x="734" 
+y="149" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="149" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Place name </text>
+
+<text 
+x="741" 
+y="166" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_16"
+>transliteration</text>
+
+<text 
+x="734" 
+y="190" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="190" 
+dx="0,-0.9,0,0,0,0,0" 
+class="s6_16"
+>Weather</text>
+
+<text 
+x="734" 
+y="213" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="213" 
+dx="0,0,0,0,0,0,0,-0.2,0" 
+class="s6_16"
+>Units of </text>
+
+<text 
+x="741" 
+y="230" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s6_16"
+>measurement</text>
+
+<text 
+x="734" 
+y="254" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="254" 
+dx="0,-0.9,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0" 
+class="s6_16"
+>Weather records</text>
+
+<text 
+x="95" 
+y="352" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_16"
+>12 Dining</text>
+
+<text 
+x="228" 
+y="352" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="352" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_16"
+>Ask if there are seats </text>
+
+<text 
+x="235" 
+y="369" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>available at a restaurant</text>
+
+<text 
+x="228" 
+y="393" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="393" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Order some Chinese </text>
+
+<text 
+x="235" 
+y="409" 
+dx="0,0,0,0,0,0" 
+class="s6_16"
+>dishes</text>
+
+<text 
+x="228" 
+y="433" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="433" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Describe your dietary </text>
+
+<text 
+x="235" 
+y="450" 
+dx="0,0,-0.2,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>preferences and </text>
+
+<text 
+x="235" 
+y="467" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>restrictions</text>
+
+<text 
+x="228" 
+y="490" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="490" 
+dx="0,0,0,0,0,-0.3,0,0" 
+class="s6_16"
+>Ask for </text>
+
+<text 
+x="235" 
+y="507" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>recommendations</text>
+
+<text 
+x="228" 
+y="531" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="531" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s6_16"
+>Rush your order</text>
+
+<text 
+x="228" 
+y="554" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="554" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Pay for your meal and </text>
+
+<text 
+x="235" 
+y="571" 
+dx="0,-0.1,0,0,0,0,0,0,0,-0.1" 
+class="s6_16"
+>get change</text>
+
+<text 
+x="413" 
+y="355" 
+dx="0,0,0" 
+class="s6_16"
+>1. </text>
+
+<text 
+x="427" 
+y="355" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s7_16"
+>一…也/都…不/没…</text>
+
+<text 
+x="427" 
+y="372" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(yī . . . yě/dōu . . . bù/méi . . . )</text>
+
+<text 
+x="413" 
+y="395" 
+dx="0,0,0" 
+class="s6_16"
+>2. </text>
+
+<text 
+x="427" 
+y="395" 
+dx="0,0,0" 
+class="s7_16"
+>多/少</text>
+
+<text 
+x="488" 
+y="395" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(duō/shǎo)</text>
+
+<text 
+x="555" 
+y="395" 
+dx="0,0,0,-0.4,0,0" 
+class="s6_16"
+>+ verb</text>
+
+<text 
+x="413" 
+y="419" 
+dx="0,0,0" 
+class="s6_16"
+>3. </text>
+
+<text 
+x="427" 
+y="419" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Comparing </text>
+
+<text 
+x="503" 
+y="419" 
+dx="0" 
+class="s7_16"
+>刚</text>
+
+<text 
+x="529" 
+y="419" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(gāng)</text>
+
+<text 
+x="570" 
+y="419" 
+dx="0,1.2,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>(just) and </text>
+
+<text 
+x="427" 
+y="443" 
+dx="0,0" 
+class="s7_16"
+>刚才</text>
+
+<text 
+x="476" 
+y="443" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(gāngcái)</text>
+
+<text 
+x="535" 
+y="443" 
+dx="0,1.2,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>(just now)</text>
+
+<text 
+x="413" 
+y="466" 
+dx="0,0,0" 
+class="s6_16"
+>4. </text>
+
+<text 
+x="427" 
+y="466" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Resultative complements (I)</text>
+
+<text 
+x="413" 
+y="489" 
+dx="0,0,0" 
+class="s6_16"
+>5. </text>
+
+<text 
+x="427" 
+y="489" 
+dx="0" 
+class="s7_16"
+>好</text>
+
+<text 
+x="453" 
+y="489" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(hǎo)</text>
+
+<text 
+x="487" 
+y="489" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>as a resultative complement</text>
+
+<text 
+x="413" 
+y="512" 
+dx="0,0,0" 
+class="s6_16"
+>6. </text>
+
+<text 
+x="427" 
+y="512" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Adjective reduplication (I)</text>
+
+<text 
+x="413" 
+y="536" 
+dx="0,0,0" 
+class="s6_16"
+>7. </text>
+
+<text 
+x="427" 
+y="536" 
+dx="0,0,0,0,0,-0.4,0,0,0" 
+class="s6_16"
+>The verb </text>
+
+<text 
+x="488" 
+y="536" 
+dx="0" 
+class="s7_16"
+>来</text>
+
+<text 
+x="514" 
+y="536" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(lái)</text>
+
+<text 
+x="734" 
+y="352" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="352" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Four major </text>
+
+<text 
+x="741" 
+y="369" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_16"
+>schools of </text>
+
+<text 
+x="741" 
+y="386" 
+dx="0,0,0,0,0,0,0" 
+class="s6_16"
+>cooking</text>
+
+<text 
+x="734" 
+y="409" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="409" 
+dx="0,0,-0.2,0,0,0,0,0" 
+class="s6_16"
+>Utensils</text>
+
+<text 
+x="734" 
+y="433" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="433" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Localization</text>
+
+<text 
+x="734" 
+y="457" 
+dx="0,0.2" 
+class="s9_16"
+>• </text>
+
+<text 
+x="741" 
+y="457" 
+dx="0,-0.6,0.2,0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_16"
+>Vegetarianism</text>
+
+<text 
+x="95" 
+y="597" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s4_16"
+>13 Asking </text>
+
+<text 
+x="95" 
+y="614" 
+dx="0,0,0,-0.2,0,0,0,0,0,0" 
+class="s4_16"
+>Directions</text>
+
+<text 
+x="228" 
+y="597" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="597" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s6_16"
+>Ask for and give </text>
+
+<text 
+x="235" 
+y="614" 
+dx="0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_16"
+>directions</text>
+
+<text 
+x="228" 
+y="638" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="638" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Identify locations by </text>
+
+<text 
+x="235" 
+y="654" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s6_16"
+>using landmarks as </text>
+
+<text 
+x="235" 
+y="671" 
+dx="0,-0.2,0,-0.3,0,-0.2,0,0,0,0" 
+class="s6_16"
+>references</text>
+
+<text 
+x="228" 
+y="695" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="695" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Describe whether two </text>
+
+<text 
+x="235" 
+y="712" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>places are close to or far </text>
+
+<text 
+x="235" 
+y="729" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>away from each other</text>
+
+<text 
+x="228" 
+y="752" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="752" 
+dx="0,-0.4,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_16"
+>State where you are </text>
+
+<text 
+x="235" 
+y="769" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_16"
+>heading and the reason </text>
+
+<text 
+x="235" 
+y="786" 
+dx="0,-0.3,0,0,0,-0.1,0,0,0,0,0,0,0,0,-0.2" 
+class="s6_16"
+>for going there</text>
+
+<text 
+x="413" 
+y="597" 
+dx="0,0,0,2,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_16"
+>1. Direction and location words</text>
+
+<text 
+x="413" 
+y="620" 
+dx="0,0,0" 
+class="s6_16"
+>2. </text>
+
+<text 
+x="427" 
+y="620" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Comparative sentences using </text>
+
+<text 
+x="427" 
+y="644" 
+dx="0,0,0,0" 
+class="s7_16"
+>没（有）</text>
+
+<text 
+x="522" 
+y="644" 
+dx="0,0.2,0.2,0.2,0.2,1.1,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(méi[yǒu])</text>
+
+<text 
+x="413" 
+y="667" 
+dx="0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>3. Indicating degree using </text>
+
+<text 
+x="583" 
+y="667" 
+dx="0,0" 
+class="s7_16"
+>那么</text>
+
+<text 
+x="632" 
+y="667" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(nàme)</text>
+
+<text 
+x="413" 
+y="691" 
+dx="0,0,0" 
+class="s6_16"
+>4. </text>
+
+<text 
+x="427" 
+y="691" 
+dx="0" 
+class="s7_16"
+>到</text>
+
+<text 
+x="453" 
+y="691" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(dào)</text>
+
+<text 
+x="487" 
+y="691" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>+ place + </text>
+
+<text 
+x="547" 
+y="691" 
+dx="0" 
+class="s7_16"
+>去</text>
+
+<text 
+x="573" 
+y="691" 
+dx="0,0.2,0.2,0.2" 
+class="s8_16"
+>(qù)</text>
+
+<text 
+x="600" 
+y="691" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_16"
+>+ action</text>
+
+<text 
+x="413" 
+y="715" 
+dx="0,0,0" 
+class="s6_16"
+>5. </text>
+
+<text 
+x="427" 
+y="715" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>The dynamic particle </text>
+
+<text 
+x="566" 
+y="715" 
+dx="0" 
+class="s7_16"
+>过</text>
+
+<text 
+x="592" 
+y="715" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(guo)</text>
+
+<text 
+x="413" 
+y="738" 
+dx="0,0,0" 
+class="s6_16"
+>6. </text>
+
+<text 
+x="427" 
+y="738" 
+dx="0,-0.8,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Verb reduplication (I)</text>
+
+<text 
+x="413" 
+y="761" 
+dx="0,0,0" 
+class="s6_16"
+>7. </text>
+
+<text 
+x="427" 
+y="761" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Resultative complements (II)</text>
+
+<text 
+x="413" 
+y="784" 
+dx="0,0,0" 
+class="s6_16"
+>8. </text>
+
+<text 
+x="427" 
+y="784" 
+dx="0,0,0,0,0" 
+class="s7_16"
+>一…就… </text>
+
+<text 
+x="525" 
+y="784" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(yī . . . jiù . . . )</text>
+
+<text 
+x="427" 
+y="800" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>(as soon as . . . then . . . )</text>
+
+<text 
+x="734" 
+y="597" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="597" 
+dx="0,-1.1,0,0,0,0,0,0,0" 
+class="s6_16"
+>Feng shui</text>
+
+<text 
+x="734" 
+y="621" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="621" 
+dx="0,0,0,0,0,0,-0.2,0,0" 
+class="s6_16"
+>Chinatown</text>
+
+<text 
+x="734" 
+y="645" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="645" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_16"
+>Casual greetings</text>
+
+<text 
+x="734" 
+y="668" 
+dx="0,0.2" 
+class="s9_16"
+>• </text>
+
+<text 
+x="741" 
+y="668" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s10_16"
+>Urban planning</text>
+
+<text 
+x="95" 
+y="826" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_16"
+>14 Birthday Party</text>
+
+<text 
+x="228" 
+y="826" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="826" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0,0,-0.2,0,0,0" 
+class="s6_16"
+>Ask a friend to go to a </text>
+
+<text 
+x="235" 
+y="843" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>party with you</text>
+
+<text 
+x="228" 
+y="867" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="867" 
+dx="0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_16"
+>Suggest things to bring </text>
+
+<text 
+x="235" 
+y="884" 
+dx="0,-0.2,0,0,0,0,-0.1,0,0,0,-0.2,0,-0.1,0,0,0,0" 
+class="s6_16"
+>to a get-together</text>
+
+<text 
+x="228" 
+y="907" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="907" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s6_16"
+>Thank people for gifts</text>
+
+<text 
+x="228" 
+y="931" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="931" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Describe a duration </text>
+
+<text 
+x="235" 
+y="948" 
+dx="0,-0.2,0,0,0,0,0" 
+class="s6_16"
+>of time</text>
+
+<text 
+x="228" 
+y="971" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="235" 
+y="971" 
+dx="0,-1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Talk about the year </text>
+
+<text 
+x="235" 
+y="988" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>of your birth and your </text>
+
+<text 
+x="235" 
+y="1005" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Chinese zodiac sign</text>
+
+<text 
+x="413" 
+y="826" 
+dx="0,0,0" 
+class="s6_16"
+>1. </text>
+
+<text 
+x="427" 
+y="826" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Indicating an action in progress using </text>
+
+<text 
+x="427" 
+y="850" 
+dx="0" 
+class="s7_16"
+>呢</text>
+
+<text 
+x="453" 
+y="850" 
+dx="0,0.2,0.2,0.2" 
+class="s8_16"
+>(ne)</text>
+
+<text 
+x="413" 
+y="873" 
+dx="0,0,0" 
+class="s6_16"
+>2. </text>
+
+<text 
+x="427" 
+y="873" 
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0" 
+class="s6_16"
+>Verbal phrases and subject-predicate </text>
+
+<text 
+x="427" 
+y="889" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s6_16"
+>phrases used as attributives </text>
+
+<text 
+x="413" 
+y="912" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>3. Time duration (I)</text>
+
+<text 
+x="413" 
+y="935" 
+dx="0,0,0" 
+class="s6_16"
+>4. </text>
+
+<text 
+x="427" 
+y="935" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Sentences with </text>
+
+<text 
+x="531" 
+y="935" 
+dx="0,0,0" 
+class="s7_16"
+>是…的</text>
+
+<text 
+x="603" 
+y="935" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(shì . . . de) </text>
+
+<text 
+x="671" 
+y="935" 
+dx="0,0,0" 
+class="s6_16"
+>(I)</text>
+
+<text 
+x="413" 
+y="959" 
+dx="0,0,0" 
+class="s6_16"
+>5. </text>
+
+<text 
+x="427" 
+y="959" 
+dx="0" 
+class="s7_16"
+>还</text>
+
+<text 
+x="453" 
+y="959" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(hái)</text>
+
+<text 
+x="485" 
+y="959" 
+dx="0,0,0,0,0,0,0" 
+class="s6_16"
+>(still)</text>
+
+<text 
+x="413" 
+y="983" 
+dx="0,0,0" 
+class="s6_16"
+>6. </text>
+
+<text 
+x="427" 
+y="983" 
+dx="0,0,0,0" 
+class="s7_16"
+>又…又…</text>
+
+<text 
+x="522" 
+y="983" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s8_16"
+>(yòu . . . yòu . . . )</text>
+
+<text 
+x="625" 
+y="983" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>(both . . . </text>
+
+<text 
+x="427" 
+y="999" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>and . . . )</text>
+
+<text 
+x="734" 
+y="826" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="826" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Chinese zodiac</text>
+
+<text 
+x="734" 
+y="850" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="850" 
+dx="0,-0.4,0,0,0,0,-0.4" 
+class="s6_16"
+>Karaoke</text>
+
+<text 
+x="734" 
+y="874" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="874" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>Gift giving</text>
+
+<text 
+x="734" 
+y="897" 
+dx="0,0" 
+class="s5_16"
+>• </text>
+
+<text 
+x="741" 
+y="897" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2" 
+class="s6_16"
+>Party etiquette</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: MuseoSlab-700_3m9;
+	src: url("fonts/MuseoSlab-700_3m9.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_3l9;
+	src: url("fonts/LibreFranklin-Light_3l9.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3ly;
+	src: url("fonts/LibreFranklin-ExtraBold_3ly.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 262 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_262"><path d="M354.1,403.9l0,-17.1l17,0l0,17.1Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_262{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_262{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_262{
+fill: #DC262E;
+}
+.g4_262{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g5_262{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_262{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_262{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_262{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_344;
+fill: #007D9F;
+}
+.s2_262{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_348;
+fill: #007D9F;
+}
+.s3_262{
+font-size: 15.28px;
+font-family: ProximaNova-Light_34f;
+fill: #3F3F40;
+}
+.s4_262{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_348;
+fill: #007598;
+}
+.s5_262{
+font-size: 15.28px;
+font-family: ProximaNova-Semibold_34c;
+fill: #77787B;
+}
+.s6_262{
+font-size: 8.91px;
+font-family: ProximaNova-Semibold_34c;
+fill: #77787B;
+}
+.s7_262{
+font-size: 32.85px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007598;
+}
+.s8_262{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #231F20;
+}
+.s9_262{
+font-size: 8.02px;
+font-family: ProximaNova-Regular_34i;
+fill: #3F3F40;
+}
+.s10_262{
+font-size: 13.75px;
+font-family: ProximaNova-Regular_34i;
+fill: #3F3F40;
+}
+.s11_262{
+font-size: 20.63px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007598;
+}
+.s12_262{
+font-size: 13.75px;
+font-family: Marion-Italic_2si;
+fill: #231F20;
+}
+.s13_262{
+font-size: 13.75px;
+font-family: ProximaNova-Regular_34i;
+fill: #231F20;
+}
+.s14_262{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s15_262{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s16_262{
+font-size: 21.39px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #231F20;
+}
+.s17_262{
+font-size: 21.51px;
+font-family: STKaiTi-TC-Bold_2yf;
+fill: #007D9F;
+}
+.s18_262{
+font-size: 16.81px;
+font-family: ProximaNova-Extrabld_344;
+fill: #3F3F40;
+}
+.s19_262{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s20_262{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s21_262{
+font-size: 28.23px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #3F3F40;
+}
+.s22_262{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #007D9F;
+}
+.s23_262{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_348;
+fill: #007598;
+}
+.s24_262{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_348;
+fill: #939598;
+}
+.s25_262{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_34c;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M105.3,73.2l13,0" class="g1_262" />
+<path d="M129.9,218.4l678.3,0" class="g2_262" />
+<path d="M129.9,258.8l678.3,0" class="g2_262" />
+<text 
+x="105" 
+y="69" 
+dx="0,0" 
+class="s1_262"
+>5 </text>
+
+<text 
+x="323" 
+y="74" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_262"
+>Denominations of currency</text>
+
+<text 
+x="143" 
+y="136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_262"
+>The denominations of Chinese currency are as follows.</text>
+
+<text 
+x="143" 
+y="178" 
+dx="0,0,0,0,0,0" 
+class="s4_262"
+>Usage </text>
+
+<text 
+x="262" 
+y="178" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_262"
+>Unit of Currency </text>
+
+<text 
+x="463" 
+y="178" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_262"
+>1/10 of a Unit </text>
+
+<text 
+x="660" 
+y="178" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_262"
+>1/100 of a Unit</text>
+
+<text 
+x="143" 
+y="211" 
+dx="0,-0.2,0,0,0,0,0,0" 
+class="s5_262"
+>Standard</text>
+
+<text 
+x="205" 
+y="206" 
+dx="0" 
+class="s6_262"
+>a</text>
+
+<text 
+x="282" 
+y="211" 
+dx="0" 
+class="s7_262"
+>元</text>
+
+<text 
+x="319" 
+y="211" 
+dx="0,0,0,0,0,0" 
+class="s8_262"
+>(yuán)</text>
+
+<text 
+x="475" 
+y="211" 
+dx="0" 
+class="s7_262"
+>角</text>
+
+<text 
+x="512" 
+y="211" 
+dx="0,0,0,0,0,0" 
+class="s8_262"
+>(jiǎo)</text>
+
+<text 
+x="679" 
+y="211" 
+dx="0" 
+class="s7_262"
+>分</text>
+
+<text 
+x="716" 
+y="211" 
+dx="0,0,0,0,0" 
+class="s8_262"
+>(fēn)</text>
+
+<text 
+x="143" 
+y="244" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_262"
+>Colloquial</text>
+
+<text 
+x="282" 
+y="244" 
+dx="0,0" 
+class="s7_262"
+>块 </text>
+
+<text 
+x="323" 
+y="244" 
+dx="0,0,0,0,0,0" 
+class="s8_262"
+>(kuài)</text>
+
+<text 
+x="473" 
+y="244" 
+dx="0" 
+class="s7_262"
+>毛</text>
+
+<text 
+x="510" 
+y="244" 
+dx="0,0,0,0,0" 
+class="s8_262"
+>(máo)</text>
+
+<text 
+x="679" 
+y="244" 
+dx="0" 
+class="s7_262"
+>分</text>
+
+<text 
+x="716" 
+y="244" 
+dx="0,0,0,0,0" 
+class="s8_262"
+>(fēn)</text>
+
+<text 
+x="143" 
+y="270" 
+dx="0" 
+class="s9_262"
+>a</text>
+
+<text 
+x="147" 
+y="275" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_262"
+>Store prices are typically listed in</text>
+
+<text 
+x="349" 
+y="275" 
+dx="0" 
+class="s11_262"
+>元</text>
+
+<text 
+x="374" 
+y="275" 
+dx="0,0,0,0,0,0" 
+class="s12_262"
+>(yuán)</text>
+
+<text 
+x="407" 
+y="275" 
+dx="0,0,0" 
+class="s10_262"
+>and</text>
+
+<text 
+x="433" 
+y="275" 
+dx="0" 
+class="s11_262"
+>角</text>
+
+<text 
+x="456" 
+y="275" 
+dx="0,0,0,0,0,0" 
+class="s12_262"
+>(jiǎo)</text>
+
+<text 
+x="480" 
+y="275" 
+dx="0" 
+class="s13_262"
+>.</text>
+
+<text 
+x="143" 
+y="318" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_262"
+>In colloquial speech, ¥5.99 is </text>
+
+<text 
+x="340" 
+y="318" 
+dx="0,0,0,0,0,0,0" 
+class="s14_262"
+>五块九毛九分钱</text>
+
+<text 
+x="493" 
+y="318" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s15_262"
+>(wǔ kuài jiǔ máo jiǔ fēn qián)</text>
+
+<text 
+x="670" 
+y="318" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_262"
+>. In conversation, </text>
+
+<text 
+x="143" 
+y="345" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0" 
+class="s3_262"
+>abbreviated forms are also used, e.g., </text>
+
+<text 
+x="394" 
+y="345" 
+dx="0,0,0,0,0,0" 
+class="s14_262"
+>五块九毛九分</text>
+
+<text 
+x="526" 
+y="345" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_262"
+>(omitting </text>
+
+<text 
+x="587" 
+y="345" 
+dx="0,0" 
+class="s14_262"
+>钱 </text>
+
+<text 
+x="613" 
+y="345" 
+dx="0,0,0,0,0,0,0" 
+class="s15_262"
+>[qián] </text>
+
+<text 
+x="650" 
+y="345" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_262"
+>[money]) and </text>
+
+<text 
+x="739" 
+y="345" 
+dx="0,0" 
+class="s14_262"
+>五块</text>
+
+<text 
+x="143" 
+y="373" 
+dx="0,0,0" 
+class="s14_262"
+>九毛九</text>
+
+<text 
+x="211" 
+y="373" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_262"
+>(omitting </text>
+
+<text 
+x="271" 
+y="373" 
+dx="0,0" 
+class="s14_262"
+>钱 </text>
+
+<text 
+x="298" 
+y="373" 
+dx="0,0,0,0,0,0,0" 
+class="s15_262"
+>[qián] </text>
+
+<text 
+x="335" 
+y="373" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_262"
+>and the last unit). If </text>
+
+<text 
+x="462" 
+y="373" 
+dx="0" 
+class="s14_262"
+>钱</text>
+
+<text 
+x="483" 
+y="373" 
+dx="0,0,0,0,0,0,0" 
+class="s15_262"
+>(qián) </text>
+
+<text 
+x="522" 
+y="373" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0" 
+class="s3_262"
+>is included, the preceding measure (e.g., </text>
+
+<text 
+x="143" 
+y="400" 
+dx="0,0" 
+class="s14_262"
+>分 </text>
+
+<text 
+x="170" 
+y="400" 
+dx="0,0,0,0,0" 
+class="s15_262"
+>[fēn]</text>
+
+<text 
+x="194" 
+y="400" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_262"
+>) must also be included. </text>
+
+<g clip-path="url(#c0_262)">
+<path d="M362.6,403.9c4.7,0,8.5,-3.9,8.5,-8.6c0,-4.7,-3.8,-8.5,-8.5,-8.5c-4.7,0,-8.5,3.8,-8.5,8.5c0,4.7,3.8,8.6,8.5,8.6Z" class="g3_262" />
+</g>
+<path d="M358.9,391.6l7.4,7.5" class="g4_262" />
+<path d="M366.3,391.6l-7.4,7.5" class="g4_262" />
+<text 
+x="375" 
+y="400" 
+dx="0,0,0,0,0,0,0" 
+class="s16_262"
+>五块九毛九钱.</text>
+
+<text 
+x="143" 
+y="442" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_262"
+>One or more zeroes occurring internally in a complex number are read as </text>
+
+<text 
+transform="matrix(1.14, 0, 0, 1, 630, 442)"
+dx="0" 
+class="s17_262"
+>〇</text>
+
+<text 
+x="659" 
+y="442" 
+dx="0,0,0,0,0,0" 
+class="s15_262"
+>(líng)</text>
+
+<text 
+x="693" 
+y="442" 
+dx="0,0,0,0,0,0,0,0,0,-1.9,0,0,0,0,0,0,0" 
+class="s3_262"
+>(zero). To avoid </text>
+
+<text 
+x="143" 
+y="469" 
+dx="0,0,0,0,0,0,0,0,0,-0.9,0" 
+class="s3_262"
+>ambiguity, </text>
+
+<text 
+x="213" 
+y="469" 
+dx="0" 
+class="s14_262"
+>毛</text>
+
+<text 
+x="239" 
+y="469" 
+dx="0,0,0,0,0,0" 
+class="s15_262"
+>(máo) </text>
+
+<text 
+x="277" 
+y="469" 
+dx="0,0,0,0" 
+class="s3_262"
+>and </text>
+
+<text 
+x="306" 
+y="469" 
+dx="0" 
+class="s14_262"
+>分</text>
+
+<text 
+x="332" 
+y="469" 
+dx="0,0,0,0,0" 
+class="s15_262"
+>(fēn)</text>
+
+<text 
+x="362" 
+y="469" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_262"
+>must be retained, as in (D) or (E).</text>
+
+<text 
+x="154" 
+y="533" 
+dx="0,0" 
+class="s18_262"
+>A </text>
+
+<text 
+x="220" 
+y="535" 
+dx="0" 
+class="s19_262"
+>八</text>
+
+<text 
+x="252" 
+y="535" 
+dx="0" 
+class="s20_262"
+>块</text>
+
+<text 
+x="284" 
+y="535" 
+dx="0" 
+class="s19_262"
+>五</text>
+
+<text 
+x="317" 
+y="535" 
+dx="0" 
+class="s20_262"
+>毛</text>
+
+<text 
+x="348" 
+y="535" 
+dx="0" 
+class="s19_262"
+>五</text>
+
+<text 
+x="374" 
+y="535" 
+dx="0,-3,-3,-24.7,-3,-3" 
+class="s20_262"
+>（分）（钱）</text>
+
+<text 
+x="553" 
+y="533" 
+dx="0,-1.2" 
+class="s18_262"
+>D </text>
+
+<text 
+x="600" 
+y="535" 
+dx="0,-3.2" 
+class="s19_262"
+>一百</text>
+
+<text 
+x="658" 
+y="535" 
+dx="0" 
+class="s20_262"
+>块</text>
+
+<text 
+transform="matrix(1.14, 0, 0, 1, 690, 535)"
+dx="0" 
+class="s21_262"
+>〇</text>
+
+<text 
+x="724" 
+y="535" 
+dx="0" 
+class="s19_262"
+>三</text>
+
+<text 
+x="753" 
+y="535" 
+dx="0,-10.3,-3.2,-3.2" 
+class="s20_262"
+>毛（钱）</text>
+
+<text 
+x="220" 
+y="572" 
+dx="0,0.2,0.2" 
+class="s15_262"
+>bā </text>
+
+<text 
+x="239" 
+y="572" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s22_262"
+>kuài </text>
+
+<text 
+x="270" 
+y="572" 
+dx="0,0.2,0.2" 
+class="s15_262"
+>wǔ </text>
+
+<text 
+x="292" 
+y="572" 
+dx="0,0.2,0.2,0.2" 
+class="s22_262"
+>máo </text>
+
+<text 
+x="323" 
+y="572" 
+dx="0,0.2,0.2" 
+class="s15_262"
+>wǔ </text>
+
+<text 
+x="345" 
+y="572" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s22_262"
+>(fēn) (qián) </text>
+
+<text 
+x="600" 
+y="572" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s15_262"
+>yìbǎi </text>
+
+<text 
+x="634" 
+y="572" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s22_262"
+>kuài </text>
+
+<text 
+x="665" 
+y="572" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s15_262"
+>líng sān </text>
+
+<text 
+x="717" 
+y="572" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s22_262"
+>máo (qián)</text>
+
+<text 
+x="224" 
+y="600" 
+dx="0,0,0,0,0,0" 
+class="s3_262"
+>¥8.55 </text>
+
+<text 
+x="600" 
+y="600" 
+dx="0,0,0,0,-0.5,0,0" 
+class="s3_262"
+>¥100.30</text>
+
+<text 
+x="154" 
+y="663" 
+dx="0,0" 
+class="s18_262"
+>B </text>
+
+<text 
+x="220" 
+y="666" 
+dx="0,-3" 
+class="s19_262"
+>十五</text>
+
+<text 
+x="281" 
+y="666" 
+dx="0" 
+class="s20_262"
+>块</text>
+
+<text 
+x="314" 
+y="666" 
+dx="0" 
+class="s19_262"
+>三</text>
+
+<text 
+x="340" 
+y="666" 
+dx="0,-3,-3,-24.7,-3,-3" 
+class="s20_262"
+>（毛）（钱）</text>
+
+<text 
+x="553" 
+y="663" 
+dx="0,-1.6" 
+class="s18_262"
+>E </text>
+
+<text 
+x="600" 
+y="666" 
+dx="0,-2.9" 
+class="s19_262"
+>一百</text>
+
+<text 
+x="658" 
+y="666" 
+dx="0" 
+class="s20_262"
+>块</text>
+
+<text 
+transform="matrix(1.14, 0, 0, 1, 690, 666)"
+dx="0" 
+class="s21_262"
+>〇</text>
+
+<text 
+x="722" 
+y="666" 
+dx="0" 
+class="s19_262"
+>三</text>
+
+<text 
+x="751" 
+y="666" 
+dx="0,-12.5,-3.2,-2.9" 
+class="s20_262"
+>分（钱）</text>
+
+<text 
+x="220" 
+y="703" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s15_262"
+>shíwǔ </text>
+
+<text 
+x="259" 
+y="703" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s22_262"
+>kuài </text>
+
+<text 
+x="290" 
+y="703" 
+dx="0,0.2,0.2,0.2" 
+class="s15_262"
+>sān </text>
+
+<text 
+x="315" 
+y="703" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s22_262"
+>(máo) (qián) </text>
+
+<text 
+x="600" 
+y="703" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s15_262"
+>yìbǎi </text>
+
+<text 
+x="634" 
+y="703" 
+dx="0,0.2,0.2,0.2,0.2" 
+class="s22_262"
+>kuài </text>
+
+<text 
+x="665" 
+y="703" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s15_262"
+>líng sān </text>
+
+<text 
+x="717" 
+y="703" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s22_262"
+>fēn (qián)</text>
+
+<text 
+x="224" 
+y="730" 
+dx="0,0,0,0,0,0,0" 
+class="s3_262"
+>¥15.30 </text>
+
+<text 
+x="600" 
+y="730" 
+dx="0,0,0,0,-0.5,0,0" 
+class="s3_262"
+>¥100.03</text>
+
+<text 
+x="154" 
+y="794" 
+dx="0,0" 
+class="s18_262"
+>C </text>
+
+<text 
+x="220" 
+y="796" 
+dx="0,0" 
+class="s19_262"
+>一百</text>
+
+<text 
+transform="matrix(1.14, 0, 0, 1, 284, 796)"
+dx="0" 
+class="s21_262"
+>〇</text>
+
+<text 
+x="316" 
+y="796" 
+dx="0" 
+class="s19_262"
+>三</text>
+
+<text 
+x="348" 
+y="796" 
+dx="0,-7.1,-3,0" 
+class="s20_262"
+>块（钱）</text>
+
+<text 
+x="224" 
+y="833" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s15_262"
+>yìbǎi líng sān </text>
+
+<text 
+x="310" 
+y="833" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s22_262"
+>kuài (qián)</text>
+
+<text 
+x="224" 
+y="861" 
+dx="0,0,0,0" 
+class="s3_262"
+>¥103</text>
+
+<text 
+x="143" 
+y="917" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s23_262"
+>EXERCISES</text>
+
+<text 
+x="143" 
+y="945" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s3_262"
+>Say the following amounts of money in Chinese.</text>
+
+<text 
+x="145" 
+y="988" 
+dx="0,0" 
+class="s24_262"
+>1 </text>
+
+<text 
+x="187" 
+y="989" 
+dx="0,0,-0.6,0,0" 
+class="s3_262"
+>¥9.99</text>
+
+<text 
+x="366" 
+y="988" 
+dx="0,0" 
+class="s24_262"
+>2 </text>
+
+<text 
+x="409" 
+y="989" 
+dx="0,0,0,0,0,0,0" 
+class="s3_262"
+>¥135.20</text>
+
+<text 
+x="601" 
+y="988" 
+dx="0,0" 
+class="s24_262"
+>3 </text>
+
+<text 
+x="641" 
+y="989" 
+dx="0,0,0,0,0,0" 
+class="s3_262"
+>¥86.04</text>
+
+<path d="M132.9,39l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g5_262" />
+<path d="M134.9,91.2l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g6_262" />
+<path d="M149.1,509.9c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g5_262" />
+<path d="M149.1,511.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_262" />
+<path d="M548,509.9c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g5_262" />
+<path d="M548,511.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_262" />
+<path d="M149.1,640.4c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.7,-7.6,-7.7l-22.4,0Z" class="g5_262" />
+<path d="M149.1,642.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_262" />
+<path d="M548,640.4c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g5_262" />
+<path d="M548,642.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_262" />
+<path d="M149.1,771c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0,7.7,7.6,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g5_262" />
+<path d="M149.1,773c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g6_262" />
+<path d="M885.3,1209.2l69.6,0l0,-1222.1l-69.6,0l0,1222.1Z" class="g7_262" />
+<text 
+transform="matrix(0, 1, -1, 0, 894, 939)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s25_262"
+>Lesson 9 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 998)"
+dx="0,0.3" 
+class="s25_262"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1011)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s25_262"
+>Shopping </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1072)"
+dx="0,0.3" 
+class="s25_262"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1085)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s25_262"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1155)"
+dx="0,0.3,0.3" 
+class="s25_262"
+>241</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_2yf;
+	src: url("fonts/STKaiTi-TC-Bold_2yf.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_348;
+	src: url("fonts/ProximaNova-Bold_348.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_34c;
+	src: url("fonts/ProximaNova-Semibold_34c.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_34i;
+	src: url("fonts/ProximaNova-Regular_34i.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_344;
+	src: url("fonts/ProximaNova-Extrabld_344.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_34f;
+	src: url("fonts/ProximaNova-Light_34f.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

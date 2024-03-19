@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 418 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_418{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_418{
+fill: #3986C6;
+}
+.g3_418{
+fill: #F0F1F2;
+}
+.g4_418{
+fill: #BDBEC1;
+}
+.g5_418{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_418{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_de4;
+fill: #231F20;
+}
+.s2_418{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_ddv;
+fill: #231F20;
+}
+.s3_418{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_ddv;
+fill: #57585A;
+}
+.s4_418{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s5_418{
+font-size: 19.10px;
+font-family: Alegreya-Regular_ddy;
+fill: #231F20;
+}
+.s6_418{
+font-size: 21.39px;
+font-family: ProximaNova-Semibold_ddu;
+fill: #3F3F40;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 869)"
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_418"
+>Vocabulary Index (Chinese – English)</text>
+
+<text 
+x="855" 
+y="1149" 
+dx="0,0,0" 
+class="s2_418"
+>395</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_418" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_418" />
+<path d="M89.9,167l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,251.6l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,336.2l115.7,0l0,42.4l-115.7,0l0,-42.4Zm115.7,0l140.3,0l0,42.4l-140.3,0l0,-42.4Zm140.3,0l402.6,0l0,42.4l-402.6,0l0,-42.4Zm402.6,0l62.2,0l0,42.4l-62.2,0l0,-42.4ZM89.9,420.9l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,505.5l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,590.1l115.7,0l0,42.4l-115.7,0l0,-42.4Zm115.7,0l140.3,0l0,42.4l-140.3,0l0,-42.4Zm140.3,0l402.6,0l0,42.4l-402.6,0l0,-42.4Zm402.6,0l62.2,0l0,42.4l-62.2,0l0,-42.4ZM89.9,674.8l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,843.9l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,928.5l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,1013.1l115.7,0l0,42.4l-115.7,0l0,-42.4Zm115.7,0l140.3,0l0,42.4l-140.3,0l0,-42.4Zm140.3,0l402.6,0l0,42.4l-402.6,0l0,-42.4Zm402.6,0l62.2,0l0,42.4l-62.2,0l0,-42.4Z" class="g3_418" />
+<path d="M89.9,759.4l720.8,0l0,42.2l-720.8,0l0,-42.2Z" class="g4_418" />
+<path d="M89.9,124.7l115.7,0" class="g5_418" />
+<path d="M205.6,124.7l140.3,0" class="g5_418" />
+<path d="M345.9,124.7l402.6,0" class="g5_418" />
+<path d="M748.5,124.7l62.2,0" class="g5_418" />
+<path d="M89.9,1097.8l115.7,0" class="g5_418" />
+<path d="M205.6,1097.8l140.3,0" class="g5_418" />
+<path d="M345.9,1097.8l402.6,0" class="g5_418" />
+<path d="M748.5,1097.8l62.2,0" class="g5_418" />
+<text 
+x="96" 
+y="110" 
+dx="0,0,0,0,0,0,0" 
+class="s3_418"
+>Chinese</text>
+
+<text 
+x="211" 
+y="110" 
+dx="0,0,0,0,0,0" 
+class="s3_418"
+>Pinyin</text>
+
+<text 
+x="351" 
+y="110" 
+dx="0,0,0,0,0,0,0" 
+class="s3_418"
+>English</text>
+
+<text 
+x="754" 
+y="110" 
+dx="0,-0.4,0,0" 
+class="s3_418"
+>Page</text>
+
+<text 
+x="96" 
+y="153" 
+dx="0" 
+class="s4_418"
+>她</text>
+
+<text 
+x="211" 
+y="153" 
+dx="0,0" 
+class="s5_418"
+>tā</text>
+
+<text 
+x="352" 
+y="153" 
+dx="0,0,0,-0.6,-0.4,0,0,0" 
+class="s5_418"
+>she, her</text>
+
+<text 
+x="754" 
+y="153" 
+dx="0,0" 
+class="s5_418"
+>37</text>
+
+<text 
+x="96" 
+y="196" 
+dx="0,0" 
+class="s4_418"
+>她们</text>
+
+<text 
+x="211" 
+y="196" 
+dx="0,0,0,0,0" 
+class="s5_418"
+>tāmen</text>
+
+<text 
+x="352" 
+y="196" 
+dx="0,0,0,0,-1.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0.3,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s5_418"
+>they, them (if everyone in the group is female)</text>
+
+<text 
+x="754" 
+y="196" 
+dx="0,0" 
+class="s5_418"
+>41</text>
+
+<text 
+x="96" 
+y="238" 
+dx="0" 
+class="s4_418"
+>它</text>
+
+<text 
+x="211" 
+y="238" 
+dx="0,0" 
+class="s5_418"
+>tā</text>
+
+<text 
+x="352" 
+y="238" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_418"
+>it (used for animals and things)</text>
+
+<text 
+x="754" 
+y="238" 
+dx="0,0" 
+class="s5_418"
+>67</text>
+
+<text 
+x="96" 
+y="280" 
+dx="0" 
+class="s4_418"
+>太</text>
+
+<text 
+x="211" 
+y="280" 
+dx="0,0,0" 
+class="s5_418"
+>tài</text>
+
+<text 
+x="352" 
+y="280" 
+dx="0,0,0,-0.8,-0.4,0,-0.4,0,0,-0.2,0,0,0,0,-1.3,-0.4,0,-0.3,-0.3,0,0,0" 
+class="s5_418"
+>too, extremely, overly</text>
+
+<text 
+x="754" 
+y="280" 
+dx="0,0,0" 
+class="s5_418"
+>243</text>
+
+<text 
+x="96" 
+y="323" 
+dx="0" 
+class="s4_418"
+>弹</text>
+
+<text 
+x="211" 
+y="323" 
+dx="0,0,0" 
+class="s5_418"
+>tán</text>
+
+<text 
+x="352" 
+y="323" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4" 
+class="s5_418"
+>to strum, to pluck, to play</text>
+
+<text 
+x="754" 
+y="323" 
+dx="0,0,0" 
+class="s5_418"
+>133</text>
+
+<text 
+x="96" 
+y="365" 
+dx="0" 
+class="s4_418"
+>疼</text>
+
+<text 
+x="211" 
+y="365" 
+dx="0,0,0,0" 
+class="s5_418"
+>téng</text>
+
+<text 
+x="352" 
+y="365" 
+dx="0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,0" 
+class="s5_418"
+>-ache, aching</text>
+
+<text 
+x="754" 
+y="365" 
+dx="0,0,0" 
+class="s5_418"
+>291</text>
+
+<text 
+x="96" 
+y="407" 
+dx="0" 
+class="s4_418"
+>踢</text>
+
+<text 
+x="211" 
+y="407" 
+dx="0,0" 
+class="s5_418"
+>tī</text>
+
+<text 
+x="352" 
+y="407" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.3,-0.3,0,0" 
+class="s5_418"
+>to kick, to play (soccer)</text>
+
+<text 
+x="754" 
+y="407" 
+dx="0,0,0" 
+class="s5_418"
+>109</text>
+
+<text 
+x="96" 
+y="450" 
+dx="0" 
+class="s4_418"
+>题</text>
+
+<text 
+x="211" 
+y="450" 
+dx="0,0" 
+class="s5_418"
+>tí</text>
+
+<text 
+x="352" 
+y="450" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_418"
+>question, problem (in homework or on a test)</text>
+
+<text 
+x="754" 
+y="450" 
+dx="0,0,0" 
+class="s5_418"
+>335</text>
+
+<text 
+x="96" 
+y="492" 
+dx="0" 
+class="s4_418"
+>天</text>
+
+<text 
+x="211" 
+y="492" 
+dx="0,0,0,0" 
+class="s5_418"
+>tiān</text>
+
+<text 
+x="352" 
+y="492" 
+dx="0,0,-0.4" 
+class="s5_418"
+>day</text>
+
+<text 
+x="754" 
+y="492" 
+dx="0,0,0" 
+class="s5_418"
+>262</text>
+
+<text 
+x="96" 
+y="534" 
+dx="0,0" 
+class="s4_418"
+>跳舞</text>
+
+<text 
+x="211" 
+y="534" 
+dx="0,0,0,0,0,0,0" 
+class="s5_418"
+>tiào wǔ</text>
+
+<text 
+x="352" 
+y="534" 
+dx="0,0,0,0,0,0,0,-0.3,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3" 
+class="s5_418"
+>to dance, to do a (kind of) dance</text>
+
+<text 
+x="754" 
+y="534" 
+dx="0,0,0" 
+class="s5_418"
+>360</text>
+
+<text 
+x="96" 
+y="577" 
+dx="0" 
+class="s4_418"
+>听</text>
+
+<text 
+x="211" 
+y="576" 
+dx="0,0,0,0" 
+class="s5_418"
+>tīng</text>
+
+<text 
+x="352" 
+y="576" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.8,-0.4,0,0,0,0,0,0,0" 
+class="s5_418"
+>to listen to, to hear</text>
+
+<text 
+x="754" 
+y="576" 
+dx="0,0,0" 
+class="s5_418"
+>141</text>
+
+<text 
+x="96" 
+y="619" 
+dx="0" 
+class="s4_418"
+>挺</text>
+
+<text 
+x="211" 
+y="619" 
+dx="0,0,0,0" 
+class="s5_418"
+>tǐng</text>
+
+<text 
+x="352" 
+y="619" 
+dx="0,0,0,0,0,-0.6,-0.4,0,-0.2,0,0,0,0,-1.3,-0.4,0,0,-0.2,0,0,0,-1.3,-0.4,0,-0.2,0,0,0,0" 
+class="s5_418"
+>quite, fairly, pretty, rather</text>
+
+<text 
+x="754" 
+y="619" 
+dx="0,0,0" 
+class="s5_418"
+>243</text>
+
+<text 
+x="96" 
+y="661" 
+dx="0,0" 
+class="s4_418"
+>同学</text>
+
+<text 
+x="211" 
+y="661" 
+dx="0,0,0,0,0,0,0" 
+class="s5_418"
+>tóngxúe</text>
+
+<text 
+x="352" 
+y="661" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_418"
+>classmate</text>
+
+<text 
+x="754" 
+y="661" 
+dx="0,0" 
+class="s5_418"
+>37</text>
+
+<text 
+x="96" 
+y="703" 
+dx="0,0" 
+class="s4_418"
+>同意</text>
+
+<text 
+x="211" 
+y="703" 
+dx="0,0,0,0,0,0" 
+class="s5_418"
+>tóngyì</text>
+
+<text 
+x="352" 
+y="703" 
+dx="0,0,0,0,0,0,-0.2,0" 
+class="s5_418"
+>to agree</text>
+
+<text 
+x="754" 
+y="703" 
+dx="0,0,0" 
+class="s5_418"
+>191</text>
+
+<text 
+x="96" 
+y="746" 
+dx="0" 
+class="s4_418"
+>头</text>
+
+<text 
+x="211" 
+y="746" 
+dx="0,0,0" 
+class="s5_418"
+>tóu</text>
+
+<text 
+x="352" 
+y="746" 
+dx="0,0,0,0" 
+class="s5_418"
+>head</text>
+
+<text 
+x="754" 
+y="746" 
+dx="0,0,0" 
+class="s5_418"
+>291</text>
+
+<text 
+x="440" 
+y="788" 
+dx="0" 
+class="s6_418"
+>W</text>
+
+<text 
+x="96" 
+y="830" 
+dx="0" 
+class="s4_418"
+>完</text>
+
+<text 
+x="211" 
+y="830" 
+dx="0,-0.3,0" 
+class="s5_418"
+>wán</text>
+
+<text 
+x="352" 
+y="830" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s5_418"
+>to finish, to complete</text>
+
+<text 
+x="754" 
+y="830" 
+dx="0,0,0" 
+class="s5_418"
+>312</text>
+
+<text 
+x="96" 
+y="873" 
+dx="0,0" 
+class="s4_418"
+>玩儿</text>
+
+<text 
+x="211" 
+y="873" 
+dx="0,-0.3,0,0" 
+class="s5_418"
+>wánr</text>
+
+<text 
+x="352" 
+y="873" 
+dx="0,0,0,0,0,-0.4,-0.3,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4,-1.3,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_418"
+>to have fun, to play, to hang out</text>
+
+<text 
+x="754" 
+y="873" 
+dx="0,0,0" 
+class="s5_418"
+>361</text>
+
+<text 
+x="96" 
+y="915" 
+dx="0" 
+class="s4_418"
+>晚</text>
+
+<text 
+x="211" 
+y="915" 
+dx="0,-0.3,0" 
+class="s5_418"
+>wǎn</text>
+
+<text 
+x="352" 
+y="915" 
+dx="0,0,0,0" 
+class="s5_418"
+>late</text>
+
+<text 
+x="754" 
+y="915" 
+dx="0,0,0" 
+class="s5_418"
+>281</text>
+
+<text 
+x="96" 
+y="957" 
+dx="0,0" 
+class="s4_418"
+>晚上</text>
+
+<text 
+x="211" 
+y="957" 
+dx="0,-0.3,0,0,0,0,0,0" 
+class="s5_418"
+>wǎnshàng</text>
+
+<text 
+x="352" 
+y="957" 
+dx="0,0,0,0,0,0,-0.4,0,0,-0.3,0,0,0,0" 
+class="s5_418"
+>night, evening</text>
+
+<text 
+x="754" 
+y="957" 
+dx="0,0,0" 
+class="s5_418"
+>182</text>
+
+<text 
+x="96" 
+y="1000" 
+dx="0,0" 
+class="s4_418"
+>网球</text>
+
+<text 
+x="211" 
+y="999" 
+dx="0,-0.3,0,0,0,0,0" 
+class="s5_418"
+>wǎngqiú</text>
+
+<text 
+x="352" 
+y="999" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_418"
+>tennis; tennis ball</text>
+
+<text 
+x="754" 
+y="999" 
+dx="0,0,0" 
+class="s5_418"
+>109</text>
+
+<text 
+x="96" 
+y="1042" 
+dx="0" 
+class="s4_418"
+>喂</text>
+
+<text 
+x="211" 
+y="1042" 
+dx="0,-0.3,0" 
+class="s5_418"
+>wéi</text>
+
+<text 
+x="352" 
+y="1042" 
+dx="0,0,0,0,0,0,0,0,-0.3,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_418"
+>hello (over the phone)</text>
+
+<text 
+x="754" 
+y="1042" 
+dx="0,0,0" 
+class="s5_418"
+>182</text>
+
+<text 
+x="96" 
+y="1084" 
+dx="0,0,0" 
+class="s4_418"
+>为什么</text>
+
+<text 
+x="211" 
+y="1084" 
+dx="0,-0.3,0,0,0,0,0,0,0" 
+class="s5_418"
+>wèishénme</text>
+
+<text 
+x="352" 
+y="1084" 
+dx="0,0,-0.4" 
+class="s5_418"
+>why</text>
+
+<text 
+x="754" 
+y="1084" 
+dx="0,0,0" 
+class="s5_418"
+>216</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Alegreya-Regular_ddy;
+	src: url("fonts/Alegreya-Regular_ddy.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_de4;
+	src: url("fonts/ProximaNova-Semibold_de4.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_ddv;
+	src: url("fonts/ProximaNova-Bold_ddv.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_ddu;
+	src: url("fonts/ProximaNova-Semibold_ddu.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

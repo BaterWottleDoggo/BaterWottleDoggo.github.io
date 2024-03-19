@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 408 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_408{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_408{
+fill: #3986C6;
+}
+.g3_408{
+fill: #BDBEC1;
+}
+.g4_408{
+fill: #F0F1F2;
+}
+.g5_408{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_408{
+fill: none;
+stroke: #77787B;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_408{
+fill: none;
+stroke: #77787B;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_408{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_408{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_de4;
+fill: #231F20;
+}
+.s2_408{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_ddv;
+fill: #231F20;
+}
+.s3_408{
+font-size: 19.10px;
+font-family: Alegreya-Regular_ddy;
+fill: #231F20;
+}
+.s4_408{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_ddv;
+fill: #57585A;
+}
+.s5_408{
+font-size: 21.39px;
+font-family: ProximaNova-Semibold_ddu;
+fill: #3F3F40;
+}
+.s6_408{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s7_408{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_ddv;
+fill: #909295;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 869)"
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_408"
+>Vocabulary Index (Chinese – English)</text>
+
+<text 
+x="855" 
+y="1149" 
+dx="0,0,0" 
+class="s2_408"
+>385</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_408" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_408" />
+<text 
+x="89" 
+y="187" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.6,-0.6,0,0,0,0,0,0,0,-1.4,0,-0.2,0,0,0,0,0,0.3,0,0,-0.2,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.4,0,-1.4,0,-0.2,0,0" 
+class="s3_408"
+>The Chinese–English Vocabulary Index is alphabetized according to pinyin. Words </text>
+
+<text 
+x="89" 
+y="213" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,-0.4,0,-1.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_408"
+>containing the same first Chinese character are grouped together. Words with the same </text>
+
+<text 
+x="89" 
+y="239" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s3_408"
+>pinyin spelling are organized according to their tone (that is, first tones first, second tones </text>
+
+<text 
+x="89" 
+y="265" 
+dx="0,0,0,-0.3,0,0,0,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.4,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_408"
+>second, third tones third, fourth tones fourth, and neutral tones last).</text>
+
+<path d="M89.9,324l720.8,0l0,42.9l-720.8,0l0,-42.9Z" class="g3_408" />
+<path d="M89.9,428l720.8,0l0,42.1l-720.8,0l0,-42.1Z" class="g3_408" />
+<path d="M89.9,512.5l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,615.8l115.7,0l0,42.4l-115.7,0l0,-42.4Zm115.7,0l140.3,0l0,42.4l-140.3,0l0,-42.4Zm140.3,0l402.6,0l0,42.4l-402.6,0l0,-42.4Zm402.6,0l62.2,0l0,42.4l-62.2,0l0,-42.4ZM89.9,700.5l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,785.1l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,869.7l115.7,0l0,42.4l-115.7,0l0,-42.4Zm115.7,0l140.3,0l0,42.4l-140.3,0l0,-42.4Zm140.3,0l402.6,0l0,42.4l-402.6,0l0,-42.4Zm402.6,0l62.2,0l0,42.4l-62.2,0l0,-42.4ZM89.9,954.4l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3Z" class="g4_408" />
+<path d="M89.9,1039l115.7,0" class="g5_408" />
+<path d="M205.6,1039l140.3,0" class="g5_408" />
+<path d="M345.9,1039l402.6,0" class="g5_408" />
+<path d="M748.5,1039l62.2,0" class="g5_408" />
+<path d="M89.9,324l115.7,0" class="g5_408" />
+<path d="M205.6,324l140.3,0" class="g5_408" />
+<path d="M345.9,324l402.6,0" class="g5_408" />
+<path d="M748.5,324l62.2,0" class="g5_408" />
+<text 
+x="96" 
+y="310" 
+dx="0,0,0,0,0,0,0" 
+class="s4_408"
+>Chinese</text>
+
+<text 
+x="211" 
+y="310" 
+dx="0,0,0,0,0,0" 
+class="s4_408"
+>Pinyin</text>
+
+<text 
+x="351" 
+y="310" 
+dx="0,0,0,0,0,0,0" 
+class="s4_408"
+>English</text>
+
+<text 
+x="754" 
+y="310" 
+dx="0,-0.4,0,0" 
+class="s4_408"
+>Page</text>
+
+<text 
+x="443" 
+y="354" 
+dx="0" 
+class="s5_408"
+>A</text>
+
+<text 
+x="96" 
+y="405" 
+dx="0" 
+class="s6_408"
+>啊</text>
+
+<text 
+x="211" 
+y="405" 
+dx="0" 
+class="s3_408"
+>a</text>
+
+<text 
+x="352" 
+y="392" 
+dx="0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s3_408"
+>(word added at the end of a sentence to add </text>
+
+<text 
+x="352" 
+y="418" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,0,0,0" 
+class="s3_408"
+>emphasis or excitement)</text>
+
+<text 
+x="754" 
+y="405" 
+dx="0,0,0" 
+class="s3_408"
+>137</text>
+
+<text 
+x="443" 
+y="457" 
+dx="0" 
+class="s5_408"
+>B</text>
+
+<text 
+x="96" 
+y="499" 
+dx="0" 
+class="s6_408"
+>八</text>
+
+<text 
+x="211" 
+y="499" 
+dx="0,0" 
+class="s3_408"
+>bā</text>
+
+<text 
+x="352" 
+y="499" 
+dx="0,0,0,0,0" 
+class="s3_408"
+>eight</text>
+
+<text 
+x="754" 
+y="499" 
+dx="0,0" 
+class="s3_408"
+>19</text>
+
+<text 
+x="96" 
+y="541" 
+dx="0,0" 
+class="s6_408"
+>爸爸</text>
+
+<text 
+x="211" 
+y="541" 
+dx="0,0,0,0" 
+class="s3_408"
+>bàba</text>
+
+<text 
+x="352" 
+y="541" 
+dx="0,-0.2,0,0,0,0,-1.5,-0.4,0,0,0" 
+class="s3_408"
+>father, dad</text>
+
+<text 
+x="754" 
+y="541" 
+dx="0,0" 
+class="s3_408"
+>57</text>
+
+<text 
+x="96" 
+y="593" 
+dx="0" 
+class="s6_408"
+>吧</text>
+
+<text 
+x="211" 
+y="593" 
+dx="0,0" 
+class="s3_408"
+>ba</text>
+
+<text 
+x="352" 
+y="580" 
+dx="0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s3_408"
+>(word added at the end of a sentence to make a </text>
+
+<text 
+x="352" 
+y="606" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_408"
+>suggestion or to soften the tone)</text>
+
+<text 
+x="754" 
+y="593" 
+dx="0,0,0" 
+class="s3_408"
+>137</text>
+
+<text 
+x="96" 
+y="645" 
+dx="0" 
+class="s6_408"
+>半</text>
+
+<text 
+x="211" 
+y="644" 
+dx="0,0,0" 
+class="s3_408"
+>bàn</text>
+
+<text 
+x="352" 
+y="644" 
+dx="0,0,0,0,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_408"
+>half, half an hour</text>
+
+<text 
+x="754" 
+y="644" 
+dx="0,0,0" 
+class="s3_408"
+>257</text>
+
+<text 
+x="96" 
+y="687" 
+dx="0" 
+class="s6_408"
+>帮</text>
+
+<text 
+x="211" 
+y="687" 
+dx="0,0,0,0" 
+class="s3_408"
+>bāng</text>
+
+<text 
+x="352" 
+y="687" 
+dx="0,0,0,0,0,0,0" 
+class="s3_408"
+>to help</text>
+
+<text 
+x="754" 
+y="687" 
+dx="0,0,0" 
+class="s3_408"
+>317</text>
+
+<text 
+x="96" 
+y="729" 
+dx="0,0" 
+class="s6_408"
+>北京</text>
+
+<text 
+x="211" 
+y="729" 
+dx="0,-0.2,0,0,0,0,0" 
+class="s3_408"
+>Běijīng</text>
+
+<text 
+x="352" 
+y="729" 
+dx="0,-0.2,0,0,0,0,0" 
+class="s3_408"
+>Beijing</text>
+
+<text 
+x="754" 
+y="729" 
+dx="0,0" 
+class="s3_408"
+>89</text>
+
+<text 
+x="96" 
+y="771" 
+dx="0" 
+class="s6_408"
+>本</text>
+
+<text 
+x="211" 
+y="771" 
+dx="0,0,0" 
+class="s3_408"
+>běn</text>
+
+<text 
+x="352" 
+y="771" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,-0.3,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s3_408"
+>(measure word for books)</text>
+
+<text 
+x="754" 
+y="771" 
+dx="0,0,0" 
+class="s3_408"
+>186</text>
+
+<text 
+x="96" 
+y="814" 
+dx="0" 
+class="s6_408"
+>比</text>
+
+<text 
+x="211" 
+y="814" 
+dx="0,0" 
+class="s3_408"
+>bǐ</text>
+
+<text 
+x="352" 
+y="814" 
+dx="0,-0.3,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_408"
+>compared with</text>
+
+<text 
+x="754" 
+y="814" 
+dx="0,0,0" 
+class="s3_408"
+>239</text>
+
+<text 
+x="96" 
+y="856" 
+dx="0,0" 
+class="s6_408"
+>比赛</text>
+
+<text 
+x="211" 
+y="856" 
+dx="0,0,0,0,0" 
+class="s3_408"
+>bǐsài</text>
+
+<text 
+x="352" 
+y="856" 
+dx="0,-0.2,0,0,-0.6,-0.4,0,0,0,0,0,0,-0.4,0,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s3_408"
+>game, match, competition </text>
+
+<text 
+x="754" 
+y="856" 
+dx="0,0,0" 
+class="s3_408"
+>118</text>
+
+<text 
+x="96" 
+y="898" 
+dx="0" 
+class="s6_408"
+>别</text>
+
+<text 
+x="211" 
+y="898" 
+dx="0,0,0" 
+class="s3_408"
+>bié</text>
+
+<text 
+x="352" 
+y="898" 
+dx="0,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s3_408"
+>don’t (in advice or a command)</text>
+
+<text 
+x="754" 
+y="898" 
+dx="0,0,0" 
+class="s3_408"
+>317</text>
+
+<text 
+x="96" 
+y="941" 
+dx="0,0" 
+class="s6_408"
+>不太</text>
+
+<text 
+x="211" 
+y="941" 
+dx="0,0,0,0,0,0" 
+class="s3_408"
+>bú tài</text>
+
+<text 
+x="352" 
+y="941" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,-1.3,-0.4,0,0,0,0,0,-0.3,0,0.3" 
+class="s3_408"
+>not really, not very</text>
+
+<text 
+x="754" 
+y="941" 
+dx="0,0" 
+class="s3_408"
+>62</text>
+
+<text 
+x="96" 
+y="983" 
+dx="0,0" 
+class="s6_408"
+>不用</text>
+
+<text 
+x="211" 
+y="983" 
+dx="0,0,0,-0.3,0,0" 
+class="s3_408"
+>búyòng</text>
+
+<text 
+x="352" 
+y="983" 
+dx="0,0,0,-1.5,0,0,0,0,0,0,0,0,0,-0.8,-0.4,0,0,0,-1.5,0,0,0,0,-0.4,-0.3,0,0,0" 
+class="s3_408"
+>don’t need to, don’t have to</text>
+
+<text 
+x="754" 
+y="983" 
+dx="0,0,0" 
+class="s3_408"
+>262</text>
+
+<text 
+x="96" 
+y="1025" 
+dx="0" 
+class="s6_408"
+>不</text>
+
+<text 
+x="211" 
+y="1025" 
+dx="0,0" 
+class="s3_408"
+>bù</text>
+
+<text 
+x="352" 
+y="1025" 
+dx="0,0,-0.8,-0.4,0,0,0,0" 
+class="s3_408"
+>no, not </text>
+
+<text 
+x="754" 
+y="1025" 
+dx="0,0" 
+class="s3_408"
+>21</text>
+
+<text 
+x="245" 
+y="120" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_408"
+>Vocabulary Index (Chinese – English)</text>
+
+<path d="M111.1,84.5l0,53.5l0,0.8l0.8,0l676.9,0l0.7,0l0,-0.8l0,-53.5l0,-0.7l-0.7,0l-676.9,0l-0.8,0l0,0.7Z" class="g6_408" />
+<path d="M113.2,136.7l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g7_408" />
+<path d="M110.3,139.8l680,0l0,-56.5l-680,0l0,56.5Z" class="g8_408" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Alegreya-Regular_ddy;
+	src: url("fonts/Alegreya-Regular_ddy.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_de4;
+	src: url("fonts/ProximaNova-Semibold_de4.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_ddv;
+	src: url("fonts/ProximaNova-Bold_ddv.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_ddu;
+	src: url("fonts/ProximaNova-Semibold_ddu.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

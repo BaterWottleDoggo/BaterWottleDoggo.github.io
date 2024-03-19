@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 305 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_305{
+fill: #D4EFFB;
+}
+.g2_305{
+fill: #00AEEF;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_305{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_305{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_305{
+fill: none;
+stroke: #9855A2;
+stroke-width: 3.0555556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_305{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_36w;
+fill: #FFFFFF;
+}
+.s2_305{
+font-size: 15.28px;
+font-family: ProximaNova-Regular_36t;
+fill: #3F3F40;
+}
+.s3_305{
+font-size: 18.33px;
+font-family: ProximaNova-Semibold_36w;
+fill: #9855A2;
+}
+.s4_305{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #3F3F40;
+}
+.s5_305{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s6_305{
+font-size: 15.28px;
+font-family: ProximaNova-Extrabld_36v;
+fill: #3F3F40;
+}
+.s7_305{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_36k;
+fill: #9855A2;
+}
+.s8_305{
+font-size: 27.50px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #9855A2;
+}
+.s9_305{
+font-size: 22.92px;
+font-family: Marion-Italic_2si;
+fill: #9855A2;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M20,1209.2l900.5,0l0,-1222.1L20,-12.9l0,1222.1Z" class="g1_305" />
+<path d="M-22.1,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g2_305" />
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1173)"
+dx="0,0.3,0.3,0.3" 
+class="s1_305"
+>284 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1142)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s1_305"
+>Integrated Chinese 1 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1020)"
+dx="0,0.3" 
+class="s1_305"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 26, 1008)"
+dx="0,-0.9,-0.1,0.3,0.3,0.3,0.3,0.3" 
+class="s1_305"
+>Textbook</text>
+
+<text 
+x="124" 
+y="554" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_305"
+>Say this to put someone at ease that you will agree to do something, or to assure someone </text>
+
+<text 
+x="124" 
+y="581" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s2_305"
+>that there is no need to worry. [See Lesson 6.]</text>
+
+<text 
+x="206" 
+y="636" 
+dx="0,0,0,0,-2.3,0,0" 
+class="s3_305"
+>Li You </text>
+
+<text 
+x="307" 
+y="636" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_305"
+>王朋，你今天晚上帮我练习中文，好吗？</text>
+
+<text 
+x="309" 
+y="664" 
+dx="0,-1.6,0.2,0.2,0.2,0.2,-1.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_305"
+>Wáng Péng, nǐ jīntiān wǎnshang bāng wǒ liànxí Zhōngwén, hǎo ma?</text>
+
+<text 
+x="309" 
+y="691" 
+dx="0,-0.6,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s2_305"
+>Wang Peng, would you help me practice Chinese this evening?</text>
+
+<text 
+x="206" 
+y="733" 
+dx="0,-0.7,0,0,0,0,-0.3,0,0,0" 
+class="s3_305"
+>Wang Peng </text>
+
+<text 
+x="309" 
+y="733" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_305"
+>没问题。晚上见。</text>
+
+<text 
+x="309" 
+y="760" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_305"
+>Méi wèntí. Wǎnshang jiàn.</text>
+
+<text 
+x="309" 
+y="788" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_305"
+>No problem. See you this evening.</text>
+
+<text 
+x="206" 
+y="870" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_305"
+>Little Li </text>
+
+<text 
+x="310" 
+y="870" 
+dx="0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5" 
+class="s4_305"
+>英爱，坐地铁太麻烦了。</text>
+
+<text 
+x="310" 
+y="898" 
+dx="0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5" 
+class="s4_305"
+>你开车送我去机场，好吗？</text>
+
+<text 
+x="309" 
+y="925" 
+dx="0,0.2,0.2,0.2,0.2,-0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s5_305"
+>Yīng’ài, zuò dìtiě tài máfan le. </text>
+
+<text 
+x="309" 
+y="953" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_305"
+>Nǐ kāi chē sòng wǒ qù jīchǎng, hǎo ma?</text>
+
+<text 
+x="309" 
+y="980" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.9,0" 
+class="s2_305"
+>Ying’ai, it’s too much trouble to take the subway. </text>
+
+<text 
+x="309" 
+y="1008" 
+dx="0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_305"
+>Would you drive me to the airport instead?</text>
+
+<text 
+x="206" 
+y="1049" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_305"
+>Bai Ying’ai </text>
+
+<text 
+x="303" 
+y="1049" 
+dx="0,0,0,0" 
+class="s4_305"
+>没问题。</text>
+
+<text 
+x="307" 
+y="1076" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_305"
+>Méi wèntí.</text>
+
+<text 
+x="306" 
+y="1104" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_305"
+>Sure thing.</text>
+
+<text 
+x="206" 
+y="71" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_305"
+>Little Li </text>
+
+<text 
+x="308" 
+y="71" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_305"
+>喂，请问小王在吗？</text>
+
+<text 
+x="309" 
+y="98" 
+dx="0,-1.7,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-1.6,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_305"
+>Wéi, qǐng wèn Xiǎo Wáng zài ma?</text>
+
+<text 
+x="309" 
+y="126" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.6" 
+class="s2_305"
+>Hello! Is Little Wang there, please?</text>
+
+<text 
+x="206" 
+y="167" 
+dx="0,0,0,0,0,-0.7,0,0,0" 
+class="s3_305"
+>Old Wang </text>
+
+<text 
+x="309" 
+y="167" 
+dx="0,0,0,0,0,0,0" 
+class="s4_305"
+>在，你是哪位？</text>
+
+<text 
+x="309" 
+y="195" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_305"
+>Zài, nǐ shì nǎ wèi?</text>
+
+<text 
+x="309" 
+y="222" 
+dx="0,-1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6" 
+class="s2_305"
+>Yes, he is. Who is this, please?</text>
+
+<text 
+x="206" 
+y="263" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_305"
+>Little Li </text>
+
+<text 
+x="310" 
+y="263" 
+dx="0,0,0,0,0" 
+class="s4_305"
+>我是小李。</text>
+
+<text 
+x="309" 
+y="291" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_305"
+>Wǒ shì Xiǎo Lǐ.</text>
+
+<text 
+x="309" 
+y="318" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_305"
+>This is Little Li.</text>
+
+<text 
+x="206" 
+y="360" 
+dx="0,0,0,0,0,-0.7,0,0,0" 
+class="s3_305"
+>Old Wang </text>
+
+<text 
+x="309" 
+y="360" 
+dx="0,0,0,0,0,0,0" 
+class="s4_305"
+>好，请等一下。</text>
+
+<text 
+x="309" 
+y="387" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_305"
+>Hǎo, qǐng děng yí xià.</text>
+
+<text 
+x="309" 
+y="415" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s2_305"
+>OK. Please wait a minute.</text>
+
+<path d="M134,846.8c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0,7.6,7.6,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,0,-7.6,-7.6,-7.6l-22.4,0Z" class="g3_305" />
+<path d="M134,848.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_305" />
+<text 
+x="139" 
+y="870" 
+dx="0" 
+class="s6_305"
+>B</text>
+
+<path d="M133.5,608.1c-0.1,0,-7.7,0,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g3_305" />
+<path d="M133.5,610.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_305" />
+<text 
+x="138" 
+y="631" 
+dx="0" 
+class="s6_305"
+>A</text>
+
+<path d="M121.4,457.4l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g3_305" />
+<path d="M123.5,509.6l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g4_305" />
+<path d="M120.6,512.7l680,0l0,-56.5l-680,0l0,56.5Z" class="g3_305" />
+<path d="M91,495.7l14.7,0" class="g5_305" />
+<text 
+x="90" 
+y="491" 
+dx="0" 
+class="s7_305"
+>2</text>
+
+<text 
+x="301" 
+y="493" 
+dx="0,0,0,0" 
+class="s8_305"
+>没问题 </text>
+
+<text 
+x="390" 
+y="493" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_305"
+>(méi wèntí)</text>
+
+<text 
+x="483" 
+y="493" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_305"
+>(no problem)</text>
+
+<path d="M133.5,49.3c-0.1,0,-7.7,0,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g3_305" />
+<path d="M133.5,51.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g4_305" />
+<text 
+x="138" 
+y="72" 
+dx="0" 
+class="s6_305"
+>C</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Regular_36t;
+	src: url("fonts/ProximaNova-Regular_36t.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_36v;
+	src: url("fonts/ProximaNova-Extrabld_36v.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_36k;
+	src: url("fonts/ProximaNova-Bold_36k.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_36w;
+	src: url("fonts/ProximaNova-Semibold_36w.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

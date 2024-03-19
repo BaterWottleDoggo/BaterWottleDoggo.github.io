@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 246 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_246"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_246{
+fill: #28449C;
+}
+.g2_246{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_246{
+fill: #28449C;
+stroke: #DCDDDF;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_246{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g5_246{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g6_246{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7654167;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_246{
+font-size: 22.92px;
+font-family: LibreFranklin-ExtraBold_d9f;
+fill: #FFFFFF;
+}
+.s2_246{
+font-size: 14.51px;
+font-family: LibreFranklin-Bold_d98;
+fill: #231F20;
+}
+.s3_246{
+font-size: 15.28px;
+font-family: Wingdings2_cft;
+fill: #E5C354;
+}
+.s4_246{
+font-size: 13.37px;
+font-family: LibreFranklin-Medium_d9h;
+fill: #231F20;
+}
+.s5_246{
+font-size: 32.85px;
+font-family: LibreFranklin-ExtraBold_d9f;
+fill: #FFFFFF;
+}
+.s6_246{
+font-size: 27.50px;
+font-family: SourceHanSansCN-Medium_cfk;
+fill: #FFFFFF;
+}
+.s7_246{
+font-size: 27.50px;
+font-family: SourceHanSansTW-Medium_ceq;
+fill: #FFFFFF;
+}
+.s8_246{
+font-size: 91.67px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #28449C;
+}
+.s9_246{
+font-size: 91.67px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #28449C;
+}
+.s10_246{
+font-size: 36.67px;
+font-family: MuseoSlab-900_d9d;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image preserveAspectRatio="none" x="20" y="22" width="877" height="912" xlink:href="246/img/1.png" />
+<image preserveAspectRatio="none" x="133" y="562" width="651" height="105" xlink:href="246/img/2.png" />
+<image preserveAspectRatio="none" x="133" y="676" width="651" height="105" xlink:href="246/img/3.png" />
+<path d="M721.9,152.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.5,3.6,3.5l118.6,0c0,0,3.6,0,3.6,-3.5l0,-42.1c0,0,0,-3.5,-3.6,-3.5Z" class="g1_246" />
+<path d="M721.9,152.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.5,3.6,3.5l118.6,0c0,0,3.6,0,3.6,-3.5l0,-42.1c0,0,0,-3.5,-3.6,-3.5l-118.6,0Z" class="g2_246" />
+<path d="M721.9,212.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.6,3.6,3.6l118.6,0c0,0,3.6,0,3.6,-3.6l0,-42.1c0,0,0,-3.5,-3.6,-3.5Z" class="g1_246" />
+<path d="M721.9,212.6c0,0,-3.6,0,-3.6,3.5l0,42.1c0,0,0,3.6,3.6,3.6l118.6,0c0,0,3.6,0,3.6,-3.6l0,-42.1c0,0,0,-3.5,-3.6,-3.5l-118.6,0Z" class="g2_246" />
+<path d="M473.2,956.6l310.4,0l0,-46l-310.4,0l0,46Z" class="g3_246" />
+<path d="M133.2,956.6l310.4,0l0,-46l-310.4,0l0,46Z" class="g3_246" />
+<text 
+x="175" 
+y="939" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.5,0.2" 
+class="s1_246"
+>Learning Objectives</text>
+
+<text 
+x="161" 
+y="987" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s2_246"
+>In this lesson, you will learn to:</text>
+
+<text 
+x="163" 
+y="1012" 
+dx="0" 
+class="s3_246"
+></text>
+
+<text 
+x="182" 
+y="1012" 
+dx="0,0,0,0,-0.1,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s4_246"
+>Narrate the general timeline of </text>
+
+<text 
+x="182" 
+y="1030" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_246"
+>Chinese history</text>
+
+<text 
+x="163" 
+y="1052" 
+dx="0" 
+class="s3_246"
+></text>
+
+<text 
+x="182" 
+y="1052" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_246"
+>Describe the historical significance </text>
+
+<text 
+x="182" 
+y="1070" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_246"
+>of major Chinese dynasties</text>
+
+<text 
+x="163" 
+y="1091" 
+dx="0" 
+class="s3_246"
+></text>
+
+<text 
+x="182" 
+y="1091" 
+dx="0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s4_246"
+>Talk about important Chinese material </text>
+
+<text 
+x="182" 
+y="1110" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_246"
+>and cultural artifacts</text>
+
+<text 
+x="163" 
+y="1131" 
+dx="0" 
+class="s3_246"
+></text>
+
+<text 
+x="182" 
+y="1131" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s4_246"
+>Discuss the contributions of key Chinese </text>
+
+<text 
+x="182" 
+y="1149" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_246"
+>historical figures </text>
+
+<text 
+x="506" 
+y="939" 
+dx="0,0.2,0.2,0.2,0.2,-0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s1_246"
+>Relate and Get Ready</text>
+
+<text 
+x="500" 
+y="987" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_246"
+>In your own culture/community:</text>
+
+<text 
+x="502" 
+y="1012" 
+dx="0" 
+class="s3_246"
+></text>
+
+<text 
+x="521" 
+y="1012" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_246"
+>In what ways is history remembered?</text>
+
+<text 
+x="502" 
+y="1033" 
+dx="0" 
+class="s3_246"
+></text>
+
+<text 
+x="521" 
+y="1033" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,-0.4,0,0" 
+class="s4_246"
+>What historical events are perceived </text>
+
+<text 
+x="521" 
+y="1052" 
+dx="0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_246"
+>as foundational? </text>
+
+<text 
+x="502" 
+y="1073" 
+dx="0" 
+class="s3_246"
+></text>
+
+<text 
+x="521" 
+y="1073" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s4_246"
+>Do people lay claim to any </text>
+
+<text 
+x="521" 
+y="1091" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0" 
+class="s4_246"
+>world-famous inventions?</text>
+
+<text 
+x="700" 
+y="117" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_246"
+>Lesson 18</text>
+
+<text 
+x="727" 
+y="187" 
+dx="0,-1.4,-1.4,-1.4" 
+class="s6_246"
+>第十八课</text>
+
+<text 
+x="727" 
+y="248" 
+dx="0,-1.4,-1.4,-1.4" 
+class="s7_246"
+>第十八課</text>
+
+<g clip-path="url(#c0_246)">
+<path d="M670,134.3l302.8,0" class="g4_246" />
+<path d="M670,136.4l302.8,0" class="g5_246" />
+</g>
+<text 
+x="275" 
+y="640" 
+dx="0,0,0,0" 
+class="s8_246"
+>中国历史</text>
+
+<text 
+x="275" 
+y="756" 
+dx="0,0,0,0" 
+class="s9_246"
+>中國歷史</text>
+
+<text 
+x="283" 
+y="854" 
+dx="0,0,0,0,-0.4,-1,0,0,0,0,0,0,0,0,-0.5" 
+class="s10_246"
+>CHINA’S HISTORY</text>
+
+<path d="M137.4,808.5l0,60.8l0,1.1l1.1,0l645.8,0l1.2,0l0,-1.1l0,-60.8l0,-1.2l-1.2,0l-645.8,0l-1.1,0l0,1.2Z" class="g2_246" />
+<path d="M140.4,867.4l642,0l0,-57l-642,0l0,57Z" class="g6_246" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_d98;
+	src: url("fonts/LibreFranklin-Bold_d98.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Medium_ceq;
+	src: url("fonts/SourceHanSansTW-Medium_ceq.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-900_d9d;
+	src: url("fonts/MuseoSlab-900_d9d.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_d9h;
+	src: url("fonts/LibreFranklin-Medium_d9h.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_cfk;
+	src: url("fonts/SourceHanSansCN-Medium_cfk.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_d9f;
+	src: url("fonts/LibreFranklin-ExtraBold_d9f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings2_cft;
+	src: url("fonts/Wingdings2_cft.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

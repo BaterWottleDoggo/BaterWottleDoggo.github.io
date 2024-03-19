@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 337 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_337{
+fill: none;
+stroke: #3F3F40;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_337{
+fill: #EBECF2;
+fill-opacity: 0.5;
+}
+.g3_337{
+fill: none;
+stroke: #365B8C;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+stroke-opacity: 0.149994;
+}
+.g4_337{
+fill: none;
+stroke: #365B8C;
+stroke-width: 1.4895833;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+stroke-opacity: 0.149994;
+stroke-dasharray: 0,3;
+}
+.g5_337{
+fill: none;
+stroke: #365B8C;
+stroke-width: 1.4895833;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+stroke-opacity: 0.149994;
+stroke-dasharray: 0,4;
+}
+.g6_337{
+fill: #365B8C;
+}
+.g7_337{
+fill: #CCCFDF;
+}
+.g8_337{
+fill: none;
+stroke: #A3AAC6;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_337{
+fill: none;
+stroke: #A3AAC6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_337{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_337{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_43y;
+fill: #3F3F40;
+}
+.s2_337{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_337{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s4_337{
+font-size: 59.45px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s5_337{
+font-size: 59.45px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #3F3F40;
+}
+.s6_337{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_43z;
+fill: #FFFFFF;
+}
+.s7_337{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_43z;
+fill: #365B8C;
+}
+.s8_337{
+font-size: 12.99px;
+font-family: LibreFranklin-Bold_43q;
+fill: #365B8C;
+}
+.s9_337{
+font-size: 12.99px;
+font-family: LibreFranklin-Bold_43q;
+fill: #FFFFFF;
+}
+.s10_337{
+font-size: 33.08px;
+font-family: ProximaNova-Bold_44r;
+fill: #B1B6CC;
+}
+.s11_337{
+font-size: 20.63px;
+font-family: Museo-700_44q;
+fill: #365B8C;
+}
+.s12_337{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_43z;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M364.5,126.7l155.8,0" class="g1_337" />
+<path d="M161.9,160.3l155.9,0" class="g1_337" />
+<path d="M343.8,160.3l155.8,0" class="g1_337" />
+<path d="M161.9,193.9l207.8,0" class="g1_337" />
+<path d="M364.5,241.3l155.8,0" class="g1_337" />
+<path d="M161.9,274.9l155.9,0" class="g1_337" />
+<path d="M343.8,274.9l155.8,0" class="g1_337" />
+<path d="M161.9,308.5l207.8,0" class="g1_337" />
+<path d="M187.9,824.1l155.9,0" class="g1_337" />
+<path d="M187.9,871.5l155.9,0" class="g1_337" />
+<text 
+x="161" 
+y="69" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-1.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s1_337"
+>Then recommend one destination that you think would be ideal to visit in summer or winter, e.g.:</text>
+
+<text 
+x="161" 
+y="123" 
+dx="0,0,0" 
+class="s2_337"
+>夏天（</text>
+
+<text 
+x="239" 
+y="123" 
+dx="0,0" 
+class="s1_337"
+>or</text>
+
+<text 
+x="260" 
+y="123" 
+dx="0,0,0,0" 
+class="s2_337"
+>冬天）去</text>
+
+<text 
+x="520" 
+y="123" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_337"
+>旅游最好不过了，因为</text>
+
+<text 
+x="317" 
+y="156" 
+dx="0" 
+class="s2_337"
+>，</text>
+
+<text 
+x="499" 
+y="156" 
+dx="0,0,0,0" 
+class="s2_337"
+>；另外（</text>
+
+<text 
+x="603" 
+y="156" 
+dx="0,0" 
+class="s1_337"
+>or</text>
+
+<text 
+x="624" 
+y="156" 
+dx="0,0,0,0" 
+class="s2_337"
+>再说），</text>
+
+<text 
+x="369" 
+y="190" 
+dx="0,0" 
+class="s2_337"
+>……</text>
+
+<text 
+x="161" 
+y="237" 
+dx="0,0,0" 
+class="s3_337"
+>夏天（</text>
+
+<text 
+x="239" 
+y="237" 
+dx="0,0" 
+class="s1_337"
+>or</text>
+
+<text 
+x="260" 
+y="237" 
+dx="0,0,0,0" 
+class="s3_337"
+>冬天）去</text>
+
+<text 
+x="520" 
+y="237" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_337"
+>旅遊最好不過了，因為</text>
+
+<text 
+x="317" 
+y="271" 
+dx="0" 
+class="s3_337"
+>，</text>
+
+<text 
+x="499" 
+y="271" 
+dx="0,0,0,0" 
+class="s3_337"
+>；另外（</text>
+
+<text 
+x="603" 
+y="271" 
+dx="0,0" 
+class="s1_337"
+>or</text>
+
+<text 
+x="624" 
+y="271" 
+dx="0,0,0,0" 
+class="s3_337"
+>再說），</text>
+
+<text 
+x="369" 
+y="305" 
+dx="0,0" 
+class="s3_337"
+>……</text>
+
+<text 
+x="161" 
+y="349" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,-0.4,0,0,0,0,0,0,-0.9,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_337"
+>After listening to everyone’s recommendations, group people with the same recommendations </text>
+
+<text 
+x="161" 
+y="372" 
+dx="0,-0.2,0,-0.1,-0.1,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_337"
+>together. Open the floor to debate. Each group should defend its recommendations and point </text>
+
+<text 
+x="161" 
+y="395" 
+dx="0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.1,0,0,0,0,0,-0.1,0,0,0" 
+class="s1_337"
+>out why other places are not as good.</text>
+
+<text 
+x="161" 
+y="431" 
+dx="0,-1,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_337"
+>Words you can use to present your arguments in a coherent and cohesive manner include, </text>
+
+<text 
+x="161" 
+y="454" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0" 
+class="s1_337"
+>but are not limited to:</text>
+
+<text 
+x="161" 
+y="516" 
+dx="0,0,0" 
+class="s2_337"
+>认为/</text>
+
+<text 
+x="226" 
+y="516" 
+dx="0,0" 
+class="s3_337"
+>認為</text>
+
+<text 
+x="355" 
+y="516" 
+dx="0,0,0,0" 
+class="s2_337"
+>不见得/</text>
+
+<text 
+x="446" 
+y="516" 
+dx="0,0,0" 
+class="s3_337"
+>不見得</text>
+
+<text 
+x="597" 
+y="516" 
+dx="0,0,0" 
+class="s2_337"
+>考虑/</text>
+
+<text 
+x="662" 
+y="516" 
+dx="0,0" 
+class="s3_337"
+>考慮</text>
+
+<text 
+x="161" 
+y="557" 
+dx="0,0,0" 
+class="s2_337"
+>同意 </text>
+
+<text 
+x="355" 
+y="557" 
+dx="0,0,0" 
+class="s2_337"
+>比较/</text>
+
+<text 
+x="420" 
+y="557" 
+dx="0,0" 
+class="s3_337"
+>比較</text>
+
+<text 
+x="597" 
+y="557" 
+dx="0,0,0,0" 
+class="s2_337"
+>比方说/</text>
+
+<text 
+x="688" 
+y="557" 
+dx="0,0,0" 
+class="s3_337"
+>比方說</text>
+
+<text 
+x="161" 
+y="599" 
+dx="0,0,0" 
+class="s2_337"
+>反对/</text>
+
+<text 
+x="226" 
+y="599" 
+dx="0,0" 
+class="s3_337"
+>反對</text>
+
+<text 
+x="355" 
+y="599" 
+dx="0,0,0,0" 
+class="s2_337"
+>实际上/</text>
+
+<text 
+x="446" 
+y="599" 
+dx="0,0,0" 
+class="s3_337"
+>實際上</text>
+
+<text 
+x="597" 
+y="599" 
+dx="0,0,0,0" 
+class="s2_337"
+>呢…呢…</text>
+
+<text 
+x="161" 
+y="640" 
+dx="0,0,0" 
+class="s2_337"
+>看法 </text>
+
+<text 
+x="355" 
+y="640" 
+dx="0,0,0" 
+class="s2_337"
+>结果/</text>
+
+<text 
+x="420" 
+y="640" 
+dx="0,0" 
+class="s3_337"
+>結果</text>
+
+<text 
+x="597" 
+y="640" 
+dx="0,0,0,0,0,0,0" 
+class="s2_337"
+>不是…，而是…</text>
+
+<text 
+x="161" 
+y="681" 
+dx="0,0,0" 
+class="s2_337"
+>恐怕 </text>
+
+<text 
+x="355" 
+y="681" 
+dx="0,0,0" 
+class="s2_337"
+>建议/</text>
+
+<text 
+x="420" 
+y="681" 
+dx="0,0" 
+class="s3_337"
+>建議</text>
+
+<text 
+x="161" 
+y="722" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_337"
+>要么…，要么…/</text>
+
+<text 
+x="356" 
+y="722" 
+dx="0,0,0,0,0,0,0" 
+class="s3_337"
+>要麼…，要麼…</text>
+
+<text 
+x="161" 
+y="766" 
+dx="0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s1_337"
+>Finally, the class should vote on the best place in China to visit.</text>
+
+<text 
+x="161" 
+y="820" 
+dx="0" 
+class="s2_337"
+>去</text>
+
+<text 
+x="343" 
+y="820" 
+dx="0,0,0,0,0" 
+class="s2_337"
+>旅游最好（</text>
+
+<text 
+x="473" 
+y="820" 
+dx="0,0" 
+class="s1_337"
+>or</text>
+
+<text 
+x="494" 
+y="820" 
+dx="0,0,0,0,0" 
+class="s2_337"
+>最合适）。</text>
+
+<text 
+x="161" 
+y="868" 
+dx="0" 
+class="s3_337"
+>去</text>
+
+<text 
+x="343" 
+y="868" 
+dx="0,0,0,0,0" 
+class="s3_337"
+>旅遊最好（</text>
+
+<text 
+x="473" 
+y="868" 
+dx="0,0" 
+class="s1_337"
+>or</text>
+
+<text 
+x="494" 
+y="868" 
+dx="0,0,0,0,0" 
+class="s3_337"
+>最合適）。</text>
+
+<path d="M598,1113.6l222.1,0l0,-112.7l-222.1,0l0,112.7Z" class="g2_337" />
+<path d="M135.5,1113.6l226.1,0l0,-112.7l-226.1,0l0,112.7Z" class="g2_337" />
+<path d="M166.1,1095.6l70.6,0l0,-70.6l-70.6,0l0,70.6Z" class="g3_337" />
+<path d="M201.4,1029.4l0,63.3" class="g4_337" />
+<path d="M232.3,1060.3l-63.3,0" class="g4_337" />
+<path d="M232.4,1029.3l-63.2,63.1" class="g5_337" />
+<path d="M232.4,1091.4l-63.2,-63.2" class="g5_337" />
+<text 
+x="171" 
+y="1078" 
+dx="0" 
+class="s4_337"
+>济</text>
+
+<path d="M274.8,1095.6l70.5,0l0,-70.6l-70.5,0l0,70.6Z" class="g3_337" />
+<path d="M310,1029.4l0,63.3" class="g4_337" />
+<path d="M341,1060.3l-63.4,0" class="g4_337" />
+<path d="M341.1,1029.3l-63.2,63.1" class="g5_337" />
+<path d="M341.1,1091.4l-63.2,-63.2" class="g5_337" />
+<path d="M623,1095.6l70.6,0l0,-70.6l-70.6,0l0,70.6Z" class="g3_337" />
+<path d="M658.3,1029.4l0,63.3" class="g4_337" />
+<path d="M689.3,1060.3l-63.4,0" class="g4_337" />
+<path d="M689.4,1029.3l-63.2,63.1" class="g5_337" />
+<path d="M689.4,1091.4l-63.2,-63.2" class="g5_337" />
+<path d="M730.6,1095.6l70.5,0l0,-70.6l-70.5,0l0,70.6Z" class="g3_337" />
+<path d="M765.8,1029.4l0,63.3" class="g4_337" />
+<path d="M796.8,1060.3l-63.4,0" class="g4_337" />
+<path d="M796.9,1029.3l-63.2,63.1" class="g5_337" />
+<path d="M796.9,1091.4l-63.2,-63.2" class="g5_337" />
+<text 
+x="280" 
+y="1078" 
+dx="0" 
+class="s4_337"
+>挤</text>
+
+<text 
+x="628" 
+y="1078" 
+dx="0" 
+class="s5_337"
+>濟</text>
+
+<text 
+x="736" 
+y="1078" 
+dx="0" 
+class="s5_337"
+>擠</text>
+
+<path d="M361.6,1059.2l236.5,0l0,-46.8l-236.5,0l0,46.8Z" class="g6_337" />
+<path d="M361.6,1105.8l236.5,0l0,-46.8l-236.5,0l0,46.8Z" class="g7_337" />
+<text 
+x="440" 
+y="1032" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_337"
+>Identify the </text>
+
+<text 
+x="407" 
+y="1050" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_337"
+>common component.</text>
+
+<text 
+x="430" 
+y="1079" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_337"
+>What does the </text>
+
+<text 
+x="401" 
+y="1096" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0" 
+class="s7_337"
+>component represent?</text>
+
+<path d="M622.3,1029.8c4.8,0,8.7,-3.9,8.7,-8.8c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.9,3.9,8.8,8.7,8.8Z" class="g7_337" />
+<text 
+x="618" 
+y="1025" 
+dx="0" 
+class="s8_337"
+>1</text>
+
+<path d="M274,1029.8c4.8,0,8.7,-3.9,8.7,-8.8c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.9,3.9,8.8,8.7,8.8Z" class="g6_337" />
+<text 
+x="269" 
+y="1025" 
+dx="0" 
+class="s9_337"
+>2</text>
+
+<path d="M167.5,1029.9c4.9,0,8.8,-3.9,8.8,-8.7c0,-4.8,-3.9,-8.7,-8.8,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.8,3.9,8.7,8.7,8.7Z" class="g6_337" />
+<text 
+x="164" 
+y="1025" 
+dx="0" 
+class="s9_337"
+>1</text>
+
+<path d="M729.8,1029.8c4.8,0,8.7,-3.9,8.7,-8.8c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.9,3.9,8.8,8.7,8.8Z" class="g7_337" />
+<text 
+x="725" 
+y="1025" 
+dx="0" 
+class="s8_337"
+>2</text>
+
+<path d="M92.3,986.5l-51.4,0" class="g8_337" />
+<path d="M276.1,994.2l0,-29.1l-183.8,0l0,41.4l37.6,0" class="g9_337" />
+<text 
+x="233" 
+y="995" 
+dx="0,0,0" 
+class="s10_337"
+>it!</text>
+
+<text 
+x="102" 
+y="990" 
+dx="0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s11_337"
+>Characterize</text>
+
+<path d="M-26.6,1209.2l67.1,0l0,-1222.1l-67.1,0l0,1222.1Z" class="g10_337" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s12_337"
+>314 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1130)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s12_337"
+>Integrated Chinese 3 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 989)"
+dx="0,1" 
+class="s12_337"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 976)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s12_337"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: Museo-700_44q;
+	src: url("fonts/Museo-700_44q.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_43q;
+	src: url("fonts/LibreFranklin-Bold_43q.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_44r;
+	src: url("fonts/ProximaNova-Bold_44r.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_43z;
+	src: url("fonts/LibreFranklin-SemiBold_43z.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_43y;
+	src: url("fonts/LibreFranklin-Regular_43y.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

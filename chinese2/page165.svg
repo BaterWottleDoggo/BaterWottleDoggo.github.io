@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 186 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_186"><path d="M202.5,1112.7l0,-17.1l17.1,0l0,17.1Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_186{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_186{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_186{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_186{
+fill: #F0F1F2;
+}
+.g5_186{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_186{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_186{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_186{
+fill: #DC262E;
+}
+.g9_186{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g10_186{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g11_186{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g12_186{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_186{
+font-size: 35.14px;
+font-family: ProximaNova-Extrabld_30a;
+fill: #007598;
+}
+.s2_186{
+font-size: 19.86px;
+font-family: ProximaNova-Extrabld_30a;
+fill: #007D9F;
+}
+.s3_186{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_306;
+fill: #007D9F;
+}
+.s4_186{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #007598;
+}
+.s5_186{
+font-size: 17.57px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s6_186{
+font-size: 15.28px;
+font-family: ProximaNova-Light_30o;
+fill: #3F3F40;
+}
+.s7_186{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_306;
+fill: #007598;
+}
+.s8_186{
+font-size: 14.51px;
+font-family: ProximaNova-Regular_30p;
+fill: #3F3F40;
+}
+.s9_186{
+font-size: 32.85px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007598;
+}
+.s10_186{
+font-size: 16.81px;
+font-family: Marion-Regular_30z;
+fill: #231F20;
+}
+.s11_186{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #231F20;
+}
+.s12_186{
+font-size: 15.28px;
+font-family: ProximaNova-Regular_30p;
+fill: #3F3F40;
+}
+.s13_186{
+font-size: 32.85px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s14_186{
+font-size: 8.91px;
+font-family: ProximaNova-Bold_306;
+fill: #007598;
+}
+.s15_186{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #007598;
+}
+.s16_186{
+font-size: 14.51px;
+font-family: ProximaNova-Light_30o;
+fill: #3F3F40;
+}
+.s17_186{
+font-size: 18.33px;
+font-family: MinionPro-Regular_30y;
+fill: #3F3F40;
+}
+.s18_186{
+font-size: 8.02px;
+font-family: ProximaNova-Regular_30p;
+fill: #3F3F40;
+}
+.s19_186{
+font-size: 13.75px;
+font-family: ProximaNova-Regular_30p;
+fill: #3F3F40;
+}
+.s20_186{
+font-size: 20.63px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #231F20;
+}
+.s21_186{
+font-size: 20.63px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007D9F;
+}
+.s22_186{
+font-size: 20.63px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007598;
+}
+.s23_186{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_30m;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,74.7l195,0" class="g1_186" />
+<path d="M0,77.2l195,0" class="g2_186" />
+<path d="M105.3,148.4l13,0" class="g3_186" />
+<text 
+x="41" 
+y="64" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s1_186"
+>Grammar</text>
+
+<text 
+x="105" 
+y="144" 
+dx="0,0" 
+class="s2_186"
+>4 </text>
+
+<text 
+x="376" 
+y="149" 
+dx="0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,0" 
+class="s3_186"
+>Time expressions</text>
+
+<text 
+x="143" 
+y="211" 
+dx="0" 
+class="s4_186"
+>年</text>
+
+<text 
+x="168" 
+y="211" 
+dx="0,0,0,0,0,0" 
+class="s5_186"
+>(nián)</text>
+
+<text 
+x="208" 
+y="211" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_186"
+>(year), </text>
+
+<text 
+x="251" 
+y="211" 
+dx="0" 
+class="s4_186"
+>月</text>
+
+<text 
+x="277" 
+y="211" 
+dx="0,0,0,0,0" 
+class="s5_186"
+>(yuè)</text>
+
+<text 
+x="310" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>(month), </text>
+
+<text 
+x="365" 
+y="211" 
+dx="0,0" 
+class="s4_186"
+>星期</text>
+
+<text 
+x="412" 
+y="211" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_186"
+>(xīngqī)</text>
+
+<text 
+x="461" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>(week), and </text>
+
+<text 
+x="540" 
+y="211" 
+dx="0" 
+class="s4_186"
+>天</text>
+
+<text 
+x="565" 
+y="211" 
+dx="0,0,0,0,0,0" 
+class="s5_186"
+>(tiān)</text>
+
+<text 
+x="602" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>(day) are all nouns, but</text>
+
+<text 
+x="143" 
+y="238" 
+dx="0" 
+class="s4_186"
+>年</text>
+
+<text 
+x="168" 
+y="238" 
+dx="0,0,0,0,0,0" 
+class="s5_186"
+>(nián)</text>
+
+<text 
+x="208" 
+y="238" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>(year) and</text>
+
+<text 
+x="273" 
+y="238" 
+dx="0" 
+class="s4_186"
+>天</text>
+
+<text 
+x="298" 
+y="238" 
+dx="0,0,0,0,0,0" 
+class="s5_186"
+>(tiān)</text>
+
+<text 
+x="334" 
+y="238" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0" 
+class="s6_186"
+>(day) are also measure words. Therefore, they are used differently, </text>
+
+<text 
+x="143" 
+y="266" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7" 
+class="s6_186"
+>following the patterns below.</text>
+
+<path d="M96.3,312.1l339.8,0l0,58.1l-339.8,0l0,-58.1Zm339.9,0l428.5,0l0,58.1l-428.5,0l0,-58.1Z" class="g4_186" />
+<path d="M96.3,312.1l339.8,0" class="g5_186" />
+<path d="M436.2,312.1l428.5,0" class="g5_186" />
+<path d="M96.3,370.2l339.8,0" class="g6_186" />
+<path d="M436.2,370.2l428.5,0" class="g6_186" />
+<path d="M96.3,471l339.8,0" class="g7_186" />
+<path d="M436.2,471l428.5,0" class="g7_186" />
+<text 
+x="110" 
+y="298" 
+dx="0,-0.3,0,0,0,0,0" 
+class="s7_186"
+>Pattern</text>
+
+<text 
+x="449" 
+y="298" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_186"
+>Examples</text>
+
+<text 
+x="110" 
+y="352" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s8_186"
+>Numeral +</text>
+
+<text 
+x="179" 
+y="352" 
+dx="0,0,0" 
+class="s9_186"
+>年/天</text>
+
+<text 
+x="449" 
+y="352" 
+dx="0,0" 
+class="s9_186"
+>一年</text>
+
+<text 
+x="519" 
+y="352" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="524" 
+y="352" 
+dx="0,0,0,0,0,0,0" 
+class="s11_186"
+>yì nián</text>
+
+<text 
+x="564" 
+y="352" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="573" 
+y="352" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_186"
+>(one year),</text>
+
+<text 
+x="647" 
+y="352" 
+dx="0,0" 
+class="s9_186"
+>五天</text>
+
+<text 
+x="717" 
+y="352" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="721" 
+y="352" 
+dx="0,0,0,0,0,0,0" 
+class="s11_186"
+>wǔ tiān</text>
+
+<text 
+x="765" 
+y="352" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="774" 
+y="352" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_186"
+>(five days)</text>
+
+<text 
+x="110" 
+y="432" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0" 
+class="s8_186"
+>Numeral + Measure Word + </text>
+
+<text 
+x="286" 
+y="432" 
+dx="0,0,0,0" 
+class="s13_186"
+>月/星期</text>
+
+<text 
+x="449" 
+y="412" 
+dx="0,0,0" 
+class="s9_186"
+>一个月</text>
+
+<text 
+x="552" 
+y="412" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="557" 
+y="412" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>yí ge yuè</text>
+
+<text 
+x="606" 
+y="412" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="615" 
+y="412" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_186"
+>(one month),</text>
+
+<text 
+x="449" 
+y="452" 
+dx="0,0,0,0" 
+class="s9_186"
+>三个星期</text>
+
+<text 
+x="585" 
+y="452" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="590" 
+y="452" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>sān ge xīngqī</text>
+
+<text 
+x="663" 
+y="452" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="672" 
+y="452" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s12_186"
+>(three weeks)</text>
+
+<text 
+x="96" 
+y="506" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>“One week” is </text>
+
+<text 
+x="193" 
+y="506" 
+dx="0,0,0,0" 
+class="s4_186"
+>一个星期</text>
+
+<text 
+x="283" 
+y="506" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_186"
+>(yí ge xīngqī)</text>
+
+<text 
+x="359" 
+y="506" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>, therefore “one week later” is </text>
+
+<text 
+x="559" 
+y="506" 
+dx="0,0,0,0,0,0" 
+class="s4_186"
+>一个星期以后</text>
+
+<text 
+x="691" 
+y="506" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_186"
+>(yí ge xīngqī yǐhòu)</text>
+
+<text 
+x="804" 
+y="506" 
+dx="0,0" 
+class="s6_186"
+>. </text>
+
+<text 
+x="96" 
+y="526" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>“One month” is </text>
+
+<text 
+x="199" 
+y="526" 
+dx="0,0,0" 
+class="s4_186"
+>一个月</text>
+
+<text 
+x="267" 
+y="526" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_186"
+>(yí ge yuè)</text>
+
+<text 
+x="327" 
+y="526" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>, therefore “one month later” is </text>
+
+<text 
+x="533" 
+y="526" 
+dx="0,0,0,0,0" 
+class="s4_186"
+>一个月以后</text>
+
+<text 
+x="644" 
+y="526" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_186"
+>(yí ge yuè yǐhòu)</text>
+
+<text 
+x="741" 
+y="526" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>. Please note that </text>
+
+<text 
+x="96" 
+y="546" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>“one month” is not </text>
+
+<text 
+x="221" 
+y="546" 
+dx="0,0" 
+class="s4_186"
+>一月</text>
+
+<text 
+x="268" 
+y="546" 
+dx="0,0,0,0,0,0,0" 
+class="s5_186"
+>(yīyuè)</text>
+
+<text 
+x="311" 
+y="546" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>(January). The time expressions </text>
+
+<text 
+x="522" 
+y="546" 
+dx="0" 
+class="s4_186"
+>月</text>
+
+<text 
+x="547" 
+y="546" 
+dx="0,0,0,0,0" 
+class="s5_186"
+>(yuè)</text>
+
+<text 
+x="580" 
+y="546" 
+dx="0,0,0,0" 
+class="s6_186"
+>and </text>
+
+<text 
+x="609" 
+y="546" 
+dx="0,0" 
+class="s4_186"
+>星期</text>
+
+<text 
+x="656" 
+y="546" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_186"
+>(xīngqī)</text>
+
+<text 
+x="705" 
+y="546" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>can be formed by using </text>
+
+<text 
+x="96" 
+y="566" 
+dx="0" 
+class="s4_186"
+>下</text>
+
+<text 
+x="121" 
+y="566" 
+dx="0,0,0,0,0" 
+class="s5_186"
+>(xià)</text>
+
+<text 
+x="152" 
+y="566" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>(below) and </text>
+
+<text 
+x="232" 
+y="566" 
+dx="0" 
+class="s4_186"
+>上</text>
+
+<text 
+x="258" 
+y="566" 
+dx="0,0,0,0,0,0,0" 
+class="s5_186"
+>(shàng)</text>
+
+<text 
+x="304" 
+y="566" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>(above), following the patterns below. “Below”</text>
+
+<text 
+x="605" 
+y="566" 
+dx="0,0,0" 
+class="s4_186"
+>（下）</text>
+
+<text 
+x="669" 
+y="566" 
+dx="0,0,0,0,0" 
+class="s5_186"
+>(xià)</text>
+
+<text 
+x="700" 
+y="566" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>is used to refer to weeks </text>
+
+<text 
+x="96" 
+y="586" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>and months in the future, and “above”</text>
+
+<text 
+x="344" 
+y="586" 
+dx="0,0,0" 
+class="s4_186"
+>（上）</text>
+
+<text 
+x="408" 
+y="586" 
+dx="0,0,0,0,0,0,0" 
+class="s5_186"
+>(shàng)</text>
+
+<text 
+x="455" 
+y="586" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_186"
+>to refer to weeks and months in the past.</text>
+
+<path d="M96.3,654.1l363,0l0,87.1l-363,0l0,-87.1Zm363,0l405.9,0l0,87.1l-405.9,0l0,-87.1ZM96.3,828.3l363,0l0,87.1l-363,0l0,-87.1Zm363,0l405.9,0l0,87.1l-405.9,0l0,-87.1Zm-363,174.1l363,0l0,87.1l-363,0l0,-87.1Zm363,0l405.9,0l0,87.1l-405.9,0l0,-87.1Z" class="g4_186" />
+<path d="M96.3,654.1l363,0" class="g5_186" />
+<path d="M459.3,654.1l405.9,0" class="g5_186" />
+<path d="M96.3,741.2l363,0" class="g6_186" />
+<path d="M459.3,741.2l405.9,0" class="g6_186" />
+<path d="M96.3,828.3l363,0" class="g6_186" />
+<path d="M459.3,828.3l405.9,0" class="g6_186" />
+<path d="M96.3,915.4l363,0" class="g6_186" />
+<path d="M459.3,915.4l405.9,0" class="g6_186" />
+<path d="M96.3,1002.4l363,0" class="g6_186" />
+<path d="M459.3,1002.4l405.9,0" class="g6_186" />
+<path d="M96.3,1089.5l363,0" class="g7_186" />
+<path d="M459.3,1089.5l405.9,0" class="g7_186" />
+<path d="M96.3,1145.3l363,0" class="g7_186" />
+<path d="M459.3,1145.3l405.9,0" class="g7_186" />
+<text 
+x="110" 
+y="641" 
+dx="0" 
+class="s9_186"
+>月</text>
+
+<text 
+x="142" 
+y="624" 
+dx="0" 
+class="s14_186"
+>a</text>
+
+<text 
+x="151" 
+y="641" 
+dx="0,0,0,0,0" 
+class="s15_186"
+>(yuè)</text>
+
+<text 
+x="183" 
+y="641" 
+dx="0,0,0,0,0,0,0" 
+class="s7_186"
+>(month)</text>
+
+<text 
+x="465" 
+y="641" 
+dx="0,0" 
+class="s9_186"
+>星期</text>
+
+<text 
+x="531" 
+y="624" 
+dx="0" 
+class="s14_186"
+>b</text>
+
+<text 
+x="540" 
+y="641" 
+dx="0,0,0,0,0,0,0,0" 
+class="s15_186"
+>(xīngqī)</text>
+
+<text 
+x="587" 
+y="641" 
+dx="0,0,0,0,0,0" 
+class="s7_186"
+>(week)</text>
+
+<text 
+x="110" 
+y="695" 
+dx="0,0,0,0" 
+class="s9_186"
+>上上个月</text>
+
+<text 
+x="249" 
+y="695" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="254" 
+y="695" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>shàng shàng ge yuè</text>
+
+<text 
+x="362" 
+y="695" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="112" 
+y="718" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="116" 
+y="718" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_186"
+>the month before last</text>
+
+<text 
+x="249" 
+y="718" 
+dx="0" 
+class="s8_186"
+>)</text>
+
+<text 
+x="465" 
+y="695" 
+dx="0,0,0,0,0,0,0" 
+class="s13_186"
+>上上（个）星期</text>
+
+<text 
+x="699" 
+y="695" 
+dx="0" 
+class="s17_186"
+>(</text>
+
+<text 
+x="705" 
+y="695" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>shàng shàng [ge] xīngqī</text>
+
+<text 
+x="834" 
+y="695" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="468" 
+y="718" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="471" 
+y="718" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_186"
+>the week before last</text>
+
+<text 
+x="600" 
+y="718" 
+dx="0" 
+class="s8_186"
+>)</text>
+
+<text 
+x="110" 
+y="780" 
+dx="0,0,0" 
+class="s9_186"
+>上个月</text>
+
+<text 
+x="216" 
+y="780" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="221" 
+y="780" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>shàng ge yuè</text>
+
+<text 
+x="293" 
+y="780" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="114" 
+y="806" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="117" 
+y="806" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s16_186"
+>last month</text>
+
+<text 
+x="182" 
+y="806" 
+dx="0" 
+class="s8_186"
+>)</text>
+
+<text 
+x="465" 
+y="781" 
+dx="0,0,0,0,0,0" 
+class="s13_186"
+>上（个）星期</text>
+
+<text 
+x="666" 
+y="781" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="669" 
+y="781" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>shàng [ge] xīngqī</text>
+
+<text 
+x="762" 
+y="781" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="468" 
+y="805" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="471" 
+y="805" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s16_186"
+>last week</text>
+
+<text 
+x="530" 
+y="805" 
+dx="0" 
+class="s8_186"
+>)</text>
+
+<text 
+x="110" 
+y="867" 
+dx="0,0,0" 
+class="s9_186"
+>这个月</text>
+
+<text 
+x="216" 
+y="867" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="221" 
+y="867" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>zhè ge yuè</text>
+
+<text 
+x="279" 
+y="867" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="114" 
+y="893" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="117" 
+y="893" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s16_186"
+>this month</text>
+
+<text 
+x="182" 
+y="893" 
+dx="0" 
+class="s8_186"
+>)</text>
+
+<text 
+x="465" 
+y="868" 
+dx="0,0,0,0,0,0" 
+class="s9_186"
+>这（个）星期</text>
+
+<text 
+x="670" 
+y="868" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="675" 
+y="868" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>zhè [ge] xīngqī</text>
+
+<text 
+x="754" 
+y="868" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="468" 
+y="892" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="471" 
+y="892" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s16_186"
+>this week</text>
+
+<text 
+x="531" 
+y="892" 
+dx="0" 
+class="s8_186"
+>)</text>
+
+<text 
+x="110" 
+y="956" 
+dx="0,0,0" 
+class="s9_186"
+>下个月</text>
+
+<text 
+x="216" 
+y="956" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="221" 
+y="956" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>xià ge yuè</text>
+
+<text 
+x="278" 
+y="956" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="112" 
+y="979" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="116" 
+y="979" 
+dx="0,0,-0.4,0,0,0,0,0,0,0" 
+class="s16_186"
+>next month</text>
+
+<text 
+x="186" 
+y="979" 
+dx="0" 
+class="s8_186"
+>)</text>
+
+<text 
+x="465" 
+y="956" 
+dx="0,0,0,0,0,0" 
+class="s9_186"
+>下（个）星期</text>
+
+<text 
+x="670" 
+y="956" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="675" 
+y="956" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>xià [ge] xīngqī</text>
+
+<text 
+x="753" 
+y="956" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="468" 
+y="979" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="471" 
+y="979" 
+dx="0,0,-0.4,0,0,0,0,0,0" 
+class="s16_186"
+>next week</text>
+
+<text 
+x="536" 
+y="979" 
+dx="0" 
+class="s8_186"
+>)</text>
+
+<text 
+x="110" 
+y="1041" 
+dx="0,0,0,0" 
+class="s9_186"
+>下下个月</text>
+
+<text 
+x="249" 
+y="1041" 
+dx="0" 
+class="s10_186"
+>(</text>
+
+<text 
+x="254" 
+y="1041" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>xià xià ge yuè</text>
+
+<text 
+x="332" 
+y="1041" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="116" 
+y="1067" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="120" 
+y="1067" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s16_186"
+>the month after next</text>
+
+<text 
+x="245" 
+y="1067" 
+dx="0" 
+class="s8_186"
+>)</text>
+
+<text 
+x="465" 
+y="1043" 
+dx="0,0,0,0,0,0,0" 
+class="s13_186"
+>下下（个）星期</text>
+
+<text 
+x="699" 
+y="1043" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="702" 
+y="1043" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_186"
+>xià xià [ge] xīngqī</text>
+
+<text 
+x="802" 
+y="1043" 
+dx="0" 
+class="s10_186"
+>)</text>
+
+<text 
+x="468" 
+y="1066" 
+dx="0" 
+class="s8_186"
+>(</text>
+
+<text 
+x="471" 
+y="1066" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s16_186"
+>the week after next</text>
+
+<text 
+x="592" 
+y="1066" 
+dx="0" 
+class="s8_186"
+>)</text>
+
+<text 
+x="109" 
+y="1108" 
+dx="0" 
+class="s18_186"
+>a</text>
+
+<text 
+x="115" 
+y="1112" 
+dx="0,-0.6,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s19_186"
+>We don’t say</text>
+
+<g clip-path="url(#c0_186)">
+<path d="M211.1,1112.7c4.7,0,8.5,-3.8,8.5,-8.5c0,-4.7,-3.8,-8.6,-8.5,-8.6c-4.8,0,-8.6,3.9,-8.6,8.6c0,4.7,3.8,8.5,8.6,8.5Z" class="g8_186" />
+</g>
+<path d="M207.3,1100.4l7.5,7.5" class="g9_186" />
+<path d="M214.8,1100.4l-7.5,7.5" class="g9_186" />
+<text 
+x="229" 
+y="1112" 
+dx="0,0,0,0,0,0" 
+class="s20_186"
+>上月/下月.</text>
+
+<text 
+x="109" 
+y="1132" 
+dx="0" 
+class="s18_186"
+>b</text>
+
+<text 
+x="115" 
+y="1136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s19_186"
+>The measure word </text>
+
+<text 
+x="231" 
+y="1136" 
+dx="0" 
+class="s21_186"
+>个</text>
+
+<text 
+x="255" 
+y="1136" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s19_186"
+>can be omitted for</text>
+
+<text 
+x="373" 
+y="1136" 
+dx="0,0" 
+class="s22_186"
+>星期</text>
+
+<text 
+x="414" 
+y="1136" 
+dx="0" 
+class="s19_186"
+>:</text>
+
+<text 
+x="422" 
+y="1136" 
+dx="0,0,0,0" 
+class="s22_186"
+>下个星期</text>
+
+<text 
+x="505" 
+y="1136" 
+dx="0" 
+class="s19_186"
+>=</text>
+
+<text 
+x="512" 
+y="1136" 
+dx="0,0,0" 
+class="s21_186"
+>下星期</text>
+
+<text 
+x="574" 
+y="1136" 
+dx="0" 
+class="s19_186"
+>;</text>
+
+<text 
+x="582" 
+y="1136" 
+dx="0,0,0,0" 
+class="s22_186"
+>上个星期</text>
+
+<text 
+x="664" 
+y="1136" 
+dx="0" 
+class="s19_186"
+>=</text>
+
+<text 
+x="671" 
+y="1136" 
+dx="0,0,0" 
+class="s21_186"
+>上星期</text>
+
+<text 
+x="733" 
+y="1136" 
+dx="0" 
+class="s19_186"
+>.</text>
+
+<path d="M132.9,114.2l0,53.5l0,0.7l0.7,0l676.9,0l0.8,0l0,-0.7l0,-53.5l0,-0.8l-0.8,0l-676.9,0l-0.7,0l0,0.8Z" class="g10_186" />
+<path d="M134.9,166.4l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g11_186" />
+<path d="M885.3,1209.2l69.6,0l0,-1222.1l-69.6,0l0,1222.1Z" class="g12_186" />
+<text 
+transform="matrix(0, 1, -1, 0, 894, 872)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s23_186"
+>Lesson 6 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 930)"
+dx="0,0.3" 
+class="s23_186"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 943)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s23_186"
+>Making Appointments </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1072)"
+dx="0,0.3" 
+class="s23_186"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1085)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s23_186"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1154)"
+dx="0,0.3,0.3" 
+class="s23_186"
+>165</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Light_30o;
+	src: url("fonts/ProximaNova-Light_30o.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_30p;
+	src: url("fonts/ProximaNova-Regular_30p.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_30m;
+	src: url("fonts/ProximaNova-Semibold_30m.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_30a;
+	src: url("fonts/ProximaNova-Extrabld_30a.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Regular_30z;
+	src: url("fonts/Marion-Regular_30z.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_306;
+	src: url("fonts/ProximaNova-Bold_306.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+@font-face {
+	font-family: MinionPro-Regular_30y;
+	src: url("fonts/MinionPro-Regular_30y.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

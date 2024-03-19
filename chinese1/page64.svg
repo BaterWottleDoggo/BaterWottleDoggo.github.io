@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 87 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_87"><path d="M129.2,514.8l0,-112.6l94.6,0l0,112.6Z" /></clipPath>
+<clipPath id="c1_87"><path d="M129.2,683.2l0,-112.6l94.6,0l0,112.6Z" /></clipPath>
+<clipPath id="c2_87"><path d="M502.7,514.8l0,-112.6l94.6,0l0,112.6Z" /></clipPath>
+<clipPath id="c3_87"><path d="M502.7,683.2l0,-112.6l94.6,0l0,112.6Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_87{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_87{
+fill: #3986C6;
+}
+.g3_87{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_87{
+fill: #ACBF3B;
+}
+.g5_87{
+fill: #D1D2D4;
+}
+.g6_87{
+fill: none;
+stroke: #9395A1;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_87{
+fill: none;
+stroke: #ED692E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_87{
+fill: #ED692E;
+}
+.g9_87{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_87{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cqy;
+fill: #231F20;
+}
+.s2_87{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cs-;
+fill: #231F20;
+}
+.s3_87{
+font-size: 22.92px;
+font-family: ProximaNova-Extrabld_cst;
+fill: #ED692E;
+}
+.s4_87{
+font-size: 12.22px;
+font-family: ProximaNova-Extrabld_cst;
+fill: #ED692E;
+}
+.s5_87{
+font-size: 12.22px;
+font-family: ProximaNova-Semibold_csu;
+fill: #565B6E;
+}
+.s6_87{
+font-size: 19.10px;
+font-family: Alegreya-Regular_csr;
+fill: #231F20;
+}
+.s7_87{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cte;
+fill: #ACBF3B;
+}
+.s8_87{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s9_87{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #ACBF3B;
+}
+.s10_87{
+font-size: 19.10px;
+font-family: Alegreya-Regular_csr;
+fill: #3986C6;
+}
+.s11_87{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_cqx;
+fill: #231F20;
+}
+.s12_87{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_cs-;
+fill: #FFFFFF;
+}
+.s13_87{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_cs-;
+fill: #565B6E;
+}
+.s14_87{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_cst;
+fill: #FFFFFF;
+}
+.s15_87{
+font-size: 14.71px;
+font-family: Alegreya-Bold_ctt;
+fill: #231F20;
+}
+.s16_87{
+font-size: 14.71px;
+font-family: Alegreya-Bold_b3b;
+fill: #231F20;
+}
+.s17_87{
+font-size: 14.71px;
+font-family: Alegreya-Bold_ctw;
+fill: #231F20;
+}
+.s18_87{
+font-size: 14.71px;
+font-family: Alegreya-Bold_ctu;
+fill: #231F20;
+}
+.s19_87{
+font-size: 14.71px;
+font-family: Alegreya-Bold_ctv;
+fill: #231F20;
+}
+.s20_87{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_cqx;
+fill: #ED692E;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_87"
+>Go Far with Chinese</text>
+
+<text 
+x="38" 
+y="1149" 
+dx="0,0" 
+class="s2_87"
+>64</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_87" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_87" />
+<text 
+x="111" 
+y="841" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_87"
+>C·¸¸¶CTI·¸µ</text>
+
+<text 
+x="146" 
+y="860" 
+dx="0" 
+class="s4_87"
+>C</text>
+
+<text 
+x="154" 
+y="860" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_87"
+>OMMUNITIES</text>
+
+<text 
+x="146" 
+y="874" 
+dx="0" 
+class="s4_87"
+>C</text>
+
+<text 
+x="154" 
+y="874" 
+dx="0,0,0,0,0,0,0,-0.1,-0.8,0,0,0" 
+class="s5_87"
+>OMMUNICATION</text>
+
+<text 
+x="146" 
+y="889" 
+dx="0" 
+class="s4_87"
+>C</text>
+
+<text 
+x="154" 
+y="889" 
+dx="0,0,-1.2,0,0,0,0" 
+class="s5_87"
+>ULTURES</text>
+
+<text 
+x="146" 
+y="903" 
+dx="0" 
+class="s4_87"
+>C</text>
+
+<text 
+x="154" 
+y="903" 
+dx="0,0,0,-0.9,0,0,0,0,0,0" 
+class="s5_87"
+>OMPARISONS</text>
+
+<text 
+x="109" 
+y="160" 
+dx="0,-0.6,-0.3,0,0.3,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_87"
+>Everyone in your class has been assigned one of four secret identities! Carefully read the </text>
+
+<text 
+x="109" 
+y="186" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.4" 
+class="s6_87"
+>profiles for the secret identities. Your teacher will let you know which one now belongs to you. </text>
+
+<text 
+x="109" 
+y="212" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4" 
+class="s6_87"
+>Ask your classmates questions like the ones listed below to figure out their secret identities. </text>
+
+<text 
+x="117" 
+y="275" 
+dx="0" 
+class="s7_87"
+>•</text>
+
+<text 
+x="137" 
+y="275" 
+dx="0,0,0,0,0,0" 
+class="s8_87"
+>你有姐姐吗？</text>
+
+<text 
+x="117" 
+y="312" 
+dx="0,0" 
+class="s9_87"
+>• </text>
+
+<text 
+x="137" 
+y="312" 
+dx="0,0,0,0,0,0,0" 
+class="s8_87"
+>你喜欢看书吗？</text>
+
+<text 
+x="237" 
+y="412" 
+dx="0,-0.2,-0.2,0,0,0,0,0,0" 
+class="s10_87"
+>Brothers:</text>
+
+<text 
+x="313" 
+y="411" 
+dx="0,0,0,0" 
+class="s11_87"
+>一个哥哥</text>
+
+<text 
+x="238" 
+y="445" 
+dx="0,-0.2,0,0,0,0,0,0" 
+class="s10_87"
+>Sisters:</text>
+
+<text 
+x="299" 
+y="444" 
+dx="0,0,0,0" 
+class="s11_87"
+>两个妹妹</text>
+
+<text 
+x="237" 
+y="478" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0" 
+class="s10_87"
+>Watching TV:</text>
+
+<text 
+x="346" 
+y="477" 
+dx="0,0,0,0" 
+class="s11_87"
+>不太喜欢</text>
+
+<text 
+x="237" 
+y="511" 
+dx="0,-0.6,0,0,0,0,0,0" 
+class="s10_87"
+>Reading:</text>
+
+<text 
+x="309" 
+y="510" 
+dx="0,0,0" 
+class="s11_87"
+>很喜欢</text>
+
+<text 
+x="237" 
+y="582" 
+dx="0,-0.2,-0.2,0,0,0,0,0,0,0" 
+class="s10_87"
+>Brothers: </text>
+
+<text 
+x="314" 
+y="582" 
+dx="0,0" 
+class="s11_87"
+>没有</text>
+
+<text 
+x="238" 
+y="615" 
+dx="0,-0.2,0,0,0,0,0,0,0" 
+class="s10_87"
+>Sisters: </text>
+
+<text 
+x="299" 
+y="614" 
+dx="0,0,0,0" 
+class="s11_87"
+>三个妹妹</text>
+
+<text 
+x="237" 
+y="648" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0" 
+class="s10_87"
+>Watching TV:</text>
+
+<text 
+x="346" 
+y="647" 
+dx="0,0,0,0" 
+class="s11_87"
+>不太喜欢</text>
+
+<text 
+x="237" 
+y="681" 
+dx="0,-0.6,0,0,0,0,0,0" 
+class="s10_87"
+>Reading:</text>
+
+<text 
+x="309" 
+y="680" 
+dx="0,0,0" 
+class="s11_87"
+>很喜欢</text>
+
+<text 
+x="612" 
+y="412" 
+dx="0,-0.2,-0.2,0,0,0,0,0,0,0" 
+class="s10_87"
+>Brothers: </text>
+
+<text 
+x="688" 
+y="411" 
+dx="0,0" 
+class="s11_87"
+>没有</text>
+
+<text 
+x="612" 
+y="445" 
+dx="0,-0.2,0,0,0,0,0,0,0" 
+class="s10_87"
+>Sisters: </text>
+
+<text 
+x="674" 
+y="444" 
+dx="0,0,0,0" 
+class="s11_87"
+>两个妹妹</text>
+
+<text 
+x="611" 
+y="478" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_87"
+>Watching TV: </text>
+
+<text 
+x="721" 
+y="477" 
+dx="0,0,0" 
+class="s11_87"
+>很喜欢</text>
+
+<text 
+x="612" 
+y="511" 
+dx="0,-0.6,0,0,0,0,0,0,0" 
+class="s10_87"
+>Reading: </text>
+
+<text 
+x="684" 
+y="510" 
+dx="0,0,0" 
+class="s11_87"
+>很喜欢</text>
+
+<text 
+x="612" 
+y="582" 
+dx="0,-0.2,-0.2,0,0,0,0,0,0,0" 
+class="s10_87"
+>Brothers: </text>
+
+<text 
+x="688" 
+y="582" 
+dx="0,0,0,0" 
+class="s11_87"
+>两个哥哥</text>
+
+<text 
+x="612" 
+y="615" 
+dx="0,-0.2,0,0,0,0,0,0,0" 
+class="s10_87"
+>Sisters: </text>
+
+<text 
+x="674" 
+y="614" 
+dx="0,0,0,0" 
+class="s11_87"
+>两个妹妹</text>
+
+<text 
+x="611" 
+y="648" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_87"
+>Watching TV: </text>
+
+<text 
+x="721" 
+y="647" 
+dx="0,0,0" 
+class="s11_87"
+>很喜欢</text>
+
+<text 
+x="612" 
+y="681" 
+dx="0,-0.6,0,0,0,0,0,0,0" 
+class="s10_87"
+>Reading: </text>
+
+<text 
+x="684" 
+y="680" 
+dx="0,0,0,0" 
+class="s11_87"
+>很喜欢 </text>
+
+<path d="M128.6,122.3c-10.2,0,-18.4,-8.3,-18.4,-18.4l0,-20.1l23.2,0c10.1,0,18.3,8.2,18.3,18.3l0,20.2Z" class="g2_87" />
+<path d="M115.9,84.5l441.5,0" class="g3_87" />
+<path d="M129.7,122l427.7,0" class="g3_87" />
+<text 
+x="114" 
+y="110" 
+dx="0,0,0" 
+class="s12_87"
+>2d </text>
+
+<text 
+x="157" 
+y="110" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s13_87"
+>Using the Language </text>
+
+<path d="M424,113.7c-6,0,-10.8,-4.9,-10.8,-10.9l0,-10.8l131.1,0c6,0,10.8,4.9,10.8,10.8l0,10.9Z" class="g4_87" />
+<text 
+x="429" 
+y="107" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s14_87"
+>I¸T¶ºP¶ºµ·¸A»</text>
+
+<g clip-path="url(#c0_87)">
+<path d="M195,458.2l-1.5,0c-4.7,3.6,-10.6,5.8,-17,5.8c-6.3,0,-12.2,-2.2,-16.9,-5.8l-1.5,0c-15.9,0,-28.9,13,-28.9,28.9l0,27.7l94.6,0l0,-27.7c0,-15.9,-12.9,-28.9,-28.8,-28.9Z" class="g5_87" />
+</g>
+<path d="M204.5,430.2c0,15.5,-12.5,28,-27.9,28c-15.5,0,-28,-12.5,-28,-28c0,-15.4,12.5,-28,28,-28c15.4,0,27.9,12.6,27.9,28Z" class="g5_87" />
+<text 
+x="157" 
+y="486" 
+dx="0,-0.2,0,0,-0.1,0,0" 
+class="s15_87"
+>Secret </text>
+
+<text 
+x="143" 
+y="501" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s15_87"
+>Identity # </text>
+
+<text 
+x="205" 
+y="501" 
+dx="0" 
+class="s16_87"
+>1</text>
+
+<g clip-path="url(#c1_87)">
+<path d="M195,626.6l-1.5,0c-4.7,3.6,-10.6,5.8,-17,5.8c-6.3,0,-12.2,-2.2,-16.9,-5.8l-1.5,0c-15.9,0,-28.9,13,-28.9,28.9l0,27.7l94.6,0l0,-27.7c0,-15.9,-12.9,-28.9,-28.8,-28.9Z" class="g5_87" />
+</g>
+<path d="M204.5,598.6c0,15.5,-12.5,28,-27.9,28c-15.5,0,-28,-12.5,-28,-28c0,-15.4,12.5,-28,28,-28c15.4,0,27.9,12.6,27.9,28Z" class="g5_87" />
+<text 
+x="157" 
+y="654" 
+dx="0,-0.2,0,0,-0.1,0,0" 
+class="s17_87"
+>Secret </text>
+
+<text 
+x="142" 
+y="669" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s17_87"
+>Identity # </text>
+
+<text 
+x="204" 
+y="669" 
+dx="0" 
+class="s16_87"
+>3</text>
+
+<g clip-path="url(#c2_87)">
+<path d="M568.4,458.2l-1.4,0c-4.7,3.6,-10.6,5.8,-17,5.8c-6.4,0,-12.3,-2.2,-17,-5.8l-1.4,0c-15.9,0,-28.9,13,-28.9,28.9l0,27.7l94.6,0l0,-27.7c0,-15.9,-13,-28.9,-28.9,-28.9Z" class="g5_87" />
+</g>
+<path d="M578,430.2c0,15.5,-12.5,28,-28,28c-15.5,0,-28,-12.5,-28,-28c0,-15.4,12.5,-28,28,-28c15.5,0,28,12.6,28,28Z" class="g5_87" />
+<text 
+x="531" 
+y="486" 
+dx="0,-0.2,0,0,-0.1,0,0" 
+class="s18_87"
+>Secret </text>
+
+<text 
+x="515" 
+y="501" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s18_87"
+>Identity # </text>
+
+<text 
+x="577" 
+y="501" 
+dx="0" 
+class="s16_87"
+>2</text>
+
+<g clip-path="url(#c3_87)">
+<path d="M568.4,626.6l-1.4,0c-4.7,3.6,-10.6,5.8,-17,5.8c-6.4,0,-12.3,-2.2,-17,-5.8l-1.4,0c-15.9,0,-28.9,13,-28.9,28.9l0,27.7l94.6,0l0,-27.7c0,-15.9,-13,-28.9,-28.9,-28.9Z" class="g5_87" />
+</g>
+<path d="M578,598.6c0,15.5,-12.5,28,-28,28c-15.5,0,-28,-12.5,-28,-28c0,-15.4,12.5,-28,28,-28c15.5,0,28,12.6,28,28Z" class="g5_87" />
+<text 
+x="531" 
+y="654" 
+dx="0,-0.2,0,0,-0.1,0,0" 
+class="s19_87"
+>Secret </text>
+
+<text 
+x="516" 
+y="669" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s19_87"
+>Identity # </text>
+
+<text 
+x="577" 
+y="669" 
+dx="0" 
+class="s16_87"
+>4</text>
+
+<path d="M124.5,519.9l103.5,0l0,-122.5l-103.5,0l0,122.5Z" class="g6_87" />
+<path d="M124.5,688.4l103.5,0l0,-122.5l-103.5,0l0,122.5Z" class="g6_87" />
+<path d="M497.8,519.9l103.6,0l0,-122.5l-103.6,0l0,122.5Z" class="g6_87" />
+<path d="M497.8,688.4l103.6,0l0,-122.5l-103.6,0l0,122.5Z" class="g6_87" />
+<path d="M272.4,745.4l506.5,0c15.2,0,27.5,12.3,27.5,27.5l0,350.8" class="g7_87" />
+<path d="M272.4,750c2.5,0,4.6,-2,4.6,-4.6c0,-2.5,-2.1,-4.5,-4.6,-4.5c-2.5,0,-4.6,2,-4.6,4.5c0,2.6,2.1,4.6,4.6,4.6Z" class="g8_87" />
+<text 
+x="299" 
+y="806" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.3,0,0,0,0,0,-0.4,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_87"
+>When a new technology is invented, a word to describe it </text>
+
+<text 
+x="300" 
+y="831" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,-0.3,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_87"
+>must also be invented! In Chinese, new words can be created </text>
+
+<text 
+x="300" 
+y="856" 
+dx="0,-0.3,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3,-0.4" 
+class="s6_87"
+>by combining characters that describe the new technology. </text>
+
+<text 
+x="299" 
+y="880" 
+dx="0,-0.2,0,0,0,0,0,0,-0.3,0,-0.2,0" 
+class="s6_87"
+>In the word </text>
+
+<text 
+x="393" 
+y="879" 
+dx="0,-0.7" 
+class="s20_87"
+>电视</text>
+
+<text 
+x="440" 
+y="880" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_87"
+>, the character </text>
+
+<text 
+x="555" 
+y="879" 
+dx="0" 
+class="s20_87"
+>电</text>
+
+<text 
+x="581" 
+y="880" 
+dx="0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,1.1,-0.4,0,0,0" 
+class="s6_87"
+>means “electricity” or </text>
+
+<text 
+x="295" 
+y="906" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_87"
+>“electric” and the character </text>
+
+<text 
+x="508" 
+y="905" 
+dx="0" 
+class="s20_87"
+>视</text>
+
+<text 
+x="535" 
+y="906" 
+dx="0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-1.1,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s6_87"
+>means “vision.” Put them </text>
+
+<text 
+x="300" 
+y="934" 
+dx="0,0,0,0,0,0,0,0,-1.5,-0.4,0,0,0,0,0,-0.3,0,0,0,0,-0.4,-0.3,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_87"
+>together, and you have “electric vision” or television! </text>
+
+<text 
+x="300" 
+y="973" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0" 
+class="s6_87"
+>Can you guess what these words mean?</text>
+
+<text 
+x="295" 
+y="1007" 
+dx="0,-0.8" 
+class="s20_87"
+>电脑</text>
+
+<text 
+x="344" 
+y="1008" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_87"
+>diàn nǎo = electric brain = ?</text>
+
+<text 
+x="295" 
+y="1040" 
+dx="0,-1.9" 
+class="s20_87"
+>电话</text>
+
+<text 
+x="343" 
+y="1041" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_87"
+>diàn huà = electric speech = ? </text>
+
+<text 
+x="295" 
+y="1073" 
+dx="0,-1.7" 
+class="s20_87"
+>电影</text>
+
+<text 
+x="343" 
+y="1074" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s6_87"
+>diàn yǐng = electric shadow = ? </text>
+
+<path d="M196.9,752.8l-22.9,0l-3.7,12.3c0.6,0,1.1,-0.1,1.6,-0.1c0.5,-0.1,0.9,-0.1,1.3,-0.1c7.3,0,13.2,2.5,17.8,7.3c4.7,4.9,7,11.1,7,18.7c0,7.8,-2.6,14.3,-7.9,19.3c-5.3,5.1,-11.9,7.7,-19.9,7.7c-9.8,0,-17.6,-4.7,-23.3,-13.9l8.5,-7.2c2.3,4,4.7,6.8,7.1,8.4c2.3,1.6,5.2,2.4,8.7,2.4c4.5,0,8.2,-1.5,11.3,-4.7c3,-3.2,4.6,-7.2,4.6,-11.8c0,-4.7,-1.5,-8.6,-4.6,-11.6c-3,-3.1,-6.7,-4.7,-11.3,-4.7c-5,0,-9.4,2.2,-13,6.6l-3.7,0l11.7,-39.1l30.7,0Z" class="g2_87" />
+<path d="M230.1,751.4c6.9,0,13.6,2.8,20.1,8.2l0,-13.3c-6.2,-3.6,-12.7,-5.5,-19.4,-5.5c-12.2,0,-22.2,4.6,-29.9,13.7c-1.6,2,-3.1,4,-4.3,6.1l0,38.4c1.7,2.8,3.7,5.4,6.2,7.9c7.5,7.4,16.5,11.1,27.2,11.1c7,0,13.8,-1.8,20.2,-5.4l0,-13.6c-1.8,1.6,-3.6,2.9,-5.2,4c-1.7,1.1,-3.3,1.9,-4.8,2.6c-2.8,1.3,-6.1,1.9,-10.1,1.9c-7.6,0,-14.1,-2.7,-19.3,-8c-5.3,-5.4,-7.9,-12,-7.9,-19.8c0,-7.9,2.6,-14.6,7.9,-20c5.2,-5.5,11.6,-8.3,19.3,-8.3Z" class="g2_87" />
+<path d="M196.3,743l0,77.1" class="g9_87" />
+<path d="M197,910.4l-0.6,188.8c-0.1,15.2,12.2,27.5,27.4,27.5l582.4,0" class="g9_87" />
+<path d="M806.2,1131.3c2.5,0,4.5,-2,4.5,-4.6c0,-2.5,-2,-4.5,-4.5,-4.5c-2.6,0,-4.6,2,-4.6,4.5c0,2.6,2,4.6,4.6,4.6Z" class="g2_87" />
+<path d="M254.1,812c2.4,2.3,6.3,3.6,10.3,3.6c6.3,0,9.9,-3.2,9.9,-7.4c0,-5.7,-5.3,-6.7,-9.2,-7.5c-2.6,-0.5,-4.4,-1,-4.4,-2.5c0,-1.3,1.4,-2.1,3.6,-2.1c2.8,0,5.4,1.2,6.8,2.6l2.4,-4.1c-2.2,-1.8,-5.3,-3.1,-9.2,-3.1c-6.1,0,-9.5,3.3,-9.5,7.2c0,5.5,5.1,6.4,9.1,7.2c2.6,0.5,4.6,1.1,4.6,2.7c0,1.4,-1.2,2.3,-3.9,2.3c-2.8,0,-6.2,-1.5,-7.9,-3.1Z" class="g2_87" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaitiSC-Regular_cte;
+	src: url("fonts/STKaitiSC-Regular_cte.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cs-;
+	src: url("fonts/ProximaNova-Bold_cs-.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_ctw;
+	src: url("fonts/Alegreya-Bold_ctw.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_ctv;
+	src: url("fonts/Alegreya-Bold_ctv.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_b3b;
+	src: url("fonts/Alegreya-Bold_b3b.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_cst;
+	src: url("fonts/ProximaNova-Extrabld_cst.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cqy;
+	src: url("fonts/ProximaNova-Semibold_cqy.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_csr;
+	src: url("fonts/Alegreya-Regular_csr.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_ctu;
+	src: url("fonts/Alegreya-Bold_ctu.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_ctt;
+	src: url("fonts/Alegreya-Bold_ctt.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_csu;
+	src: url("fonts/ProximaNova-Semibold_csu.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cqx;
+	src: url("fonts/STKaiti-SC-Bold_cqx.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

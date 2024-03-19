@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 78 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_78"><path d="M584.3,863.9l0,-17l17,0l0,17Z" /></clipPath>
+<clipPath id="c1_78"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_78{
+fill: none;
+stroke: #AAA9A9;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_78{
+fill: none;
+stroke: #DC262E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_78{
+fill: #DC262E;
+}
+.g4_78{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g5_78{
+fill: none;
+stroke: #D1D2D4;
+stroke-width: 3.0555556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_78{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_78{
+font-size: 18.33px;
+font-family: ProximaNova-Semibold_2vu;
+fill: #DC262E;
+}
+.s2_78{
+font-size: 16.81px;
+font-family: ProximaNova-Bold_2vg;
+fill: #DC262E;
+}
+.s3_78{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #DC262E;
+}
+.s4_78{
+font-size: 16.42px;
+font-family: Marion-Italic_2si;
+fill: #DC262E;
+}
+.s5_78{
+font-size: 13.37px;
+font-family: ProximaNova-Light_2vt;
+fill: #231F20;
+}
+.s6_78{
+font-size: 19.86px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #3F3F40;
+}
+.s7_78{
+font-size: 16.42px;
+font-family: Marion-Italic_2si;
+fill: #3F3F40;
+}
+.s8_78{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2vu;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M737.4,77.1l156.3,0" class="g1_78" />
+<path d="M495,123l9.1,0" class="g2_78" />
+<path d="M495,320l9.8,0" class="g2_78" />
+<path d="M495,448.4l8.4,0" class="g2_78" />
+<path d="M495,795.2l9.8,0" class="g2_78" />
+<path d="M495,900.6l9.3,0" class="g2_78" />
+<text 
+x="737" 
+y="61" 
+dx="0,-0.6,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s1_78"
+>Language Notes</text>
+
+<text 
+x="495" 
+y="118" 
+dx="0" 
+class="s2_78"
+>a</text>
+
+<text 
+x="516" 
+y="122" 
+dx="0" 
+class="s3_78"
+>家</text>
+
+<text 
+x="546" 
+y="122" 
+dx="0,0,0,0,0" 
+class="s4_78"
+>(jiā)</text>
+
+<text 
+x="516" 
+y="145" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s5_78"
+>This word can refer to one’s family or home. </text>
+
+<text 
+x="516" 
+y="168" 
+dx="0,0,0,0,0,0" 
+class="s6_78"
+>我家有四口人</text>
+
+<text 
+x="639" 
+y="168" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>(Wǒ jiā yǒu sì kǒu rén)</text>
+
+<text 
+x="516" 
+y="191" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>(There are four people in my family) can be </text>
+
+<text 
+x="516" 
+y="214" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>used to describe the number of people in </text>
+
+<text 
+x="516" 
+y="237" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_78"
+>your family and </text>
+
+<text 
+x="603" 
+y="237" 
+dx="0,-0.4,-0.4,-0.4" 
+class="s6_78"
+>这是我家</text>
+
+<text 
+x="684" 
+y="237" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s7_78"
+>(Zhè shì wǒ jiā)</text>
+
+<text 
+x="516" 
+y="260" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>(This is my home) can be used to point out </text>
+
+<text 
+x="516" 
+y="283" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s5_78"
+>your house.</text>
+
+<text 
+x="495" 
+y="315" 
+dx="0" 
+class="s2_78"
+>b</text>
+
+<text 
+x="516" 
+y="320" 
+dx="0" 
+class="s3_78"
+>口</text>
+
+<text 
+x="546" 
+y="320" 
+dx="0,0,0,0,0" 
+class="s4_78"
+>(kǒu)</text>
+
+<text 
+x="516" 
+y="342" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>This is the idiomatic measure word used </text>
+
+<text 
+x="516" 
+y="365" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>in northern China for number of family </text>
+
+<text 
+x="516" 
+y="388" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>members. In the south, people say </text>
+
+<text 
+x="516" 
+y="411" 
+dx="0" 
+class="s6_78"
+>个</text>
+
+<text 
+x="539" 
+y="411" 
+dx="0,0,0,0,0,0,0" 
+class="s7_78"
+>(gè/ge)</text>
+
+<text 
+x="579" 
+y="411" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_78"
+>instead.</text>
+
+<text 
+x="495" 
+y="443" 
+dx="0" 
+class="s2_78"
+>c</text>
+
+<text 
+x="516" 
+y="448" 
+dx="0" 
+class="s3_78"
+>一</text>
+
+<text 
+x="546" 
+y="448" 
+dx="0,0,0,0,0,0,0" 
+class="s4_78"
+>(yī/yí)</text>
+
+<text 
+x="516" 
+y="471" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>The numeral </text>
+
+<text 
+x="592" 
+y="471" 
+dx="0" 
+class="s6_78"
+>一</text>
+
+<text 
+x="615" 
+y="471" 
+dx="0,0,0,0" 
+class="s7_78"
+>(yī)</text>
+
+<text 
+x="637" 
+y="471" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>(one) is pronounced in </text>
+
+<text 
+x="516" 
+y="494" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>the first tone </text>
+
+<text 
+x="591" 
+y="494" 
+dx="0,0,0,0" 
+class="s7_78"
+>(yī)</text>
+
+<text 
+x="613" 
+y="494" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>in the following cases: when </text>
+
+<text 
+x="516" 
+y="517" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>it stands alone; when it implies an ordinal </text>
+
+<text 
+x="516" 
+y="540" 
+dx="0,0,0,0,0,0,-1.1,0,0,-0.1,-0.1,0,0,0" 
+class="s5_78"
+>number, e.g., </text>
+
+<text 
+x="593" 
+y="540" 
+dx="0,0" 
+class="s6_78"
+>一楼</text>
+
+<text 
+x="636" 
+y="540" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_78"
+>(yī lóu)</text>
+
+<text 
+x="678" 
+y="540" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>(first floor); </text>
+
+<text 
+x="516" 
+y="562" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s5_78"
+>and when it comes at the end of a phrase. </text>
+
+<text 
+x="516" 
+y="585" 
+dx="0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>Otherwise, its tone changes according to the </text>
+
+<text 
+x="516" 
+y="608" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>following rules:</text>
+
+<text 
+x="522" 
+y="645" 
+dx="0,0,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>• Before a fourth-tone word, it becomes </text>
+
+<text 
+x="536" 
+y="668" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>second tone: </text>
+
+<text 
+x="615" 
+y="668" 
+dx="0,0" 
+class="s6_78"
+>一个</text>
+
+<text 
+x="658" 
+y="668" 
+dx="0,0,0,0,0,0,0" 
+class="s7_78"
+>(yí gè)</text>
+
+<text 
+x="691" 
+y="668" 
+dx="0" 
+class="s5_78"
+>.</text>
+
+<text 
+x="522" 
+y="691" 
+dx="0,0,5.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s5_78"
+>• Before a first-, second-, or third-tone word, </text>
+
+<text 
+x="536" 
+y="714" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.4,-0.3,-0.3,-0.4,-0.4,-0.3,-0.3,-0.3" 
+class="s5_78"
+>it is pronounced in the fourth tone, e.g., </text>
+
+<text 
+x="753" 
+y="714" 
+dx="0" 
+class="s6_78"
+>一</text>
+
+<text 
+x="536" 
+y="737" 
+dx="0" 
+class="s6_78"
+>张</text>
+
+<text 
+x="558" 
+y="737" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s7_78"
+>(yì zhāng) </text>
+
+<text 
+x="613" 
+y="737" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_78"
+>(a sheet), </text>
+
+<text 
+x="665" 
+y="737" 
+dx="0,-0.4" 
+class="s6_78"
+>一盘</text>
+
+<text 
+x="708" 
+y="737" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s7_78"
+>(yì pán)</text>
+
+<text 
+x="536" 
+y="760" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_78"
+>(one plate), </text>
+
+<text 
+x="599" 
+y="760" 
+dx="0,-0.4" 
+class="s6_78"
+>一本</text>
+
+<text 
+x="641" 
+y="760" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s7_78"
+>(yì běn)</text>
+
+<text 
+x="684" 
+y="760" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_78"
+>(one volume).</text>
+
+<text 
+x="495" 
+y="790" 
+dx="0" 
+class="s2_78"
+>d</text>
+
+<text 
+x="516" 
+y="795" 
+dx="0" 
+class="s3_78"
+>和</text>
+
+<text 
+x="546" 
+y="795" 
+dx="0,0,0,0" 
+class="s4_78"
+>(hé)</text>
+
+<text 
+x="516" 
+y="818" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.8,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-1.4,-0.5" 
+class="s5_78"
+>Unlike “and,” </text>
+
+<text 
+x="586" 
+y="818" 
+dx="0" 
+class="s6_78"
+>和</text>
+
+<text 
+x="608" 
+y="818" 
+dx="0,-0.6,-0.6,-0.6" 
+class="s7_78"
+>(hé)</text>
+
+<text 
+x="629" 
+y="818" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,0" 
+class="s5_78"
+>cannot link two clauses or </text>
+
+<text 
+x="516" 
+y="841" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s5_78"
+>two sentences: </text>
+
+<text 
+x="599" 
+y="841" 
+dx="0,-0.7,-0.7,-0.7,-0.7,-0.7" 
+class="s6_78"
+>我爸爸是老师</text>
+
+<text 
+x="717" 
+y="841" 
+dx="0,-0.6,-0.6,-0.6,-0.6,-0.6,-0.6,-0.6,0" 
+class="s7_78"
+>(Wǒ bàba </text>
+
+<text 
+x="516" 
+y="863" 
+dx="0,-0.6,-0.6,-0.6,-0.6,-0.6,-0.6,-0.6,-0.6,-0.6,-0.6" 
+class="s7_78"
+>shì lǎoshī)</text>
+
+<text 
+x="565" 
+y="863" 
+dx="0" 
+class="s6_78"
+>，</text>
+
+<g clip-path="url(#c0_78)">
+<path d="M592.8,863.9c4.7,0,8.5,-3.8,8.5,-8.5c0,-4.7,-3.8,-8.5,-8.5,-8.5c-4.7,0,-8.5,3.8,-8.5,8.5c0,4.7,3.8,8.5,8.5,8.5Z" class="g3_78" />
+</g>
+<path d="M589.1,851.7l7.4,7.4" class="g4_78" />
+<path d="M596.5,851.7l-7.4,7.4" class="g4_78" />
+<text 
+x="605" 
+y="863" 
+dx="0,-0.7,-0.7,-0.7,-0.7,-0.7,-0.7" 
+class="s6_78"
+>和我妈妈是医生</text>
+
+<text 
+x="739" 
+y="863" 
+dx="0" 
+class="s5_78"
+>.</text>
+
+<text 
+x="495" 
+y="896" 
+dx="0" 
+class="s2_78"
+>e</text>
+
+<text 
+x="516" 
+y="900" 
+dx="0" 
+class="s3_78"
+>、</text>
+
+<text 
+x="516" 
+y="923" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>The pause mark or series comma, </text>
+
+<text 
+x="715" 
+y="923" 
+dx="0" 
+class="s6_78"
+>、</text>
+
+<text 
+x="735" 
+y="923" 
+dx="0,0,0,0,0" 
+class="s5_78"
+>, is </text>
+
+<text 
+x="516" 
+y="946" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>often used to link two, three, or even more </text>
+
+<text 
+x="516" 
+y="969" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,0,0" 
+class="s5_78"
+>parallel words or phrases, e.g., </text>
+
+<text 
+x="695" 
+y="969" 
+dx="0,0,0,0" 
+class="s6_78"
+>爸爸、妈</text>
+
+<text 
+x="516" 
+y="992" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_78"
+>妈、两个妹妹和我</text>
+
+<text 
+x="678" 
+y="992" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>(bàba, māma, </text>
+
+<text 
+x="516" 
+y="1015" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_78"
+>liǎng ge mèimei hé wǒ)</text>
+
+<text 
+x="646" 
+y="1015" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>(dad, mom, two </text>
+
+<text 
+x="516" 
+y="1038" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>younger sisters, and I). [See Language Note </text>
+
+<text 
+x="516" 
+y="1061" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s5_78"
+>A, Dialogue 1, Lesson 4.]</text>
+
+<g clip-path="url(#c1_78)">
+<path d="M-892.9,105.3L0,105.3" class="g5_78" />
+</g>
+<image preserveAspectRatio="none" x="63" y="126" width="136" height="165" xlink:href="78/img/1.png" />
+<image preserveAspectRatio="none" x="199" y="126" width="46" height="330" xlink:href="78/img/2.png" />
+<image preserveAspectRatio="none" x="63" y="291" width="136" height="165" xlink:href="78/img/3.png" />
+<image preserveAspectRatio="none" x="262" y="126" width="163" height="134" xlink:href="78/img/4.png" />
+<image preserveAspectRatio="none" x="262" y="278" width="109" height="96" xlink:href="78/img/5.png" />
+<image preserveAspectRatio="none" x="370" y="278" width="55" height="192" xlink:href="78/img/6.png" />
+<image preserveAspectRatio="none" x="262" y="374" width="109" height="96" xlink:href="78/img/7.png" />
+<image preserveAspectRatio="none" x="262" y="470" width="163" height="48" xlink:href="78/img/8.png" />
+<image preserveAspectRatio="none" x="63" y="474" width="136" height="102" xlink:href="78/img/9.png" />
+<image preserveAspectRatio="none" x="199" y="474" width="45" height="256" xlink:href="78/img/10.png" />
+<image preserveAspectRatio="none" x="63" y="576" width="136" height="103" xlink:href="78/img/11.png" />
+<image preserveAspectRatio="none" x="63" y="679" width="136" height="51" xlink:href="78/img/12.png" />
+<image preserveAspectRatio="none" x="63" y="745" width="104" height="99" xlink:href="78/img/13.png" />
+<image preserveAspectRatio="none" x="166" y="745" width="104" height="99" xlink:href="78/img/14.png" />
+<image preserveAspectRatio="none" x="270" y="745" width="103" height="99" xlink:href="78/img/15.png" />
+<image preserveAspectRatio="none" x="373" y="745" width="52" height="197" xlink:href="78/img/16.png" />
+<image preserveAspectRatio="none" x="63" y="843" width="104" height="99" xlink:href="78/img/17.png" />
+<image preserveAspectRatio="none" x="166" y="843" width="104" height="99" xlink:href="78/img/18.png" />
+<image preserveAspectRatio="none" x="270" y="843" width="103" height="99" xlink:href="78/img/19.png" />
+<image preserveAspectRatio="none" x="63" y="956" width="104" height="107" xlink:href="78/img/20.png" />
+<image preserveAspectRatio="none" x="166" y="956" width="104" height="107" xlink:href="78/img/21.png" />
+<image preserveAspectRatio="none" x="270" y="956" width="103" height="107" xlink:href="78/img/22.png" />
+<image preserveAspectRatio="none" x="373" y="956" width="52" height="160" xlink:href="78/img/23.png" />
+<image preserveAspectRatio="none" x="63" y="1063" width="207" height="53" xlink:href="78/img/24.png" />
+<image preserveAspectRatio="none" x="270" y="1063" width="103" height="53" xlink:href="78/img/25.png" />
+<image preserveAspectRatio="none" x="262" y="542" width="163" height="47" xlink:href="78/img/26.png" />
+<image preserveAspectRatio="none" x="262" y="589" width="163" height="47" xlink:href="78/img/27.png" />
+<image preserveAspectRatio="none" x="262" y="636" width="163" height="47" xlink:href="78/img/28.png" />
+<image preserveAspectRatio="none" x="262" y="683" width="163" height="47" xlink:href="78/img/29.png" />
+<path d="M885.3,1196.3l36,0L921.3,0l-36,0l0,1196.3Z" class="g3_78" />
+<g clip-path="url(#c1_78)">
+<path d="M885.3,1209.2l55,0l0,-1222.1l-55,0l0,1222.1Z" class="g6_78" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 894, 952)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s8_78"
+>Lesson 2 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1010)"
+dx="0,0.3" 
+class="s8_78"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1023)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s8_78"
+>Family </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1068)"
+dx="0,0.3" 
+class="s8_78"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1081)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s8_78"
+>Dialogue 2 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1160)"
+dx="0,0.3" 
+class="s8_78"
+>57</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_2vu;
+	src: url("fonts/ProximaNova-Semibold_2vu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2vg;
+	src: url("fonts/ProximaNova-Bold_2vg.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2vt;
+	src: url("fonts/ProximaNova-Light_2vt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

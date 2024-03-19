@@ -1,0 +1,1859 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 17 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_17{
+fill: #DC262E;
+}
+.g2_17{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_17{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_17{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.7638889;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-dasharray: 1,2;
+}
+
+.s1_17{
+font-size: 13.75px;
+font-family: MuseoSlab-700_2s6;
+fill: #808285;
+}
+.s2_17{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_2s2;
+fill: #FFFFFF;
+}
+.s3_17{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_2s2;
+fill: #DC252E;
+}
+.s4_17{
+font-size: 15.28px;
+font-family: ProximaNova-Regular_2r-;
+fill: #808285;
+}
+.s5_17{
+font-size: 15.28px;
+font-family: ProximaNova-Regular_2r-;
+fill: #231F20;
+}
+.s6_17{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #DC262E;
+}
+.s7_17{
+font-size: 16.81px;
+font-family: Marion-Italic_2sk;
+fill: #231F20;
+}
+.s8_17{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="26" 
+y="1166" 
+dx="0,0,0" 
+class="s1_17"
+>xvi</text>
+
+<path d="M61.9,55l132.8,0l0,24.3l-132.8,0L61.9,55Zm132.8,0l185.4,0l0,24.3l-185.4,0l0,-24.3ZM380,55l321.3,0l0,24.3L380,79.3L380,55Zm321.3,0l130.6,0l0,24.3l-130.6,0l0,-24.3Z" class="g1_17" />
+<path d="M194.7,79.3l0,-23.9" class="g2_17" />
+<path d="M380,79.3l0,-23.9" class="g2_17" />
+<path d="M701.3,79.3l0,-23.9" class="g2_17" />
+<path d="M194.7,289.2l0,-209.9" class="g2_17" />
+<path d="M380,289.2L380,79.3" class="g2_17" />
+<path d="M701.3,289.2l0,-209.9" class="g2_17" />
+<path d="M194.7,365.3l0,-76.1" class="g2_17" />
+<path d="M380,365.3l0,-76.1" class="g2_17" />
+<path d="M701.3,365.3l0,-76.1" class="g2_17" />
+<path d="M194.7,544.7l0,-179.4" class="g2_17" />
+<path d="M380,544.7l0,-179.4" class="g2_17" />
+<path d="M701.3,544.7l0,-179.4" class="g2_17" />
+<path d="M194.7,831.7l0,-287" class="g2_17" />
+<path d="M380,831.7l0,-287" class="g2_17" />
+<path d="M701.3,831.7l0,-287" class="g2_17" />
+<path d="M194.7,1154.1l0,-322.4" class="g2_17" />
+<path d="M380,1154.1l0,-322.4" class="g2_17" />
+<path d="M701.3,1154.1l0,-322.4" class="g2_17" />
+<path d="M61.9,79.3l132.4,0" class="g3_17" />
+<path d="M195.1,79.3l184.6,0" class="g3_17" />
+<path d="M380.4,79.3l320.5,0" class="g3_17" />
+<path d="M701.6,79.3l130.3,0" class="g3_17" />
+<path d="M61.9,289.2l132.4,0" class="g3_17" />
+<path d="M195.1,289.2l184.6,0" class="g3_17" />
+<path d="M380.4,289.2l320.5,0" class="g3_17" />
+<path d="M701.6,289.2l130.3,0" class="g3_17" />
+<path d="M61.9,365.3l132.4,0" class="g3_17" />
+<path d="M195.1,365.3l184.6,0" class="g3_17" />
+<path d="M380.4,365.3l320.5,0" class="g3_17" />
+<path d="M701.6,365.3l130.3,0" class="g3_17" />
+<path d="M61.9,544.7l132.4,0" class="g3_17" />
+<path d="M195.1,544.7l184.6,0" class="g3_17" />
+<path d="M380.4,544.7l320.5,0" class="g3_17" />
+<path d="M701.6,544.7l130.3,0" class="g3_17" />
+<path d="M61.9,831.7l132.4,0" class="g3_17" />
+<path d="M195.1,831.7l184.6,0" class="g3_17" />
+<path d="M380.4,831.7l320.5,0" class="g3_17" />
+<path d="M701.6,831.7l130.3,0" class="g3_17" />
+<path d="M61.9,1154.7l132.8,0" class="g3_17" />
+<path d="M194.7,1154.7l185.4,0" class="g3_17" />
+<path d="M380,1154.7l321.3,0" class="g3_17" />
+<path d="M701.3,1154.7l130.6,0" class="g3_17" />
+<path d="M194.7,77.8l0,-21.7" class="g4_17" />
+<path d="M380,77.8l0,-21.7" class="g4_17" />
+<path d="M701.3,77.8l0,-21.7" class="g4_17" />
+<path d="M194.7,287.7l0,-207.6" class="g4_17" />
+<path d="M380,287.7L380,80.1" class="g4_17" />
+<path d="M701.3,287.7l0,-207.6" class="g4_17" />
+<path d="M194.7,363.8l0,-73.8" class="g4_17" />
+<path d="M380,363.8L380,290" class="g4_17" />
+<path d="M701.3,363.8l0,-73.8" class="g4_17" />
+<path d="M194.7,543.1l0,-177" class="g4_17" />
+<path d="M380,543.1l0,-177" class="g4_17" />
+<path d="M701.3,543.1l0,-177" class="g4_17" />
+<path d="M194.7,830.2l0,-284.8" class="g4_17" />
+<path d="M380,830.2l0,-284.8" class="g4_17" />
+<path d="M701.3,830.2l0,-284.8" class="g4_17" />
+<path d="M194.7,1152.6l0,-320.1" class="g4_17" />
+<path d="M380,1152.6l0,-320.1" class="g4_17" />
+<path d="M701.3,1152.6l0,-320.1" class="g4_17" />
+<text 
+x="67" 
+y="73" 
+dx="0,-0.2,0,0,0,0" 
+class="s2_17"
+>Lesson</text>
+
+<text 
+x="200" 
+y="73" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_17"
+>Learning Objectives </text>
+
+<text 
+x="386" 
+y="73" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_17"
+>Grammar </text>
+
+<text 
+x="707" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_17"
+>Cultural Literacy </text>
+
+<text 
+x="67" 
+y="97" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_17"
+>5 Visiting Friends</text>
+
+<text 
+x="200" 
+y="97" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="97" 
+dx="0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Welcome a visitor</text>
+
+<text 
+x="200" 
+y="121" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="121" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Introduce one person to </text>
+
+<text 
+x="210" 
+y="137" 
+dx="0,0,0,0,0,0,0" 
+class="s5_17"
+>another</text>
+
+<text 
+x="200" 
+y="161" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="161" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Be a gracious guest</text>
+
+<text 
+x="200" 
+y="185" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="185" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Ask for beverages as a </text>
+
+<text 
+x="210" 
+y="202" 
+dx="0,0,0,0,0" 
+class="s5_17"
+>guest</text>
+
+<text 
+x="200" 
+y="225" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="225" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Offer beverages to a </text>
+
+<text 
+x="210" 
+y="242" 
+dx="0,0,0,0,0,0,0" 
+class="s5_17"
+>visitor</text>
+
+<text 
+x="200" 
+y="266" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="266" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Briefly describe a visit to </text>
+
+<text 
+x="210" 
+y="283" 
+dx="0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0" 
+class="s5_17"
+>a friend’s place</text>
+
+<text 
+x="392" 
+y="101" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>1. Moderating tone of voice: </text>
+
+<text 
+x="579" 
+y="101" 
+dx="0,0" 
+class="s6_17"
+>一下</text>
+
+<text 
+x="629" 
+y="101" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_17"
+>(yí xià)</text>
+
+<text 
+x="404" 
+y="124" 
+dx="0,0,0,0" 
+class="s5_17"
+>and </text>
+
+<text 
+x="434" 
+y="124" 
+dx="0,0,0,0,0,0" 
+class="s6_17"
+>（一）点儿 </text>
+
+<text 
+x="554" 
+y="124" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_17"
+>([yì] diǎnr) </text>
+
+<text 
+x="390" 
+y="151" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>2. Adjectives as predicates using </text>
+
+<text 
+x="613" 
+y="151" 
+dx="0" 
+class="s6_17"
+>很</text>
+
+<text 
+x="640" 
+y="151" 
+dx="0,0,0,0,0" 
+class="s8_17"
+>(hěn)</text>
+
+<text 
+x="390" 
+y="178" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>3. The preposition </text>
+
+<text 
+x="515" 
+y="178" 
+dx="0" 
+class="s6_17"
+>在</text>
+
+<text 
+x="542" 
+y="178" 
+dx="0,0,0,0,0" 
+class="s7_17"
+>(zài)</text>
+
+<text 
+x="571" 
+y="178" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>(at, in, on)</text>
+
+<text 
+x="390" 
+y="205" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>4. The particle </text>
+
+<text 
+x="489" 
+y="205" 
+dx="0" 
+class="s6_17"
+>吧</text>
+
+<text 
+x="516" 
+y="205" 
+dx="0,0,0,0" 
+class="s7_17"
+>(ba)</text>
+
+<text 
+x="390" 
+y="231" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>5. The particle </text>
+
+<text 
+x="489" 
+y="231" 
+dx="0" 
+class="s6_17"
+>了</text>
+
+<text 
+x="516" 
+y="231" 
+dx="0,0,0,0" 
+class="s7_17"
+>(le)</text>
+
+<text 
+x="538" 
+y="231" 
+dx="0,0,0" 
+class="s5_17"
+>(I)</text>
+
+<text 
+x="390" 
+y="258" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>6. The adverb </text>
+
+<text 
+x="486" 
+y="258" 
+dx="0" 
+class="s6_17"
+>才</text>
+
+<text 
+x="513" 
+y="258" 
+dx="0,0,0,0,0,0" 
+class="s8_17"
+>(cái) </text>
+
+<text 
+x="543" 
+y="258" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>(not until)</text>
+
+<text 
+x="707" 
+y="97" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="97" 
+dx="0,-1.8,0" 
+class="s5_17"
+>Tea</text>
+
+<text 
+x="707" 
+y="121" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="121" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Greetings</text>
+
+<text 
+x="707" 
+y="144" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="144" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Etiquette</text>
+
+<text 
+x="67" 
+y="307" 
+dx="0,-0.4,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_17"
+>Keeping It Casual </text>
+
+<text 
+x="67" 
+y="324" 
+dx="0,0,0,0,0,0,0" 
+class="s3_17"
+>(L1–L5)</text>
+
+<text 
+x="200" 
+y="307" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="307" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Review functional </text>
+
+<text 
+x="210" 
+y="324" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>expressions</text>
+
+<text 
+x="392" 
+y="311" 
+dx="0,0,0" 
+class="s5_17"
+>1. </text>
+
+<text 
+x="405" 
+y="311" 
+dx="0,0" 
+class="s6_17"
+>算了</text>
+
+<text 
+x="455" 
+y="311" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s8_17"
+>(suàn le)</text>
+
+<text 
+x="507" 
+y="311" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>(forget it, never mind)</text>
+
+<text 
+x="390" 
+y="335" 
+dx="0,0,0" 
+class="s5_17"
+>2. </text>
+
+<text 
+x="406" 
+y="335" 
+dx="0,0" 
+class="s6_17"
+>谁呀</text>
+
+<text 
+x="456" 
+y="335" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s7_17"
+>(shéi ya) </text>
+
+<text 
+x="507" 
+y="335" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>(who is it?)</text>
+
+<text 
+x="390" 
+y="359" 
+dx="0,0,0" 
+class="s5_17"
+>3. </text>
+
+<text 
+x="406" 
+y="359" 
+dx="0,0" 
+class="s6_17"
+>是吗</text>
+
+<text 
+x="455" 
+y="359" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_17"
+>(shì ma) </text>
+
+<text 
+x="505" 
+y="359" 
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,-0.7,0" 
+class="s5_17"
+>(really, is that so?)</text>
+
+<text 
+x="67" 
+y="383" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>6 Making </text>
+
+<text 
+x="67" 
+y="400" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>Appointments</text>
+
+<text 
+x="200" 
+y="383" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="383" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Answer a phone call </text>
+
+<text 
+x="210" 
+y="400" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>and initiate a phone </text>
+
+<text 
+x="210" 
+y="417" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>conversation</text>
+
+<text 
+x="200" 
+y="440" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="440" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Set up an appointment </text>
+
+<text 
+x="210" 
+y="457" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>with a teacher on the </text>
+
+<text 
+x="210" 
+y="474" 
+dx="0,0,0,0,0" 
+class="s5_17"
+>phone</text>
+
+<text 
+x="200" 
+y="498" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="498" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Ask a favor</text>
+
+<text 
+x="200" 
+y="521" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="521" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Ask someone to return </text>
+
+<text 
+x="210" 
+y="538" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>your call</text>
+
+<text 
+x="392" 
+y="387" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>1. The preposition </text>
+
+<text 
+x="514" 
+y="387" 
+dx="0" 
+class="s6_17"
+>给</text>
+
+<text 
+x="541" 
+y="387" 
+dx="0,0,0,0,0,0" 
+class="s8_17"
+>(gěi) </text>
+
+<text 
+x="569" 
+y="387" 
+dx="0,-0.3,-0.3,-0.4,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_17"
+>(to, for)</text>
+
+<text 
+x="390" 
+y="411" 
+dx="0,0,0,0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_17"
+>2. The modal verb </text>
+
+<text 
+x="510" 
+y="411" 
+dx="0" 
+class="s6_17"
+>要</text>
+
+<text 
+x="536" 
+y="411" 
+dx="0,-0.3,-0.3,-0.3,-0.3" 
+class="s7_17"
+>(yào)</text>
+
+<text 
+x="567" 
+y="411" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_17"
+>(will, be going to) (I)</text>
+
+<text 
+x="390" 
+y="435" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>3. The adverb </text>
+
+<text 
+x="486" 
+y="435" 
+dx="0" 
+class="s6_17"
+>别</text>
+
+<text 
+x="513" 
+y="435" 
+dx="0,0,0,0,0" 
+class="s7_17"
+>(bié)</text>
+
+<text 
+x="542" 
+y="435" 
+dx="0,0,0,0,-0.1,0,0" 
+class="s5_17"
+>(don’t)</text>
+
+<text 
+x="390" 
+y="458" 
+dx="0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>4. Time expressions</text>
+
+<text 
+x="390" 
+y="482" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>5. The modal verb </text>
+
+<text 
+x="515" 
+y="482" 
+dx="0" 
+class="s6_17"
+>得</text>
+
+<text 
+x="542" 
+y="482" 
+dx="0,0,0,0,0,0" 
+class="s8_17"
+>(děi) </text>
+
+<text 
+x="571" 
+y="482" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>(must, have to)</text>
+
+<text 
+x="390" 
+y="506" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>6. Directional complements (I)</text>
+
+<text 
+x="707" 
+y="383" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="383" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Phone etiquette</text>
+
+<text 
+x="707" 
+y="407" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="407" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Cell phones</text>
+
+<text 
+x="707" 
+y="430" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="430" 
+dx="0,-1.8,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Terms for </text>
+
+<text 
+x="716" 
+y="447" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Mandarin</text>
+
+<text 
+x="67" 
+y="562" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s3_17"
+>7 Studying </text>
+
+<text 
+x="67" 
+y="579" 
+dx="0,0,0,0,0,0,0" 
+class="s3_17"
+>Chinese</text>
+
+<text 
+x="200" 
+y="562" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="562" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0" 
+class="s5_17"
+>Discuss your exam </text>
+
+<text 
+x="210" 
+y="579" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>performance</text>
+
+<text 
+x="200" 
+y="603" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="603" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Comment on your </text>
+
+<text 
+x="210" 
+y="620" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>character writing</text>
+
+<text 
+x="200" 
+y="643" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="643" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Discuss your experience </text>
+
+<text 
+x="210" 
+y="660" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>learning Chinese</text>
+
+<text 
+x="200" 
+y="684" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="684" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Talk about your study </text>
+
+<text 
+x="210" 
+y="701" 
+dx="0,0,0,0,0,0" 
+class="s5_17"
+>habits</text>
+
+<text 
+x="200" 
+y="724" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="724" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Describe typical </text>
+
+<text 
+x="210" 
+y="741" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>classroom situations</text>
+
+<text 
+x="392" 
+y="562" 
+dx="0,-0.3,-0.3,1.2,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_17"
+>1. Descriptive complements (I)</text>
+
+<text 
+x="390" 
+y="586" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>2. The adverbs </text>
+
+<text 
+x="494" 
+y="586" 
+dx="0" 
+class="s6_17"
+>太</text>
+
+<text 
+x="521" 
+y="586" 
+dx="0,0,0,0,0,0" 
+class="s7_17"
+>(tài) </text>
+
+<text 
+x="548" 
+y="586" 
+dx="0,0,0,0,0,0,0" 
+class="s5_17"
+>(too), </text>
+
+<text 
+x="585" 
+y="586" 
+dx="0" 
+class="s6_17"
+>真</text>
+
+<text 
+x="612" 
+y="586" 
+dx="0,0,0,0,0,0" 
+class="s8_17"
+>(zhēn)</text>
+
+<text 
+x="406" 
+y="606" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>(really), and </text>
+
+<text 
+x="486" 
+y="606" 
+dx="0" 
+class="s6_17"
+>很</text>
+
+<text 
+x="513" 
+y="606" 
+dx="0,0,0,0,0,0" 
+class="s8_17"
+>(hěn) </text>
+
+<text 
+x="546" 
+y="606" 
+dx="0,0,0,0,0,0" 
+class="s5_17"
+>(very)</text>
+
+<text 
+x="390" 
+y="630" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>3. The adverb</text>
+
+<text 
+x="488" 
+y="630" 
+dx="0" 
+class="s6_17"
+>就</text>
+
+<text 
+x="515" 
+y="630" 
+dx="0,0,0,0,0" 
+class="s7_17"
+>(jiù)</text>
+
+<text 
+x="541" 
+y="630" 
+dx="0,0,0" 
+class="s5_17"
+>(I)</text>
+
+<text 
+x="390" 
+y="653" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>4. Double objects</text>
+
+<text 
+x="390" 
+y="677" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>5. Ordinal numbers</text>
+
+<text 
+x="390" 
+y="701" 
+dx="0,0,0" 
+class="s5_17"
+>6. </text>
+
+<text 
+x="406" 
+y="701" 
+dx="0,0,0,0,0,0" 
+class="s6_17"
+>有（一）点儿</text>
+
+<text 
+x="548" 
+y="701" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_17"
+>(yǒu[yì]diǎnr) </text>
+
+<text 
+x="406" 
+y="720" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>(somewhat, rather, a little bit)</text>
+
+<text 
+x="390" 
+y="744" 
+dx="0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>7. Question pronoun: </text>
+
+<text 
+x="532" 
+y="744" 
+dx="0,0" 
+class="s6_17"
+>怎么</text>
+
+<text 
+x="582" 
+y="744" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_17"
+>(zěnme) </text>
+
+<text 
+x="630" 
+y="744" 
+dx="0,0,0,0,-0.7,0" 
+class="s5_17"
+>(how, </text>
+
+<text 
+x="403" 
+y="761" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>how come)</text>
+
+<text 
+x="390" 
+y="785" 
+dx="0,0,0,0,0,0,0" 
+class="s5_17"
+>8. The </text>
+
+<text 
+x="436" 
+y="785" 
+dx="0" 
+class="s6_17"
+>的</text>
+
+<text 
+x="462" 
+y="785" 
+dx="0,0,0,0" 
+class="s7_17"
+>(de)</text>
+
+<text 
+x="488" 
+y="785" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>structure (I)</text>
+
+<text 
+x="390" 
+y="808" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>9. Connecting sentences in continuous </text>
+
+<text 
+x="406" 
+y="825" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>discourse</text>
+
+<text 
+x="707" 
+y="562" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="562" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Simplified vs. </text>
+
+<text 
+x="716" 
+y="579" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>traditional </text>
+
+<text 
+x="716" 
+y="596" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>characters</text>
+
+<text 
+x="707" 
+y="620" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="620" 
+dx="0,-0.5,0,0,0,0,0,0" 
+class="s5_17"
+>Writing </text>
+
+<text 
+x="716" 
+y="636" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>conventions</text>
+
+<text 
+x="707" 
+y="660" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="660" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Four treasures </text>
+
+<text 
+x="716" 
+y="677" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>of the study</text>
+
+<text 
+x="67" 
+y="849" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_17"
+>8 School Life</text>
+
+<text 
+x="200" 
+y="849" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="849" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0" 
+class="s5_17"
+>Describe a student’s </text>
+
+<text 
+x="210" 
+y="866" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>daily routine </text>
+
+<text 
+x="200" 
+y="890" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="890" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Write a simple diary </text>
+
+<text 
+x="210" 
+y="907" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>entry or blog post</text>
+
+<text 
+x="200" 
+y="930" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="930" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Write a brief letter or </text>
+
+<text 
+x="210" 
+y="947" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>formal email applying </text>
+
+<text 
+x="210" 
+y="964" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>appropriate conventions</text>
+
+<text 
+x="200" 
+y="988" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="988" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Update a friend on </text>
+
+<text 
+x="210" 
+y="1004" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>recent activities</text>
+
+<text 
+x="200" 
+y="1028" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="210" 
+y="1028" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Express hope that a </text>
+
+<text 
+x="210" 
+y="1045" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>friend will accept your </text>
+
+<text 
+x="210" 
+y="1062" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>invitation</text>
+
+<text 
+x="393" 
+y="849" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>1. The position of time-when expressions</text>
+
+<text 
+x="390" 
+y="873" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>2. The adverb </text>
+
+<text 
+x="486" 
+y="873" 
+dx="0" 
+class="s6_17"
+>就</text>
+
+<text 
+x="513" 
+y="873" 
+dx="0,0,0,0,0" 
+class="s7_17"
+>(jiù)</text>
+
+<text 
+x="540" 
+y="873" 
+dx="0,0,0,0" 
+class="s5_17"
+>(II)</text>
+
+<text 
+x="390" 
+y="897" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>3. Describing simultaneity using</text>
+
+<text 
+x="601" 
+y="897" 
+dx="0,0,0,0,0,0,0" 
+class="s6_17"
+>一边. . .</text>
+
+<text 
+x="406" 
+y="917" 
+dx="0,0,0,0,0,0,0" 
+class="s6_17"
+>一边. . .</text>
+
+<text 
+x="482" 
+y="917" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_17"
+>(yìbiān . . . yìbiān . . . )</text>
+
+<text 
+x="390" 
+y="940" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>4. Series of verbs/verb phrases</text>
+
+<text 
+x="390" 
+y="964" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>5. The particle </text>
+
+<text 
+x="489" 
+y="964" 
+dx="0" 
+class="s6_17"
+>了</text>
+
+<text 
+x="516" 
+y="964" 
+dx="0,0,0,0" 
+class="s7_17"
+>(le)</text>
+
+<text 
+x="537" 
+y="964" 
+dx="0,0,0,0" 
+class="s5_17"
+>(II)</text>
+
+<text 
+x="390" 
+y="988" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>6. The particle </text>
+
+<text 
+x="489" 
+y="988" 
+dx="0" 
+class="s6_17"
+>的</text>
+
+<text 
+x="516" 
+y="988" 
+dx="0,0,0,0" 
+class="s7_17"
+>(de)</text>
+
+<text 
+x="542" 
+y="988" 
+dx="0,0,0,0,0" 
+class="s5_17"
+>(III)</text>
+
+<text 
+x="390" 
+y="1011" 
+dx="0,-1.5,0,0,-0.3,-0.3,-0.3" 
+class="s5_17"
+>7. The </text>
+
+<text 
+x="432" 
+y="1011" 
+dx="0,-0.5" 
+class="s6_17"
+>正在</text>
+
+<text 
+x="480" 
+y="1011" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_17"
+>v structure </text>
+
+<text 
+x="551" 
+y="1011" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s7_17"
+>(zhèngzài) </text>
+
+<text 
+x="609" 
+y="1011" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s5_17"
+>(be doing</text>
+
+<text 
+x="670" 
+y="1011" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s8_17"
+>. . . </text>
+
+<text 
+x="690" 
+y="1011" 
+dx="0" 
+class="s5_17"
+>)</text>
+
+<text 
+x="390" 
+y="1035" 
+dx="0,0,0,0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s5_17"
+>8. Indicating inclusiveness: </text>
+
+<text 
+x="568" 
+y="1035" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s6_17"
+>除了. . .以</text>
+
+<text 
+x="406" 
+y="1058" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s6_17"
+>外，还/也. . .</text>
+
+<text 
+x="537" 
+y="1058" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s8_17"
+>(chúle . . . yǐwài, hái/yě . . . )</text>
+
+<text 
+x="406" 
+y="1075" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.3,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s5_17"
+>(in addition to, also)</text>
+
+<text 
+x="390" 
+y="1101" 
+dx="0,-0.5,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>9. Comparing </text>
+
+<text 
+x="483" 
+y="1101" 
+dx="0" 
+class="s6_17"
+>能</text>
+
+<text 
+x="510" 
+y="1101" 
+dx="0,0,0,0,0,0" 
+class="s7_17"
+>(néng)</text>
+
+<text 
+x="550" 
+y="1101" 
+dx="0,0,0,0" 
+class="s5_17"
+>and </text>
+
+<text 
+x="579" 
+y="1101" 
+dx="0" 
+class="s6_17"
+>会</text>
+
+<text 
+x="606" 
+y="1101" 
+dx="0,0,0,0,0" 
+class="s8_17"
+>(huì)</text>
+
+<text 
+x="636" 
+y="1101" 
+dx="0,0,0,0" 
+class="s5_17"
+>(I) </text>
+
+<text 
+x="386" 
+y="1125" 
+dx="0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>10. The conjunctions </text>
+
+<text 
+x="526" 
+y="1125" 
+dx="0,0" 
+class="s6_17"
+>要是</text>
+
+<text 
+x="575" 
+y="1125" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_17"
+>(yàoshi)</text>
+
+<text 
+x="623" 
+y="1125" 
+dx="0,0,0,0" 
+class="s5_17"
+>and </text>
+
+<text 
+x="653" 
+y="1125" 
+dx="0" 
+class="s6_17"
+>因</text>
+
+<text 
+x="407" 
+y="1148" 
+dx="0" 
+class="s6_17"
+>为</text>
+
+<text 
+x="434" 
+y="1148" 
+dx="0,0,0,0,0,0,0,0" 
+class="s8_17"
+>(yīnwèi)</text>
+
+<text 
+x="483" 
+y="1148" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>and the adverb </text>
+
+<text 
+x="588" 
+y="1148" 
+dx="0" 
+class="s6_17"
+>就</text>
+
+<text 
+x="615" 
+y="1148" 
+dx="0,0,0,0,0,0" 
+class="s7_17"
+>(jiù) </text>
+
+<text 
+x="642" 
+y="1148" 
+dx="0,0,0,0,0" 
+class="s5_17"
+>(III)</text>
+
+<text 
+x="707" 
+y="849" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="849" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Semesters</text>
+
+<text 
+x="707" 
+y="873" 
+dx="0,0" 
+class="s4_17"
+>• </text>
+
+<text 
+x="716" 
+y="873" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>Letter-writing </text>
+
+<text 
+x="716" 
+y="890" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_17"
+>conventions</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Regular_2r-;
+	src: url("fonts/ProximaNova-Regular_2r-.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2s2;
+	src: url("fonts/ProximaNova-Bold_2s2.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2sk;
+	src: url("fonts/Marion-Italic_2sk.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-700_2s6;
+	src: url("fonts/MuseoSlab-700_2s6.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

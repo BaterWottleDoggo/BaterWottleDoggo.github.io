@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 252 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_252"><path d="M249.3,487l0,-17.1l17.1,0l0,17.1Z" /></clipPath>
+<clipPath id="c1_252"><path d="M0,1196.3L0,527.6l14,0l0,668.7Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_252{
+fill: none;
+stroke: #007598;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_252{
+fill: none;
+stroke: #007598;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_252{
+fill: none;
+stroke: #007D9F;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_252{
+fill: none;
+stroke: #EDF3F7;
+stroke-width: 33.61111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_252{
+fill: #DC252E;
+}
+.g6_252{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.2916667;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+}
+.g7_252{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_252{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_252{
+fill: #FED205;
+}
+.g10_252{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g11_252{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_252{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_49y;
+fill: #007598;
+}
+.s2_252{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_49y;
+fill: #007D9F;
+}
+.s3_252{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_49-;
+fill: #007D9F;
+}
+.s4_252{
+font-size: 17.57px;
+font-family: LibreFranklin-Medium_49u;
+fill: #231F20;
+}
+.s5_252{
+font-size: 22.92px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #231F20;
+}
+.s6_252{
+font-size: 17.19px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #3F3F40;
+}
+.s7_252{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_4a8;
+fill: #3F3F40;
+}
+.s8_252{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_49y;
+fill: #3F3F40;
+}
+.s9_252{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s10_252{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #007D9F;
+}
+.s11_252{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s12_252{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s13_252{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_4af;
+fill: #007D9F;
+}
+.s14_252{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_4af;
+fill: #3F3F40;
+}
+.s15_252{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_4a1;
+fill: #3F3F40;
+}
+.s16_252{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_49_;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0.8,97.3l211.5,0" class="g1_252" />
+<path d="M0.8,99.8l211.5,0" class="g2_252" />
+<path d="M119.1,181.1l12.9,0" class="g3_252" />
+<path d="M148.2,238l679.9,0" class="g4_252" />
+<text 
+x="62" 
+y="85" 
+dx="0,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_252"
+>Grammar</text>
+
+<text 
+x="119" 
+y="177" 
+dx="0,0" 
+class="s2_252"
+>1 </text>
+
+<text 
+x="370" 
+y="182" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_252"
+>Duration of inactivity</text>
+
+<text 
+x="311" 
+y="244" 
+dx="0,0.2,0.2,0.2,0.2,0.2,-0.2,0.2,0.2,-0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_252"
+>Time expression + </text>
+
+<text 
+x="468" 
+y="244" 
+dx="0" 
+class="s5_252"
+>没</text>
+
+<text 
+x="495" 
+y="244" 
+dx="0,0.3,0.3,0.3,0.3" 
+class="s6_252"
+>(méi)</text>
+
+<text 
+x="535" 
+y="244" 
+dx="0,0.2,0.2,-0.4,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s4_252"
+>+ verb + (</text>
+
+<text 
+x="609" 
+y="244" 
+dx="0" 
+class="s5_252"
+>了</text>
+
+<text 
+x="632" 
+y="244" 
+dx="0,0.2" 
+class="s4_252"
+>) </text>
+
+<text 
+x="642" 
+y="244" 
+dx="0,0.3,0.3,0.3" 
+class="s6_252"
+>(le)</text>
+
+<text 
+x="157" 
+y="285" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_252"
+>This structure indicates that an action has not been or was not performed for a certain period </text>
+
+<text 
+x="157" 
+y="312" 
+dx="0,-0.2,0,0,0,0,0,0" 
+class="s7_252"
+>of time.</text>
+
+<text 
+x="169" 
+y="376" 
+dx="0,0" 
+class="s8_252"
+>A </text>
+
+<text 
+x="239" 
+y="378" 
+dx="0" 
+class="s9_252"
+>他</text>
+
+<text 
+x="271" 
+y="378" 
+dx="0,0,0,0,0,0" 
+class="s10_252"
+>三天没上网了</text>
+
+<text 
+x="464" 
+y="378" 
+dx="0" 
+class="s9_252"
+>。</text>
+
+<text 
+x="245" 
+y="415" 
+dx="0,0.3,0.3" 
+class="s11_252"
+>Tā </text>
+
+<text 
+x="266" 
+y="415" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s12_252"
+>sān tiān méi shàng wǎng </text>
+
+<text 
+x="434" 
+y="415" 
+dx="0,0.3" 
+class="s13_252"
+>le</text>
+
+<text 
+x="445" 
+y="415" 
+dx="0" 
+class="s14_252"
+>.</text>
+
+<text 
+x="245" 
+y="447" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s7_252"
+>He hasn’t been online for three days.</text>
+
+<text 
+x="240" 
+y="486" 
+dx="0" 
+class="s15_252"
+>[</text>
+
+<g clip-path="url(#c0_252)">
+<path d="M257.8,487c4.8,0,8.6,-3.9,8.6,-8.6c0,-4.7,-3.8,-8.5,-8.6,-8.5c-4.7,0,-8.5,3.8,-8.5,8.5c0,4.7,3.8,8.6,8.5,8.6Z" class="g5_252" />
+</g>
+<path d="M254.1,474.7l7.5,7.5" class="g6_252" />
+<path d="M261.6,474.7l-7.5,7.5" class="g6_252" />
+<text 
+x="274" 
+y="486" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_252"
+>他没上网三天了。]</text>
+
+<text 
+x="169" 
+y="552" 
+dx="0,0" 
+class="s8_252"
+>B </text>
+
+<text 
+x="239" 
+y="555" 
+dx="0" 
+class="s9_252"
+>我</text>
+
+<text 
+x="271" 
+y="555" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_252"
+>两年没检查身体了</text>
+
+<text 
+x="528" 
+y="555" 
+dx="0" 
+class="s9_252"
+>。</text>
+
+<text 
+x="245" 
+y="592" 
+dx="0,0.3,0.3" 
+class="s11_252"
+>Wǒ </text>
+
+<text 
+x="270" 
+y="592" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s12_252"
+>liǎng nián méi jiǎnchá shēntǐ </text>
+
+<text 
+x="466" 
+y="592" 
+dx="0,0.3" 
+class="s13_252"
+>le</text>
+
+<text 
+x="478" 
+y="592" 
+dx="0" 
+class="s14_252"
+>.</text>
+
+<text 
+x="245" 
+y="624" 
+dx="0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_252"
+>I haven’t had a check-up in two years.</text>
+
+<text 
+x="169" 
+y="688" 
+dx="0,0" 
+class="s8_252"
+>C </text>
+
+<text 
+x="239" 
+y="690" 
+dx="0,0,0,0,0,0" 
+class="s9_252"
+>我的狗病了，</text>
+
+<text 
+x="432" 
+y="690" 
+dx="0,0,0,0,0,0,0" 
+class="s10_252"
+>一天没吃东西了</text>
+
+<text 
+x="656" 
+y="690" 
+dx="0" 
+class="s9_252"
+>。</text>
+
+<text 
+x="245" 
+y="727" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s11_252"
+>Wǒ de gǒu bìng le, </text>
+
+<text 
+x="369" 
+y="727" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s12_252"
+>yì tiān méi chī dōngxi </text>
+
+<text 
+x="516" 
+y="727" 
+dx="0,0.3" 
+class="s13_252"
+>le</text>
+
+<text 
+x="527" 
+y="727" 
+dx="0" 
+class="s14_252"
+>.</text>
+
+<text 
+x="245" 
+y="759" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-1" 
+class="s7_252"
+>My dog is sick; she hasn’t eaten anything for a day.</text>
+
+<text 
+x="169" 
+y="823" 
+dx="0,0" 
+class="s8_252"
+>D </text>
+
+<text 
+x="239" 
+y="825" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_252"
+>妹妹上个月特别忙，</text>
+
+<text 
+x="528" 
+y="825" 
+dx="0,0,0,0,0,0,0" 
+class="s10_252"
+>三个星期没回家</text>
+
+<text 
+x="753" 
+y="825" 
+dx="0" 
+class="s9_252"
+>。</text>
+
+<text 
+x="245" 
+y="862" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s11_252"
+>Mèimei shàng ge yuè tèbié máng, </text>
+
+<text 
+x="468" 
+y="862" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s12_252"
+>sān ge xīngqī méi huí jiā</text>
+
+<text 
+x="629" 
+y="862" 
+dx="0" 
+class="s14_252"
+>.</text>
+
+<text 
+x="245" 
+y="894" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_252"
+>My younger sister was especially busy last month, and she didn’t come home </text>
+
+<text 
+x="245" 
+y="912" 
+dx="0,-0.3,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0" 
+class="s7_252"
+>for three weeks.</text>
+
+<text 
+x="169" 
+y="976" 
+dx="0,0" 
+class="s8_252"
+>E </text>
+
+<text 
+x="239" 
+y="978" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_252"
+>去年寒假我去英国旅行，</text>
+
+<text 
+x="592" 
+y="978" 
+dx="0,0,0,0,0" 
+class="s10_252"
+>一个月没吃</text>
+
+<text 
+x="239" 
+y="1017" 
+dx="0,0,0" 
+class="s10_252"
+>中国菜</text>
+
+<text 
+x="336" 
+y="1017" 
+dx="0" 
+class="s9_252"
+>。</text>
+
+<text 
+x="245" 
+y="1054" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s11_252"
+>Qùnián hánjià wǒ qù Yīngguó lǚxíng, </text>
+
+<text 
+x="495" 
+y="1054" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s12_252"
+>yí ge yuè méi chī Zhōngguó cài</text>
+
+<text 
+x="698" 
+y="1054" 
+dx="0" 
+class="s14_252"
+>.</text>
+
+<text 
+x="245" 
+y="1086" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.4,-0.5,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_252"
+>I went on a trip to the UK over winter break last year, and didn’t eat any </text>
+
+<text 
+x="245" 
+y="1104" 
+dx="0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0" 
+class="s7_252"
+>Chinese food for a month.</text>
+
+<path d="M146.6,146.9l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g7_252" />
+<path d="M148.7,199.1l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g8_252" />
+<path d="M164.4,353.2c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g7_252" />
+<path d="M164.4,355.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_252" />
+<path d="M164.4,529.6c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g7_252" />
+<path d="M164.4,531.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_252" />
+<path d="M164.4,664.7c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g7_252" />
+<path d="M164.4,666.8c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,-0.1,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_252" />
+<path d="M164.4,799.9c-0.1,0,-7.7,0,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g7_252" />
+<path d="M164.4,801.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_252" />
+<path d="M164.4,953.3c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.6c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.6c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g7_252" />
+<path d="M164.4,955.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.6c0,0.6,0.2,5.7,5.6,5.7l22.4,0c0.5,-0.1,5.6,-0.3,5.6,-5.7l0,-19.6c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g8_252" />
+<g clip-path="url(#c1_252)">
+<path d="M-720.8,2962C-1433,2912.2,-1972.7,2334.8,-1926.4,1672.2C-1880,1009.6,-1265.2,512.9,-553.1,562.7C159,612.5,698.7,1190,652.4,1852.5C606,2515.1,-8.7,3011.8,-720.8,2962Z" class="g9_252" />
+</g>
+<image preserveAspectRatio="none" x="-1" y="471" width="114" height="727" xlink:href="252/img/1.png" />
+<g clip-path="url(#c1_252)">
+<path d="M-720.8,2962C-1433,2912.2,-1972.7,2334.8,-1926.4,1672.2C-1880,1009.6,-1265.2,512.9,-553.1,562.7C159,612.5,698.7,1190,652.4,1852.5C606,2515.1,-8.7,3011.8,-720.8,2962Z" class="g10_252" />
+</g>
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g11_252" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 923)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s16_252"
+>Lesson 18 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 995)"
+dx="0,1" 
+class="s16_252"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1009)"
+dx="0,1,1,1,1,1,1" 
+class="s16_252"
+>Sports </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1061)"
+dx="0,1" 
+class="s16_252"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1075)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s16_252"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1151)"
+dx="0,1,1,-2.3" 
+class="s16_252"
+>231 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Regular_4a8;
+	src: url("fonts/LibreFranklin-Regular_4a8.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_49-;
+	src: url("fonts/LibreFranklin-Bold_49-.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_49_;
+	src: url("fonts/LibreFranklin-SemiBold_49_.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_4af;
+	src: url("fonts/GentiumBasic-Italic_4af.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_49u;
+	src: url("fonts/LibreFranklin-Medium_49u.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_4a1;
+	src: url("fonts/STKaiti-SC-Regular_4a1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_49y;
+	src: url("fonts/LibreFranklin-ExtraBold_49y.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 335 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_335"><path d="M165.5,76.7l0,-14.4l90.8,0l0,14.4Z" /></clipPath>
+<clipPath id="c1_335"><path d="M724.5,584.7l0,-14.5l90.8,0l0,14.5Z" /></clipPath>
+<clipPath id="c2_335"><path d="M165.5,584.7l0,-14.5l90.8,0l0,14.5Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_335{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_335{
+fill: none;
+stroke: #3F3F40;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_335{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_335{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_335{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 3.0555556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_335{
+fill: none;
+stroke: #F2674F;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_335{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g8_335{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_335{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_335{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_335{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_43o;
+fill: #8F4198;
+}
+.s2_335{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_43q;
+fill: #8F4198;
+}
+.s3_335{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_43y;
+fill: #3F3F40;
+}
+.s4_335{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s5_335{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s6_335{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s7_335{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s8_335{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_43o;
+fill: #872B91;
+}
+.s9_335{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #872B91;
+}
+.s10_335{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #872B91;
+}
+.s11_335{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_43s;
+fill: #872B91;
+}
+.s12_335{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_43z;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M123.8,78.3l12.2,0" class="g1_335" />
+<path d="M201.7,411.4l103.9,0" class="g2_335" />
+<path d="M357.5,411.4l103.9,0" class="g2_335" />
+<path d="M513.3,411.4l52,0" class="g2_335" />
+<path d="M201.7,458.7l103.9,0" class="g2_335" />
+<path d="M526.3,458.7l52,0" class="g2_335" />
+<path d="M201.7,506.1l103.9,0" class="g2_335" />
+<path d="M526.3,506.1l52,0" class="g2_335" />
+<path d="M123.8,586.3l12.2,0" class="g1_335" />
+<text 
+x="123" 
+y="72" 
+dx="0,0" 
+class="s1_335"
+>C </text>
+
+<text 
+x="393" 
+y="77" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s2_335"
+>Geography whiz</text>
+
+<text 
+x="161" 
+y="139" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_335"
+>In pairs, locate </text>
+
+<text 
+x="261" 
+y="140" 
+dx="0,0" 
+class="s4_335"
+>长江</text>
+
+<text 
+x="309" 
+y="139" 
+dx="0" 
+class="s3_335"
+>/</text>
+
+<text 
+x="314" 
+y="140" 
+dx="0,0" 
+class="s5_335"
+>長江</text>
+
+<text 
+x="364" 
+y="139" 
+dx="0,0,0,0" 
+class="s3_335"
+>and </text>
+
+<text 
+x="393" 
+y="140" 
+dx="0,0" 
+class="s4_335"
+>黄河</text>
+
+<text 
+x="440" 
+y="139" 
+dx="0" 
+class="s3_335"
+>/</text>
+
+<text 
+x="445" 
+y="140" 
+dx="0,0" 
+class="s5_335"
+>黃河</text>
+
+<text 
+x="495" 
+y="139" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s3_335"
+>on the map of China at the bottom of page 318 </text>
+
+<text 
+x="161" 
+y="161" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_335"
+>and answer this question:</text>
+
+<text 
+x="161" 
+y="216" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_335"
+>长江在黄河的北边还是南边？</text>
+
+<text 
+x="161" 
+y="263" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_335"
+>長江在黃河的北邊還是南邊？</text>
+
+<text 
+x="161" 
+y="307" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s3_335"
+>Then work with your partner to locate a mountain, a plateau, and a plain on another map of </text>
+
+<text 
+x="161" 
+y="330" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s3_335"
+>China. Write down the full names of the mountain, plateau, and plain, asking your instructor </text>
+
+<text 
+x="161" 
+y="353" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0" 
+class="s3_335"
+>to help you pronounce them if necessary. Finally, tell your class where they are located.</text>
+
+<text 
+x="172" 
+y="407" 
+dx="0,0.2" 
+class="s8_335"
+>1 </text>
+
+<text 
+x="305" 
+y="407" 
+dx="0,0" 
+class="s6_335"
+>山在</text>
+
+<text 
+x="461" 
+y="407" 
+dx="0,0" 
+class="s6_335"
+>省的</text>
+
+<text 
+x="565" 
+y="407" 
+dx="0,0" 
+class="s6_335"
+>部。</text>
+
+<text 
+x="172" 
+y="455" 
+dx="0,0.2" 
+class="s8_335"
+>2 </text>
+
+<text 
+x="305" 
+y="455" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_335"
+>高原在中国/中國的</text>
+
+<text 
+x="578" 
+y="455" 
+dx="0,0" 
+class="s6_335"
+>部。</text>
+
+<text 
+x="172" 
+y="502" 
+dx="0,0.2" 
+class="s8_335"
+>3 </text>
+
+<text 
+x="305" 
+y="502" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s6_335"
+>平原在中国/中國的</text>
+
+<text 
+x="578" 
+y="502" 
+dx="0,0" 
+class="s6_335"
+>部。</text>
+
+<text 
+x="123" 
+y="580" 
+dx="0,0" 
+class="s1_335"
+>D </text>
+
+<text 
+x="421" 
+y="585" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s2_335"
+>In the region</text>
+
+<text 
+x="161" 
+y="642" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s3_335"
+>Check the boxes to indicate the regions in which most of China’s major mountain ranges, </text>
+
+<text 
+x="161" 
+y="665" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.1,0,0,0,0,0" 
+class="s3_335"
+>deserts, plateaus, and plains are located, referring to the map at the bottom of page 318.</text>
+
+<path d="M318.5,780.1l0,-38.6" class="g3_335" />
+<path d="M440.6,780.1l0,-38.6" class="g3_335" />
+<path d="M562.6,780.1l0,-38.6" class="g3_335" />
+<path d="M684.6,780.1l0,-38.6" class="g3_335" />
+<path d="M318.5,899.6l0,-39.4" class="g3_335" />
+<path d="M440.6,899.6l0,-39.4" class="g3_335" />
+<path d="M562.6,899.6l0,-39.4" class="g3_335" />
+<path d="M684.6,899.6l0,-39.4" class="g3_335" />
+<path d="M194,900.3l124.5,0" class="g4_335" />
+<path d="M318.5,900.3l122.1,0" class="g4_335" />
+<path d="M440.6,900.3l122,0" class="g4_335" />
+<path d="M562.6,900.3l122,0" class="g4_335" />
+<path d="M684.6,900.3l122.1,0" class="g4_335" />
+<path d="M194,740l124.5,0" class="g5_335" />
+<path d="M318.5,740l122.1,0" class="g5_335" />
+<path d="M440.6,740l122,0" class="g5_335" />
+<path d="M562.6,740l122,0" class="g5_335" />
+<path d="M684.6,740l122.1,0" class="g5_335" />
+<path d="M318.5,820.2l0,-40.1" class="g3_335" />
+<path d="M440.6,820.2l0,-40.1" class="g3_335" />
+<path d="M562.6,820.2l0,-40.1" class="g3_335" />
+<path d="M684.6,820.2l0,-40.1" class="g3_335" />
+<path d="M318.5,860.2l0,-40" class="g3_335" />
+<path d="M440.6,860.2l0,-40" class="g3_335" />
+<path d="M562.6,860.2l0,-40" class="g3_335" />
+<path d="M684.6,860.2l0,-40" class="g3_335" />
+<text 
+x="326" 
+y="729" 
+dx="0,0" 
+class="s9_335"
+>东南</text>
+
+<text 
+x="378" 
+y="729" 
+dx="0" 
+class="s3_335"
+>/</text>
+
+<text 
+x="383" 
+y="729" 
+dx="0,0" 
+class="s9_335"
+>東南</text>
+
+<text 
+x="479" 
+y="729" 
+dx="0,0" 
+class="s9_335"
+>西南</text>
+
+<text 
+x="570" 
+y="729" 
+dx="0,0" 
+class="s9_335"
+>东北</text>
+
+<text 
+x="622" 
+y="729" 
+dx="0" 
+class="s3_335"
+>/</text>
+
+<text 
+x="627" 
+y="729" 
+dx="0,0" 
+class="s9_335"
+>東北</text>
+
+<text 
+x="723" 
+y="729" 
+dx="0,0" 
+class="s9_335"
+>西北</text>
+
+<text 
+x="202" 
+y="769" 
+dx="0,0" 
+class="s9_335"
+>高山</text>
+
+<path d="M369.1,768.1l15,0l0,-15.1l-15,0l0,15.1Z" class="g6_335" />
+<path d="M491.1,768.1l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<path d="M613.1,768.1l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<path d="M738.1,768.1l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<text 
+x="202" 
+y="809" 
+dx="0,0" 
+class="s9_335"
+>高原</text>
+
+<path d="M369.1,808.2l15,0l0,-15.1l-15,0l0,15.1Z" class="g6_335" />
+<path d="M491.1,808.2l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<path d="M613.1,808.2l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<path d="M738.1,808.2l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<text 
+x="202" 
+y="849" 
+dx="0,0" 
+class="s9_335"
+>沙漠</text>
+
+<text 
+x="253" 
+y="849" 
+dx="0" 
+class="s3_335"
+>/</text>
+
+<text 
+x="258" 
+y="849" 
+dx="0,0" 
+class="s10_335"
+>沙漠</text>
+
+<path d="M369.1,848.3l15,0l0,-15.1l-15,0l0,15.1Z" class="g6_335" />
+<path d="M491.1,848.3l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<path d="M613.1,848.3l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<path d="M738.1,848.3l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<text 
+x="202" 
+y="889" 
+dx="0,0" 
+class="s9_335"
+>平原</text>
+
+<path d="M369.1,888.4l15,0l0,-15.1l-15,0l0,15.1Z" class="g6_335" />
+<path d="M491.1,888.4l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<path d="M613.1,888.4l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<path d="M738.1,888.4l15.1,0l0,-15.1l-15.1,0l0,15.1Z" class="g6_335" />
+<text 
+x="161" 
+y="948" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_335"
+>First, recap your assertions in a short, organized paragraph. </text>
+
+<text 
+x="161" 
+y="985" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0" 
+class="s3_335"
+>Second, briefly describe the direction in which many major rivers run.</text>
+
+<text 
+x="161" 
+y="1021" 
+dx="0,0,0,0,-0.2,0,0" 
+class="s3_335"
+>Third, </text>
+
+<text 
+x="206" 
+y="1021" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s3_335"
+>describe how the population is distributed along the coast vs. in plateau areas. </text>
+
+<text 
+x="161" 
+y="1058" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.9,0" 
+class="s3_335"
+>In pairs, connect your three points with appropriate cohesive devices, and decide if there’s </text>
+
+<text 
+x="161" 
+y="1081" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_335"
+>anything else about Chinese geography that you can add. </text>
+
+<text 
+x="161" 
+y="1118" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-1.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-1.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,0" 
+class="s3_335"
+>Finally, present your basic introduction to the geography of China to your class. For a challenge, </text>
+
+<text 
+x="161" 
+y="1140" 
+dx="0,-0.1,-0.3,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-1.7,-0.1,-0.1,-1.4,-0.1,-0.1,-0.1" 
+class="s3_335"
+>create a slideshow to enhance your presentation or film a presentation and upload it to YouTube.</text>
+
+<path d="M151.2,41.8l0,53.5l0,0.8l0.8,0l676.9,0l0.7,0l0,-0.8l0,-53.5l0,-0.7l-0.7,0L152,41.1l-0.8,0l0,0.7Z" class="g7_335" />
+<path d="M153.2,94l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g8_335" />
+<text 
+x="620" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_335"
+>INTERPERSONAL</text>
+
+<path d="M616.7,76.7l90.8,0l0,-14.4l-90.8,0l0,14.4Z" class="g9_335" />
+<text 
+x="726" 
+y="73" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s11_335"
+>PRESENTATIONAL</text>
+
+<path d="M724.5,76.7l90.8,0l0,-14.4l-90.8,0l0,14.4Z" class="g9_335" />
+<text 
+x="175" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_335"
+>INTERPRETIVE</text>
+
+<g clip-path="url(#c0_335)">
+<path d="M165.5,76.7l90.8,0l0,-14.4l-90.8,0l0,14.4Z" class="g9_335" />
+</g>
+<path d="M151.2,549.8l0,53.5l0,0.7l0.8,0l676.9,0l0.7,0l0,-0.7l0,-53.5l0,-0.8l-0.7,0L152,549l-0.8,0l0,0.8Z" class="g7_335" />
+<path d="M153.2,602l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g8_335" />
+<text 
+x="726" 
+y="581" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s11_335"
+>PRESENTATIONAL</text>
+
+<g clip-path="url(#c1_335)">
+<path d="M724.5,584.7l90.8,0l0,-14.5l-90.8,0l0,14.5Z" class="g9_335" />
+</g>
+<text 
+x="175" 
+y="581" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_335"
+>INTERPRETIVE</text>
+
+<g clip-path="url(#c2_335)">
+<path d="M165.5,584.7l90.8,0l0,-14.5l-90.8,0l0,14.5Z" class="g9_335" />
+</g>
+<path d="M-26.6,1209.2l67.1,0l0,-1222.1l-67.1,0l0,1222.1Z" class="g10_335" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s12_335"
+>312 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1130)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s12_335"
+>Integrated Chinese 3 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 990)"
+dx="0,1" 
+class="s12_335"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 976)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s12_335"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_43q;
+	src: url("fonts/LibreFranklin-Bold_43q.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_43s;
+	src: url("fonts/LibreFranklin-Medium_43s.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_43o;
+	src: url("fonts/LibreFranklin-ExtraBold_43o.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_43z;
+	src: url("fonts/LibreFranklin-SemiBold_43z.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_43y;
+	src: url("fonts/LibreFranklin-Regular_43y.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

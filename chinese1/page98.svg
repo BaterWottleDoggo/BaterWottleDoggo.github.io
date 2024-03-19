@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 121 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_121{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_121{
+fill: #3986C6;
+}
+.g3_121{
+fill: none;
+stroke: #ED692E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_121{
+fill: #ED692E;
+}
+.g5_121{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_121{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cuk;
+fill: #231F20;
+}
+.s2_121{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cur;
+fill: #231F20;
+}
+.s3_121{
+font-size: 22.92px;
+font-family: ProximaNova-Extrabld_cuq;
+fill: #ED692E;
+}
+.s4_121{
+font-size: 12.22px;
+font-family: ProximaNova-Extrabld_cuq;
+fill: #ED692E;
+}
+.s5_121{
+font-size: 12.22px;
+font-family: ProximaNova-Semibold_cuk;
+fill: #565B6E;
+}
+.s6_121{
+font-size: 19.10px;
+font-family: Alegreya-Regular_cus;
+fill: #231F20;
+}
+.s7_121{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #ED692E;
+}
+.s8_121{
+font-size: 18.33px;
+font-family: Alegreya-Italic_cv8;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_121"
+>Go Far with Chinese</text>
+
+<text 
+x="38" 
+y="1149" 
+dx="0,0" 
+class="s2_121"
+>98</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_121" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_121" />
+<image preserveAspectRatio="none" x="322" y="321" width="440" height="363" xlink:href="121/img/1.png" />
+<path d="M255.3,87.1l539.8,0c15.2,0,27.5,12.3,27.5,27.5l0,633.9" class="g3_121" />
+<path d="M255.3,91.7c2.6,0,4.6,-2.1,4.6,-4.6c0,-2.5,-2,-4.6,-4.6,-4.6c-2.5,0,-4.5,2.1,-4.5,4.6c0,2.5,2,4.6,4.5,4.6Z" class="g4_121" />
+<path d="M179.8,94.4l-22.9,0l-3.6,12.4c0.5,-0.1,1,-0.1,1.5,-0.2c0.5,0,1,0,1.4,0c7.2,0,13.1,2.4,17.8,7.3c4.6,4.8,7,11.1,7,18.6c0,7.9,-2.7,14.3,-7.9,19.4c-5.3,5.1,-11.9,7.6,-19.9,7.6c-9.9,0,-17.7,-4.6,-23.3,-13.9l8.4,-7.1c2.4,3.9,4.7,6.7,7.1,8.4c2.4,1.6,5.3,2.4,8.7,2.4c4.5,0,8.3,-1.6,11.3,-4.7c3.1,-3.3,4.6,-7.2,4.6,-11.8c0,-4.8,-1.5,-8.7,-4.5,-11.7c-3,-3.1,-6.8,-4.6,-11.3,-4.6c-5.1,0,-9.4,2.2,-13.1,6.5l-3.7,0L149.1,83.9l30.7,0Z" class="g2_121" />
+<path d="M213,93.1c7,0,13.7,2.7,20.1,8.1l0,-13.3c-6.2,-3.6,-12.6,-5.4,-19.3,-5.4c-12.2,0,-22.2,4.5,-29.9,13.6c-1.7,2,-3.1,4.1,-4.3,6.2l0,38.3c1.6,2.8,3.7,5.5,6.1,7.9c7.5,7.4,16.6,11.1,27.2,11.1c7.1,0,13.8,-1.8,20.2,-5.4l0,-13.5c-1.8,1.5,-3.5,2.8,-5.2,3.9c-1.6,1.1,-3.2,2,-4.8,2.6c-2.7,1.3,-6.1,1.9,-10,1.9c-7.7,0,-14.1,-2.6,-19.4,-8c-5.3,-5.4,-7.9,-11.9,-7.9,-19.7c0,-7.9,2.6,-14.6,7.9,-20.1c5.2,-5.5,11.7,-8.2,19.3,-8.2Z" class="g2_121" />
+<path d="M179.2,84.6l0,77.2" class="g5_121" />
+<path d="M180.1,253.6l-0.8,470.6c0,15.2,12.3,27.5,27.5,27.5l615.3,0" class="g5_121" />
+<path d="M822.1,756.3c2.6,0,4.6,-2.1,4.6,-4.6c0,-2.6,-2,-4.6,-4.6,-4.6c-2.5,0,-4.5,2,-4.5,4.6c0,2.5,2,4.6,4.5,4.6Z" class="g2_121" />
+<path d="M237,153.7c2.4,2.2,6.3,3.6,10.3,3.6c6.4,0,10,-3.2,10,-7.4c0,-5.7,-5.3,-6.8,-9.3,-7.5c-2.5,-0.6,-4.4,-1.1,-4.4,-2.5c0,-1.4,1.5,-2.2,3.7,-2.2c2.8,0,5.4,1.2,6.8,2.7l2.4,-4.1c-2.3,-1.9,-5.4,-3.2,-9.3,-3.2c-6,0,-9.4,3.4,-9.4,7.3c0,5.4,5.1,6.4,9,7.1c2.7,0.6,4.7,1.1,4.7,2.8c0,1.4,-1.3,2.3,-3.9,2.3c-2.9,0,-6.3,-1.6,-8,-3.2Z" class="g2_121" />
+<text 
+x="111" 
+y="184" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_121"
+>C²MMu³itie±</text>
+
+<text 
+x="118" 
+y="203" 
+dx="0" 
+class="s4_121"
+>C</text>
+
+<text 
+x="127" 
+y="203" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_121"
+>ONNECTIONS</text>
+
+<text 
+x="118" 
+y="218" 
+dx="0" 
+class="s4_121"
+>C</text>
+
+<text 
+x="127" 
+y="218" 
+dx="0,0,0,0,0,0,0,-0.1,-0.8,0,0,0" 
+class="s5_121"
+>OMMUNICATION</text>
+
+<text 
+x="118" 
+y="232" 
+dx="0" 
+class="s4_121"
+>C</text>
+
+<text 
+x="127" 
+y="232" 
+dx="0,0,-1.2,0,0,0,0" 
+class="s5_121"
+>ULTURES</text>
+
+<text 
+x="118" 
+y="247" 
+dx="0" 
+class="s4_121"
+>C</text>
+
+<text 
+x="127" 
+y="247" 
+dx="0,0,0,-0.9,0,0,0,0,0,0" 
+class="s5_121"
+>OMPARISONS</text>
+
+<text 
+x="321" 
+y="149" 
+dx="0,-0.4,-0.4,-0.3,0,0,-0.3,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s6_121"
+>Have you ever volunteered to help your neighbors, or wanted </text>
+
+<text 
+x="322" 
+y="175" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_121"
+>to do so? Imagine that your new neighbor only speaks </text>
+
+<text 
+x="322" 
+y="201" 
+dx="0,0,0,0,0,0,0,-0.6,-0.4,0,0,-0.2,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s6_121"
+>Chinese. Draw a simple map of your town or neighborhood. </text>
+
+<text 
+x="321" 
+y="227" 
+dx="0,-0.2,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,-0.3,0,0,0,0" 
+class="s6_121"
+>Mark your home and school on the map and research how to </text>
+
+<text 
+x="323" 
+y="255" 
+dx="0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4,0,-0.2,-0.2,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s6_121"
+>say other useful locations in Chinese. Practice using</text>
+
+<text 
+x="729" 
+y="254" 
+dx="0,0" 
+class="s7_121"
+>这 </text>
+
+<text 
+x="758" 
+y="255" 
+dx="0,0,0,0" 
+class="s6_121"
+>and </text>
+
+<text 
+x="321" 
+y="280" 
+dx="0" 
+class="s7_121"
+>那</text>
+
+<text 
+x="348" 
+y="281" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4" 
+class="s6_121"
+>to point out places on your map to your classmates. </text>
+
+<text 
+x="322" 
+y="714" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-1.4,0,0,-0.3,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_121"
+>A girl holding a sign that reads "Welcome" in Chinese</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cur;
+	src: url("fonts/ProximaNova-Bold_cur.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Italic_cv8;
+	src: url("fonts/Alegreya-Italic_cv8.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_cuq;
+	src: url("fonts/ProximaNova-Extrabld_cuq.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cuk;
+	src: url("fonts/ProximaNova-Semibold_cuk.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_cus;
+	src: url("fonts/Alegreya-Regular_cus.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

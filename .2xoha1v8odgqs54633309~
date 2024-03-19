@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 46 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_46"><path d="M174.3,1101.9l0,-625.7l576.9,0l0,625.7Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_46{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_46{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_46{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 0.7241667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_46{
+fill: #7CA3CC;
+}
+.g5_46{
+fill: #F58320;
+}
+.g6_46{
+fill: none;
+stroke: #7CA3CC;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_46{
+fill: #E7E8E9;
+}
+.g8_46{
+fill: #6D6E71;
+}
+.g9_46{
+fill: none;
+stroke: #231F20;
+stroke-width: 0.36513892;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_46{
+fill: #FFFFFF;
+}
+.g11_46{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.4391667;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+.g12_46{
+fill: #3F3F40;
+}
+.g13_46{
+fill: #D1D2D4;
+}
+.g14_46{
+fill: #F3F4F4;
+}
+.g15_46{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.0999999;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g16_46{
+fill: #A8A9AD;
+}
+.g17_46{
+fill: none;
+stroke: #1275BC;
+stroke-width: 1.986111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g18_46{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.0251389;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g19_46{
+fill: #8CC63E;
+}
+.g20_46{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_46{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3q9;
+fill: #3F3F40;
+}
+.s2_46{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_46{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s4_46{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3pt;
+fill: #3F3F40;
+}
+.s5_46{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s6_46{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #749E3C;
+}
+.s7_46{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s8_46{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #749E3C;
+}
+.s9_46{
+font-size: 13.75px;
+font-family: ArialMT_3rc;
+fill: #1275BC;
+}
+.s10_46{
+font-size: 18.33px;
+font-family: SourceHanSansTW-Regular_3r5;
+fill: #231F20;
+}
+.s11_46{
+font-size: 14.80px;
+font-family: Arial-BoldMT_3r4;
+fill: #3F3F40;
+}
+.s12_46{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_3rf;
+fill: #6D6E71;
+}
+.s13_46{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_3ra;
+fill: #FFFFFF;
+}
+.s14_46{
+font-size: 11.61px;
+font-family: ArialMT_3rc;
+fill: #FFFFFF;
+}
+.s15_46{
+font-size: 20.79px;
+font-family: SourceHanSansCN-Normal_3q5;
+fill: #FFFFFF;
+}
+.s16_46{
+font-size: 17.78px;
+font-family: ArialMT_3rc;
+fill: #FFFFFF;
+}
+.s17_46{
+font-size: 26.12px;
+font-family: SourceHanSansCN-Medium_3p3;
+fill: #FFFFFF;
+}
+.s18_46{
+font-size: 19.86px;
+font-family: SourceHanSansCN-Normal_3q5;
+fill: #231F20;
+}
+.s19_46{
+font-size: 17.78px;
+font-family: Arial-BoldMT_3r4;
+fill: #FFFFFF;
+}
+.s20_46{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3qb;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="157" 
+y="72" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s1_46"
+>Alternatively, the object can be introduced by the preposition </text>
+
+<text 
+x="569" 
+y="73" 
+dx="0" 
+class="s2_46"
+>对</text>
+
+<text 
+x="593" 
+y="72" 
+dx="0" 
+class="s1_46"
+>/</text>
+
+<text 
+x="598" 
+y="73" 
+dx="0" 
+class="s3_46"
+>對</text>
+
+<text 
+x="625" 
+y="72" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0" 
+class="s1_46"
+>and be placed before the </text>
+
+<text 
+x="157" 
+y="99" 
+dx="0,-0.4,0,0,0" 
+class="s1_46"
+>verb </text>
+
+<text 
+x="190" 
+y="101" 
+dx="0,0" 
+class="s2_46"
+>适应</text>
+
+<text 
+x="238" 
+y="99" 
+dx="0" 
+class="s1_46"
+>/</text>
+
+<text 
+x="242" 
+y="101" 
+dx="0,0" 
+class="s3_46"
+>適應</text>
+
+<text 
+x="290" 
+y="99" 
+dx="0" 
+class="s1_46"
+>.</text>
+
+<text 
+x="169" 
+y="156" 
+dx="0,0" 
+class="s4_46"
+>3 </text>
+
+<text 
+x="239" 
+y="158" 
+dx="0" 
+class="s5_46"
+>你</text>
+
+<text 
+x="265" 
+y="158" 
+dx="0" 
+class="s6_46"
+>对</text>
+
+<text 
+x="291" 
+y="158" 
+dx="0,0,0,0,0,0,0" 
+class="s5_46"
+>这里的天气已经</text>
+
+<text 
+x="473" 
+y="158" 
+dx="0,0" 
+class="s6_46"
+>适应</text>
+
+<text 
+x="525" 
+y="158" 
+dx="0,0,0" 
+class="s5_46"
+>了吗？</text>
+
+<text 
+x="239" 
+y="198" 
+dx="0" 
+class="s7_46"
+>你</text>
+
+<text 
+x="265" 
+y="198" 
+dx="0" 
+class="s8_46"
+>對</text>
+
+<text 
+x="291" 
+y="198" 
+dx="0,0,0,0,0,0,0" 
+class="s7_46"
+>這裡的天氣已經</text>
+
+<text 
+x="473" 
+y="198" 
+dx="0,0" 
+class="s8_46"
+>適應</text>
+
+<text 
+x="525" 
+y="198" 
+dx="0,0,0" 
+class="s7_46"
+>了嗎？</text>
+
+<text 
+x="245" 
+y="232" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,-0.1,-0.1,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s1_46"
+>Have you gotten used to the weather here?</text>
+
+<text 
+x="169" 
+y="291" 
+dx="0,0" 
+class="s4_46"
+>4 </text>
+
+<text 
+x="239" 
+y="293" 
+dx="0,0,0,0,0,0,0" 
+class="s5_46"
+>我们刚来美国，</text>
+
+<text 
+x="421" 
+y="293" 
+dx="0" 
+class="s6_46"
+>对</text>
+
+<text 
+x="447" 
+y="293" 
+dx="0,0,0,0,0,0" 
+class="s5_46"
+>美国的天气还</text>
+
+<text 
+x="603" 
+y="293" 
+dx="0,0,0" 
+class="s6_46"
+>不适应</text>
+
+<text 
+x="681" 
+y="293" 
+dx="0" 
+class="s5_46"
+>。</text>
+
+<text 
+x="239" 
+y="334" 
+dx="0,0,0,0,0,0,0" 
+class="s7_46"
+>我們剛來美國，</text>
+
+<text 
+x="421" 
+y="334" 
+dx="0" 
+class="s8_46"
+>對</text>
+
+<text 
+x="447" 
+y="334" 
+dx="0,0,0,0,0,0" 
+class="s7_46"
+>美國的天氣還</text>
+
+<text 
+x="603" 
+y="334" 
+dx="0,0,0" 
+class="s8_46"
+>不適應</text>
+
+<text 
+x="681" 
+y="334" 
+dx="0" 
+class="s7_46"
+>。</text>
+
+<text 
+x="245" 
+y="367" 
+dx="0,-1,0,-0.1,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,-0.3,-0.2,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0" 
+class="s1_46"
+>We’ve just arrived in the U.S. We’re not used to American weather yet.</text>
+
+<path d="M164.4,132.7c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_46" />
+<path d="M164.4,134.7c-0.6,0,-5.6,0.3,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_46" />
+<path d="M164.4,267.9c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.6c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.6c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_46" />
+<path d="M164.4,270c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.6c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.6c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_46" />
+<image preserveAspectRatio="none" x="171" y="585" width="382" height="535" xlink:href="46/img/1.png" />
+<path d="M708.7,859.4l-323.5,0c-17.7,0,-32.1,-17.6,-32.1,-39.2l0,-165.5c0,-21.7,14.4,-39.2,32.1,-39.2l323.5,0c35.9,0,32.1,-6.2,32.1,39.2l0,165.5c0,44.8,3.3,39.2,-32.1,39.2Z" class="g3_46" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 562, 639)"
+dx="0,0,0,0,0,0" 
+class="s9_46"
+>Lola: </text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 562, 715)"
+dx="0,-1.3,0,0,0" 
+class="s9_46"
+>You: </text>
+
+<text 
+x="562" 
+y="661" 
+dx="0,0,0,0,0,0,0.4,0,0" 
+class="s10_46"
+>我週末搬家。能幫忙</text>
+
+<text 
+x="562" 
+y="683" 
+dx="0,-2.5" 
+class="s10_46"
+>嗎？</text>
+
+<text 
+x="565" 
+y="725" 
+dx="0,0,0" 
+class="s11_46"
+>...</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 562, 756)"
+dx="0,0,0,0,0,0" 
+class="s9_46"
+>Lola: </text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 562, 833)"
+dx="0,-1.3,0,0,0" 
+class="s9_46"
+>You: </text>
+
+<text 
+x="562" 
+y="778" 
+dx="0,0,0,0,0.4,0,0,0,0.4" 
+class="s10_46"
+>太好了！搬好了，我</text>
+
+<text 
+x="562" 
+y="800" 
+dx="0,0,0,0,0,0,-0.5,0,0.4,0,0,-2.5" 
+class="s10_46"
+>叫 pizza，怎麼樣？</text>
+
+<text 
+x="565" 
+y="843" 
+dx="0,0,0" 
+class="s11_46"
+>...</text>
+
+<text 
+x="197" 
+y="543" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s12_46"
+>A friend is texting you on WeChat to ask for a favor. How would you reply?</text>
+
+<g clip-path="url(#c0_46)">
+<path d="M371.5,497.4c0,-11.7,-9.5,-21.2,-21.1,-21.2l-141.4,0c-11.7,0,-21.2,9.5,-21.2,21.2l0,14.8l183.7,0Z" class="g4_46" />
+</g>
+<path d="M741.7,569.9l-19.6,20.5l0,-20.5Z" class="g5_46" />
+<text 
+x="217" 
+y="502" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s13_46"
+>Chinese Chat</text>
+
+<path d="M188.2,564.4l0,-48.4l529.7,0c13.5,0,24.3,10.9,24.3,24.3l0,24.1l-554,0Z" class="g6_46" />
+<path d="M543.3,1096.9l-355.1,0l0,-519.2l355.1,0l0,519.2Z" class="g7_46" />
+<path d="M542.6,596.7l-353.8,0l0,-18.9l353.8,0l0,18.9Z" class="g8_46" />
+<path d="M542.6,596.7l-353.8,0l0,-18.9l353.8,0Z" class="g9_46" />
+<path d="M198.3,591.5l-2.2,0l0,-4.1l2.2,0l0,4.1Z" class="g10_46" />
+<path d="M202.1,591.5l-2.2,0l0,-5.9l2.2,0l0,5.9Z" class="g10_46" />
+<path d="M205.9,591.5l-2.2,0l0,-7.6l2.2,0l0,7.6Z" class="g10_46" />
+<path d="M209.8,591.5l-2.2,0l0,-9.3l2.2,0l0,9.3Z" class="g10_46" />
+<path d="M213.6,591.5l-2.2,0l0,-11.1l2.2,0l0,11.1Z" class="g10_46" />
+<path d="M222.2,585.7c1,-1.2,2.8,-2,4.9,-2c2.1,0,4,0.8,4.9,2l1.8,-0.4c-1.1,-1.9,-3.6,-3.3,-6.7,-3.3c-3,0,-5.5,1.4,-6.6,3.3Z" class="g10_46" />
+<path d="M224.1,588.6c0.6,-0.8,1.7,-1.3,3,-1.3c1.4,0,2.5,0.5,3.1,1.3l1.1,-0.7c-0.6,-1.2,-2.3,-2,-4.2,-2c-1.8,0,-3.5,0.8,-4.2,2Z" class="g10_46" />
+<path d="M225.9,591.4c0.2,-0.3,0.7,-0.5,1.2,-0.5c0.6,0,1,0.2,1.3,0.5l0.4,-0.9c-0.2,-0.4,-0.9,-0.8,-1.7,-0.8c-0.7,0,-1.4,0.4,-1.7,0.8Z" class="g10_46" />
+<text 
+x="344" 
+y="590" 
+dx="0,0,0,0,0,0,0" 
+class="s14_46"
+>2:41 PM</text>
+
+<text 
+x="486" 
+y="589" 
+dx="0,0,0" 
+class="s14_46"
+>96%</text>
+
+<path d="M530.9,584.2l-1.6,0l0,-2.6l-14.8,0l0,7.7l14.8,0l0,-2.6l1.6,0l0,-2.5Z" class="g11_46" />
+<path d="M526.9,587l-11.3,0l0,-3.3l11.3,0l0,3.3Z" class="g10_46" />
+<path d="M542.8,597.8l-353.4,0l0,76.2l353.4,0l0,-76.2Z" class="g12_46" />
+<text 
+transform="matrix(1.36, 0, 0, 1, 182, 647)"
+dx="0" 
+class="s15_46"
+>〈</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 218, 646)"
+dx="0,-0.3,0,0,0,0" 
+class="s16_46"
+>WeChat</text>
+
+<text 
+transform="matrix(1.05, 0, 0, 1, 337, 650)"
+dx="0,-0.4,0,0" 
+class="s17_46"
+>Lola</text>
+
+<path d="M272,748.2l4.9,5.4l0,13.1c0,1.7,1.3,3,3,3l215.7,0c1.6,0,2.9,-1.3,2.9,-3l0,-34.4c0,-1.7,-1.3,-3,-2.9,-3l-215.7,0c-1.7,0,-3,1.3,-3,3l0,11.2Z" class="g10_46" />
+<path d="M272,898.8l4.9,5.4l0,37.6c0,1.6,1.3,2.9,3,2.9l215.7,0c1.6,0,2.9,-1.3,2.9,-2.9l0,-58.9c0,-1.6,-1.3,-3,-2.9,-3l-215.7,0c-1.7,0,-3,1.4,-3,3l0,11.2Z" class="g10_46" />
+<path d="M487.9,651c0,0,-0.5,-3.5,2.4,-4.6c3.9,-1.5,6.9,-2.6,6.9,-4.1c0,-1.5,-3.6,-4.8,-2.7,-9.9c0.9,-5.1,3.9,-4.9,5.4,-5c1.5,-0.1,4.2,1.5,4.5,5.9c0.3,5.1,-2.4,8.1,-2.4,8.1c0,0,-1.1,1.2,0.4,1.8c1.5,0.6,6.8,3.3,8.3,4.5c1.5,1.2,0.6,3.3,0.6,3.3Z" class="g10_46" />
+<path d="M507.4,642.2c1.4,-0.6,2.4,-1.2,2.4,-1.9c0,-1,-2.5,-3.3,-1.9,-6.7c0.6,-3.5,2.7,-3.4,3.7,-3.4c1.1,-0.1,2.9,1,3.1,4c0.2,3.5,-1.6,5.5,-1.6,5.5c0,0,-0.8,0.9,0.2,1.3c1.1,0.4,4.7,2.2,5.7,3c1,0.8,0.4,2.3,0.4,2.3l-6,0c0,0,-0.5,-2.2,-6,-4.1Z" class="g10_46" />
+<path d="M391.7,711.1l-52,0c-2.2,0,-4.1,-1.8,-4.1,-4.1l0,-11.6c0,-2.3,1.9,-4.1,4.1,-4.1l52,0c2.3,0,4.2,1.8,4.2,4.1l0,11.6c0,2.3,-1.9,4.1,-4.2,4.1Z" class="g13_46" />
+<text 
+x="344" 
+y="705" 
+dx="0,0,0,0,0,0,0" 
+class="s14_46"
+>2:23 PM</text>
+
+<image preserveAspectRatio="none" x="179" y="669" width="368" height="245" xlink:href="46/img/2.png" />
+<text 
+x="285" 
+y="755" 
+dx="0,0,0,0,0,0,0.4,0,0,0,0" 
+class="s18_46"
+>我周末搬家。能帮忙吗？</text>
+
+<image preserveAspectRatio="none" x="179" y="819" width="368" height="245" xlink:href="46/img/3.png" />
+<text 
+x="285" 
+y="905" 
+dx="0,0,0,0,0.4,0,0,0,0.4,0" 
+class="s18_46"
+>太好了！搬好了，我叫</text>
+
+<text 
+x="285" 
+y="929" 
+dx="0,0,0,0,-0.5,0,0.4,0,0.4,0.8" 
+class="s18_46"
+>pizza，怎么样？</text>
+
+<image preserveAspectRatio="none" x="188" y="1053" width="354" height="47" xlink:href="46/img/4.png" />
+<path d="M188.4,1101.9l354.9,0l0,-47.8l-354.9,0l0,47.8Z" class="g14_46" />
+<path d="M460.7,1093.4l-229.3,0c-1,0,-1.9,-0.8,-1.9,-1.8l0,-27.3c0,-1,0.9,-1.8,1.9,-1.8l229.3,0c1,0,1.8,0.8,1.8,1.8l0,27.3c0,1,-0.8,1.8,-1.8,1.8Z" class="g10_46" />
+<path d="M499,1078c0,7.2,-5.7,13,-12.8,13c-7.1,0,-12.9,-5.8,-12.9,-13c0,-7.2,5.8,-13,12.9,-13c7.1,0,12.8,5.8,12.8,13Z" class="g15_46" />
+<path d="M483.5,1074.5c0,1,-0.8,1.8,-1.8,1.8c-1,0,-1.8,-0.8,-1.8,-1.8c0,-1,0.8,-1.8,1.8,-1.8c1,0,1.8,0.8,1.8,1.8Z" class="g16_46" />
+<path d="M492.1,1074.5c0,1,-0.8,1.8,-1.8,1.8c-1,0,-1.8,-0.8,-1.8,-1.8c0,-1,0.8,-1.8,1.8,-1.8c1,0,1.8,0.8,1.8,1.8Z" class="g16_46" />
+<path d="M478.3,1079.5c1,4.1,4.1,7.1,7.9,7.1c3.7,0,6.8,-3,7.8,-7.1c-1,2.9,-14.7,2.9,-15.7,0Z" class="g16_46" />
+<path d="M235.3,1068.8l0,18.4" class="g17_46" />
+<path d="M219.8,1077.9c0,6.8,-5.5,12.3,-12.3,12.3c-6.7,0,-12.2,-5.5,-12.2,-12.3c0,-6.7,5.5,-12.2,12.2,-12.2c6.8,0,12.3,5.5,12.3,12.2Z" class="g15_46" />
+<path d="M202.9,1077.9c0,0.6,-0.5,1,-1,1c-0.5,0,-0.9,-0.4,-0.9,-1c0,-0.5,0.4,-0.9,0.9,-0.9c0.5,0,1,0.4,1,0.9Z" class="g16_46" />
+<path d="M208.3,1086.4c2.8,-2.1,4.6,-5.6,4.3,-9.5c-0.2,-3,-1.6,-5.6,-3.7,-7.5" class="g18_46" />
+<path d="M206.5,1072.1c1.4,1.3,2.4,3.1,2.5,5.1c0.2,2.6,-1,5,-3,6.4" class="g18_46" />
+<path d="M206,1083.6c2,-1.4,3.2,-3.8,3,-6.4" class="g18_46" />
+<path d="M204.1,1074.9c0.7,0.6,1.2,1.5,1.3,2.5c0.1,1.4,-0.6,2.7,-1.7,3.4" class="g18_46" />
+<path d="M203.7,1080.8c1.1,-0.7,1.8,-2,1.7,-3.4c-0.1,-1,-0.6,-1.9,-1.3,-2.5" class="g18_46" />
+<path d="M530.9,1078.3c0,7.2,-5.7,13,-12.8,13c-7.1,0,-12.9,-5.8,-12.9,-13c0,-7.2,5.8,-13,12.9,-13c7.1,0,12.8,5.8,12.8,13Z" class="g15_46" />
+<path d="M517.3,1087.3l0,-8.3l-8.2,0l0,-1.4l8.2,0l0,-8.3l1.5,0l0,8.3l8.2,0l0,1.4l-8.2,0l0,8.3Z" class="g16_46" />
+<image preserveAspectRatio="none" x="443" y="794" width="96" height="64" xlink:href="46/img/5.png" />
+<path d="M457.7,815.8l-5,5.5l0,17.5c0,1.6,-1.3,2.9,-2.9,2.9l-54.3,0c-1.6,0,-2.9,-1.3,-2.9,-2.9l0,-38.9c0,-1.6,1.3,-2.9,2.9,-2.9l54.3,0c1.6,0,2.9,1.3,2.9,2.9l0,11.3Z" class="g19_46" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 419, 822)"
+dx="0,0,0" 
+class="s19_46"
+>...</text>
+
+<image preserveAspectRatio="none" x="443" y="973" width="96" height="64" xlink:href="46/img/6.png" />
+<path d="M457.7,994.8l-5,5.5l0,17.4c0,1.6,-1.3,3,-2.9,3l-54.3,0c-1.6,0,-2.9,-1.4,-2.9,-3l0,-38.8c0,-1.6,1.3,-2.9,2.9,-2.9l54.3,0c1.6,0,2.9,1.3,2.9,2.9l0,11.3Z" class="g19_46" />
+<text 
+transform="matrix(1.05, 0, 0, 1, 419, 1001)"
+dx="0,0,0" 
+class="s19_46"
+>...</text>
+
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g20_46" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 775)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s20_46"
+>Lesson 1 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 839)"
+dx="0,1" 
+class="s20_46"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 853)"
+dx="0,0.7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0.8,1,1" 
+class="s20_46"
+>Starting a New Semester </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1018)"
+dx="0,1" 
+class="s20_46"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1032)"
+dx="0,0.1,1,0.8,1,1,1,1,1,1,1,0.9,1,1,1,1" 
+class="s20_46"
+>Words &amp; Phrases </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1158)"
+dx="0,1,0" 
+class="s20_46"
+>23 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3ra;
+	src: url("fonts/LibreFranklin-SemiBold_3ra.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3qb;
+	src: url("fonts/LibreFranklin-SemiBold_3qb.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3q9;
+	src: url("fonts/LibreFranklin-Regular_3q9.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3pt;
+	src: url("fonts/LibreFranklin-ExtraBold_3pt.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansTW-Regular_3r5;
+	src: url("fonts/SourceHanSansTW-Regular_3r5.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_3p3;
+	src: url("fonts/SourceHanSansCN-Medium_3p3.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialMT_3rc;
+	src: url("fonts/ArialMT_3rc.woff") format("woff");
+}
+
+@font-face {
+	font-family: Arial-BoldMT_3r4;
+	src: url("fonts/Arial-BoldMT_3r4.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Normal_3q5;
+	src: url("fonts/SourceHanSansCN-Normal_3q5.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3rf;
+	src: url("fonts/LibreFranklin-Medium_3rf.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

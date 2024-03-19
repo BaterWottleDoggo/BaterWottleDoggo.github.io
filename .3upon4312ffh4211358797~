@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 148 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_148"><path d="M158.4,986.2l0,-611.6l605.5,0l0,611.6Z" /></clipPath>
+<clipPath id="c1_148"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_148{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_148{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_148{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_148{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_148{
+fill: #DDDBED;
+}
+.g6_148{
+fill: #FFFFFF;
+}
+.g7_148{
+fill: #395DAA;
+}
+.g8_148{
+fill: none;
+stroke: #252161;
+stroke-width: 3.3152778;
+stroke-linecap: round;
+stroke-linejoin: miter;
+}
+.g9_148{
+fill: none;
+stroke: #252161;
+stroke-width: 0.82805556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g10_148{
+fill: #252161;
+}
+.g11_148{
+fill: none;
+stroke: #395DAA;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_148{
+fill: #EE1D23;
+}
+.g13_148{
+fill: #A1C0E4;
+}
+.g14_148{
+fill: #F58320;
+}
+.g15_148{
+fill: none;
+stroke: #A1C0E4;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g16_148{
+fill: #A8A9AD;
+}
+.g17_148{
+fill: #F05469;
+}
+.g18_148{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.7630557;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g19_148{
+fill: #F3F4F4;
+}
+.g20_148{
+fill: #939598;
+}
+.g21_148{
+fill: none;
+stroke: #ECECEE;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g22_148{
+fill: none;
+stroke: #395DAA;
+stroke-width: 0.7073611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g23_148{
+fill: none;
+stroke: #395DAA;
+stroke-width: 0.66;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g24_148{
+fill: #872B91;
+}
+.g25_148{
+fill: none;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_148{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3-c;
+fill: #872B91;
+}
+.s2_148{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3-r;
+fill: #872B91;
+}
+.s3_148{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_3_3;
+fill: #3F3F40;
+}
+.s4_148{
+font-size: 24.44px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #872B91;
+}
+.s5_148{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s6_148{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_3-n;
+fill: #872B91;
+}
+.s7_148{
+font-size: 14.17px;
+font-family: MyriadPro-Regular_409;
+fill: #FFFFFF;
+}
+.s8_148{
+font-size: 19.78px;
+font-family: SourceHanSansCN-Medium_3n4;
+fill: #2C449C;
+}
+.s9_148{
+font-size: 14.09px;
+font-family: LibreFranklin-Medium_40e;
+fill: #6D6E71;
+}
+.s10_148{
+font-size: 24.44px;
+font-family: SourceHanSansCN-Medium_3n4;
+fill: #57585A;
+}
+.s11_148{
+font-size: 15.66px;
+font-family: LibreFranklin-Medium_40e;
+fill: #6D6E71;
+}
+.s12_148{
+font-size: 19.86px;
+font-family: LibreFranklin-SemiBold_40a;
+fill: #FFFFFF;
+}
+.s13_148{
+font-size: 12.44px;
+font-family: LibreFranklin-Medium_40e;
+fill: #6D6E71;
+}
+.s14_148{
+font-size: 12.99px;
+font-family: LibreFranklin-Medium_40e;
+fill: #6D6E71;
+}
+.s15_148{
+font-size: 21.39px;
+font-family: SourceHanSansCN-Bold_3s4;
+fill: #395DAA;
+}
+.s16_148{
+font-size: 21.39px;
+font-family: SourceHanSansCN-Regular_3ru;
+fill: #57585A;
+}
+.s17_148{
+font-size: 11.29px;
+font-family: LibreFranklin-Light_40d;
+fill: #6D6E71;
+}
+.s18_148{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3-w;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.1,89.7l12.9,0" class="g1_148" />
+<text 
+x="119" 
+y="86" 
+dx="0,0" 
+class="s1_148"
+>J </text>
+
+<text 
+x="411" 
+y="90" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_148"
+>Party planner </text>
+
+<text 
+x="157" 
+y="152" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_148"
+>Find out among your classmates whose birthday is coming up by asking </text>
+
+<text 
+x="665" 
+y="154" 
+dx="0,0,0,0,0" 
+class="s4_148"
+>谁的生日快</text>
+
+<text 
+x="157" 
+y="181" 
+dx="0,0,0" 
+class="s4_148"
+>到了?</text>
+
+<text 
+x="218" 
+y="180" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_148"
+>(Shéi de shēngrì kuài dào le?)</text>
+
+<text 
+x="415" 
+y="180" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s3_148"
+>(Whose birthday is coming up?). Everyone should take </text>
+
+<text 
+x="157" 
+y="207" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_148"
+>a turn asking that person what he/she likes to eat, drink, and do. Then work as a class to plan </text>
+
+<text 
+x="157" 
+y="235" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.1,-0.1,0,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0" 
+class="s3_148"
+>a birthday party together, and decide who will bring what to the party. In Chinese, note down </text>
+
+<text 
+x="157" 
+y="262" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s3_148"
+>the day of the party and the things you were assigned to bring.</text>
+
+<path d="M146.6,55.6l0,53.4l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.4l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_148" />
+<path d="M148.7,107.8l674.3,0l0,-51l-674.3,0l0,51Z" class="g3_148" />
+<text 
+x="721" 
+y="87" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s6_148"
+>PRESENTATIONAL</text>
+
+<path d="M719.9,90.4l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g4_148" />
+<text 
+x="162" 
+y="87" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_148"
+>INTERPERSONAL</text>
+
+<path d="M158.1,90.4l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g4_148" />
+<path d="M354.1,986.2l409.8,0l0,-531.2l-409.8,0l0,531.2Z" class="g5_148" />
+<path d="M747.8,969.3l-379.1,0l0,-502.1l379.1,0l0,502.1Z" class="g6_148" />
+<path d="M354.1,454.5l409.8,0l0,-79.9l-409.8,0l0,79.9Z" class="g7_148" />
+<path d="M378.8,407.6l28.1,0" class="g8_148" />
+<path d="M729.4,407.6l15.9,0" class="g8_148" />
+<path d="M730.6,415l14.7,0" class="g8_148" />
+<path d="M735,422.5l10.3,0" class="g8_148" />
+<path d="M378.8,415.6l28.1,0" class="g8_148" />
+<path d="M378.8,423.7l28.1,0" class="g8_148" />
+<g clip-path="url(#c0_148)">
+<path d="M428.6,374.6l0,79.9" class="g9_148" />
+<path d="M690.7,374.6l0,79.9" class="g9_148" />
+</g>
+<path d="M498.1,429l-21.3,0c0,0,-0.8,-7.1,3.5,-8.1c4.4,-1,5,-3.9,5,-5.6c0,-1.6,-1.4,-1,-1.9,-4.3c-0.4,-3.4,-1.4,-8.3,3.6,-9c4.9,-0.6,5.6,4,5.3,5.6c-0.2,1.7,0.7,5.2,-1.6,6.3c-1.5,2.2,0.6,5.1,1.6,5.3c1.1,0.3,6.7,1.1,5.8,9.8Z" class="g10_148" />
+<path d="M731.9,427.7l-21.4,0c0,0,-0.8,-6.7,3.6,-7.7c4.3,-1,4.9,-3.7,4.9,-5.3c0,-1.6,-1.4,-1,-1.8,-4.2c-0.5,-3.1,-1.5,-7.9,3.5,-8.5c5,-0.5,5.6,3.8,5.4,5.4c-0.2,1.6,0.6,4.9,-1.7,5.9c-1.4,2.2,0.6,5,1.7,5.2c1,0.2,6.6,0.9,5.8,9.2Z" class="g10_148" />
+<path d="M500.6,429l10.8,0c0,0,-0.2,-6.4,-2.1,-7.1c-1.8,-0.6,-5.2,-1.4,-5.6,-3.1c-0.6,-3.1,2.3,-2,2.9,-2.2c0.7,-0.3,-1,-2.3,-1,-4.2c0,-1.9,-0.6,-6.9,-3.7,-7c-4,-0.2,-4.2,4.6,-4.2,6.3c0,1.6,-1.4,4.4,-1.4,4.4c0,0,1.7,0,2.5,0.7c0,0,1.6,1.4,-0.2,2.9c1.8,2,2.5,3.9,2,9.3Z" class="g10_148" />
+<path d="M569.3,408.1l-22.4,0l0,15.5l4.8,0l0,6l5.1,-6l12.5,0Z" class="g6_148" />
+<path d="M557.1,400.2l21.9,0l0,15.7l-4.6,0l0,5.2l-5.1,-5.2l-12.2,0Z" class="g6_148" />
+<path d="M557.1,400.2l21.9,0l0,15.7l-4.6,0l0,5.2l-5.1,-5.2l-12.2,0l0,-15.7Z" class="g11_148" />
+<path d="M582.7,411.2l-10,0l0,-14.7l10,0l0,14.7Z" class="g12_148" />
+<text 
+x="574" 
+y="408" 
+dx="0" 
+class="s7_148"
+>1</text>
+
+<path d="M622.1,402c0,0,0,0.2,0,0.3c0.6,-0.4,1.4,-0.7,2.1,-0.9Z" class="g6_148" />
+<path d="M628.9,400.6c-1.6,0,-3.2,0.3,-4.7,0.8l0.6,-0.2c0,0,1.6,1.1,1.8,1.9c0.2,0.8,0,0,-0.4,1.2c-0.4,1.3,2.5,0,4.1,0.2c1.7,0.2,1.1,2.9,-0.4,4c-1.4,1,-1,1,-1.6,2c-0.7,1.1,-2.7,0,-3.8,0.3c-1,0.2,-0.2,3.1,-0.2,3.1c0,0,1.3,-1.1,1.5,-0.5c0.2,0.7,1.2,2.5,2.7,3.6c1.4,1,3.5,-0.2,5,0.2c1.4,0.4,1.2,0.6,2.2,1.6c1.1,1.1,4,0.7,4,1.9c0,1.2,-4.8,6.8,-6.5,7.7c-1.6,0.8,-3.7,0,-3.7,0c0,0,0.6,-2.1,1.3,-2.9c0.6,-0.9,-0.7,-1.3,-1.5,-1.3c-0.8,0,-1.9,-1.6,-2.1,-2.3c-0.2,-0.6,0.9,-3.3,0.9,-3.3l-1.9,-0.4c-1.9,-0.4,-2.3,-2.7,-2.9,-2.7c-0.6,0,-1,-1.4,-2.1,-2.5c-1,-1,-0.4,-3.1,-0.6,-4.5c-0.2,-1.5,-0.4,-2.9,0.6,-3.3c0.9,-0.4,0.9,-2.2,0.9,-2.9c-4.6,2.4,-7.7,7.3,-7.7,12.8c0,8,6.5,14.5,14.5,14.5c8,0,14.5,-6.5,14.5,-14.5c0,-8,-6.5,-14.5,-14.5,-14.5Z" class="g6_148" />
+<path d="M641.3,411.2l-11.6,0l0,-14.7l11.6,0l0,14.7Z" class="g12_148" />
+<text 
+x="631" 
+y="408" 
+dx="0" 
+class="s7_148"
+>4</text>
+
+<image preserveAspectRatio="none" x="377" y="480" width="28" height="53" xlink:href="148/img/1.png" />
+<image preserveAspectRatio="none" x="405" y="480" width="29" height="53" xlink:href="148/img/2.png" />
+<text 
+x="448" 
+y="508" 
+dx="0,0,0" 
+class="s8_148"
+>高文中</text>
+
+<text 
+x="450" 
+y="530" 
+dx="0,-0.3,-0.6,-0.7,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s9_148"
+>November 12 at 12:50 pm</text>
+
+<text 
+x="377" 
+y="572" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s10_148"
+>谢谢大家今天晚上来我家给我姐</text>
+
+<text 
+x="377" 
+y="600" 
+dx="0,-0.5,-0.5,-0.5,0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s10_148"
+>过生日！你们都准备带些什么呀？</text>
+
+<text 
+x="169" 
+y="433" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_148"
+>On Facebook, Gao </text>
+
+<text 
+x="169" 
+y="455" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_148"
+>Wenzhong just posted </text>
+
+<text 
+x="169" 
+y="476" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_148"
+>about a party he’s </text>
+
+<text 
+x="169" 
+y="497" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_148"
+>throwing. What are his </text>
+
+<text 
+x="169" 
+y="519" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_148"
+>friends going to bring?</text>
+
+<g clip-path="url(#c0_148)">
+<path d="M347.6,396.1c0,-11.7,-9.4,-21.1,-21.1,-21.1l-147,0c-11.6,0,-21.1,9.4,-21.1,21.1l0,14.9l189.2,0Z" class="g13_148" />
+</g>
+<path d="M327.7,537.6l19.6,20.6l0,-20.6Z" class="g14_148" />
+<text 
+x="192" 
+y="401" 
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5" 
+class="s12_148"
+>Chinese Chat</text>
+
+<path d="M347.3,414.8l0,119.3l-164.1,0c-13.4,0,-24.3,-10.9,-24.3,-24.3l0,-95l188.4,0Z" class="g15_148" />
+<path d="M631.1,530.1l-9.3,0c0,0,-0.4,-3,1.5,-3.5c1.9,-0.4,2.2,-1.7,2.2,-2.4c0,-0.8,-0.6,-0.5,-0.8,-1.9c-0.2,-1.5,-0.6,-3.6,1.5,-3.9c2.2,-0.3,2.5,1.7,2.4,2.4c-0.1,0.7,0.3,2.3,-0.7,2.7c-0.7,1,0.2,2.3,0.7,2.4c0.4,0.1,2.9,0.4,2.5,4.2Z" class="g16_148" />
+<path d="M632.2,530.1l4.7,0c0,0,-0.1,-2.8,-0.9,-3c-0.8,-0.3,-2.3,-0.7,-2.4,-1.4c-0.3,-1.3,0.9,-0.9,1.2,-1c0.3,-0.1,-0.4,-1,-0.4,-1.8c0,-0.8,-0.3,-3,-1.7,-3.1c-1.7,0,-1.8,2.1,-1.8,2.8c0,0.7,-0.6,1.9,-0.6,1.9c0,0,0.7,0,1.1,0.3c0,0,0.7,0.6,-0.1,1.3c0.8,0.9,1.1,1.7,0.9,4Z" class="g16_148" />
+<text 
+x="425" 
+y="675" 
+dx="0,-0.2" 
+class="s13_148"
+>52</text>
+
+<path d="M421.4,670.8c0,5.8,-4.7,10.4,-10.4,10.4c-5.8,0,-10.4,-4.6,-10.4,-10.4c0,-5.7,4.6,-10.4,10.4,-10.4c5.7,0,10.4,4.7,10.4,10.4Z" class="g17_148" />
+<path d="M421.4,670.8c0,5.8,-4.7,10.4,-10.4,10.4c-5.8,0,-10.4,-4.6,-10.4,-10.4c0,-5.7,4.6,-10.4,10.4,-10.4c5.7,0,10.4,4.7,10.4,10.4Z" class="g18_148" />
+<path d="M411,668c1.4,-2.7,5.6,-1.6,5.6,1.2c0,2.6,-2.8,5.2,-5.6,7.8c-2.9,-2.6,-5.7,-5.2,-5.7,-7.8c0,-2.8,4.2,-3.9,5.7,-1.2Z" class="g19_148" />
+<path d="M402.9,671c0,5.8,-4.7,10.4,-10.4,10.4c-5.8,0,-10.4,-4.6,-10.4,-10.4c0,-5.7,4.6,-10.4,10.4,-10.4c5.7,0,10.4,4.7,10.4,10.4Z" class="g7_148" />
+<path d="M402.9,671c0,5.8,-4.7,10.4,-10.4,10.4c-5.8,0,-10.4,-4.6,-10.4,-10.4c0,-5.7,4.6,-10.4,10.4,-10.4c5.7,0,10.4,4.7,10.4,10.4Z" class="g18_148" />
+<path d="M388.4,675.2l-0.4,0c-0.4,0,-0.7,-0.3,-0.7,-0.7l0,-5.4c0,-0.4,0.3,-0.7,0.7,-0.7l0.4,0c0.4,0,0.7,0.3,0.7,0.7l0,5.4c0,0.4,-0.3,0.7,-0.7,0.7Z" class="g19_148" />
+<path d="M390,674.8l0,-6.1c0,0,1.5,-0.7,1.5,-1.4c0,-0.7,-0.8,-3.3,0.7,-2.9c1.4,0.4,1.5,1,1.5,1.7c0,0.7,-0.4,2.2,-0.1,2.4c0.3,0.3,4.4,-0.2,4.6,0c0.2,0.3,0.5,1,0.2,1.3c-0.3,0.4,0.5,1.1,-0.3,1.9c-0.8,0.8,0,2.8,-0.8,3.1c-0.8,0.4,-6.9,0.6,-7.3,0Z" class="g19_148" />
+<path d="M406.2,640.5l-1.2,0c-0.4,0,-0.7,-0.3,-0.7,-0.7l0,-8.3c0,-0.3,0.3,-0.6,0.7,-0.6l1.2,0c0.4,0,0.7,0.3,0.7,0.6l0,8.3c0,0.4,-0.3,0.7,-0.7,0.7Z" class="g20_148" />
+<path d="M408.2,639.9l0,-8.6c0,0,2,-1,2,-2c0,-0.9,-1,-4.7,1,-4.1c2.1,0.6,2.2,1.5,2.2,2.4c0,1,-0.6,3.1,-0.1,3.4c0.4,0.4,6.2,-0.3,6.5,0c0.3,0.4,0.7,1.4,0.3,1.9c-0.5,0.5,0.7,1.6,-0.5,2.6c-1.1,1.1,0,3.9,-1.1,4.4c-1.2,0.5,-9.7,0.9,-10.3,0Z" class="g20_148" />
+<path d="M510.7,628l14.6,0l0,10.6l-3.1,0l0.1,3.7l-3.4,-3.7l-8.2,0Z" class="g20_148" />
+<path d="M651.4,641.7c0,0,0.5,-9.3,9.2,-10.4l0.2,-4l7.7,6.6l-7.2,7.1l0,-3.8c0,0,-6,-3.7,-9.9,4.5Z" class="g20_148" />
+<path d="M378.9,619.9l357.9,0" class="g21_148" />
+<path d="M378.9,649l357.9,0" class="g21_148" />
+<text 
+x="426" 
+y="638" 
+dx="0,-0.3,-0.3,-0.7" 
+class="s14_148"
+>Like</text>
+
+<text 
+x="531" 
+y="638" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s14_148"
+>Comment</text>
+
+<text 
+x="675" 
+y="638" 
+dx="0,-0.3,-0.3,-0.3,-0.4" 
+class="s14_148"
+>Share</text>
+
+<image preserveAspectRatio="none" x="382" y="706" width="38" height="43" xlink:href="148/img/3.png" />
+<text 
+x="427" 
+y="727" 
+dx="0,0" 
+class="s15_148"
+>王红</text>
+
+<text 
+x="480" 
+y="727" 
+dx="0,0,0,0,0,0.2" 
+class="s16_148"
+>我买了饺子。</text>
+
+<text 
+x="429" 
+y="745" 
+dx="0,-0.2,-0.5,-0.6,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2" 
+class="s17_148"
+>November 12 at 12:52 pm · Like </text>
+
+<text 
+x="601" 
+y="745" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s17_148"
+>12 · Reply </text>
+
+<path d="M588.3,745.1l-0.4,0c-0.3,0,-0.6,-0.3,-0.6,-0.7l0,-4.9c0,-0.4,0.3,-0.7,0.6,-0.7l0.4,0c0.3,0,0.6,0.3,0.6,0.7l0,4.9c0,0.4,-0.3,0.7,-0.6,0.7Z" class="g7_148" />
+<path d="M589.8,744.8l0,-5.7c0,0,1.3,-0.7,1.3,-1.3c0,-0.6,-0.6,-3.1,0.7,-2.7c1.3,0.4,1.4,0.9,1.4,1.6c0,0.6,-0.3,2,-0.1,2.2c0.3,0.3,4.1,-0.2,4.3,0c0.2,0.3,0.5,0.9,0.2,1.2c-0.3,0.3,0.5,1.1,-0.3,1.8c-0.7,0.7,0,2.5,-0.7,2.9c-0.8,0.3,-6.4,0.5,-6.8,0Z" class="g22_148" />
+<image preserveAspectRatio="none" x="382" y="838" width="37" height="44" xlink:href="148/img/4.png" />
+<text 
+x="427" 
+y="859" 
+dx="0,0" 
+class="s15_148"
+>李友</text>
+
+<text 
+x="480" 
+y="859" 
+dx="0,0,0,0,0,0" 
+class="s16_148"
+>水果和礼物！</text>
+
+<text 
+x="429" 
+y="877" 
+dx="0,-0.2,-0.5,-0.6,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2" 
+class="s17_148"
+>November 12 at 1:31 pm · Like </text>
+
+<text 
+x="593" 
+y="877" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s17_148"
+>6 · Reply </text>
+
+<path d="M579.3,877.6l-0.4,0c-0.3,0,-0.6,-0.3,-0.6,-0.6l0,-5c0,-0.4,0.3,-0.7,0.6,-0.7l0.4,0c0.3,0,0.6,0.3,0.6,0.7l0,5c0,0.3,-0.3,0.6,-0.6,0.6Z" class="g7_148" />
+<path d="M580.8,877.3l0,-5.7c0,0,1.3,-0.6,1.3,-1.3c0,-0.6,-0.6,-3.1,0.7,-2.7c1.3,0.4,1.4,1,1.4,1.6c0,0.6,-0.3,2,-0.1,2.2c0.3,0.3,4.1,-0.2,4.3,0c0.2,0.3,0.5,0.9,0.2,1.2c-0.3,0.4,0.5,1.1,-0.3,1.8c-0.7,0.7,0,2.6,-0.7,2.9c-0.8,0.3,-6.4,0.5,-6.8,0Z" class="g22_148" />
+<image preserveAspectRatio="none" x="378" y="901" width="45" height="50" xlink:href="148/img/5.png" />
+<text 
+x="427" 
+y="925" 
+dx="0,0" 
+class="s15_148"
+>海伦</text>
+
+<text 
+x="480" 
+y="925" 
+dx="0,0,0,0,0,0,0,0,0.2" 
+class="s16_148"
+>我自己做的日本菜。</text>
+
+<text 
+x="429" 
+y="943" 
+dx="0,-0.2,-0.5,-0.6,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2" 
+class="s17_148"
+>November 12 at 2:50 pm · Like </text>
+
+<text 
+x="597" 
+y="943" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s17_148"
+>15 · Reply </text>
+
+<path d="M583.5,943.9l-0.4,0c-0.3,0,-0.6,-0.3,-0.6,-0.7l0,-5c0,-0.3,0.3,-0.6,0.6,-0.6l0.4,0c0.3,0,0.6,0.3,0.6,0.6l0,5c0,0.4,-0.3,0.7,-0.6,0.7Z" class="g7_148" />
+<path d="M585,943.5l0,-5.7c0,0,1.3,-0.6,1.3,-1.2c0,-0.7,-0.6,-3.2,0.7,-2.8c1.3,0.4,1.4,1,1.4,1.6c0,0.7,-0.3,2,-0.1,2.3c0.3,0.2,4.1,-0.3,4.3,0c0.2,0.2,0.5,0.9,0.2,1.2c-0.3,0.3,0.5,1,-0.3,1.7c-0.7,0.8,0,2.6,-0.7,2.9c-0.8,0.3,-6.4,0.6,-6.8,0Z" class="g22_148" />
+<image preserveAspectRatio="none" x="382" y="771" width="38" height="44" xlink:href="148/img/6.png" />
+<text 
+x="429" 
+y="811" 
+dx="0,-0.2,-0.5,-0.6,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.5,-0.2" 
+class="s17_148"
+>November 12 at 1:12 pm · Like </text>
+
+<text 
+x="592" 
+y="811" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s17_148"
+>10 · Reply </text>
+
+<path d="M578.8,811.5l-0.2,0c-0.4,0,-0.7,-0.3,-0.7,-0.6l0,-4.6c0,-0.4,0.3,-0.7,0.7,-0.7l0.2,0c0.4,0,0.7,0.3,0.7,0.7l0,4.6c0,0.3,-0.3,0.6,-0.7,0.6Z" class="g7_148" />
+<path d="M580.3,811.2l0,-5.3c0,0,1.3,-0.6,1.3,-1.2c0,-0.6,-0.7,-2.9,0.6,-2.5c1.2,0.3,1.3,0.9,1.3,1.5c0,0.6,-0.3,1.8,-0.1,2c0.3,0.3,3.8,-0.2,4,0c0.2,0.3,0.5,0.9,0.2,1.2c-0.3,0.3,0.4,0.9,-0.3,1.6c-0.7,0.7,0,2.4,-0.7,2.7c-0.7,0.3,-5.9,0.5,-6.3,0Z" class="g23_148" />
+<text 
+x="427" 
+y="793" 
+dx="0,0" 
+class="s15_148"
+>王朋</text>
+
+<text 
+x="480" 
+y="793" 
+dx="0,0,0,0,-0.2,-10.5,0,0,0,0.2" 
+class="s16_148"
+>我带冰茶、可乐和花。</text>
+
+<path d="M881.9,1196.3l39.4,0L921.3,0L881.9,0l0,1196.3Z" class="g24_148" />
+<g clip-path="url(#c1_148)">
+<path d="M881.9,1209.2l67.2,0l0,-1222.1l-67.2,0l0,1222.1Z" class="g25_148" />
+</g>
+<text 
+transform="matrix(0, 1, -1, 0, 890, 815)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s18_148"
+>Lesson 14 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 887)"
+dx="0,1" 
+class="s18_148"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 901)"
+dx="0,1,1,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s18_148"
+>Birthday Party </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1002)"
+dx="0,1" 
+class="s18_148"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1016)"
+dx="0,1,1,1,1,1,1,0.8,1,1,1,0.9,1,1,1,1,1,1" 
+class="s18_148"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1152)"
+dx="0,1,1,-2.3" 
+class="s18_148"
+>127 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_40a;
+	src: url("fonts/LibreFranklin-SemiBold_40a.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_40e;
+	src: url("fonts/LibreFranklin-Medium_40e.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Bold_3s4;
+	src: url("fonts/SourceHanSansCN-Bold_3s4.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3_3;
+	src: url("fonts/LibreFranklin-Regular_3_3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3-r;
+	src: url("fonts/LibreFranklin-Bold_3-r.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3-w;
+	src: url("fonts/LibreFranklin-SemiBold_3-w.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3-c;
+	src: url("fonts/LibreFranklin-ExtraBold_3-c.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Regular_3ru;
+	src: url("fonts/SourceHanSansCN-Regular_3ru.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_40d;
+	src: url("fonts/LibreFranklin-Light_40d.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: SourceHanSansCN-Medium_3n4;
+	src: url("fonts/SourceHanSansCN-Medium_3n4.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_3-n;
+	src: url("fonts/LibreFranklin-Medium_3-n.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_409;
+	src: url("fonts/MyriadPro-Regular_409.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

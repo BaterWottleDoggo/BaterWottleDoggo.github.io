@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 419 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_419{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_419{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_419{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_419{
+fill: none;
+stroke: #DC262E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_419{
+fill: #FFFFFF;
+}
+.g6_419{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_419{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_419{
+font-size: 10.69px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #FFFFFF;
+}
+.s2_419{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #77787B;
+}
+.s3_419{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #3F3F40;
+}
+.s4_419{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #007598;
+}
+.s5_419{
+font-size: 9.80px;
+font-family: ProximaNova-Extrabld_4hk;
+fill: #007598;
+}
+.s6_419{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #DC262E;
+}
+.s7_419{
+font-size: 9.80px;
+font-family: ProximaNova-Extrabld_4hk;
+fill: #DC262E;
+}
+.s8_419{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_4hh;
+fill: #909295;
+}
+.s9_419{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_4ho;
+fill: #77787B;
+}
+.s10_419{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g1_419" />
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1173)"
+dx="0,0.6,0.6,0.6" 
+class="s1_419"
+>398 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1132)"
+dx="0,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6" 
+class="s1_419"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1004)"
+dx="0,0.6" 
+class="s1_419"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 992)"
+dx="0,-0.6,0.4,0.3,0.6,0.6,0.6,0.6" 
+class="s1_419"
+>Textbook</text>
+
+<path d="M317.9,70.9l0,1078.9" class="g2_419" />
+<path d="M585.1,192.7l6.1,0" class="g3_419" />
+<path d="M676.8,452.4l5.4,0" class="g4_419" />
+<path d="M539.3,478.4l6.1,0" class="g3_419" />
+<path d="M722.6,504.4l5.8,0" class="g4_419" />
+<path d="M631,530.3l5.4,0" class="g4_419" />
+<path d="M768.5,582.3l5.5,0" class="g3_419" />
+<path d="M559.2,696.9l5.4,0" class="g4_419" />
+<path d="M811.3,748.8l4.3,0" class="g3_419" />
+<path d="M650.8,774.8l5.8,0" class="g4_419" />
+<path d="M768.5,826.7l4.9,0" class="g4_419" />
+<path d="M539.3,904.7l6,0" class="g3_419" />
+<path d="M608.1,982.6l5.7,0" class="g4_419" />
+<path d="M562.2,1034.5l5.9,0" class="g3_419" />
+<path d="M636.9,1034.5l5.3,0" class="g4_419" />
+<path d="M653.9,1138.4l3.4,0" class="g4_419" />
+<text 
+x="398" 
+y="71" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>（王朋這幾天好像生病了……）</text>
+
+<text 
+x="398" 
+y="97" 
+dx="0,0,0,0" 
+class="s3_419"
+>李友： </text>
+
+<text 
+x="470" 
+y="97" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>王朋，你怎麼了？眼睛怎麼紅紅的， </text>
+
+<text 
+x="470" 
+y="123" 
+dx="0,0,0,0,0" 
+class="s2_419"
+>感冒了嗎？</text>
+
+<text 
+x="398" 
+y="149" 
+dx="0,0,0,0" 
+class="s3_419"
+>王朋： </text>
+
+<text 
+x="470" 
+y="149" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>沒感冒。我也不知道怎麼了，最近這 </text>
+
+<text 
+x="470" 
+y="175" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>幾天身體很不舒服。眼睛又紅又癢。</text>
+
+<text 
+x="398" 
+y="201" 
+dx="0,0,0,0" 
+class="s3_419"
+>李友： </text>
+
+<text 
+x="470" 
+y="201" 
+dx="0,0,0,0" 
+class="s2_419"
+>你一定是</text>
+
+<text 
+x="562" 
+y="201" 
+dx="0" 
+class="s4_419"
+>對</text>
+
+<text 
+x="585" 
+y="189" 
+dx="0" 
+class="s5_419"
+>5</text>
+
+<text 
+x="591" 
+y="201" 
+dx="0,0,0,0,0,0" 
+class="s2_419"
+>什麼過敏了。</text>
+
+<text 
+x="398" 
+y="227" 
+dx="0,0,0,0" 
+class="s3_419"
+>王朋： </text>
+
+<text 
+x="470" 
+y="227" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>我想也是，所以去藥店買了一些藥。 </text>
+
+<text 
+x="470" 
+y="253" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>已經吃了四、五種了，花了不少錢， </text>
+
+<text 
+x="470" 
+y="279" 
+dx="0,0,0,0,0" 
+class="s2_419"
+>都沒有用。</text>
+
+<text 
+x="398" 
+y="305" 
+dx="0,0,0,0" 
+class="s3_419"
+>李友： </text>
+
+<text 
+x="470" 
+y="305" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>把你買的藥拿出來給我看看。</text>
+
+<text 
+x="398" 
+y="331" 
+dx="0,0,0,0" 
+class="s3_419"
+>王朋： </text>
+
+<text 
+x="470" 
+y="331" 
+dx="0,0,0,0,0" 
+class="s2_419"
+>這些就是。</text>
+
+<text 
+x="398" 
+y="357" 
+dx="0,0,0,0" 
+class="s3_419"
+>李友： </text>
+
+<text 
+x="470" 
+y="357" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>這些藥沒有用。為什麼不去看病？你 </text>
+
+<text 
+x="470" 
+y="383" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_419"
+>沒有健康保險嗎？</text>
+
+<text 
+x="398" 
+y="409" 
+dx="0,0,0,0" 
+class="s3_419"
+>王朋： </text>
+
+<text 
+x="470" 
+y="409" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>我有保險。可是我這個學期功課很多，</text>
+
+<text 
+x="470" 
+y="435" 
+dx="0,0,0,0,0,0,0" 
+class="s2_419"
+>看病太花時間。</text>
+
+<text 
+x="398" 
+y="461" 
+dx="0,0,0,0" 
+class="s3_419"
+>李友： </text>
+
+<text 
+x="470" 
+y="461" 
+dx="0,0,0,0,0,0,0" 
+class="s2_419"
+>那你也得趕快去</text>
+
+<text 
+x="630" 
+y="461" 
+dx="0,0" 
+class="s6_419"
+>看病</text>
+
+<text 
+x="676" 
+y="449" 
+dx="0" 
+class="s7_419"
+>a</text>
+
+<text 
+x="682" 
+y="461" 
+dx="0,0,0,0,0,0,0" 
+class="s2_419"
+>。要不然病會 </text>
+
+<text 
+x="470" 
+y="487" 
+dx="0,0,0" 
+class="s4_419"
+>越來越</text>
+
+<text 
+x="539" 
+y="475" 
+dx="0" 
+class="s5_419"
+>6</text>
+
+<text 
+x="545" 
+y="487" 
+dx="0,0" 
+class="s2_419"
+>重。</text>
+
+<text 
+x="398" 
+y="513" 
+dx="0,0,0,0" 
+class="s3_419"
+>王朋： </text>
+
+<text 
+x="470" 
+y="513" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>我想再吃點兒別的藥</text>
+
+<text 
+x="676" 
+y="513" 
+dx="0,0" 
+class="s6_419"
+>試試</text>
+
+<text 
+x="722" 
+y="501" 
+dx="0" 
+class="s7_419"
+>b</text>
+
+<text 
+x="728" 
+y="513" 
+dx="0,0,0,0,0" 
+class="s2_419"
+>。我上次生</text>
+
+<text 
+x="470" 
+y="538" 
+dx="0,0,0,0" 
+class="s2_419"
+>病，沒去</text>
+
+<text 
+x="562" 
+y="538" 
+dx="0,0,0" 
+class="s6_419"
+>看醫生</text>
+
+<text 
+x="630" 
+y="527" 
+dx="0" 
+class="s7_419"
+>a</text>
+
+<text 
+x="636" 
+y="538" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>，休息了兩天，最後 </text>
+
+<text 
+x="470" 
+y="564" 
+dx="0,0,0,0" 
+class="s2_419"
+>也好了。</text>
+
+<text 
+x="398" 
+y="590" 
+dx="0,0,0,0" 
+class="s3_419"
+>李友： </text>
+
+<text 
+x="470" 
+y="590" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>不行，不行，你太懶了。</text>
+
+<text 
+x="722" 
+y="590" 
+dx="0,0" 
+class="s4_419"
+>再說</text>
+
+<text 
+x="768" 
+y="579" 
+dx="0" 
+class="s5_419"
+>7</text>
+
+<text 
+x="773" 
+y="590" 
+dx="0,0,0,0" 
+class="s2_419"
+>，你不 </text>
+
+<text 
+x="470" 
+y="616" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>能自己亂吃藥。走，我跟你看病去。</text>
+
+<text 
+x="144" 
+y="707" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s8_419"
+>Lesson 16</text>
+
+<text 
+x="398" 
+y="705" 
+dx="0,0,0,0,0,0" 
+class="s2_419"
+>王朋跟李友在</text>
+
+<text 
+x="536" 
+y="705" 
+dx="0" 
+class="s6_419"
+>同</text>
+
+<text 
+x="559" 
+y="693" 
+dx="0" 
+class="s7_419"
+>a</text>
+
+<text 
+x="564" 
+y="705" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>一個學校學習，他們認識已 </text>
+
+<text 
+x="398" 
+y="731" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>經快半年了。王朋常常幫李友練習說中文。 </text>
+
+<text 
+x="398" 
+y="757" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>他們也常常一起出去玩兒，每次都玩兒</text>
+
+<text 
+x="788" 
+y="757" 
+dx="0" 
+class="s4_419"
+>得</text>
+
+<text 
+x="811" 
+y="745" 
+dx="0" 
+class="s5_419"
+>1</text>
+
+<text 
+x="815" 
+y="757" 
+dx="0,0" 
+class="s2_419"
+>很 </text>
+
+<text 
+x="398" 
+y="783" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>高興。李友對王朋的</text>
+
+<text 
+x="605" 
+y="783" 
+dx="0,0" 
+class="s6_419"
+>印象</text>
+
+<text 
+x="650" 
+y="771" 
+dx="0" 
+class="s7_419"
+>b</text>
+
+<text 
+x="656" 
+y="783" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>很好，王朋也很喜 </text>
+
+<text 
+x="398" 
+y="809" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>歡李友，他們成了好朋友。</text>
+
+<text 
+x="398" 
+y="835" 
+dx="0,0,0,0" 
+class="s3_419"
+>王朋： </text>
+
+<text 
+x="470" 
+y="835" 
+dx="0,0,0,0,0,0" 
+class="s2_419"
+>這個週末學校</text>
+
+<text 
+x="608" 
+y="835" 
+dx="0" 
+class="s6_419"
+>演</text>
+
+<text 
+x="630" 
+y="835" 
+dx="0,0,0,0" 
+class="s2_419"
+>一個中國</text>
+
+<text 
+x="722" 
+y="835" 
+dx="0,0" 
+class="s6_419"
+>電影</text>
+
+<text 
+x="768" 
+y="823" 
+dx="0" 
+class="s7_419"
+>c</text>
+
+<text 
+x="773" 
+y="835" 
+dx="0,0,0,0" 
+class="s2_419"
+>，我們 </text>
+
+<text 
+x="470" 
+y="861" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_419"
+>一起去看，好嗎？</text>
+
+<text 
+x="398" 
+y="887" 
+dx="0,0,0,0" 
+class="s3_419"
+>李友： </text>
+
+<text 
+x="470" 
+y="887" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>好啊！不過，聽說看電影的人很多， </text>
+
+<text 
+x="470" 
+y="913" 
+dx="0,0,0" 
+class="s4_419"
+>買得到</text>
+
+<text 
+x="539" 
+y="901" 
+dx="0" 
+class="s5_419"
+>2</text>
+
+<text 
+x="545" 
+y="913" 
+dx="0,0,0" 
+class="s2_419"
+>票嗎？</text>
+
+<text 
+x="398" 
+y="939" 
+dx="0,0,0,0" 
+class="s3_419"
+>王朋： </text>
+
+<text 
+x="470" 
+y="939" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>票已經買好了，我費了很大的力氣才 </text>
+
+<text 
+x="470" 
+y="965" 
+dx="0,0,0" 
+class="s2_419"
+>買到。</text>
+
+<text 
+x="398" 
+y="991" 
+dx="0,0,0,0" 
+class="s3_419"
+>李友： </text>
+
+<text 
+x="470" 
+y="991" 
+dx="0,0,0,0,0" 
+class="s2_419"
+>好極了！我</text>
+
+<text 
+x="585" 
+y="991" 
+dx="0" 
+class="s6_419"
+>早</text>
+
+<text 
+x="608" 
+y="979" 
+dx="0" 
+class="s7_419"
+>d</text>
+
+<text 
+x="613" 
+y="991" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>就想看中國電影了。還 </text>
+
+<text 
+x="470" 
+y="1017" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>有別人跟我們一起去嗎？</text>
+
+<text 
+x="398" 
+y="1043" 
+dx="0,0,0,0" 
+class="s3_419"
+>王朋： </text>
+
+<text 
+x="470" 
+y="1043" 
+dx="0,0,0" 
+class="s2_419"
+>沒有，</text>
+
+<text 
+x="539" 
+y="1043" 
+dx="0" 
+class="s4_419"
+>就</text>
+
+<text 
+x="562" 
+y="1031" 
+dx="0" 
+class="s5_419"
+>3</text>
+
+<text 
+x="568" 
+y="1043" 
+dx="0,0" 
+class="s2_419"
+>我們</text>
+
+<text 
+x="613" 
+y="1043" 
+dx="0" 
+class="s6_419"
+>倆</text>
+
+<text 
+x="636" 
+y="1031" 
+dx="0" 
+class="s7_419"
+>e</text>
+
+<text 
+x="642" 
+y="1043" 
+dx="0" 
+class="s2_419"
+>。</text>
+
+<text 
+x="398" 
+y="1069" 
+dx="0,0,0,0" 
+class="s3_419"
+>李友： </text>
+
+<text 
+x="470" 
+y="1069" 
+dx="0,0,0,0,0,0,0" 
+class="s2_419"
+>好。什麼時候？</text>
+
+<text 
+x="398" 
+y="1095" 
+dx="0,0,0,0" 
+class="s3_419"
+>王朋： </text>
+
+<text 
+x="470" 
+y="1095" 
+dx="0,0,0,0,0,0,0" 
+class="s2_419"
+>後天晚上八點。</text>
+
+<text 
+x="398" 
+y="1121" 
+dx="0,0,0,0" 
+class="s3_419"
+>李友： </text>
+
+<text 
+x="470" 
+y="1121" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_419"
+>看電影以前，我請你吃晚飯。</text>
+
+<text 
+x="398" 
+y="1147" 
+dx="0,0,0,0" 
+class="s3_419"
+>王朋： </text>
+
+<text 
+x="470" 
+y="1147" 
+dx="0,0,0,0" 
+class="s2_419"
+>太好了！</text>
+
+<text 
+x="562" 
+y="1147" 
+dx="0,0,0,0" 
+class="s6_419"
+>一言為定</text>
+
+<text 
+x="653" 
+y="1135" 
+dx="0" 
+class="s7_419"
+>f</text>
+
+<text 
+x="657" 
+y="1147" 
+dx="0" 
+class="s2_419"
+>。</text>
+
+<path d="M243.8,120.9l143.7,0l0,-28.3l-143.7,0l0,28.3Z" class="g5_419" />
+<text 
+x="286" 
+y="112" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s9_419"
+>Allergies</text>
+
+<path d="M281.6,57.5c0,0,-15.3,0,-15.3,15.2l0,3.1c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g5_419" />
+<text 
+x="281" 
+y="80" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s10_419"
+>Dialogue 2</text>
+
+<path d="M281.6,56.7c-0.2,0,-16.1,0.2,-16.1,16l0,3.1c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.1,0Z" class="g6_419" />
+<path d="M281.6,58.7c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.1,0Z" class="g7_419" />
+<path d="M243.8,746.3l143.7,0l0,-28.4l-143.7,0l0,28.4Z" class="g5_419" />
+<text 
+x="264" 
+y="737" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s9_419"
+>Seeing a Movie </text>
+
+<path d="M281.6,682.7c0,0,-15.3,0,-15.3,15.3l0,3c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3c0,0,0,-15.3,-15.3,-15.3Z" class="g5_419" />
+<text 
+x="282" 
+y="706" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s10_419"
+>Dialogue 1</text>
+
+<path d="M281.6,681.9c-0.2,0,-16.1,0.2,-16.1,16.1l0,3c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3c0,-0.2,-0.2,-16.1,-16.1,-16.1l-68.1,0Z" class="g6_419" />
+<path d="M281.6,684c-0.6,0,-14,0.2,-14,14l0,3c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3c0,-0.6,-0.2,-14,-14,-14l-68.1,0Z" class="g7_419" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_4gw;
+	src: url("fonts/LibreFranklin-SemiBold_4gw.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_4hh;
+	src: url("fonts/LibreFranklin-ExtraBold_4hh.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiTC-Regular_4h8;
+	src: url("fonts/STKaitiTC-Regular_4h8.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_4ho;
+	src: url("fonts/LibreFranklin-Light_4ho.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_4hk;
+	src: url("fonts/ProximaNova-Extrabld_4hk.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

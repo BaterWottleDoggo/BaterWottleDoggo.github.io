@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 197 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_197{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_197{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_197{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_197{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cyv;
+fill: #3F3F40;
+}
+.s2_197{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s3_197{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #007D9F;
+}
+.s4_197{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s5_197{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #007D9F;
+}
+.s6_197{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cz7;
+fill: #3F3F40;
+}
+.s7_197{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_cyr;
+fill: #939598;
+}
+.s8_197{
+font-size: 29.03px;
+font-family: ZenKai-Medium_cmx;
+fill: #3F3F40;
+}
+.s9_197{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cyp;
+fill: #231F20;
+}
+.s10_197{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_cg0;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="174" 
+y="71" 
+dx="0,0" 
+class="s1_197"
+>B </text>
+
+<text 
+x="244" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_197"
+>我的车旧了，最近老有问题。买新的</text>
+
+<text 
+x="660" 
+y="73" 
+dx="0" 
+class="s3_197"
+>吧</text>
+
+<text 
+x="685" 
+y="73" 
+dx="0,0,0,0,0" 
+class="s2_197"
+>，没有钱，</text>
+
+<text 
+x="244" 
+y="107" 
+dx="0,0,0,0" 
+class="s2_197"
+>不买新的</text>
+
+<text 
+x="348" 
+y="107" 
+dx="0" 
+class="s3_197"
+>吧</text>
+
+<text 
+x="374" 
+y="107" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_197"
+>，旧车又不可靠，真难办。</text>
+
+<text 
+x="244" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_197"
+>我的車舊了，最近老有問題。買新的</text>
+
+<text 
+x="660" 
+y="147" 
+dx="0" 
+class="s5_197"
+>吧</text>
+
+<text 
+x="685" 
+y="147" 
+dx="0,0,0,0,0" 
+class="s4_197"
+>，沒有錢，</text>
+
+<text 
+x="244" 
+y="181" 
+dx="0,0,0,0" 
+class="s4_197"
+>不買新的</text>
+
+<text 
+x="348" 
+y="181" 
+dx="0" 
+class="s5_197"
+>吧</text>
+
+<text 
+x="374" 
+y="181" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_197"
+>，舊車又不可靠，真難辦。</text>
+
+<text 
+x="250" 
+y="225" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0.4,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_197"
+>My car is old, and lately it’s had many problems. I could buy a new one, but I don’t </text>
+
+<text 
+x="250" 
+y="245" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.4" 
+class="s6_197"
+>have the money. I could keep the old one, but it’s not reliable. I don’t know what to do.</text>
+
+<text 
+x="174" 
+y="304" 
+dx="0,0" 
+class="s1_197"
+>C </text>
+
+<text 
+x="216" 
+y="306" 
+dx="0,0,0" 
+class="s7_197"
+>Q: </text>
+
+<text 
+x="242" 
+y="306" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_197"
+>你说住在城里好，还是住在城外好？</text>
+
+<text 
+x="244" 
+y="347" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_197"
+>你說住在城裡好，還是住在城外好？</text>
+
+<text 
+x="250" 
+y="380" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,0,-0.1,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_197"
+>Do you think it’s better to live in or outside the city?</text>
+
+<text 
+x="216" 
+y="428" 
+dx="0,0,0" 
+class="s7_197"
+>A: </text>
+
+<text 
+x="245" 
+y="428" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_197"
+>很难说。住在城里</text>
+
+<text 
+x="453" 
+y="428" 
+dx="0" 
+class="s3_197"
+>吧</text>
+
+<text 
+x="479" 
+y="428" 
+dx="0,0,0,0" 
+class="s2_197"
+>，上、下</text>
+
+<text 
+x="583" 
+y="431" 
+dx="0" 
+class="s8_197"
+>班</text>
+
+<text 
+x="612" 
+y="428" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_197"
+>，购物都很方便，</text>
+
+<text 
+x="245" 
+y="461" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_197"
+>可是空气不太好；住在城外</text>
+
+<text 
+x="557" 
+y="461" 
+dx="0" 
+class="s3_197"
+>吧</text>
+
+<text 
+x="583" 
+y="461" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_197"
+>，环境好，空气新</text>
+
+<text 
+x="245" 
+y="495" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_197"
+>鲜，但做什么都不太方便。</text>
+
+<text 
+x="244" 
+y="535" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_197"
+>很難說。住在城裡</text>
+
+<text 
+x="452" 
+y="535" 
+dx="0" 
+class="s5_197"
+>吧</text>
+
+<text 
+x="478" 
+y="535" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_197"
+>，上、下班，購物都很方便，</text>
+
+<text 
+x="244" 
+y="569" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_197"
+>可是空氣不太好；住在城外</text>
+
+<text 
+x="556" 
+y="569" 
+dx="0" 
+class="s5_197"
+>吧</text>
+
+<text 
+x="582" 
+y="569" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_197"
+>，環境好，空氣新</text>
+
+<text 
+x="244" 
+y="603" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_197"
+>鮮，但做什麼都不太方便。</text>
+
+<text 
+x="250" 
+y="647" 
+dx="0,0,0.4,-0.9,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_197"
+>It’s hard to say. If you live in the city, commuting and shopping are convenient, but </text>
+
+<text 
+x="250" 
+y="667" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s6_197"
+>the air quality is not so good. If you live outside the city, the environment is good </text>
+
+<text 
+x="250" 
+y="687" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0.4,-0.9,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_197"
+>and the air is fresh, but it’s quite inconvenient to do anything.</text>
+
+<text 
+x="174" 
+y="745" 
+dx="0,0" 
+class="s1_197"
+>D </text>
+
+<text 
+x="244" 
+y="748" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_197"
+>他女朋友的妹妹明天过生日，有个生日晚会。他想，</text>
+
+<text 
+x="244" 
+y="781" 
+dx="0" 
+class="s2_197"
+>去</text>
+
+<text 
+x="270" 
+y="781" 
+dx="0" 
+class="s3_197"
+>吧</text>
+
+<text 
+x="296" 
+y="781" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_197"
+>，没有钱买礼物；不去</text>
+
+<text 
+x="556" 
+y="781" 
+dx="0" 
+class="s3_197"
+>吧</text>
+
+<text 
+x="582" 
+y="781" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_197"
+>，又怕女朋友生气。</text>
+
+<text 
+x="244" 
+y="815" 
+dx="0,0,0,0,0" 
+class="s2_197"
+>怎么办呢？</text>
+
+<text 
+x="244" 
+y="855" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_197"
+>他女朋友的妹妹明天過生日，有個生日晚會。他想，</text>
+
+<text 
+x="244" 
+y="889" 
+dx="0" 
+class="s4_197"
+>去</text>
+
+<text 
+x="270" 
+y="889" 
+dx="0" 
+class="s5_197"
+>吧</text>
+
+<text 
+x="296" 
+y="889" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s4_197"
+>，沒有錢買禮物；不去</text>
+
+<text 
+x="556" 
+y="889" 
+dx="0" 
+class="s5_197"
+>吧</text>
+
+<text 
+x="582" 
+y="889" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_197"
+>，又怕女朋友生氣。</text>
+
+<text 
+x="244" 
+y="923" 
+dx="0,0,0,0,0" 
+class="s4_197"
+>怎麼辦呢？</text>
+
+<text 
+x="250" 
+y="967" 
+dx="0,-1.5,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0.1,-0.6,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_197"
+>Tomorrow is his girlfriend's younger sister's birthday. There will be a birthday party in </text>
+
+<text 
+x="250" 
+y="987" 
+dx="0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_197"
+>the evening. He thinks if he goes, he won’t have the money to buy a present; but if he </text>
+
+<text 
+x="250" 
+y="1007" 
+dx="0,0,0,0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_197"
+>doesn’t go, he’s afraid that his girlfriend will be angry. What should he do?</text>
+
+<path d="M168.1,48.9c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g1_197" />
+<path d="M168.1,50.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_197" />
+<path d="M168.1,281.1c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.6c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.6c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_197" />
+<path d="M168.1,283.1c-0.6,0.1,-5.6,0.3,-5.6,5.7l0,19.6c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.6c0,-0.6,-0.2,-5.7,-5.6,-5.7l-22.4,0Z" class="g2_197" />
+<path d="M168.1,722.6c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g1_197" />
+<path d="M168.1,724.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g2_197" />
+<path d="M-12.9,1140.5l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g3_197" />
+<text 
+x="20" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s9_197"
+>174 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s10_197"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s10_197"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s10_197"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s10_197"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s10_197"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s10_197"
+>Textbook</text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 1129)"
+dx="0,1.2,1.2,1,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s10_197"
+>Integrated Chinese 4 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 955)"
+dx="0,1.2" 
+class="s10_197"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 34, 938)"
+dx="0,-0.3,0.9,0.9,1.2,1.2,1.2,1.2" 
+class="s10_197"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_cyr;
+	src: url("fonts/LibreFranklin-Bold_cyr.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cz7;
+	src: url("fonts/LibreFranklin-Regular_cz7.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cyv;
+	src: url("fonts/LibreFranklin-ExtraBold_cyv.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZenKai-Medium_cmx;
+	src: url("fonts/ZenKai-Medium_cmx.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cyp;
+	src: url("fonts/LibreFranklin-Medium_cyp.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cg0;
+	src: url("fonts/LibreFranklin-SemiBold_cg0.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

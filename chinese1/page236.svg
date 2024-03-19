@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 259 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_259{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_259{
+fill: #3986C6;
+}
+.g3_259{
+fill: #E2E3E5;
+}
+.g4_259{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_259{
+fill: #ACBF3B;
+}
+.g6_259{
+fill: #FFFFFF;
+}
+.g7_259{
+fill: none;
+stroke: #2D77BC;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_259{
+fill: #B2BC5A;
+}
+.g9_259{
+fill: #2D77BC;
+}
+.g10_259{
+fill: #57586A;
+}
+.g11_259{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_259{
+fill: #E75855;
+stroke: #E75855;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g13_259{
+fill: #EC9348;
+}
+.g14_259{
+fill: none;
+stroke: #EC9348;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g15_259{
+fill: #EBE956;
+}
+.g16_259{
+fill: none;
+stroke: #EBE956;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g17_259{
+fill: #9FD08A;
+}
+.g18_259{
+fill: none;
+stroke: #9FD08A;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g19_259{
+fill: #93BDE5;
+}
+.g20_259{
+fill: none;
+stroke: #93BDE5;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g21_259{
+fill: #B19AC9;
+}
+.g22_259{
+fill: none;
+stroke: #B19AC9;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g23_259{
+fill: #D1D2D4;
+}
+.g24_259{
+fill: none;
+stroke: #808285;
+stroke-width: 1.3368056;
+stroke-linecap: butt;
+stroke-linejoin: round;
+}
+
+.s1_259{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cot;
+fill: #231F20;
+}
+.s2_259{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s3_259{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s4_259{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d61;
+fill: #231F20;
+}
+.s5_259{
+font-size: 16.81px;
+font-family: ProximaNovaCond-Extrabld_d6i;
+fill: #231F20;
+}
+.s6_259{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d66;
+fill: #231F20;
+}
+.s7_259{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s8_259{
+font-size: 32.08px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s9_259{
+font-size: 16.04px;
+font-family: Alegreya-Regular_d61;
+fill: #231F20;
+}
+.s10_259{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d5-;
+fill: #FFFFFF;
+}
+.s11_259{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s12_259{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_d62;
+fill: #FFFFFF;
+}
+.s13_259{
+font-size: 11.13px;
+font-family: Alegreya-Regular_d61;
+fill: #231F20;
+}
+.s14_259{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d66;
+fill: #3986C6;
+}
+.s15_259{
+font-size: 16.04px;
+font-family: Alegreya-Regular_d6k;
+fill: #231F20;
+}
+.s16_259{
+font-size: 24.44px;
+font-family: ProximaNovaA-Regular_d6l;
+fill: #231F20;
+}
+.s17_259{
+font-size: 24.44px;
+font-family: ProximaNova-Bold_d6m;
+fill: #231F20;
+}
+.s18_259{
+font-size: 32.08px;
+font-family: STKaiti-SC-Bold_cqx;
+fill: #231F20;
+}
+.s19_259{
+font-size: 16.04px;
+font-family: ProximaNova-Bold_d6m;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_259"
+>Go Far with Chinese</text>
+
+<text 
+x="32" 
+y="1149" 
+dx="0,0,0" 
+class="s2_259"
+>236</text>
+
+<path d="M50.4,1089.3l0,38.7" class="g1_259" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g2_259" />
+<text 
+x="138" 
+y="98" 
+dx="0,0,0,0,0,0" 
+class="s2_259"
+>Using </text>
+
+<text 
+x="191" 
+y="95" 
+dx="0" 
+class="s3_259"
+>哪</text>
+
+<text 
+x="219" 
+y="98" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_259"
+>to ask which</text>
+
+<text 
+x="137" 
+y="137" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-1.5,-0.4,0,0,0,0,-0.6,0,0,0,0,0,0,-0.4,0,0,0,0" 
+class="s4_259"
+>When asking a question that would include “which” in English, use </text>
+
+<text 
+x="655" 
+y="136" 
+dx="0" 
+class="s3_259"
+>哪</text>
+
+<text 
+x="682" 
+y="137" 
+dx="0,0,0,0,0,-0.4" 
+class="s4_259"
+>(nǎ). </text>
+
+<text 
+x="721" 
+y="136" 
+dx="0" 
+class="s3_259"
+>哪</text>
+
+<text 
+x="748" 
+y="137" 
+dx="0,0,0,0,0" 
+class="s4_259"
+>(nǎ) </text>
+
+<text 
+x="138" 
+y="161" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,-0.3,0,0,0,-0.3,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.3,0,-0.2,0,-0.4,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-1.3,-0.4" 
+class="s4_259"
+>should always be followed by a measure word, as shown in bold below. </text>
+
+<path d="M110,103.2l20.6,0l0,-20.6l-20.6,0l0,20.6Z" class="g3_259" />
+<text 
+x="115" 
+y="99" 
+dx="0" 
+class="s5_259"
+>2</text>
+
+<text 
+x="137" 
+y="231" 
+dx="0" 
+class="s6_259"
+>1</text>
+
+<text 
+x="160" 
+y="234" 
+dx="0,0,0,0" 
+class="s7_259"
+>你想学哪</text>
+
+<text 
+x="288" 
+y="235" 
+dx="0" 
+class="s8_259"
+>种</text>
+
+<text 
+x="317" 
+y="234" 
+dx="0,-3.9,0" 
+class="s7_259"
+>乐器？</text>
+
+<text 
+x="162" 
+y="265" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_259"
+>Which instrument do you want to learn?</text>
+
+<text 
+x="137" 
+y="322" 
+dx="0" 
+class="s6_259"
+>2</text>
+
+<text 
+x="162" 
+y="325" 
+dx="0,0,0,0,0" 
+class="s7_259"
+>他最想买哪</text>
+
+<text 
+x="323" 
+y="328" 
+dx="0" 
+class="s8_259"
+>本</text>
+
+<text 
+x="353" 
+y="325" 
+dx="0,0" 
+class="s7_259"
+>书？</text>
+
+<text 
+x="162" 
+y="356" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_259"
+>Which book does he want to buy the most?</text>
+
+<text 
+x="162" 
+y="410" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_259"
+>If it is already clear what is being talked about, sometimes the noun after </text>
+
+<text 
+x="730" 
+y="409" 
+dx="0" 
+class="s3_259"
+>哪</text>
+
+<text 
+x="756" 
+y="410" 
+dx="0,0,0,0,0,0,-0.2,0,0" 
+class="s4_259"
+>(nǎ) can </text>
+
+<text 
+x="163" 
+y="436" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.4,-0.4" 
+class="s4_259"
+>be left out, but the measure word still needs to be included. In these cases, </text>
+
+<text 
+x="740" 
+y="435" 
+dx="0" 
+class="s3_259"
+>哪</text>
+
+<text 
+x="766" 
+y="436" 
+dx="0,0,0,0" 
+class="s4_259"
+>+ a </text>
+
+<text 
+x="163" 
+y="460" 
+dx="0,0,0,0,0,0,-0.2,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,-0.4,0,0,0,0,0,0,0,0,0,-0.6,-1.1" 
+class="s4_259"
+>measure word means something like “which one.”</text>
+
+<text 
+x="137" 
+y="518" 
+dx="0" 
+class="s6_259"
+>3</text>
+
+<text 
+x="161" 
+y="521" 
+dx="0,0" 
+class="s7_259"
+>这三</text>
+
+<text 
+x="225" 
+y="523" 
+dx="0" 
+class="s8_259"
+>门</text>
+
+<text 
+x="257" 
+y="521" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_259"
+>课都很有意思。你觉得哪</text>
+
+<text 
+x="610" 
+y="523" 
+dx="0" 
+class="s8_259"
+>门</text>
+
+<text 
+x="642" 
+y="521" 
+dx="0,0,0,0,0" 
+class="s7_259"
+>最有意思？</text>
+
+<text 
+x="163" 
+y="552" 
+dx="0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0.3,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_259"
+>These three classes are all very interesting. Which one do you think is most </text>
+
+<text 
+x="163" 
+y="578" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s4_259"
+>interesting?</text>
+
+<text 
+x="264" 
+y="201" 
+dx="0,0.2" 
+class="s9_259"
+>nǎ</text>
+
+<text 
+x="200" 
+y="298" 
+dx="0,0.2,0.2" 
+class="s9_259"
+>zuì</text>
+
+<text 
+x="300" 
+y="297" 
+dx="0,0.2" 
+class="s9_259"
+>nǎ</text>
+
+<text 
+x="226" 
+y="492" 
+dx="0,0.2,0.2" 
+class="s9_259"
+>mén</text>
+
+<text 
+x="269" 
+y="492" 
+dx="0,-0.1" 
+class="s9_259"
+>kè</text>
+
+<text 
+x="586" 
+y="492" 
+dx="0,0.2" 
+class="s9_259"
+>nǎ</text>
+
+<text 
+x="611" 
+y="492" 
+dx="0,0.2,0.2" 
+class="s9_259"
+>mén</text>
+
+<text 
+x="649" 
+y="492" 
+dx="0,0.2,0.2" 
+class="s9_259"
+>zuì</text>
+
+<path d="M128.3,666.4c-10.1,0,-18.3,-8.2,-18.3,-18.3l0,-20.2l23.1,0c10.2,0,18.4,8.2,18.4,18.4l0,20.1Z" class="g2_259" />
+<path d="M119.4,628.2l425.8,0" class="g4_259" />
+<path d="M133.1,665.7l412.1,0" class="g4_259" />
+<text 
+x="117" 
+y="654" 
+dx="0,0,0" 
+class="s10_259"
+>1d </text>
+
+<text 
+x="160" 
+y="654" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s11_259"
+>Using the Language</text>
+
+<path d="M408,657.4c-5.9,0,-10.8,-4.9,-10.8,-10.8l0,-10.9l131.2,0c6,0,10.8,4.9,10.8,10.9l0,10.8Z" class="g5_259" />
+<text 
+x="413" 
+y="650" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_259"
+>i´T²rP²r±³´µ¶</text>
+
+<text 
+x="109" 
+y="703" 
+dx="0,-0.6,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.1,-0.7,-0.4,-1.7,-0.8,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.6,-0.7,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.8,-0.8,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4" 
+class="s4_259"
+>In an international survey, blue was the most common favorite color in many countries, including </text>
+
+<text 
+x="110" 
+y="729" 
+dx="0,-0.4,-0.4,-0.4,-0.4,-0.8,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.8,-0.8,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.8,-0.4,-0.4,-0.4,-0.4,-0.4,-0.8,-0.4,-0.4,-0.4,-0.4,-0.7,-1.7" 
+class="s4_259"
+>the United States, China, and Germany.</text>
+
+<text 
+x="403" 
+y="720" 
+dx="0" 
+class="s13_259"
+>1</text>
+
+<text 
+x="410" 
+y="729" 
+dx="0,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.6,-0.7,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.7,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4,-0.4" 
+class="s4_259"
+>But is it the most common favorite color in your class?</text>
+
+<text 
+x="110" 
+y="762" 
+dx="0,0,0,0,0,0,0" 
+class="s14_259"
+>Step 1:</text>
+
+<text 
+x="164" 
+y="762" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_259"
+>In groups, discuss your classmates’ </text>
+
+<text 
+x="443" 
+y="762" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_259"
+>favorite colors. Keep track of the answers and be </text>
+
+<text 
+x="165" 
+y="788" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_259"
+>prepared to report back to your teacher.</text>
+
+<text 
+x="110" 
+y="821" 
+dx="0,0,0,0,0,0,0" 
+class="s14_259"
+>Step 2:</text>
+
+<text 
+x="167" 
+y="821" 
+dx="0,-0.4,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.4,-0.3,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.8" 
+class="s4_259"
+>Have one student tell the teacher the favorite colors of the others in his/her group.</text>
+
+<text 
+x="110" 
+y="854" 
+dx="0,0,0,0,0,0,0" 
+class="s14_259"
+>Step 3:</text>
+
+<text 
+x="166" 
+y="854" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.2,-0.4,-0.3,0,0,0,0,0" 
+class="s4_259"
+>After each group has shared the results, figure out what the most common favorite </text>
+
+<text 
+x="166" 
+y="880" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_259"
+>color in your class is!</text>
+
+<text 
+x="111" 
+y="1118" 
+dx="0" 
+class="s13_259"
+>1</text>
+
+<text 
+x="125" 
+y="1127" 
+dx="0,-0.4,0,0,-0.2,-0.3,0,0,0,-0.8,0,0,-0.4,-0.3,-1.3,-0.8,-0.3,0" 
+class="s4_259"
+>Source: YouGov.com</text>
+
+<path d="M342.1,965.8l0,-28.5c0,-8.4,-6.9,-15.3,-15.3,-15.3l-196,0c-8.4,0,-15.3,6.9,-15.3,15.3l0,28.5l0,4.2l0,126.1l717.2,0l0,-130.3Z" class="g6_259" />
+<path d="M342.1,965.8l0,-28.5c0,-8.4,-6.9,-15.3,-15.3,-15.3l-196,0c-8.4,0,-15.3,6.9,-15.3,15.3l0,28.5l0,4.2l0,126.1l717.2,0l0,-130.3l-490.6,0Z" class="g7_259" />
+<path d="M178.4,965.8l-42.8,0l0,-1.8l42.8,0l0,1.8Z" class="g8_259" />
+<path d="M178.4,944.8l-42.8,0l0,-3.5l42.8,0l0,3.5Z" class="g8_259" />
+<path d="M176.1,944.8l-38.2,0l0,19.6l38.2,0l0,-19.6Z" class="g9_259" />
+<path d="M169,937.3l-24,0l0,-3.5l24,0l0,3.5Z" class="g8_259" />
+<path d="M167.1,937.3l-20.2,0l0,5.3l20.2,0l0,-5.3Z" class="g9_259" />
+<path d="M145.3,955l-4.9,0l0,-8.6l4.9,0l0,8.6Z" class="g10_259" />
+<path d="M145.3,955l-4.9,0l0,-8.6l4.9,0Z" class="g11_259" />
+<path d="M173.9,955l-4.9,0l0,-8.6l4.9,0l0,8.6Z" class="g10_259" />
+<path d="M173.9,955l-4.9,0l0,-8.6l4.9,0Z" class="g11_259" />
+<path d="M164.4,964l-14.8,0l0,-9.4l14.8,0l0,9.4Z" class="g6_259" />
+<path d="M156.2,952.1l0,-5.4l-3.7,-7.4l1.7,0l1.6,3.5c0.5,1,0.8,1.8,1.2,2.7c0.3,-0.9,0.7,-1.7,1.2,-2.7l1.6,-3.5l1.7,0l-3.8,7.4l0,5.4Z" class="g6_259" />
+<path d="M160.3,947l-6.9,0l0,-1l6.9,0l0,1Z" class="g6_259" />
+<path d="M160.3,949l-6.9,0l0,-0.9l6.9,0l0,0.9Z" class="g6_259" />
+<path d="M133.9,984.2l98.2,0l0,93.2l-98.2,0" class="g12_259" />
+<path d="M348.6,1077.4l-98.3,0l0,-93.2l98.3,0l0,93.2Z" class="g13_259" />
+<path d="M348.6,1077.4l-98.3,0l0,-93.2l98.3,0Z" class="g14_259" />
+<path d="M465,1077.4l-98.3,0l0,-93.2l98.3,0l0,93.2Z" class="g15_259" />
+<path d="M465,1077.4l-98.3,0l0,-93.2l98.3,0Z" class="g16_259" />
+<path d="M581.5,1077.4l-98.3,0l0,-93.2l98.3,0l0,93.2Z" class="g17_259" />
+<path d="M581.5,1077.4l-98.3,0l0,-93.2l98.3,0Z" class="g18_259" />
+<path d="M697.9,1077.4l-98.3,0l0,-93.2l98.3,0l0,93.2Z" class="g19_259" />
+<path d="M697.9,1077.4l-98.3,0l0,-93.2l98.3,0Z" class="g20_259" />
+<path d="M814.3,1077.4l-98.2,0l0,-93.2l98.2,0l0,93.2Z" class="g21_259" />
+<path d="M814.3,1077.4l-98.2,0l0,-93.2l98.2,0Z" class="g22_259" />
+<path d="M156.8,1040.7l0,-14.2c0,-3.1,-2.5,-5.6,-5.6,-5.6l-14.2,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7Z" class="g23_259" />
+<path d="M156.8,1040.7l0,-14.2c0,-3.1,-2.5,-5.6,-5.6,-5.6l-14.2,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7l14.2,0Z" class="g24_259" />
+<path d="M273.3,1040.7l0,-14.2c0,-3.1,-2.6,-5.6,-5.7,-5.6l-14.1,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7Z" class="g23_259" />
+<path d="M273.3,1040.7l0,-14.2c0,-3.1,-2.6,-5.6,-5.7,-5.6l-14.1,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7l14.2,0Z" class="g24_259" />
+<path d="M389.7,1040.7l0,-14.2c0,-3.1,-2.5,-5.6,-5.6,-5.6l-14.2,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7Z" class="g23_259" />
+<path d="M389.7,1040.7l0,-14.2c0,-3.1,-2.5,-5.6,-5.6,-5.6l-14.2,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7l14.2,0Z" class="g24_259" />
+<path d="M506.1,1040.7l0,-14.2c0,-3.1,-2.5,-5.6,-5.6,-5.6l-14.1,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7Z" class="g23_259" />
+<path d="M506.1,1040.7l0,-14.2c0,-3.1,-2.5,-5.6,-5.6,-5.6l-14.1,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7l14.1,0Z" class="g24_259" />
+<path d="M622.6,1040.7l0,-14.2c0,-3.1,-2.5,-5.6,-5.6,-5.6l-14.2,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7Z" class="g23_259" />
+<path d="M622.6,1040.7l0,-14.2c0,-3.1,-2.5,-5.6,-5.6,-5.6l-14.2,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7l14.2,0Z" class="g24_259" />
+<path d="M739,1040.7l0,-14.2c0,-3.1,-2.5,-5.6,-5.6,-5.6l-14.2,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7Z" class="g23_259" />
+<path d="M739,1040.7l0,-14.2c0,-3.1,-2.5,-5.6,-5.6,-5.6l-14.2,0l0,14.1c0,3.1,2.5,5.7,5.6,5.7l14.2,0Z" class="g24_259" />
+<text 
+x="170" 
+y="1006" 
+dx="0,0,0,0,0,0" 
+class="s15_259"
+>hóngsè</text>
+
+<text 
+x="187" 
+y="965" 
+dx="0,-0.5,0,0" 
+class="s16_259"
+>WORD</text>
+
+<text 
+x="259" 
+y="965" 
+dx="0,0,0,0" 
+class="s17_259"
+>BANK</text>
+
+<text 
+x="161" 
+y="1040" 
+dx="0,0" 
+class="s18_259"
+>红色</text>
+
+<text 
+x="182" 
+y="1064" 
+dx="0,-0.1,0" 
+class="s15_259"
+>red</text>
+
+<text 
+x="283" 
+y="1006" 
+dx="0,0,0,0,0,0,0" 
+class="s15_259"
+>chéngsè</text>
+
+<text 
+x="278" 
+y="1040" 
+dx="0,0" 
+class="s18_259"
+>橙色</text>
+
+<text 
+x="287" 
+y="1064" 
+dx="0,0,0,0,0,0" 
+class="s15_259"
+>orange</text>
+
+<text 
+x="398" 
+y="1006" 
+dx="0,0,0,0,0,0,0" 
+class="s15_259"
+>huángsè</text>
+
+<text 
+x="394" 
+y="1040" 
+dx="0,0" 
+class="s18_259"
+>黄色</text>
+
+<text 
+x="405" 
+y="1064" 
+dx="0,0,0,0,0,0" 
+class="s15_259"
+>yellow</text>
+
+<text 
+x="529" 
+y="1006" 
+dx="0,0,0,0" 
+class="s15_259"
+>lǜsè</text>
+
+<text 
+x="510" 
+y="1040" 
+dx="0,0" 
+class="s18_259"
+>绿色</text>
+
+<text 
+x="524" 
+y="1064" 
+dx="0,0,0,0,0" 
+class="s15_259"
+>green</text>
+
+<text 
+x="642" 
+y="1006" 
+dx="0,0,0,0,0" 
+class="s15_259"
+>lánsè</text>
+
+<text 
+x="627" 
+y="1040" 
+dx="0,0" 
+class="s18_259"
+>蓝色</text>
+
+<text 
+x="645" 
+y="1064" 
+dx="0,-0.1,-0.1,-0.1" 
+class="s15_259"
+>blue</text>
+
+<text 
+x="763" 
+y="1006" 
+dx="0,0,0,0" 
+class="s15_259"
+>zǐsè</text>
+
+<text 
+x="743" 
+y="1040" 
+dx="0,0" 
+class="s18_259"
+>紫色</text>
+
+<text 
+x="754" 
+y="1064" 
+dx="0,0,0,0,0,0" 
+class="s15_259"
+>purple</text>
+
+<text 
+x="143" 
+y="1035" 
+dx="0" 
+class="s19_259"
+>1</text>
+
+<text 
+x="258" 
+y="1035" 
+dx="0" 
+class="s19_259"
+>2</text>
+
+<text 
+x="375" 
+y="1035" 
+dx="0" 
+class="s19_259"
+>3</text>
+
+<text 
+x="491" 
+y="1035" 
+dx="0" 
+class="s19_259"
+>4</text>
+
+<text 
+x="607" 
+y="1035" 
+dx="0" 
+class="s19_259"
+>5</text>
+
+<text 
+x="724" 
+y="1035" 
+dx="0" 
+class="s19_259"
+>6</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Bold_d6m;
+	src: url("fonts/ProximaNova-Bold_d6m.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_d5-;
+	src: url("fonts/ProximaNova-Bold_d5-.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d6k;
+	src: url("fonts/Alegreya-Regular_d6k.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_d62;
+	src: url("fonts/ProximaNova-Extrabld_d62.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNovaA-Regular_d6l;
+	src: url("fonts/ProximaNovaA-Regular_d6l.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNovaCond-Extrabld_d6i;
+	src: url("fonts/ProximaNovaCond-Extrabld_d6i.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d61;
+	src: url("fonts/Alegreya-Regular_d61.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_d66;
+	src: url("fonts/Alegreya-Bold_d66.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cqx;
+	src: url("fonts/STKaiti-SC-Bold_cqx.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_cot;
+	src: url("fonts/ProximaNova-Semibold_cot.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

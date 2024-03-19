@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 413 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_413{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_413{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_413{
+fill: none;
+stroke: #DC262E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_413{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_413{
+fill: #FFFFFF;
+}
+.g6_413{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_413{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_413{
+font-size: 10.69px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #FFFFFF;
+}
+.s2_413{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_4hh;
+fill: #909295;
+}
+.s3_413{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #77787B;
+}
+.s4_413{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #3F3F40;
+}
+.s5_413{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #DC262E;
+}
+.s6_413{
+font-size: 9.80px;
+font-family: ProximaNova-Extrabld_4hk;
+fill: #DC262E;
+}
+.s7_413{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #007598;
+}
+.s8_413{
+font-size: 9.80px;
+font-family: ProximaNova-Extrabld_4hk;
+fill: #007598;
+}
+.s9_413{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_4ho;
+fill: #77787B;
+}
+.s10_413{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g1_413" />
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1173)"
+dx="0,0.6,0.6,0.6" 
+class="s1_413"
+>392 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1133)"
+dx="0,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6" 
+class="s1_413"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1005)"
+dx="0,0.6" 
+class="s1_413"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 993)"
+dx="0,-0.6,0.4,0.3,0.6,0.6,0.6,0.6" 
+class="s1_413"
+>Textbook</text>
+
+<path d="M317.9,70.9l0,762.6" class="g2_413" />
+<path d="M609.6,123.5l5.4,0" class="g3_413" />
+<path d="M798.3,123.5l5.8,0" class="g3_413" />
+<path d="M517.9,149.5l4.4,0" class="g4_413" />
+<path d="M586.7,461.2l4.9,0" class="g3_413" />
+<path d="M517.9,487.1l6,0" class="g4_413" />
+<path d="M678.3,513.1l5.9,0" class="g4_413" />
+<path d="M730.1,513.1l6,0" class="g4_413" />
+<path d="M701.3,746.9l5.7,0" class="g3_413" />
+<path d="M540.8,798.8l5.4,0" class="g3_413" />
+<path d="M747.1,824.8l6,0" class="g4_413" />
+<text 
+x="144" 
+y="83" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_413"
+>Lesson 12</text>
+
+<text 
+x="398" 
+y="80" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_413"
+>（在飯館兒……）</text>
+
+<text 
+x="398" 
+y="106" 
+dx="0,0,0,0,0" 
+class="s4_413"
+>服務員： </text>
+
+<text 
+x="495" 
+y="106" 
+dx="0,0,0,0,0,0" 
+class="s3_413"
+>請進，請進。</text>
+
+<text 
+x="398" 
+y="132" 
+dx="0,0,0,0" 
+class="s4_413"
+>李友： </text>
+
+<text 
+x="495" 
+y="132" 
+dx="0,0,0" 
+class="s3_413"
+>人怎麼</text>
+
+<text 
+x="563" 
+y="132" 
+dx="0,0" 
+class="s5_413"
+>這麼</text>
+
+<text 
+x="609" 
+y="120" 
+dx="0" 
+class="s6_413"
+>a</text>
+
+<text 
+x="614" 
+y="132" 
+dx="0,0,0,0" 
+class="s3_413"
+>多？好像</text>
+
+<text 
+x="706" 
+y="132" 
+dx="0" 
+class="s7_413"
+>一</text>
+
+<text 
+x="729" 
+y="132" 
+dx="0" 
+class="s3_413"
+>個</text>
+
+<text 
+x="752" 
+y="132" 
+dx="0,0" 
+class="s5_413"
+>位子</text>
+
+<text 
+x="798" 
+y="120" 
+dx="0" 
+class="s6_413"
+>b</text>
+
+<text 
+x="804" 
+y="132" 
+dx="0,0" 
+class="s7_413"
+>都 </text>
+
+<text 
+x="495" 
+y="158" 
+dx="0" 
+class="s7_413"
+>沒</text>
+
+<text 
+x="517" 
+y="146" 
+dx="0" 
+class="s8_413"
+>1</text>
+
+<text 
+x="522" 
+y="158" 
+dx="0,0,0" 
+class="s3_413"
+>有了。</text>
+
+<text 
+x="398" 
+y="184" 
+dx="0,0,0,0" 
+class="s4_413"
+>王朋： </text>
+
+<text 
+x="495" 
+y="184" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>服務員，請問，還有沒有位子？</text>
+
+<text 
+x="398" 
+y="210" 
+dx="0,0,0,0,0" 
+class="s4_413"
+>服務員： </text>
+
+<text 
+x="495" 
+y="210" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>有，有，有。那張桌子沒有人。</text>
+
+<text 
+x="398" 
+y="236" 
+dx="0,0" 
+class="s3_413"
+>……</text>
+
+<text 
+x="398" 
+y="262" 
+dx="0,0,0,0,0" 
+class="s4_413"
+>服務員： </text>
+
+<text 
+x="495" 
+y="262" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>兩位想吃點兒什麼？</text>
+
+<text 
+x="398" 
+y="287" 
+dx="0,0,0,0" 
+class="s4_413"
+>李友： </text>
+
+<text 
+x="495" 
+y="287" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_413"
+>王朋，你點菜吧。</text>
+
+<text 
+x="398" 
+y="313" 
+dx="0,0,0,0" 
+class="s4_413"
+>王朋： </text>
+
+<text 
+x="495" 
+y="313" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>好。先給我們兩盤餃子，要素的。</text>
+
+<text 
+x="398" 
+y="339" 
+dx="0,0,0,0,0" 
+class="s4_413"
+>服務員： </text>
+
+<text 
+x="495" 
+y="339" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>除了餃子以外，還要什麼？</text>
+
+<text 
+x="398" 
+y="365" 
+dx="0,0,0,0" 
+class="s4_413"
+>王朋： </text>
+
+<text 
+x="495" 
+y="365" 
+dx="0,0,0,0,0,0,0" 
+class="s3_413"
+>李友，你說呢？</text>
+
+<text 
+x="398" 
+y="391" 
+dx="0,0,0,0" 
+class="s4_413"
+>李友： </text>
+
+<text 
+x="495" 
+y="391" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>還要一盤家常豆腐，不要放肉， </text>
+
+<text 
+x="495" 
+y="417" 
+dx="0,0,0,0" 
+class="s3_413"
+>我吃素。</text>
+
+<text 
+x="398" 
+y="443" 
+dx="0,0,0,0,0" 
+class="s4_413"
+>服務員： </text>
+
+<text 
+x="495" 
+y="443" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>我們的家常豆腐沒有肉。</text>
+
+<text 
+x="398" 
+y="469" 
+dx="0,0,0,0" 
+class="s4_413"
+>李友： </text>
+
+<text 
+x="495" 
+y="469" 
+dx="0,0,0" 
+class="s3_413"
+>還要兩</text>
+
+<text 
+x="563" 
+y="469" 
+dx="0" 
+class="s5_413"
+>碗</text>
+
+<text 
+x="586" 
+y="458" 
+dx="0" 
+class="s6_413"
+>c</text>
+
+<text 
+x="591" 
+y="469" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>酸辣湯，請別放味精， </text>
+
+<text 
+x="494" 
+y="495" 
+dx="0" 
+class="s7_413"
+>少</text>
+
+<text 
+x="517" 
+y="484" 
+dx="0" 
+class="s8_413"
+>2</text>
+
+<text 
+x="523" 
+y="495" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>放點兒鹽。有小白菜嗎？</text>
+
+<text 
+x="398" 
+y="521" 
+dx="0,0,0,0,0" 
+class="s4_413"
+>服務員： </text>
+
+<text 
+x="494" 
+y="521" 
+dx="0,0,0,0,0,0,0" 
+class="s3_413"
+>對不起，小白菜</text>
+
+<text 
+x="655" 
+y="521" 
+dx="0" 
+class="s7_413"
+>剛</text>
+
+<text 
+x="678" 
+y="510" 
+dx="0" 
+class="s8_413"
+>3</text>
+
+<text 
+x="684" 
+y="521" 
+dx="0" 
+class="s3_413"
+>賣</text>
+
+<text 
+x="707" 
+y="521" 
+dx="0" 
+class="s7_413"
+>完</text>
+
+<text 
+x="730" 
+y="510" 
+dx="0" 
+class="s8_413"
+>4</text>
+
+<text 
+x="736" 
+y="521" 
+dx="0" 
+class="s3_413"
+>。</text>
+
+<text 
+x="398" 
+y="547" 
+dx="0,0,0,0" 
+class="s4_413"
+>王朋： </text>
+
+<text 
+x="494" 
+y="547" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_413"
+>那就不要青菜了。</text>
+
+<text 
+x="398" 
+y="573" 
+dx="0,0,0,0,0" 
+class="s4_413"
+>服務員： </text>
+
+<text 
+x="494" 
+y="573" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_413"
+>那喝點兒什麼呢？</text>
+
+<text 
+x="398" 
+y="599" 
+dx="0,0,0,0" 
+class="s4_413"
+>王朋： </text>
+
+<text 
+x="494" 
+y="599" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>我要一杯冰茶。李友，你喝什麼？</text>
+
+<text 
+x="398" 
+y="625" 
+dx="0,0,0,0" 
+class="s4_413"
+>李友： </text>
+
+<text 
+x="494" 
+y="625" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>我很渴，請給我一杯可樂，多放 </text>
+
+<text 
+x="494" 
+y="651" 
+dx="0,0,0,0" 
+class="s3_413"
+>點兒冰。</text>
+
+<text 
+x="398" 
+y="677" 
+dx="0,0,0,0,0" 
+class="s4_413"
+>服務員： </text>
+
+<text 
+x="494" 
+y="677" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>好，兩盤餃子，一盤家常豆腐， </text>
+
+<text 
+x="494" 
+y="703" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>兩碗酸辣湯，一杯冰茶，一杯可 </text>
+
+<text 
+x="494" 
+y="729" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>樂，多放冰。還要別的嗎？</text>
+
+<text 
+x="398" 
+y="755" 
+dx="0,0,0,0" 
+class="s4_413"
+>李友： </text>
+
+<text 
+x="494" 
+y="755" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_413"
+>不要別的了，這些</text>
+
+<text 
+x="678" 
+y="755" 
+dx="0" 
+class="s5_413"
+>夠</text>
+
+<text 
+x="701" 
+y="743" 
+dx="0" 
+class="s6_413"
+>d</text>
+
+<text 
+x="707" 
+y="755" 
+dx="0,0,0,0,0" 
+class="s3_413"
+>了。服務 </text>
+
+<text 
+x="494" 
+y="781" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_413"
+>員，我們都餓了，</text>
+
+<text 
+x="678" 
+y="781" 
+dx="0,0,0,0,0,0" 
+class="s5_413"
+>請上菜快一 </text>
+
+<text 
+x="494" 
+y="807" 
+dx="0,0" 
+class="s5_413"
+>點兒</text>
+
+<text 
+x="540" 
+y="795" 
+dx="0" 
+class="s6_413"
+>e</text>
+
+<text 
+x="546" 
+y="807" 
+dx="0" 
+class="s3_413"
+>。</text>
+
+<text 
+x="398" 
+y="833" 
+dx="0,0,0,0,0" 
+class="s4_413"
+>服務員： </text>
+
+<text 
+x="495" 
+y="833" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s3_413"
+>沒問題，菜很快就能做</text>
+
+<text 
+x="724" 
+y="833" 
+dx="0" 
+class="s7_413"
+>好</text>
+
+<text 
+x="747" 
+y="821" 
+dx="0" 
+class="s8_413"
+>5</text>
+
+<text 
+x="753" 
+y="833" 
+dx="0" 
+class="s3_413"
+>。</text>
+
+<path d="M243.8,121l143.7,0l0,-28.4l-143.7,0l0,28.4Z" class="g5_413" />
+<text 
+x="280" 
+y="112" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s9_413"
+>Dining Out</text>
+
+<path d="M281.6,57.4c0,0,-15.3,0,-15.3,15.3l0,3.1c0,0,0,15.2,15.3,15.2l68.1,0c0,0,15.3,0,15.3,-15.2l0,-3.1c0,0,0,-15.3,-15.3,-15.3Z" class="g5_413" />
+<text 
+x="282" 
+y="80" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s10_413"
+>Dialogue 1 </text>
+
+<path d="M281.6,56.6c-0.2,0,-16.1,0.2,-16.1,16.1l0,3.1c0,0.1,0.2,16,16.1,16l68.1,0c0.2,0,16.1,-0.2,16.1,-16l0,-3.1c0,-0.2,-0.2,-16.1,-16.1,-16.1l-68.1,0Z" class="g6_413" />
+<path d="M281.6,58.7c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.5,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.6,-0.2,-14,-14,-14l-68.1,0Z" class="g7_413" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_4gw;
+	src: url("fonts/LibreFranklin-SemiBold_4gw.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_4hh;
+	src: url("fonts/LibreFranklin-ExtraBold_4hh.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiTC-Regular_4h8;
+	src: url("fonts/STKaitiTC-Regular_4h8.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_4ho;
+	src: url("fonts/LibreFranklin-Light_4ho.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_4hk;
+	src: url("fonts/ProximaNova-Extrabld_4hk.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

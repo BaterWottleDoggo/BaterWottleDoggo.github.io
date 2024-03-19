@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 98 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_98{
+fill: #F0F1F2;
+}
+.g2_98{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_98{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_98{
+fill: none;
+stroke: #A8A9AD;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_98{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_98{
+font-size: 15.28px;
+font-family: ProximaNova-Bold_2x3;
+fill: #007598;
+}
+.s2_98{
+font-size: 8.91px;
+font-family: ProximaNova-Bold_2x3;
+fill: #007598;
+}
+.s3_98{
+font-size: 15.28px;
+font-family: ProximaNova-Semibold_2x8;
+fill: #77787B;
+}
+.s4_98{
+font-size: 32.85px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007598;
+}
+.s5_98{
+font-size: 16.81px;
+font-family: Marion-Italic_2si;
+fill: #231F20;
+}
+.s6_98{
+font-size: 14.51px;
+font-family: ProximaNova-Light_2x7;
+fill: #3F3F40;
+}
+.s7_98{
+font-size: 8.02px;
+font-family: ProximaNova-Light_2x7;
+fill: #3F3F40;
+}
+.s8_98{
+font-size: 13.75px;
+font-family: ProximaNova-Light_2x7;
+fill: #3F3F40;
+}
+.s9_98{
+font-size: 20.63px;
+font-family: STKaiti-SC-Regular_2t7;
+fill: #007598;
+}
+.s10_98{
+font-size: 15.66px;
+font-family: Marion-Italic_2si;
+fill: #231F20;
+}
+.s11_98{
+font-size: 12.22px;
+font-family: ProximaNova-Regular_2xa;
+fill: #231F20;
+}
+.s12_98{
+font-size: 16.81px;
+font-family: ProximaNova-SemiboldIt_2xd;
+fill: #007598;
+}
+.s13_98{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_2x8;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M97.8,103.6l154,0l0,49l-154,0l0,-49Zm154,0l204.8,0l0,49l-204.8,0l0,-49Zm204.8,0l204.8,0l0,49l-204.8,0l0,-49Zm204.8,0l152.9,0l0,49l-152.9,0l0,-49Zm-563.6,98l154,0l0,49l-154,0l0,-49Zm154,0l204.8,0l0,49l-204.8,0l0,-49Zm204.8,0l204.8,0l0,49l-204.8,0l0,-49Zm204.8,0l152.9,0l0,49l-152.9,0l0,-49Zm-563.6,98l154,0l0,49l-154,0l0,-49Zm154,0l204.8,0l0,49l-204.8,0l0,-49Zm204.8,0l204.8,0l0,49l-204.8,0l0,-49Zm204.8,0l152.9,0l0,49l-152.9,0l0,-49Zm-563.6,98l154,0l0,75.6l-154,0l0,-75.6Zm154,0l204.8,0l0,75.6l-204.8,0l0,-75.6Zm204.8,0l204.8,0l0,75.6l-204.8,0l0,-75.6Zm204.8,0l152.9,0l0,75.6l-152.9,0l0,-75.6Z" class="g1_98" />
+<path d="M97.8,597.4l154,0" class="g2_98" />
+<path d="M251.8,597.4l204.8,0" class="g2_98" />
+<path d="M456.6,597.4l204.8,0" class="g2_98" />
+<path d="M661.4,597.4l152.9,0" class="g2_98" />
+<path d="M97.8,152.6l154,0" class="g3_98" />
+<path d="M251.8,152.6l204.8,0" class="g3_98" />
+<path d="M456.6,152.6l204.8,0" class="g3_98" />
+<path d="M661.4,152.6l152.9,0" class="g3_98" />
+<path d="M97.8,201.6l154,0" class="g3_98" />
+<path d="M251.8,201.6l204.8,0" class="g3_98" />
+<path d="M456.6,201.6l204.8,0" class="g3_98" />
+<path d="M661.4,201.6l152.9,0" class="g3_98" />
+<path d="M97.8,250.6l154,0" class="g3_98" />
+<path d="M251.8,250.6l204.8,0" class="g3_98" />
+<path d="M456.6,250.6l204.8,0" class="g3_98" />
+<path d="M661.4,250.6l152.9,0" class="g3_98" />
+<path d="M97.8,299.6l154,0" class="g3_98" />
+<path d="M251.8,299.6l204.8,0" class="g3_98" />
+<path d="M456.6,299.6l204.8,0" class="g3_98" />
+<path d="M661.4,299.6l152.9,0" class="g3_98" />
+<path d="M97.8,348.6l154,0" class="g3_98" />
+<path d="M251.8,348.6l204.8,0" class="g3_98" />
+<path d="M456.6,348.6l204.8,0" class="g3_98" />
+<path d="M661.4,348.6l152.9,0" class="g3_98" />
+<path d="M97.8,397.6l154,0" class="g3_98" />
+<path d="M251.8,397.6l204.8,0" class="g3_98" />
+<path d="M456.6,397.6l204.8,0" class="g3_98" />
+<path d="M661.4,397.6l152.9,0" class="g3_98" />
+<path d="M97.8,473.2l154,0" class="g3_98" />
+<path d="M251.8,473.2l204.8,0" class="g3_98" />
+<path d="M456.6,473.2l204.8,0" class="g3_98" />
+<path d="M661.4,473.2l152.9,0" class="g3_98" />
+<path d="M97.8,519.1l154,0" class="g2_98" />
+<path d="M251.8,519.1l204.8,0" class="g2_98" />
+<path d="M456.6,519.1l204.8,0" class="g2_98" />
+<path d="M661.4,519.1l152.9,0" class="g2_98" />
+<path d="M97.8,103.6l154,0" class="g4_98" />
+<path d="M251.8,103.6l204.8,0" class="g4_98" />
+<path d="M661.4,103.6l152.9,0" class="g4_98" />
+<path d="M251.8,79.3l204.8,0" class="g3_98" />
+<path d="M661.4,79.3l152.9,0" class="g3_98" />
+<path d="M456.6,79.3l204.8,0" class="g3_98" />
+<path d="M456.6,103.6l204.8,0" class="g4_98" />
+<text 
+x="111" 
+y="73" 
+dx="0,0,0,0,0,0,0" 
+class="s1_98"
+>ENGLISH</text>
+
+<text 
+x="501" 
+y="73" 
+dx="0,0,0,0,0,0,0" 
+class="s1_98"
+>CHINESE</text>
+
+<text 
+x="257" 
+y="97" 
+dx="0,-0.2,0,0,0,0,0,0" 
+class="s1_98"
+>Standard</text>
+
+<text 
+x="462" 
+y="97" 
+dx="0,0,0,0,0,0,0,0" 
+class="s1_98"
+>Informal</text>
+
+<text 
+x="520" 
+y="92" 
+dx="0" 
+class="s2_98"
+>a</text>
+
+<text 
+x="667" 
+y="97" 
+dx="0,0,0,0,0,0" 
+class="s1_98"
+>Formal</text>
+
+<text 
+x="111" 
+y="134" 
+dx="0,0,0,0,0,0" 
+class="s3_98"
+>Monday</text>
+
+<text 
+x="257" 
+y="139" 
+dx="0,0,0" 
+class="s4_98"
+>星期一</text>
+
+<text 
+x="360" 
+y="139" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(xīngqīyī)</text>
+
+<text 
+x="462" 
+y="139" 
+dx="0,0,0" 
+class="s4_98"
+>礼拜一</text>
+
+<text 
+x="565" 
+y="139" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(lǐbàiyī)</text>
+
+<text 
+x="667" 
+y="139" 
+dx="0,0" 
+class="s4_98"
+>周一</text>
+
+<text 
+x="737" 
+y="139" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(zhōuyī)</text>
+
+<text 
+x="111" 
+y="183" 
+dx="0,-1.1,0,0,0,0,0" 
+class="s3_98"
+>Tuesday</text>
+
+<text 
+x="257" 
+y="188" 
+dx="0,0,0" 
+class="s4_98"
+>星期二</text>
+
+<text 
+x="360" 
+y="188" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(xīngqī’èr)</text>
+
+<text 
+x="462" 
+y="188" 
+dx="0,0,0" 
+class="s4_98"
+>礼拜二</text>
+
+<text 
+x="565" 
+y="188" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(lǐbài’èr)</text>
+
+<text 
+x="667" 
+y="188" 
+dx="0,0" 
+class="s4_98"
+>周二</text>
+
+<text 
+x="737" 
+y="188" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(zhōu’èr)</text>
+
+<text 
+x="111" 
+y="232" 
+dx="0,-0.6,0,0,0,0,0,0,0" 
+class="s3_98"
+>Wednesday</text>
+
+<text 
+x="257" 
+y="237" 
+dx="0,0,0" 
+class="s4_98"
+>星期三</text>
+
+<text 
+x="360" 
+y="237" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(xīngqīsān)</text>
+
+<text 
+x="462" 
+y="237" 
+dx="0,0,0" 
+class="s4_98"
+>礼拜三</text>
+
+<text 
+x="565" 
+y="237" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(lǐbàisān)</text>
+
+<text 
+x="667" 
+y="237" 
+dx="0,0" 
+class="s4_98"
+>周三</text>
+
+<text 
+x="737" 
+y="237" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(zhōusān)</text>
+
+<text 
+x="111" 
+y="281" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_98"
+>Thursday</text>
+
+<text 
+x="257" 
+y="286" 
+dx="0,0,0" 
+class="s4_98"
+>星期四</text>
+
+<text 
+x="360" 
+y="286" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(xīngqīsì)</text>
+
+<text 
+x="462" 
+y="286" 
+dx="0,0,0" 
+class="s4_98"
+>礼拜四</text>
+
+<text 
+x="565" 
+y="286" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(lǐbàisì)</text>
+
+<text 
+x="667" 
+y="286" 
+dx="0,0" 
+class="s4_98"
+>周四</text>
+
+<text 
+x="737" 
+y="286" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(zhōusì)</text>
+
+<text 
+x="111" 
+y="330" 
+dx="0,0,0,0,0,0" 
+class="s3_98"
+>Friday</text>
+
+<text 
+x="257" 
+y="335" 
+dx="0,0,0" 
+class="s4_98"
+>星期五</text>
+
+<text 
+x="360" 
+y="335" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(xīngqīwǔ)</text>
+
+<text 
+x="462" 
+y="335" 
+dx="0,0,0" 
+class="s4_98"
+>礼拜五</text>
+
+<text 
+x="565" 
+y="335" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(lǐbàiwǔ)</text>
+
+<text 
+x="667" 
+y="335" 
+dx="0,0" 
+class="s4_98"
+>周五</text>
+
+<text 
+x="737" 
+y="335" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(zhōuwǔ)</text>
+
+<text 
+x="111" 
+y="379" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_98"
+>Saturday</text>
+
+<text 
+x="257" 
+y="384" 
+dx="0,0,0" 
+class="s4_98"
+>星期六</text>
+
+<text 
+x="360" 
+y="384" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(xīngqīliù)</text>
+
+<text 
+x="462" 
+y="384" 
+dx="0,0,0" 
+class="s4_98"
+>礼拜六</text>
+
+<text 
+x="565" 
+y="384" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(lǐbàiliù)</text>
+
+<text 
+x="667" 
+y="384" 
+dx="0,0" 
+class="s4_98"
+>周六</text>
+
+<text 
+x="737" 
+y="384" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(zhōuliù)</text>
+
+<text 
+x="111" 
+y="441" 
+dx="0,0,0,0,0,0" 
+class="s3_98"
+>Sunday</text>
+
+<text 
+x="257" 
+y="430" 
+dx="0,0,0" 
+class="s4_98"
+>星期日</text>
+
+<text 
+x="360" 
+y="430" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(xīngqīrì)</text>
+
+<text 
+x="416" 
+y="430" 
+dx="0,0" 
+class="s6_98"
+>or</text>
+
+<text 
+x="257" 
+y="463" 
+dx="0,0,0" 
+class="s4_98"
+>星期天</text>
+
+<text 
+x="356" 
+y="451" 
+dx="0" 
+class="s2_98"
+>b</text>
+
+<text 
+x="364" 
+y="463" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(xīngqītiān)</text>
+
+<text 
+x="462" 
+y="430" 
+dx="0,0,0,0" 
+class="s4_98"
+>礼拜日 </text>
+
+<text 
+x="569" 
+y="430" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(lǐbàirì)</text>
+
+<text 
+x="615" 
+y="430" 
+dx="0,0" 
+class="s6_98"
+>or</text>
+
+<text 
+x="462" 
+y="463" 
+dx="0,0,0" 
+class="s4_98"
+>礼拜天</text>
+
+<text 
+x="565" 
+y="463" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(lǐbàitiān)</text>
+
+<text 
+x="667" 
+y="447" 
+dx="0,0" 
+class="s4_98"
+>周日</text>
+
+<text 
+x="737" 
+y="447" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(zhōurì)</text>
+
+<text 
+x="111" 
+y="502" 
+dx="0,-0.6,0,0,-0.4,0,0" 
+class="s3_98"
+>Weekend</text>
+
+<text 
+x="666" 
+y="507" 
+dx="0,0" 
+class="s4_98"
+>周末</text>
+
+<text 
+x="731" 
+y="495" 
+dx="0,0" 
+class="s2_98"
+>c </text>
+
+<text 
+x="740" 
+y="507" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_98"
+>(zhōumò)</text>
+
+<text 
+x="111" 
+y="535" 
+dx="0" 
+class="s7_98"
+>a</text>
+
+<text 
+x="116" 
+y="540" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0" 
+class="s8_98"
+>The expression</text>
+
+<text 
+x="211" 
+y="540" 
+dx="0,0" 
+class="s9_98"
+>礼拜</text>
+
+<text 
+x="255" 
+y="540" 
+dx="0,0,0,0,0,0,0" 
+class="s10_98"
+>(lǐbài)</text>
+
+<text 
+x="289" 
+y="540" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_98"
+>is generally used in spoken Chinese and is more colloquial than</text>
+
+<text 
+x="670" 
+y="540" 
+dx="0,0" 
+class="s9_98"
+>星期</text>
+
+<text 
+x="714" 
+y="540" 
+dx="0,0,0,0,0,0,0,0" 
+class="s10_98"
+>(xīngqī)</text>
+
+<text 
+x="754" 
+y="540" 
+dx="0" 
+class="s11_98"
+>.</text>
+
+<text 
+x="111" 
+y="559" 
+dx="0" 
+class="s7_98"
+>b</text>
+
+<text 
+x="116" 
+y="564" 
+dx="0,0,0" 
+class="s9_98"
+>星期日</text>
+
+<text 
+x="181" 
+y="564" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s10_98"
+>(xīngqīrì)</text>
+
+<text 
+x="233" 
+y="564" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s8_98"
+>is used more in written Chinese, whereas</text>
+
+<text 
+x="480" 
+y="564" 
+dx="0,0,0" 
+class="s9_98"
+>星期天</text>
+
+<text 
+x="545" 
+y="564" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s10_98"
+>(xīngqītiān)</text>
+
+<text 
+x="609" 
+y="564" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.1" 
+class="s8_98"
+>is used more in spoken Chinese.</text>
+
+<text 
+x="111" 
+y="583" 
+dx="0" 
+class="s7_98"
+>c</text>
+
+<text 
+x="117" 
+y="588" 
+dx="0,0" 
+class="s9_98"
+>周末</text>
+
+<text 
+x="162" 
+y="588" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s10_98"
+>(zhōumò) </text>
+
+<text 
+x="215" 
+y="588" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0" 
+class="s8_98"
+>is used in standard, informal, and formal Chinese. [See Lesson 4.]</text>
+
+<text 
+x="108" 
+y="637" 
+dx="0,0.2,0.2,0.2,0.2,0.2" 
+class="s12_98"
+>Months</text>
+
+<path d="M96.3,682.6l256.1,0l0,38.4L96.3,721l0,-38.4Zm256.1,0l256.2,0l0,38.4l-256.2,0l0,-38.4Zm256.2,0l204.7,0l0,38.4l-204.7,0l0,-38.4ZM96.3,759.3l256.1,0l0,38.4l-256.1,0l0,-38.4Zm256.1,0l256.2,0l0,38.4l-256.2,0l0,-38.4Zm256.2,0l204.7,0l0,38.4l-204.7,0l0,-38.4ZM96.3,836l256.1,0l0,38.4l-256.1,0l0,-38.4Zm256.1,0l256.2,0l0,38.4l-256.2,0l0,-38.4Zm256.2,0l204.7,0l0,38.4l-204.7,0l0,-38.4ZM96.3,912.7l256.1,0l0,38.4l-256.1,0l0,-38.4Zm256.1,0l256.2,0l0,38.4l-256.2,0l0,-38.4Zm256.2,0l204.7,0l0,38.4l-204.7,0l0,-38.4ZM96.3,989.5l256.1,0l0,38.3l-256.1,0l0,-38.3Zm256.1,0l256.2,0l0,38.3l-256.2,0l0,-38.3Zm256.2,0l204.7,0l0,38.3l-204.7,0l0,-38.3ZM96.3,1066.2l256.1,0l0,38.3l-256.1,0l0,-38.3Zm256.1,0l256.2,0l0,38.3l-256.2,0l0,-38.3Zm256.2,0l204.7,0l0,38.3l-204.7,0l0,-38.3Z" class="g1_98" />
+<path d="M96.3,721l256.1,0" class="g3_98" />
+<path d="M352.4,721l256.2,0" class="g3_98" />
+<path d="M608.6,721l204.7,0" class="g3_98" />
+<path d="M96.3,759.3l256.1,0" class="g3_98" />
+<path d="M352.4,759.3l256.2,0" class="g3_98" />
+<path d="M608.6,759.3l204.7,0" class="g3_98" />
+<path d="M96.3,797.7l256.1,0" class="g3_98" />
+<path d="M352.4,797.7l256.2,0" class="g3_98" />
+<path d="M608.6,797.7l204.7,0" class="g3_98" />
+<path d="M96.3,836l256.1,0" class="g3_98" />
+<path d="M352.4,836l256.2,0" class="g3_98" />
+<path d="M608.6,836l204.7,0" class="g3_98" />
+<path d="M96.3,874.4l256.1,0" class="g3_98" />
+<path d="M352.4,874.4l256.2,0" class="g3_98" />
+<path d="M608.6,874.4l204.7,0" class="g3_98" />
+<path d="M96.3,912.7l256.1,0" class="g3_98" />
+<path d="M352.4,912.7l256.2,0" class="g3_98" />
+<path d="M608.6,912.7l204.7,0" class="g3_98" />
+<path d="M96.3,951.1l256.1,0" class="g3_98" />
+<path d="M352.4,951.1l256.2,0" class="g3_98" />
+<path d="M608.6,951.1l204.7,0" class="g3_98" />
+<path d="M96.3,989.5l256.1,0" class="g3_98" />
+<path d="M352.4,989.5l256.2,0" class="g3_98" />
+<path d="M608.6,989.5l204.7,0" class="g3_98" />
+<path d="M96.3,1027.8l256.1,0" class="g3_98" />
+<path d="M352.4,1027.8l256.2,0" class="g3_98" />
+<path d="M608.6,1027.8l204.7,0" class="g3_98" />
+<path d="M96.3,1066.2l256.1,0" class="g3_98" />
+<path d="M352.4,1066.2l256.2,0" class="g3_98" />
+<path d="M608.6,1066.2l204.7,0" class="g3_98" />
+<path d="M96.3,1104.5l256.1,0" class="g3_98" />
+<path d="M352.4,1104.5l256.2,0" class="g3_98" />
+<path d="M608.6,1104.5l204.7,0" class="g3_98" />
+<path d="M96.3,682.6l256.1,0" class="g4_98" />
+<path d="M352.4,682.6l256.2,0" class="g4_98" />
+<path d="M608.6,682.6l204.7,0" class="g4_98" />
+<path d="M96.3,1142.9l256.1,0" class="g2_98" />
+<path d="M352.4,1142.9l256.2,0" class="g2_98" />
+<path d="M608.6,1142.9l204.7,0" class="g2_98" />
+<text 
+x="110" 
+y="673" 
+dx="0,0,0,0,0,0,0" 
+class="s1_98"
+>English</text>
+
+<text 
+x="358" 
+y="673" 
+dx="0,0,0,0,0,0,0" 
+class="s1_98"
+>Chinese</text>
+
+<text 
+x="614" 
+y="673" 
+dx="0,0,0,0,0,0" 
+class="s1_98"
+>Pinyin</text>
+
+<text 
+x="110" 
+y="707" 
+dx="0,0,0,0,0,0,0" 
+class="s3_98"
+>January</text>
+
+<text 
+x="358" 
+y="713" 
+dx="0,0" 
+class="s4_98"
+>一月</text>
+
+<text 
+x="614" 
+y="707" 
+dx="0,0,0,0,0" 
+class="s5_98"
+>yīyuè</text>
+
+<text 
+x="110" 
+y="746" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_98"
+>February</text>
+
+<text 
+x="358" 
+y="751" 
+dx="0,0" 
+class="s4_98"
+>二月</text>
+
+<text 
+x="614" 
+y="746" 
+dx="0,0,0,0,0" 
+class="s5_98"
+>èryuè</text>
+
+<text 
+x="110" 
+y="784" 
+dx="0,0,0,0,0" 
+class="s3_98"
+>March</text>
+
+<text 
+x="358" 
+y="790" 
+dx="0,0" 
+class="s4_98"
+>三月</text>
+
+<text 
+x="614" 
+y="784" 
+dx="0,0,0,0,0,0" 
+class="s5_98"
+>sānyuè</text>
+
+<text 
+x="110" 
+y="822" 
+dx="0,0,0,0,0" 
+class="s3_98"
+>April</text>
+
+<text 
+x="358" 
+y="828" 
+dx="0,0" 
+class="s4_98"
+>四月</text>
+
+<text 
+x="614" 
+y="822" 
+dx="0,0,0,0,0" 
+class="s5_98"
+>sìyuè</text>
+
+<text 
+x="110" 
+y="861" 
+dx="0,0,0" 
+class="s3_98"
+>May</text>
+
+<text 
+x="358" 
+y="867" 
+dx="0,0" 
+class="s4_98"
+>五月</text>
+
+<text 
+x="614" 
+y="861" 
+dx="0,0,0,0,0" 
+class="s5_98"
+>wǔyuè</text>
+
+<text 
+x="110" 
+y="899" 
+dx="0,0,0,0" 
+class="s3_98"
+>June</text>
+
+<text 
+x="358" 
+y="905" 
+dx="0,0" 
+class="s4_98"
+>六月</text>
+
+<text 
+x="614" 
+y="899" 
+dx="0,0,0,0,0,0" 
+class="s5_98"
+>liùyuè</text>
+
+<text 
+x="110" 
+y="937" 
+dx="0,0,0,0" 
+class="s3_98"
+>July</text>
+
+<text 
+x="358" 
+y="943" 
+dx="0,0" 
+class="s4_98"
+>七月</text>
+
+<text 
+x="614" 
+y="937" 
+dx="0,0,0,0,0" 
+class="s5_98"
+>qīyuè</text>
+
+<text 
+x="110" 
+y="976" 
+dx="0,-0.2,0,0,0,0" 
+class="s3_98"
+>August</text>
+
+<text 
+x="358" 
+y="982" 
+dx="0,0" 
+class="s4_98"
+>八月</text>
+
+<text 
+x="614" 
+y="976" 
+dx="0,0,0,0,0" 
+class="s5_98"
+>bāyuè</text>
+
+<text 
+x="110" 
+y="1014" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_98"
+>September</text>
+
+<text 
+x="358" 
+y="1020" 
+dx="0,0" 
+class="s4_98"
+>九月</text>
+
+<text 
+x="614" 
+y="1014" 
+dx="0,0,0,0,0,0" 
+class="s5_98"
+>jiǔyuè</text>
+
+<text 
+x="110" 
+y="1053" 
+dx="0,0,0,0,0,0,0" 
+class="s3_98"
+>October</text>
+
+<text 
+x="358" 
+y="1058" 
+dx="0,0" 
+class="s4_98"
+>十月</text>
+
+<text 
+x="614" 
+y="1052" 
+dx="0,0,0,0,0,0" 
+class="s5_98"
+>shíyuè</text>
+
+<text 
+x="110" 
+y="1091" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_98"
+>November</text>
+
+<text 
+x="358" 
+y="1097" 
+dx="0,0,0" 
+class="s4_98"
+>十一月</text>
+
+<text 
+x="614" 
+y="1091" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_98"
+>shíyīyuè</text>
+
+<text 
+x="110" 
+y="1129" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_98"
+>December</text>
+
+<text 
+x="358" 
+y="1135" 
+dx="0,0,0" 
+class="s4_98"
+>十二月</text>
+
+<text 
+x="614" 
+y="1129" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>shí’èryuè</text>
+
+<path d="M885.3,1209.2l69.6,0l0,-1222.1l-69.6,0l0,1222.1Z" class="g5_98" />
+<text 
+transform="matrix(0, 1, -1, 0, 894, 918)"
+dx="0,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_98"
+>Lesson 3 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 976)"
+dx="0,0.3" 
+class="s13_98"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 989)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_98"
+>Time and Date </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1078)"
+dx="0,0.3" 
+class="s13_98"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1091)"
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s13_98"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 894, 1161)"
+dx="0,0.3" 
+class="s13_98"
+>77</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_2x8;
+	src: url("fonts/ProximaNova-Semibold_2x8.woff") format("woff");
+}
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Regular_2xa;
+	src: url("fonts/ProximaNova-Regular_2xa.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Light_2x7;
+	src: url("fonts/ProximaNova-Light_2x7.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-SemiboldIt_2xd;
+	src: url("fonts/ProximaNova-SemiboldIt_2xd.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_2x3;
+	src: url("fonts/ProximaNova-Bold_2x3.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_2t7;
+	src: url("fonts/STKaiti-SC-Regular_2t7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

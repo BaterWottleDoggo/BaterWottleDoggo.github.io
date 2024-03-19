@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 426 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_426{
+fill: #DC262E;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_426{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_426{
+fill: #FFFFFF;
+}
+.g4_426{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_426{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_426{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_426{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dhv;
+fill: #231F20;
+}
+.s2_426{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di-;
+fill: #FFFFFF;
+}
+.s3_426{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #FFFFFF;
+}
+.s4_426{
+font-size: 21.39px;
+font-family: LibreFranklin-ExtraBold_diz;
+fill: #909295;
+}
+.s5_426{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dib;
+fill: #3F3F40;
+}
+.s6_426{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_dim;
+fill: #3F3F40;
+}
+.s7_426{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #A8A9AD;
+}
+.s8_426{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_di3;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g1_426" />
+<text 
+x="871" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_426"
+>403 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 736)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_426"
+>Lesson 20 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 828)"
+dx="0,1.2" 
+class="s2_426"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 845)"
+dx="0,1.2,1.2,1.2,1.2,0.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s2_426"
+>The World Is Getting Smaller </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1080)"
+dx="0,1.2" 
+class="s2_426"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1097)"
+dx="0,-0.3,0.9,0.9" 
+class="s2_426"
+>Text</text>
+
+<path d="M876.9,1141.6l57.3,0l0,-1153.4l-57.3,0l0,1153.4Z" class="g2_426" />
+<text 
+x="871" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s1_426"
+>403 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 869)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,-0.3,0.9,0.9,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s3_426"
+>Appendix: Lesson Texts in English</text>
+
+<text 
+x="144" 
+y="81" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s4_426"
+>Lesson 12</text>
+
+<text 
+x="398" 
+y="72" 
+dx="0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,-0.1,0" 
+class="s5_426"
+>At the end of last semester, Zhang Tianming and Lisha applied to go </text>
+
+<text 
+x="398" 
+y="92" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>to China to study Chinese. They had originally thought that it might be </text>
+
+<text 
+x="398" 
+y="112" 
+dx="0,-0.2,0,0,0,0,0,-0.2,0,0,0,-1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_426"
+>too late. To their surprise, the school very quickly agreed. The two of </text>
+
+<text 
+x="398" 
+y="132" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>them could study and live in China for three or four months. This made </text>
+
+<text 
+x="398" 
+y="152" 
+dx="0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.9" 
+class="s5_426"
+>them very happy.</text>
+
+<text 
+x="398" 
+y="171" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s6_426"
+>Zhang Tianming and Lisha arrived in Shanghai ﬁrst, and then took a </text>
+
+<text 
+x="398" 
+y="191" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>high-speed train to Nanjing. The train was very fast, reaching their </text>
+
+<text 
+x="398" 
+y="211" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>destination in over one hour. Tianming’s cousin drove to the train </text>
+
+<text 
+x="398" 
+y="231" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>station to pick them up. Tianming’s cousin was happy to see them and </text>
+
+<text 
+x="398" 
+y="251" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s5_426"
+>said that he’d be willing to be their tour guide, taking them around on </text>
+
+<text 
+x="398" 
+y="271" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>the streets to let them get a good look at Nanjing.</text>
+
+<text 
+x="398" 
+y="306" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_426"
+>Zhang Tianming:</text>
+
+<text 
+x="549" 
+y="306" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>My dad often says that Nanjing is a very quiet </text>
+
+<text 
+x="549" 
+y="326" 
+dx="0,0,0,0,-0.9,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>city. I never imagined it would be so lively! Look, </text>
+
+<text 
+x="549" 
+y="346" 
+dx="0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s5_426"
+>there are new high-rises all along the streets, </text>
+
+<text 
+x="549" 
+y="365" 
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0" 
+class="s5_426"
+>and there are cars everywhere.</text>
+
+<text 
+x="398" 
+y="385" 
+dx="0,0,0,0,0,0,0,0" 
+class="s7_426"
+>Cousin: </text>
+
+<text 
+x="549" 
+y="385" 
+dx="0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>Over the last few years the changes in Nanjing </text>
+
+<text 
+x="549" 
+y="405" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s5_426"
+>have indeed been great. I used to bike to work. </text>
+
+<text 
+x="549" 
+y="425" 
+dx="0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.4" 
+class="s5_426"
+>Now I’ve started driving, too.</text>
+
+<text 
+x="398" 
+y="445" 
+dx="0,0,0,0,0,0,0" 
+class="s7_426"
+>Lisha: </text>
+
+<text 
+x="549" 
+y="445" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>This is completely different from the China </text>
+
+<text 
+x="549" 
+y="465" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>I imagined. When we were in Shanghai, if </text>
+
+<text 
+x="549" 
+y="484" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0" 
+class="s5_426"
+>it hadn’t been for the Chinese characters </text>
+
+<text 
+x="549" 
+y="504" 
+dx="0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0,-1,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>everywhere, I’d have thought that I was in </text>
+
+<text 
+x="549" 
+y="524" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_426"
+>America.</text>
+
+<text 
+x="398" 
+y="544" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_426"
+>Zhang Tianming:</text>
+
+<text 
+x="549" 
+y="544" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>My dad says that when he was little, Nanjing </text>
+
+<text 
+x="549" 
+y="564" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,-0.3,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>saw very few foreigners, but now you see </text>
+
+<text 
+x="549" 
+y="584" 
+dx="0,-0.3,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0" 
+class="s5_426"
+>foreign tourists everywhere!</text>
+
+<text 
+x="398" 
+y="604" 
+dx="0,0,0,0,0,0" 
+class="s7_426"
+>Lisha:</text>
+
+<text 
+x="549" 
+y="604" 
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>Aren’t the two of us foreigners, too? Haha! </text>
+
+<text 
+x="549" 
+y="623" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,-1,0" 
+class="s5_426"
+>Look, on the other side of the street, there’s </text>
+
+<text 
+x="549" 
+y="643" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>American fast food, a Japanese bank, a </text>
+
+<text 
+x="549" 
+y="663" 
+dx="0,-0.8,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0" 
+class="s5_426"
+>French clothing store . . .</text>
+
+<text 
+x="398" 
+y="683" 
+dx="0,0,0,0,0,0,0" 
+class="s7_426"
+>Cousin:</text>
+
+<text 
+x="549" 
+y="683" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>Other places in China are the same. The </text>
+
+<text 
+x="549" 
+y="703" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>changes have really been immense. </text>
+
+<text 
+x="398" 
+y="723" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_426"
+>Zhang Tianming:</text>
+
+<text 
+x="549" 
+y="723" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>China has melded into the world. This is a </text>
+
+<text 
+x="549" 
+y="743" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>good thing.</text>
+
+<text 
+x="398" 
+y="762" 
+dx="0,0,0,0,0,0" 
+class="s7_426"
+>Lisha:</text>
+
+<text 
+x="549" 
+y="762" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0" 
+class="s5_426"
+>But I worry that if it continues like this, </text>
+
+<text 
+x="549" 
+y="782" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>won’t there be fewer and fewer distinctly </text>
+
+<text 
+x="549" 
+y="802" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>Chinese things?</text>
+
+<text 
+x="398" 
+y="822" 
+dx="0,0,0,0,0,0,0" 
+class="s7_426"
+>Cousin:</text>
+
+<text 
+x="549" 
+y="822" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0" 
+class="s5_426"
+>That won’t happen. Nanjing has preserved </text>
+
+<text 
+x="549" 
+y="842" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>many things with distinct Chinese </text>
+
+<text 
+x="549" 
+y="862" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-1.1,0,-0.4,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,-0.3,0,0" 
+class="s5_426"
+>characteristics. Take architecture, for </text>
+
+<text 
+x="549" 
+y="882" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>example—what is most distinctly Chinese in </text>
+
+<text 
+x="549" 
+y="901" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s5_426"
+>Nanjing is the Temple of Confucius. There is </text>
+
+<text 
+x="549" 
+y="921" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>also food, drinks, entertainment . . .</text>
+
+<text 
+x="398" 
+y="941" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_426"
+>Zhang Tianming:</text>
+
+<text 
+x="549" 
+y="941" 
+dx="0,0,0,0,0,0,0,0,0.4,-1,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,-1.5,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>Then let’s go to the Temple of Confucius now </text>
+
+<text 
+x="549" 
+y="961" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_426"
+>and try Nanjing’s local snacks.</text>
+
+<text 
+x="398" 
+y="981" 
+dx="0,0,0,0,0,0,0" 
+class="s7_426"
+>Cousin:</text>
+
+<text 
+x="549" 
+y="981" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s5_426"
+>Sure! No matter how much China changes, </text>
+
+<text 
+x="549" 
+y="1001" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>no matter how much Nanjing changes, when </text>
+
+<text 
+x="549" 
+y="1021" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,-0.1,-0.4,0,0,-0.1,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>you are hungry, you’ve got to eat. That hasn’t </text>
+
+<text 
+x="549" 
+y="1040" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,-1.5,0,0,-0.1,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s5_426"
+>changed. You’ve heard the saying, “Ordinary </text>
+
+<text 
+x="549" 
+y="1060" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>people consider food as important as </text>
+
+<text 
+x="549" 
+y="1080" 
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s5_426"
+>heaven,” right?</text>
+
+<text 
+x="398" 
+y="1100" 
+dx="0,0,0,0,0,0" 
+class="s7_426"
+>Lisha:</text>
+
+<text 
+x="549" 
+y="1100" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0" 
+class="s5_426"
+>Huh? What? Never heard of it.</text>
+
+<path d="M281.6,57.7c0,0,-15.3,0,-15.3,15.2l0,3.1c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g3_426" />
+<text 
+x="301" 
+y="81" 
+dx="0,-1.8,-0.6,-0.7" 
+class="s8_426"
+>Text</text>
+
+<path d="M281.6,56.9c-0.2,0,-16.1,0.2,-16.1,16l0,3.1c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.1,0Z" class="g4_426" />
+<path d="M281.6,58.9c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.1,0Z" class="g5_426" />
+<path d="M317.9,92.8l0,1004.1" class="g6_426" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di3;
+	src: url("fonts/LibreFranklin-SemiBold_di3.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dim;
+	src: url("fonts/LibreFranklin-Light_dim.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_dib;
+	src: url("fonts/LibreFranklin-Light_dib.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dhv;
+	src: url("fonts/LibreFranklin-Medium_dhv.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_di-;
+	src: url("fonts/LibreFranklin-SemiBold_di-.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_diz;
+	src: url("fonts/LibreFranklin-ExtraBold_diz.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

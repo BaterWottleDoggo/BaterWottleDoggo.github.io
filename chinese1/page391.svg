@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 414 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_414{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_414{
+fill: #3986C6;
+}
+.g3_414{
+fill: #F0F1F2;
+}
+.g4_414{
+fill: #BDBEC1;
+}
+.g5_414{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+
+.s1_414{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_de4;
+fill: #231F20;
+}
+.s2_414{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_ddv;
+fill: #231F20;
+}
+.s3_414{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_ddv;
+fill: #57585A;
+}
+.s4_414{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s5_414{
+font-size: 19.10px;
+font-family: Alegreya-Regular_ddy;
+fill: #231F20;
+}
+.s6_414{
+font-size: 21.39px;
+font-family: ProximaNova-Semibold_ddu;
+fill: #3F3F40;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 869)"
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_414"
+>Vocabulary Index (Chinese – English)</text>
+
+<text 
+x="857" 
+y="1149" 
+dx="0,0,0" 
+class="s2_414"
+>391</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_414" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_414" />
+<path d="M89.9,167l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,251.6l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,336.2l115.7,0l0,42.4l-115.7,0l0,-42.4Zm115.7,0l140.3,0l0,42.4l-140.3,0l0,-42.4Zm140.3,0l402.6,0l0,42.4l-402.6,0l0,-42.4Zm402.6,0l62.2,0l0,42.4l-62.2,0l0,-42.4ZM89.9,420.9l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,505.5l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,590.1l115.7,0l0,42.4l-115.7,0l0,-42.4Zm115.7,0l140.3,0l0,42.4l-140.3,0l0,-42.4Zm140.3,0l402.6,0l0,42.4l-402.6,0l0,-42.4Zm402.6,0l62.2,0l0,42.4l-62.2,0l0,-42.4ZM89.9,674.8l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,759.4l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,843.9l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,928.5l115.7,0l0,42.3l-115.7,0l0,-42.3Zm115.7,0l140.3,0l0,42.3l-140.3,0l0,-42.3Zm140.3,0l402.6,0l0,42.3l-402.6,0l0,-42.3Zm402.6,0l62.2,0l0,42.3l-62.2,0l0,-42.3ZM89.9,1013.1l115.7,0l0,42.4l-115.7,0l0,-42.4Zm115.7,0l140.3,0l0,42.4l-140.3,0l0,-42.4Zm140.3,0l402.6,0l0,42.4l-402.6,0l0,-42.4Zm402.6,0l62.2,0l0,42.4l-62.2,0l0,-42.4Z" class="g3_414" />
+<path d="M89.9,801.7l720.8,0l0,42.2l-720.8,0l0,-42.2Z" class="g4_414" />
+<path d="M89.9,124.7l115.7,0" class="g5_414" />
+<path d="M205.6,124.7l140.3,0" class="g5_414" />
+<path d="M345.9,124.7l402.6,0" class="g5_414" />
+<path d="M748.5,124.7l62.2,0" class="g5_414" />
+<path d="M89.9,1097.8l115.7,0" class="g5_414" />
+<path d="M205.6,1097.8l140.3,0" class="g5_414" />
+<path d="M345.9,1097.8l402.6,0" class="g5_414" />
+<path d="M748.5,1097.8l62.2,0" class="g5_414" />
+<text 
+x="96" 
+y="110" 
+dx="0,0,0,0,0,0,0" 
+class="s3_414"
+>Chinese</text>
+
+<text 
+x="211" 
+y="110" 
+dx="0,0,0,0,0,0" 
+class="s3_414"
+>Pinyin</text>
+
+<text 
+x="351" 
+y="110" 
+dx="0,0,0,0,0,0,0" 
+class="s3_414"
+>English</text>
+
+<text 
+x="754" 
+y="110" 
+dx="0,-0.4,0,0" 
+class="s3_414"
+>Page</text>
+
+<text 
+x="96" 
+y="153" 
+dx="0" 
+class="s4_414"
+>来</text>
+
+<text 
+x="211" 
+y="153" 
+dx="0,0,0" 
+class="s5_414"
+>lái</text>
+
+<text 
+x="352" 
+y="153" 
+dx="0,0,0,0,-0.3,0,0" 
+class="s5_414"
+>to come</text>
+
+<text 
+x="754" 
+y="153" 
+dx="0,0,0" 
+class="s5_414"
+>291</text>
+
+<text 
+x="96" 
+y="196" 
+dx="0,0" 
+class="s4_414"
+>篮球</text>
+
+<text 
+x="211" 
+y="196" 
+dx="0,0,0,0,0,0" 
+class="s5_414"
+>lánqiú</text>
+
+<text 
+x="352" 
+y="196" 
+dx="0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_414"
+>basketball (the game and the object)</text>
+
+<text 
+x="754" 
+y="196" 
+dx="0,0,0" 
+class="s5_414"
+>109</text>
+
+<text 
+x="96" 
+y="238" 
+dx="0,0" 
+class="s4_414"
+>老师</text>
+
+<text 
+x="211" 
+y="238" 
+dx="0,0,0,0,0,0" 
+class="s5_414"
+>lǎoshī</text>
+
+<text 
+x="352" 
+y="238" 
+dx="0,0,0,0,0,0,0" 
+class="s5_414"
+>teacher</text>
+
+<text 
+x="754" 
+y="238" 
+dx="0,0" 
+class="s5_414"
+>21</text>
+
+<text 
+x="96" 
+y="280" 
+dx="0,0" 
+class="s4_414"
+>了 </text>
+
+<text 
+x="211" 
+y="280" 
+dx="0,0" 
+class="s5_414"
+>le</text>
+
+<text 
+x="352" 
+y="280" 
+dx="0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s5_414"
+>(a word that indicates an action is complete)</text>
+
+<text 
+x="754" 
+y="280" 
+dx="0,0,0" 
+class="s5_414"
+>212</text>
+
+<text 
+x="96" 
+y="323" 
+dx="0" 
+class="s4_414"
+>累</text>
+
+<text 
+x="211" 
+y="323" 
+dx="0,0,0" 
+class="s5_414"
+>lèi</text>
+
+<text 
+x="352" 
+y="323" 
+dx="0,0,0,-0.2,0,0,-0.4,0,0,0,0,0,0,0" 
+class="s5_414"
+>tired, tiring </text>
+
+<text 
+x="754" 
+y="323" 
+dx="0,0,0" 
+class="s5_414"
+>262</text>
+
+<text 
+x="96" 
+y="365" 
+dx="0" 
+class="s4_414"
+>冷</text>
+
+<text 
+x="211" 
+y="365" 
+dx="0,0,0,0" 
+class="s5_414"
+>lěng</text>
+
+<text 
+x="352" 
+y="365" 
+dx="0,-0.3,0,0" 
+class="s5_414"
+>cold</text>
+
+<text 
+x="754" 
+y="365" 
+dx="0,0,0" 
+class="s5_414"
+>286</text>
+
+<text 
+x="96" 
+y="407" 
+dx="0" 
+class="s4_414"
+>李</text>
+
+<text 
+x="211" 
+y="407" 
+dx="0,0" 
+class="s5_414"
+>Lǐ</text>
+
+<text 
+x="355" 
+y="407" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_414"
+>Li (surname, sometimes spelled Lee)</text>
+
+<text 
+x="754" 
+y="407" 
+dx="0,0,0" 
+class="s5_414"
+>141</text>
+
+<text 
+x="96" 
+y="450" 
+dx="0,0" 
+class="s4_414"
+>礼物</text>
+
+<text 
+x="211" 
+y="450" 
+dx="0,0,0,0" 
+class="s5_414"
+>lǐwù</text>
+
+<text 
+x="352" 
+y="450" 
+dx="0,0,0,0" 
+class="s5_414"
+>gift</text>
+
+<text 
+x="754" 
+y="450" 
+dx="0,0,0" 
+class="s5_414"
+>168</text>
+
+<text 
+x="96" 
+y="492" 
+dx="0,0" 
+class="s4_414"
+>历史</text>
+
+<text 
+x="211" 
+y="492" 
+dx="0,0,0,0,0" 
+class="s5_414"
+>lìshǐ</text>
+
+<text 
+x="352" 
+y="492" 
+dx="0,0,0,0,0,0,0.3" 
+class="s5_414"
+>history</text>
+
+<text 
+x="754" 
+y="492" 
+dx="0,0,0" 
+class="s5_414"
+>238</text>
+
+<text 
+x="96" 
+y="534" 
+dx="0,0" 
+class="s4_414"
+>练习</text>
+
+<text 
+x="211" 
+y="534" 
+dx="0,0,0,0,0,0" 
+class="s5_414"
+>liànxí</text>
+
+<text 
+x="352" 
+y="534" 
+dx="0,0,0,0,0,-0.2,0,0,0,0,-0.3,0,0,0,-0.4,-0.4,0,-0.2,0,0,0,0" 
+class="s5_414"
+>to practice; exercises</text>
+
+<text 
+x="754" 
+y="534" 
+dx="0,0,0" 
+class="s5_414"
+>341</text>
+
+<text 
+x="96" 
+y="577" 
+dx="0" 
+class="s4_414"
+>两</text>
+
+<text 
+x="211" 
+y="576" 
+dx="0,0,0,0,0" 
+class="s5_414"
+>liǎng</text>
+
+<text 
+x="352" 
+y="576" 
+dx="0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_414"
+>two (used when counting things)</text>
+
+<text 
+x="754" 
+y="576" 
+dx="0,0" 
+class="s5_414"
+>59</text>
+
+<text 
+x="96" 
+y="619" 
+dx="0,0,0" 
+class="s4_414"
+>聊天儿</text>
+
+<text 
+x="211" 
+y="619" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_414"
+>liáo tiānr</text>
+
+<text 
+x="352" 
+y="619" 
+dx="0,0,0,0,0,0,0" 
+class="s5_414"
+>to chat</text>
+
+<text 
+x="754" 
+y="619" 
+dx="0,0,0" 
+class="s5_414"
+>360</text>
+
+<text 
+x="96" 
+y="661" 
+dx="0,0,0" 
+class="s4_414"
+>林春月</text>
+
+<text 
+x="211" 
+y="661" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s5_414"
+>Lín Chūnyuè</text>
+
+<text 
+x="352" 
+y="661" 
+dx="0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,0,0" 
+class="s5_414"
+>Isabella Lopez (a person’s name)</text>
+
+<text 
+x="754" 
+y="661" 
+dx="0,0" 
+class="s5_414"
+>37</text>
+
+<text 
+x="96" 
+y="703" 
+dx="0,0,0" 
+class="s4_414"
+>林马丁</text>
+
+<text 
+x="211" 
+y="703" 
+dx="0,0,0,0,0,-0.2,0,0,0,0" 
+class="s5_414"
+>Lín Mǎdīng</text>
+
+<text 
+x="352" 
+y="703" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,0,0,0,0" 
+class="s5_414"
+>Martin Lopez (a person’s name)</text>
+
+<text 
+x="754" 
+y="703" 
+dx="0,0" 
+class="s5_414"
+>37</text>
+
+<text 
+x="96" 
+y="746" 
+dx="0" 
+class="s4_414"
+>六</text>
+
+<text 
+x="211" 
+y="746" 
+dx="0,0,0" 
+class="s5_414"
+>liù</text>
+
+<text 
+x="352" 
+y="746" 
+dx="0,0,0" 
+class="s5_414"
+>six</text>
+
+<text 
+x="754" 
+y="746" 
+dx="0,0" 
+class="s5_414"
+>19</text>
+
+<text 
+x="96" 
+y="788" 
+dx="0,0,0" 
+class="s4_414"
+>六月 </text>
+
+<text 
+x="211" 
+y="788" 
+dx="0,0,0,0,0,0,0" 
+class="s5_414"
+>liùyuè </text>
+
+<text 
+x="352" 
+y="788" 
+dx="0,-0.6,0,0" 
+class="s5_414"
+>June</text>
+
+<text 
+x="754" 
+y="788" 
+dx="0,0,0" 
+class="s5_414"
+>163</text>
+
+<text 
+x="441" 
+y="831" 
+dx="0" 
+class="s6_414"
+>M</text>
+
+<text 
+x="96" 
+y="873" 
+dx="0" 
+class="s4_414"
+>吗</text>
+
+<text 
+x="211" 
+y="873" 
+dx="0,0" 
+class="s5_414"
+>ma</text>
+
+<text 
+x="352" 
+y="873" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0" 
+class="s5_414"
+>(question word)</text>
+
+<text 
+x="754" 
+y="873" 
+dx="0,0" 
+class="s5_414"
+>21</text>
+
+<text 
+x="96" 
+y="915" 
+dx="0,0" 
+class="s4_414"
+>妈妈</text>
+
+<text 
+x="211" 
+y="915" 
+dx="0,0,0,0" 
+class="s5_414"
+>māma</text>
+
+<text 
+x="352" 
+y="915" 
+dx="0,0,0,0,0,0,-1.5,-0.4,0,0,0" 
+class="s5_414"
+>mother, mom</text>
+
+<text 
+x="754" 
+y="915" 
+dx="0,0" 
+class="s5_414"
+>57</text>
+
+<text 
+x="96" 
+y="957" 
+dx="0" 
+class="s4_414"
+>买</text>
+
+<text 
+x="211" 
+y="957" 
+dx="0,0,0" 
+class="s5_414"
+>mǎi</text>
+
+<text 
+x="352" 
+y="957" 
+dx="0,0,0,0,0,0" 
+class="s5_414"
+>to buy</text>
+
+<text 
+x="754" 
+y="957" 
+dx="0,0,0" 
+class="s5_414"
+>137</text>
+
+<text 
+x="96" 
+y="1000" 
+dx="0" 
+class="s4_414"
+>卖</text>
+
+<text 
+x="211" 
+y="999" 
+dx="0,0,0" 
+class="s5_414"
+>mài</text>
+
+<text 
+x="352" 
+y="999" 
+dx="0,0,0,0,0,0,0" 
+class="s5_414"
+>to sell</text>
+
+<text 
+x="754" 
+y="999" 
+dx="0,0,0" 
+class="s5_414"
+>137</text>
+
+<text 
+x="96" 
+y="1042" 
+dx="0" 
+class="s4_414"
+>忙</text>
+
+<text 
+x="211" 
+y="1042" 
+dx="0,0,0,0" 
+class="s5_414"
+>máng</text>
+
+<text 
+x="352" 
+y="1042" 
+dx="0,0,0,0" 
+class="s5_414"
+>busy</text>
+
+<text 
+x="754" 
+y="1042" 
+dx="0,0,0" 
+class="s5_414"
+>262</text>
+
+<text 
+x="96" 
+y="1084" 
+dx="0" 
+class="s4_414"
+>猫</text>
+
+<text 
+x="211" 
+y="1084" 
+dx="0,0,0" 
+class="s5_414"
+>māo</text>
+
+<text 
+x="352" 
+y="1084" 
+dx="0,-0.2,0" 
+class="s5_414"
+>cat</text>
+
+<text 
+x="754" 
+y="1084" 
+dx="0,0" 
+class="s5_414"
+>67</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Alegreya-Regular_ddy;
+	src: url("fonts/Alegreya-Regular_ddy.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_de4;
+	src: url("fonts/ProximaNova-Semibold_de4.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_ddv;
+	src: url("fonts/ProximaNova-Bold_ddv.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_ddu;
+	src: url("fonts/ProximaNova-Semibold_ddu.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

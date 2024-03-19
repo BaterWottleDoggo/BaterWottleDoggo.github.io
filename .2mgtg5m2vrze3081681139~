@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 48 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_48"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_48{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.4323611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_48{
+fill: #FDD05C;
+}
+.g3_48{
+fill: #FFFFFF;
+}
+.g4_48{
+fill: #D8E7F5;
+}
+.g5_48{
+fill: #FEEBBC;
+}
+.g6_48{
+fill: #EEF5FB;
+}
+
+.s1_48{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cey;
+fill: #231F20;
+}
+.s2_48{
+font-size: 21.39px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #A52021;
+}
+.s3_48{
+font-size: 21.39px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #A52021;
+}
+.s4_48{
+font-size: 15.28px;
+font-family: ZapfDingbatsITC_ckl;
+fill: #D92326;
+}
+.s5_48{
+font-size: 24.44px;
+font-family: Athelas-Bold_cl1;
+fill: #D92326;
+}
+.s6_48{
+font-size: 74.86px;
+font-family: Athelas-Regular_ckh;
+fill: #D92326;
+}
+.s7_48{
+font-size: 15.28px;
+font-family: AvenirNextCondensed-DemiB_cks;
+fill: #231F20;
+}
+.s8_48{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_chd;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image x="0" y="0" width="923" height="1199" xlink:href="48/shade/1.png" />
+<path d="M263.6,1133.6l167.6,0l0,-577.1" class="g1_48" />
+<g clip-path="url(#c0_48)">
+<path d="M431.2,323.6l0,-29.5l-1392.8,0l0,839.5l998.9,0" class="g1_48" />
+</g>
+<image preserveAspectRatio="none" x="1" y="0" width="443" height="566" xlink:href="48/img/1.png" />
+<g clip-path="url(#c0_48)">
+<path d="M0.8,-34.9l-0.3,0L0.5,566l444,0l0,-601.2l-444,0l0,0.3l0.3,0l0,0.2l443.2,0l0,600.3l-443,0L1,-34.9l-0.2,0l0,0.2Z" class="g2_48" />
+</g>
+<image x="70" y="1123" width="64" height="39" xlink:href="48/shade/2.png" />
+<image x="25" y="1136" width="102" height="25" xlink:href="48/shade/3.png" />
+<image x="40" y="1118" width="66" height="32" xlink:href="48/shade/4.png" />
+<image x="38" y="1127" width="56" height="23" xlink:href="48/shade/5.png" />
+<image x="35" y="1149" width="91" height="19" xlink:href="48/shade/6.png" />
+<image x="41" y="1160" width="88" height="11" xlink:href="48/shade/7.png" />
+<image x="26" y="1167" width="93" height="10" xlink:href="48/shade/8.png" />
+<image x="35" y="1173" width="68" height="13" xlink:href="48/shade/9.png" />
+<image x="34" y="1178" width="86" height="19" xlink:href="48/shade/10.png" />
+<image x="83" y="1181" width="43" height="17" xlink:href="48/shade/11.png" />
+<image x="102" y="1178" width="32" height="19" xlink:href="48/shade/12.png" />
+<image x="117" y="1179" width="22" height="19" xlink:href="48/shade/13.png" />
+<image x="127" y="1187" width="12" height="11" xlink:href="48/shade/14.png" />
+<image x="158" y="1074" width="83" height="81" xlink:href="48/shade/15.png" />
+<image x="166" y="1108" width="70" height="43" xlink:href="48/shade/16.png" />
+<image x="158" y="1111" width="85" height="51" xlink:href="48/shade/17.png" />
+<image x="163" y="1130" width="67" height="32" xlink:href="48/shade/18.png" />
+<image x="168" y="1147" width="103" height="17" xlink:href="48/shade/19.png" />
+<image x="191" y="1127" width="68" height="26" xlink:href="48/shade/20.png" />
+<image x="202" y="1136" width="58" height="17" xlink:href="48/shade/21.png" />
+<image x="64" y="1067" width="76" height="88" xlink:href="48/shade/22.png" />
+<image x="66" y="1101" width="65" height="50" xlink:href="48/shade/23.png" />
+<image x="59" y="1104" width="80" height="58" xlink:href="48/shade/24.png" />
+<image x="92" y="1078" width="51" height="76" xlink:href="48/shade/25.png" />
+<image x="127" y="1066" width="20" height="87" xlink:href="48/shade/26.png" />
+<image x="110" y="1049" width="33" height="101" xlink:href="48/shade/27.png" />
+<image x="99" y="1062" width="33" height="63" xlink:href="48/shade/28.png" />
+<image x="134" y="1058" width="13" height="84" xlink:href="48/shade/29.png" />
+<image x="145" y="1049" width="6" height="107" xlink:href="48/shade/30.png" />
+<image x="154" y="1082" width="59" height="72" xlink:href="48/shade/31.png" />
+<image x="150" y="1067" width="28" height="84" xlink:href="48/shade/32.png" />
+<image x="154" y="1052" width="43" height="98" xlink:href="48/shade/33.png" />
+<image x="167" y="1066" width="39" height="61" xlink:href="48/shade/34.png" />
+<image x="150" y="1058" width="21" height="82" xlink:href="48/shade/35.png" />
+<image x="148" y="1048" width="13" height="105" xlink:href="48/shade/36.png" />
+<image x="133" y="1178" width="14" height="20" xlink:href="48/shade/37.png" />
+<image x="145" y="1180" width="7" height="18" xlink:href="48/shade/38.png" />
+<image x="141" y="1182" width="6" height="16" xlink:href="48/shade/39.png" />
+<image x="148" y="1191" width="3" height="7" xlink:href="48/shade/40.png" />
+<image x="150" y="1177" width="3" height="21" xlink:href="48/shade/41.png" />
+<image x="153" y="1181" width="8" height="17" xlink:href="48/shade/42.png" />
+<image x="158" y="1183" width="8" height="15" xlink:href="48/shade/43.png" />
+<image x="154" y="1192" width="3" height="6" xlink:href="48/shade/44.png" />
+<image x="151" y="1178" width="5" height="20" xlink:href="48/shade/45.png" />
+<image x="169" y="1157" width="93" height="13" xlink:href="48/shade/46.png" />
+<image x="165" y="1167" width="89" height="7" xlink:href="48/shade/47.png" />
+<image x="176" y="1172" width="92" height="16" xlink:href="48/shade/48.png" />
+<image x="191" y="1176" width="67" height="19" xlink:href="48/shade/49.png" />
+<image x="194" y="1181" width="42" height="16" xlink:href="48/shade/50.png" />
+<image x="168" y="1177" width="38" height="21" xlink:href="48/shade/51.png" />
+<image x="159" y="1178" width="27" height="19" xlink:href="48/shade/52.png" />
+<image x="154" y="1178" width="19" height="19" xlink:href="48/shade/53.png" />
+<image x="165" y="1194" width="3" height="3" xlink:href="48/shade/54.png" />
+<path d="M866.5,91.6l0,-36.8l-368.7,0l0,1043.5l368.7,0l0,-812.9l-0.5,0l0,812.5l-367.7,0l0,-1042.7l367.7,0l0,36.4Z" class="g3_48" />
+<image x="870" y="75" width="53" height="22" xlink:href="48/shade/55.png" />
+<image x="801" y="91" width="122" height="156" xlink:href="48/shade/56.png" />
+<image x="860" y="89" width="62" height="159" xlink:href="48/shade/57.png" />
+<path d="M866.5,90.8c-0.2,0,-0.3,0,-0.5,0l0,0.6c0.2,0,0.3,0,0.5,0l0,-0.6Z" class="g3_48" />
+<image x="844" y="226" width="66" height="60" xlink:href="48/shade/58.png" />
+<text 
+x="528" 
+y="286" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,-0.9,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s1_48"
+>The Lantern Festival, </text>
+
+<text 
+x="672" 
+y="286" 
+dx="0,0,0" 
+class="s2_48"
+>元宵节</text>
+
+<text 
+x="736" 
+y="286" 
+dx="0" 
+class="s1_48"
+>/</text>
+
+<text 
+x="741" 
+y="286" 
+dx="0,0,0" 
+class="s3_48"
+>元宵節</text>
+
+<text 
+x="805" 
+y="286" 
+dx="0,0" 
+class="s1_48"
+>, </text>
+
+<text 
+x="528" 
+y="308" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0" 
+class="s1_48"
+>falls on the fifteenth day of the first month </text>
+
+<text 
+x="528" 
+y="329" 
+dx="0,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,-0.9,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.2,0.3,0.3,0.3,0" 
+class="s1_48"
+>of the lunar calendar. Its origin can be traced </text>
+
+<text 
+x="528" 
+y="351" 
+dx="0,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s1_48"
+>to the Han dynasty (202 BCE–220 CE). </text>
+
+<text 
+x="790" 
+y="350" 
+dx="0,0" 
+class="s2_48"
+>元宵</text>
+
+<text 
+x="832" 
+y="350" 
+dx="0,0" 
+class="s1_48"
+>, </text>
+
+<text 
+x="528" 
+y="372" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0" 
+class="s1_48"
+>which literally means “first night,” marks the </text>
+
+<text 
+x="528" 
+y="393" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,-0.9,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0" 
+class="s1_48"
+>first full moon of the lunar new year. Colorful </text>
+
+<text 
+x="528" 
+y="415" 
+dx="0,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,-0.5,0" 
+class="s1_48"
+>lanterns are lit at night; hence, the holiday’s </text>
+
+<text 
+x="528" 
+y="436" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,-1.2,0.3,0.3,0.3,-0.7,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,-0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0" 
+class="s1_48"
+>name in English. Today, almost every Chinese </text>
+
+<text 
+x="528" 
+y="457" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,0,0.3,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0" 
+class="s1_48"
+>city puts on extravagant displays of lanterns </text>
+
+<text 
+x="528" 
+y="479" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.2,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0" 
+class="s1_48"
+>in parks and historic areas, attracting tens </text>
+
+<text 
+x="528" 
+y="500" 
+dx="0,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.2,0.3,0" 
+class="s1_48"
+>of thousands of spectators. Many streets </text>
+
+<text 
+x="528" 
+y="522" 
+dx="0,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.2,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0" 
+class="s1_48"
+>are decorated with colorful paper lanterns, </text>
+
+<text 
+x="528" 
+y="543" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,-0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0" 
+class="s1_48"
+>some with riddles written on them. At night, </text>
+
+<text 
+x="528" 
+y="564" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0" 
+class="s1_48"
+>people go out to admire the lanterns and </text>
+
+<text 
+x="528" 
+y="586" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0,0.3,0.3,0.3,0.3,0.2,0.3,0.3,0.3,0.3,0.3,0.2,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0" 
+class="s1_48"
+>guess the riddles. Exuberant dragon and lion </text>
+
+<text 
+x="528" 
+y="607" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0.3,0.3,0,0.3,0.3,0.3,0.3,-0.1,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.1,0.3,0.3,0.3,0.3,0" 
+class="s1_48"
+>dances also add to the festive mood of the </text>
+
+<text 
+x="528" 
+y="629" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s1_48"
+>holiday season. </text>
+
+<text 
+x="634" 
+y="629" 
+dx="0" 
+class="s4_48"
+>◆</text>
+
+<text 
+x="55" 
+y="719" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s1_48"
+>three work days off. Combined with the preceding </text>
+
+<text 
+x="55" 
+y="742" 
+dx="0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_48"
+>and following weekends, the holiday break can last </text>
+
+<text 
+x="55" 
+y="765" 
+dx="0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s1_48"
+>up to seven or eight days. While people customarily </text>
+
+<text 
+x="55" 
+y="788" 
+dx="0,-0.3,-0.5,0,0,0,0,-0.2,0,0,0,0,0,0,0,-1.5,0,0,0,-0.8,0,0,0,-0.2,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_48"
+>exchanged New Year’s greetings by paying a brief visit </text>
+
+<text 
+x="55" 
+y="811" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,-0.8,0" 
+class="s1_48"
+>in person, it is increasingly common to send New Year’s </text>
+
+<text 
+x="55" 
+y="834" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,-0.3,-0.3,0,0,0,0,0,0,0,-0.2,0" 
+class="s1_48"
+>wishes by text message.</text>
+
+<text 
+x="55" 
+y="863" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.9,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.6,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0" 
+class="s1_48"
+>Many of China’s minority peoples have their own distinct </text>
+
+<text 
+x="55" 
+y="886" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-1.6,-0.1,-0.1,-0.1,-0.9,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.4,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.3,0" 
+class="s1_48"
+>New Year’s traditions. Mongols, for instance, celebrate </text>
+
+<text 
+x="55" 
+y="909" 
+dx="0,-1.6,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,0" 
+class="s1_48"
+>Tsagaan Sar (lit. White Moon) to mark the beginning of </text>
+
+<text 
+x="55" 
+y="932" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-1.3,-0.1,-0.1,-1.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0" 
+class="s1_48"
+>the lunar calendar. Turkic minorities such as the Uighurs, </text>
+
+<text 
+x="55" 
+y="955" 
+dx="0,-0.5,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.9,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-1.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-1.4,-0.1,-0.1,-0.1,-0.3,-0.1,0" 
+class="s1_48"
+>Kazakhs, and Kyrgyz, as well as the Farsi-speaking Tajiks, </text>
+
+<text 
+x="55" 
+y="978" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.5,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.8,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-1.6,-0.1,-0.1,-1.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0" 
+class="s1_48"
+>observe Nowruz or Persian New Year. Nowruz coincides </text>
+
+<text 
+x="55" 
+y="1001" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.5,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.5,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0" 
+class="s1_48"
+>with the vernal equinox, which falls around March 21. The </text>
+
+<text 
+x="55" 
+y="1024" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-1.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.2,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0" 
+class="s1_48"
+>Dai people in Yunnan, on the other hand, usher in the New </text>
+
+<text 
+x="55" 
+y="1047" 
+dx="0,-1.6,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.9,-0.1,-0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-1.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s1_48"
+>Year in mid-April with the Water Splashing Festival. </text>
+
+<text 
+x="377" 
+y="1047" 
+dx="0" 
+class="s4_48"
+>◆</text>
+
+<image preserveAspectRatio="none" x="476" y="664" width="445" height="380" xlink:href="48/img/2.png" />
+<g clip-path="url(#c0_48)">
+<path d="M475.9,663.4l-0.2,0l0,380.7l487.2,0l0,-380.9l-487.2,0l0,0.2l0.2,0l0,0.2l486.5,0l0,380l-486.3,0l0,-380.2l-0.2,0l0,0.2Z" class="g2_48" />
+</g>
+<text 
+x="526" 
+y="101" 
+dx="0,0,0" 
+class="s5_48"
+>The</text>
+
+<text 
+x="526" 
+y="165" 
+dx="0,0,0,-0.7,-0.7,0,0,0" 
+class="s6_48"
+>Lantern </text>
+
+<text 
+x="526" 
+y="242" 
+dx="0,-4.1,0,0,0,-2.7,-1.9,0" 
+class="s6_48"
+>Festival</text>
+
+<path d="M727.2,1101.4l118.8,0l0,-7.9l-118.8,0l0,7.9Z" class="g4_48" />
+<image x="814" y="1043" width="4" height="2" xlink:href="48/shade/59.png" />
+<image preserveAspectRatio="none" x="773" y="1028" width="43" height="16" xlink:href="48/img/3.png" />
+<path d="M815.7,1043.6l-1.8,0c0.4,0.2,0.8,0.3,1.1,0.5l0.7,0c0,-0.2,0,-0.3,0,-0.5Z" class="g5_48" />
+<image x="726" y="1043" width="119" height="52" xlink:href="48/shade/60.png" />
+<image preserveAspectRatio="none" x="751" y="1038" width="51" height="6" xlink:href="48/img/4.png" />
+<path d="M802,1043.6l-4.9,0c0.6,0.2,1.3,0.3,2,0.5l4.4,0c-0.5,-0.2,-1,-0.3,-1.5,-0.5m-46.4,0l-4.1,0c-0.2,0.2,-0.5,0.3,-0.7,0.5l3.3,0c0.5,-0.2,1,-0.3,1.5,-0.5Z" class="g5_48" />
+<image x="729" y="1083" width="115" height="58" xlink:href="48/shade/61.png" />
+<path d="M843.4,1093.5l-1.4,0c0.7,0.8,1.1,1.4,1.3,1.7c0,-0.6,0.1,-1.1,0.1,-1.7m-6.7,0l-5.6,0c3.4,3.1,5.8,5.9,7.4,7.9l3.5,0c0.3,-0.8,0.4,-1.4,0.4,-1.6c-0.1,-0.1,-2,-2.7,-5.7,-6.3m-10.1,0l-8.8,0c3.7,2.6,6.9,5.3,9.5,7.9l7,0c-1.8,-2.4,-4.4,-5.1,-7.7,-7.9m-18.4,0l-7.6,0c5.1,2.2,9.7,5,13.8,7.9l6,0c-3.4,-2.6,-7.4,-5.4,-12.2,-7.9m-19.5,0l-22.6,0c-7.5,1.4,-14.2,4.2,-19.4,7.9l6.7,0c5.5,-3.1,12.9,-5.6,22.6,-5.8c0.3,0,0.7,0,1,0c9.8,0,18.4,2.3,25.7,5.8l6,0c-2,-1.2,-4.1,-2.3,-6.5,-3.5c-4.3,-2.1,-8.9,-3.5,-13.5,-4.4m-34.6,0l-8.4,0c-7.2,4,-11.6,7.7,-11.6,7.7l-1.3,-4c0,0,1.5,-1.5,4.6,-3.7l-9.3,0c0.4,2.5,1,5.2,1.8,7.9l11.2,0c3.1,-2.4,7.5,-5.4,13,-7.9m21.7,4.2c-6.9,0,-12.7,1.5,-17.4,3.7l37.4,0c-1.9,-0.6,-4,-1.2,-6.1,-1.8c-5.1,-1.3,-9.7,-1.9,-13.9,-1.9Z" class="g6_48" />
+<image x="804" y="1137" width="3" height="3" xlink:href="48/shade/62.png" />
+<image x="809" y="1043" width="39" height="52" xlink:href="48/shade/63.png" />
+<image preserveAspectRatio="none" x="766" y="1037" width="47" height="7" xlink:href="48/img/5.png" />
+<path d="M812.9,1043.6l-3.7,0c0.4,0.2,0.7,0.3,1,0.5l3.7,0c-0.3,-0.2,-0.6,-0.3,-1,-0.5Z" class="g5_48" />
+<image x="796" y="1100" width="51" height="40" xlink:href="48/shade/64.png" />
+<path d="M846,1093.5l-2.6,0c0,0.6,-0.1,1.1,-0.1,1.7c-0.1,2.2,-0.3,4.3,-0.6,6.2l2.6,0c0.5,-2.6,0.7,-5.3,0.7,-7.9Z" class="g6_48" />
+<image x="754" y="1126" width="43" height="40" xlink:href="48/shade/65.png" />
+<text 
+x="528" 
+y="1070" 
+dx="0,0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.7,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s7_48"
+>A display of lanterns with auspicious couplets</text>
+
+<image x="0" y="572" width="30" height="10" xlink:href="48/shade/66.png" />
+<image x="0" y="554" width="2" height="7" xlink:href="48/shade/67.png" />
+<image preserveAspectRatio="none" x="1" y="553" width="20" height="6" xlink:href="48/img/6.png" />
+<path d="M1,554.8c-0.2,0.1,-0.3,0.1,-0.5,0.2l0,4c0.2,0,0.3,-0.1,0.5,-0.1l0,-4.1Z" class="g5_48" />
+<image x="0" y="564" width="15" height="7" xlink:href="48/shade/68.png" />
+<image preserveAspectRatio="none" x="1" y="563" width="18" height="3" xlink:href="48/img/7.png" />
+<path d="M1,565.5c-0.2,0,-0.3,0.1,-0.5,0.1l0,0.4l12.9,0c0.5,-0.1,0.9,-0.2,1.3,-0.4L1,565.6l0,-0.1Z" class="g5_48" />
+<image x="0" y="583" width="20" height="6" xlink:href="48/shade/69.png" />
+<image x="0" y="594" width="12" height="6" xlink:href="48/shade/70.png" />
+<image x="0" y="601" width="26" height="13" xlink:href="48/shade/71.png" />
+<image x="0" y="610" width="17" height="10" xlink:href="48/shade/72.png" />
+<image x="0" y="623" width="20" height="16" xlink:href="48/shade/73.png" />
+<image x="0" y="639" width="35" height="32" xlink:href="48/shade/74.png" />
+<image x="271" y="570" width="42" height="26" xlink:href="48/shade/75.png" />
+<image x="243" y="579" width="66" height="18" xlink:href="48/shade/76.png" />
+<image x="252" y="567" width="43" height="22" xlink:href="48/shade/77.png" />
+<image x="251" y="573" width="37" height="15" xlink:href="48/shade/78.png" />
+<image x="249" y="587" width="59" height="14" xlink:href="48/shade/79.png" />
+<image x="253" y="594" width="58" height="7" xlink:href="48/shade/80.png" />
+<image x="243" y="599" width="61" height="7" xlink:href="48/shade/81.png" />
+<image x="249" y="602" width="45" height="9" xlink:href="48/shade/82.png" />
+<image x="246" y="606" width="58" height="16" xlink:href="48/shade/83.png" />
+<image x="234" y="607" width="74" height="35" xlink:href="48/shade/84.png" />
+<image x="263" y="606" width="51" height="39" xlink:href="48/shade/85.png" />
+<image x="260" y="606" width="57" height="54" xlink:href="48/shade/86.png" />
+<image x="275" y="611" width="41" height="47" xlink:href="48/shade/87.png" />
+<image x="328" y="565" width="28" height="26" xlink:href="48/shade/88.png" />
+<image preserveAspectRatio="none" x="351" y="539" width="32" height="27" xlink:href="48/img/8.png" />
+<path d="M354.1,565.6l-2.8,0c-0.2,0.2,-0.3,0.3,-0.4,0.4l2.8,0c0.1,-0.1,0.3,-0.2,0.4,-0.4Z" class="g5_48" />
+<image x="333" y="565" width="36" height="24" xlink:href="48/shade/89.png" />
+<image preserveAspectRatio="none" x="363" y="561" width="14" height="5" xlink:href="48/img/9.png" />
+<path d="M368.8,565.6l-5.4,0c-0.2,0.1,-0.5,0.3,-0.8,0.4l5.1,0c0.3,-0.1,0.7,-0.3,1.1,-0.4Z" class="g5_48" />
+<image x="345" y="565" width="35" height="20" xlink:href="48/shade/90.png" />
+<image preserveAspectRatio="none" x="376" y="563" width="6" height="3" xlink:href="48/img/10.png" />
+<path d="M379.9,565.6l-3.5,0c-0.3,0.1,-0.6,0.3,-0.9,0.4l3.7,0c0.3,-0.1,0.5,-0.3,0.7,-0.4Z" class="g5_48" />
+<image x="328" y="582" width="19" height="13" xlink:href="48/shade/91.png" />
+<image x="331" y="574" width="45" height="22" xlink:href="48/shade/92.png" />
+<image x="334" y="585" width="67" height="11" xlink:href="48/shade/93.png" />
+<image x="349" y="572" width="45" height="18" xlink:href="48/shade/94.png" />
+<image x="357" y="579" width="39" height="11" xlink:href="48/shade/95.png" />
+<image x="293" y="565" width="23" height="26" xlink:href="48/shade/96.png" />
+<image preserveAspectRatio="none" x="266" y="535" width="31" height="31" xlink:href="48/img/11.png" />
+<path d="M296.7,565.6l-2.5,0c0.1,0.1,0.3,0.3,0.4,0.4l2.4,0c-0.1,-0.1,-0.2,-0.2,-0.3,-0.4Z" class="g5_48" />
+<image x="284" y="565" width="29" height="25" xlink:href="48/shade/97.png" />
+<image preserveAspectRatio="none" x="269" y="557" width="18" height="9" xlink:href="48/img/12.png" />
+<path d="M287.4,565.6l-3.2,0c0.2,0.2,0.5,0.3,0.7,0.4l3,0c-0.2,-0.1,-0.4,-0.2,-0.5,-0.4Z" class="g5_48" />
+<image x="273" y="565" width="28" height="19" xlink:href="48/shade/98.png" />
+<image preserveAspectRatio="none" x="265" y="559" width="12" height="7" xlink:href="48/img/13.png" />
+<path d="M276.6,565.6l-3.3,0c0.2,0.2,0.4,0.3,0.6,0.4l3.3,0c-0.2,-0.1,-0.4,-0.2,-0.6,-0.4Z" class="g5_48" />
+<image x="297" y="581" width="19" height="15" xlink:href="48/shade/99.png" />
+<image x="301" y="565" width="18" height="27" xlink:href="48/shade/100.png" />
+<image preserveAspectRatio="none" x="286" y="542" width="19" height="24" xlink:href="48/img/14.png" />
+<path d="M304.5,565.6l-2.3,0c0.1,0.2,0.2,0.3,0.3,0.4l2.3,0c-0.1,-0.1,-0.2,-0.2,-0.3,-0.4Z" class="g5_48" />
+<image x="314" y="565" width="7" height="18" xlink:href="48/shade/101.png" />
+<image preserveAspectRatio="none" x="308" y="535" width="8" height="31" xlink:href="48/img/15.png" />
+<path d="M315.8,565.6l-0.9,0c0.1,0.2,0.1,0.3,0.1,0.4l0.8,0c0,-0.1,0,-0.2,0,-0.4Z" class="g5_48" />
+<image x="318" y="580" width="4" height="10" xlink:href="48/shade/102.png" />
+<image x="310" y="565" width="9" height="24" xlink:href="48/shade/103.png" />
+<image preserveAspectRatio="none" x="297" y="523" width="16" height="43" xlink:href="48/img/16.png" />
+<path d="M312.8,565.6l-1.4,0c0.1,0.2,0.1,0.3,0.2,0.4l1.3,0c0,-0.1,-0.1,-0.2,-0.1,-0.4Z" class="g5_48" />
+<image x="307" y="565" width="5" height="8" xlink:href="48/shade/104.png" />
+<image preserveAspectRatio="none" x="290" y="532" width="19" height="34" xlink:href="48/img/17.png" />
+<path d="M308.7,565.6l-1.1,0c0.1,0.2,0.2,0.3,0.3,0.4l0.9,0c0,-0.1,-0.1,-0.2,-0.1,-0.4Z" class="g5_48" />
+<image x="317" y="565" width="6" height="17" xlink:href="48/shade/105.png" />
+<image preserveAspectRatio="none" x="312" y="529" width="8" height="37" xlink:href="48/img/18.png" />
+<path d="M319.5,565.6l-1.3,0c0,0.2,0,0.3,0,0.4l1.3,0c0,-0.1,0,-0.2,0,-0.4Z" class="g5_48" />
+<image x="320" y="565" width="4" height="22" xlink:href="48/shade/106.png" />
+<image preserveAspectRatio="none" x="320" y="524" width="4" height="42" xlink:href="48/img/19.png" />
+<path d="M321.8,565.6l-0.8,0c0,0.2,0,0.3,0,0.4l0.8,0c0,-0.1,0,-0.2,0,-0.4Z" class="g5_48" />
+<image x="320" y="583" width="4" height="10" xlink:href="48/shade/107.png" />
+<image x="325" y="565" width="21" height="26" xlink:href="48/shade/108.png" />
+<image preserveAspectRatio="none" x="342" y="545" width="20" height="21" xlink:href="48/img/20.png" />
+<path d="M345,565.6l-2.4,0c-0.1,0.2,-0.3,0.3,-0.4,0.4l2.5,0c0.1,-0.1,0.2,-0.2,0.3,-0.4Z" class="g5_48" />
+<image x="325" y="565" width="9" height="19" xlink:href="48/shade/109.png" />
+<image preserveAspectRatio="none" x="330" y="535" width="11" height="31" xlink:href="48/img/21.png" />
+<path d="M331.4,565.6l-0.8,0c0,0.2,-0.1,0.3,-0.1,0.4l0.8,0c0,-0.1,0.1,-0.2,0.1,-0.4Z" class="g5_48" />
+<image x="323" y="580" width="5" height="9" xlink:href="48/shade/110.png" />
+<image x="325" y="565" width="11" height="23" xlink:href="48/shade/111.png" />
+<image preserveAspectRatio="none" x="333" y="525" width="20" height="41" xlink:href="48/img/22.png" />
+<path d="M335.1,565.6l-1.5,0c0,0.2,-0.1,0.3,-0.1,0.4l1.4,0c0,-0.1,0.1,-0.2,0.2,-0.4Z" class="g5_48" />
+<image x="334" y="565" width="7" height="8" xlink:href="48/shade/112.png" />
+<image preserveAspectRatio="none" x="338" y="534" width="22" height="32" xlink:href="48/img/23.png" />
+<path d="M339.2,565.6l-1.2,0c-0.1,0.2,-0.1,0.3,-0.2,0.4l1.1,0c0.1,-0.1,0.2,-0.2,0.3,-0.4Z" class="g5_48" />
+<image x="323" y="565" width="7" height="18" xlink:href="48/shade/113.png" />
+<image preserveAspectRatio="none" x="327" y="529" width="10" height="37" xlink:href="48/img/24.png" />
+<path d="M328.1,565.6l-1.3,0c0,0.2,-0.1,0.3,-0.1,0.4l1.3,0c0.1,-0.1,0.1,-0.2,0.1,-0.4Z" class="g5_48" />
+<image x="322" y="565" width="4" height="20" xlink:href="48/shade/114.png" />
+<image preserveAspectRatio="none" x="324" y="523" width="6" height="43" xlink:href="48/img/25.png" />
+<path d="M325.4,565.6l-0.8,0c0,0.2,0,0.3,0,0.4l0.7,0c0,-0.1,0,-0.2,0.1,-0.4Z" class="g5_48" />
+<image x="321" y="582" width="4" height="9" xlink:href="48/shade/115.png" />
+<image x="288" y="605" width="34" height="50" xlink:href="48/shade/116.png" />
+<image x="310" y="607" width="14" height="57" xlink:href="48/shade/117.png" />
+<image x="300" y="608" width="22" height="66" xlink:href="48/shade/118.png" />
+<image x="293" y="624" width="23" height="42" xlink:href="48/shade/119.png" />
+<image x="315" y="614" width="10" height="55" xlink:href="48/shade/120.png" />
+<image x="322" y="605" width="4" height="70" xlink:href="48/shade/121.png" />
+<image x="325" y="607" width="19" height="55" xlink:href="48/shade/122.png" />
+<image x="328" y="608" width="28" height="64" xlink:href="48/shade/123.png" />
+<image x="336" y="624" width="26" height="40" xlink:href="48/shade/124.png" />
+<image x="325" y="614" width="14" height="54" xlink:href="48/shade/125.png" />
+<image x="324" y="605" width="9" height="68" xlink:href="48/shade/126.png" />
+<image x="335" y="592" width="61" height="9" xlink:href="48/shade/127.png" />
+<image x="333" y="599" width="57" height="6" xlink:href="48/shade/128.png" />
+<image x="339" y="601" width="60" height="12" xlink:href="48/shade/129.png" />
+<image x="349" y="604" width="45" height="14" xlink:href="48/shade/130.png" />
+<image x="351" y="608" width="45" height="21" xlink:href="48/shade/131.png" />
+<image x="334" y="605" width="70" height="46" xlink:href="48/shade/132.png" />
+<image x="329" y="606" width="48" height="43" xlink:href="48/shade/133.png" />
+<image x="325" y="606" width="52" height="59" xlink:href="48/shade/134.png" />
+<image x="332" y="616" width="38" height="51" xlink:href="48/shade/135.png" />
+<text 
+x="883" 
+y="1176" 
+dx="0,0.4,0" 
+class="s8_48"
+>25 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_chd;
+	src: url("fonts/LibreFranklin-SemiBold_chd.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: ZapfDingbatsITC_ckl;
+	src: url("fonts/ZapfDingbatsITC_ckl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: Athelas-Bold_cl1;
+	src: url("fonts/Athelas-Bold_cl1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cey;
+	src: url("fonts/LibreFranklin-Medium_cey.woff") format("woff");
+}
+
+@font-face {
+	font-family: Athelas-Regular_ckh;
+	src: url("fonts/Athelas-Regular_ckh.woff") format("woff");
+}
+
+@font-face {
+	font-family: AvenirNextCondensed-DemiB_cks;
+	src: url("fonts/AvenirNextCondensed-DemiB_cks.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 185 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_185{
+fill: #D4EFFB;
+}
+.g2_185{
+fill: #00AEEF;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_185{
+fill: none;
+stroke: #9855A2;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_185{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_185{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_185{
+font-size: 10.69px;
+font-family: LibreFranklin-SemiBold_44e;
+fill: #FFFFFF;
+}
+.s2_185{
+font-size: 15.28px;
+font-family: LibreFranklin-Bold_43z;
+fill: #3F3F40;
+}
+.s3_185{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_444;
+fill: #9855A2;
+}
+.s4_185{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #3F3F40;
+}
+.s5_185{
+font-size: 15.28px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #3F3F40;
+}
+.s6_185{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_44a;
+fill: #3F3F40;
+}
+.s7_185{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_444;
+fill: #9855A2;
+}
+.s8_185{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_43z;
+fill: #9855A2;
+}
+.s9_185{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_3mi;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M20,1209.2l900.5,0l0,-1222.1L20,-12.9l0,1222.1Z" class="g1_185" />
+<path d="M918.2,1209.2l900.5,0l0,-1222.1l-900.5,0l0,1222.1Z" class="g1_185" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g2_185" />
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1173)"
+dx="0,0.6,0.6,0.6" 
+class="s1_185"
+>164 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1134)"
+dx="0,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6" 
+class="s1_185"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1006)"
+dx="0,0.6" 
+class="s1_185"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 994)"
+dx="0,-0.6,0.4,0.3,0.6,0.6,0.6,0.6" 
+class="s1_185"
+>Textbook</text>
+
+<path d="M106.4,311.1l15.7,0" class="g3_185" />
+<text 
+x="149" 
+y="68" 
+dx="0,0" 
+class="s2_185"
+>C </text>
+
+<text 
+x="197" 
+y="71" 
+dx="0,-0.9,0,0,0,0,-0.5,0,0" 
+class="s3_185"
+>Wang Peng</text>
+
+<text 
+x="375" 
+y="71" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_185"
+>我的书还在你那儿吗？昨天你拿去看了。</text>
+
+<text 
+x="378" 
+y="98" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_185"
+>Wǒ de shū hái zài nǐ nàr ma? Zuótiān nǐ ná qù kàn le.</text>
+
+<text 
+x="378" 
+y="126" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-1.5,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,-0.2,0,0,-1" 
+class="s6_185"
+>Do you still have my book? You took it to read yesterday.</text>
+
+<text 
+x="197" 
+y="173" 
+dx="0,0,0,0,0,-1.3,0,0,0,0,0,0" 
+class="s3_185"
+>Gao Wenzhong</text>
+
+<text 
+x="375" 
+y="173" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_185"
+>哦，还在我家，我回去拿。</text>
+
+<text 
+x="378" 
+y="201" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_185"
+>Ò, hái zài wǒ jiā, wǒ huí qu ná.</text>
+
+<text 
+x="378" 
+y="228" 
+dx="0,-1.5,0,0,0,0,0,0,0.4,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.1,-0.1,0,0,0,0" 
+class="s6_185"
+>Yeah, it’s still at my place. I’ll go get it.</text>
+
+<text 
+x="108" 
+y="305" 
+dx="0,0" 
+class="s7_185"
+>2 </text>
+
+<text 
+x="326" 
+y="309" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,0,-0.4,0,0,0,0,0,0" 
+class="s8_185"
+>Complimentary expressions</text>
+
+<text 
+x="137" 
+y="378" 
+dx="0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s6_185"
+>Note the different expressions that are used to compliment men, women, and children.</text>
+
+<text 
+x="149" 
+y="430" 
+dx="0,0" 
+class="s2_185"
+>A </text>
+
+<text 
+x="197" 
+y="433" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_185"
+>那个小孩真可爱。</text>
+
+<text 
+x="198" 
+y="461" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_185"
+>Nà ge xiǎohái zhēn kě’ài.</text>
+
+<text 
+x="198" 
+y="488" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_185"
+>That little kid is really cute.</text>
+
+<text 
+x="149" 
+y="554" 
+dx="0,0" 
+class="s2_185"
+>B </text>
+
+<text 
+x="197" 
+y="557" 
+dx="0,0,0,0,0,0,0" 
+class="s9_185"
+>她长得真好看！</text>
+
+<text 
+x="198" 
+y="584" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_185"
+>Tā zhǎng de zhēn hǎokàn!</text>
+
+<text 
+x="198" 
+y="612" 
+dx="0,0,0,0,-0.9,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_185"
+>She’s really beautiful!</text>
+
+<text 
+x="149" 
+y="678" 
+dx="0,0" 
+class="s2_185"
+>C </text>
+
+<text 
+x="197" 
+y="681" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_185"
+>李友长得很漂亮。</text>
+
+<text 
+x="198" 
+y="708" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_185"
+>Lǐ Yǒu zhǎng de hěn piàoliang.</text>
+
+<text 
+x="198" 
+y="736" 
+dx="0,0,0,0,-1.5,0,0,0,0,0,0,-0.2,0,0,-0.4,0,0,0,0,0,-0.2,-0.1,0,0,-1" 
+class="s6_185"
+>Li You looks very pretty.</text>
+
+<text 
+x="149" 
+y="801" 
+dx="0,0" 
+class="s2_185"
+>D </text>
+
+<text 
+x="197" 
+y="804" 
+dx="0,0,0,0,0" 
+class="s4_185"
+>王朋真帅。</text>
+
+<text 
+x="198" 
+y="832" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_185"
+>Wáng Péng zhēn shuài.</text>
+
+<text 
+x="198" 
+y="859" 
+dx="0,-0.8,0,0,0,0,-0.8,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_185"
+>Wang Peng is really handsome.</text>
+
+<text 
+x="149" 
+y="925" 
+dx="0,0" 
+class="s2_185"
+>E </text>
+
+<text 
+x="197" 
+y="928" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s4_185"
+>那个班的学生都很酷。</text>
+
+<text 
+x="198" 
+y="956" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s5_185"
+>Nà ge bān de xuésheng dōu hěn kù.</text>
+
+<text 
+x="198" 
+y="983" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0" 
+class="s6_185"
+>The students in that class are all very cool.</text>
+
+<path d="M144,46.1c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g4_185" />
+<path d="M144,48.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_185" />
+<path d="M135.9,274.7l0,53.4l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.4l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g4_185" />
+<path d="M138,326.9l674.3,0l0,-51l-674.3,0l0,51Z" class="g5_185" />
+<path d="M144,408.4c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,0,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g4_185" />
+<path d="M144,410.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6L172,416c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_185" />
+<path d="M144,531.4c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g4_185" />
+<path d="M144,533.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6L172,539c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_185" />
+<path d="M144,655.9c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,0,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g4_185" />
+<path d="M144,657.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_185" />
+<path d="M144,779.6c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g4_185" />
+<path d="M144,781.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_185" />
+<path d="M144,903.4c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,0,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g4_185" />
+<path d="M144,905.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6L172,911c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g5_185" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Regular_44a;
+	src: url("fonts/LibreFranklin-Regular_44a.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3mi;
+	src: url("fonts/STKaiti-SC-Bold_3mi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_44e;
+	src: url("fonts/LibreFranklin-SemiBold_44e.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_444;
+	src: url("fonts/LibreFranklin-ExtraBold_444.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_43z;
+	src: url("fonts/LibreFranklin-Bold_43z.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

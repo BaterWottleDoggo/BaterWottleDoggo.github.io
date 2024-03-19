@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 209 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_209{
+fill: none;
+stroke: #EDF3F7;
+stroke-width: 91.666664;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_209{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_209{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_209{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_209{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_44v;
+fill: #3F3F40;
+}
+.s2_209{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #3F3F40;
+}
+.s3_209{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_44y;
+fill: #007D9F;
+}
+.s4_209{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s5_209{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #007D9F;
+}
+.s6_209{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_45b;
+fill: #3F3F40;
+}
+.s7_209{
+font-size: 17.57px;
+font-family: LibreFranklin-Medium_44i;
+fill: #231F20;
+}
+.s8_209{
+font-size: 22.92px;
+font-family: STKaitiSC-Regular_44y;
+fill: #231F20;
+}
+.s9_209{
+font-size: 17.19px;
+font-family: GentiumBookBasic-Italic_3mn;
+fill: #3F3F40;
+}
+.s10_209{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_454;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M134.4,481.7l679.9,0" class="g1_209" />
+<text 
+x="155" 
+y="75" 
+dx="0,0" 
+class="s1_209"
+>O </text>
+
+<text 
+x="226" 
+y="78" 
+dx="0,0,0" 
+class="s2_209"
+>请你买</text>
+
+<text 
+x="322" 
+y="78" 
+dx="0" 
+class="s3_209"
+>回</text>
+
+<text 
+x="354" 
+y="78" 
+dx="0,0,0" 
+class="s2_209"
+>一些梨</text>
+
+<text 
+x="450" 
+y="78" 
+dx="0" 
+class="s3_209"
+>来</text>
+
+<text 
+x="482" 
+y="78" 
+dx="0" 
+class="s2_209"
+>。</text>
+
+<text 
+x="232" 
+y="115" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_209"
+>Qǐng nǐ mǎi </text>
+
+<text 
+x="312" 
+y="115" 
+dx="0,0.3,0.3,0.3" 
+class="s5_209"
+>hui </text>
+
+<text 
+x="338" 
+y="115" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_209"
+>yì xiē lí </text>
+
+<text 
+x="390" 
+y="115" 
+dx="0,0.3,0.3" 
+class="s5_209"
+>lai</text>
+
+<text 
+x="406" 
+y="115" 
+dx="0,0" 
+class="s4_209"
+>. </text>
+
+<text 
+x="232" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_209"
+>Please buy some pears and bring them back here. (anticipated action)</text>
+
+<text 
+x="155" 
+y="210" 
+dx="0,0" 
+class="s1_209"
+>P </text>
+
+<text 
+x="226" 
+y="213" 
+dx="0,0,0,0,0" 
+class="s2_209"
+>请大家都拿</text>
+
+<text 
+x="386" 
+y="213" 
+dx="0" 
+class="s3_209"
+>起</text>
+
+<text 
+x="418" 
+y="213" 
+dx="0" 
+class="s2_209"
+>笔</text>
+
+<text 
+x="450" 
+y="213" 
+dx="0" 
+class="s3_209"
+>来</text>
+
+<text 
+x="482" 
+y="213" 
+dx="0" 
+class="s2_209"
+>。</text>
+
+<text 
+x="232" 
+y="250" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_209"
+>Qǐng dàjiā dōu ná </text>
+
+<text 
+x="352" 
+y="250" 
+dx="0,0.3,0.3" 
+class="s5_209"
+>qi </text>
+
+<text 
+x="368" 
+y="250" 
+dx="0,0.3,0.3" 
+class="s4_209"
+>bǐ </text>
+
+<text 
+x="385" 
+y="250" 
+dx="0,0.3,0.3" 
+class="s5_209"
+>lai</text>
+
+<text 
+x="402" 
+y="250" 
+dx="0" 
+class="s4_209"
+>.</text>
+
+<text 
+x="232" 
+y="282" 
+dx="0,-1,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_209"
+>Everyone, please pick up a pen. (anticipated action)</text>
+
+<text 
+x="155" 
+y="346" 
+dx="0,0" 
+class="s1_209"
+>Q </text>
+
+<text 
+x="226" 
+y="348" 
+dx="0,0" 
+class="s2_209"
+>他拿</text>
+
+<text 
+x="290" 
+y="348" 
+dx="0" 
+class="s3_209"
+>出</text>
+
+<text 
+x="322" 
+y="348" 
+dx="0,0,0,0" 
+class="s2_209"
+>了一张纸</text>
+
+<text 
+x="450" 
+y="348" 
+dx="0" 
+class="s3_209"
+>来</text>
+
+<text 
+x="482" 
+y="348" 
+dx="0" 
+class="s2_209"
+>。</text>
+
+<text 
+x="232" 
+y="385" 
+dx="0,0.3,0.3,0.3,0.3,0.3" 
+class="s4_209"
+>Tā ná </text>
+
+<text 
+x="273" 
+y="385" 
+dx="0,0.3,0.3,0.3" 
+class="s5_209"
+>chu </text>
+
+<text 
+x="301" 
+y="385" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_209"
+>le yì zhāng zhǐ </text>
+
+<text 
+x="400" 
+y="385" 
+dx="0,0.3,0.3" 
+class="s5_209"
+>lai</text>
+
+<text 
+x="417" 
+y="385" 
+dx="0" 
+class="s4_209"
+>.</text>
+
+<text 
+x="232" 
+y="417" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-1.3,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_209"
+>He took out a piece of paper. (completed action)</text>
+
+<text 
+x="435" 
+y="458" 
+dx="0,-0.2,-0.2,-0.2,-0.4,-0.2,-0.2,-0.2,-0.2,0" 
+class="s7_209"
+>Pattern B </text>
+
+<text 
+x="227" 
+y="486" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s7_209"
+>Subject + verb + </text>
+
+<text 
+x="359" 
+y="486" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_209"
+>上/下/进/出/回/过/起</text>
+
+<text 
+x="592" 
+y="486" 
+dx="0,-0.2" 
+class="s7_209"
+>+ </text>
+
+<text 
+x="605" 
+y="486" 
+dx="0,0,0" 
+class="s8_209"
+>来/去</text>
+
+<text 
+x="666" 
+y="486" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2" 
+class="s7_209"
+>+ noun</text>
+
+<text 
+x="155" 
+y="574" 
+dx="0,0" 
+class="s1_209"
+>R </text>
+
+<text 
+x="226" 
+y="576" 
+dx="0,0" 
+class="s2_209"
+>他买</text>
+
+<text 
+x="290" 
+y="576" 
+dx="0,0" 
+class="s3_209"
+>回来</text>
+
+<text 
+x="354" 
+y="576" 
+dx="0,0,0,0,0,0" 
+class="s2_209"
+>了一些水果。</text>
+
+<text 
+x="232" 
+y="613" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_209"
+>Tā mǎi </text>
+
+<text 
+x="281" 
+y="613" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_209"
+>hui lai </text>
+
+<text 
+x="328" 
+y="613" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_209"
+>le yì xiē shuǐguǒ.</text>
+
+<text 
+x="232" 
+y="645" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s6_209"
+>He bought some fruit (and brought it back here). (completed action)</text>
+
+<text 
+x="155" 
+y="709" 
+dx="0,0" 
+class="s1_209"
+>S </text>
+
+<text 
+x="226" 
+y="711" 
+dx="0,0,0" 
+class="s2_209"
+>妹妹拿</text>
+
+<text 
+x="322" 
+y="711" 
+dx="0,0" 
+class="s3_209"
+>出来</text>
+
+<text 
+x="386" 
+y="711" 
+dx="0,0,0,0,0,0,0,0" 
+class="s2_209"
+>一件新买的衣服。</text>
+
+<text 
+x="232" 
+y="748" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_209"
+>Mèimei ná </text>
+
+<text 
+x="304" 
+y="748" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s5_209"
+>chu lai </text>
+
+<text 
+x="353" 
+y="748" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s4_209"
+>yí jiàn xīn mǎi de yīfu.</text>
+
+<text 
+x="232" 
+y="780" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_209"
+>My younger sister took out a jacket she just bought. </text>
+
+<text 
+x="143" 
+y="822" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_209"
+>As in the case of the simple directional compounds, when the object is a location word, the </text>
+
+<text 
+x="143" 
+y="849" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_209"
+>sentence appears only in Pattern A, as in (L), (M), and (N). If the object is a regular noun and </text>
+
+<text 
+x="143" 
+y="877" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_209"
+>the action is not completed, the sentence often appears in Pattern A as well, as in (O) and (P). </text>
+
+<text 
+x="143" 
+y="904" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_209"
+>If the action is completed, the sentence can appear either in Pattern A or in Pattern B as in </text>
+
+<text 
+x="143" 
+y="932" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0" 
+class="s6_209"
+>(Q), (R), and (S). Again, it is not a bad idea to memorize Pattern A as the failsafe form.</text>
+
+<path d="M150.6,52.4c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g2_209" />
+<path d="M150.6,54.5c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_209" />
+<path d="M150.6,187.6c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,0,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g2_209" />
+<path d="M150.6,189.6c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_209" />
+<path d="M150.6,322.7c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g2_209" />
+<path d="M150.6,324.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_209" />
+<text 
+x="358" 
+y="511" 
+dx="0,0,0,0,0,0,0,-1.7,-1.7,-1.7,0,0,0,-1.7,-1.7,-1,0,0,0,-1.4,-1.4,-1.4,0,0,0,-1.4,-1.4,-1.4,0,0,0,-1.7,-1.7,-1.7,0,0,0,-1.4,-1.4,-1.4,0,0,0" 
+class="s9_209"
+>(shang / xia / jin / chu / hui / guo / qi) </text>
+
+<text 
+x="610" 
+y="511" 
+dx="0,0,0,0,0,0,0,0" 
+class="s9_209"
+>(lai/qu)</text>
+
+<path d="M150.6,551c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g2_209" />
+<path d="M150.6,553.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_209" />
+<path d="M150.6,686.2c-0.1,0,-7.6,0,-7.6,7.6l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g2_209" />
+<path d="M150.6,688.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_209" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g4_209" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1,1" 
+class="s10_209"
+>188 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1130)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s10_209"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 990)"
+dx="0,1" 
+class="s10_209"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 976)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s10_209"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_44v;
+	src: url("fonts/LibreFranklin-ExtraBold_44v.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_45b;
+	src: url("fonts/LibreFranklin-Regular_45b.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_454;
+	src: url("fonts/LibreFranklin-SemiBold_454.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_44y;
+	src: url("fonts/STKaitiSC-Regular_44y.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBookBasic-Italic_3mn;
+	src: url("fonts/GentiumBookBasic-Italic_3mn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_44i;
+	src: url("fonts/LibreFranklin-Medium_44i.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

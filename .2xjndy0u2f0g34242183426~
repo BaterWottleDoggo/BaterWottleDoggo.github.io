@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 43 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_43{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_43{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_43{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_43{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_43{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_3pt;
+fill: #3F3F40;
+}
+.s2_43{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s3_43{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #749E3C;
+}
+.s4_43{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s5_43{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #749E3C;
+}
+.s6_43{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_3q9;
+fill: #3F3F40;
+}
+.s7_43{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_3pt;
+fill: #86B345;
+}
+.s8_43{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s9_43{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_3pa;
+fill: #7AAD35;
+}
+.s10_43{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s11_43{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_3pa;
+fill: #939598;
+}
+.s12_43{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBoldIta_3r1;
+fill: #67962C;
+}
+.s13_43{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_3qb;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M123.8,366.7l12.2,0" class="g1_43" />
+<text 
+x="174" 
+y="71" 
+dx="0,0" 
+class="s1_43"
+>2 </text>
+
+<text 
+x="244" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_43"
+>这件衬衫周末打五折，可以</text>
+
+<text 
+x="556" 
+y="73" 
+dx="0" 
+class="s3_43"
+>省</text>
+
+<text 
+x="582" 
+y="73" 
+dx="0,0,0" 
+class="s2_43"
+>三十块</text>
+
+<text 
+x="660" 
+y="73" 
+dx="0" 
+class="s3_43"
+>钱</text>
+
+<text 
+x="685" 
+y="73" 
+dx="0" 
+class="s2_43"
+>。</text>
+
+<text 
+x="244" 
+y="114" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_43"
+>這件襯衫週末打五折，可以</text>
+
+<text 
+x="556" 
+y="114" 
+dx="0" 
+class="s5_43"
+>省</text>
+
+<text 
+x="582" 
+y="114" 
+dx="0,0,0" 
+class="s4_43"
+>三十塊</text>
+
+<text 
+x="660" 
+y="114" 
+dx="0" 
+class="s5_43"
+>錢</text>
+
+<text 
+x="685" 
+y="114" 
+dx="0" 
+class="s4_43"
+>。</text>
+
+<text 
+x="250" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-1.5,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_43"
+>This shirt is half off this weekend. You can save thirty dollars.</text>
+
+<text 
+x="174" 
+y="206" 
+dx="0,0" 
+class="s1_43"
+>3 </text>
+
+<text 
+x="244" 
+y="208" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_43"
+>我去年住在中国，吃饭很便宜，</text>
+
+<text 
+x="608" 
+y="208" 
+dx="0" 
+class="s3_43"
+>省</text>
+
+<text 
+x="634" 
+y="208" 
+dx="0,0,0" 
+class="s2_43"
+>了很多</text>
+
+<text 
+x="711" 
+y="208" 
+dx="0" 
+class="s3_43"
+>钱</text>
+
+<text 
+x="737" 
+y="208" 
+dx="0" 
+class="s2_43"
+>。</text>
+
+<text 
+x="244" 
+y="249" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_43"
+>我去年住在中國，吃飯很便宜，</text>
+
+<text 
+x="608" 
+y="249" 
+dx="0" 
+class="s5_43"
+>省</text>
+
+<text 
+x="634" 
+y="249" 
+dx="0,0,0" 
+class="s4_43"
+>了很多</text>
+
+<text 
+x="711" 
+y="249" 
+dx="0" 
+class="s5_43"
+>錢</text>
+
+<text 
+x="737" 
+y="249" 
+dx="0" 
+class="s4_43"
+>。</text>
+
+<text 
+x="250" 
+y="283" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,-1" 
+class="s6_43"
+>I lived in China last year. Eating was very inexpensive. I saved a lot of money.</text>
+
+<text 
+x="123" 
+y="360" 
+dx="0,0" 
+class="s7_43"
+>E </text>
+
+<text 
+x="336" 
+y="365" 
+dx="0,0,0" 
+class="s8_43"
+>自由 </text>
+
+<text 
+x="398" 
+y="365" 
+dx="0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s9_43"
+>(free, unconstrained)</text>
+
+<text 
+x="161" 
+y="438" 
+dx="0,0" 
+class="s10_43"
+>自由</text>
+
+<text 
+x="212" 
+y="436" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_43"
+>can be used as a noun, as in (1); as an adjective, as in (2); or as an adverbial with the </text>
+
+<text 
+x="161" 
+y="464" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s6_43"
+>addition of </text>
+
+<text 
+x="237" 
+y="465" 
+dx="0" 
+class="s10_43"
+>地</text>
+
+<text 
+x="260" 
+y="464" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_43"
+>, as in (3).</text>
+
+<text 
+x="176" 
+y="520" 
+dx="0,0" 
+class="s1_43"
+>1 </text>
+
+<text 
+x="216" 
+y="522" 
+dx="0,0,0" 
+class="s11_43"
+>Q: </text>
+
+<text 
+x="242" 
+y="522" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_43"
+>在那个地方，你觉得人们有</text>
+
+<text 
+x="554" 
+y="522" 
+dx="0,0" 
+class="s3_43"
+>自由</text>
+
+<text 
+x="606" 
+y="522" 
+dx="0,0" 
+class="s2_43"
+>吗？</text>
+
+<text 
+x="244" 
+y="563" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_43"
+>在那個地方，你覺得人們有</text>
+
+<text 
+x="556" 
+y="563" 
+dx="0,0" 
+class="s5_43"
+>自由</text>
+
+<text 
+x="608" 
+y="563" 
+dx="0,0,0" 
+class="s4_43"
+>嗎？ </text>
+
+<text 
+x="250" 
+y="596" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s6_43"
+>In that place, do you think people have freedom? </text>
+
+<text 
+x="579" 
+y="596" 
+dx="0,0,0,0,0,0" 
+class="s12_43"
+>[noun]</text>
+
+<text 
+x="216" 
+y="644" 
+dx="0,0,0" 
+class="s11_43"
+>A: </text>
+
+<text 
+x="245" 
+y="644" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_43"
+>我在那儿住了半年，觉得很</text>
+
+<text 
+x="557" 
+y="644" 
+dx="0,0" 
+class="s3_43"
+>自由</text>
+
+<text 
+x="609" 
+y="644" 
+dx="0" 
+class="s2_43"
+>。</text>
+
+<text 
+x="244" 
+y="684" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_43"
+>我在那兒住了半年，覺得很</text>
+
+<text 
+x="556" 
+y="684" 
+dx="0,0" 
+class="s5_43"
+>自由</text>
+
+<text 
+x="608" 
+y="684" 
+dx="0" 
+class="s4_43"
+>。</text>
+
+<text 
+x="250" 
+y="718" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0" 
+class="s6_43"
+>I lived there for half a year. I found it very free. </text>
+
+<text 
+x="557" 
+y="718" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s12_43"
+>[adjective]</text>
+
+<text 
+x="174" 
+y="777" 
+dx="0,0" 
+class="s1_43"
+>2 </text>
+
+<text 
+x="244" 
+y="779" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_43"
+>我妹妹住在表姐家里，她觉得很不</text>
+
+<text 
+x="634" 
+y="779" 
+dx="0,0" 
+class="s3_43"
+>自由</text>
+
+<text 
+x="685" 
+y="779" 
+dx="0" 
+class="s2_43"
+>。</text>
+
+<text 
+x="244" 
+y="820" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_43"
+>我妹妹住在表姐家裡，她覺得很不</text>
+
+<text 
+x="634" 
+y="820" 
+dx="0,0" 
+class="s5_43"
+>自由</text>
+
+<text 
+x="685" 
+y="820" 
+dx="0" 
+class="s4_43"
+>。</text>
+
+<text 
+x="250" 
+y="853" 
+dx="0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s6_43"
+>My younger sister lives with my cousin. She finds it very restrictive. </text>
+
+<text 
+x="699" 
+y="853" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0" 
+class="s12_43"
+>[adjective]</text>
+
+<text 
+x="174" 
+y="912" 
+dx="0,0" 
+class="s1_43"
+>3 </text>
+
+<text 
+x="244" 
+y="914" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_43"
+>那个孩子快两岁了，可以在地上</text>
+
+<text 
+x="608" 
+y="914" 
+dx="0,0,0" 
+class="s3_43"
+>自由地</text>
+
+<text 
+x="685" 
+y="914" 
+dx="0,0,0,0,0" 
+class="s2_43"
+>走来走去。</text>
+
+<text 
+x="244" 
+y="955" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_43"
+>那個孩子快兩歲了，可以在地上</text>
+
+<text 
+x="608" 
+y="955" 
+dx="0,0,0" 
+class="s5_43"
+>自由地</text>
+
+<text 
+x="685" 
+y="955" 
+dx="0,0,0,0,0" 
+class="s4_43"
+>走來走去。</text>
+
+<text 
+x="250" 
+y="1000" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,-1,0" 
+class="s6_43"
+>That child is going to be two soon. He can walk around freely. </text>
+
+<text 
+x="659" 
+y="1000" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0" 
+class="s12_43"
+>[adjective + </text>
+
+<text 
+x="741" 
+y="1000" 
+dx="0" 
+class="s3_43"
+>地</text>
+
+<text 
+x="770" 
+y="1000" 
+dx="0,0" 
+class="s12_43"
+>= </text>
+
+<text 
+x="250" 
+y="1019" 
+dx="0,0,0,-0.4,0,0,0,0,0,0" 
+class="s12_43"
+>adverbial]</text>
+
+<path d="M169,48c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7C199,55.6,198.9,48,191.4,48L169,48Z" class="g2_43" />
+<path d="M169,50.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_43" />
+<path d="M169,183.2c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_43" />
+<path d="M169,185.3c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_43" />
+<path d="M151.2,330.2l0,53.5l0,0.7l0.8,0l676.9,0l0.7,0l0,-0.7l0,-53.5l0,-0.8l-0.7,0l-676.9,0l-0.8,0l0,0.8Z" class="g2_43" />
+<path d="M153.2,382.4l674.4,0l0,-50.9l-674.4,0l0,50.9Z" class="g3_43" />
+<path d="M169,497.2c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_43" />
+<path d="M169,499.2c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_43" />
+<path d="M169,753.9c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.6,7.7,7.6l22.4,0c0,0,7.6,0,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_43" />
+<path d="M169,755.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_43" />
+<path d="M169,889.1c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_43" />
+<path d="M169,891.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_43" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g4_43" />
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1173)"
+dx="0,1,1" 
+class="s13_43"
+>20 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 1136)"
+dx="0,1,1,0.8,1,1,0.9,1,0.8,1,1,1,1,1,1,1,1,1,1,1,1" 
+class="s13_43"
+>Integrated Chinese 3 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 996)"
+dx="0,1" 
+class="s13_43"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 31, 982)"
+dx="0,-0.2,0.7,0.7,1,1,1,1" 
+class="s13_43"
+>Textbook</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBoldIta_3r1;
+	src: url("fonts/LibreFranklin-SemiBoldIta_3r1.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_3qb;
+	src: url("fonts/LibreFranklin-SemiBold_3qb.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_3pa;
+	src: url("fonts/LibreFranklin-Bold_3pa.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_3pt;
+	src: url("fonts/LibreFranklin-ExtraBold_3pt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_3q9;
+	src: url("fonts/LibreFranklin-Regular_3q9.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

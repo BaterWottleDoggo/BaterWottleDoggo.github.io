@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 195 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_195{
+fill: #3986C6;
+}
+
+.s1_195{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_c-3;
+fill: #231F20;
+}
+.s2_195{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_c-5;
+fill: #231F20;
+}
+.s3_195{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_c-5;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_195"
+>Go Far with Chinese</text>
+
+<text 
+x="34" 
+y="1149" 
+dx="0,0,0" 
+class="s2_195"
+>172</text>
+
+<path d="M49.6,1128l1.7,0l0,-38.7l-1.7,0l0,38.7Z" class="g1_195" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g1_195" />
+<text 
+x="34" 
+y="1149" 
+dx="0,0,0" 
+class="s3_195"
+>172</text>
+
+<image preserveAspectRatio="none" x="8" y="0" width="431" height="326" xlink:href="195/img/1.png" />
+<image preserveAspectRatio="none" x="438" y="0" width="431" height="326" xlink:href="195/img/2.png" />
+<image preserveAspectRatio="none" x="868" y="0" width="54" height="1197" xlink:href="195/img/3.png" />
+<image preserveAspectRatio="none" x="8" y="325" width="431" height="328" xlink:href="195/img/4.png" />
+<image preserveAspectRatio="none" x="438" y="325" width="431" height="328" xlink:href="195/img/5.png" />
+<image preserveAspectRatio="none" x="8" y="652" width="431" height="327" xlink:href="195/img/6.png" />
+<image preserveAspectRatio="none" x="438" y="652" width="431" height="327" xlink:href="195/img/7.png" />
+<image preserveAspectRatio="none" x="8" y="979" width="646" height="218" xlink:href="195/img/8.png" />
+<image preserveAspectRatio="none" x="653" y="979" width="216" height="218" xlink:href="195/img/9.png" />
+<image preserveAspectRatio="none" x="45" y="967" width="10" height="117" xlink:href="195/img/10.png" />
+<image preserveAspectRatio="none" x="45" y="967" width="10" height="117" xlink:href="195/img/11.png" />
+<image preserveAspectRatio="none" x="49" y="1089" width="3" height="37" xlink:href="195/img/12.png" />
+<image preserveAspectRatio="none" x="48" y="1125" width="5" height="6" xlink:href="195/img/13.png" />
+<image preserveAspectRatio="none" x="34" y="1137" width="29" height="13" xlink:href="195/img/14.png" />
+<image preserveAspectRatio="none" x="34" y="1137" width="29" height="13" xlink:href="195/img/15.png" />
+<image preserveAspectRatio="none" x="34" y="1137" width="29" height="13" xlink:href="195/img/16.png" />
+<image preserveAspectRatio="none" x="34" y="1137" width="29" height="13" xlink:href="195/img/17.png" />
+<image preserveAspectRatio="none" x="908" y="0" width="14" height="880" xlink:href="195/img/18.png" />
+<text 
+x="34" 
+y="1149" 
+dx="0,0,0" 
+class="s3_195"
+>172</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Bold_c-5;
+	src: url("fonts/ProximaNova-Bold_c-5.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_c-3;
+	src: url("fonts/ProximaNova-Semibold_c-3.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

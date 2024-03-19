@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 264 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_264{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_264{
+fill: #3986C6;
+}
+.g3_264{
+fill: #E2E3E5;
+}
+.g4_264{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_264{
+fill: #ACBF3B;
+}
+
+.s1_264{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s2_264{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_d64;
+fill: #231F20;
+}
+.s3_264{
+font-size: 22.92px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #231F20;
+}
+.s4_264{
+font-size: 19.10px;
+font-family: Alegreya-Regular_d61;
+fill: #231F20;
+}
+.s5_264{
+font-size: 16.81px;
+font-family: ProximaNovaCond-Extrabld_d6i;
+fill: #231F20;
+}
+.s6_264{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d66;
+fill: #231F20;
+}
+.s7_264{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s8_264{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_d5-;
+fill: #3986C6;
+}
+.s9_264{
+font-size: 19.10px;
+font-family: Alegreya-Bold_d66;
+fill: #3986C6;
+}
+.s10_264{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d5-;
+fill: #FFFFFF;
+}
+.s11_264{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_d5-;
+fill: #231F20;
+}
+.s12_264{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_d62;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="857" 
+y="1149" 
+dx="0,0,0" 
+class="s1_264"
+>241</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_264" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_264" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 822)"
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_264"
+>Chapter 10 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 892)"
+dx="0,0" 
+class="s2_264"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 903)"
+dx="0,-1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_264"
+>Too Many Classes! </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1017)"
+dx="0,0" 
+class="s2_264"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1028)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_264"
+>Section 2</text>
+
+<text 
+x="118" 
+y="98" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_264"
+>Expressing that something is about to happen with </text>
+
+<text 
+x="543" 
+y="97" 
+dx="0" 
+class="s3_264"
+>要</text>
+
+<text 
+x="565" 
+y="97" 
+dx="0,0,0,0,0" 
+class="s1_264"
+>. . .</text>
+
+<text 
+x="585" 
+y="97" 
+dx="0" 
+class="s3_264"
+>了</text>
+
+<text 
+x="117" 
+y="137" 
+dx="0,-0.2,0,0,0,-0.3,0,-0.2,0" 
+class="s4_264"
+>The word </text>
+
+<text 
+x="193" 
+y="136" 
+dx="0" 
+class="s3_264"
+>要</text>
+
+<text 
+x="220" 
+y="137" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s4_264"
+>(to be going to) can be paired with </text>
+
+<text 
+x="486" 
+y="136" 
+dx="0" 
+class="s3_264"
+>了</text>
+
+<text 
+x="513" 
+y="137" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_264"
+>to talk about something that is about </text>
+
+<text 
+x="117" 
+y="161" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s4_264"
+>to happen. </text>
+
+<path d="M89.2,103.2l20.6,0l0,-20.6l-20.6,0l0,20.6Z" class="g3_264" />
+<text 
+x="94" 
+y="99" 
+dx="0" 
+class="s5_264"
+>4</text>
+
+<text 
+x="116" 
+y="214" 
+dx="0,0" 
+class="s6_264"
+>1 </text>
+
+<text 
+x="136" 
+y="217" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_264"
+>她要去打网球了。 </text>
+
+<text 
+x="525" 
+y="214" 
+dx="0,-0.2,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.4" 
+class="s4_264"
+>She’s about to go play tennis.</text>
+
+<text 
+x="116" 
+y="264" 
+dx="0" 
+class="s6_264"
+>2</text>
+
+<text 
+x="134" 
+y="267" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s7_264"
+>他们要去看电影了。 </text>
+
+<text 
+x="525" 
+y="264" 
+dx="0,-0.2,0,0,1.1,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.6" 
+class="s4_264"
+>They’re about to go see a movie.</text>
+
+<text 
+x="115" 
+y="315" 
+dx="0,0" 
+class="s6_264"
+>3 </text>
+
+<text 
+x="134" 
+y="317" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s7_264"
+>我现在要做菜了。 </text>
+
+<text 
+x="525" 
+y="314" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,-0.3,-1.3" 
+class="s4_264"
+>I’m going to cook now.</text>
+
+<text 
+x="89" 
+y="441" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s8_264"
+>Activity 1</text>
+
+<text 
+x="173" 
+y="441" 
+dx="0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,-0.4" 
+class="s4_264"
+>Write a sentence in Chinese describing something that someone is about to do. </text>
+
+<text 
+x="89" 
+y="467" 
+dx="0,-0.2,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,-0.3,0,0,0,0,0,0,0,0,-0.2,-0.4,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.2,0,0,-0.6,-0.4,0,-0.4,0,-0.3,0" 
+class="s4_264"
+>Then, turn the paper over and draw a picture to illustrate the sentence that you wrote. Give </text>
+
+<text 
+x="89" 
+y="493" 
+dx="0,-0.3,0,0,0,0,0,-0.2,-0.4,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-1.5,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.4,0,-0.8,0,0,0" 
+class="s4_264"
+>your drawing to your teacher, who will hang all the pictures around the classroom. With </text>
+
+<text 
+x="90" 
+y="518" 
+dx="0,0,0,0,0,0,0,0,0,-1.5,-0.4,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_264"
+>a partner, look at your classmates’ pictures and discuss what you think the person in each </text>
+
+<text 
+x="89" 
+y="544" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.8,-0.4,0,-1,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4" 
+class="s4_264"
+>picture is about to do. Take notes and prepare to discuss your ideas with the class. </text>
+
+<text 
+x="89" 
+y="596" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s8_264"
+>Activity 2</text>
+
+<text 
+x="176" 
+y="596" 
+dx="0,-0.2,0,0,0,0,0,0,-0.2,0,0,-0.4,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0.3,0" 
+class="s4_264"
+>In general, would the students in your class rather learn about science or history?</text>
+
+<text 
+x="90" 
+y="629" 
+dx="0,0,0,0,0,0,0" 
+class="s9_264"
+>Step 1:</text>
+
+<text 
+x="144" 
+y="629" 
+dx="0,-0.2,0,0,0,-0.2,0,0,0,-0.4,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0.3,-1.3,-0.4,0,0,0,0,0,0,0,0,0,0" 
+class="s4_264"
+>In groups, use Chinese to discuss your opinions about science and history. Ask which </text>
+
+<text 
+x="145" 
+y="655" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s4_264"
+>subject is more interesting, more important, and more difficult. </text>
+
+<text 
+x="144" 
+y="695" 
+dx="0,0,-0.4,0,0,0,0,0" 
+class="s4_264"
+>Example:</text>
+
+<text 
+x="224" 
+y="698" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_264"
+>你觉得科学比历史重要吗？为什么？</text>
+
+<text 
+x="90" 
+y="746" 
+dx="0,0,0,0,0,0,0" 
+class="s9_264"
+>Step 2:</text>
+
+<text 
+x="146" 
+y="746" 
+dx="0,0,0,0,0,0,0,0,-0.3,0,0.3,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,-0.4,0,0,-0.4,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_264"
+>After everyone in the group has given their opinions, have one student tell the teacher </text>
+
+<text 
+x="147" 
+y="772" 
+dx="0,-0.3,-0.6,-0.3,-0.3,-0.3,-0.3,-0.7,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.6,-0.6,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.7,-0.3,-0.7,-0.3,-0.3,-0.6,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.6,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3" 
+class="s4_264"
+>how many students have each opinion. Is your class full of history buffs or science nerds?</text>
+
+<path d="M108.3,400.1C98.2,400.1,90,391.9,90,381.8l0,-20.2l23.1,0c10.1,0,18.3,8.2,18.3,18.3l0,20.2Z" class="g2_264" />
+<path d="M95.7,362.3l434.9,0" class="g4_264" />
+<path d="M109.4,399.8l421.2,0" class="g4_264" />
+<text 
+x="94" 
+y="388" 
+dx="0,0,0" 
+class="s10_264"
+>2d </text>
+
+<text 
+x="136" 
+y="388" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0" 
+class="s11_264"
+>Using the Language </text>
+
+<path d="M397.1,391.5c-6,0,-10.8,-4.8,-10.8,-10.8l0,-10.9l131.2,0c5.9,0,10.8,4.9,10.8,10.9l0,10.8Z" class="g5_264" />
+<text 
+x="403" 
+y="384" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_264"
+>i´T²rP²r±³´µ¶</text>
+
+<image preserveAspectRatio="none" x="151" y="853" width="318" height="212" xlink:href="264/img/1.png" />
+<image preserveAspectRatio="none" x="488" y="852" width="324" height="215" xlink:href="264/img/2.png" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Bold_d5-;
+	src: url("fonts/ProximaNova-Bold_d5-.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_d64;
+	src: url("fonts/ProximaNova-Semibold_d64.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_d62;
+	src: url("fonts/ProximaNova-Extrabld_d62.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNovaCond-Extrabld_d6i;
+	src: url("fonts/ProximaNovaCond-Extrabld_d6i.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_d61;
+	src: url("fonts/Alegreya-Regular_d61.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_d66;
+	src: url("fonts/Alegreya-Bold_d66.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

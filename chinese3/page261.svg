@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 282 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_282"><path d="M158.1,601.9l0,-14.5l90.9,0l0,14.5Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_282{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.6248611;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_282{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.8730555;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_282{
+fill: none;
+stroke: #872B91;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_282{
+fill: none;
+stroke: #872B91;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_282{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_282{
+fill: none;
+stroke: #872B91;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_282{
+fill: #872B91;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_282{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_4bw;
+fill: #872B91;
+}
+.s2_282{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_4bw;
+fill: #872B91;
+}
+.s3_282{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_4bt;
+fill: #872B91;
+}
+.s4_282{
+font-size: 15.28px;
+font-family: LibreFranklin-Regular_4cd;
+fill: #3F3F40;
+}
+.s5_282{
+font-size: 32.08px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #3F3F40;
+}
+.s6_282{
+font-size: 17.19px;
+font-family: GentiumBasic-Italic_3ou;
+fill: #3F3F40;
+}
+.s7_282{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_4bw;
+fill: #872B91;
+}
+.s8_282{
+font-size: 24.44px;
+font-family: STKaiti-SC-Regular_3nm;
+fill: #872B91;
+}
+.s9_282{
+font-size: 9.55px;
+font-family: LibreFranklin-Medium_4bz;
+fill: #872B91;
+}
+.s10_282{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_4c4;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0.8,97.1l360.5,0" class="g1_282" />
+<path d="M0.8,99.6l360.5,0" class="g2_282" />
+<path d="M119.1,181.1l12.9,0" class="g3_282" />
+<path d="M119.1,601.2l12.9,0" class="g3_282" />
+<text 
+x="62" 
+y="85" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,-0.5,0.3,0.3,0.3,0,0.3,0.3,0.3,0.3,0.3" 
+class="s1_282"
+>Language Practice</text>
+
+<text 
+x="119" 
+y="177" 
+dx="0,0" 
+class="s2_282"
+>A </text>
+
+<text 
+x="402" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_282"
+>Planning ahead</text>
+
+<text 
+x="157" 
+y="244" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_282"
+>In pairs, form a question-and-answer about each other’s plans for a particular time, e.g.:</text>
+
+<text 
+x="157" 
+y="296" 
+dx="0,-0.2,0,0,0,0,0" 
+class="s4_282"
+>tonight</text>
+
+<text 
+x="157" 
+y="335" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_282"
+>你今天晚上打算做什么？</text>
+
+<text 
+x="157" 
+y="371" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_282"
+>Nǐ jīntiān wǎnshang dǎsuàn zuò shénme?</text>
+
+<text 
+x="168" 
+y="423" 
+dx="0,0.2" 
+class="s7_282"
+>1 </text>
+
+<text 
+x="197" 
+y="423" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s4_282"
+>the coming weekend</text>
+
+<text 
+x="168" 
+y="455" 
+dx="0,0.2" 
+class="s7_282"
+>2 </text>
+
+<text 
+x="197" 
+y="455" 
+dx="0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_282"
+>summer break</text>
+
+<text 
+x="168" 
+y="487" 
+dx="0,0.2" 
+class="s7_282"
+>3 </text>
+
+<text 
+x="197" 
+y="487" 
+dx="0,0,-0.3,-0.2,0,0,0,0,0,0,0,-0.2,0" 
+class="s4_282"
+>next semester</text>
+
+<text 
+x="168" 
+y="519" 
+dx="0,0.2" 
+class="s7_282"
+>4 </text>
+
+<text 
+x="197" 
+y="519" 
+dx="0,0,-0.3,-0.2,0,0,0,0,0" 
+class="s4_282"
+>next year</text>
+
+<text 
+x="119" 
+y="597" 
+dx="0,0" 
+class="s2_282"
+>B </text>
+
+<text 
+x="420" 
+y="602" 
+dx="0,0,0,0,-0.7,0,0,0,0,0,0" 
+class="s3_282"
+>Survey says</text>
+
+<text 
+x="157" 
+y="664" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_282"
+>Interview your classmates to find out more about their opinions and experiences. Then </text>
+
+<text 
+x="157" 
+y="691" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_282"
+>report the results of your survey to the class by using “</text>
+
+<text 
+x="540" 
+y="693" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s8_282"
+>我的同学有的人……，</text>
+
+<text 
+x="157" 
+y="720" 
+dx="0,0,0,0,0" 
+class="s8_282"
+>有的人……</text>
+
+<text 
+x="279" 
+y="719" 
+dx="0,0" 
+class="s4_282"
+>” </text>
+
+<text 
+x="288" 
+y="719" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_282"
+>(Wǒ de tóngxué yǒude rén . . . , yǒude rén . . . )</text>
+
+<text 
+x="590" 
+y="719" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_282"
+>. Each student should choose </text>
+
+<text 
+x="157" 
+y="746" 
+dx="0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_282"
+>a different topic to inquire about. Possible topics include: your classmates’ thoughts on </text>
+
+<text 
+x="157" 
+y="774" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_282"
+>Chinese pronunciation, Chinese grammar, or Chinese characters; their allergies, living </text>
+
+<text 
+x="157" 
+y="801" 
+dx="0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_282"
+>arrangements, or travel plans; or their favorite cuisines, fruits, colors, sports, or </text>
+
+<text 
+x="157" 
+y="829" 
+dx="0,0,0,-0.5,0,0,0,-0.1,0,0,0,0,0,0,0,0" 
+class="s4_282"
+>beverages, e.g.:</text>
+
+<text 
+x="157" 
+y="874" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_282"
+>我的同学有的人喜欢喝可乐，有的人 </text>
+
+<text 
+x="157" 
+y="913" 
+dx="0,0,0,0,0,0" 
+class="s5_282"
+>喜欢喝咖啡。</text>
+
+<text 
+x="157" 
+y="949" 
+dx="0,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3" 
+class="s6_282"
+>Wǒ de tóngxué yǒude rén xǐhuan hē kělè, yǒude rén xǐhuan hē kāfēi.</text>
+
+<path d="M146.6,146.9l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g4_282" />
+<path d="M148.7,199.1l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g5_282" />
+<text 
+x="724" 
+y="178" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_282"
+>INTERPERSONAL</text>
+
+<path d="M719.9,181.8l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g6_282" />
+<path d="M146.6,567.1l0,53.4l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.4l0,-0.8l-0.8,0l-676.9,0l-0.8,0l0,0.8Z" class="g4_282" />
+<path d="M148.7,619.3l674.3,0l0,-51l-674.3,0l0,51Z" class="g5_282" />
+<text 
+x="721" 
+y="598" 
+dx="0,0,0,0,0,0,0,-1,-1,0,0,0,0,0" 
+class="s9_282"
+>PRESENTATIONAL</text>
+
+<path d="M719.9,601.9l90.9,0l0,-14.4l-90.9,0l0,14.4Z" class="g6_282" />
+<text 
+x="162" 
+y="598" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_282"
+>INTERPERSONAL</text>
+
+<g clip-path="url(#c0_282)">
+<path d="M158.1,601.9l90.9,0l0,-14.5l-90.9,0l0,14.5Z" class="g6_282" />
+</g>
+<path d="M881.9,1209.2l67.2,0l0,-1222.1l-67.2,0l0,1222.1Z" class="g7_282" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 867)"
+dx="0,1,1,1,1,1,1,1,1,1" 
+class="s10_282"
+>Lesson 19 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 939)"
+dx="0,1" 
+class="s10_282"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 953)"
+dx="0,0,0.9,1,0.7,1,1" 
+class="s10_282"
+>Travel </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1001)"
+dx="0,1" 
+class="s10_282"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1015)"
+dx="0,1,1,1,1,1,1,0.8,1,1,1,0.9,1,1,1,1,1,1" 
+class="s10_282"
+>Language Practice </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1151)"
+dx="0,1,1,-2.3" 
+class="s10_282"
+>261 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3nm;
+	src: url("fonts/STKaiti-SC-Regular_3nm.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_4bt;
+	src: url("fonts/LibreFranklin-Bold_4bt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_4cd;
+	src: url("fonts/LibreFranklin-Regular_4cd.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_4bw;
+	src: url("fonts/LibreFranklin-ExtraBold_4bw.woff") format("woff");
+}
+
+@font-face {
+	font-family: GentiumBasic-Italic_3ou;
+	src: url("fonts/GentiumBasic-Italic_3ou.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_4bz;
+	src: url("fonts/LibreFranklin-Medium_4bz.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_4c4;
+	src: url("fonts/LibreFranklin-SemiBold_4c4.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

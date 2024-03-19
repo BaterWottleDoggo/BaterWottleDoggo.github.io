@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 415 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_415{
+fill: #A8A9AD;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_415{
+fill: none;
+stroke: #BDBEC1;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_415{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_415{
+fill: none;
+stroke: #DC262E;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_415{
+fill: #FFFFFF;
+}
+.g6_415{
+fill: none;
+stroke: #57585A;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_415{
+fill: none;
+stroke: #57585A;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_415{
+font-size: 10.69px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #FFFFFF;
+}
+.s2_415{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #77787B;
+}
+.s3_415{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #3F3F40;
+}
+.s4_415{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #007598;
+}
+.s5_415{
+font-size: 9.80px;
+font-family: ProximaNova-Extrabld_4hk;
+fill: #007598;
+}
+.s6_415{
+font-size: 22.92px;
+font-family: STKaitiTC-Regular_4h8;
+fill: #DC262E;
+}
+.s7_415{
+font-size: 9.80px;
+font-family: ProximaNova-Extrabld_4hk;
+fill: #DC262E;
+}
+.s8_415{
+font-size: 14.51px;
+font-family: LibreFranklin-Light_4ho;
+fill: #77787B;
+}
+.s9_415{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_4gw;
+fill: #77787B;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M-17.5,1209.2l58,0l0,-1222.1l-58,0l0,1222.1Z" class="g1_415" />
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1173)"
+dx="0,0.6,0.6,0.6" 
+class="s1_415"
+>394 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1132)"
+dx="0,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.5,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6" 
+class="s1_415"
+>Integrated Chinese 2 </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 1004)"
+dx="0,0.6" 
+class="s1_415"
+>| </text>
+
+<text 
+transform="matrix(0, -1, 1, 0, 32, 992)"
+dx="0,-0.6,0.4,0.3,0.6,0.6,0.6,0.6" 
+class="s1_415"
+>Textbook</text>
+
+<path d="M317.9,71l0,651" class="g2_415" />
+<path d="M586.7,114.8l6,0" class="g3_415" />
+<path d="M563.8,166.7l5.3,0" class="g4_415" />
+<path d="M792.9,218.7l6.1,0" class="g3_415" />
+<path d="M770,322.6l5.5,0" class="g3_415" />
+<path d="M632.5,374.5l5.8,0" class="g4_415" />
+<path d="M661.2,374.5l6.1,0" class="g3_415" />
+<path d="M724.2,400.5l4.9,0" class="g4_415" />
+<text 
+x="398" 
+y="71" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>（高文中找王朋去中國城吃飯……）</text>
+
+<text 
+x="398" 
+y="97" 
+dx="0,0,0,0,0" 
+class="s3_415"
+>高文中： </text>
+
+<text 
+x="495" 
+y="97" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>我們去中國城吃中國飯吧！</text>
+
+<text 
+x="398" 
+y="123" 
+dx="0,0,0,0" 
+class="s3_415"
+>王朋： </text>
+
+<text 
+x="495" 
+y="123" 
+dx="0,0,0" 
+class="s2_415"
+>我沒去</text>
+
+<text 
+x="563" 
+y="123" 
+dx="0" 
+class="s4_415"
+>過</text>
+
+<text 
+x="586" 
+y="111" 
+dx="0" 
+class="s5_415"
+>5</text>
+
+<text 
+x="592" 
+y="123" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>中國城，不知道中國城 </text>
+
+<text 
+x="494" 
+y="149" 
+dx="0,0,0,0" 
+class="s2_415"
+>在哪兒。</text>
+
+<text 
+x="398" 
+y="175" 
+dx="0,0,0,0,0" 
+class="s3_415"
+>高文中： </text>
+
+<text 
+x="494" 
+y="175" 
+dx="0,0,0" 
+class="s6_415"
+>沒問題</text>
+
+<text 
+x="563" 
+y="163" 
+dx="0" 
+class="s7_415"
+>a</text>
+
+<text 
+x="569" 
+y="175" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>，你開車，我告訴你怎 </text>
+
+<text 
+x="494" 
+y="201" 
+dx="0,0,0" 
+class="s2_415"
+>麼走。</text>
+
+<text 
+x="398" 
+y="227" 
+dx="0,0,0,0" 
+class="s3_415"
+>王朋： </text>
+
+<text 
+x="494" 
+y="227" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>你有谷歌地圖嗎？拿給我</text>
+
+<text 
+x="747" 
+y="227" 
+dx="0,0" 
+class="s4_415"
+>看看</text>
+
+<text 
+x="792" 
+y="215" 
+dx="0" 
+class="s5_415"
+>6</text>
+
+<text 
+x="798" 
+y="227" 
+dx="0" 
+class="s2_415"
+>。</text>
+
+<text 
+x="398" 
+y="253" 
+dx="0,0,0,0,0" 
+class="s3_415"
+>高文中： </text>
+
+<text 
+x="494" 
+y="253" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>手機在宿舍里，我忘了帶了。</text>
+
+<text 
+x="398" 
+y="279" 
+dx="0,0,0,0" 
+class="s3_415"
+>王朋： </text>
+
+<text 
+x="494" 
+y="279" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>沒有地圖，走錯了怎麼辦？</text>
+
+<text 
+x="398" 
+y="305" 
+dx="0,0,0,0,0" 
+class="s3_415"
+>高文中： </text>
+
+<text 
+x="494" 
+y="305" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>沒有地圖沒關係，中國城我去過 </text>
+
+<text 
+x="494" 
+y="331" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>很多次，不用地圖也能</text>
+
+<text 
+x="724" 
+y="331" 
+dx="0,0" 
+class="s4_415"
+>找到</text>
+
+<text 
+x="770" 
+y="319" 
+dx="0" 
+class="s5_415"
+>7</text>
+
+<text 
+x="775" 
+y="331" 
+dx="0,0,0" 
+class="s2_415"
+>。你 </text>
+
+<text 
+x="495" 
+y="357" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>從這兒一直往南開，到第三個路 </text>
+
+<text 
+x="495" 
+y="383" 
+dx="0,0,0,0" 
+class="s2_415"
+>口，往西</text>
+
+<text 
+x="586" 
+y="383" 
+dx="0" 
+class="s4_415"
+>一</text>
+
+<text 
+x="609" 
+y="383" 
+dx="0" 
+class="s6_415"
+>拐</text>
+
+<text 
+x="632" 
+y="371" 
+dx="0" 
+class="s7_415"
+>b</text>
+
+<text 
+x="638" 
+y="383" 
+dx="0" 
+class="s4_415"
+>就</text>
+
+<text 
+x="661" 
+y="371" 
+dx="0" 
+class="s5_415"
+>8</text>
+
+<text 
+x="667" 
+y="383" 
+dx="0,0,0" 
+class="s2_415"
+>到了。</text>
+
+<text 
+x="398" 
+y="409" 
+dx="0,0,0,0" 
+class="s3_415"
+>王朋： </text>
+
+<text 
+x="494" 
+y="409" 
+dx="0,0,0,0,0,0" 
+class="s2_415"
+>哎，我不知道</text>
+
+<text 
+x="632" 
+y="409" 
+dx="0,0,0,0" 
+class="s6_415"
+>東南西北</text>
+
+<text 
+x="724" 
+y="397" 
+dx="0" 
+class="s7_415"
+>c</text>
+
+<text 
+x="729" 
+y="409" 
+dx="0" 
+class="s2_415"
+>。</text>
+
+<text 
+x="398" 
+y="435" 
+dx="0,0,0,0,0" 
+class="s3_415"
+>高文中： </text>
+
+<text 
+x="494" 
+y="435" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>那你一直往前開，到第三個紅綠 </text>
+
+<text 
+x="494" 
+y="461" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>燈，往右一拐就到了。</text>
+
+<text 
+x="398" 
+y="487" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>（到了第三個路口……）</text>
+
+<text 
+x="398" 
+y="512" 
+dx="0,0,0,0" 
+class="s3_415"
+>王朋： </text>
+
+<text 
+x="494" 
+y="512" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>不對，不對。你看，這個路口只 </text>
+
+<text 
+x="494" 
+y="538" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>能往左拐，不能往右拐。</text>
+
+<text 
+x="398" 
+y="564" 
+dx="0,0,0,0,0" 
+class="s3_415"
+>高文中： </text>
+
+<text 
+x="494" 
+y="564" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>那就是下一個路口。往右拐， </text>
+
+<text 
+x="494" 
+y="590" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>再往前開。到了，到了，你看見 </text>
+
+<text 
+x="494" 
+y="616" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>了嗎？前面有很多中國字。</text>
+
+<text 
+x="398" 
+y="642" 
+dx="0,0,0,0" 
+class="s3_415"
+>王朋： </text>
+
+<text 
+x="494" 
+y="642" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>那不是中文，那是日文，我們到 </text>
+
+<text 
+x="494" 
+y="668" 
+dx="0,0,0,0,0,0" 
+class="s2_415"
+>了小東京了。</text>
+
+<text 
+x="398" 
+y="694" 
+dx="0,0,0,0,0" 
+class="s3_415"
+>高文中： </text>
+
+<text 
+x="494" 
+y="694" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_415"
+>是嗎？那我們不吃中國飯了，吃 </text>
+
+<text 
+x="494" 
+y="720" 
+dx="0,0,0,0,0" 
+class="s2_415"
+>日本飯吧！</text>
+
+<path d="M243.8,137.9l143.7,0l0,-45.3l-143.7,0l0,45.3Z" class="g5_415" />
+<text 
+x="287" 
+y="112" 
+dx="0,0,0,0,0,0,0,-0.2,0" 
+class="s8_415"
+>Going to </text>
+
+<text 
+x="279" 
+y="129" 
+dx="0,0,0,0,0,0,-0.2,0,0" 
+class="s8_415"
+>Chinatown</text>
+
+<path d="M281.6,57.5c0,0,-15.3,0,-15.3,15.2l0,3.1c0,0,0,15.3,15.3,15.3l68.1,0c0,0,15.3,0,15.3,-15.3l0,-3.1c0,0,0,-15.2,-15.3,-15.2Z" class="g5_415" />
+<text 
+x="281" 
+y="80" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s9_415"
+>Dialogue 2</text>
+
+<path d="M281.6,56.7c-0.2,0,-16.1,0.2,-16.1,16l0,3.1c0,0.2,0.2,16.1,16.1,16.1l68.1,0c0.2,0,16.1,-0.2,16.1,-16.1l0,-3.1c0,-0.1,-0.2,-16,-16.1,-16l-68.1,0Z" class="g6_415" />
+<path d="M281.6,58.7c-0.6,0,-14,0.2,-14,14l0,3.1c0,0.6,0.2,14,14,14l68.1,0c0.6,0,14,-0.2,14,-14l0,-3.1c0,-0.5,-0.2,-14,-14,-14l-68.1,0Z" class="g7_415" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_4gw;
+	src: url("fonts/LibreFranklin-SemiBold_4gw.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiTC-Regular_4h8;
+	src: url("fonts/STKaitiTC-Regular_4h8.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Light_4ho;
+	src: url("fonts/LibreFranklin-Light_4ho.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Extrabld_4hk;
+	src: url("fonts/ProximaNova-Extrabld_4hk.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

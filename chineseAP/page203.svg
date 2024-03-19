@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 226 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_226"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_226{
+fill: #007598;
+}
+.g2_226{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_226{
+fill: none;
+stroke: #EDF3F7;
+stroke-width: 33.61111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_226{
+fill: none;
+stroke: #EDF3F7;
+stroke-width: 19.86111;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_226{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_226{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_226{
+fill: #231F20;
+}
+.g8_226{
+fill: none;
+stroke: #FED205;
+stroke-width: 4.5833335;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_226{
+fill: #FFFFFF;
+}
+.g10_226{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_226{
+font-size: 32.08px;
+font-family: LibreFranklin-ExtraBold_dzb;
+fill: #007598;
+}
+.s2_226{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_dzb;
+fill: #007D9F;
+}
+.s3_226{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_dzc;
+fill: #007D9F;
+}
+.s4_226{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #3F3F40;
+}
+.s5_226{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_dzn;
+fill: #3F3F40;
+}
+.s6_226{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s7_226{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_dzb;
+fill: #3F3F40;
+}
+.s8_226{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #007D9F;
+}
+.s9_226{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s10_226{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #007D9F;
+}
+.s11_226{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s12_226{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_dzc;
+fill: #939598;
+}
+.s13_226{
+font-size: 17.57px;
+font-family: LibreFranklin-Medium_dze;
+fill: #231F20;
+}
+.s14_226{
+font-size: 24.44px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #231F20;
+}
+.s15_226{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s16_226{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_dze;
+fill: #231F20;
+}
+.s17_226{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_dzx;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M0,97.6l204.6,0l0,-0.6L0,97l0,0.6Z" class="g1_226" />
+<path d="M0,100.7l204.6,0l0,-1.8L0,98.9l0,1.8Z" class="g1_226" />
+<path d="M119.2,183.4l10.7,0" class="g2_226" />
+<path d="M148.2,972.6l660,0" class="g3_226" />
+<path d="M148.2,999l660,0" class="g4_226" />
+<text 
+x="55" 
+y="85" 
+dx="0,0.3,0,0.3,0.3,0.3,0.3" 
+class="s1_226"
+>Grammar</text>
+
+<text 
+x="119" 
+y="177" 
+dx="0,0" 
+class="s2_226"
+>1 </text>
+
+<text 
+x="299" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0" 
+class="s3_226"
+>Review of the </text>
+
+<text 
+x="454" 
+y="182" 
+dx="0" 
+class="s4_226"
+>把</text>
+
+<text 
+x="486" 
+y="182" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_226"
+>construction (I)</text>
+
+<text 
+x="157" 
+y="244" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0" 
+class="s5_226"
+>As you will recall from IC2, it is best to use the </text>
+
+<text 
+x="466" 
+y="245" 
+dx="0" 
+class="s6_226"
+>把</text>
+
+<text 
+x="492" 
+y="244" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_226"
+>construction to describe what someone has </text>
+
+<text 
+x="157" 
+y="271" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_226"
+>done to something, if that something is known to the listener. [See Grammar 4, Lesson 15, and </text>
+
+<text 
+x="157" 
+y="299" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_226"
+>Grammar 2, Lesson 20, IC2.]</text>
+
+<text 
+x="169" 
+y="355" 
+dx="0,0" 
+class="s7_226"
+>A </text>
+
+<text 
+x="239" 
+y="357" 
+dx="0" 
+class="s8_226"
+>把</text>
+
+<text 
+x="265" 
+y="357" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_226"
+>你在云南买的纪念品给我们看看。</text>
+
+<text 
+x="239" 
+y="398" 
+dx="0" 
+class="s10_226"
+>把</text>
+
+<text 
+x="265" 
+y="398" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_226"
+>你在雲南買的紀念品給我們看看。</text>
+
+<text 
+x="245" 
+y="432" 
+dx="0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0" 
+class="s5_226"
+>Would you show us the souvenirs that you bought in Yunnan?</text>
+
+<text 
+x="169" 
+y="490" 
+dx="0,0" 
+class="s7_226"
+>B </text>
+
+<text 
+x="212" 
+y="493" 
+dx="0,0,0" 
+class="s12_226"
+>Q: </text>
+
+<text 
+x="238" 
+y="493" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_226"
+>你新买的被子呢？怎么不用？</text>
+
+<text 
+x="239" 
+y="533" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_226"
+>你新買的被子呢？怎麼不用？</text>
+
+<text 
+x="245" 
+y="567" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_226"
+>What happened to the comforters you just bought? Why aren’t you using them?</text>
+
+<text 
+x="212" 
+y="614" 
+dx="0,0,0" 
+class="s12_226"
+>A: </text>
+
+<text 
+x="241" 
+y="614" 
+dx="0" 
+class="s9_226"
+>我</text>
+
+<text 
+x="267" 
+y="614" 
+dx="0" 
+class="s8_226"
+>把</text>
+
+<text 
+x="293" 
+y="614" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_226"
+>它们送给我表哥了，算是给他和他未婚妻的</text>
+
+<text 
+x="241" 
+y="648" 
+dx="0,0,0,0,0" 
+class="s9_226"
+>结婚礼物。</text>
+
+<text 
+x="239" 
+y="688" 
+dx="0" 
+class="s11_226"
+>我</text>
+
+<text 
+x="265" 
+y="688" 
+dx="0" 
+class="s10_226"
+>把</text>
+
+<text 
+x="291" 
+y="688" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s11_226"
+>它們送給我表哥了，算是給他和他未婚妻的</text>
+
+<text 
+x="239" 
+y="722" 
+dx="0,0,0,0,0" 
+class="s11_226"
+>結婚禮物。</text>
+
+<text 
+x="245" 
+y="755" 
+dx="0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_226"
+>I gave them to my cousin and his fiancée as a wedding gift.</text>
+
+<text 
+x="169" 
+y="814" 
+dx="0,0" 
+class="s7_226"
+>C </text>
+
+<text 
+x="239" 
+y="817" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s9_226"
+>房间里空气太不好了，</text>
+
+<text 
+x="499" 
+y="817" 
+dx="0" 
+class="s8_226"
+>把</text>
+
+<text 
+x="525" 
+y="817" 
+dx="0,0,0,0,0,0" 
+class="s9_226"
+>窗户打开吧。</text>
+
+<text 
+x="239" 
+y="857" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s11_226"
+>房間裡空氣太不好了，</text>
+
+<text 
+x="499" 
+y="857" 
+dx="0" 
+class="s10_226"
+>把</text>
+
+<text 
+x="525" 
+y="857" 
+dx="0,0,0,0,0,0" 
+class="s11_226"
+>窗戶打開吧。</text>
+
+<text 
+x="245" 
+y="891" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_226"
+>The air in the room is really bad. Why don’t you open the windows?</text>
+
+<text 
+x="157" 
+y="925" 
+dx="0,0,0,0" 
+class="s5_226"
+>The </text>
+
+<text 
+x="186" 
+y="927" 
+dx="0" 
+class="s6_226"
+>把</text>
+
+<text 
+x="213" 
+y="925" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.3,0,0,0" 
+class="s5_226"
+>construction takes the following form:</text>
+
+<text 
+x="226" 
+y="978" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2" 
+class="s13_226"
+>Subject + </text>
+
+<text 
+x="309" 
+y="978" 
+dx="0" 
+class="s14_226"
+>把</text>
+
+<text 
+x="337" 
+y="978" 
+dx="0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.4,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0" 
+class="s13_226"
+>+ noun + verb + another element (complement, </text>
+
+<text 
+x="380" 
+y="999" 
+dx="0,-0.1,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2,-0.1,0.2,0.2,0.2,-0.4,0.2,0.2,0.2,0.2,0.2,0.1,-0.1,0.2,0.2" 
+class="s13_226"
+>reduplicated verb, etc.)</text>
+
+<text 
+x="157" 
+y="1042" 
+dx="0" 
+class="s6_226"
+>把</text>
+
+<text 
+x="184" 
+y="1041" 
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_226"
+>is a preposition. In a typical </text>
+
+<text 
+x="367" 
+y="1042" 
+dx="0" 
+class="s6_226"
+>把</text>
+
+<text 
+x="393" 
+y="1041" 
+dx="0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s5_226"
+>sentence, the noun after </text>
+
+<text 
+x="561" 
+y="1042" 
+dx="0" 
+class="s6_226"
+>把</text>
+
+<text 
+x="588" 
+y="1041" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_226"
+>is not only the object of </text>
+
+<text 
+x="748" 
+y="1042" 
+dx="0" 
+class="s6_226"
+>把</text>
+
+<text 
+x="772" 
+y="1041" 
+dx="0,0" 
+class="s5_226"
+>, </text>
+
+<text 
+x="157" 
+y="1068" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_226"
+>but also the object of the verb. In (A), </text>
+
+<text 
+x="405" 
+y="1070" 
+dx="0,0,0" 
+class="s6_226"
+>纪念品</text>
+
+<text 
+x="476" 
+y="1068" 
+dx="0" 
+class="s5_226"
+>/</text>
+
+<text 
+x="481" 
+y="1070" 
+dx="0,0,0" 
+class="s15_226"
+>紀念品</text>
+
+<text 
+x="555" 
+y="1068" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.1,0,0" 
+class="s5_226"
+>is the object of both </text>
+
+<text 
+x="692" 
+y="1070" 
+dx="0" 
+class="s6_226"
+>把</text>
+
+<text 
+x="719" 
+y="1068" 
+dx="0,0,0,0" 
+class="s5_226"
+>and </text>
+
+<text 
+x="747" 
+y="1070" 
+dx="0" 
+class="s6_226"
+>看</text>
+
+<text 
+x="771" 
+y="1068" 
+dx="0,0" 
+class="s5_226"
+>. </text>
+
+<text 
+x="157" 
+y="1096" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_226"
+>In (B), </text>
+
+<text 
+x="197" 
+y="1097" 
+dx="0,0" 
+class="s6_226"
+>它们</text>
+
+<text 
+x="245" 
+y="1096" 
+dx="0" 
+class="s5_226"
+>/</text>
+
+<text 
+x="250" 
+y="1097" 
+dx="0,0" 
+class="s15_226"
+>它們</text>
+
+<text 
+x="300" 
+y="1096" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.1,0,0" 
+class="s5_226"
+>is the object of both </text>
+
+<text 
+x="437" 
+y="1097" 
+dx="0" 
+class="s6_226"
+>把</text>
+
+<text 
+x="464" 
+y="1096" 
+dx="0,0,0,0" 
+class="s5_226"
+>and </text>
+
+<text 
+x="492" 
+y="1097" 
+dx="0" 
+class="s6_226"
+>送</text>
+
+<text 
+x="516" 
+y="1096" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_226"
+>. In (C), </text>
+
+<text 
+x="563" 
+y="1097" 
+dx="0,0" 
+class="s6_226"
+>窗户</text>
+
+<text 
+x="610" 
+y="1096" 
+dx="0" 
+class="s5_226"
+>/</text>
+
+<text 
+x="615" 
+y="1097" 
+dx="0,0" 
+class="s15_226"
+>窗戶</text>
+
+<text 
+x="666" 
+y="1096" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s5_226"
+>is the object of </text>
+
+<text 
+x="157" 
+y="1123" 
+dx="0,0,-0.1,0,0" 
+class="s5_226"
+>both </text>
+
+<text 
+x="191" 
+y="1125" 
+dx="0" 
+class="s6_226"
+>把</text>
+
+<text 
+x="218" 
+y="1123" 
+dx="0,0,0,0" 
+class="s5_226"
+>and </text>
+
+<text 
+x="246" 
+y="1125" 
+dx="0" 
+class="s6_226"
+>开</text>
+
+<text 
+x="270" 
+y="1123" 
+dx="0" 
+class="s5_226"
+>/</text>
+
+<text 
+x="275" 
+y="1125" 
+dx="0" 
+class="s15_226"
+>開</text>
+
+<text 
+x="299" 
+y="1123" 
+dx="0" 
+class="s5_226"
+>.</text>
+
+<path d="M147,148.4l0,53.5l0,0.7l0.8,0l676.9,0l0.7,0l0,-0.7l0,-53.5l0,-0.8l-0.7,0l-676.9,0l-0.8,0l0,0.8Z" class="g5_226" />
+<path d="M149.1,200.6l674.3,0l0,-50.9l-674.3,0l0,50.9Z" class="g6_226" />
+<path d="M164.2,333c0,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.5,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.5,0Z" class="g5_226" />
+<path d="M164.2,335.1c-0.5,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.5,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.5,0Z" class="g6_226" />
+<path d="M164.2,468.4c0,0,-7.6,0.1,-7.6,7.7l0,19.6c0,0.1,0.1,7.7,7.6,7.7l22.5,0c0,0,7.6,-0.1,7.6,-7.7l0,-19.6c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.5,0Z" class="g5_226" />
+<path d="M164.2,470.5c-0.5,0,-5.6,0.2,-5.6,5.6l0,19.6c0,0.6,0.2,5.7,5.6,5.7l22.5,0c0.5,-0.1,5.6,-0.3,5.6,-5.7l0,-19.6c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.5,0Z" class="g6_226" />
+<path d="M164.2,792.1c0,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0.1,0.1,7.6,7.6,7.6l22.5,0c0,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.5,0Z" class="g5_226" />
+<path d="M164.2,794.2c-0.5,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.5,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.5,0Z" class="g6_226" />
+<g clip-path="url(#c0_226)">
+<path d="M-882.6,610.4c0,0,152.3,11.2,236.7,3.5C-389.2,590.4,-179.6,549.2,4.9,430.1C4,381.6,4.5,-28.9,4.5,-28.9l-888.3,-2.6l1.2,641.9Z" class="g7_226" />
+</g>
+<image preserveAspectRatio="none" x="0" y="0" width="5" height="434" xlink:href="226/img/1.png" />
+<image preserveAspectRatio="none" x="0" y="96" width="5" height="2" xlink:href="226/img/2.png" />
+<image preserveAspectRatio="none" x="0" y="98" width="5" height="3" xlink:href="226/img/3.png" />
+<g clip-path="url(#c0_226)">
+<path d="M-882.6,610.4c0,0,152.3,11.2,236.7,3.5C-389.2,590.4,-179.6,549.2,4.9,430.1C4,381.6,4.5,-28.9,4.5,-28.9l-888.3,-2.6l1.2,641.9Z" class="g8_226" />
+<path d="M0,623l36.7,0l0,-678.2L0,-55.2L0,623Z" class="g9_226" />
+<path d="M876.9,1141.6l57.3,0l0,-1222.1l-57.3,0l0,1222.1Z" class="g10_226" />
+</g>
+<text 
+x="872" 
+y="1166" 
+dx="0,1.2,1.2,0" 
+class="s16_226"
+>203 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 659)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s17_226"
+>Lesson 17 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 747)"
+dx="0,1.2" 
+class="s17_226"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 765)"
+dx="0,0.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,0.8,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s17_226"
+>Wealth Management and Investing </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1043)"
+dx="0,1.2" 
+class="s17_226"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 1060)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,0" 
+class="s17_226"
+>Grammar </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Regular_dzn;
+	src: url("fonts/LibreFranklin-Regular_dzn.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_dze;
+	src: url("fonts/LibreFranklin-Medium_dze.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_dzc;
+	src: url("fonts/LibreFranklin-Bold_dzc.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_dzx;
+	src: url("fonts/LibreFranklin-SemiBold_dzx.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_dzb;
+	src: url("fonts/LibreFranklin-ExtraBold_dzb.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

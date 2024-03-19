@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 262 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_262{
+fill: none;
+stroke: #007598;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_262{
+fill: none;
+stroke: #007598;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_262{
+fill: none;
+stroke: #007598;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_262{
+fill: #EBECF2;
+fill-opacity: 0.5;
+}
+.g5_262{
+fill: none;
+stroke: #365B8C;
+stroke-width: 1.1443056;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+stroke-opacity: 0.149994;
+}
+.g6_262{
+fill: none;
+stroke: #365B8C;
+stroke-width: 1.1152778;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 4;
+stroke-opacity: 0.149994;
+stroke-dasharray: 0,3;
+}
+.g7_262{
+fill: #365B8C;
+}
+.g8_262{
+fill: #CCCFDF;
+}
+.g9_262{
+fill: none;
+stroke: #A3AAC6;
+stroke-width: 0.7638889;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_262{
+fill: none;
+stroke: #A3AAC6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g11_262{
+fill: #007598;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_262{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_414;
+fill: #007D9F;
+}
+.s2_262{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_415;
+fill: #007D9F;
+}
+.s3_262{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s4_262{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_41f;
+fill: #3F3F40;
+}
+.s5_262{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s6_262{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_414;
+fill: #3F3F40;
+}
+.s7_262{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_3pn;
+fill: #3F3F40;
+}
+.s8_262{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s9_262{
+font-size: 23.68px;
+font-family: STKaiTi-TC-Regular_3pl;
+fill: #3F3F40;
+}
+.s10_262{
+font-size: 44.31px;
+font-family: STKaiti-SC-Bold_3oi;
+fill: #3F3F40;
+}
+.s11_262{
+font-size: 12.99px;
+font-family: LibreFranklin-Bold_415;
+fill: #FFFFFF;
+}
+.s12_262{
+font-size: 44.31px;
+font-family: STKaiTi-TC-Bold_3op;
+fill: #3F3F40;
+}
+.s13_262{
+font-size: 12.99px;
+font-family: LibreFranklin-Bold_415;
+fill: #365B8C;
+}
+.s14_262{
+font-size: 33.08px;
+font-family: ProximaNova-Bold_41z;
+fill: #B1B6CC;
+}
+.s15_262{
+font-size: 20.63px;
+font-family: Museo-700_41y;
+fill: #365B8C;
+}
+.s16_262{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_41h;
+fill: #FFFFFF;
+}
+.s17_262{
+font-size: 14.51px;
+font-family: LibreFranklin-SemiBold_41h;
+fill: #365B8C;
+}
+.s18_262{
+font-size: 11.08px;
+font-family: LibreFranklin-SemiBold_41h;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M119.2,78.3l12.2,0" class="g1_262" />
+<text 
+x="119" 
+y="72" 
+dx="0,0" 
+class="s1_262"
+>3 </text>
+
+<text 
+x="377" 
+y="77" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_262"
+>The particle </text>
+
+<text 
+x="514" 
+y="77" 
+dx="0" 
+class="s3_262"
+>了</text>
+
+<text 
+x="546" 
+y="77" 
+dx="0,0,0" 
+class="s2_262"
+>(V)</text>
+
+<text 
+x="157" 
+y="148" 
+dx="0,-1.5,0,0,-0.1,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_262"
+>You’ve learned that </text>
+
+<text 
+x="289" 
+y="149" 
+dx="0" 
+class="s5_262"
+>了</text>
+
+<text 
+x="316" 
+y="148" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0" 
+class="s4_262"
+>can indicate the realization of an action or the emergence of a state. </text>
+
+<text 
+x="157" 
+y="175" 
+dx="0,0,0,0,0,-0.4,0,-1.2,0" 
+class="s4_262"
+>However, </text>
+
+<text 
+x="223" 
+y="177" 
+dx="0" 
+class="s5_262"
+>了</text>
+
+<text 
+x="249" 
+y="175" 
+dx="0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-1.2,0,-0.4,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_262"
+>is not always required with completed actions. Take this excerpt from the lesson </text>
+
+<text 
+x="157" 
+y="203" 
+dx="0,-0.2,-0.3,-0.2,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s4_262"
+>text as an example:</text>
+
+<text 
+x="169" 
+y="259" 
+dx="0,0" 
+class="s6_262"
+>A </text>
+
+<text 
+x="239" 
+y="261" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_262"
+>张天明的父母收入虽然不少，但是供天明和姐姐上</text>
+
+<text 
+x="239" 
+y="295" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_262"
+>大学，经济上还是有些压力。他们希望孩子们能受到</text>
+
+<text 
+x="239" 
+y="329" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_262"
+>良好的教育，所以孩子一生下来就开始给他们存教育</text>
+
+<text 
+x="239" 
+y="362" 
+dx="0,0" 
+class="s7_262"
+>费。</text>
+
+<text 
+x="239" 
+y="403" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_262"
+>張天明的父母收入雖然不少，但是供天明和姐姐上</text>
+
+<text 
+x="239" 
+y="436" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_262"
+>大學，經濟上還是有些壓力。他們希望孩子們能受到</text>
+
+<text 
+x="239" 
+y="470" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_262"
+>良好的教育，所以孩子一生下來就開始給他們存教育</text>
+
+<text 
+x="239" 
+y="504" 
+dx="0,0" 
+class="s8_262"
+>費。</text>
+
+<text 
+x="245" 
+y="537" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_262"
+>Although Zhang Tianming’s parents’ income is not inconsiderable, sending Tianming </text>
+
+<text 
+x="245" 
+y="557" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_262"
+>and his sister to college does exert some financial pressure. They hope that their </text>
+
+<text 
+x="245" 
+y="577" 
+dx="0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.4,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,-0.3,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0" 
+class="s4_262"
+>children will receive a good education. Therefore, they started saving for their </text>
+
+<text 
+x="245" 
+y="597" 
+dx="0,0,0,0,0,0,-0.2,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s4_262"
+>children’s education when their children were born.</text>
+
+<text 
+x="157" 
+y="648" 
+dx="0,0,0,0,0,0,0,0,0,0,-0.3,-0.4,0,0,0,0,0,0,0,-0.1,0,0" 
+class="s4_262"
+>In the above passage, </text>
+
+<text 
+x="305" 
+y="650" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_262"
+>他们希望孩子们能受到良好的教育，所以孩子</text>
+
+<text 
+x="157" 
+y="680" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_262"
+>一生下来就开始给他们存教育费</text>
+
+<text 
+x="488" 
+y="679" 
+dx="0" 
+class="s4_262"
+>/</text>
+
+<text 
+x="493" 
+y="680" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_262"
+>他們希望孩子們能受到良好</text>
+
+<text 
+x="157" 
+y="711" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_262"
+>的教育，所以孩子一生下來就開始給他們存教育費</text>
+
+<text 
+x="681" 
+y="709" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.2,0,0" 
+class="s4_262"
+>is a completed </text>
+
+<text 
+x="157" 
+y="740" 
+dx="0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.4,0,-1.2,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0" 
+class="s4_262"
+>event. However, it is presented as part of the background information to the main narrative: </text>
+
+<text 
+x="770" 
+y="741" 
+dx="0" 
+class="s5_262"
+>这</text>
+
+<text 
+x="157" 
+y="772" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_262"
+>时候丽莎和雪梅走了进来</text>
+
+<text 
+x="417" 
+y="770" 
+dx="0" 
+class="s4_262"
+>/</text>
+
+<text 
+x="422" 
+y="772" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_262"
+>這時候麗莎和雪梅走了進來</text>
+
+<text 
+x="706" 
+y="770" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_262"
+>. This is why </text>
+
+<text 
+x="157" 
+y="801" 
+dx="0,0,0,0,0,-0.4,0,0,0" 
+class="s4_262"
+>the verb </text>
+
+<text 
+x="216" 
+y="802" 
+dx="0" 
+class="s5_262"
+>存</text>
+
+<text 
+x="243" 
+y="801" 
+dx="0,0,0,0,0,0,0,-0.1,0,0,0,0,-0.4,0" 
+class="s4_262"
+>does not take </text>
+
+<text 
+x="338" 
+y="802" 
+dx="0" 
+class="s5_262"
+>了</text>
+
+<text 
+x="361" 
+y="801" 
+dx="0" 
+class="s4_262"
+>.</text>
+
+<path d="M146.6,41.8l0,53.5l0,0.8l0.8,0l676.9,0l0.8,0l0,-0.8l0,-53.5l0,-0.7l-0.8,0l-676.9,0l-0.8,0l0,0.7Z" class="g2_262" />
+<path d="M148.7,94L823,94l0,-50.9l-674.3,0l0,50.9Z" class="g3_262" />
+<path d="M164.4,236.3c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_262" />
+<path d="M164.4,238.4c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_262" />
+<path d="M71.6,1076.1l232.2,0l0,-144.6l-232.2,0l0,144.6Z" class="g4_262" />
+<path d="M555.8,1076.1l232.1,0l0,-144.6l-232.1,0l0,144.6Z" class="g4_262" />
+<path d="M92.5,998.5l52.8,0l0,-52.8l-52.8,0l0,52.8Z" class="g5_262" />
+<path d="M118.9,948.9l0,47.5" class="g6_262" />
+<path d="M142.1,972.1l-47.5,0" class="g6_262" />
+<path d="M142.1,948.9L94.9,996.2" class="g6_262" />
+<path d="M142.1,995.4L94.9,948.1" class="g6_262" />
+<text 
+x="96" 
+y="985" 
+dx="0" 
+class="s10_262"
+>贵</text>
+
+<path d="M89.5,956.8c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.8,3.9,8.7,8.7,8.7Z" class="g7_262" />
+<text 
+x="85" 
+y="952" 
+dx="0" 
+class="s11_262"
+>1</text>
+
+<path d="M92.5,1067.2l52.8,0l0,-52.8l-52.8,0l0,52.8Z" class="g5_262" />
+<path d="M118.9,1017.6l0,47.5" class="g6_262" />
+<path d="M142.1,1040.8l-47.5,0" class="g6_262" />
+<path d="M142.1,1017.6l-47.2,47.2" class="g6_262" />
+<path d="M142.1,1064L94.9,1016.8" class="g6_262" />
+<text 
+x="96" 
+y="1054" 
+dx="0" 
+class="s10_262"
+>负</text>
+
+<path d="M89.5,1025.8c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.8,-8.7,-8.8c-4.8,0,-8.7,4,-8.7,8.8c0,4.8,3.9,8.7,8.7,8.7Z" class="g7_262" />
+<text 
+x="85" 
+y="1021" 
+dx="0" 
+class="s11_262"
+>4</text>
+
+<path d="M166.8,998.5l52.9,0l0,-52.8l-52.9,0l0,52.8Z" class="g5_262" />
+<path d="M193.2,948.9l0,47.5" class="g6_262" />
+<path d="M216.4,972.1l-47.4,0" class="g6_262" />
+<path d="M216.5,948.9l-47.3,47.3" class="g6_262" />
+<path d="M216.5,995.4L169.2,948.1" class="g6_262" />
+<text 
+x="171" 
+y="985" 
+dx="0" 
+class="s10_262"
+>货</text>
+
+<path d="M163.8,956.8c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.8,3.9,8.7,8.7,8.7Z" class="g7_262" />
+<text 
+x="159" 
+y="952" 
+dx="0" 
+class="s11_262"
+>2</text>
+
+<path d="M241.1,998.5l52.9,0l0,-52.8l-52.9,0l0,52.8Z" class="g5_262" />
+<path d="M267.6,948.9l0,47.5" class="g6_262" />
+<path d="M290.7,972.1l-47.4,0" class="g6_262" />
+<path d="M290.8,948.9l-47.3,47.3" class="g6_262" />
+<path d="M290.8,995.4L243.5,948.1" class="g6_262" />
+<text 
+x="245" 
+y="985" 
+dx="0" 
+class="s10_262"
+>费</text>
+
+<path d="M238.1,956.8c4.9,0,8.8,-3.9,8.8,-8.7c0,-4.8,-3.9,-8.7,-8.8,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.8,3.9,8.7,8.7,8.7Z" class="g7_262" />
+<text 
+x="233" 
+y="952" 
+dx="0" 
+class="s11_262"
+>3</text>
+
+<path d="M166.8,1067.2l52.9,0l0,-52.8l-52.9,0l0,52.8Z" class="g5_262" />
+<path d="M193.2,1017.6l0,47.5" class="g6_262" />
+<path d="M216.4,1040.8l-47.4,0" class="g6_262" />
+<path d="M216.5,1017.6l-47.3,47.2" class="g6_262" />
+<path d="M216.5,1064l-47.3,-47.2" class="g6_262" />
+<text 
+x="171" 
+y="1054" 
+dx="0" 
+class="s10_262"
+>贷</text>
+
+<path d="M163.8,1025.8c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.8,-8.7,-8.8c-4.8,0,-8.7,4,-8.7,8.8c0,4.8,3.9,8.7,8.7,8.7Z" class="g7_262" />
+<text 
+x="158" 
+y="1021" 
+dx="0" 
+class="s11_262"
+>5</text>
+
+<path d="M577.2,1068.7l52.9,0l0,-52.8l-52.9,0l0,52.8Z" class="g5_262" />
+<path d="M603.6,1019.2l0,47.4" class="g6_262" />
+<path d="M626.8,1042.3l-47.5,0" class="g6_262" />
+<path d="M626.9,1019.1l-47.3,47.3" class="g6_262" />
+<path d="M626.9,1065.6l-47.3,-47.3" class="g6_262" />
+<text 
+x="581" 
+y="1056" 
+dx="0" 
+class="s12_262"
+>負</text>
+
+<path d="M573.5,1028.6c4.8,0,8.7,-3.9,8.7,-8.8c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.9,0,-8.8,3.9,-8.8,8.7c0,4.9,3.9,8.8,8.8,8.8Z" class="g8_262" />
+<text 
+x="569" 
+y="1024" 
+dx="0" 
+class="s13_262"
+>4</text>
+
+<path d="M577.2,997l52.9,0l0,-52.9l-52.9,0l0,52.9Z" class="g5_262" />
+<path d="M603.6,947.4l0,47.4" class="g6_262" />
+<path d="M626.8,970.6l-47.5,0" class="g6_262" />
+<path d="M626.9,947.3l-47.3,47.3" class="g6_262" />
+<path d="M626.9,993.8L579.6,946.5" class="g6_262" />
+<text 
+x="581" 
+y="984" 
+dx="0" 
+class="s12_262"
+>貴</text>
+
+<path d="M573.5,955.7c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.9,0,-8.8,3.9,-8.8,8.7c0,4.8,3.9,8.7,8.8,8.7Z" class="g8_262" />
+<text 
+x="570" 
+y="951" 
+dx="0" 
+class="s13_262"
+>1</text>
+
+<path d="M651.4,997l52.8,0l0,-52.9l-52.8,0l0,52.9Z" class="g5_262" />
+<path d="M677.8,947.4l0,47.4" class="g6_262" />
+<path d="M701,970.6l-47.5,0" class="g6_262" />
+<path d="M701,947.3l-47.3,47.3" class="g6_262" />
+<path d="M701,993.8L653.7,946.5" class="g6_262" />
+<text 
+x="655" 
+y="984" 
+dx="0" 
+class="s12_262"
+>貨</text>
+
+<path d="M648.5,955.7c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.8,3.9,8.7,8.7,8.7Z" class="g8_262" />
+<text 
+x="644" 
+y="951" 
+dx="0" 
+class="s13_262"
+>2</text>
+
+<path d="M725.5,997l52.9,0l0,-52.9l-52.9,0l0,52.9Z" class="g5_262" />
+<path d="M752,947.4l0,47.4" class="g6_262" />
+<path d="M775.1,970.6l-47.4,0" class="g6_262" />
+<path d="M775.2,947.3l-47.3,47.3" class="g6_262" />
+<path d="M775.2,993.8L727.9,946.5" class="g6_262" />
+<text 
+x="729" 
+y="984" 
+dx="0" 
+class="s12_262"
+>費</text>
+
+<path d="M722.7,955.7c4.8,0,8.7,-3.9,8.7,-8.7c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.8,3.9,8.7,8.7,8.7Z" class="g8_262" />
+<text 
+x="718" 
+y="951" 
+dx="0" 
+class="s13_262"
+>3</text>
+
+<path d="M651.4,1068.7l52.8,0l0,-52.8l-52.8,0l0,52.8Z" class="g5_262" />
+<path d="M677.8,1019.2l0,47.4" class="g6_262" />
+<path d="M701,1042.3l-47.5,0" class="g6_262" />
+<path d="M701,1019.1l-47.3,47.3" class="g6_262" />
+<path d="M701,1065.6l-47.3,-47.3" class="g6_262" />
+<text 
+x="655" 
+y="1056" 
+dx="0" 
+class="s12_262"
+>貸</text>
+
+<path d="M648.5,1028.6c4.8,0,8.7,-3.9,8.7,-8.8c0,-4.8,-3.9,-8.7,-8.7,-8.7c-4.8,0,-8.7,3.9,-8.7,8.7c0,4.9,3.9,8.8,8.7,8.8Z" class="g8_262" />
+<text 
+x="644" 
+y="1024" 
+dx="0" 
+class="s13_262"
+>5</text>
+
+<path d="M880.7,917.8l-51.4,0" class="g9_262" />
+<path d="M645.4,925.6l0,-29.2l183.8,0l0,41.4l-37.5,0" class="g10_262" />
+<text 
+x="786" 
+y="926" 
+dx="0,0,0" 
+class="s14_262"
+>it!</text>
+
+<text 
+x="655" 
+y="921" 
+dx="0,0,0,0,-0.6,0,0,0,0,0,0,0" 
+class="s15_262"
+>Characterize</text>
+
+<path d="M303.7,955.3l252.1,0l0,-32.4l-252.1,0l0,32.4Z" class="g7_262" />
+<path d="M303.7,987.6l252.1,0l0,-32.3l-252.1,0l0,32.3Z" class="g8_262" />
+<path d="M303.7,1020l252.1,0l0,-32.4l-252.1,0l0,32.4Z" class="g7_262" />
+<path d="M303.7,1084.7l252.1,0l0,-64.7l-252.1,0l0,64.7Z" class="g8_262" />
+<text 
+x="323" 
+y="944" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s16_262"
+>What do the characters mean?</text>
+
+<text 
+x="330" 
+y="975" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s17_262"
+>What is the common radical?</text>
+
+<text 
+x="329" 
+y="1006" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s16_262"
+>What does the radical mean?</text>
+
+<text 
+x="358" 
+y="1038" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0" 
+class="s17_262"
+>How does the radical </text>
+
+<text 
+x="331" 
+y="1055" 
+dx="0,-0.2,0,0,0,-0.2,0,0,-0.2,0,0,0,0,0,0,-0.4,-0.4,0,-0.1,0,0,0,0,0,0,0,0,0,0,0" 
+class="s17_262"
+>relate to the overall meaning </text>
+
+<text 
+x="366" 
+y="1072" 
+dx="0,-0.2,0,0,0,0,0,0,0,0,0,-0.1,0,0,-0.2,0,0,0" 
+class="s17_262"
+>of the characters?</text>
+
+<path d="M881.6,1209.2l69.5,0l0,-1222.1l-69.5,0l0,1222.1Z" class="g11_262" />
+<text 
+transform="matrix(0, 1, -1, 0, 890, 852)"
+dx="0,1,1,1,1,1,1,1,1" 
+class="s18_262"
+>Lesson 8 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 918)"
+dx="0,1" 
+class="s18_262"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 932)"
+dx="0,0.1,1,1,1,1,1,1,1,1,1,1,1,-0.3,1,1,1,1" 
+class="s18_262"
+>Working Part-Time </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1059)"
+dx="0,1" 
+class="s18_262"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1072)"
+dx="0,1,0.9,1,1,1,1,1" 
+class="s18_262"
+>Grammar </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 890, 1149)"
+dx="0,1,1,0" 
+class="s18_262"
+>239 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: STKaiti-SC-Bold_3oi;
+	src: url("fonts/STKaiti-SC-Bold_3oi.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_3op;
+	src: url("fonts/STKaiTi-TC-Bold_3op.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Bold_415;
+	src: url("fonts/LibreFranklin-Bold_415.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_3pl;
+	src: url("fonts/STKaiTi-TC-Regular_3pl.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_3pn;
+	src: url("fonts/STKaiti-SC-Regular_3pn.woff") format("woff");
+}
+
+@font-face {
+	font-family: Museo-700_41y;
+	src: url("fonts/Museo-700_41y.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_41h;
+	src: url("fonts/LibreFranklin-SemiBold_41h.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_41z;
+	src: url("fonts/ProximaNova-Bold_41z.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_414;
+	src: url("fonts/LibreFranklin-ExtraBold_414.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_41f;
+	src: url("fonts/LibreFranklin-Regular_41f.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

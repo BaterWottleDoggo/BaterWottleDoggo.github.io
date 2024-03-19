@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 27 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_27"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_27{
+fill: #3986C6;
+}
+.g2_27{
+fill: #ACBF3B;
+}
+.g3_27{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_27{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_cnz;
+fill: #231F20;
+}
+.s2_27{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cnt;
+fill: #231F20;
+}
+.s3_27{
+font-size: 44.31px;
+font-family: ProximaNova-Bold_cnt;
+fill: #FFFFFF;
+}
+.s4_27{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_cnt;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, -1, 1, 0, 54, 1084)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_27"
+>Go Far with Chinese</text>
+
+<text 
+x="43" 
+y="1149" 
+dx="0" 
+class="s2_27"
+>4</text>
+
+<path d="M49.6,1128l1.7,0l0,-38.7l-1.7,0l0,38.7Z" class="g1_27" />
+<path d="M50.4,1125.4c-1.4,0,-2.5,1.1,-2.5,2.6c0,1.4,1.1,2.6,2.5,2.6c1.5,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.1,-2.6,-2.6,-2.6Z" class="g1_27" />
+<image preserveAspectRatio="none" x="15" y="155" width="366" height="381" xlink:href="27/img/1.png" />
+<image preserveAspectRatio="none" x="380" y="155" width="367" height="381" xlink:href="27/img/2.png" />
+<image preserveAspectRatio="none" x="746" y="155" width="157" height="870" xlink:href="27/img/3.png" />
+<image preserveAspectRatio="none" x="15" y="535" width="366" height="381" xlink:href="27/img/4.png" />
+<image preserveAspectRatio="none" x="380" y="535" width="367" height="381" xlink:href="27/img/5.png" />
+<image preserveAspectRatio="none" x="15" y="915" width="470" height="273" xlink:href="27/img/6.png" />
+<image preserveAspectRatio="none" x="485" y="915" width="262" height="273" xlink:href="27/img/7.png" />
+<image preserveAspectRatio="none" x="746" y="1024" width="157" height="164" xlink:href="27/img/8.png" />
+<image preserveAspectRatio="none" x="45" y="967" width="10" height="117" xlink:href="27/img/9.png" />
+<image preserveAspectRatio="none" x="45" y="967" width="10" height="117" xlink:href="27/img/10.png" />
+<image preserveAspectRatio="none" x="44" y="1137" width="11" height="13" xlink:href="27/img/11.png" />
+<image preserveAspectRatio="none" x="44" y="1137" width="11" height="13" xlink:href="27/img/12.png" />
+<image preserveAspectRatio="none" x="49" y="1089" width="3" height="37" xlink:href="27/img/13.png" />
+<image preserveAspectRatio="none" x="48" y="1125" width="6" height="6" xlink:href="27/img/14.png" />
+<g clip-path="url(#c0_27)">
+<path d="M-13.7,110l935,0l0,-129.4l-935,0l0,129.4Z" class="g2_27" />
+</g>
+<path d="M832.5,125.7l0,-35.6c0,-18.9,-15.4,-34.3,-34.4,-34.3l-709.9,0l0,35.6c0,18.9,15.4,34.3,34.4,34.3Z" class="g1_27" />
+<path d="M832.5,125.7l0,-35.6c0,-18.9,-15.4,-34.3,-34.4,-34.3l-709.9,0l0,35.6c0,18.9,15.4,34.3,34.4,34.3l709.9,0Z" class="g3_27" />
+<text 
+x="109" 
+y="103" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0" 
+class="s3_27"
+>An Adventure for the Lopez Family</text>
+
+<text 
+x="43" 
+y="1149" 
+dx="0" 
+class="s4_27"
+>4</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Semibold_cnz;
+	src: url("fonts/ProximaNova-Semibold_cnz.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_cnt;
+	src: url("fonts/ProximaNova-Bold_cnt.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

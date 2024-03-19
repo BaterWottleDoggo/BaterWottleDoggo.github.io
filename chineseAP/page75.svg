@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 98 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_98{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_98{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_98{
+fill: none;
+stroke: #7AAD35;
+stroke-width: 0.5102778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_98{
+fill: #7AAD35;
+stroke: #B2B3B7;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_98{
+font-size: 15.28px;
+font-family: LibreFranklin-ExtraBold_cpo;
+fill: #3F3F40;
+}
+.s2_98{
+font-size: 16.81px;
+font-family: LibreFranklin-Bold_cpn;
+fill: #939598;
+}
+.s3_98{
+font-size: 25.97px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s4_98{
+font-size: 25.97px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #749E3C;
+}
+.s5_98{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Regular_cev;
+fill: #3F3F40;
+}
+.s6_98{
+font-size: 25.97px;
+font-family: STKaiTi-TC-Bold_cdt;
+fill: #749E3C;
+}
+.s7_98{
+font-size: 14.51px;
+font-family: LibreFranklin-Regular_cpx;
+fill: #3F3F40;
+}
+.s8_98{
+font-size: 18.33px;
+font-family: LibreFranklin-ExtraBold_cpo;
+fill: #7AAD35;
+}
+.s9_98{
+font-size: 27.50px;
+font-family: STKaiti-SC-Bold_cdn;
+fill: #3F3F40;
+}
+.s10_98{
+font-size: 22.92px;
+font-family: LibreFranklin-Bold_cpn;
+fill: #7AAD35;
+}
+.s11_98{
+font-size: 23.68px;
+font-family: STKaiti-SC-Regular_cf1;
+fill: #3F3F40;
+}
+.s12_98{
+font-size: 13.75px;
+font-family: LibreFranklin-Medium_cpt;
+fill: #231F20;
+}
+.s13_98{
+font-size: 13.75px;
+font-family: LibreFranklin-SemiBold_cr6;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M118.4,575.2l13.8,0" class="g1_98" />
+<text 
+x="168" 
+y="71" 
+dx="0,0" 
+class="s1_98"
+>3 </text>
+
+<text 
+x="211" 
+y="73" 
+dx="0,0,0" 
+class="s2_98"
+>Q: </text>
+
+<text 
+x="237" 
+y="73" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_98"
+>听说你去过云南，你</text>
+
+<text 
+x="471" 
+y="73" 
+dx="0" 
+class="s4_98"
+>对</text>
+
+<text 
+x="497" 
+y="73" 
+dx="0,0,0" 
+class="s3_98"
+>那儿的</text>
+
+<text 
+x="575" 
+y="73" 
+dx="0,0" 
+class="s4_98"
+>印象</text>
+
+<text 
+x="627" 
+y="73" 
+dx="0,0,0" 
+class="s3_98"
+>好吗？</text>
+
+<text 
+x="239" 
+y="114" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>聽說你去過雲南，你</text>
+
+<text 
+x="472" 
+y="114" 
+dx="0" 
+class="s6_98"
+>對</text>
+
+<text 
+x="498" 
+y="114" 
+dx="0,0,0" 
+class="s5_98"
+>那兒的</text>
+
+<text 
+x="576" 
+y="114" 
+dx="0,0" 
+class="s6_98"
+>印象</text>
+
+<text 
+x="628" 
+y="114" 
+dx="0,0,0" 
+class="s5_98"
+>好嗎？</text>
+
+<text 
+x="245" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,0,0,0,-0.2,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_98"
+>I hear you’ve been to Yunnan. Do you have a good impression of that place?</text>
+
+<text 
+x="211" 
+y="195" 
+dx="0,0,0" 
+class="s2_98"
+>A: </text>
+
+<text 
+x="240" 
+y="195" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_98"
+>云南的风景美，少数民族的饮食、服装、风俗</text>
+
+<text 
+x="240" 
+y="228" 
+dx="0,0,0,0,0,0,0" 
+class="s3_98"
+>习惯都很特别，</text>
+
+<text 
+x="422" 
+y="228" 
+dx="0" 
+class="s4_98"
+>给</text>
+
+<text 
+x="448" 
+y="228" 
+dx="0,0" 
+class="s3_98"
+>我的</text>
+
+<text 
+x="500" 
+y="228" 
+dx="0,0" 
+class="s4_98"
+>印象</text>
+
+<text 
+x="552" 
+y="228" 
+dx="0,0,0" 
+class="s3_98"
+>很好。</text>
+
+<text 
+x="239" 
+y="269" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>雲南的風景美，少數民族的飲食、服裝、風俗 </text>
+
+<text 
+x="239" 
+y="302" 
+dx="0,0,0,0,0,0,0" 
+class="s5_98"
+>習慣都很特別，</text>
+
+<text 
+x="420" 
+y="302" 
+dx="0" 
+class="s6_98"
+>給</text>
+
+<text 
+x="446" 
+y="302" 
+dx="0,0" 
+class="s5_98"
+>我的</text>
+
+<text 
+x="498" 
+y="302" 
+dx="0,0" 
+class="s6_98"
+>印象</text>
+
+<text 
+x="550" 
+y="302" 
+dx="0,0,0" 
+class="s5_98"
+>很好。</text>
+
+<text 
+x="245" 
+y="336" 
+dx="0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0" 
+class="s7_98"
+>Yunnan has beautiful scenery, and the food, clothing, customs, and habits of the </text>
+
+<text 
+x="245" 
+y="356" 
+dx="0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.1,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s7_98"
+>ethnic minority groups are very unique. They gave me a very good impression.</text>
+
+<text 
+x="168" 
+y="415" 
+dx="0,0" 
+class="s1_98"
+>4 </text>
+
+<text 
+x="239" 
+y="417" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_98"
+>这件事已经过去很多年了，我没有</text>
+
+<text 
+x="628" 
+y="417" 
+dx="0,0" 
+class="s4_98"
+>印象</text>
+
+<text 
+x="680" 
+y="417" 
+dx="0,0" 
+class="s3_98"
+>了。</text>
+
+<text 
+x="239" 
+y="457" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>這件事已經過去很多年了，我沒有</text>
+
+<text 
+x="628" 
+y="457" 
+dx="0,0" 
+class="s6_98"
+>印象</text>
+
+<text 
+x="680" 
+y="457" 
+dx="0,0" 
+class="s5_98"
+>了。</text>
+
+<text 
+x="245" 
+y="491" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_98"
+>This happened many years ago. I have no recollection of it anymore.</text>
+
+<text 
+x="118" 
+y="569" 
+dx="0,0" 
+class="s8_98"
+>B </text>
+
+<text 
+x="196" 
+y="574" 
+dx="0,0" 
+class="s9_98"
+>分享</text>
+
+<text 
+x="256" 
+y="574" 
+dx="0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,-1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0" 
+class="s10_98"
+>(to share joy, happiness, benefit, or something </text>
+
+<text 
+x="365" 
+y="601" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,0" 
+class="s10_98"
+>pleasant or positive)</text>
+
+<text 
+x="156" 
+y="663" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s7_98"
+>The object of </text>
+
+<text 
+x="249" 
+y="664" 
+dx="0,0" 
+class="s11_98"
+>分享</text>
+
+<text 
+x="299" 
+y="663" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.2,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0" 
+class="s7_98"
+>is usually an abstract noun. The verb often occurs in the pattern “</text>
+
+<text 
+x="733" 
+y="664" 
+dx="0,0" 
+class="s11_98"
+>跟 </text>
+
+<text 
+x="763" 
+y="663" 
+dx="0,0,0,0" 
+class="s7_98"
+>(or </text>
+
+<text 
+x="156" 
+y="692" 
+dx="0" 
+class="s11_98"
+>和</text>
+
+<text 
+x="180" 
+y="690" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_98"
+>) (someone)</text>
+
+<text 
+x="265" 
+y="692" 
+dx="0,0" 
+class="s11_98"
+>分享</text>
+
+<text 
+x="312" 
+y="690" 
+dx="0,0" 
+class="s7_98"
+>.”</text>
+
+<text 
+x="168" 
+y="747" 
+dx="0,0" 
+class="s1_98"
+>1 </text>
+
+<text 
+x="239" 
+y="749" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_98"
+>知道自己考上研究生院，他非常高兴，马上发</text>
+
+<text 
+x="239" 
+y="783" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_98"
+>微信告诉朋友们，跟他们</text>
+
+<text 
+x="524" 
+y="783" 
+dx="0,0" 
+class="s4_98"
+>分享</text>
+
+<text 
+x="576" 
+y="783" 
+dx="0,0,0,0,0,0" 
+class="s3_98"
+>自己的快乐。</text>
+
+<text 
+x="239" 
+y="823" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>知道自己考上研究生院，他非常高興，馬上發 </text>
+
+<text 
+x="239" 
+y="857" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_98"
+>微信告訴朋友們，跟他們</text>
+
+<text 
+x="524" 
+y="857" 
+dx="0,0" 
+class="s6_98"
+>分享</text>
+
+<text 
+x="576" 
+y="857" 
+dx="0,0,0,0,0,0" 
+class="s5_98"
+>自己的快樂。</text>
+
+<text 
+x="245" 
+y="891" 
+dx="0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,-0.1,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0" 
+class="s7_98"
+>After learning that he had gotten into graduate school, he was very happy. He sent </text>
+
+<text 
+x="245" 
+y="910" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s7_98"
+>his friends a WeChat message right away to share his happiness with them.</text>
+
+<text 
+x="168" 
+y="969" 
+dx="0,0" 
+class="s1_98"
+>2 </text>
+
+<text 
+x="239" 
+y="972" 
+dx="0,0,0,0,0" 
+class="s3_98"
+>我当然愿意</text>
+
+<text 
+x="368" 
+y="972" 
+dx="0" 
+class="s4_98"
+>跟</text>
+
+<text 
+x="394" 
+y="972" 
+dx="0,0" 
+class="s3_98"
+>家人</text>
+
+<text 
+x="446" 
+y="972" 
+dx="0,0" 
+class="s4_98"
+>分享</text>
+
+<text 
+x="498" 
+y="972" 
+dx="0,0,0,0,0,0" 
+class="s3_98"
+>自己的幸福。</text>
+
+<text 
+x="239" 
+y="1012" 
+dx="0,0,0,0,0" 
+class="s5_98"
+>我當然願意</text>
+
+<text 
+x="368" 
+y="1012" 
+dx="0" 
+class="s6_98"
+>跟</text>
+
+<text 
+x="394" 
+y="1012" 
+dx="0,0" 
+class="s5_98"
+>家人</text>
+
+<text 
+x="446" 
+y="1012" 
+dx="0,0" 
+class="s6_98"
+>分享</text>
+
+<text 
+x="498" 
+y="1012" 
+dx="0,0,0,0,0,0" 
+class="s5_98"
+>自己的幸福。</text>
+
+<text 
+x="245" 
+y="1046" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,0,0,0,-0.1,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1" 
+class="s7_98"
+>Of course I want to share my good fortune with my family.</text>
+
+<path d="M162.2,48.7c-0.1,0,-7.7,0.1,-7.7,7.6l0,19.7c0,0.1,0.1,7.7,7.7,7.7l22.4,0c0.1,0,7.6,-0.1,7.6,-7.7l0,-19.7c0,-0.1,-0.1,-7.6,-7.6,-7.6l-22.4,0Z" class="g2_98" />
+<path d="M162.2,50.7c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.5,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_98" />
+<path d="M162.7,391.1c-0.1,0,-7.6,0.1,-7.6,7.6l0,19.7c0,0.1,0.1,7.7,7.6,7.7l22.4,0c0.1,0,7.7,-0.1,7.7,-7.7l0,-19.7c0,0,-0.1,-7.6,-7.7,-7.6l-22.4,0Z" class="g2_98" />
+<path d="M162.7,393.1c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.6,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.5,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_98" />
+<path d="M146.9,544.5l0,71.4l0,0.8l0.8,0l667.3,0l0.8,0l0,-0.8l0,-71.4l0,-0.8l-0.8,0l-667.3,0l-0.8,0l0,0.8Z" class="g2_98" />
+<path d="M149,614.7l664.8,0l0,-68.9l-664.8,0l0,68.9Z" class="g3_98" />
+<path d="M161.6,724.8c-0.1,0,-7.7,0.1,-7.7,7.7l0,19.7c0,0,0.1,7.6,7.7,7.6l22.4,0c0.1,0,7.6,-0.1,7.6,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.6,-7.7l-22.4,0Z" class="g2_98" />
+<path d="M161.6,726.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_98" />
+<path d="M163.1,946.8c-0.1,0,-7.6,0.1,-7.6,7.7l0,19.7c0,0,0.1,7.6,7.6,7.6l22.4,0c0.1,0,7.7,-0.1,7.7,-7.6l0,-19.7c0,-0.1,-0.1,-7.7,-7.7,-7.7l-22.4,0Z" class="g2_98" />
+<path d="M163.1,948.9c-0.6,0,-5.6,0.2,-5.6,5.6l0,19.7c0,0.5,0.2,5.6,5.6,5.6l22.4,0c0.6,0,5.6,-0.2,5.6,-5.6l0,-19.7c0,-0.6,-0.2,-5.6,-5.6,-5.6l-22.4,0Z" class="g3_98" />
+<path d="M876.9,1141.6l57.3,0l0,-1154.5l-57.3,0l0,1154.5Z" class="g4_98" />
+<text 
+x="882" 
+y="1166" 
+dx="0,1.2,0" 
+class="s12_98"
+>75 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 736)"
+dx="0,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2" 
+class="s13_98"
+>Lesson 13 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 825)"
+dx="0,1.2" 
+class="s13_98"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 842)"
+dx="0,1.2,1.2,0.1,1.2,1.2,1.2,1.2,1,1.2,1.2,0.2,1.2,1.2,1.2,1.2,1.2" 
+class="s13_98"
+>A Trip to Yunnan </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 981)"
+dx="0,1.2" 
+class="s13_98"
+>| </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 888, 999)"
+dx="0,0.2,1.2,1,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,1.2,0" 
+class="s13_98"
+>Words &amp; Phrases </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: LibreFranklin-Bold_cpn;
+	src: url("fonts/LibreFranklin-Bold_cpn.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_cdn;
+	src: url("fonts/STKaiti-SC-Bold_cdn.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Regular_cev;
+	src: url("fonts/STKaiTi-TC-Regular_cev.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiTi-TC-Bold_cdt;
+	src: url("fonts/STKaiTi-TC-Bold_cdt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-ExtraBold_cpo;
+	src: url("fonts/LibreFranklin-ExtraBold_cpo.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-SemiBold_cr6;
+	src: url("fonts/LibreFranklin-SemiBold_cr6.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Regular_cf1;
+	src: url("fonts/STKaiti-SC-Regular_cf1.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Medium_cpt;
+	src: url("fonts/LibreFranklin-Medium_cpt.woff") format("woff");
+}
+
+@font-face {
+	font-family: LibreFranklin-Regular_cpx;
+	src: url("fonts/LibreFranklin-Regular_cpx.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

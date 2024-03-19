@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 354 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_354{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.6194444;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_354{
+fill: #3986C6;
+}
+.g3_354{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_354{
+fill: #ACBF3B;
+}
+.g5_354{
+fill: #DCDDDF;
+}
+.g6_354{
+fill: none;
+stroke: #939598;
+stroke-width: 0.38194445;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_354{
+fill: none;
+stroke: #231F20;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_354{
+fill: none;
+stroke: #ACBF3B;
+stroke-width: 2.2916667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_354{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.1458334;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_354{
+fill: #FFFFFF;
+}
+.g11_354{
+fill: none;
+stroke: #ACBF3B;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g12_354{
+fill: none;
+stroke: #3986C6;
+stroke-width: 1.5277778;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_354{
+font-size: 12.99px;
+font-family: ProximaNova-Semibold_db4;
+fill: #231F20;
+}
+.s2_354{
+font-size: 18.33px;
+font-family: ProximaNova-Bold_da-;
+fill: #231F20;
+}
+.s3_354{
+font-size: 19.10px;
+font-family: Alegreya-Regular_db1;
+fill: #231F20;
+}
+.s4_354{
+font-size: 32.08px;
+font-family: STKaitiSC-Bold_cmk;
+fill: #3986C6;
+}
+.s5_354{
+font-size: 32.08px;
+font-family: STKaitiSC-Regular_cof;
+fill: #231F20;
+}
+.s6_354{
+font-size: 19.10px;
+font-family: Alegreya-Bold_db6;
+fill: #3986C6;
+}
+.s7_354{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_da-;
+fill: #FFFFFF;
+}
+.s8_354{
+font-size: 25.97px;
+font-family: ProximaNova-Bold_da-;
+fill: #231F20;
+}
+.s9_354{
+font-size: 13.75px;
+font-family: ProximaNova-Extrabld_db2;
+fill: #FFFFFF;
+}
+.s10_354{
+font-size: 19.10px;
+font-family: Alegreya-Bold_db6;
+fill: #231F20;
+}
+.s11_354{
+font-size: 32.08px;
+font-family: STKaiti_c-m;
+fill: #3986C6;
+}
+.s12_354{
+font-size: 19.86px;
+font-family: ProximaNova-Bold_da-;
+fill: #231F20;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+transform="matrix(0, 1, -1, 0, 867, 835)"
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_354"
+>Chapter 14 </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 904)"
+dx="0,0" 
+class="s1_354"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 916)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_354"
+>Making Progress </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1020)"
+dx="0,0" 
+class="s1_354"
+>• </text>
+
+<text 
+transform="matrix(0, 1, -1, 0, 867, 1031)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_354"
+>Section 1</text>
+
+<text 
+x="857" 
+y="1149" 
+dx="0,0,0" 
+class="s2_354"
+>331</text>
+
+<path d="M872.3,1089.3l0,38.7" class="g1_354" />
+<path d="M872.3,1125.4c-1.5,0,-2.6,1.1,-2.6,2.6c0,1.4,1.1,2.6,2.6,2.6c1.4,0,2.6,-1.2,2.6,-2.6c0,-1.5,-1.2,-2.6,-2.6,-2.6Z" class="g2_354" />
+<text 
+x="89" 
+y="161" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,-0.2,0,0,-0.4,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.6,-0.4,0,0,0,0,0,0" 
+class="s3_354"
+>Listen to the audio and try to understand as much as you can. Then read the dialogue, using </text>
+
+<text 
+x="90" 
+y="187" 
+dx="0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.3,0,-0.2,0,-0.4,-0.4" 
+class="s3_354"
+>the pinyin text and vocabulary list to figure out unfamiliar words. </text>
+
+<text 
+x="149" 
+y="250" 
+dx="0,0" 
+class="s4_354"
+>以前</text>
+
+<text 
+x="213" 
+y="251" 
+dx="0" 
+class="s5_354"
+>我</text>
+
+<text 
+x="245" 
+y="250" 
+dx="0,0" 
+class="s4_354"
+>以为</text>
+
+<text 
+x="310" 
+y="251" 
+dx="0,0,0,0" 
+class="s5_354"
+>中文不太</text>
+
+<text 
+x="150" 
+y="287" 
+dx="0,0,0" 
+class="s5_354"
+>好学，</text>
+
+<text 
+x="247" 
+y="287" 
+dx="0,0" 
+class="s4_354"
+>但是</text>
+
+<text 
+x="311" 
+y="287" 
+dx="0,0,0,0,0" 
+class="s5_354"
+>现在我觉得</text>
+
+<text 
+x="146" 
+y="324" 
+dx="0,0,0" 
+class="s5_354"
+>中文学</text>
+
+<text 
+x="242" 
+y="324" 
+dx="0,0" 
+class="s4_354"
+>起来</text>
+
+<text 
+x="306" 
+y="324" 
+dx="0" 
+class="s5_354"
+>挺</text>
+
+<text 
+x="338" 
+y="324" 
+dx="0,0" 
+class="s4_354"
+>容易</text>
+
+<text 
+x="402" 
+y="324" 
+dx="0,0" 
+class="s5_354"
+>的！</text>
+
+<text 
+x="148" 
+y="383" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s5_354"
+>是啊，而且我觉得中文</text>
+
+<text 
+x="149" 
+y="419" 
+dx="0" 
+class="s5_354"
+>的</text>
+
+<text 
+x="181" 
+y="419" 
+dx="0,0" 
+class="s4_354"
+>语法</text>
+
+<text 
+x="245" 
+y="419" 
+dx="0,0" 
+class="s5_354"
+>很好</text>
+
+<text 
+x="309" 
+y="419" 
+dx="0" 
+class="s4_354"
+>懂</text>
+
+<text 
+x="342" 
+y="419" 
+dx="0" 
+class="s5_354"
+>。</text>
+
+<text 
+x="530" 
+y="254" 
+dx="0,-0.9,0,0,0,0" 
+class="s6_354"
+>Yǐqián</text>
+
+<text 
+x="585" 
+y="254" 
+dx="0,-0.3,0" 
+class="s3_354"
+>wǒ </text>
+
+<text 
+x="611" 
+y="254" 
+dx="0,0,0,-0.2,0" 
+class="s6_354"
+>yǐwéi</text>
+
+<text 
+x="658" 
+y="254" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0" 
+class="s3_354"
+>Zhōngwén bú tài </text>
+
+<text 
+x="531" 
+y="291" 
+dx="0,0,0,0,0,0,0,-0.6,-0.4" 
+class="s3_354"
+>hǎo xué, </text>
+
+<text 
+x="600" 
+y="291" 
+dx="0,0,0,0,0,0" 
+class="s6_354"
+>dànshì</text>
+
+<text 
+x="657" 
+y="291" 
+dx="0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0" 
+class="s3_354"
+>xiànzài wǒ juéde </text>
+
+<text 
+x="530" 
+y="326" 
+dx="0,0,0,0,0,0,-0.3,0,0,0,0,0,0" 
+class="s3_354"
+>Zhōngwén xué </text>
+
+<text 
+x="649" 
+y="326" 
+dx="0,0,0,0,0,0" 
+class="s6_354"
+>qǐ lái</text>
+
+<text 
+x="691" 
+y="326" 
+dx="0,0,0,0,0" 
+class="s3_354"
+>tǐng </text>
+
+<text 
+x="727" 
+y="326" 
+dx="0,-0.2,0,0,0,0" 
+class="s6_354"
+>róngyì</text>
+
+<text 
+x="782" 
+y="326" 
+dx="0,0,0" 
+class="s3_354"
+>de!</text>
+
+<text 
+x="531" 
+y="385" 
+dx="0,-0.2,0,0,0,0,-0.4,0,0,-0.2,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0" 
+class="s3_354"
+>Shì a, érqiě wǒ juéde Zhōngwén</text>
+
+<text 
+x="531" 
+y="422" 
+dx="0,0,0" 
+class="s3_354"
+>de </text>
+
+<text 
+x="554" 
+y="422" 
+dx="0,0,0,-0.1" 
+class="s6_354"
+>yǔfǎ</text>
+
+<text 
+x="592" 
+y="422" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_354"
+>hěn hǎo </text>
+
+<text 
+x="658" 
+y="422" 
+dx="0,0,0,0" 
+class="s6_354"
+>dǒng</text>
+
+<text 
+x="698" 
+y="422" 
+dx="0" 
+class="s3_354"
+>.</text>
+
+<path d="M107.8,120.8c-10.2,0,-18.4,-8.2,-18.4,-18.3l0,-20.2l23.2,0c10.1,0,18.3,8.2,18.3,18.4l0,20.1Z" class="g2_354" />
+<path d="M98.9,82.8l508.8,0" class="g3_354" />
+<path d="M112.7,120.3l495,0" class="g3_354" />
+<text 
+x="97" 
+y="109" 
+dx="0,0,0" 
+class="s7_354"
+>1b </text>
+
+<text 
+x="140" 
+y="109" 
+dx="0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s8_354"
+>New Words in Conversation </text>
+
+<path d="M490.4,112.1c-6,0,-10.8,-4.8,-10.8,-10.8l0,-10.9l114.3,0c6,0,10.8,4.9,10.8,10.9l0,10.8Z" class="g4_354" />
+<text 
+x="495" 
+y="104" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s9_354"
+>³µt²·P·²t³V²</text>
+
+<image preserveAspectRatio="none" x="89" y="231" width="47" height="54" xlink:href="354/img/1.png" />
+<image preserveAspectRatio="none" x="89" y="367" width="47" height="28" xlink:href="354/img/2.png" />
+<image preserveAspectRatio="none" x="89" y="395" width="47" height="28" xlink:href="354/img/3.png" />
+<path d="M90.2,699l54.9,0l0,36.3l-54.9,0l0,-36.3Zm54.9,0l130.4,0l0,36.3l-130.4,0l0,-36.3Zm130.4,0l135.7,0l0,36.3l-135.7,0l0,-36.3Zm135.7,0l394,0l0,36.3l-394,0l0,-36.3Z" class="g5_354" />
+<path d="M90.2,779.3l54.9,0" class="g6_354" />
+<path d="M145.1,779.3l130.4,0" class="g6_354" />
+<path d="M275.5,779.3l135.7,0" class="g6_354" />
+<path d="M411.2,779.3l394,0" class="g6_354" />
+<path d="M90.2,823.3l54.9,0" class="g6_354" />
+<path d="M145.1,823.3l130.4,0" class="g6_354" />
+<path d="M275.5,823.3l135.7,0" class="g6_354" />
+<path d="M411.2,823.3l394,0" class="g6_354" />
+<path d="M90.2,867.3l54.9,0" class="g6_354" />
+<path d="M145.1,867.3l130.4,0" class="g6_354" />
+<path d="M275.5,867.3l135.7,0" class="g6_354" />
+<path d="M411.2,867.3l394,0" class="g6_354" />
+<path d="M90.2,928.4l54.9,0" class="g6_354" />
+<path d="M145.1,928.4l130.4,0" class="g6_354" />
+<path d="M275.5,928.4l135.7,0" class="g6_354" />
+<path d="M411.2,928.4l394,0" class="g6_354" />
+<path d="M90.2,972.4l54.9,0" class="g6_354" />
+<path d="M145.1,972.4l130.4,0" class="g6_354" />
+<path d="M275.5,972.4l135.7,0" class="g6_354" />
+<path d="M411.2,972.4l394,0" class="g6_354" />
+<path d="M90.2,1016.4l54.9,0" class="g6_354" />
+<path d="M145.1,1016.4l130.4,0" class="g6_354" />
+<path d="M275.5,1016.4l135.7,0" class="g6_354" />
+<path d="M411.2,1016.4l394,0" class="g6_354" />
+<path d="M90.2,1060.4l54.9,0" class="g7_354" />
+<path d="M145.1,1060.4l130.4,0" class="g7_354" />
+<path d="M275.5,1060.4l135.7,0" class="g7_354" />
+<path d="M411.2,1060.4l394,0" class="g7_354" />
+<text 
+x="163" 
+y="724" 
+dx="0,-0.7,0,0" 
+class="s2_354"
+>Word</text>
+
+<text 
+x="294" 
+y="724" 
+dx="0,0,0,0,0,0" 
+class="s2_354"
+>Pinyin</text>
+
+<text 
+x="430" 
+y="724" 
+dx="0,0,0,0,0,0,0" 
+class="s2_354"
+>Meaning</text>
+
+<text 
+x="108" 
+y="765" 
+dx="0" 
+class="s10_354"
+>1</text>
+
+<text 
+x="158" 
+y="765" 
+dx="0,0" 
+class="s11_354"
+>以前</text>
+
+<text 
+x="293" 
+y="765" 
+dx="0,0,0,0,0,0" 
+class="s3_354"
+>yǐqián</text>
+
+<text 
+x="429" 
+y="763" 
+dx="0,0,0,-0.3,0,-0.2,-0.6,0,1.9,0,0" 
+class="s3_354"
+>before, ago</text>
+
+<text 
+x="108" 
+y="809" 
+dx="0" 
+class="s10_354"
+>2</text>
+
+<text 
+x="158" 
+y="809" 
+dx="0,0" 
+class="s11_354"
+>以为</text>
+
+<text 
+x="293" 
+y="809" 
+dx="0,0,0,-0.3,0" 
+class="s3_354"
+>yǐwéi</text>
+
+<text 
+x="429" 
+y="809" 
+dx="0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,-0.2,0,0,0,0" 
+class="s3_354"
+>to mistakenly think, to assume incorrectly</text>
+
+<text 
+x="108" 
+y="853" 
+dx="0" 
+class="s10_354"
+>3</text>
+
+<text 
+x="161" 
+y="853" 
+dx="0,0" 
+class="s11_354"
+>但是</text>
+
+<text 
+x="294" 
+y="853" 
+dx="0,0,0,0,0,0" 
+class="s3_354"
+>dànshì</text>
+
+<text 
+x="429" 
+y="851" 
+dx="0,0,0,0,0,1.9,0,-0.3,-0.3,0,-0.3,0" 
+class="s3_354"
+>but, however</text>
+
+<text 
+x="107" 
+y="905" 
+dx="0" 
+class="s10_354"
+>4</text>
+
+<text 
+x="161" 
+y="905" 
+dx="0,0" 
+class="s11_354"
+>起来</text>
+
+<text 
+x="294" 
+y="903" 
+dx="0,0,0,1.9,0,0" 
+class="s3_354"
+>qǐ lái</text>
+
+<text 
+x="429" 
+y="892" 
+dx="0,0,0,0,-0.3,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_354"
+>(a word that follows a verb and is used to </text>
+
+<text 
+x="429" 
+y="918" 
+dx="0,0,0,0,-0.2,0,0,0,-0.3,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0" 
+class="s3_354"
+>introduce an impression)</text>
+
+<text 
+x="108" 
+y="958" 
+dx="0" 
+class="s10_354"
+>5</text>
+
+<text 
+x="158" 
+y="958" 
+dx="0,0" 
+class="s11_354"
+>容易</text>
+
+<text 
+x="293" 
+y="958" 
+dx="0,-0.2,0,0,0,0" 
+class="s3_354"
+>róngyì</text>
+
+<text 
+x="430" 
+y="957" 
+dx="0,0,0,0" 
+class="s3_354"
+>easy</text>
+
+<text 
+x="108" 
+y="1002" 
+dx="0" 
+class="s10_354"
+>6</text>
+
+<text 
+x="160" 
+y="1002" 
+dx="0,0" 
+class="s11_354"
+>语法</text>
+
+<text 
+x="293" 
+y="1002" 
+dx="0,0,0,-0.2" 
+class="s3_354"
+>yǔfǎ</text>
+
+<text 
+x="429" 
+y="1002" 
+dx="0,0,-0.2,0,0,0,0" 
+class="s3_354"
+>grammar</text>
+
+<text 
+x="108" 
+y="1046" 
+dx="0" 
+class="s10_354"
+>7</text>
+
+<text 
+x="161" 
+y="1046" 
+dx="0" 
+class="s11_354"
+>懂</text>
+
+<text 
+x="294" 
+y="1046" 
+dx="0,0,0,0" 
+class="s3_354"
+>dǒng</text>
+
+<text 
+x="429" 
+y="1044" 
+dx="0,0,0,1.9,0,0,0,0,0,0,0,0,0" 
+class="s3_354"
+>to understand</text>
+
+<text 
+x="674" 
+y="541" 
+dx="0" 
+class="s6_354"
+>T</text>
+
+<text 
+x="716" 
+y="541" 
+dx="0" 
+class="s6_354"
+>F</text>
+
+<text 
+x="140" 
+y="577" 
+dx="0" 
+class="s6_354"
+>1</text>
+
+<text 
+x="163" 
+y="577" 
+dx="0,-0.2,0,-0.3,0,-0.2,-0.6,-0.4,0,0.2,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s3_354"
+>Before, Owen assumed that Chinese was not easy to learn. </text>
+
+<path d="M680.1,579.7c5.8,0,10.5,-4.7,10.5,-10.5c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g8_354" />
+<path d="M721.8,579.7c5.7,0,10.4,-4.7,10.4,-10.5c0,-5.8,-4.7,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.8,4.7,10.5,10.5,10.5Z" class="g8_354" />
+<text 
+x="140" 
+y="612" 
+dx="0" 
+class="s6_354"
+>2</text>
+
+<text 
+x="163" 
+y="612" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.4" 
+class="s3_354"
+>Ellen thinks that Chinese grammar is easy to understand. </text>
+
+<path d="M680.1,615.1c5.8,0,10.5,-4.7,10.5,-10.4c0,-5.8,-4.7,-10.5,-10.5,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.7,4.7,10.4,10.5,10.4Z" class="g8_354" />
+<path d="M721.8,615.1c5.7,0,10.4,-4.7,10.4,-10.4c0,-5.8,-4.7,-10.5,-10.4,-10.5c-5.8,0,-10.5,4.7,-10.5,10.5c0,5.7,4.7,10.4,10.5,10.4Z" class="g8_354" />
+<path d="M90.7,578.6l0,-60.5l330.4,0" class="g9_354" />
+<path d="M421.1,520.9c1.5,0,2.7,-1.3,2.7,-2.8c0,-1.5,-1.2,-2.7,-2.7,-2.7c-1.5,0,-2.8,1.2,-2.8,2.7c0,1.5,1.3,2.8,2.8,2.8Z" class="g2_354" />
+<path d="M106.1,532l223,0l0,-24.9l-223,0l0,24.9Z" class="g10_354" />
+<text 
+x="115" 
+y="522" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s12_354"
+>Comprehension Check</text>
+
+<path d="M384.9,509.7c5.5,10.8,1.2,23.9,-9.5,29.4c-10.7,5.5,-23.9,1.2,-29.4,-9.5c-5.5,-10.7,-1.2,-23.9,9.5,-29.4c10.8,-5.5,23.9,-1.2,29.4,9.5Z" class="g10_354" />
+<path d="M384.9,509.7c5.5,10.8,1.2,23.9,-9.5,29.4c-10.7,5.5,-23.9,1.2,-29.4,-9.5c-5.5,-10.7,-1.2,-23.9,9.5,-29.4c10.8,-5.5,23.9,-1.2,29.4,9.5Z" class="g3_354" />
+<path d="M392.5,497.9c-1.1,-1,-3,-0.7,-4.1,0.6l-20.5,24.4c-1.1,1.3,-3,1.4,-4.2,0.2l-2.9,-2.9c-1.2,-1.2,-3.1,-1.3,-4.2,-0.2c-1.1,1.1,-1,3,0.3,4.2l7.2,7.1c1.2,1.2,3.1,1.1,4.2,-0.2l24.4,-29c1.1,-1.3,1,-3.2,-0.2,-4.2Z" class="g4_354" />
+<path d="M392.5,497.9c-1.1,-1,-3,-0.7,-4.1,0.6l-20.5,24.4c-1.1,1.3,-3,1.4,-4.2,0.2l-2.9,-2.9c-1.2,-1.2,-3.1,-1.3,-4.2,-0.2c-1.1,1.1,-1,3,0.3,4.2l7.2,7.1c1.2,1.2,3.1,1.1,4.2,-0.2l24.4,-29c1.1,-1.3,1,-3.2,-0.2,-4.2Z" class="g11_354" />
+<path d="M205,682.1l601.9,0" class="g12_354" />
+<path d="M205,685.2c1.7,0,3.1,-1.4,3.1,-3.1c0,-1.7,-1.4,-3,-3.1,-3c-1.7,0,-3.1,1.3,-3.1,3c0,1.7,1.4,3.1,3.1,3.1Z" class="g2_354" />
+<text 
+x="88" 
+y="686" 
+dx="0,-1.2,0,0,0,0,0,0,0,0" 
+class="s12_354"
+>Vocabulary</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ProximaNova-Extrabld_db2;
+	src: url("fonts/ProximaNova-Extrabld_db2.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Bold_cmk;
+	src: url("fonts/STKaitiSC-Bold_cmk.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_da-;
+	src: url("fonts/ProximaNova-Bold_da-.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Bold_db6;
+	src: url("fonts/Alegreya-Bold_db6.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti_c-m;
+	src: url("fonts/STKaiti_c-m.woff") format("woff");
+}
+
+@font-face {
+	font-family: Alegreya-Regular_db1;
+	src: url("fonts/Alegreya-Regular_db1.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaitiSC-Regular_cof;
+	src: url("fonts/STKaitiSC-Regular_cof.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_db4;
+	src: url("fonts/ProximaNova-Semibold_db4.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

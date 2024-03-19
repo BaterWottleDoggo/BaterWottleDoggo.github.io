@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 251 -->
+<svg x="0" y="0" width="921" height="1196" viewBox="0 0 921 1196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+<clipPath id="c0_251"><path d="M0,1196.3L0,0L921.3,0l0,1196.3Z" /></clipPath>
+
+<style type="text/css"><![CDATA[
+
+.g1_251{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 3.0555556;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_251{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 2.1679168;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_251{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 0.7241667;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g4_251{
+fill: none;
+stroke: #C1BFBE;
+stroke-width: 0.9456945;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_251{
+fill: #FFFFFF;
+}
+.g6_251{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 5.278472;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+
+.s1_251{
+font-size: 29.03px;
+font-family: MuseoSlab-900_32s;
+fill: #FFFFFF;
+}
+.s2_251{
+font-size: 16.04px;
+font-family: ProximaNova-Semibold_32_;
+fill: #FFFFFF;
+}
+.s3_251{
+font-size: 19.10px;
+font-family: Marion-Italic_2si;
+fill: #FFFFFF;
+}
+.s4_251{
+font-size: 16.81px;
+font-family: ProximaNova-Semibold_32_;
+fill: #FFFFFF;
+}
+.s5_251{
+font-size: 22.92px;
+font-family: STKaiti-SC-Bold_2sb;
+fill: #A9CF38;
+}
+.s6_251{
+font-size: 44.31px;
+font-family: MyriadPro-Regular_33o;
+fill: #FFFFFF;
+}
+.s7_251{
+font-size: 21.31px;
+font-family: ProximaNova-Bold_32r;
+fill: #FFFFFF;
+}
+.s8_251{
+font-size: 59.87px;
+font-family: ProximaNova-Semibold_32_;
+fill: #C0BFBF;
+}
+.s9_251{
+font-size: 11.46px;
+font-family: ProximaNova-Semibold_32_;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1196
+L921,1196
+L921,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image preserveAspectRatio="none" x="0" y="0" width="380" height="326" xlink:href="251/img/1.png" />
+<image preserveAspectRatio="none" x="379" y="0" width="543" height="163" xlink:href="251/img/2.png" />
+<image preserveAspectRatio="none" x="379" y="162" width="55" height="164" xlink:href="251/img/3.png" />
+<image preserveAspectRatio="none" x="650" y="162" width="272" height="56" xlink:href="251/img/4.png" />
+<image preserveAspectRatio="none" x="867" y="217" width="55" height="980" xlink:href="251/img/5.png" />
+<image preserveAspectRatio="none" x="0" y="325" width="380" height="328" xlink:href="251/img/6.png" />
+<image preserveAspectRatio="none" x="379" y="489" width="55" height="708" xlink:href="251/img/7.png" />
+<image preserveAspectRatio="none" x="488" y="598" width="271" height="164" xlink:href="251/img/8.png" />
+<image preserveAspectRatio="none" x="813" y="598" width="55" height="599" xlink:href="251/img/9.png" />
+<image preserveAspectRatio="none" x="0" y="652" width="271" height="219" xlink:href="251/img/10.png" />
+<image preserveAspectRatio="none" x="270" y="652" width="110" height="110" xlink:href="251/img/11.png" />
+<image preserveAspectRatio="none" x="433" y="652" width="55" height="545" xlink:href="251/img/12.png" />
+<image preserveAspectRatio="none" x="759" y="652" width="54" height="110" xlink:href="251/img/13.png" />
+<image preserveAspectRatio="none" x="270" y="761" width="55" height="55" xlink:href="251/img/14.png" />
+<image preserveAspectRatio="none" x="325" y="815" width="55" height="110" xlink:href="251/img/15.png" />
+<image preserveAspectRatio="none" x="0" y="870" width="109" height="327" xlink:href="251/img/16.png" />
+<image preserveAspectRatio="none" x="325" y="978" width="55" height="219" xlink:href="251/img/17.png" />
+<image preserveAspectRatio="none" x="108" y="1033" width="55" height="164" xlink:href="251/img/18.png" />
+<image preserveAspectRatio="none" x="162" y="1087" width="163" height="110" xlink:href="251/img/19.png" />
+<image preserveAspectRatio="none" x="488" y="1142" width="325" height="55" xlink:href="251/img/20.png" />
+<image preserveAspectRatio="none" x="455" y="715" width="372" height="327" xlink:href="251/img/21.png" />
+<image preserveAspectRatio="none" x="455" y="1041" width="372" height="109" xlink:href="251/img/22.png" />
+<path d="M473.6,715.7L455.3,734l0,397.4l18.3,18.3l334.3,0l18.3,-18.3l0,-397.4L807.9,715.7l-334.3,0Z" class="g1_251" />
+<text 
+x="27" 
+y="96" 
+dx="0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0,0,-0.2,0" 
+class="s1_251"
+>CULTURAL LITERACY</text>
+
+<g clip-path="url(#c0_251)">
+<path d="M-13.7,56.1l441.2,0l1.1,0l0,1.1l0,57.5l0,1.1l-1.1,0l-441.2,0" class="g2_251" />
+<path d="M-13.7,59l439.4,0l0,53.9l-439.4,0" class="g3_251" />
+</g>
+<text 
+x="477" 
+y="807" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>Applicants to Chinese universities and colleges </text>
+
+<text 
+x="477" 
+y="827" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.7,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>are required to take the National Higher </text>
+
+<text 
+x="477" 
+y="847" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>Education Entrance Examination, also known as </text>
+
+<text 
+x="477" 
+y="870" 
+dx="0,0,0,0,0,0" 
+class="s3_251"
+>Gaokao</text>
+
+<text 
+x="532" 
+y="870" 
+dx="0" 
+class="s4_251"
+>(</text>
+
+<text 
+x="537" 
+y="870" 
+dx="0,-0.5" 
+class="s5_251"
+>高考</text>
+
+<text 
+x="582" 
+y="870" 
+dx="0" 
+class="s4_251"
+>)</text>
+
+<text 
+x="590" 
+y="870" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_251"
+>(gāo kǎo)</text>
+
+<text 
+x="650" 
+y="870" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>. In 2015, more than </text>
+
+<text 
+x="477" 
+y="890" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>nine million people took the test. The admission </text>
+
+<text 
+x="477" 
+y="910" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>rate was about 75%. Although the majority of </text>
+
+<text 
+x="477" 
+y="929" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.7,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.4,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>applicants make it into college, only those with </text>
+
+<text 
+x="477" 
+y="952" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s2_251"
+>the highest scores are admitted into a</text>
+
+<text 
+x="477" 
+y="974" 
+dx="0,-0.5,-0.5,-0.5" 
+class="s5_251"
+>一本大学</text>
+
+<text 
+x="571" 
+y="974" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_251"
+>(yī běn dàxué) </text>
+
+<text 
+x="668" 
+y="974" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>(first-tier university). </text>
+
+<text 
+x="477" 
+y="997" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s2_251"
+>Others go to a</text>
+
+<text 
+x="579" 
+y="997" 
+dx="0,-0.5,-0.5,-0.5" 
+class="s5_251"
+>二本大学</text>
+
+<text 
+x="673" 
+y="997" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_251"
+>(èr běn dàxué) </text>
+
+<text 
+x="477" 
+y="1020" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s2_251"
+>(second-tier university),</text>
+
+<text 
+x="639" 
+y="1020" 
+dx="0,-0.5,-0.5,-0.5" 
+class="s5_251"
+>三本大学</text>
+
+<text 
+x="734" 
+y="1020" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s3_251"
+>(sān běn </text>
+
+<text 
+x="477" 
+y="1041" 
+dx="0,0,0,0,0,0,0" 
+class="s3_251"
+>dàxué) </text>
+
+<text 
+x="525" 
+y="1041" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>(third-tier university), or higher vocational </text>
+
+<text 
+x="477" 
+y="1062" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.4,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s2_251"
+>college. Compare </text>
+
+<text 
+x="602" 
+y="1062" 
+dx="0,0,0,0,0,0" 
+class="s3_251"
+>Gaokao</text>
+
+<text 
+x="657" 
+y="1062" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>and the equivalent </text>
+
+<text 
+x="477" 
+y="1082" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-1.2,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>standardized test in your own country, and </text>
+
+<text 
+x="477" 
+y="1102" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>discuss the advantages and disadvantages of </text>
+
+<text 
+x="477" 
+y="1122" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3" 
+class="s2_251"
+>different college admission processes.</text>
+
+<text 
+x="85" 
+y="310" 
+dx="0,-0.6,-0.9,-0.9,-0.9,-0.9,-1.2,-0.9,-0.9" 
+class="s6_251"
+>Semesters</text>
+
+<text 
+x="85" 
+y="344" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>Colleges and universities in </text>
+
+<text 
+x="85" 
+y="364" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>both Mainland China and </text>
+
+<text 
+x="85" 
+y="383" 
+dx="0,-1.7,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>Taiwan are on the semester </text>
+
+<text 
+x="85" 
+y="403" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-1.6,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-1.2,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>system. Typically, the fall </text>
+
+<text 
+x="85" 
+y="423" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>semester starts in late August </text>
+
+<text 
+x="85" 
+y="443" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-1.7,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>or early September, and ends </text>
+
+<text 
+x="85" 
+y="463" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-1.2,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>in mid-January. The winter </text>
+
+<text 
+x="85" 
+y="483" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>break lasts about a month. </text>
+
+<text 
+x="85" 
+y="503" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-2.3,-0.3,-0.3,0" 
+class="s2_251"
+>Since the Chinese New Year </text>
+
+<text 
+x="85" 
+y="523" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>usually falls in late January </text>
+
+<text 
+x="85" 
+y="542" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-1.2,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>or early February, college </text>
+
+<text 
+x="85" 
+y="562" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.7,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>students can take advantage </text>
+
+<text 
+x="85" 
+y="582" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>of the break to go home and </text>
+
+<text 
+x="85" 
+y="602" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>celebrate the most important </text>
+
+<text 
+x="85" 
+y="622" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>holiday of the year with their </text>
+
+<text 
+x="85" 
+y="642" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>families. The spring semester </text>
+
+<text 
+x="85" 
+y="662" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>starts around mid-February </text>
+
+<text 
+x="85" 
+y="681" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-1.2,-0.3,-0.3,0" 
+class="s2_251"
+>and lasts until early July. A </text>
+
+<text 
+x="85" 
+y="701" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>semester at a Chinese college </text>
+
+<text 
+x="85" 
+y="721" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.5,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>is about three weeks longer </text>
+
+<text 
+x="85" 
+y="741" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,0" 
+class="s2_251"
+>than a typical American </text>
+
+<text 
+x="85" 
+y="761" 
+dx="0,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-0.3,-1.7" 
+class="s2_251"
+>college semester.</text>
+
+<path d="M525.1,764.9l101.6,0" class="g4_251" />
+<path d="M525.1,766.8l101.6,0" class="g4_251" />
+<text 
+x="525" 
+y="760" 
+dx="0,0,0,0,-1.6,0,0" 
+class="s7_251"
+>COMPARE</text>
+
+<text 
+x="620" 
+y="772" 
+dx="0" 
+class="s8_251"
+>&amp;</text>
+
+<path d="M646.2,764.9l117.5,0" class="g4_251" />
+<path d="M646.2,766.8l117.5,0" class="g4_251" />
+<text 
+x="651" 
+y="760" 
+dx="0,0,0,0,0,0,-0.1,-0.1" 
+class="s7_251"
+>CONTRAST</text>
+
+<image preserveAspectRatio="none" x="373" y="93" width="220" height="207" xlink:href="251/img/23.png" />
+<image preserveAspectRatio="none" x="592" y="93" width="56" height="207" xlink:href="251/img/24.png" />
+<image preserveAspectRatio="none" x="647" y="144" width="165" height="104" xlink:href="251/img/25.png" />
+<image preserveAspectRatio="none" x="866" y="196" width="56" height="208" xlink:href="251/img/26.png" />
+<image preserveAspectRatio="none" x="318" y="248" width="56" height="208" xlink:href="251/img/27.png" />
+<image preserveAspectRatio="none" x="350" y="213" width="574" height="450" xlink:href="251/img/28.png" />
+<path d="M340.2,300.5l0.8,4.4l4.4,-0.8l-4.4,0.8l68.4,368.6L921.2,578.6l0,-9L416.5,663.2L350.6,307.6l507.5,-94l63.1,340.5l0,-48.7l-56,-302.2Z" class="g5_251" />
+<image preserveAspectRatio="none" x="159" y="797" width="157" height="95" xlink:href="251/img/29.png" />
+<image preserveAspectRatio="none" x="316" y="844" width="105" height="143" xlink:href="251/img/30.png" />
+<image preserveAspectRatio="none" x="54" y="844" width="105" height="143" xlink:href="251/img/31.png" />
+<image preserveAspectRatio="none" x="159" y="892" width="157" height="95" xlink:href="251/img/32.png" />
+<image preserveAspectRatio="none" x="264" y="987" width="157" height="95" xlink:href="251/img/33.png" />
+<image preserveAspectRatio="none" x="107" y="987" width="157" height="95" xlink:href="251/img/34.png" />
+<image preserveAspectRatio="none" x="54" y="987" width="53" height="95" xlink:href="251/img/35.png" />
+<image preserveAspectRatio="none" x="107" y="1081" width="314" height="48" xlink:href="251/img/36.png" />
+<image preserveAspectRatio="none" x="21" y="818" width="417" height="316" xlink:href="251/img/37.png" />
+<path d="M404.8,909.8l-40.1,216.8l-307.2,-57L97.7,852.9l307.1,56.9Z" class="g6_251" />
+<image preserveAspectRatio="none" x="713" y="568" width="57" height="49" xlink:href="251/img/38.png" />
+<image preserveAspectRatio="none" x="765" y="575" width="57" height="48" xlink:href="251/img/39.png" />
+<image preserveAspectRatio="none" x="817" y="581" width="57" height="49" xlink:href="251/img/40.png" />
+<image preserveAspectRatio="none" x="708" y="610" width="57" height="49" xlink:href="251/img/41.png" />
+<image preserveAspectRatio="none" x="760" y="617" width="57" height="49" xlink:href="251/img/42.png" />
+<image preserveAspectRatio="none" x="812" y="623" width="57" height="49" xlink:href="251/img/43.png" />
+<image preserveAspectRatio="none" x="703" y="653" width="57" height="48" xlink:href="251/img/44.png" />
+<image preserveAspectRatio="none" x="755" y="659" width="57" height="49" xlink:href="251/img/45.png" />
+<image preserveAspectRatio="none" x="807" y="665" width="57" height="49" xlink:href="251/img/46.png" />
+<image preserveAspectRatio="none" x="772" y="594" width="43" height="24" xlink:href="251/img/47.png" />
+<image preserveAspectRatio="none" x="719" y="520" width="57" height="50" xlink:href="251/img/48.png" />
+<image preserveAspectRatio="none" x="771" y="526" width="57" height="51" xlink:href="251/img/49.png" />
+<image preserveAspectRatio="none" x="823" y="533" width="57" height="50" xlink:href="251/img/50.png" />
+<image preserveAspectRatio="none" x="714" y="564" width="57" height="51" xlink:href="251/img/51.png" />
+<image preserveAspectRatio="none" x="766" y="570" width="57" height="51" xlink:href="251/img/52.png" />
+<image preserveAspectRatio="none" x="817" y="577" width="58" height="50" xlink:href="251/img/53.png" />
+<image preserveAspectRatio="none" x="768" y="565" width="55" height="36" xlink:href="251/img/54.png" />
+<image preserveAspectRatio="none" x="820" y="572" width="55" height="35" xlink:href="251/img/55.png" />
+<image preserveAspectRatio="none" x="713" y="588" width="55" height="36" xlink:href="251/img/56.png" />
+<image preserveAspectRatio="none" x="764" y="595" width="56" height="35" xlink:href="251/img/57.png" />
+<image preserveAspectRatio="none" x="296" y="729" width="47" height="45" xlink:href="251/img/58.png" />
+<image preserveAspectRatio="none" x="338" y="724" width="46" height="45" xlink:href="251/img/59.png" />
+<image preserveAspectRatio="none" x="301" y="769" width="46" height="45" xlink:href="251/img/60.png" />
+<image preserveAspectRatio="none" x="342" y="765" width="47" height="45" xlink:href="251/img/61.png" />
+<image preserveAspectRatio="none" x="347" y="805" width="46" height="45" xlink:href="251/img/62.png" />
+<image preserveAspectRatio="none" x="302" y="785" width="34" height="36" xlink:href="251/img/63.png" />
+<image preserveAspectRatio="none" x="332" y="782" width="34" height="36" xlink:href="251/img/64.png" />
+<image preserveAspectRatio="none" x="306" y="818" width="33" height="36" xlink:href="251/img/65.png" />
+<image preserveAspectRatio="none" x="336" y="815" width="33" height="36" xlink:href="251/img/66.png" />
+<text 
+x="18" 
+y="1182" 
+dx="0,0.3,0.3" 
+class="s9_251"
+>230</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Marion-Italic_2si;
+	src: url("fonts/Marion-Italic_2si.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Bold_32r;
+	src: url("fonts/ProximaNova-Bold_32r.woff") format("woff");
+}
+
+@font-face {
+	font-family: ProximaNova-Semibold_32_;
+	src: url("fonts/ProximaNova-Semibold_32_.woff") format("woff");
+}
+
+@font-face {
+	font-family: MuseoSlab-900_32s;
+	src: url("fonts/MuseoSlab-900_32s.woff") format("woff");
+}
+
+@font-face {
+	font-family: STKaiti-SC-Bold_2sb;
+	src: url("fonts/STKaiti-SC-Bold_2sb.woff") format("woff");
+}
+
+@font-face {
+	font-family: MyriadPro-Regular_33o;
+	src: url("fonts/MyriadPro-Regular_33o.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
